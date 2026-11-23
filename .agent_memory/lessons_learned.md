@@ -620,3 +620,8 @@
 - **Symptom:** Nghiên cứu TubeLab cho 1 tập (comment-mining / title-formulas / thumbnail-concepts) trả về rác: tìm "hải ly" ra nhạc Lý Hải, ca sĩ Phan Hải Lý, phim review, game Play Together; loài hiếm (nhện lặn chuông) tìm tiếng Việt ra 0 kết quả.
 - **Ruled-out Dead-end:** Tìm yt-dlp theo tên loài rồi tin hết kết quả; so khớp tên bỏ dấu hoặc không theo nguyên từ; chỉ tìm tiếng Việt.
 - **Verified Golden Path:** Dùng `src/seo/episode_research.py`: tìm "<loài> động vật" + "<loài>", chỉ giữ video có tên loài NGUYÊN TỪ, ĐÚNG DẤU trong tiêu đề, bỏ phim/nhạc/game/truyện (`OFF_TOPIC`); loài hiếm thêm `--en "English name"`. Dữ liệu mỏng thì báo cáo ghi cảnh báo ⚠️, không bịa kết luận.
+
+### [LESSON-101] (2026-11-23)
+- **Symptom:** Chuyển dự án sang máy khác thì gãy: `config/channel.json` chứa đường dẫn cứng `C:\Users\PC\...` (Chrome profile), `tools/` + `node_modules` + 70 GB video không đưa lên git được; `config/local.json` ghi bằng PowerShell 5 `Set-Content -Encoding utf8` có BOM làm Node `JSON.parse` lỗi.
+- **Ruled-out Dead-end:** Sửa thẳng `channel.json` theo từng máy (xung đột git); đẩy cả `projects/` lên GitHub (file > 100 MB bị từ chối); ghi JSON bằng `Set-Content -Encoding utf8`.
+- **Verified Golden Path:** Repo `github.com/hytruong-dev/wildlife-comic-studio` + `SETUP_MAY_MOI.md` + `scripts/setup_new_machine.ps1` (cài + kiểm, `-CheckOnly`). Cấu hình riêng máy ở `config/local.json` (gitignore) đọc đè qua `src/episode/channel_config.cjs` và `pipeline.py`, cả hai bỏ BOM. `requirements.txt` khóa phiên bản, 8 repo `tools/` khóa commit, bản vá ảnh bàn tay ở `assets/vendor_patches/`. Git chỉ giữ `episode.json`/`specs/`/`audio/*.json` của mỗi tập.

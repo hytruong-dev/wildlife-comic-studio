@@ -1,0 +1,884 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "PHÁO THỦ HÓA HỌC 2CM BẮN TIA HƠI SÔI 100°C",
+   "hook": "SINH VẬT 2CM SỞ HỮU VŨ KHÍ HÓA HỌC SÔI SÙNG SỤC",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mở khóa toàn bộ",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Toàn đội kỹ thuật",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quên đi những nọc",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đối tượng mang mã",
+     "image": "assets/long/L05.png",
+     "stickers": [
+      {
+       "at": "1,5cm",
+       "side": "L",
+       "y": 360,
+       "value": "1,5-2,5cm",
+       "label": "chiều dài cơ thể",
+       "target": [
+        0.32,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhìn bề ngoài, gã",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng trong danh mục",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi khi bị kẻ",
+     "image": "assets/long/L08.png",
+     "stickers": [
+      {
+       "at": "100°C",
+       "side": "R",
+       "y": 380,
+       "value": "100°C",
+       "label": "nhiệt độ hơi sôi",
+       "target": [
+        0.75,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hãy tưởng tượng bạn",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "20 m/s",
+       "side": "R",
+       "y": 360,
+       "value": "20 m/s",
+       "label": "vận tốc xé gió",
+       "target": [
+        0.72,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bất kỳ loài chim",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vậy điều kỳ diệu",
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "2cm",
+       "side": "L",
+       "y": 380,
+       "value": "2cm",
+       "label": "kích thước tí hon",
+       "target": [
+        0.28,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hãy cùng mở bản",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỒ SƠ VŨ KHÍ"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "HỆ THỐNG HAI BUỒNG TRỘN HÓA CHẤT NỔ NHỊ PHÂN",
+   "hook": "BÍ MẬT 2 BUỒNG CHỨA VÀ LỚP LÓT CHỊU NHIỆT",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Điểm cốt lõi giúp",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở phần trên của",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Buồng này chứa hỗn",
+     "image": "assets/long/L16.png",
+     "stickers": [
+      {
+       "at": "10%",
+       "side": "L",
+       "y": 360,
+       "value": "10%",
+       "label": "Hydroquinone",
+       "target": [
+        0.3,
+        0.52
+       ]
+      },
+      {
+       "at": "25%",
+       "side": "R",
+       "y": 420,
+       "value": "25%",
+       "label": "Hydrogen peroxide",
+       "target": [
+        0.72,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi hai chất này",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cảnh báo nhiệt độ",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "100°C",
+       "side": "R",
+       "y": 360,
+       "value": "100°C!",
+       "label": "nhiệt độ tới hạn",
+       "target": [
+        0.75,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Áp suất oxy tăng",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đúng như trợ lý",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nối giữa buồng chứa",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi con bọ siết",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tại buồng đốt thứ",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nơi đây đã được",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngay khoảnh khắc giọt",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Enzyme Catalase lập tức",
+     "image": "assets/long/L26.png",
+     "stickers": [
+      {
+       "at": "100°C",
+       "side": "L",
+       "y": 380,
+       "value": "100°C",
+       "label": "nhiệt lượng bùng nổ",
+       "target": [
+        0.32,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đồng thời, enzyme Peroxidase",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Toàn bộ chuỗi phản",
+     "image": "assets/long/L28.png",
+     "stickers": [
+      {
+       "at": "thể tích tí hon",
+       "side": "R",
+       "y": 360,
+       "value": "1/10 mm³",
+       "label": "thể tích buồng đốt",
+       "target": [
+        0.72,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ lớp vỏ chitin",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẢN VẼ CƠ KHÍ"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "ĐỘNG CƠ PHẢN LỰC XUNG 500 HZ VÀ THÁP PHÁO XOAY 270 ĐỘ",
+   "hook": "TỐC ĐỘ NỔ LIÊN THANH 500 ĐẾN 1000 LẦN MỖI GIÂY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng tạo hóa đã",
+     "image": "assets/long/L31.png",
+     "stickers": [
+      {
+       "at": "V-1",
+       "side": "L",
+       "y": 360,
+       "value": "TÊN LỬA V1",
+       "label": "động cơ phản lực xung",
+       "target": [
+        0.28,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi phát bắn của",
+     "image": "assets/long/L32.png",
+     "stickers": [
+      {
+       "at": "500 lần/giây",
+       "side": "R",
+       "y": 380,
+       "value": "500-1000Hz",
+       "label": "tần số nổ liên thanh",
+       "target": [
+        0.75,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Máy quay tốc độ",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sau đó, hơi sôi",
+     "image": "assets/long/L34.png",
+     "stickers": [
+      {
+       "at": "100°C",
+       "side": "R",
+       "y": 360,
+       "value": "100°C",
+       "label": "hơi nước khai hỏa",
+       "target": [
+        0.72,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Ngay khi luồng hơi",
+     "image": "assets/long/L35.png",
+     "stickers": [
+      {
+       "at": "500 Hz",
+       "side": "L",
+       "y": 380,
+       "value": "500 Hz",
+       "label": "chu kỳ tự nạp đạn",
+       "target": [
+        0.32,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đó là lý do",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tôi vừa vồ thử",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đừng bao giờ nghĩ",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đuôi của Pháo Thủ",
+     "image": "assets/long/L39.png",
+     "stickers": [
+      {
+       "at": "270°",
+       "side": "R",
+       "y": 380,
+       "value": "270°",
+       "label": "tháp pháo xoay tự do",
+       "target": [
+        0.72,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Kẻ thù tấn công",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí các thử",
+     "image": "assets/long/L41.png",
+     "stickers": [
+      {
+       "at": "2-3 mili-giây",
+       "side": "L",
+       "y": 360,
+       "value": "2-3 ms",
+       "label": "thời gian mỗi xung",
+       "target": [
+        0.3,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tốc độ phản xạ",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "ĐỘNG CƠ XUNG"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "BỊ CÓC NUỐT SUỐT 1 TIẾNG VÀ MÀN NÔN ỌE TẨU THOÁT",
+   "hook": "THỬ THÁCH SỐNG SÓT BÊN TRONG DẠ DÀY CÓC KOBE",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L43.png",
+     "stickers": [
+      {
+       "at": "2018",
+       "side": "L",
+       "y": 360,
+       "value": "NĂM 2018",
+       "label": "thí nghiệm chấn động",
+       "target": [
+        0.32,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Họ muốn kiểm tra:",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Loài cóc Nhật Bản",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Pháo Thủ Hóa Học",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong bụng tôi như",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đúng như tiếng rên",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bị nhốt trong dạ",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó bình tĩnh kích",
+     "image": "assets/long/L51.png",
+     "stickers": [
+      {
+       "at": "100°C",
+       "side": "R",
+       "y": 380,
+       "value": "100°C",
+       "label": "nã đạn trong dạ dày",
+       "target": [
+        0.72,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cuộc chiến nội tạng",
+     "image": "assets/long/L52.png",
+     "stickers": [
+      {
+       "at": "15 phút",
+       "side": "L",
+       "y": 360,
+       "value": "15-107phút",
+       "label": "cuộc chiến sinh tử",
+       "target": [
+        0.32,
+        0.5
+       ]
+      },
+      {
+       "at": "40 phút",
+       "side": "R",
+       "y": 420,
+       "value": "TB 40 PHÚT",
+       "label": "thời gian cầm cự",
+       "target": [
+        0.75,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cuối cùng, con cóc",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó há to mồm,",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ọe một bãi nôn",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và từ trong đống",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thống kê chấn động",
+     "image": "assets/long/L57.png",
+     "stickers": [
+      {
+       "at": "14/16",
+       "side": "L",
+       "y": 360,
+       "value": "14/16 CON",
+       "label": "vượt ngục thành công",
+       "target": [
+        0.3,
+        0.52
+       ]
+      },
+      {
+       "at": "60-80%",
+       "side": "R",
+       "y": 420,
+       "value": "60-80%",
+       "label": "tỷ lệ sống sót",
+       "target": [
+        0.72,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Những con bọ này",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "THỰC CHIẾN KOBE"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "GIỚI HẠN KHO ĐẠN 20-30 PHÁT VÀ NGUY CƠ TỰ NỔ TUNG",
+   "hook": "TỬ HUYỆT KHI CẠN KIỆT HÓA CHẤT TRONG KHO",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mọi kỹ sư quân",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và điểm yếu chí",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Dung tích buồng chứa",
+     "image": "assets/long/L62.png",
+     "stickers": [
+      {
+       "at": "20-30",
+       "side": "R",
+       "y": 380,
+       "value": "20-30 PHÁT",
+       "label": "cơ số đạn tối đa",
+       "target": [
+        0.72,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nếu gặp phải một",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thông báo từ trung",
+     "image": "assets/long/L64.png",
+     "stickers": [
+      {
+       "at": "100%",
+       "side": "R",
+       "y": 360,
+       "value": "CẠN 100%",
+       "label": "kho đạn cạn kiệt",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cần tối thiểu 24",
+     "image": "assets/long/L65.png",
+     "stickers": [
+      {
+       "at": "24 tiếng",
+       "side": "L",
+       "y": 380,
+       "value": "24-36 GIỜ",
+       "label": "thời gian nạp đạn",
+       "target": [
+        0.32,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Sau khi bắn hết",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong suốt khoảng thời",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết, gã béo",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu bị một kẻ",
+     "image": "assets/long/L70.png",
+     "stickers": [
+      {
+       "at": "2 buồng",
+       "side": "R",
+       "y": 380,
+       "value": "2 BUỒNG VỠ",
+       "label": "nguy cơ tự hủy",
+       "target": [
+        0.72,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Sống bên cạnh cái",
+     "image": "assets/long/L71.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bởi vậy, bài học",
+     "image": "assets/long/L72.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "ĐIỂM YẾU KỸ THUẬT"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "ỨNG DỤNG CÔNG NGHỆ VÀ BÓNG ĐEN TẬP SAU",
+   "hook": "CÔNG NGHỆ BƠM PHUN PHẢN LỰC CHO TÀU VŨ TRỤ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L73.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cấu tạo van một",
+     "image": "assets/long/L74.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tự nhiên chính là",
+     "image": "assets/long/L75.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một sinh vật nhỏ",
+     "image": "assets/long/L76.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bạn ấn tượng nhất",
+     "image": "assets/long/L77.png",
+     "stickers": [
+      {
+       "at": "100°C",
+       "side": "L",
+       "y": 380,
+       "value": "PHÁO 100°C",
+       "label": "lựa chọn 1",
+       "target": [
+        0.28,
+        0.52
+       ]
+      },
+      {
+       "at": "1 tiếng",
+       "side": "R",
+       "y": 380,
+       "value": "THOÁT CÓC",
+       "label": "lựa chọn 2",
+       "target": [
+        0.72,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hãy để lại bình",
+     "image": "assets/long/L78.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và bây giờ, hãy",
+     "image": "assets/long/L79.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong tập tiếp theo,",
+     "image": "assets/long/L80.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nơi đây có một",
+     "image": "assets/long/L81.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sinh vật kỳ dị",
+     "image": "assets/long/L82.png",
+     "stickers": [
+      {
+       "at": "1m",
+       "side": "R",
+       "y": 380,
+       "value": "BẮN XA 1M",
+       "label": "tia máu từ mắt",
+       "target": [
+        0.75,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đố bạn biết danh",
+     "image": "assets/long/L83.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy để lại phán",
+     "image": "assets/long/L84.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BÀI HỌC SINH TỒN"
+  }
+ }
+}

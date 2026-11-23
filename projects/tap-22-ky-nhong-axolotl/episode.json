@@ -1,0 +1,333 @@
+{
+ "episode_no": 22,
+ "animal": "Kỳ Nhông Axolotl",
+ "slug": "tap-22-ky-nhong-axolotl",
+ "format": "F5",
+ "persona": "nha_khoa_hoc",
+ "_angle_from_roadmap": "5 Cấp độ tái tạo: Mọc lại chân, mọc lại tủy sống, phục hồi $1/3$ trái tim và não bộ mà không để lại một vết sẹo.",
+ "_shorts_idea_from_roadmap": "Chuyện gì xảy ra khi loài khủng long 6 sừng này bị mất một phần não bộ?",
+ "nickname": "Chiến Thần Tái Sinh",
+ "sources": [
+  "Nowoshilow et al. (2018), Nature 554: 50-55 — Giải mã bộ gen khổng lồ 32 tỷ cặp base (32 Gb) của Axolotl, gấp hơn 10 lần bộ gen người (~3 Gb)",
+  "Bölük et al. (2022), Developmental Dynamics 251: 1530-1555 — Tổng quan cơ chế tái sinh không để lại sẹo ở chi, hàm, tủy sống, não, tim, mắt và buồng trứng",
+  "Fei et al. (2022) / Stereo-seq, Science 377: eabp9444 — Khám phá quần thể tế bào Ependymoglial kích hoạt tái sinh mô não trước (telencephalon)",
+  "Liao et al. (2024), Nature Communications 15: 893 — Vai trò thiết yếu của tế bào Ependymoglial trong tái tạo tủy sống và vỏ não",
+  "Godwin et al. (2013), PNAS 110(23): 9415-9420 — Đại thực bào điều hòa tái sinh chi không sẹo và khả năng dung nạp mảnh ghép xuyên cá thể",
+  "AmphibiaWeb / IUCN (2020) — Kích thước trung bình 20-30cm, loài đặc hữu hồ Xochimilco (Mexico), hiện tượng ấu nhi vĩnh viễn (neoteny) do thiếu hoóc-môn tuyến giáp Thyroxine"
+ ],
+ "whisper_prompt": "Kỳ Nhông Axolotl, Chiến Thần Tái Sinh, Khủng Long Sáu Sừng, Ambystoma mexicanum, Mê-hi-cô, Mexico, Xochimilco, Bờ-lát-xtê-ma, Blastema, Ependymoglial, Tuy-rốc-xin, Thyroxine, Stereo-seq, Nature, Science, 20cm, 30cm, 24 giờ, 30 ngày, 40 ngày, 1/3, 32 tỷ, 3 tỷ, 10 lần",
+ "display_fix": {
+  "hai mươi hai": "22",
+  "hai mươi ba": "23",
+  "hai mươi đến ba mươi xăng-ti-mét": "20-30cm",
+  "ba mươi xăng-ti-mét": "30cm",
+  "hai mươi xăng-ti-mét": "20cm",
+  "hai mươi bốn giờ": "24 giờ",
+  "ba mươi đến bốn mươi ngày": "30-40 ngày",
+  "ba mươi ngày": "30 ngày",
+  "bốn mươi ngày": "40 ngày",
+  "ba đến bốn tuần": "3-4 tuần",
+  "năm ngón tay": "5 ngón tay",
+  "hàng trăm lần": "hàng trăm lần",
+  "hàng trăm": "hàng trăm",
+  "một trăm phần trăm": "100%",
+  "một phần ba": "1/3",
+  "ba ngăn": "3 ngăn",
+  "Năm hai ngàn mười tám": "2018",
+  "năm hai ngàn mười tám": "2018",
+  "năm hai ngàn hai mươi hai": "2022",
+  "mười lăm năm": "15 năm",
+  "hàng trăm triệu năm": "hàng trăm triệu năm",
+  "ba mươi hai tỷ": "32 tỷ",
+  "mười lần": "10 lần",
+  "ba tỷ": "3 tỷ",
+  "sáu chiếc sừng": "6 chiếc sừng",
+  "sáu sừng": "6 sừng",
+  "năm cấp độ": "5 cấp độ",
+  "cấp độ một": "cấp độ 1",
+  "cấp độ hai": "cấp độ 2",
+  "cấp độ ba": "cấp độ 3",
+  "cấp độ bốn": "cấp độ 4",
+  "cấp độ năm": "cấp độ 5",
+  "cấp một": "cấp 1",
+  "cấp hai": "cấp 2",
+  "cấp ba": "cấp 3",
+  "cấp bốn": "cấp 4",
+  "thứ nhất": "thứ 1",
+  "thứ hai": "thứ 2",
+  "thứ ba": "thứ 3",
+  "thứ tư": "thứ 4",
+  "thứ năm": "thứ 5",
+  "một nửa": "1/2",
+  "điểm mười": "điểm 10",
+  "Mê-hi-cô": "Mexico",
+  "Xô-chi-min-cô": "Xochimilco",
+  "Bờ-lát-xtê-ma": "Blastema",
+  "Ê-pen-đi-mô-gờ-li-an": "Ependymoglial",
+  "Tuy-rốc-xin": "Thyroxine",
+  "Tự Nhiên": "Nature"
+ },
+ "voice": {},
+ "art": {
+  "decor": "test tubes, bubbling chemical flasks, purple energy sparks, level-up arrows",
+  "shorts_mascot": "A super cute cartoon pink Axolotl with six frilly ruby-pink external gills and a perpetual happy smile, wearing lab goggles on its forehead and holding a bubbling purple test tube",
+  "thumb_bg": "phòng thí nghiệm tương lai neon tím thẫm rực rỡ với bể nước phát sáng",
+  "thumb_title": [
+   "BẤT TỬ KHÔNG SẸO?!",
+   "KỲ NHÔNG AXOLOTL"
+  ],
+  "thumb_scene": "một chú Kỳ Nhông Axolotl hoạt hình màu hồng phấn to rõ, sáu chiếc sừng mang lông xù đỏ ruby xòe rộng, miệng cười toe toét ngây thơ, bàn tay nhỏ phát sáng hào quang tái sinh màu xanh ngọc",
+  "thumb_gag": "một cánh tay nhỏ xíu vừa tự mọc ra kèm kính lúp của nhà khoa học và dấu sao lấp lánh"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "HỒ SƠ MẪU VẬT",
+    "banner_title": "MẪU VẬT KHỦNG LONG SÁU SỪNG",
+    "chapter_title": "Hồ sơ mẫu vật: Khủng long 6 sừng giữ nụ cười ấu trùng",
+    "hook": "",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Nhật ký phòng thí nghiệm, ca trực nửa đêm. Đèn chiếu sáng chuyển sang sắc tím huỳnh quang, hệ thống cảm biến bắt đầu ghi nhận sóng sinh học từ bể kính số hai mươi hai. Giữa làn nước trong veo, một sinh vật kỳ dị đang lơ lửng bồng bềnh... Toàn thân màu hồng phấn mọng nước như kẹo bông gòn. Trên đầu xòe ra sáu chiếc sừng lông xù màu đỏ thẫm rung rinh trong nước. Và đặc biệt nhất là khuôn mặt: hai chấm mắt đen tròn xoe cùng khóe miệng luôn nở một nụ cười toe toét ngây thơ đến mức kỳ quặc!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Viện trưởng ơi, mẫu vật này nhìn cưng xỉu như thú bông, đưa vào phòng thí nghiệm thử thách chi cho tội nghiệp vậy ạ?",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-oh] Trợ lý chớ vội để vẻ mặt ngây thơ của mẫu vật đánh lừa! [laughter] Đây là Kỳ Nhông Axolotl, sinh vật đặc hữu của vùng hồ Xô-chi-min-cô ở Mê-hi-cô, còn được dân gian gọi bằng cái tên cực kỳ kiêu hãnh: Khủng Long Sáu Sừng! Kích thước một cá thể trưởng thành dài khoảng hai mươi đến ba mươi xăng-ti-mét. Nhưng điều khiến cả giới sinh học thế giới phải ngả mũ bái phục không nằm ở vẻ ngoài đáng yêu, mà là danh hiệu tối thượng chúng tôi đặt cho nó: Chiến Thần Tái Sinh!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tạo hóa đã ban cho sinh vật này một hiện tượng kỳ lạ bậc nhất hành tinh gọi là ấu nhi vĩnh viễn. Nghĩa là dù đã sống tới mười lăm năm và sinh con đẻ cái bình thường, cơ thể nó vẫn từ chối lớn lên, mãi mãi giữ nguyên hình hài của một đứa trẻ sơ sinh dưới nước! Sáu chiếc sừng xù xì kia thực chất là mang ngoài chứa đầy mạch máu để thở. Và chính vì giữ mãi thể trạng non nớt của phôi thai, tế bào của nó sở hữu năng lực hồi sinh thần thánh thách thức mọi định luật y học! Đêm nay, tôi tuyên bố kích hoạt hệ thống thử thách năm cấp độ cực hạn để kiểm tra giới hạn sinh tồn của Chiến Thần Tái Sinh!",
+      "mood": "nghiem_trang_gia"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "CẤP ĐỘ 1: TỨ CHI",
+    "banner_title": "TÁI TẠO TỨ CHI HOÀN HẢO",
+    "chapter_title": "Cấp độ 1: Mọc lại chân tay hoàn chỉnh từ khối tế bào mầm",
+    "hook": "MỌC LẠI NGUYÊN VẸN CẢ CÁNH TAY TRONG 30 NGÀY",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Kích hoạt Cấp độ một: Thử thách tái tạo tứ chi! Hãy tưởng tượng một kịch bản tồi tệ xảy ra trong tự nhiên: một con cá đói khát lao tới đớp đứt lìa cánh tay trước của chú kỳ nhông. Ở con người hay bất kỳ loài thú có vú nào, mất một cánh tay là vĩnh viễn mất đi. Cơ thể chúng ta sẽ nhanh chóng hình thành một lớp mô sẹo xơ cứng gồ ghề để bịt kín vết thương, chấm dứt hoàn toàn khả năng mọc lại chi mới.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng tại bàn thí nghiệm của Chiến Thần Tái Sinh, đồng hồ đếm ngược bắt đầu vận hành một phép màu sinh học! Chỉ trong vòng chưa đầy hai mươi bốn giờ đầu tiên, các tế bào da xung quanh đã bò thần tốc qua miệng vết thương để tạo thành một lớp màng bảo vệ gọi là biểu mô vết thương. Không hề có máu chảy đầm đìa, không hề có nhiễm trùng nguy hiểm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và ngay dưới lớp biểu mô ấy, điều kỳ diệu nhất bắt đầu xuất hiện: một khối tế bào mầm đặc biệt mang tên Bờ-lát-xtê-ma được kích hoạt! [surprise-wa] Đây là lúc khoa học phải kinh ngạc: các tế bào cơ bắp, tế bào xương, tế bào mạch máu đã trưởng thành tại vết cắt bỗng nhiên... tự bẻ ngược bánh xe thời gian, rũ bỏ thân phận cũ để quay trở lại trạng thái tế bào gốc sơ khai như lúc còn trong trứng!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Khối tế bào mầm Bờ-lát-xtê-ma này phân chia điên cuồng với độ chính xác tuyệt đối như một máy in ba đê sinh học tự nhiên! Tuần thứ nhất, một chồi thịt nhỏ nhú ra. Tuần thứ hai, chồi thịt kéo dài và bắt đầu phân nhánh khớp khuỷu tay. Đến tuần thứ tư, năm ngón tay nhỏ xíu màu hồng phấn bắt đầu tách rời rõ rệt! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Sau đúng ba mươi đến bốn mươi ngày, một cánh tay hoàn chỉnh mới toanh đã mọc lại nguyên vẹn một trăm phần trăm: từ tủy xương, cơ bắp, mạch máu cho đến các đầu dây thần kinh điều khiển cử động tinh vi! Các nhà khoa học từng làm thí nghiệm cắt đi cắt lại hàng trăm lần trên cùng một vị trí của Chiến Thần Tái Sinh, và kết quả mỗi lần đều mọc lại hoàn hảo như đúc, không để lại lấy một vết sẹo nhỏ, và đặc biệt nhất là không bao giờ bị đột biến thành tế bào ung thư! [laughter] Cấp độ một: Vượt qua dễ như ăn kẹo!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "CẤP ĐỘ 2: TỦY SỐNG",
+    "banner_title": "NỐI LIỀN TỦY SỐNG BỊ CẮT ĐỨT",
+    "chapter_title": "Cấp độ 2: Tái tạo tủy sống và bơi lội bình thường sau vài tuần",
+    "hook": "BẮC CẦU TỦY SỐNG VÀ XÓA BỎ MỌI MÔ SẸO LIỆT",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Trợ lý, nâng độ khó lên Cấp độ hai: Thử thách tổn thương hệ thần kinh trung ương! Đối với loài người, đứt tủy sống là bản án chung thân khủng khiếp nhất của y học hiện đại. Tủy sống là đại lộ thông tin kết nối bộ não với toàn bộ cơ thể. Khi đại lộ đó bị cắt đứt, các tế bào hình sao sẽ lập tức dựng lên một bức tường mô sẹo dày đặc ngăn cản tín hiệu, khiến nạn nhân bị liệt vĩnh viễn không thuốc nào chữa nổi.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Báo cáo viện trưởng, máy quét huỳnh quang phát hiện vết đứt tủy sống của mẫu vật đang tự phát tín hiệu hồi phục!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-oh] Nhìn vào màn hình hiển vi điện tử đi các trợ lý! Trong tủy sống của Chiến Thần Tái Sinh, đội quân tế bào biểu mô thần kinh mang tên Ê-pen-đi-mô-gờ-li-an lập tức nhận lệnh khẩn cấp! Thay vì tạo sẹo ngăn chặn như ở con người, những tế bào này phân chia với tốc độ vũ bão và vươn dài ra hai đầu để bắc một chiếc cầu sinh học xuyên qua khoảng trống đứt gãy!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Chiếc cầu biểu mô thần kinh ấy tiết ra các phân tử dẫn đường hóa học cực kỳ tinh vi, ngăn chặn hoàn toàn phản ứng viêm sẹo xơ cứng. Hàng ngàn sợi trục thần kinh bị đứt liền nương theo chiếc cầu đó mà mọc xuyên qua, tìm đúng đầu nối cũ bên kia chiến tuyến để kết nối lại từng xung điện li ti!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chỉ sau ba đến bốn tuần ngắn ngủi, toàn bộ bó dây thần kinh tủy sống đã hàn gắn liền mạch một trăm phần trăm! Chiến Thần Tái Sinh lại phe phẩy chiếc đuôi bơi lượn thoăn thoắt trong bể nước với dáng vẻ ung dung tự tại, hoàn toàn không hề có một chút triệu chứng tê liệt hay suy giảm phản xạ vận động nào! [laughter] Các viện nghiên cứu thần kinh hàng đầu thế giới đang dồn hàng chục triệu đô la vào ca bệnh này với hy vọng một ngày nào đó tìm ra chìa khóa chữa lành cho các bệnh nhân bại liệt! Cấp độ hai: Hoàn thành xuất sắc!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "CẤP ĐỘ 3: TIM & NÃO",
+    "banner_title": "THỦNG TIM VÀ TÁI TẠO MÔ NÃO",
+    "chapter_title": "Cấp độ 3: Cắt 1/3 tâm thất tim và mọc lại tế bào não bộ",
+    "hook": "CẮT BỎ 1/3 TRÁI TIM VẪN TỰ ĐẬP VÀ MỌC LẠI SAU 30 NGÀY",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Cảnh báo toàn phòng thí nghiệm: Chúng ta bước vào Cấp độ ba — Thử thách nội tạng sinh tử! Lần này, mục tiêu không còn là tay chân hay da thịt bên ngoài nữa. Chúng ta đưa lưỡi dao vi phẫu chạm thẳng vào hai cơ quan tối thượng quyết định sự sống còn của sinh vật: Trái tim và Bộ não!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Các nhà khoa học tim mạch đã thực hiện một cuộc phẫu thuật không tưởng: dùng kéo vi phẫu cắt phăng tới một phần ba tâm thất dưới đáy trái tim của chú kỳ nhông! Ở con người, một vết thủng nhỏ hay một cơn nhồi máu cơ tim cũng đủ để giết chết hàng triệu tế bào cơ tim không thể thay thế, để lại vết sẹo xơ vĩnh viễn dẫn tới suy tim tử vong. Nhưng khi nhìn vào lồng ngực trong suốt của Axolotl, các nhà phẫu thuật phải dụi mắt ba lần!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Ngay tại vùng biên vết cắt, các tế bào cơ tim còn lại tự kích hoạt thụ thể bề mặt đặc biệt, tự tháo dỡ các sợi tơ co bóp để quay về trạng thái tế bào phôi thai! Chúng phân chia ồ ạt, lấp đầy lỗ hổng máu chảy chỉ trong vài ngày, và sau ba mươi ngày, một phần ba trái tim bị mất đã mọc lại nguyên vẹn cả buồng tâm thất mới tinh, đập rộn ràng bơm máu khắp cơ thể mà không có một milimet mô sẹo nào! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Chưa dừng lại ở đó! Trong công trình chấn động công bố trên tạp chí Science năm hai ngàn hai mươi hai bằng công nghệ giải trình tự không gian đơn bào, các nhà khoa học đã thử cắt bỏ một phần thùy não trước của chú kỳ nhông. Và kết quả khiến cả thế giới sửng sốt: các tế bào gốc biểu mô thần kinh lại thức giấc, chia thành từng lớp tế bào mới và tái cấu trúc lại toàn bộ các nơ-ron não bộ bị mất theo đúng sơ đồ phôi thai ban đầu! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Trời đất ơi viện trưởng ơi, nó vừa mọc lại cả một phần bộ não mà nhìn cái mặt vẫn cười toe toét ngây thơ y như cũ kìa!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[laughter] Bị cắt mất một góc não bộ mà nụ cười vẫn không hề biến mất! Khả năng tự sửa chữa bộ não và quả tim đã đưa Chiến Thần Tái Sinh bước vào hàng ngũ những sinh vật có cơ chế hồi phục kỳ ảo nhất từng được ghi nhận trong lịch sử tiến hóa của động vật có xương sống!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "CẤP ĐỘ 4: GHÉP TẠNG",
+    "banner_title": "CHẤP NHẬN MỌI MẢNH GHÉP TẠNG",
+    "chapter_title": "Cấp độ 4: Nhận ghép tạng xuyên cá thể và giải mã bộ gen 32 tỷ",
+    "hook": "DUNG NẠP MỌI MẢNH GHÉP VÀ BỘ GEN GẤP 10 LẦN CON NGƯỜI",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Tăng công suất máy quét lên Cấp độ bốn: Thử thách ghép tạng xuyên cá thể! Trong y học ghép tạng của con người, kẻ thù số một luôn là hiện tượng thải ghép. Hệ miễn dịch của chúng ta cực kỳ hung dữ và cảnh giác: chỉ cần phát hiện một quả thận hay lá gan có kháng nguyên lạ từ người khác đưa vào, đội quân bạch cầu sẽ lập tức tổng tấn công tiêu diệt mảnh ghép đến cùng, buộc bệnh nhân phải uống thuốc ức chế miễn dịch suốt đời.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Thế nhưng trong cơ thể của Chiến Thần Tái Sinh, hệ miễn dịch lại hành xử như một đại sứ hòa bình đầy bao dung! Các nhà khoa học tại viện nghiên cứu đã làm những thí nghiệm kỳ lạ đến mức khó tin: lấy một cánh tay của chú kỳ nhông màu trắng bạch tạng ghép sang cơ thể một chú kỳ nhông màu xanh đen hoang dã. [surprise-oh] Thay vì đào thải, các tế bào đại thực bào của cơ thể tiếp nhận ân cần dọn dẹp tế bào chết, kết nối mạch máu và nuôi dưỡng cánh tay ghép đó hoạt động trơn tru như chính cánh tay ruột thịt của mình!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Thậm chí trong những thí nghiệm giải phẫu kinh điển, người ta từng ghép thêm một chiếc đầu thứ hai hoặc một cánh tay phụ lên lưng của chú kỳ nhông, và cơ thể nó vẫn bình thản dung nạp, kết nối dây thần kinh và nuôi sống cả hai phần cơ thể một cách kỳ dị! [surprise-wa] Bí mật đằng sau sức mạnh bao la này nằm ở đâu? Năm hai ngàn mười tám, một bài báo chấn động trên tạp chí Tự Nhiên danh tiếng đã giải mã thành công toàn bộ bản đồ gen của Axolotl.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Các đồng nghiệp hãy chuẩn bị tinh thần đón nhận con số này: Bộ gen của chú kỳ nhông nhỏ bé này dài tới ba mươi hai tỷ cặp base — tức là lớn gấp hơn mười lần toàn bộ bộ gen của loài người chúng ta với chỉ ba tỷ cặp base! [surprise-oh] Cả một đại dương thông tin di truyền khổng lồ chứa hàng ngàn đoạn mã cổ xưa chuyên kích hoạt tái sinh mô đang được cơ thể nó bảo tồn nguyên vẹn suốt hàng trăm triệu năm qua! Cấp độ bốn: Hoàn thành mỹ mãn!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "CẤP TỐI THƯỢNG",
+    "banner_title": "TRÙM CUỐI HOÁ THÚ & CA TIẾP THEO",
+    "chapter_title": "Cấp độ tối thượng: Hoá thú mất siêu năng lực và bóng đen bí ẩn",
+    "hook": "CÁI GIÁ CỦA SỰ TRƯỞNG THÀNH: ĐÁNH MẤT SỰ BẤT TỬ",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Chúng ta bước vào Cấp độ tối thượng: Điều gì trên đời này có thể đánh bại được Chiến Thần Tái Sinh? Chặt chân chân mọc lại. Đứt tủy tủy nối liền. Thủng tim tim tự vá. Ghép tạng tạng dung nạp. Chẳng lẽ sinh vật này thực sự bất tử không có lấy một điểm yếu nào sao? [question-oh]",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Và đây là cú bẻ lái triết lý sâu sắc nhất mà tạo hóa cài cắm vào hồ sơ của mẫu vật: Thứ vũ khí duy nhất tước đoạt siêu năng lực của nó... chính là sự trưởng thành! [sigh] Trong tự nhiên, tuyến giáp của Axolotl bị khiếm khuyết bẩm sinh nên không thể tự sản sinh đủ lượng hoóc-môn Tuy-rốc-xin để kích hoạt quá trình biến thái. Nó chọn sống cả đời dưới nước trong hình hài một đứa trẻ ngây thơ để bảo lưu năng lực tái sinh thần thánh.",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Nhưng khi các nhà khoa học trong phòng thí nghiệm can thiệp bằng cách tiêm trực tiếp hoóc-môn Tuy-rốc-xin vào cơ thể, chiếc đồng hồ sinh học bị cưỡng ép quay nhanh! Sáu chiếc sừng mang ngoài rực rỡ từ từ teo rụng. Phổi bên trong phồng to lên. Mi mắt bắt đầu khép mở. Toàn bộ cơ thể nó trèo lên cạn biến thành một con kỳ nhông hổ trưởng thành màu nâu xám! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và cái giá phải trả cho sự lớn khôn là vô cùng tàn nhẫn: Khi đã bước lên cạn thành thú trưởng thành, siêu năng lực mọc lại tứ chi bị suy giảm nghiêm trọng, các vết thương bắt đầu hình thành mô sẹo xơ cứng, và tuổi thọ của nó tụt dốc thê thảm chỉ còn lại một nửa! Hóa ra để giữ được nụ cười bất tử vô ưu vô lo, tạo hóa bắt nó phải đánh đổi bằng cách mãi mãi không bao giờ được lớn lên! [laughter]",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Tổng kết ghi chép phòng thí nghiệm số hai mươi hai: Chiến Thần Tái Sinh đạt điểm mười tuyệt đối cho bài kiểm tra sinh tồn! Kê đơn xuất viện: Cho mẫu vật bơi lội tung tăng trong làn nước mát và tuyệt đối cấm tiêm hoóc-môn ép lớn! Còn các trợ lý phòng thí nghiệm thì sao? Nếu được chọn giữa việc lớn lên thành người lớn nhiều âu lo, hay mãi mãi giữ nụ cười trẻ thơ và khả năng tự chữa lành mọi vết thương trong cuộc sống, bạn chọn cái nào? Hãy bình luận bên dưới nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hồ sơ cấp độ tối thượng xin khép lại tại đây. Nhưng tập sau, phòng thí nghiệm của chúng ta sẽ chuyển thẳng xuống đáy biển sâu để đón tiếp một sinh vật quái đản bậc nhất hành tinh! Một cục thịt dài ngoằng không xương, không mắt, nhưng khi bị kẻ săn mồi dồn vào đường cùng, cơ thể nó có thể tự hóa lỏng thành một đống thạch nhớt nhầy nhụa, và trong tích tắc... bắn toàn bộ ruột gan phèo phổi của mình qua đường hậu môn để trói chặt kẻ thù rồi ung dung tẩu thoát! Đố các bạn biết bóng đen bí ẩn kỳ sau là loài vật nào? Hãy đoán ngay ở phần bình luận nhé!",
+      "mood": "am_ap"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Chuyện gì sẽ xảy ra nếu một con cá đói cắn đứt một phần ba trái tim hoặc cắt mất một mảng não bộ của con vật này? [laughter] Đối với chúng ta đó là dấu chấm hết, nhưng với Kỳ Nhông Axolotl, nó chỉ mất đúng ba mươi ngày để tự mọc lại nguyên vẹn một trăm phần trăm mà không để lại một vết sẹo nhỏ! Đây là loài Khủng Long Sáu Sừng sống ở Mê-hi-cô, dài ba mươi xăng-ti-mét với nụ cười toe toét ngây thơ. Nhờ hiện tượng ấu nhi vĩnh viễn không bao giờ trưởng thành, tế bào của nó có thể tự quay ngược thời gian thành tế bào gốc để tái tạo từ chân tay, đuôi, mắt cho đến tủy sống bị đứt đoạn! [surprise-wa] Thậm chí khi các nhà khoa học cắt bỏ một phần ba tâm thất tim hay ghép một cánh tay từ cá thể khác sang, cơ thể nó vẫn tự vá lành và dung nạp bình thường! [surprise-oh] Bộ gen của nó dài tới ba mươi hai tỷ cặp base, lớn gấp mười lần bộ gen con người! Bí mật duy nhất đánh bại được nó là sự lớn khôn: nếu bị ép tiêm hoóc-môn biến thái lên cạn, nó sẽ rụng mất sáu chiếc sừng và đánh mất luôn khả năng bất tử! Một chiến thần tái sinh chọn mãi mãi làm một đứa trẻ để giữ trọn nụ cười kỳ diệu!"
+ },
+ "seo": {
+  "title": "Sinh Vật Bị Mất Não & Thủng Tim Vẫn Tự Mọc Lại Không Sẹo?!",
+  "hook_paragraph": "Kỳ Nhông Axolotl (Ambystoma mexicanum) sở hữu bộ gen 32 tỷ cặp base gấp 10 lần con người, có khả năng mọc lại chân tay, nối liền tủy sống, thậm chí tái tạo 1/3 quả tim và mô não bộ mà không để lại một vết sẹo! Khám phá 5 cấp độ thử thách tái sinh thần thánh của loài Khủng Long Sáu Sừng.",
+  "bullets": [
+   "Cấp độ 1: Mọc lại cánh tay hoàn chỉnh với 5 ngón trong 30-40 ngày từ khối tế bào mầm Blastema",
+   "Cấp độ 2: Tế bào Ependymoglial bắc cầu nối liền tủy sống bị đứt, bơi lội bình thường sau 3-4 tuần",
+   "Cấp độ 3: Cắt 1/3 tâm thất tim và mô não trước vẫn tự tái tạo 100% chức năng không sẹo xơ",
+   "Cấp độ 4: Ghép tạng xuyên cá thể không đào thải và giải mã bộ gen 32 tỷ cặp base khổng lồ",
+   "Cấp độ 5: Cái giá của sự trưởng thành — ép biến thái lên cạn sẽ đánh mất siêu năng lực bất tử"
+  ],
+  "question": "Nếu được sở hữu 1 siêu năng lực của Kỳ Nhông Axolotl: tự chữa lành mọi vết thương không để lại sẹo, hay giữ mãi nụ cười trẻ thơ không bao giờ già đi, bạn chọn cái nào? Và đoán xem bóng đen tập sau là loài nào?",
+  "next_teaser": "Bóng đen bí ẩn dưới đáy biển sâu: tự hóa lỏng cơ thể thành thạch và bắn toàn bộ ruột gan qua đường hậu môn để tẩu thoát!",
+  "hashtags": [
+   "#độngvật",
+   "#kỳnhôngaxolotl",
+   "#VẽChuyệnHoangDã"
+  ],
+  "tags": [
+   "kỳ nhông axolotl",
+   "ky nhong axolotl",
+   "axolotl",
+   "khủng long sáu sừng",
+   "khung long sau sung",
+   "ambystoma mexicanum",
+   "tái sinh không sẹo",
+   "mọc lại chi",
+   "động vật kỳ lạ",
+   "thế giới động vật",
+   "động vật hài hước",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị",
+   "kỳ nhông axolotl ăn gì",
+   "kỳ nhông axolotl khổng lồ",
+   "nuôi kỳ nhông axolotl",
+   "kỳ nhông",
+   "kỳ nhông ăn gì",
+   "kỳ nhông khổng lồ",
+   "kỳ nhông nước"
+  ],
+  "shorts_title": "Bị Mất Não & Thủng Tim Vẫn Tự Mọc Lại Không Sẹo?! 🦎 #độngvật #kỳnhôngaxolotl",
+  "shorts_desc": "Kỳ Nhông Axolotl dài 30cm sở hữu bộ gen 32 tỷ cặp base gấp 10 lần con người, tự mọc lại chân tay, tủy sống, 1/3 quả tim và mô não trong 30 ngày mà không để lại một vết sẹo! Giải mã bí mật Khủng Long Sáu Sừng.",
+  "shorts_tags": [
+   "kỳ nhông axolotl",
+   "axolotl",
+   "khủng long sáu sừng",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ],
+  "en_title": "The Creature That Regrows Its Brain & Heart Without Scars?! | Ep 22",
+  "en_hook": "Meet the Mexican Axolotl (Ambystoma mexicanum): with a massive 32-gigabase genome over 10 times larger than humans, it can completely regenerate amputated limbs, severed spinal cords, and even one-third of its heart and brain tissue without a single scar! Discover the 5 levels of extreme regenerative science.",
+  "en_chapters": [
+   "Specimen File: The Six-Horned Dragon With an Eternal Smile",
+   "Level 1: Flawless Limb Regeneration in 30 Days",
+   "Level 2: Bridging Severed Spinal Cords Without Paralysis",
+   "Level 3: Heart Resection & Brain Tissue Regrowth",
+   "Level 4: Organ Grafting & The Giant 32-Gigabase Genome",
+   "Ultimate Level: The Tragic Cost of Growing Up & Next Teaser"
+  ],
+  "en_shorts_title": "The Creature That Regrows Its Brain & Heart?! 🦎 #animals #axolotl"
+ }
+}

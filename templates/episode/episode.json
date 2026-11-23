@@ -1,0 +1,57 @@
+{
+ "episode_no": {{NO_INT}},
+ "animal": "{{ANIMAL}}",
+ "slug": "{{SLUG}}",
+ "format": "{{FORMAT}}",
+ "persona": "{{PERSONA}}",
+ "_angle_from_roadmap": "{{ANGLE}}",
+ "_shorts_idea_from_roadmap": "{{SHORTS_IDEA}}",
+ "nickname": "Biệt danh nhân vật (xuất hiện >= 4 lần trong lời đọc)",
+ "sources": ["Tác giả năm, tạp chí/nguồn — số liệu dùng trong tập (mỗi con số phải có nguồn)"],
+ "whisper_prompt": "{{ANIMAL}}, biệt danh, tên riêng phiên âm, số liệu khó (giúp Whisper nghe đúng)",
+ "display_fix": {
+  "hai mươi xăng-ti-mét": "20cm",
+  "Ma-ri-a-na": "Mariana"
+ },
+ "voice": {},
+ "art": {
+  "decor": "đạo cụ trang trí banner theo chủ đề con vật (tiếng Anh, vd 'tiny snowflakes', 'tiny green leaves')",
+  "shorts_mascot": "A small cute cartoon <con vật> (đặc điểm nhận dạng) holding <đạo cụ của format>",
+  "thumb_bg": "nền tối tương phản theo môi trường sống",
+  "thumb_title": ["DÒNG 1 GÂY SỐC?!", "DÒNG 2"],
+  "thumb_scene": "nhân vật chính to rõ bên phải, biểu cảm cực mạnh, đang làm gì",
+  "thumb_gag": "1 chi tiết hài/nghịch lý góc dưới phải"
+ },
+ "longform": {
+  "scenes": [
+   {"id": "scene01", "badge": "NHÃN FORMAT ≤16", "banner_title": "CHỮ THANH NAVY ≤32", "chapter_title": "Tiêu đề chương 1 (mục lục YouTube)",
+    "hook": "", "mood": "tram_bi_an", "parts": [
+     {"text": "Câu mở bí ẩn theo persona... (part ≤ 1300 ký tự, mỗi câu vẽ được thành 1 hình)", "mood": "tram_bi_an"},
+     {"text": "Câu cameo ≤ 120 ký tự, 1-2 câu.", "cast": "tham_phan"},
+     {"text": "[surprise-oh] Giọng chính phản ứng lại cameo = chỗ cười! [laughter]", "mood": "hao_hung"}
+    ]},
+   {"id": "scene02", "badge": "NHÃN #1", "banner_title": "...", "chapter_title": "...", "hook": "PHỤ ĐỀ THẺ CHƯƠNG IN HOA", "mood": "hao_hung", "parts": ["..."]},
+   {"id": "scene03", "badge": "NHÃN #2", "banner_title": "...", "chapter_title": "...", "hook": "...", "mood": "don_dap", "parts": ["..."]},
+   {"id": "scene04", "badge": "NHÃN #3", "banner_title": "...", "chapter_title": "...", "hook": "...", "mood": "nghiem_trang_gia", "parts": ["..."]},
+   {"id": "scene05", "badge": "NHÃN #4", "banner_title": "...", "chapter_title": "...", "hook": "...", "mood": "hao_hung", "parts": ["..."]},
+   {"id": "scene06", "badge": "KẾT LUẬN", "banner_title": "...", "chapter_title": "...", "hook": "...", "mood": "am_ap", "parts": ["... bài học + câu hỏi bình luận + teaser tập sau (không 'bấm đăng ký')"]}
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Hook nghịch lý theo giọng format! Giới thiệu: nó là con gì, sống ở đâu. Sự thật 1 có số + so sánh. Sự thật 2... Sự thật 3... Vì sao: cơ chế khoa học. Câu chốt dí dỏm trả lời hook, khép trọn ý. (10-12 câu, 900-1050 ký tự, KHÔNG kêu xem video dài, KHÔNG bỏ lửng — TASTE-66)"
+ },
+ "seo": {
+  "title": "Nghịch Lý Gây Tò Mò?! | {{ANIMAL}} | Tập {{NO_INT}}",
+  "hook_paragraph": "2-3 câu chứa từ khóa chính + số liệu sốc.",
+  "bullets": ["sự thật 1", "sự thật 2", "sự thật 3", "sự thật 4"],
+  "question": "Câu hỏi mời bình luận (bình luận ghim)?",
+  "next_teaser": "Con vật tập sau (config/series_roadmap.json) — 1 câu nhử",
+  "hashtags": ["#TenConVat", "#TheGioiDongVat", "#VeChuyenHoangDa", "#KhoaHoc"],
+  "tags": ["tên con vật", "tên tiếng Anh", "tên không dấu", "sự thật nổi bật", "thế giới động vật", "vẽ chuyện hoang dã", "whiteboard animation"],
+  "shorts_title": "Nghịch lý ngắn gọn?! 🐾 #shorts #tenconvat",
+  "shorts_desc": "2-3 câu tóm trọn nội dung Shorts (con vật là gì + sự thật nổi bật + vì sao). Có thể thêm 1 dòng giới thiệu kênh, không bắt buộc.",
+  "shorts_tags": ["tên con vật", "shorts", "thế giới động vật", "vẽ chuyện hoang dã"]
+ }
+}

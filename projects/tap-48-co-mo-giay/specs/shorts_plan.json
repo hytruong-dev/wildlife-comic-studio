@@ -1,0 +1,68 @@
+{
+  "title_lines": [
+    "TƯỢNG ĐÁ ĐẦM LẦY",
+    "SÚNG MÁY GÕ MỎ?!"
+  ],
+  "beats": [
+    {
+      "at_s": 0.0,
+      "draw_s": 1.0,
+      "image": "assets/shorts/S01.png",
+      "stickers": []
+    },
+    {
+      "at": "Hãy nhìn chú Cò Mỏ",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S02.png",
+      "stickers": []
+    },
+    {
+      "at": "đứng bất động giữa bãi",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S02b.png",
+      "stickers": []
+    },
+    {
+      "at": "Chiếc mỏ dài 24cm",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S03.png",
+      "stickers": []
+    },
+    {
+      "at": "sẵn sàng tung cú bổ",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S03b.png",
+      "stickers": []
+    },
+    {
+      "at": "Mỗi khi đêm xuống nó",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S04.png",
+      "stickers": []
+    },
+    {
+      "at": "Ở vườn thú nếu bạn",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S05.png",
+      "stickers": []
+    },
+    {
+      "at": "Thế nhưng trong tự nhiên",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S06.png",
+      "stickers": []
+    },
+    {
+      "at": "đứa em ruột của mình",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S07.png",
+      "stickers": []
+    },
+    {
+      "at": "Một nghịch lý sinh tồn",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S08.png",
+      "stickers": []
+    }
+  ]
+}

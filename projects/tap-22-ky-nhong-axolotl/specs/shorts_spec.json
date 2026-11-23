@@ -1,0 +1,515 @@
+{
+ "episode": "tap-22-ky-nhong-axolotl",
+ "title_lines": [
+  "MẤT NÃO VÀ THỦNG TIM",
+  "VẪN TỰ MỌC LẠI?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 53.0,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-22-ky-nhong-axolotl_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  5.15,
+  9.75,
+  16.25,
+  21.79,
+  26.67,
+  30.93,
+  33.49,
+  39.31,
+  43.53,
+  47.79,
+  50.79
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.72,
+     "text": "Chuyện gì sẽ"
+    },
+    {
+     "t": 1.22,
+     "text": "xảy ra nếu"
+    },
+    {
+     "t": 1.8,
+     "text": "một con cá"
+    },
+    {
+     "t": 2.22,
+     "text": "đói cắn đứt"
+    },
+    {
+     "t": 2.76,
+     "text": "1/3 trái"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 3.35,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 3.38,
+     "text": "tim hoặc cắt"
+    },
+    {
+     "t": 4.12,
+     "text": "mất một mảng"
+    },
+    {
+     "t": 4.6,
+     "text": "não bộ của"
+    },
+    {
+     "t": 5.1,
+     "text": "con vật này?"
+    },
+    {
+     "t": 6.5,
+     "text": "Đối với chúng"
+    },
+    {
+     "t": 6.88,
+     "text": "ta đó là"
+    },
+    {
+     "t": 7.44,
+     "text": "dấu chấm hết,"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 7.95,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 10.52,
+     "side": "R",
+     "y": 560,
+     "value": "30 NGÀY",
+     "label": "mọc lại 100%",
+     "target": [
+      0.55,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 8.2,
+     "text": "nhưng với Kỳ"
+    },
+    {
+     "t": 8.8,
+     "text": "Nhông Axolotl,"
+    },
+    {
+     "t": 9.98,
+     "text": "nó chỉ mất"
+    },
+    {
+     "t": 10.38,
+     "text": "đúng 30 ngày"
+    },
+    {
+     "t": 11.0,
+     "text": "để tự mọc"
+    },
+    {
+     "t": 11.48,
+     "text": "lại nguyên vẹn"
+    },
+    {
+     "t": 12.04,
+     "text": "100% mà không"
+    },
+    {
+     "t": 13.18,
+     "text": "để lại một"
+    },
+    {
+     "t": 13.6,
+     "text": "vết sẹo nhỏ!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 14.45,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 17.58,
+     "side": "R",
+     "y": 750,
+     "value": "30 CM",
+     "label": "Khủng Long Sáu Sừng",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 14.7,
+     "text": "Đây là loài"
+    },
+    {
+     "t": 15.4,
+     "text": "Khủng Long Sáu"
+    },
+    {
+     "t": 16.0,
+     "text": "Sừng sống ở"
+    },
+    {
+     "t": 16.64,
+     "text": "Mexico, dài 30cm"
+    },
+    {
+     "t": 18.08,
+     "text": "với nụ cười"
+    },
+    {
+     "t": 18.84,
+     "text": "toe toét ngây thơ."
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 19.99,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 20.24,
+     "text": "Nhờ hiện tượng"
+    },
+    {
+     "t": 20.78,
+     "text": "ấu nhi vĩnh"
+    },
+    {
+     "t": 21.24,
+     "text": "viễn không bao"
+    },
+    {
+     "t": 21.74,
+     "text": "giờ trưởng thành,"
+    },
+    {
+     "t": 22.22,
+     "text": "tế bào của"
+    },
+    {
+     "t": 23.02,
+     "text": "nó có thể"
+    },
+    {
+     "t": 23.54,
+     "text": "tự quay ngược"
+    },
+    {
+     "t": 24.08,
+     "text": "thời gian thành"
+    },
+    {
+     "t": 24.6,
+     "text": "tế bào"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 24.87,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 24.96,
+     "text": "gốc để tái"
+    },
+    {
+     "t": 25.74,
+     "text": "tạo từ chân"
+    },
+    {
+     "t": 26.28,
+     "text": "tay, đuôi,"
+    },
+    {
+     "t": 27.02,
+     "text": "mắt cho đến"
+    },
+    {
+     "t": 27.66,
+     "text": "tủy sống bị"
+    },
+    {
+     "t": 28.26,
+     "text": "đứt đoạn!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 29.13,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 30.88,
+     "side": "L",
+     "y": 560,
+     "value": "1/3 TIM",
+     "label": "tự vá tâm thất",
+     "target": [
+      0.48,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 29.38,
+     "text": "Thậm chí khi"
+    },
+    {
+     "t": 30.0,
+     "text": "các nhà khoa"
+    },
+    {
+     "t": 30.4,
+     "text": "học cắt bỏ"
+    },
+    {
+     "t": 30.88,
+     "text": "1/3 tâm thất"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 31.69,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 31.72,
+     "text": "tim hay ghép"
+    },
+    {
+     "t": 32.48,
+     "text": "một cánh tay"
+    },
+    {
+     "t": 32.94,
+     "text": "từ cá thể"
+    },
+    {
+     "t": 33.46,
+     "text": "khác sang,"
+    },
+    {
+     "t": 34.4,
+     "text": "cơ thể nó"
+    },
+    {
+     "t": 34.76,
+     "text": "vẫn tự vá"
+    },
+    {
+     "t": 35.32,
+     "text": "lành và dung"
+    },
+    {
+     "t": 35.96,
+     "text": "nạp bình thường!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 37.51,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 38.64,
+     "side": "R",
+     "y": 650,
+     "value": "32 TỶ",
+     "label": "gấp 10 lần người",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 37.76,
+     "text": "Bộ gen của"
+    },
+    {
+     "t": 38.1,
+     "text": "nó dài tới"
+    },
+    {
+     "t": 38.64,
+     "text": "32 tỷ cặp"
+    },
+    {
+     "t": 39.46,
+     "text": "base, lớn gấp"
+    },
+    {
+     "t": 40.4,
+     "text": "10 lần bộ"
+    },
+    {
+     "t": 41.02,
+     "text": "gen con người!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 41.73,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 41.98,
+     "text": "Bí mật duy"
+    },
+    {
+     "t": 42.32,
+     "text": "nhất đánh bại"
+    },
+    {
+     "t": 42.84,
+     "text": "được nó là"
+    },
+    {
+     "t": 43.3,
+     "text": "sự lớn khôn:"
+    },
+    {
+     "t": 43.82,
+     "text": "nếu bị ép"
+    },
+    {
+     "t": 44.68,
+     "text": "tiêm hoóc-môn biến"
+    },
+    {
+     "t": 45.36,
+     "text": "thái lên cạn,"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 45.99,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [
+    {
+     "t": 46.8,
+     "side": "L",
+     "y": 780,
+     "value": "6 SỪNG",
+     "label": "teo rụng khi lớn",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 46.24,
+     "text": "nó sẽ rụng"
+    },
+    {
+     "t": 46.7,
+     "text": "mất 6 chiếc"
+    },
+    {
+     "t": 47.16,
+     "text": "sừng và đánh"
+    },
+    {
+     "t": 47.82,
+     "text": "mất luôn khả"
+    },
+    {
+     "t": 48.34,
+     "text": "năng bất tử!"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 48.99,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 49.24,
+     "text": "Một chiến thần"
+    },
+    {
+     "t": 49.72,
+     "text": "tái sinh chọn"
+    },
+    {
+     "t": 50.4,
+     "text": "mãi mãi làm"
+    },
+    {
+     "t": 50.92,
+     "text": "một đứa trẻ"
+    },
+    {
+     "t": 51.48,
+     "text": "để giữ trọn"
+    },
+    {
+     "t": 52.04,
+     "text": "nụ cười kỳ diệu!"
+    }
+   ]
+  }
+ ]
+}

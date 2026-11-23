@@ -1,0 +1,3 @@
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-02-rai-ca-bien/audio/scene06_eleven_p0.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-02-rai-ca-bien/audio/silence_400ms.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-02-rai-ca-bien/audio/scene06_eleven_p1.wav'

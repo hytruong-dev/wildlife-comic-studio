@@ -1,0 +1,799 @@
+{
+ "_doc": "Storyboard Tập 25: Bạch Tuộc Mimic (Format F6 - Hồ sơ đế chế & băng đảng). Mỗi câu/ý thoại = 1 beat = 1 ảnh riêng.",
+ "characters": {
+  "HERO": "chú Bạch Tuộc Mimic (Thaumoctopus mimicus) hoạt hình màu nâu vằn trắng sọc nổi bật, thân mềm mại, mắt to tròn đeo kính râm đen thám tử, đầu đội chiếc mũ phớt fedora màu xám đen ngầu lòi, tám chiếc xúc tu dẻo dai linh hoạt uốn lượn",
+  "HERO_S": "chú Bạch Tuộc Mimic nâu vằn trắng, mũ phớt fedora, kính râm đen thám tử",
+  "NO_HERO": "KHÔNG có chú bạch tuộc đội mũ phớt trong cảnh này",
+  "BOSS": "ông trùm điệp báo thế giới ngầm hoạt hình mặc áo măng-tô đen",
+  "AGENT": "cô đặc vụ tình báo hoạt hình đeo tai nghe bộ đàm"
+ },
+ "side_characters": [
+  "BOSS",
+  "AGENT"
+ ],
+ "shorts_side_characters": [
+  "BOSS"
+ ],
+ "shorts_title_lines": [
+  "9 BỘ NÃO VÀ 15",
+  "KHUÔN MẶT BIẾN HÌNH?!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Đáy đại dương sâu thẳm trong bóng tối huyền bí: những vệt sáng lờ mờ chiếu qua rạn san hô đen, không khí thế giới ngầm căng thẳng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Kẻ yếu thì phải",
+   "layout": "Chia đôi: BÊN TRÁI những chú cá nhỏ nhút nhát trốn sâu trong hốc đá tối; BÊN PHẢI con cá mập hổ dữ tợn giơ nanh vuốt săn lùng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "không có vỏ bọc cứng,",
+   "layout": "{HERO} bơi lững lờ giữa làn nước sâu, khoanh tay ngạo nghễ, không vỏ cứng không gai nhọn nhưng toát lên thần thái của một đại ca thế giới ngầm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chào đại ca, hôm",
+   "layout": "{AGENT} đeo tai nghe bộ đàm giơ chiếc cặp tài liệu tuyệt mật màu đen cúi đầu chào {HERO} đang ngồi trên bục chỉ huy san hô.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bật màn hình máy",
+   "layout": "{BOSS} mở màn hình máy quét bảo mật công nghệ cao, hiển thị bản đồ hồ sơ điệp viên Thaumoctopus mimicus phát sáng xanh lam. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Loài sinh vật bí",
+   "layout": "Bản đồ Indonesia phóng to vùng biển Sulawesi và Bali năm 1998; các thợ lặn chuyên nghiệp cầm đèn pin ngỡ ngàng phát hiện {HERO}.",
+   "stickers": [
+    {
+     "at": "1998",
+     "side": "L",
+     "y": 350,
+     "value": "1998",
+     "label": "phát hiện Sulawesi",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chiều dài sải tay",
+   "layout": "Ở GIỮA {HERO} bung rộng tám chiếc xúc tu vằn nâu trắng cạnh chiếc thước đo chiều cao 60cm màu vàng của cơ quan tình báo.",
+   "stickers": [
+    {
+     "at": "60cm",
+     "side": "R",
+     "y": 350,
+     "value": "60 CM",
+     "label": "sải tay bung rộng",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhìn bề ngoài nó",
+   "layout": "{HERO} tạo dáng điệp viên đeo kính râm đen giơ huy hiệu tình báo Điệp Viên Đại Dương lấp lánh màu vàng quyền lực.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Điều khiến mọi cơ",
+   "layout": "Bản đồ vệ tinh các hang hốc ngầm tối tăm nơi các loài bạch tuộc bình thường lẩn trốn trong bóng đêm. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Điệp Viên Đại Dương chọn",
+   "layout": "{HERO} ngạo nghễ lướt đi giữa bãi cát ngầm trống trải ban ngày đầy nắng, xung quanh có bóng cá săn mồi lượn lờ từ xa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Và vũ khí sinh",
+   "layout": "Vòng tròn 15 chiếc mặt nạ danh tính kịch độc xoay quanh {HERO}: rắn biển, cá sư tử, cá bơn, sứa biển, cá đuối tỏa hào quang biến hình.",
+   "stickers": [
+    {
+     "at": "15 loài",
+     "side": "R",
+     "y": 350,
+     "value": "15 LOÀI",
+     "label": "danh tính biến hình",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đêm nay, tôi mời",
+   "layout": "{BOSS} lật mở cuốn hồ sơ bìa da đóng dấu TUYỆT MẬT màu đỏ rực, {HERO} uốn xúc tu sẵn sàng bước vào nhiệm vụ đầu tiên.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Bảng hồ sơ hiện DANH TÍNH GIẢ SỐ 1: HÓA THÂN SÁT THỦ KỊCH ĐỘC; {BOSS} chỉ tay vào hình ảnh con rắn biển vằn đen trắng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Hãy quan sát một",
+   "layout": "Đáy cát biển nhiệt đới: một đàn cá thia hung hăng giương vây bao vây lấy {HERO} định tấn công rỉa thịt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Ở một góc ngách",
+   "layout": "{HERO} bị dồn vào chân tường cát, mặt vẫn lạnh lùng nhếch mép kéo chiếc kính râm đen, không hề có dấu hiệu sợ hãi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Gã lập tức thụt",
+   "layout": "{HERO} thụt toàn bộ thân đầu và 6 xúc tu chui tọt vào hang cát hẹp biến mất khỏi tầm mắt kẻ thù.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chỉ chừa lại đúng 2 chiếc",
+   "layout": "Từ miệng hang cát, đúng 2 chiếc xúc tu vằn đen trắng thò ra ngoài uốn éo theo hai hướng đối diện nhau như hai con rắn.",
+   "stickers": [
+    {
+     "at": "2 chiếc xúc tu",
+     "side": "R",
+     "y": 350,
+     "value": "2 XÚC TU",
+     "label": "giả rắn biển",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Trong vòng chưa đầy",
+   "layout": "Hai xúc tu biến hình hoàn hảo thành hai con rắn biển cạp nong vằn đen trắng le lưỡi ngoằn ngoèo khiến đàn cá thia giật bắn mình hoảng loạn.",
+   "stickers": [
+    {
+     "at": "1 giây",
+     "side": "L",
+     "y": 350,
+     "value": "1 GIÂY",
+     "label": "biến hình tức thì",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Cá thia nhìn thấy",
+   "layout": "Đàn cá thia hồn xiêu phách lạc quay đầu tháo chạy té khói; {BOSS} mỉm cười gật gù khen ngợi chiến thuật.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Điều chấn động giới",
+   "layout": "Bài báo khoa học của tiến sĩ Norman năm 2001 trên tạp chí Hoàng Gia Anh: biểu đồ phân tích bạch tuộc bắt chước có chủ đích. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "2001",
+     "side": "L",
+     "y": 350,
+     "value": "2001",
+     "label": "công bố Norman",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khi bị loài cá nào",
+   "layout": "Sơ đồ radar chiến thuật: {HERO} quét nhận diện cá thia và chọn đúng thiên địch rắn biển cạp nong để dọa lại.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và nếu kẻ thù",
+   "layout": "Một con cá nhồng hung dữ răng nhọn hoắt bơi lững lờ ở tầng nước giữa lăm le tấn công.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Gã liền kích hoạt",
+   "layout": "{HERO} bơi nhấc mình lên khỏi đáy cát, xòe rộng cả 8 chiếc xúc tu tỏa ra xung quanh như những chiếc gai nhọn phấp phới, da đổi vệt nâu sọc trắng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bùm! Trước mắt kẻ",
+   "layout": "Bùm! Trước mắt cá nhồng xuất hiện một chú Cá Sư Tử gai độc đầy gai nhọn chết người; con cá nhồng toát mồ hôi ngán ngẩm quay đầu bơi đi.",
+   "stickers": [],
+   "impacts": [
+    "bùm"
+   ]
+  },
+  {
+   "scene": "scene02",
+   "at": "Các thợ lặn chuyên",
+   "layout": "Ống kính máy quay của thợ lặn dưới đáy biển: {HERO} đang bơi thì gặp một con cá đuối lớn từ xa tiến lại gần.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Trong tích tắc không",
+   "layout": "{HERO} gập các xúc tu ra sau, phè thân mình phẳng lì uốn lượn hệt như một con cá đuối gai độc con lướt sóng cát êm ái.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "nhìn thấy tưởng đồng loại",
+   "layout": "Con cá đuối lớn bơi lướt qua {HERO} mà không hề nghi ngờ, tưởng đồng loại đi dạo; bảng Danh tính số 1 bật đèn xanh PASS.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Bảng hồ sơ chuyển sang DANH TÍNH GIẢ SỐ 2: NGHỆ THUẬT TÀNG HÌNH ĐƯỜNG TRƯỜNG. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Trong thế giới ngầm,",
+   "layout": "Bãi cát ngầm mênh mông trống trải ban ngày, bóng cá mập bơi lượn trên cao tìm kiếm con mồi. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng Điệp Viên Đại Dương",
+   "layout": "{HERO} khoác bộ trang phục ngụy trang đường trường màu nâu cát, nở nụ cười bí hiểm chuẩn bị lướt sóng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Gã ép sát toàn",
+   "layout": "{HERO} ép sát thân xuống mặt cát, chụm cả 8 chiếc xúc tu kéo dài ra phía sau thành hình giọt nước dẹt như một chiếc lá cây, da đổi màu cát lốm đốm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "và dùng chiếc phễu",
+   "layout": "Chiếc phễu đẩy nước phụt nhẹ đưa {HERO} lướt là là trên mặt cát giống hệt một con Cá Bơn độc đang bơi lướt sóng cát.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Kẻ săn mồi từ",
+   "layout": "Con cá săn mồi từ trên cao nhìn xuống đáy cát chỉ thấy một con cá bơn nhạt nhẽo chán ngắt liền lướt qua luôn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đại ca ơi, thế",
+   "layout": "{AGENT} cầm sổ ghi chép thắc mắc; {BOSS} bật cười vỗ vai trấn an chuẩn bị hé lộ tuyệt chiêu tầng nước giữa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nếu bị đẩy lên",
+   "layout": "{HERO} cuộn tròn xúc tu lại, phồng to phần đầu như chiếc ô dù trong suốt rồi bập bùng co bóp bơi giật lùi giữa tầng nước.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Biến hình ngay thành",
+   "layout": "{HERO} biến hình hoàn hảo thành một chú Sứa Biển trôi dạt lững lờ, tỏa xúc tu mờ ảo; kẻ thù thấy nọc châm né xa 10m.",
+   "stickers": [
+    {
+     "at": "10m",
+     "side": "R",
+     "y": 350,
+     "value": "NÉ 10 MÉT",
+     "label": "sợ nọc sứa biển",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chưa hết, gã còn",
+   "layout": "Bộ sưu tập 15 danh tính giả xoay quanh {HERO}: cá đuối gai, hải quỳ khổng lồ, tôm tít gập búa; bảng Danh tính số 2 bật PASS.",
+   "stickers": [
+    {
+     "at": "15 danh tính",
+     "side": "L",
+     "y": 350,
+     "value": "15 MẶT NẠ",
+     "label": "danh tính biến hình",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thậm chí khi cần",
+   "layout": "{HERO} dùng chiêu hóa trang ngược: biến hình thành một chú cua biển thân thiện giơ hai càng vẫy chào trước cửa hang đá mời gọi bạn ra chơi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Con mồi vừa tò",
+   "layout": "Chú cua nhỏ vừa bước ra liền bị 8 chiếc xúc tu thò ra tóm gọn sạch sẽ; {HERO} nháy mắt kéo kính râm cười đắc ý.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Bảng hồ sơ chuyển sang ĐẾ CHẾ 9 BỘ NÃO: MẠNG LƯỚI THẦN KINH PHI TẬP TRUNG; mô hình siêu máy tính sinh học mở ra. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Làm thế nào mà",
+   "layout": "{BOSS} chỉ vào mô hình giải phẫu đặt dấu hỏi lớn: làm sao sinh vật không xương nhớ và điều khiển 15 hình thái phức tạp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Câu trả lời nằm",
+   "layout": "Mặt cắt giải phẫu trong suốt của {HERO}: một bộ não trung tâm hình bánh vòng quanh thực quản và 8 hạch não lớn dọc suốt 8 chiếc xúc tu phát sáng xanh.",
+   "stickers": [
+    {
+     "at": "9 bộ não",
+     "side": "R",
+     "y": 350,
+     "value": "9 BỘ NÃO",
+     "label": "mạng lưới độc lập",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Một bộ não trung",
+   "layout": "Sơ đồ kết nối: não trung tâm hình bánh vòng ở giữa liên kết cáp thần kinh với 8 cụm não xúc tu rực rỡ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Trong tổng số hơn",
+   "layout": "Thước đo 500 triệu nơ-ron: 2/3 số nơ-ron nằm bên trong 8 chiếc xúc tu; hình chú chó thông minh đặt cạnh để so sánh trí tuệ tương đương.",
+   "stickers": [
+    {
+     "at": "500 triệu",
+     "side": "L",
+     "y": 350,
+     "value": "500 TRIỆU",
+     "label": "nơ-ron như loài chó",
+     "target": [
+      0.35,
+      0.45
+     ]
+    },
+    {
+     "at": "2/3",
+     "side": "R",
+     "y": 480,
+     "value": "2/3 NƠ-RON",
+     "label": "trong 8 chiếc xúc tu",
+     "target": [
+      0.68,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Điều này có nghĩa",
+   "layout": "Mỗi xúc tu của {HERO} hoạt động như một thám tử độc lập: giác hút tự nếm vị giác, tự cảm nhận nhiệt độ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "tự quyết định luồn",
+   "layout": "Các xúc tu tự quyết định luồn lách vào khe đá săn cua mà không cần chờ lệnh từ não bộ trung tâm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Não trung tâm chỉ",
+   "layout": "Não trung tâm phát tín hiệu chiến lược tối cao: Giả thành rắn biển!",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ngay lập tức, 2",
+   "layout": "2 xúc tu nhận lệnh tự động phối hợp màu sắc uốn lượn thành rắn biển, 6 xúc tu còn lại tự tìm khe cát giấu mình.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Sự phân quyền chỉ",
+   "layout": "Đồng hồ siêu tốc đếm 0,2 giây: sự phân quyền chỉ huy thần kinh tuyệt đỉnh giúp phản xạ biến hình chỉ trong tích tắc.",
+   "stickers": [
+    {
+     "at": "0,2 giây",
+     "side": "L",
+     "y": 350,
+     "value": "0,2 GIÂY",
+     "label": "phản xạ biến hình",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Các nhà khoa học",
+   "layout": "Thí nghiệm trí tuệ: một chiếc lọ thủy tinh có nắp vặn ren kín mít chứa thức ăn bên trong được đặt trước mặt {HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Không cần ai dạy",
+   "layout": "{HERO} dùng các xúc tu tự phối hợp vặn mở nắp ren lọ thủy tinh kín mít lấy thức ăn ngon lành chỉ trong vài chục giây.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Trí thông minh phân",
+   "layout": "Các kỹ sư chế tạo robot mềm và hệ thống trí tuệ nhân tạo thế hệ mới đang nghiên cứu mô hình cánh tay bạch tuộc; bảng Đế Chế 9 Não bật PASS.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Bảng hồ sơ chuyển sang MÀN HÌNH NANO VÀ DÒNG MÁU QUÝ TỘC. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Khác với tắc kè",
+   "layout": "So sánh: tắc kè hoa đổi màu chậm chạp nhờ hoóc-môn mất hàng phút; da của {HERO} là màn hình tinh thể lỏng sinh học đổi màu tức thì.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Làn da của gã",
+   "layout": "Kính hiển vi phóng to 3 tầng tế bào da: tầng trên cùng là hàng triệu túi sắc tố Chromatophores màu nâu, đen, vàng, đỏ có sợi cơ bao quanh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chỉ cần sợi thần",
+   "layout": "Xung điện thần kinh giật nhẹ làm sợi cơ co lại, kéo căng túi sắc tố to gấp 10 lần hiện màu rực rỡ chỉ trong 0,2 giây.",
+   "stickers": [
+    {
+     "at": "10 lần",
+     "side": "R",
+     "y": 350,
+     "value": "KÉO TO 10X",
+     "label": "đổi màu cơ học",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Cơ thả lỏng thì",
+   "layout": "Cơ thả lỏng thì túi sắc tố co lại biến mất; quá trình đổi màu diễn ra hoàn toàn bằng cơ học thuần túy trong chưa đầy 0,2 giây.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Phía dưới còn có",
+   "layout": "Tầng tế bào phản quang và tán xạ ánh sáng giúp {HERO} pha trộn mọi màu sắc và tạo vân da sần sùi hệt như rạn san hô đá xung quanh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Và dòng máu chảy",
+   "layout": "Ống nghiệm chứa mẫu máu của {HERO} màu xanh lam óng ánh quý tộc, cấu trúc protein Hemocyanin chứa nguyên tử đồng phát sáng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Vì sống dưới đáy",
+   "layout": "Dưới đáy biển lạnh giá nghèo oxy: phân tử Hemocyanin gốc đồng của {HERO} vận chuyển oxy hiệu quả gấp bội hemoglobin trong nước lạnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Để bơm dòng máu",
+   "layout": "Mặt cắt 3 quả tim trong thân {HERO}: 2 quả tim mang màu xanh đẩy máu nạp oxy, 1 quả tim chính bơm máu đi khắp 9 não và 8 xúc tu.",
+   "stickers": [
+    {
+     "at": "3 quả tim",
+     "side": "R",
+     "y": 350,
+     "value": "3 TRÁI TIM",
+     "label": "2 tim mang 1 tim chính",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "hai quả tim mang",
+   "layout": "Sơ đồ tuần hoàn: 2 quả tim mang hút máu đẩy qua mang nạp oxy, 1 quả tim chính khỏe khoắn bơm máu đi nuôi toàn cơ thể.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhưng khi gã bơi",
+   "layout": "Khi {HERO} bơi nước rút với tốc độ cao, quả tim chính tạm dừng đập dồn toàn lực cho cơ bắp; bơi một đoạn ngắn gã liền tàng hình ẩn nấp nghỉ ngơi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Không chỉ đổi màu",
+   "layout": "{HERO} co thắt cơ dưới da làm nổi lên những chiếc gai nhọn 3D sần sùi như rạn san hô đá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Bằng cách co thắt",
+   "layout": "{HERO} co thắt các bó cơ biểu bì dưới da làm nổi lên những chiếc gai nhọn 3D sần sùi hoặc làm phẳng lì trơn láng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Mắt người nhìn vào",
+   "layout": "Mặt cát mịn màng trơn láng: mắt người thường nhìn vào không thể phân biệt nổi đâu là rạn đá tự nhiên và đâu là gã điệp viên đang nằm rình mồi; bảng Màn Hình Nano bật PASS.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "{BOSS} đứng bên bàn tổng kết hồ sơ điệp báo số 25: giữa đại dương nơi các loài chạy đua mang giáp dày gai nhọn, {HERO} bơi ngạo nghễ với trí tuệ 9 bộ não tỏa sáng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "lấy sự mềm mại linh",
+   "layout": "15 danh tính giả xoay quanh {HERO}: sự mềm mại làm vũ khí, trí thông minh làm khiên chắn làm chủ thế giới ngầm đáy cát.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một sinh vật không",
+   "layout": "{BOSS} đóng dấu ĐÃ DUYỆT màu đỏ lên tập hồ sơ, trao lại cho {HERO} đang bơi lượn vẫy chào tạm biệt căn cứ tình báo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đơn báo cáo cuối",
+   "layout": "Bản báo cáo đóng dấu TUYỆT MẬT cho phép siêu điệp viên tiếp tục hoạt động ngầm tại vùng biển Indonesia.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Còn anh em thì",
+   "layout": "Hai bàn cân lựa chọn: BÊN TRÁI biểu tượng 9 bộ não thông thái; BÊN PHẢI biểu tượng tài hóa trang biến hình 0,2 giây, các thám tử nhỏ hào hứng giơ thẻ bình chọn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hồ sơ điệp viên",
+   "layout": "{BOSS} khóa chặt tủ sắt hồ sơ số 25, trên bàn mở ra bản đồ nước Úc với chiếc xe bọc thép đào hang bí ẩn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một sinh vật mũm",
+   "layout": "Một sinh vật bí ẩn được vẽ hoàn toàn bằng BÓNG ĐEN ĐẶC TUYỀN (solid black silhouette) hình thú có túi mập mạp đang đào hang ở nước Úc, phần mông phát sáng cứng như thép tấm; có dấu hỏi chấm vàng lớn; KHÔNG vẽ rõ mắt mũi lông. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chưa hết, nó là",
+   "layout": "Cũng chiếc BÓNG ĐEN ĐẶC TUYỀN (solid black silhouette) mập mạp đó thải ra những viên phân hình khối lập phương vuông vức như viên xúc xắc; ba dấu hỏi chấm lớn lấp lánh vàng cam mời gọi khán giả đoán tên. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Khung dọc: kẻ thù bao vây {HERO}, {HERO} rút 6 xúc tu vào hang.",
+   "stickers": []
+  },
+  {
+   "at": "mà lập tức biến 2",
+   "layout": "Phóng 2 xúc tu vằn đen trắng ra ngoài biến thành rắn biển cạp nong le lưỡi dọa lại kẻ đi săn.",
+   "stickers": []
+  },
+  {
+   "at": "Xin giới thiệu Bạch",
+   "layout": "{HERO} sải tay 60cm bơi bảnh bao đội mũ phớt kính râm trên nền cát Indonesia, chiếc thước đo chiều cao màu vàng dựng thẳng.",
+   "stickers": [
+    {
+     "at": "60cm",
+     "side": "R",
+     "y": 620,
+     "value": "60 CM",
+     "label": "sải tay bãi cát",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Nó sở hữu tới",
+   "layout": "Khung dọc trong suốt: đồ họa 9 bộ não phát sáng, 3 quả tim bơm máu xanh lam óng ánh.",
+   "stickers": [
+    {
+     "at": "9 bộ não",
+     "side": "L",
+     "y": 620,
+     "value": "9 BỘ NÃO",
+     "label": "3 tim máu xanh",
+     "target": [
+      0.4,
+      0.52
+     ]
+    }
+   ]
+  },
+  {
+   "at": "và tài năng hóa",
+   "layout": "15 chiếc mặt nạ danh tính kịch độc xoay quanh {HERO} phát sáng biến hình rực rỡ.",
+   "stickers": []
+  },
+  {
+   "at": "Bị cá thia tấn",
+   "layout": "{HERO} thụt thân vào hang, 2 xúc tu vằn đen trắng thò ra uốn éo thành rắn biển cạp nong khiến cá thia bỏ chạy.",
+   "stickers": []
+  },
+  {
+   "at": "Gặp cá nhồng hung",
+   "layout": "{HERO} xòe 8 xúc tu bơi lơ lửng, da đổi sọc nâu trắng biến thành chú Cá Sư Tử gai độc đầy gai nhọn làm cá nhồng dè chừng.",
+   "stickers": []
+  },
+  {
+   "at": "Cần di chuyển qua",
+   "layout": "{HERO} ép dẹt toàn thân sát cát thành hình chiếc lá lướt sóng nhẹ nhàng giả dạng con Cá Bơn độc.",
+   "stickers": []
+  },
+  {
+   "at": "Làn da của nó",
+   "layout": "Kính hiển vi phóng to hàng triệu túi sắc tố trên da {HERO} đổi màu cơ học chỉ trong 0,2 giây.",
+   "stickers": [
+    {
+     "at": "0,2 giây",
+     "side": "R",
+     "y": 680,
+     "value": "0,2 GIÂY",
+     "label": "đổi màu cơ học",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Một bậc thầy tình",
+   "layout": "Chân dung {HERO} ngầu lòi giữa đại dương, đội mũ phớt kính râm đen, 8 xúc tu uốn lượn uy quyền của siêu điệp viên thế giới ngầm.",
+   "stickers": []
+  }
+ ]
+}

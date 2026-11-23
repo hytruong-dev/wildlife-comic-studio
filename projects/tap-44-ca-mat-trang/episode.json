@@ -1,0 +1,338 @@
+{
+ "episode_no": 44,
+ "animal": "Cá Mặt Trăng",
+ "slug": "tap-44-ca-mat-trang",
+ "format": "F1",
+ "persona": "bac_si",
+ "nickname": "Gã khổng lồ vô tri",
+ "sources": [
+  "Pope, E. C. et al. (2010). The biology and ecology of the ocean sunfish Mola mola: a review of current knowledge. J. Fish Biol., 77(9), 2045-2070 (Nặng tới 2 tấn, đẻ tới 300 triệu trứng/lần - kỷ lục động vật có xương sống; cơ thể không có đuôi cá thật mà biến tính thành thùy clavus cụt lủn)",
+  "Nakamura, I. et al. (2015). Ocean sunfish re-warm at the surface after deep foraging. J. Anim. Ecol., 84(4), 590-603 (Lặn sâu tới 800 mét săn sứa lạnh 4°C, sau đó ngoi lên mặt nước nằm nghiêng phơi nắng để sưởi ấm thân nhiệt)",
+  "Thys, T. M. et al. (2015). First tracking of giant ocean sunfish, Mola mola, in the Western Pacific. PLoS ONE, 10(2), e0117004 (Chế độ ăn 99% sứa biển, một loài thức ăn cực nghèo calo nên phải ăn liên tục cả tạ sứa mỗi ngày)",
+  "Watanabe, Y. Y. & Sato, K. (2008). Functional ecology of the ocean sunfish: an efficient swimmer. J. Exp. Biol., 211(12), 1969-1978 (Bơi bằng hai vây lưng và vây hậu môn quạt nhịp nhàng như cánh chim, tốc độ bơi thực tế đạt 3.2 km/h chứ không hề lờ đờ trôi nổi)",
+  "Nyegaard, M. et al. (2018). Hiding in broad daylight: molecular and morphological data reveal a new ocean sunfish species. Zool. J. Linn. Soc., 184(3), 631-663 (Cơ thể bị hơn 40 loài ký sinh trùng bám dính, phải nhờ chim mòng biển và cá vệ sinh rỉa sạch)"
+ ],
+ "whisper_prompt": "Cá Mặt Trăng, Mola mola, Gã khổng lồ vô tri, Cái đầu cụt biết bơi, thùy clavus, sứa biển, 2 tấn, 300 triệu trứng, 800 mét, 4°C, 3.2 km/h, Bác sĩ",
+ "display_fix": {
+  "bốn mươi tư": "44",
+  "Bốn mươi tư": "44",
+  "bốn mươi bốn": "44",
+  "Bốn mươi bốn": "44",
+  "Tập bốn mươi tư": "Tập 44",
+  "bốn mươi ba": "43",
+  "Bốn mươi ba": "43",
+  "bốn mươi lăm": "45",
+  "Bốn mươi lăm": "45",
+  "số bốn mươi tư": "số 44",
+  "Số bốn mươi tư": "Số 44",
+  "số bốn mươi lăm": "số 45",
+  "Số bốn mươi lăm": "Số 45",
+  "hai tấn": "2 tấn",
+  "Hai tấn": "2 tấn",
+  "mười tấn": "10 tấn",
+  "Mười tấn": "10 tấn",
+  "ba mét": "3 mét",
+  "Ba mét": "3 mét",
+  "bốn mét": "4 mét",
+  "Bốn mét": "4 mét",
+  "ba trăm triệu": "300 triệu",
+  "Ba trăm triệu": "300 triệu",
+  "tám trăm mét": "800 mét",
+  "Tám trăm mét": "800 mét",
+  "bốn độ C": "4°C",
+  "Bốn độ C": "4°C",
+  "chín mươi chín phần trăm": "99%",
+  "Chín mươi chín phần trăm": "99%",
+  "bốn mươi loài": "40 loài",
+  "Bốn mươi loài": "40 loài",
+  "ba chấm hai ki-lô-mét một giờ": "3.2 km/h",
+  "Ba chấm hai ki-lô-mét một giờ": "3.2 km/h",
+  "hai mươi bốn giờ": "24 giờ",
+  "Hai mươi bốn giờ": "24 giờ",
+  "hàng chục triệu năm": "hàng chục triệu năm",
+  "Hàng chục triệu năm": "Hàng chục triệu năm",
+  "hàng trăm triệu": "hàng trăm triệu",
+  "Hàng trăm triệu": "Hàng trăm triệu",
+  "hàng trăm cân": "hàng trăm cân",
+  "Hàng trăm cân": "Hàng trăm cân",
+  "một trăm mét khối": "100 m³",
+  "Một trăm mét khối": "100 m³",
+  "bảy chấm năm xăng-ti-mét": "7.5 cm",
+  "Bảy chấm năm xăng-ti-mét": "7.5 cm",
+  "hai mi-li-mét": "2 mm",
+  "Hai mi-li-mét": "2 mm",
+  "sáu mươi triệu lần": "60 triệu lần",
+  "Sáu mươi triệu lần": "60 triệu lần",
+  "sáu mươi triệu": "60 triệu",
+  "Sáu mươi triệu": "60 triệu",
+  "bốn cân": "4 kg",
+  "Bốn cân": "4 kg",
+  "chục cây số": "chục cây số",
+  "không một loài": "không 1 loài",
+  "Không một loài": "Không 1 loài",
+  "không một": "không 1",
+  "Không một": "Không 1",
+  "hàng ngàn": "hàng 1.000",
+  "Hàng ngàn": "Hàng 1.000",
+  "hàng loạt": "hàng loạt",
+  "Hàng loạt": "Hàng loạt",
+  "triệu năm": "triệu năm",
+  "trăm triệu": "trăm triệu",
+  "một trăm": "100",
+  "Một trăm": "100",
+  "một không hai": "1 0 2"
+ },
+ "voice": {
+  "format": "F1",
+  "persona": "bac_si",
+  "mood_weights": {
+   "hao_hung": 0.34,
+   "don_dap": 0.22,
+   "tram_bi_an": 0.18,
+   "nghiem_trang_gia": 0.14,
+   "am_ap": 0.12
+  },
+  "cameo_parts": [
+   {
+    "scene": "scene01",
+    "part_idx": 1,
+    "cast": "co_tro_ly"
+   },
+   {
+    "scene": "scene02",
+    "part_idx": 1,
+    "cast": "co_tro_ly"
+   },
+   {
+    "scene": "scene04",
+    "part_idx": 1,
+    "cast": "co_tro_ly"
+   }
+  ]
+ },
+ "art": {
+  "decor": "red and white lifebuoy rings, oceanic jellyfish tentacles, clinical sea-depth thermometers",
+  "shorts_mascot": "A huge cute cartoon ocean sunfish floating sideways on pure white background, round googly eyes looking at a floating jellyfish with blank funny expression",
+  "thumb_bg": "deep pastel turquoise ocean sunburst with dreamy coral reef silhouettes in pastel violet and light azure",
+  "thumb_title": [
+   "NẶNG 2 TẤN VÔ TRI?!",
+   "BỊ HẢI CẨU CẮN VẪN NẰM PHƠI NẮNG"
+  ],
+  "thumb_scene": "chú cá mặt trăng hoạt hình khổng lồ hình đĩa tròn cụt đuôi ngơ ngác phơi nắng trên mặt biển, một chú chim mòng biển đậu trên má rỉa ký sinh trùng",
+  "thumb_gag": "chú hải cẩu đang cắn đuôi cá nhưng cá mặt trăng vẫn cười ngây ngô mút kem que"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "HỒ SƠ BỆNH ÁN",
+    "banner_title": "BỆNH NHÂN KHỔNG LỒ VÔ TRI",
+    "chapter_title": "Bệnh Án Gã Khổng Lồ 2 Tấn Ngơ Ngác Nhất Đại Dương",
+    "hook": "BỆNH ÁN GÃ KHỔNG LỒ HAI TẤN CỤT ĐUÔI VÔ TRI NHẤT ĐẠI DƯƠNG",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Mời bệnh nhân tiếp theo bước vào phòng cấp cứu đa khoa sinh vật biển khơi! Y tá đâu, điều động ngay cho tôi một chiếc cần cẩu công nghiệp tải trọng mười tấn và một bể nước muối dung tích một trăm mét khối khẩn cấp! Bệnh nhân hôm nay của chúng ta là một ca bệnh tâm lý và giải phẫu kỳ quặc bậc nhất hành tinh: Một sinh vật biển nặng tương đương một chiếc xe ô tô tải bọc thép, nhưng gương mặt lúc nào cũng đờ đẫn ngơ ngác tựa như không hề có một gợn sóng suy nghĩ nào trong não bộ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bác sĩ ơi, cái cân điện tử của bệnh viện vừa sập gãy đôi rồi ạ! Con cá này nó to như cái bánh xe khổng lồ ấy bác ơi!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-oh] Bệnh nhân mang mã số bốn mươi tư của chúng ta có tên khoa học là Mola mola, hay còn gọi là Cá Mặt Trăng đại dương! Nhưng tôi thường gọi thân mật ca bệnh khó đỡ này là: Gã khổng lồ vô tri! Trong khi các loài thủy quái biển sâu sở hữu hàm răng sắc nhọn, thân hình thuôn dài khí động học để săn mồi chớp nhoáng, thì bệnh nhân này lại có một thân hình dẹt tròn lẳn cụt ngủn chẳng khác nào một cái đầu cá khổng lồ bị cắt cụt đuôi đang lềnh bềnh trôi dạt giữa đại dương bao la! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Khám nghiệm thể trọng của gã sẽ khiến bạn phải ngã ngửa: Một con cá mặt trăng trưởng thành có thể đạt chiều dài hơn ba mét, sải vây từ đỉnh vây lưng xuống vây bụng lên tới bốn mét, và cân nặng vượt mốc hai tấn! Đây chính là loài cá có xương thật nặng nhất trên toàn bộ hành tinh Trái Đất! Nhưng nhìn vào đôi mắt tròn xoe vô hồn và chiếc miệng tròn vo lúc nào cũng há hốc ra ngơ ngác, bạn sẽ tự hỏi: Làm thế nào mà một cỗ máy sinh học ngớ ngẩn nhường này lại có thể sinh tồn suốt hàng chục triệu năm qua giữa muôn trùng hiểm nguy của biển cả?",
+      "mood": "tram_bi_an"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "GIẢI PHẪU DỊ TẬT",
+    "banner_title": "CƠ THỂ KHÔNG CÓ ĐUÔI CÁ",
+    "chapter_title": "Cấu Tạo Xương Sụn Kỳ Lạ Và Thùy Đuôi Clavus Cụt Ngủn",
+    "hook": "CỖ MÁY SINH HỌC CỤT ĐUÔI BƠI BẰNG HAI CÁNH VÂY KHỔNG LỒ",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Hãy đặt tấm phim chụp cắt lớp vi tính toàn thân của Gã khổng lồ vô tri lên màn hình chẩn đoán! Điều đầu tiên khiến toàn thể bác sĩ phẫu thuật phải dụi mắt hoài nghi: Con cá này hoàn toàn không có đuôi cá thật sự! Trong giải phẫu học loài cá, chiếc vây đuôi phía sau là động cơ đẩy chính giúp cá tăng tốc rẽ sóng. Nhưng ở cá mặt trăng, xương đuôi và cuống đuôi đã bị teo biến hoàn toàn trong quá trình tiến hóa!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ủa bác sĩ ơi, thế cái rìa thịt lượn sóng phía sau mông của nó là cái gì thế ạ?",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-wa] Cô trợ lý đã phát hiện đúng dị tật độc nhất vô nhị của bệnh nhân! Phần viền thịt nhăn nheo phía sau đuôi gã được các nhà giải phẫu gọi là thùy clavus! Đây thực chất là phần vây lưng và vây hậu môn bị kéo dài rồi hợp nhất lại thành một chiếc bánh lái thịt cụt lủn! Chiếc bánh lái này hoàn toàn không có lực đẩy về phía trước, mà chỉ đóng vai trò như một bánh lái tàu thủy lờ đờ rẽ hướng! [laughter] Chưa hết đâu nhé, bộ xương của gã khổng lồ hai tấn này phần lớn không phải là xương cứng đặc như cá chép hay cá ngừ, mà đã thoái hóa thành chất sụn xốp mềm chứa đầy nước, giúp cơ thể gã giảm thiểu tối đa trọng lượng riêng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Đặc biệt hơn nữa, Gã khổng lồ vô tri hoàn toàn không có bong bóng cá! Điều này đồng nghĩa với việc gã không thể điều chỉnh độ nổi nhẹ nhàng như các loài cá thông thường. Nhưng tạo hóa đã bù đắp cho gã một cặp động cơ phản lực sinh học thần sầu: Chiếc vây lưng cao vút và chiếc vây hậu môn dài ngoằng đập nhịp nhàng từ bên này sang bên kia giống hệt như đôi cánh của loài chim cánh cụt bay lượn dưới nước! Nhóm nghiên cứu của tiến sĩ Watanabe tại Đại học Tokyo đã gắn thẻ định vị điện tử và phát hiện ra: Gã khổng lồ này có thể bơi với vận tốc ba chấm hai ki-lô-mét một giờ, hoàn toàn không phải là một khúc gỗ mục trôi dạt vô định như người đời vẫn lầm tưởng!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Chưa hết đâu nhé, hãy nhìn vào tấm sinh thiết lớp biểu bì của gã! Cơ thể cá mặt trăng hoàn toàn không có vảy cá thông thường, mà được bọc kín bởi một lớp da collagen dày tới bảy chấm năm xăng-ti-mét, dẻo dai tựa như lớp lốp xe tải bọc thép! Phía trên bề mặt da phủ đầy những chiếc gai vi thể li ti tiết ra lớp chất nhờn kháng khuẩn trơn tuột, biến cơ thể gã thành một pháo đài đệm thịt êm ái hấp thụ mọi va đập giữa lòng đại dương sóng gió!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "THỰC ĐƠN KỲ LẶC",
+    "banner_title": "CHUYÊN GIA SĂN SỨA BIỂN SÂU",
+    "chapter_title": "Chế Độ Ăn 99% Nước Và Chuyến Lặn Sâu 800 Mét",
+    "hook": "LẶN SÂU TÁM TRĂM MÉT SĂN SỨA DƯỚI CÁI LẠNH BỐN ĐỘ C",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Chẩn đoán triệu chứng số ba dẫn chúng ta vào nhà bếp của Gã khổng lồ vô tri! Với thân hình đồ sộ nặng tới hai tấn, bạn nghĩ thực đơn hằng ngày của gã phải là những đàn cá ngừ béo ngậy hay mực ống giàu đạm đúng không? Hoàn toàn sai lầm! Chiếc miệng của cá mặt trăng nhỏ xíu, các răng dính liền lại thành một chiếc mỏ vẹt cứng nhắc không thể nhai nghiền con mồi lớn. Và món ăn khoái khẩu duy nhất chiếm tới chín mươi chín phần trăm khẩu phần của gã chính là: Sứa biển!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ai cũng biết sứa biển là một món ăn thảm họa dinh dưỡng: Cơ thể sứa chứa tới chín mươi chín phần trăm là nước muối, hàm lượng calo và protein thấp đến mức gần như bằng không! Để nuôi sống cỗ máy sinh học nặng hai tấn chỉ bằng sứa, Gã khổng lồ vô tri phải làm việc cật lực như một cỗ máy hút bụi đáy đại dương, nuốt chửng hàng trăm cân sứa biển mỗi ngày!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Nhưng nuốt một con sứa trơn tuột đầy chất nhầy vào bụng không hề đơn giản chút nào! Hãy cầm đèn pin soi sâu vào khoang miệng của bệnh nhân: Toàn bộ phần cuống họng của cá mặt trăng được trang bị những cụm răng họng nhọn hoắt xếp cong về phía sau! Khi gã hút nước nuốt sứa vào, chiếc cuống họng này hoạt động như một chiếc máy ép nước ly tâm: Răng họng giữ chặt con mồi không cho trôi ngược ra ngoài, đồng thời cơ họng co bóp cực mạnh để ép kiệt nước biển thừa ra khỏi mang trước khi tống cả tảng thạch sứa đậm đặc vào dạ dày tiêu hóa!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "[surprise-oh] Để săn được những con sứa khổng lồ giàu dinh dưỡng, cá mặt trăng phải thực hiện những chuyến lặn thám hiểm cực kỳ mạo hiểm: Gã lặn thẳng xuống độ sâu tám trăm mét dưới đáy biển tăm tối, nơi áp suất nước nghiền nát kim loại và nhiệt độ tụt dốc thê thảm xuống chỉ còn bốn độ C! Nhờ lớp mỡ dày dưới da đóng vai trò như một lớp áo cách nhiệt, gã có thể săn mồi trong vùng nước băng giá suốt hàng giờ liền trước khi cơ thể bị hạ thân nhiệt nguy kịch!",
+      "mood": "tram_bi_an"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "SPA ĐẠI DƯƠNG",
+    "banner_title": "TẮM NẮNG VÀ TRỊ LIỆU SPA",
+    "chapter_title": "Hành Vi Nằm Nghiêng Phơi Nắng Và Khách Sạn Ký Sinh Trùng",
+    "hook": "NẰM PHƠI NẮNG BỂ BƠI ĐỂ HỒI PHỤC THÂN NHIỆT VÀ TRỊ LIỆU",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Sau mỗi chuyến lặn sâu tám trăm mét buốt giá dưới đáy đại dương, Gã khổng lồ vô tri lập tức kích hoạt liệu trình hồi sức cấp cứu độc nhất vô nhị: Gã ngoi thẳng lên mặt biển thoáng, lật nghiêng toàn bộ cơ thể dẹt hai tấn nằm phơi bụng nổi bồng bềnh trên mặt nước! Dưới ánh nắng mặt trời rực rỡ, bề mặt cơ thể rộng lớn của gã hoạt động tựa như một tấm pin năng lượng mặt trời khổng lồ, hấp thụ nhiệt lượng từ ánh nắng để sưởi ấm lại dòng máu lạnh giá và tái kích hoạt hệ thống tiêu hóa sứa biển!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bác sĩ ơi, trên người con cá này lúc nhúc hàng ngàn con bọ ghẻ kinh dị lắm bác ơi!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-wa] Đây chính là ca bệnh da liễu kinh hoàng nhất lịch sử phòng khám chúng ta! Do tốc độ di chuyển chậm rãi và lớp da nhớt không có vảy cứng, cơ thể cá mặt trăng trở thành một khách sạn năm sao di động cho hơn bốn mươi loài ký sinh trùng khác nhau bu bám! Có những loài giáp xác ký sinh cắm sâu vào mang, thậm chí ký sinh trùng này lại bị một loài ký sinh trùng khác đẻ trứng lên mình! [laughter] Nhưng Gã khổng lồ vô tri đã giải quyết vấn nạn này bằng một dịch vụ spa ngoài trời vô cùng thông minh!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Khi gã nằm nghiêng phơi nắng trên mặt biển, gã phát ra tín hiệu mời gọi các bác sĩ làm đẹp tự nhiên: Từng đàn cá bướm và cá thiên thần bơi lại rỉa sạch những con rận biển bám trên da gã. Thậm chí các chú chim mòng biển còn thản nhiên đáp thẳng xuống sườn của chú cá mặt trăng nổi bồng bềnh, cần mẫn dùng mỏ mổ từng con ký sinh trùng béo ngậy! Một dịch vụ cộng sinh spa miễn phí đỉnh cao giữa bầu trời và biển cả!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Đặc biệt hơn nữa, nếu liệu trình spa bằng chim mòng biển vẫn chưa giải quyết dứt điểm những con bọ bám dai dẳng, Gã khổng lồ vô tri sẽ kích hoạt tuyệt chiêu thể dục dưỡng sinh có một không hai: Gã lấy đà từ dưới làn nước sâu, quạt hai cánh vây hết tốc lực rồi phóng vọt cả khối thân nặng hai tấn bay thẳng lên khỏi mặt biển cao tới ba mét! [laughter] Sau đó, gã thả tự do rơi tự do rồi đập cả tấm thân dẹt khổng lồ xuống mặt nước đánh BẸP một tiếng vang dội như một vụ nổ pháo hoa! Cú va chạm bề mặt kinh thiên động địa ấy đủ sức đánh văng hàng loạt loài rận biển cứng đầu ra khỏi da thịt trong sự ngỡ ngàng của giới quan sát!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "CỖ MÁY SINH SẢN",
+    "banner_title": "KỶ LỤC 300 TRIỆU TRỨNG",
+    "chapter_title": "Kỷ Lục Sinh Sản Đỉnh Cao Bù Đắp Chỉ Số Sinh Tồn Cực Thấp",
+    "hook": "KỶ LỤC VÔ ĐỊCH ĐẺ BA TRĂM TRIỆU TRỨNG TRONG MỘT LẦN",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Chẩn đoán y khoa cuối cùng giải mã lý do tại sao một sinh vật ngơ ngác, chậm chạp và không hề có vũ khí tự vệ lại không bị tuyệt chủng khỏi Trái Đất! Các thủy thủ viễn dương thường xuyên chứng kiến những cảnh tượng đau lòng: Khi bị hải cẩu hay sư tử biển tấn công, hải cẩu cắn đứt từng mảng vây của cá mặt trăng rồi xé toang lớp da, nhưng Gã khổng lồ vô tri vẫn chỉ trơ mắt nhìn trời với vẻ mặt bình thản không chút hoảng loạn! Gã hoàn toàn không có phản xạ tự vệ hay tấn công đáp trả!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "[surprise-oh] Với tỷ lệ bị săn bắt tàn khốc như vậy, chỉ một trong số hàng trăm triệu cá con có thể sống sót đến tuổi trưởng thành. Nhưng tạo hóa đã ban tặng cho bệnh nhân này một cỗ máy sinh sản vô địch thiên hạ: Trong mỗi mùa sinh sản, một con cá mặt trăng cái có thể phóng thích tới ba trăm triệu quả trứng vào làn nước biển! Đây là một kỷ lục vô tiền khoáng hậu, không một loài động vật có xương sống nào trên Trái Đất có thể so bì!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Hãy nhìn vào bức ảnh siêu âm ấu trùng của bệnh nhân: Chú cá con lúc mới chui ra khỏi vỏ trứng chỉ dài vỏn vẹn hai mi-li-mét, nhỏ hơn cả đầu tăm nhưng lại mang một ngoại hình cực kỳ tấu hài: Toàn thân chú cá con tròn ủng như một quả cầu gai, xung quanh mọc chìa ra hàng chục chiếc gai nhọn hoắt trông hệt như một chiếc phi thuyền người ngoài hành tinh tí hon! Chiếc áo giáp gai nhọn ấy giúp ấu trùng trôi nổi như sinh vật phù du và bảo vệ chúng khỏi miệng những kẻ săn mồi tí hon dưới đáy biển sâu!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Kỳ diệu hơn nữa, những chú cá mặt trăng sơ sinh vừa nở ra chỉ dài vỏn vẹn hai mi-li-mét, nhỏ hơn cả một hạt vừng và được bao bọc bởi những chiếc gai nhọn hoắt như một chú cá nóc mini! Từ kích thước hai mi-li-mét bé tí xíu ấy, cá con phải tăng trưởng khối lượng gấp sáu mươi triệu lần để trở thành một gã khổng lồ nặng hai tấn! Một bước nhảy vọt thể trọng vĩ đại nhất trong toàn bộ thế giới sinh vật biển!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "LỜI KẾT BỆNH ÁN",
+    "banner_title": "BÀI HỌC VÔ TRI TRƯỚC SÓNG GIÓ",
+    "chapter_title": "Đơn Thuốc Tiến Hóa Và Thử Thách Đoán Tập 45",
+    "hook": "ĐƠN THUỐC TIẾN HÓA VÀ THỬ THÁCH ĐOÁN TẬP BỐN MƯƠI LĂM",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Hồ sơ bệnh án số bốn mươi tư chính thức khép lại với kết luận chẩn đoán: Cá Mặt Trăng hoàn toàn khỏe mạnh và là một bài học sinh tồn triết lý sâu sắc của mẹ thiên nhiên! Đôi khi trong cuộc sống, bạn không cần phải quá bon chen ganh đua, không cần phải trang bị móng vuốt nanh nhọn để gầm gừ đe dọa người khác. Gã khổng lồ vô tri dạy chúng ta rằng: Cứ bình thản sống, cứ mở lòng phơi nắng đón nhận những điều tươi đẹp, và kiên trì mở lối đi riêng, đại dương bao la sẽ luôn dành cho bạn một chỗ đứng vững vàng!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Nếu được sinh ra với một đặc tính của loài cá mặt trăng, bạn muốn sở hữu chiếc đầu khổng lồ hai tấn vô tư phơi nắng hay cỗ máy sinh sản ba trăm triệu quả trứng? Hãy để lại bình luận chẩn đoán của bạn bên dưới nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Còn bây giờ, hãy chuẩn bị bước vào bản tin hiện trường trực tiếp của hồ sơ số bốn mươi lăm! Một chú vẹt béo múp bốn cân đến từ New Zealand, loài vẹt duy nhất trên thế giới đã hoàn toàn quên mất cách bay, đêm đêm đi bộ cả chục cây số, và thỉnh thoảng lại thích trèo lên ngọn cây cao rồi nhảy ùm xuống đất đập mặt ngơ ngác! Bạn có biết phóng sự điều tra này sẽ đưa chúng ta gặp gỡ chú vẹt nào không?",
+      "mood": "tram_bi_an"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Nặng tới hai tấn nhưng hiền đến mức bị hải cẩu bơi lại cắn đứt từng mảng vây nó cũng chỉ nằm ngửa nhìn trời ngơ ngác! Đây là Cá Mặt Trăng, gã khổng lồ vô tri nặng nhất thế giới loài cá có xương! To xác như chiếc ô tô tải nhưng gã hoàn toàn không có đuôi cá thật sự, cơ thể cụt lủn chỉ có cái đầu tròn xoe bơi bằng hai cánh vây khổng lồ. Món ăn khoái khẩu của gã là sứa biển chứa chín mươi chín phần trăm nước, nên gã phải ăn cả tạ sứa mỗi ngày và lặn sâu tám trăm mét dưới cái lạnh bốn độ C. Sau mỗi chuyến lặn buốt giá, gã ngoi lên mặt nước nằm nghiêng phơi nắng để sưởi ấm dòng máu lạnh và cho chim mòng biển rỉa sạch ký sinh trùng. Đổi lại sự ngơ ngác ấy, cá mẹ đẻ tới ba trăm triệu quả trứng mỗi lần, một kỷ lục vô địch tuyệt đối trong giới động vật có xương sống!",
+  "title_lines": [
+   "NẶNG 2 TẤN VÔ TRI",
+   "BỊ CẮN VẪN PHƠI NẮNG?!"
+  ]
+ },
+ "seo": {
+  "title": "Gã Khổng Lồ 2 Tấn Vô Tri: Bị Hải Cẩu Cắn Vẫn Nằm Phơi Nắng?! | Cá Mặt Trăng | Tập 44",
+  "hook_paragraph": "Khám phá bệnh án kỳ lạ của Cá Mặt Trăng (Mola mola) — gã khổng lồ vô tri nặng 2 tấn cụt ngủn như cái đầu biết bơi, lặn sâu 800m săn sứa biển, đẻ 300 triệu trứng và nằm phơi nắng cho chim mòng biển rỉa spa!",
+  "bullets": [
+   "Cơ thể dị hợm nặng 2 tấn hoàn toàn không có đuôi cá thật mà biến tính thành thùy clavus cụt lủn",
+   "Thực đơn 99% nước của sứa biển buộc cá phải ăn cả tạ sứa mỗi ngày",
+   "Lặn sâu 800 mét dưới đáy biển buốt giá 4°C để săn sứa rồi ngoi lên phơi nắng sưởi ấm",
+   "Khách sạn di động cho hơn 40 loài ký sinh trùng được chim mòng biển làm spa miễn phí",
+   "Kỷ lục sinh sản vô địch thế giới động vật có xương sống với 300 triệu quả trứng mỗi lần"
+  ],
+  "question": "Nếu được sở hữu một đặc tính của loài cá này, bạn muốn có cơ thể 2 tấn vô tri phơi nắng hay kỷ lục đẻ 300 triệu trứng?",
+  "next_teaser": "Tập 45: Nhật ký 24h của chú vẹt béo quên cách bay thích leo cây nhảy đập mặt — Vẹt Kakapo!",
+  "hashtags": [
+   "#CaMatTrang",
+   "#MolaMola",
+   "#TheGioiDongVat",
+   "#VeChuyenHoangDa",
+   "#KhoaHoc",
+   "#DongVatKyThu"
+  ],
+  "tags": [
+   "cá mặt trăng",
+   "ca mat trang",
+   "mola mola",
+   "ocean sunfish",
+   "cá khổng lồ vô tri",
+   "cá đẻ 300 triệu trứng",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã",
+   "tập 44"
+  ],
+  "shorts_title": "Gã khổng lồ 2 tấn bị cắn vẫn nằm phơi nắng?! 🐟☀️ #shorts #dongvat #khoahoc",
+  "shorts_desc": "Khám phá bí mật sinh tồn của Cá Mặt Trăng nặng 2 tấn cụt đuôi ngơ ngác, đẻ 300 triệu trứng và nằm nghiêng phơi nắng giữa đại dương!",
+  "shorts_tags": [
+   "cá mặt trăng",
+   "mola mola",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ]
+ }
+}

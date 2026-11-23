@@ -1,0 +1,679 @@
+{
+ "_doc": "Storyboard Tập 28: Kiến Nổ Cảm Tử (Format F6 - Hồ sơ đế chế & băng đảng). Mỗi câu/ý thoại = 1 beat = 1 ảnh riêng.",
+ "characters": {
+  "HERO": "chú Kiến Nổ Cảm Tử (Colobopsis explodens) hoạt hình màu nâu đỏ, đầu to tròn với đôi mắt đen sắc sảo, cặp râu cong linh hoạt, phần bụng gaster căng tròn màu cam đỏ, đeo một chiếc băng đô đỏ thắt nơ kiểu cảm tử quân dũng cảm trên đầu",
+  "HERO_S": "chú Kiến Nổ Cảm Tử nâu đỏ, bụng cam căng tròn, băng đô đỏ cảm tử",
+  "NO_HERO": "KHÔNG có chú kiến đeo băng đô đỏ trong cảnh này",
+  "SOLDIER": "chú kiến lính đầu phẳng phragmotic hoạt hình màu nâu đậm, đầu hình chiếc đĩa tròn phẳng lì như nút chai",
+  "QUEEN": "bà trùm kiến chúa khổng lồ màu vàng nâu quý phái đội vương miện nhỏ",
+  "WEAVER": "con kiến vàng dệt lá Oecophylla hung dữ nhiều gai"
+ },
+ "side_characters": [
+  "SOLDIER",
+  "QUEEN",
+  "WEAVER"
+ ],
+ "shorts_side_characters": [
+  "SOLDIER"
+ ],
+ "shorts_title_lines": [
+  "TỰ NỔ TUNG CƠ THỂ",
+  "PHUN KEO ĐỘC BẢO VỆ TỔ?!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Đáy rừng mưa nhiệt đới Borneo tăm tối mù sương: những thân cây đại thụ vươn thẳng lên trời xanh chọc thủng tầng mây, không khí rừng thiêng nước độc bí hiểm. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tại những ngọn cây",
+   "layout": "Trên những ngọn cây cổ thụ cao 40-50m chọc thủng tầng mây, hàng trăm ngàn chú kiến đang di chuyển tấp nập như một đế chế quân đội vĩ đại.",
+   "stickers": [
+    {
+     "at": "40-50m",
+     "side": "R",
+     "y": 350,
+     "value": "CAO 40-50M",
+     "label": "vòm cây cổ thụ",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Báo cáo bà trùm,",
+   "layout": "BÊN TRÁI một chú kiến thợ nhỏ bé đeo tai nghe bộ đàm cúi đầu chào; BÊN PHẢI {QUEEN} nằm uy nghi trên ngai vàng trong thân gỗ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bật màn hình chỉ",
+   "layout": "Màn hình radar chỉ huy hiển thị bản đồ tổ kiến trên các tán cây rừng mưa nhiệt đới Borneo phát sáng huỳnh quang. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Xin giới thiệu với",
+   "layout": "{HERO} đứng oai vệ trên cành cây lá xanh, thắt chiếc băng đô đỏ cảm tử trên trán, dáng đứng kiêu hãnh của một chiến binh thực thụ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Dù kích thước cơ",
+   "layout": "Ở GIỮA {HERO} đứng cạnh một hạt gạo trắng tinh để so sánh kích thước bé nhỏ bằng nhau, xung quanh có dải ruy băng danh hiệu Chiến Binh Cảm Tử.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Điều gì đã khiến",
+   "layout": "Chia đôi: BÊN TRÁI đạo quân kiến vàng dệt lá hung dữ giơ càng to; BÊN PHẢI {HERO} nhỏ bé nhưng khiến đối phương hoảng sợ lùi bước.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bí mật nằm ở",
+   "layout": "Mặt cắt giải phẫu trong suốt của {HERO}: bên trong khoang bụng gaster chứa một quả bom sinh học màu vàng tươi phát sáng rực rỡ chuẩn bị kích nổ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đêm nay, tôi mời",
+   "layout": "Mô hình 4 tầng cấu trúc quyền lực của đế chế kiến mở ra như một pháo đài nhiều tầng trên thân cây cổ thụ. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "4 tầng",
+     "side": "L",
+     "y": 350,
+     "value": "4 TẦNG",
+     "label": "cấu trúc đế chế",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Trên những tầng tán",
+   "layout": "Cảnh tượng vòm cây rậm rạp cao 50-60m: các nhánh cây đan xen nhau giữa lưng chừng trời, nơi diễn ra cuộc chiến tranh giành mật hoa tàn bạo.",
+   "stickers": [
+    {
+     "at": "50-60m",
+     "side": "R",
+     "y": 350,
+     "value": "50-60 MÉT",
+     "label": "độ cao sinh tồn",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Không có chỗ cho",
+   "layout": "Hai chú kiến đối địch trừng mắt nhìn nhau trên cành cây hẹp, không khí căng thẳng nghẹt thở không có chỗ cho khoan nhượng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Một khi đã bước",
+   "layout": "{HERO} vừa chui ra khỏi chiếc kén ấu trùng màu trắng, lập tức được thắt chiếc băng đô đỏ cảm tử trên đầu, đôi mắt ánh lên quyết tâm sắt đá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Bảng hồ sơ hiện TẦNG CẤU TRÚC 1: ĐỘI QUÂN LÍNH THỢ MANG QUẢ BOM CƠ THỂ; hàng ngàn chú kiến thợ nhỏ bé bò trên cành cây kiếm mật hoa. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng đằng sau vẻ",
+   "layout": "Kính hiển vi phóng to cấu tạo giải phẫu kỳ dị bên trong cơ thể chú kiến thợ nhỏ bé cần mẫn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "2018, một công",
+   "layout": "Bìa tạp chí ZooKeys năm 2018 mở ra bản vẽ giải phẫu của tiến sĩ Alice Laciny: cặp túi dự trữ chất nhầy khổng lồ chạy từ hàm xuống bụng. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "2018",
+     "side": "L",
+     "y": 350,
+     "value": "NĂM 2018",
+     "label": "nghiên cứu Laciny",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Cặp túi hóa chất",
+   "layout": "Sơ đồ cơ thể {HERO}: cặp túi tuyến phình to chiếm hầu hết không gian trong thân, đẩy dạ dày và ruột dồn nép vào một góc chật chội.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bên trong túi chứa",
+   "layout": "Dung dịch keo dính màu vàng tươi bốc khói cay nồng như gia vị cà ri bên trong túi tuyến, chứa các phân tử hóa chất độc hại phát sáng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nó sống cả cuộc",
+   "layout": "{HERO} vừa đi kiếm ăn vừa mang vác kho hóa chất tự hủy căng phồng trong bụng, luôn sẵn sàng kích nổ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Điều kỳ thú là",
+   "layout": "Kính hiển vi siêu vi khuẩn: những quần thể vi khuẩn cộng sinh đặc biệt sống bên trong túi keo giúp bảo quản độ nhớt hoàn hảo. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chừng nào túi tuyến",
+   "layout": "{HERO} sinh hoạt bình thường trên tán lá nhưng chiếc ngòi nổ sinh học màu đỏ trên bụng luôn chớp sáng nhạy bén.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Các nhà khoa học",
+   "layout": "Những chú kiến thợ già cỗi râu bạc bước ra ranh giới ngoài cùng của lãnh thổ để tuần tra canh gác tiền tuyến. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Một sự phân công",
+   "layout": "Hàng rào lính thợ già dũng cảm đứng chắn bảo vệ bầy đàn phía sau; một sự phân công lao động hoàn hảo và lạnh gáy. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Để tiếp cận và",
+   "layout": "Chiếc cẩu tháp nghiên cứu vòm rừng cao hơn 50m dựng giữa rừng nguyên sinh Brunei chọc thẳng lên mây xanh. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "50m",
+     "side": "R",
+     "y": 350,
+     "value": "THÁP 50M",
+     "label": "cẩu tháp Brunei",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Họ phải đu dây",
+   "layout": "Các nhà khoa học quốc tế đu dây lơ lửng giữa không trung cách mặt đất 50m, cầm kính lúp và máy quay quan sát những chú kiến tí hon. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Bảng hồ sơ hiện TẦNG CẤU TRÚC 2: HIỆN TƯỢNG TỰ NỔ TUNG AUTOTHYSIS; {HERO} đơn độc tuần tra trên phiến lá xanh biếc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khi đang tuần tra",
+   "layout": "Một con nhện săn mồi lông lá to lớn và kiến đối thủ bất ngờ xuất hiện bao vây chặn đứng đường lui của {HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Gã lập tức áp",
+   "layout": "{HERO} lao thẳng vào kẻ địch, dùng hai chiếc hàm dưới sắc bén cắn chặt cứng vào chân con nhện để khóa chặt mục tiêu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Sau đó, gã gồng",
+   "layout": "Bùm! {HERO} gồng cực mạnh cơ bụng làm nứt toạc lớp vỏ chitin, xé rách túi tuyến và phát nổ giải phóng dòng keo độc màu vàng rực rỡ.",
+   "stickers": [],
+   "impacts": [
+    "bùm"
+   ]
+  },
+  {
+   "scene": "scene03",
+   "at": "Dòng keo dính màu",
+   "layout": "Dòng keo vàng tươi dính chặt cứng bọc kín mắt, râu và chân của con nhện săn mồi, keo đông cứng lại như lớp keo dán sắt chỉ sau vài giây.",
+   "stickers": [
+    {
+     "at": "vài giây",
+     "side": "R",
+     "y": 350,
+     "value": "ĐÔNG CỨNG",
+     "label": "keo độc dán sắt",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Kẻ săn mồi hoảng",
+   "layout": "Con nhện giãy giụa bất lực trong đống keo dính vàng đặc quánh, hóa chất cay nồng ngấm vào lỗ thở làm nó tê liệt ngã gục tại chỗ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chiến Binh Cảm Tử đã",
+   "layout": "Ánh sáng hào quang tôn vinh sự hy sinh oanh liệt của quả bom sống {HERO}, tiêu diệt hoàn toàn kẻ thù hung ác.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "gửi đi một thông",
+   "layout": "Biển cảnh báo màu đỏ hình chiếc đầu lâu cắm trên cành cây: thông điệp đẫm máu khiến muôn loài kẻ thù không dám xâm phạm. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Mùi hương cay nồng",
+   "layout": "Những làn sóng mùi hương cay nồng màu vàng lan tỏa trong không khí như tín hiệu báo động đỏ khẩn cấp khắp vòm lá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Những chú kiến thợ",
+   "layout": "Đội quân kiến thợ tuần tra xung quanh đồng loạt giương râu cảnh giác, tạo thành một hàng rào phòng ngự thứ 2 kiên cố sẵn sàng chiến đấu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Trong lịch sử sinh",
+   "layout": "Cuốn sổ tay ghi chép cổ điển của nhà tự nhiên học người Đức năm 1916 với hình vẽ chú kiến tự nổ tung cơ thể đầu tiên. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1916",
+     "side": "L",
+     "y": 350,
+     "value": "NĂM 1916",
+     "label": "phát hiện đầu tiên",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Trải qua hơn một",
+   "layout": "Dòng thời gian một thế kỷ nghiên cứu: loài người nghiêng mình thán phục trước giá trị sinh tồn nghiệt ngã của loài kiến cảm tử; bảng Tầng 2 bật PASS. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Bảng hồ sơ hiện TẦNG CẤU TRÚC 3: KẺ GÁC CỔNG HÌNH NÚT CHAI SỐNG; cửa tổ sổ gỗ hình tròn trên thân cây cổ thụ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Hãy quan sát hiện",
+   "layout": "Cận cảnh đầu của {SOLDIER}: chiếc đầu tiến hóa thành một chiếc đĩa tròn dẹt phẳng lì phủ lớp vỏ cứng như gỗ, khít khao 100% với miệng lỗ tổ cây.",
+   "stickers": [
+    {
+     "at": "100%",
+     "side": "R",
+     "y": 350,
+     "value": "KHÍT 100%",
+     "label": "đầu phẳng phragmosis",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Gã lính gác dùng",
+   "layout": "{SOLDIER} cắm chặt đầu mình vào lỗ cây tròn như chiếc nút bần đóng chặt miệng chai rượu vang, thân mình giấu kín bên trong hầm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Báo cáo gác cổng:",
+   "layout": "Bên ngoài kẻ thù cào cấu điên cuồng lên chiếc đầu phẳng lì của {SOLDIER}, chiếc đầu chốt cứng kín kẽ như bức tường gỗ bất khả xâm phạm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Kẻ thù bên ngoài",
+   "layout": "Kẻ địch hung hãn dùng hàm cắn trượt trên mảng đầu phẳng trơn trượt của {SOLDIER}, đẩy mãi không lay chuyển nổi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chỉ khi nào những",
+   "layout": "{HERO} đi kiếm ăn trở về, dùng hai chiếc râu gõ đúng nhịp mật mã bí mật lên trán {SOLDIER} để xin mở cửa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "gã lính gác mới",
+   "layout": "{SOLDIER} lùi nhẹ đầu vào trong mở khe hở cho đồng đội bước vào rồi lập tức cắm đầu đóng sập cửa hầm lại an toàn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Suốt cả cuộc đời",
+   "layout": "{SOLDIER} cả đời đứng im bên ngưỡng cửa tổ, thân mình to bè làm then cửa sống bảo vệ hàng ngàn ấu trùng nhỏ bé bên trong.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chúng ăn thức ăn",
+   "layout": "Kiến thợ mớm thức ăn giọt mật qua miệng cho {SOLDIER} thưởng thức bữa ăn ấm cúng ngay tại vị trí chốt gác.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nếu gã lính gác",
+   "layout": "Một chú lính đầu phẳng dự bị từ phía sau lập tức tiến lên cắm đầu trám đúng vị trí chỉ trong vài giây; bảng Tầng 3 bật PASS. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Bảng hồ sơ hiện TẦNG CẤU TRÚC 4: CUỘC CHIẾN TRANH LÃNH THỔ KHỐC LIỆT NHẤT VÒM RỪNG; hai đạo quân kiến đối đầu nghẹt thở. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Kẻ thù truyền kiếp",
+   "layout": "Đạo quân {WEAVER} kiến vàng dệt lá khổng lồ hung tợn tràn ngập các cành cây giương hàm đe dọa lãnh thổ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Trong những trận đụng",
+   "layout": "Chiến trường giáp lá cà trên tán lá cao 50m: những quả bom cảm tử của {HERO} đồng loạt kích nổ bùng lên những vệt sáng vàng rực.",
+   "stickers": [
+    {
+     "at": "50m",
+     "side": "R",
+     "y": 350,
+     "value": "TÁN LÁ 50M",
+     "label": "chiến trường đẫm máu",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "hàng trăm Chiến Binh",
+   "layout": "Bãi mìn keo vàng chết chóc phong tỏa toàn bộ cành cây, bọc cứng hàng chục con kiến vàng dệt lá xâm lăng ngăn bước quân thù.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Sự hy sinh vị",
+   "layout": "Sâu trong lõi thân cây gỗ cổ thụ: {QUEEN} nằm uy nghi trên ngai vàng lộng lẫy được bảo vệ an toàn tuyệt đối.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Kiến chúa là trái",
+   "layout": "{QUEEN} cần mẫn đẻ ra hàng ngàn quả trứng nhỏ màu trắng mỗi ngày, các vú nuôi chăm sóc cẩn thận bổ sung quân đoàn mới. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "hàng ngàn",
+     "side": "L",
+     "y": 350,
+     "value": "1.000 QUẢ",
+     "label": "trứng đẻ mỗi ngày",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đây là đỉnh cao",
+   "layout": "Biểu tượng gia tộc kiến với tinh thần đoàn kết bất diệt: hàng ngàn bàn tay kiến nắm chặt bảo vệ vương miện đế chế.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Vào mùa giao phối",
+   "layout": "Bầu trời đêm sau cơn mưa rào: những công chúa và hoàng tử kiến có cánh bay lượn rực rỡ tìm kiếm bạn đời lập vương quốc mới. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Những thế hệ cảm tử",
+   "layout": "Những thế hệ kiến cảm tử tiếp theo liên tục chui ra khỏi kén ấu trùng, kế thừa trọn vẹn bản thiết kế bom sinh học để tiếp tục thống trị vòm rừng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Một tổ kiến Colobopsis",
+   "layout": "Cụm cây dầu cổ thụ khổng lồ liên kết với nhau bằng những con đường mòn hóa học chạy dọc các nhánh dây leo trên không. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Hàng trăm ngàn cá",
+   "layout": "Hàng trăm ngàn cá thể phối hợp nhịp nhàng như một cỗ máy siêu sinh vật duy nhất; bảng Tầng 4 bật PASS rực rỡ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Bàn chỉ huy thế giới ngầm vòm rừng: bản tổng kết hồ sơ đế chế số 28 mở ra với biểu tượng chú kiến nổ quả cảm. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Từ một loài côn",
+   "layout": "Bản hùng ca sinh tồn: {HERO} đứng giữa ánh hào quang chiến thắng với biểu tượng quả bom tự hủy và bức tường thành đầu phẳng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Báo cáo điệp báo",
+   "layout": "Dấu mộc đỏ ĐẠT ĐIỂM 10 đóng lên tập hồ sơ đế chế; cả gia tộc kiến vòm rừng vẫy cờ ăn mừng kỷ luật quân đội thép.",
+   "stickers": [
+    {
+     "at": "điểm 10",
+     "side": "R",
+     "y": 350,
+     "value": "ĐIỂM 10",
+     "label": "kỷ luật quân đội thép",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Còn anh em thì",
+   "layout": "Hai bàn cân lựa chọn: BÊN TRÁI biểu tượng quả bom nổ keo vàng; BÊN PHẢI biểu tượng chiếc đầu phẳng cắm chốt cửa hang, khán giả giơ thẻ bình chọn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "xin được khép",
+   "layout": "Tập hồ sơ số 28 được niêm phong cẩn thận, ánh đèn chuyển sang ánh sáng neon tím của phòng thí nghiệm 5 cấp độ sinh tử. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một sinh vật nhỏ",
+   "layout": "Một sinh vật bí ẩn được vẽ hoàn toàn bằng BÓNG ĐEN ĐẶC TUYỀN (solid black silhouette) hình chiếc chuông sứa nhỏ xíu trong suốt như giọt nước đang bơi lơ lửng giữa biển xanh; kèm dấu hỏi chấm vàng to tướng; KHÔNG vẽ mắt miệng hay màu thật. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "khi già yếu hoặc",
+   "layout": "Cũng chiếc BÓNG ĐEN ĐẶC TUYỀN (solid black silhouette) hình chuông sứa đó tự co cụm lại, xoay ngược bánh xe thời gian biến thành một khối búp polyp ấu trùng sơ sinh để sống lại từ đầu; dấu hỏi chấm to tướng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đố các bạn biết",
+   "layout": "Chiếc BÓNG ĐEN ĐẶC TUYỀN bí ẩn có khả năng đảo ngược thời gian bất tử nằm giữa ba dấu hỏi chấm lớn lấp lánh vàng cam mời gọi khán giả đoán tên con vật tập sau. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Khung dọc: {HERO} lao tới con nhện săn mồi, gồng cơ bụng phát nổ tung cơ thể như bom cảm tử.",
+   "stickers": []
+  },
+  {
+   "at": "Xin giới thiệu Kiến",
+   "layout": "{HERO} đứng kiêu hãnh trên ngọn cây cao 50m vòm rừng Đông Nam Á, chiếc thước đo chiều cao màu vàng dựng thẳng bên cạnh.",
+   "stickers": [
+    {
+     "at": "50m",
+     "side": "R",
+     "y": 620,
+     "value": "CAO 50M",
+     "label": "vòm rừng nhiệt đới",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Cơ thể nó mang",
+   "layout": "Đồ họa giải phẫu trong suốt: cặp túi nhầy khổng lồ màu vàng chạy dọc từ hàm dưới xuống tận khoang bụng.",
+   "stickers": []
+  },
+  {
+   "at": "Khi bị kẻ săn",
+   "layout": "{HERO} cắn chặt vào chân kẻ thù rồi gồng nứt toạc lớp vỏ bụng phát ra tiếng nổ bùm.",
+   "stickers": []
+  },
+  {
+   "at": "phóng ra một dòng",
+   "layout": "Dòng keo độc màu vàng tươi cực dính bắn xối xả vào mắt và chân kẻ thù, dán chặt đối phương bất động.",
+   "stickers": []
+  },
+  {
+   "at": "Dòng keo này khóa",
+   "layout": "Kẻ địch giãy giụa trong mớ keo dán sắt vàng đặc quánh, các lỗ thở bị bít kín nghẹt thở.",
+   "stickers": []
+  },
+  {
+   "at": "Trong khi đó, ở",
+   "layout": "{SOLDIER} với chiếc đầu phẳng dẹt hình nút chai đứng chốt tại miệng tổ cây.",
+   "stickers": []
+  },
+  {
+   "at": "cắm chặt đầu vào",
+   "layout": "{SOLDIER} cắm đầu bịt kín mít lỗ cây như nắp nút chai, kẻ thù cào cấu bên ngoài không tài nào đột nhập.",
+   "stickers": []
+  },
+  {
+   "at": "Một đế chế cảm",
+   "layout": "Hai nửa khung dọc: phía trên là bom cảm tử nổ tung; phía dưới là then cửa đầu phẳng kiên cố bảo vệ bà trùm.",
+   "stickers": []
+  },
+  {
+   "at": "đúng là đội quân",
+   "layout": "Chân dung {HERO} thắt băng đô đỏ cảm tử giơ nắm tay quả cảm, ánh hào quang chiến binh anh hùng rực sáng.",
+   "stickers": []
+  }
+ ]
+}

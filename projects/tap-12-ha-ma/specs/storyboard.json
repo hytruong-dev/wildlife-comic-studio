@@ -1,0 +1,1025 @@
+{
+ "_doc": "Storyboard Tập 12 Hà Mã — sinh specs/longform_plan.json, shorts_plan.json, image_prompts.json bằng build_plans.py.",
+ "characters": {
+  "HERO": "chú Hà Mã hoạt hình khổng lồ béo tròn mập mạp: da màu xám hồng nhạt bóng bẩy, chiếc mồm to bự phúng phính đáng yêu, hai mắt lồi nhỏ tròn xoe, hai tai nhỏ xíu ngoe nguẩy trên đỉnh đầu, bốn chân ngắn cũn cỡn tròn ủng, khoác áo choàng giác đấu La Mã màu đỏ cam có huy hiệu nắm đấm vàng và đeo một cặp găng tay đấm bốc boxing màu đỏ rực",
+  "HERO_S": "chú Hà Mã béo tròn da xám hồng, áo choàng giác đấu đỏ cam, găng tay boxing đỏ",
+  "COMMENTATOR": "anh chàng bình luận viên esports hoạt hình đeo tai nghe gaming có micro, mặc áo vest thể thao sành điệu, hào hứng bình luận",
+  "REPORTER": "cô phát thanh viên tin tức hoạt hình xinh đẹp ngồi sau bàn trường quay",
+  "GIANT": "gã đấu sĩ gấu xám khổng lồ cơ bắp cuồn cuộn đang đứng khoanh tay ngạc nhiên",
+  "NO_HERO": "KHÔNG có chú Hà Mã áo giác đấu trong cảnh này"
+ },
+ "side_characters": [
+  "COMMENTATOR",
+  "REPORTER",
+  "GIANT"
+ ],
+ "shorts_side_characters": [
+  "COMMENTATOR"
+ ],
+ "shorts_title_lines": [
+  "CỖ XE TĂNG 3 TẤN",
+  "NHƯNG KHÔNG BIẾT BƠI?!"
+ ],
+ "skip_numbers": [
+  8
+ ],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Sàn đấu võ đài hoang dã sông Nile châu Phi lúc hoàng hôn: ánh đèn rực lửa, cờ phướn bay phấp phới; {COMMENTATOR} đeo tai nghe gaming đứng trước bục micro phát thanh viên giơ tay chỉ xuống dòng sông.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ hạng siêu",
+   "layout": "Mặt nước sông Nile sủi bọt cuồn cuộn như có núi lửa ngầm; các loài chim nước bay tán loạn giật mình hoảng hốt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hãy hướng ống kính",
+   "layout": "{HERO} khổng lồ nặng tới 3 tấn từ từ trồi người lên khỏi mặt nước sông rực lửa, hai cánh tay đeo găng đấm bốc đỏ rực giơ cao thị uy sức mạnh; bọt nước bắn tung tóe.",
+   "stickers": [
+    {
+     "at": "3 tấn",
+     "side": "R",
+     "y": 360,
+     "value": "3 TẤN",
+     "label": "khối lượng cơ bắp",
+     "target": [
+      0.72,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đó chính là Hà Mã",
+   "layout": "Chân dung cận cảnh oai phong của {HERO}: thân hình tròn ủng đồ sộ như một cỗ xe tăng bọc thép hạng nặng, hai lỗ mũi phì hơi nước nóng hầm hố, áo choàng đỏ tung bay.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhìn dáng vẻ tròn",
+   "layout": "So sánh hài hước: BÊN TRÁI một chú heo mọi mũm mĩm hiền lành ăn cám; BÊN PHẢI {HERO} đứng sừng sững to gấp mười lần với vẻ mặt bặm trợn uy dũng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhưng xin cảnh báo",
+   "layout": "Bản đồ lục địa Châu Phi đỏ rực lửa: hình bóng {HERO} phủ bóng đen khổng lồ lên khắp thảo nguyên; xung quanh đàn sư tử và linh cẩu co rúm toát mồ hôi hột né tránh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Alo bình luận viên",
+   "layout": "Trường quay tin tức thời sự: {REPORTER} ngồi sau bàn kính hiện đại cầm bút chỉ lên màn hình kết nối hiện trường, ngơ ngác đặt câu hỏi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Báo cáo trường quay",
+   "layout": "Cảnh sông nước: {HERO} ngâm mình dưới nước 16 tiếng mỗi ngày, xung quanh nổi bóng đồng hồ báo 16 tiếng; nhưng một chiếc phao bơi vịt vàng trôi qua trêu chọc chú không biết bơi.",
+   "stickers": [
+    {
+     "at": "100%",
+     "side": "L",
+     "y": 380,
+     "value": "100%",
+     "label": "sự thật khó tin",
+     "target": [
+      0.4,
+      0.5
+     ]
+    },
+    {
+     "at": "16 tiếng",
+     "side": "R",
+     "y": 360,
+     "value": "16 TIẾNG",
+     "label": "ngâm nước mỗi ngày",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Khung xương của nó",
+   "layout": "Cảnh minh họa vật lý: một hòn đá tảng to đùng rơi xuống nước chìm nghỉm tận đáy; bên cạnh bộ xương hà mã dày đặc cũng chìm thẳng đứng xuống đáy sông không chút nổi bồng bềnh.",
+   "stickers": [],
+   "impacts": [
+    "chìm nghỉm"
+   ]
+  },
+  {
+   "scene": "scene01",
+   "at": "Vậy làm thế nào",
+   "layout": "{HERO} bước đi thoăn thoắt dưới đáy sông trong làn nước xanh trong vắt, bụi cát đáy sông bốc lên sau gót chân như vận động viên điền kinh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hãy cùng chúng tôi",
+   "layout": "{COMMENTATOR} vung tay kích hoạt bảng điện tử RPG phát sáng rực rỡ; thanh đo HP, ATK, DEF, SPD hiện lên lấp lánh như trò chơi điện tử đấu trường.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Bảng giao diện chỉ số RPG võ đài hiện ra hoành tráng: {HERO} đứng ở trung tâm sàn đấu, hai bên là các cột thông số nhảy số điện tử vun vút.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Xin mời toàn thể",
+   "layout": "Khán đài hàng ngàn khán giả thú rừng và các bạn nhỏ hoạt hình nín thở ngước nhìn màn hình LED khổng lồ rực rỡ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Về lượng máu sinh",
+   "layout": "Thanh máu HP đỏ rực chạm nóc tối đa: con số 9.900 điểm nhấp nháy phát sáng; {HERO} đứng vỗ ngực rầm rập như bức tường thành sừng sững.",
+   "stickers": [
+    {
+     "at": "9.900 điểm",
+     "side": "L",
+     "y": 360,
+     "value": "HP 9.900",
+     "label": "sinh lực tối thượng",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Với trọng lượng cơ",
+   "layout": "Cân tải trọng khổng lồ: {HERO} đứng lên chiếc cân làm kim đồng hồ quay tít mù chỉ vào mốc 1,5 tấn đến 3 tấn; một chiếc xe ô tô con ngồi bên cạnh để so sánh cân nặng.",
+   "stickers": [
+    {
+     "at": "1,5 tấn",
+     "side": "L",
+     "y": 380,
+     "value": "1,5 TẤN",
+     "label": "cân nặng tối thiểu",
+     "target": [
+      0.35,
+      0.6
+     ]
+    },
+    {
+     "at": "3 tấn",
+     "side": "R",
+     "y": 480,
+     "value": "3 TẤN",
+     "label": "cân nặng tối đa",
+     "target": [
+      0.7,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khối lượng khủng khiếp",
+   "layout": "{HERO} đứng vững như bàn thạch; một chú tê giác hung hãn lao vào húc nhưng bị dội ngược lại ngã chỏng vó ra đất.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Về sức mạnh tấn",
+   "layout": "Thanh chỉ số ATK màu cam bốc cháy hừng hực: đạt 9.800 điểm; chiếc mồm khổng lồ mở rộng khoe cặp răng nanh nhọn hoắt như hai ngọn giáo thép.",
+   "stickers": [
+    {
+     "at": "9.800 điểm",
+     "side": "L",
+     "y": 360,
+     "value": "ATK 9.800",
+     "label": "sức tấn công cực hạn",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Được trang bị lực",
+   "layout": "Máy đo lực cắn phát nổ tóe lửa: kim đo chỉ mốc 1.800 PSI; bên dưới là thước đo cặp răng nanh dài 50cm cắm sâu vào tảng đá.",
+   "stickers": [
+    {
+     "at": "1.800",
+     "side": "L",
+     "y": 360,
+     "value": "1.800 PSI",
+     "label": "lực cắn cực hạn",
+     "target": [
+      0.35,
+      0.5
+     ]
+    },
+    {
+     "at": "50cm",
+     "side": "R",
+     "y": 480,
+     "value": "50 CM",
+     "label": "chiều dài răng nanh",
+     "target": [
+      0.72,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Về phòng thủ DEF",
+   "layout": "Thanh DEF màu xanh dương đạt 9.500 điểm; lớp da dày 5cm được vẽ như tấm giáp thép bọc quanh người tuyển thủ.",
+   "stickers": [
+    {
+     "at": "9.500 điểm",
+     "side": "L",
+     "y": 360,
+     "value": "DEF 9.500",
+     "label": "phòng thủ bọc thép",
+     "target": [
+      0.35,
+      0.45
+     ]
+    },
+    {
+     "at": "5cm",
+     "side": "R",
+     "y": 480,
+     "value": "5 CM",
+     "label": "độ dày lớp da",
+     "target": [
+      0.65,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Còn về tốc độ",
+   "layout": "{HERO} bứt tốc chạy nước rút trên đồng cỏ châu Phi: bụi đất mù mịt phía sau, vượt qua một vận động viên điền kinh đang há hốc mồm kinh ngạc.",
+   "stickers": [
+    {
+     "at": "30km/h",
+     "side": "R",
+     "y": 380,
+     "value": "30 KM/H",
+     "label": "bứt tốc trên cạn",
+     "target": [
+      0.7,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng nghịch lý hài",
+   "layout": "Thanh bơi lội SWIM hiện số 0 điểm tròn trĩnh nhấp nháy màu đỏ; {HERO} chìm nghỉm dưới đáy sông ngồi đọc sách tỉnh bơ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "chạy bộ và phi",
+   "layout": "Đáy sông trong vắt: {HERO} đang nhún ngón chân nhẹ nhàng phi nước đại lướt trên cát đáy nước với tốc độ 8km/h như một vũ công ba-lê uyển chuyển.",
+   "stickers": [
+    {
+     "at": "8km/h",
+     "side": "L",
+     "y": 380,
+     "value": "8 KM/H",
+     "label": "phi nước đại đáy sông",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Các nhà giải phẫu",
+   "layout": "Sơ đồ X-quang xương hà mã: các thanh xương sườn và xương ống chân đặc quánh màu trắng đặc không có lỗ xốp, cạnh đó là chiếc đai chì của thợ lặn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Mỗi lần chìm xuống",
+   "layout": "{HERO} ngồi thiền dưới đáy nước nhắm mắt thư giãn, chiếc đồng hồ bấm giờ bên cạnh đếm đủ 5 phút nhịn thở; cá nhỏ bơi quanh mồm.",
+   "stickers": [
+    {
+     "at": "5 phút",
+     "side": "R",
+     "y": 380,
+     "value": "5 PHÚT",
+     "label": "nhịn thở dưới nước",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Thậm chí khi ngủ",
+   "layout": "Mặt cắt tầng nước: {HERO} đang ngủ say dưới đáy tự động nổi lên mặt nước thở một hơi 'phù' rồi lại chìm xuống ngủ tiếp mà mắt vẫn nhắm nghiền.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chưa hết, âm thanh",
+   "layout": "Loa phóng thanh dưới nước phát sóng âm thanh khổng lồ 115 decibel rung chuyển cả lòng sông và mặt nước; cá mập và cá sấu giật mình bơi toán loạn.",
+   "stickers": [
+    {
+     "at": "115",
+     "side": "L",
+     "y": 380,
+     "value": "115 DB",
+     "label": "tiếng gầm xuyên nước",
+     "target": [
+      0.35,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "truyền đồng thời qua",
+   "layout": "Mặt cắt dòng sông và không khí: luồng sóng âm thanh lan tỏa đồng thời cả trên cạn lẫn dưới nước; các đối thủ trong bán kính hàng cây số đều co rúm khiếp sợ.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L68"
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "{COMMENTATOR} cầm kính lúp và đèn pin đặc biệt soi vào lớp da dày bóng loáng của {HERO}; {HERO} đứng gồng mình khoe lớp giáp cơ bắp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đây không phải là",
+   "layout": "Mặt cắt da hà mã phóng đại: lớp da và mỡ dày 5cm như lốp xe tải hạng nặng; một mũi tên sắt bắn vào bị cong gãy dội ngược ra ngoài.",
+   "stickers": [
+    {
+     "at": "5cm",
+     "side": "L",
+     "y": 380,
+     "value": "5 CM",
+     "label": "giáp da bọc thép",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Lớp da dày và",
+   "layout": "Một con sư tử đói nhảy lên cắn vào lưng {HERO} nhưng răng nanh sư tử bị trượt trên lớp da dày trơn láng, sư tử trượt ngã nhào xuống đất vẻ mặt ê ẩm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khoan đã bình luận",
+   "layout": "{GIANT} giơ ngón tay to lớn chỉ vào màn hình thắc mắc vẻ mặt hốt hoảng: trên người hà mã phủ đầy chất lỏng màu đỏ tươi rỉ ra từ các lỗ chân lông.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bác đấu sĩ khổng",
+   "layout": "{COMMENTATOR} cười tươi khoát tay giải thích; {HERO} đứng lau mặt mỉm cười tự tin, lớp mồ hôi đỏ ánh lên lấp lánh dưới ánh mặt trời.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khi trời nắng gắt",
+   "layout": "Cận cảnh lỗ chân lông phóng đại: các giọt chất lỏng màu đỏ tươi đặc quánh như si-rô rỉ ra bao phủ toàn bộ cơ thể tạo lớp màng bảo vệ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Các nhà khoa học",
+   "layout": "Hai ống nghiệm hóa học phát sáng: ống một chứa axit chống tia UV mặt trời như kem chống nắng; ống hai chứa chất kháng sinh tiêu diệt vi khuẩn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bởi vì lớp da",
+   "layout": "Biểu đồ so sánh bốc hơi nước: BÊN TRÁI da người mất nước bình thường; BÊN PHẢI da hà mã bốc hơi nước nhanh gấp 7 lần nếu không có lớp mồ hôi đỏ bảo vệ.",
+   "stickers": [
+    {
+     "at": "7 lần",
+     "side": "R",
+     "y": 380,
+     "value": "GẤP 7 LẦN",
+     "label": "tốc độ mất nước",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhờ có lớp kem",
+   "layout": "{HERO} ngâm mình thảnh thơi trong vũng bùn lầy lội đầy bọ gậy và vi khuẩn; những vết xước cọ xát tự lành lặn nhanh chóng không hề bị nhiễm trùng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Vừa bọc giáp 5cm",
+   "layout": "{HERO} nằm trên ghế dài ven sông đeo kính râm, một tay cầm lọ kem chống nắng màu đỏ tự bôi lên người, vẻ mặt hưởng thụ như đại gia đi nghỉ dưỡng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Đèn pha rọi thẳng vào khuôn mặt {HERO}; chú bắt đầu há chiếc mồm khổng lồ ra từ từ, khói hơi thở phì ra hầm hố.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Hãy nhìn vào chiếc",
+   "layout": "Cận cảnh chiếc mồm mở rộng tới 180 độ: hai hàm mở toang hoác thẳng tắp rộng hơn một mét; bên trong là vòm họng đỏ rực và hàm răng đồ sộ.",
+   "stickers": [
+    {
+     "at": "180°",
+     "side": "L",
+     "y": 360,
+     "value": "180 ĐỘ",
+     "label": "độ mở rộng của hàm",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bên trong chiếc mồm",
+   "layout": "Cận cảnh cặp răng nanh hàm dưới dài 50cm: cong vút, trắng ngà sắc lẹm như hai mũi giáo thép đâm thẳng lên trời; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "50cm",
+     "side": "R",
+     "y": 360,
+     "value": "50 CM",
+     "label": "ngọn giáo cận chiến",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đôi răng này không",
+   "layout": "Cơ chế tự mài sắc: hai chiếc răng nanh trên và dưới cọ xát vào nhau tóe tia lửa điện như mài dao kéo mỗi khi ngậm mồm lại.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và khi chiếc hàm",
+   "layout": "Chiếc hàm hà mã đóng sập xuống nghe tiếng 'RẮP!' long trời lở đất; một chiếc đồng hồ đo áp lực nổ tung mốc 1.800 PSI tóe khói.",
+   "stickers": [
+    {
+     "at": "1.800",
+     "side": "L",
+     "y": 360,
+     "value": "1.800 PSI",
+     "label": "lực nghiền nát",
+     "target": [
+      0.35,
+      0.5
+     ]
+    }
+   ],
+   "impacts": [
+    "đóng sập"
+   ]
+  },
+  {
+   "scene": "scene04",
+   "at": "Con số này mạnh",
+   "layout": "Biểu đồ lực cắn đối đầu: BÊN TRÁI cú cắn của người chỉ 162 PSI; Ở GIỮA sư tử 650 PSI; BÊN PHẢI cú cắn hà mã 1.800 PSI cao vút gấp ba lần sư tử.",
+   "stickers": [
+    {
+     "at": "3 lần",
+     "side": "R",
+     "y": 380,
+     "value": "GẤP 3 LẦN",
+     "label": "uy lực so với sư tử",
+     "target": [
+      0.72,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Một cú đớp toàn",
+   "layout": "{HERO} cắn đứt đôi một khúc gỗ tròn khổng lồ và bẻ gãy chiếc thuyền gỗ mục một cách nhẹ nhàng như bẻ que tăm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Để nhắm bắn chuẩn",
+   "layout": "Mặt cắt mặt nước: {HERO} giấu 95% cơ thể khổng lồ chìm dưới nước, chỉ nhô mắt, tai và lỗ mũi thẳng hàng trên đỉnh đầu như kính tiềm vọng tàu ngầm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Thiết kế này hoạt",
+   "layout": "Mô hình tàu ngầm quân sự có ống kính tiềm vọng thò lên mặt nước quan sát 360 độ; bên cạnh {HERO} ẩn mình quan sát mọi động tĩnh trên bờ.",
+   "stickers": [
+    {
+     "at": "95%",
+     "side": "L",
+     "y": 380,
+     "value": "95%",
+     "label": "cơ thể ẩn dưới nước",
+     "target": [
+      0.35,
+      0.5
+     ]
+    },
+    {
+     "at": "360",
+     "side": "R",
+     "y": 380,
+     "value": "360 ĐỘ",
+     "label": "tầm nhìn toàn cảnh",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": [],
+   "id": "L69"
+  },
+  {
+   "scene": "scene04",
+   "at": "Và điều trớ trêu",
+   "layout": "{COMMENTATOR} ôm trán cười ngả nghiêng chỉ vào bàn ăn của {HERO}: một đống cỏ xanh mướt thơm phức thay vì thịt cá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ban đêm khi mặt",
+   "layout": "Đêm trăng sáng: {HERO} thong dong đi dạo trên bờ cỏ, cần mẫn gặm từng búi cỏ non mềm; chiếc xe cút kít bên cạnh chất đầy 45kg cỏ xanh.",
+   "stickers": [
+    {
+     "at": "45kg",
+     "side": "R",
+     "y": 380,
+     "value": "45 KG",
+     "label": "cỏ gặm mỗi đêm",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Răng nanh 50cm",
+   "layout": "{HERO} ngồi nhai một cọng cỏ nhỏ xíu vắt ngang khóe mồm, hai mắt lim dim hiền khô như một đạo sĩ tu hành giữa rừng đêm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Màn hình lớn phát lại thước phim thực chiến kịch tính tại đầm lầy sông Nile: nước sông cuộn sóng dữ dội.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Trong thế giới hoang",
+   "layout": "Một con cá sấu sông Nile dài 3m hung dữ bơi lạc vào giữa đàn hà mã đang tắm mát, mắt cá sấu trừng trừng đe dọa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đã có vô số",
+   "layout": "{HERO} lao tới ngoạm ngang lưng con cá sấu, quăng quật con cá sấu văng lên không trung như một chú thằn lằn đồ chơi; cá sấu hốt hoảng vùng vẫy thoát thân.",
+   "stickers": [],
+   "impacts": [
+    "quăng quật"
+   ]
+  },
+  {
+   "scene": "scene05",
+   "at": "Ngay cả loài sư",
+   "layout": "Trên bờ sông: hai chú sư tử đực đang lén lút rình rập liền bị cả đàn hà mã khổng lồ đồng loạt rống lên lao lên bờ rượt đuổi chạy tóe khói.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Theo thống kê của",
+   "layout": "Tấm bảng cảnh báo nguy hiểm hình đầu lâu: con số 500 nạn nhân mỗi năm ở Châu Phi; biển báo vẽ biểu tượng xe bọc thép ba tấn đang lao tới.",
+   "stickers": [
+    {
+     "at": "500",
+     "side": "L",
+     "y": 380,
+     "value": "500 NGƯỜI",
+     "label": "nạn nhân mỗi năm",
+     "target": [
+      0.35,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Bất kỳ ai dám",
+   "layout": "{HERO} bứt tốc 30km/h lao thẳng về phía dòng nước cứu sinh như một quả tên lửa mặt đất, bụi cát cuộn xoáy dữ dội.",
+   "stickers": [
+    {
+     "at": "30km/h",
+     "side": "R",
+     "y": 380,
+     "value": "30 KM/H",
+     "label": "tốc độ truy cản",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhưng chiêu thức hài",
+   "layout": "{COMMENTATOR} phải đeo một chiếc mặt nạ phòng độc hài hước nhăn mũi; phía sau là đám mây khói mùi bay mù mịt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Mỗi khi đi vệ",
+   "layout": "Cận cảnh chiếc đuôi dẹt của {HERO} quay tít mù như cánh quạt máy bay trực thăng, quạt các mảnh phân và nước văng tung tóe ra xa 2 đến 3 mét xung quanh.",
+   "stickers": [
+    {
+     "at": "2-3m",
+     "side": "R",
+     "y": 360,
+     "value": "2-3 MÉT",
+     "label": "bán kính quạt phân",
+     "target": [
+      0.68,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Kẻ thù nhìn thấy",
+   "layout": "Cá sấu và linh cẩu đứng cách xa 3 mét đều bịt mũi ôm đầu bỏ chạy thục mạng vì không chịu nổi mùi ô nhiễm nồng nặc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Ấy thế mà, thỉnh",
+   "layout": "{HERO} dũng cảm đứng chắn giữa cá sấu và một chú linh dương đầu bò con vừa bị trượt chân xuống nước, gầm lên bảo vệ chú linh dương an toàn lên bờ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Dữ dằn số một",
+   "layout": "{HERO} đội một chiếc mũ cảnh sát trưởng hoạt hình, đeo huy hiệu ngôi sao bạc lấp lánh, đứng canh gác dòng sông bảo vệ các loài thú nhỏ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Sân khấu bế mạc võ đài rực rỡ pháo hoa vàng: {COMMENTATOR} trịnh trọng giơ cao chiếc đai vô địch hạng siêu nặng mạ vàng lấp lánh trao cho {HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một đấu sĩ hội",
+   "layout": "{HERO} đeo đai vô địch quanh chiếc bụng béo tròn, giơ găng tay boxing đỏ vẫy chào trong tiếng hò reo vang dội của toàn thể khán đài.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chúng tách ra từ",
+   "layout": "Cây gia phả 55 triệu năm: tổ tiên chung ở giữa, rẽ một nhánh sang bên trái là chú Cá Voi xanh khổng lồ dưới đại dương, rẽ sang bên phải là {HERO} trên đầm lầy châu Phi.",
+   "stickers": [
+    {
+     "at": "55 triệu năm",
+     "side": "L",
+     "y": 380,
+     "value": "55 TR NĂM",
+     "label": "họ hàng ruột cá voi",
+     "target": [
+      0.4,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Tập 12 đã có chủ",
+   "layout": "Màn hình LED võ đài bỗng phụt tắt đèn màu, chuyển sang ánh sáng tím huyền bí mờ ảo; cả khán đài ồ lên tò mò hướng mắt nhìn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Xin đưa ra ba",
+   "layout": "Trên màn hình LED lớn xuất hiện một BÓNG ĐEN HOÀN TOÀN (solid black silhouette) của một sinh vật bí ẩn đang treo ngược hai chân trên cành cây, xung quanh bóng đen tỏa ra hào quang màu tím bí ẩn và một dấu hỏi chấm khổng lồ màu vàng phát sáng rực rỡ ở giữa. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "0,2km/h",
+     "side": "R",
+     "y": 380,
+     "value": "0,2 KM/H",
+     "label": "siêu tốc độ rùa bò",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Thứ hai, mỗi tuần",
+   "layout": "Vẫn là BÓNG ĐEN HOÀN TOÀN (solid black silhouette) treo ngược trên cành cây, trên lớp lông đen mọc ra các đám rêu xanh lá cây và đàn bướm đêm nhỏ bay quanh, bên dưới có chiếc cân đo mất 1/3 cân nặng và tờ lịch 1 tuần. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1 lần",
+     "side": "L",
+     "y": 360,
+     "value": "1 TUẦN",
+     "label": "đi vệ sinh 1 lần",
+     "target": [
+      0.35,
+      0.45
+     ]
+    },
+    {
+     "at": "1/3",
+     "side": "R",
+     "y": 480,
+     "value": "1/3",
+     "label": "trọng lượng xả thải",
+     "target": [
+      0.65,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và thứ ba, nghịch",
+   "layout": "BÓNG ĐEN HOÀN TOÀN (solid black silhouette) đang từ từ leo xuống đất trong bóng đêm, bên cạnh có biển báo nguy hiểm sinh tử giật mình hài hước; dấu hỏi chấm to tướng xoay tròn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Quý vị khán giả",
+   "layout": "Khán đài sôi động: các bạn nhỏ và muông thú giơ các tấm bảng dấu hỏi chấm, mặt hào hứng suy đoán tên quái kiệt bóng đen; {COMMENTATOR} giơ tay mời gọi khán giả bình luận.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Dọc 9:16: {HERO} to béo nặng 3 tấn ngâm mình dưới nước sông Nile, chiếc phao vịt vàng bơi qua; {COMMENTATOR} chỉ tay ngạc nhiên.",
+   "stickers": [
+    {
+     "at": "3 tấn",
+     "side": "L",
+     "y": 560,
+     "value": "3 TẤN",
+     "label": "cỗ xe tăng",
+     "target": [
+      0.35,
+      0.4
+     ]
+    },
+    {
+     "at": "16 tiếng",
+     "side": "R",
+     "y": 820,
+     "value": "16 TIẾNG",
+     "label": "ngâm nước/ngày",
+     "target": [
+      0.65,
+      0.65
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Đó chính là Hà",
+   "layout": "Dọc: {HERO} khổng lồ da xám hồng khoác áo choàng đỏ đứng trên bờ sông đầm lầy châu Phi, vẻ mặt bặm trợn uy dũng.",
+   "stickers": []
+  },
+  {
+   "at": "Xương của nó đặc",
+   "layout": "Mặt cắt dòng nước dọc: hòn đá tảng chìm thẳng đứng xuống đáy sông không chút nổi bồng bềnh.",
+   "stickers": []
+  },
+  {
+   "at": "nên thay vì bơi",
+   "layout": "Dưới đáy sông: {HERO} đang nhún chân phi nước đại chạy bộ dưới đáy sông với tốc độ 8km/h như vũ công ba-lê.",
+   "stickers": [
+    {
+     "at": "8km/h",
+     "side": "L",
+     "y": 650,
+     "value": "8 KM/H",
+     "label": "chạy bộ đáy sông",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "id": "S09"
+  },
+  {
+   "at": "Trên bờ, nó có",
+   "layout": "Dọc: {HERO} bứt tốc 30km/h trên cạn, bụi đất mù mịt; lớp da dày 5cm bọc thép chống đạn súng trường.",
+   "stickers": [
+    {
+     "at": "30km/h",
+     "side": "R",
+     "y": 580,
+     "value": "30 KM/H",
+     "label": "tốc độ trên cạn",
+     "target": [
+      0.65,
+      0.45
+     ]
+    },
+    {
+     "at": "5cm",
+     "side": "L",
+     "y": 880,
+     "value": "5 CM",
+     "label": "da dày chống đạn",
+     "target": [
+      0.35,
+      0.7
+     ]
+    }
+   ]
+  },
+  {
+   "at": "và tự tiết ra",
+   "layout": "Dọc: Cận cảnh các giọt mồ hôi màu đỏ rực như máu rỉ ra từ da {HERO}, ánh lên bảo vệ chống nắng và diệt khuẩn.",
+   "stickers": []
+  },
+  {
+   "at": "Đáng sợ nhất là",
+   "layout": "Dọc: {HERO} há to mồm khoe cặp răng nanh nhọn hoắt như hai mũi giáo thép đâm lên trời.",
+   "stickers": [
+    {
+     "at": "1.800",
+     "side": "L",
+     "y": 600,
+     "value": "1.800 PSI",
+     "label": "lực cắn cực hạn",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "kết hợp cặp răng",
+   "layout": "Dọc: Chiếc hàm hà mã cắn sập xuống máy đo lực cắn nổ tung tóe lửa; cá sấu dài 3m bị cắn đứt đôi khúc gỗ.",
+   "stickers": [
+    {
+     "at": "50cm",
+     "side": "L",
+     "y": 650,
+     "value": "50 CM",
+     "label": "răng nanh giáo thép",
+     "target": [
+      0.4,
+      0.5
+     ]
+    },
+    {
+     "at": "3m",
+     "side": "R",
+     "y": 900,
+     "value": "3 MÉT",
+     "label": "cắn đôi cá sấu",
+     "target": [
+      0.65,
+      0.7
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vậy là bí mật",
+   "layout": "Dọc: {HERO} khoanh tay mỉm cười tự tin trên bục chiến thắng, phía sau là dòng sông Nile; không cần học bơi.",
+   "stickers": []
+  },
+  {
+   "at": "vì dưới đáy sông",
+   "layout": "Dọc: {HERO} đứng hiên ngang trên bờ sông đầm lầy châu Phi, áo choàng đỏ tung bay trong gió hoàng hôn rực rỡ, vẻ mặt bất khả chiến bại của một cỗ xe bọc thép tự nhiên.",
+   "stickers": [],
+   "id": "S10"
+  }
+ ]
+}

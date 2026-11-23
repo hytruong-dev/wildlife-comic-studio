@@ -1,0 +1,289 @@
+{
+ "episode_no": 13,
+ "animal": "Con Lười",
+ "slug": "tap-13-con-luoi",
+ "format": "F4",
+ "persona": "phong_vien_24h",
+ "nickname": "Thánh sống chậm",
+ "sources": [
+  "Pauli et al. 2014, Proceedings of the Royal Society B (Hội chứng cộng sinh Lười - Bướm đêm Cryptoses - Tảo xanh Trichophilus)",
+  "Sloth Conservation Foundation / NatGeo (Đi vệ sinh 1 tuần/lần, mất tới 1/3 trọng lượng cơ thể, hơn 50% cái chết xảy ra trên mặt đất)",
+  "BBC Earth Factfiles (Cổ có 8-10 đốt sống xoay 270 độ, dạ dày 4 ngăn tiêu hóa 1 chiếc lá mất cả tháng 30 ngày)",
+  "Goffart 1971, Function and Form in the Sloth (Cơ chế gân khóa móng vuốt tự động treo cây không tốn năng lượng, chết vẫn treo ngược)",
+  "Britton 1941, Quarterly Review of Biology (Tốc độ bơi nhanh gấp 3-4 lần bò trên cạn, nhịn thở dưới nước tới 40 phút)"
+ ],
+ "whisper_prompt": "Con Lười, Thánh sống chậm, Sloth, Bradypus, 06:00, 12:00, 18:00, 22:00, 02:00, 04:00, 0.24km/h, 270 độ, 30 ngày, 1/3 trọng lượng, bướm đêm Cryptoses, tảo xanh, đại bàng Harpy, Costa Rica, bóng đen bí ẩn, Chim Tu Hú",
+ "display_fix": {
+  "không sáu giờ": "06:00",
+  "mười hai giờ": "12:00",
+  "mười tám giờ": "18:00",
+  "hai mươi hai giờ": "22:00",
+  "không hai giờ": "02:00",
+  "không bốn giờ": "04:00",
+  "hai mươi tư tiếng": "24 tiếng",
+  "hai mươi tư trên bảy": "24/7",
+  "không phẩy hai mươi tư cây số một giờ": "0,24km/h",
+  "không phẩy hai cây số một giờ": "0,2km/h",
+  "bốn mét": "4m",
+  "hai mét": "2m",
+  "ba đến bốn lần": "3-4 lần",
+  "ba lần": "3 lần",
+  "bốn lần": "4 lần",
+  "bốn ngăn": "4 ngăn",
+  "một tháng": "1 tháng",
+  "ba mươi ngày": "30 ngày",
+  "năm mươi ngày": "50 ngày",
+  "bảy ngày": "7 ngày",
+  "tám ngày": "8 ngày",
+  "một tuần": "1 tuần",
+  "một lần": "1 lần",
+  "một phần ba": "1/3",
+  "ba mươi phần trăm": "30%",
+  "ba mươi lăm phần trăm": "35%",
+  "năm mươi phần trăm": "50%",
+  "mười phần trăm": "10%",
+  "bốn mươi phút": "40 phút",
+  "hai trăm bảy mươi độ": "270°",
+  "tám đến mười": "8-10",
+  "bảy đốt": "7 đốt",
+  "hàng trăm": "hàng trăm",
+  "mười giây": "10 giây",
+  "Tập mười ba": "Tập 13",
+  "Tập mười bốn": "Tập 14",
+  "hàng triệu năm": "hàng triệu năm",
+  "triệu năm": "triệu năm",
+  "Hác-pi": "Harpy",
+  "Cô-xta Ri-ca": "Costa Rica",
+  "Bra-đi-pút": "Bradypus",
+  "Cờ-ríp-tô-xét": "Cryptoses",
+  "A-ma-dôn": "Amazon",
+  "ba mươi đến ba mươi bốn độ C": "30-34°C",
+  "ba mươi độ C": "30°C",
+  "ba mươi bốn độ C": "34°C",
+  "chín mươi độ": "90°",
+  "hai mươi tư giờ": "24 giờ",
+  "ba mươi triệu năm": "30 triệu năm",
+  "ba mươi mét": "30m",
+  "mười lăm mét": "15m",
+  "sáu tháng": "6 tháng",
+  "mười xăng-ti-mét": "10cm",
+  "năm xăng-ti-mét": "5cm",
+  "năm đến tám ngày": "5-8 ngày"
+ },
+ "voice": {},
+ "art": {
+  "decor": "green moss, clock dials, alarm clocks, green leaves",
+  "shorts_mascot": "A sleepy cute cartoon three-toed sloth hanging upside down on a branch with green moss on its fur and wearing a ticking wrist alarm clock",
+  "thumb_bg": "rừng nhiệt đới Amazon xanh thẫm mù sương lúc hoàng hôn",
+  "thumb_title": [
+   "ĐI VỆ SINH MẤT MẠNG?!",
+   "NHẬT KÝ 24H THÁNH LƯỜI"
+  ],
+  "thumb_scene": "một chú Con Lười hoạt hình lông phủ rêu xanh ngơ ngác treo ngược cành cây, trên đầu có bướm đêm bay lượn, tay cầm đồng hồ báo thức",
+  "thumb_gag": "biển báo nguy hiểm toilet dưới gốc cây và bóng báo đốm rình rập hài hước"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "06:00 SÁNG",
+    "banner_title": "TỐC ĐỘ 0,24KM/H & DẠ DÀY 30 NGÀY",
+    "chapter_title": "06:00 Sáng: Tốc độ 0,24 km/h và kỷ lục 30 ngày tiêu hóa 1 chiếc lá",
+    "hook": "BẮT ĐẦU NGÀY MỚI CỦA THÁNH SỐNG CHẬM",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Bây giờ là không sáu giờ sáng! Kính thưa quý vị khán giả, chúng tôi đang có mặt trực tiếp tại tán rừng rậm nhiệt đới Cô-xta Ri-ca để tường thuật lại một ngày làm việc siêu chậm chạp của sinh vật lười biếng nhất hành tinh: Con Lười ba ngón! Chiếc đồng hồ báo thức vừa rung chuông điểm sáng, và nhân vật chính của chúng ta — Thánh sống chậm — dường như vẫn bất động hoàn toàn như một bọc rơm khô treo trên cành cây! Để di chuyển được một bước chân ngắn ngủn vài xăng-ti-mét, gã này mất tới vài phút đồng hồ suy nghĩ và đắn đo! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Alo trường quay nghe rõ không? Phóng viên cho hỏi sinh vật này bò nhanh nhất được bao nhiêu vậy?",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "[surprise-oh] Báo cáo trường quay, tốc độ kỷ lục của nó trên ngọn cây chỉ đạt vỏn vẹn không phẩy hai mươi tư cây số một giờ — tức là khoảng bốn mét mỗi phút! Còn nếu rơi xuống đất thì chỉ lết được chừng hai mét một phút, chậm đến mức một con ốc sên bò qua mặt cũng có thể bấm còi vượt mặt dễ dàng! [laughter] Nhưng điều kinh ngạc nhất nằm ở bộ máy tiêu hóa bên trong: dạ dày của Thánh sống chậm có cấu tạo bốn ngăn phức tạp y hệt loài trâu bò, nhưng quá trình trao đổi chất lại chậm nhất thế giới động vật có vú. Để tiêu hóa hết một chiếc lá cây duy nhất, dạ dày của nó phải làm việc cật lực ròng rã suốt ba mươi ngày trời, thậm chí có thể kéo dài tới năm mươi ngày!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Chính vì tiêu hóa chậm kỷ lục như vậy, nhiệt độ cơ thể của Con Lười dao động thất thường từ ba mươi đến ba mươi bốn độ C, phụ thuộc hoàn toàn vào ánh nắng mặt trời y như các loài bò sát! Nếu thức ăn trong dạ dày không kịp lên men mà gặp trời lạnh giá, Con Lười thậm chí có thể... chết đói ngay khi chiếc bụng vẫn đang căng tròn đầy ắp lá cây! Hãy cùng chúng tôi đếm ngược từng mốc giờ để chứng kiến cuộc đời kỳ lạ của sinh vật này!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "12:00 TRƯA",
+    "banner_title": "CỔ XOAY 270 ĐỘ & KHÓA MÓNG VUỐT",
+    "chapter_title": "12:00 Trưa: Chiếc cổ xoay 270 độ và bàn tay khóa tự động khi chết",
+    "hook": "CHIẾC CỔ CÚ VỌ VÀ MÓNG VUỐT KHÓA CHẾT",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Đồng hồ điểm mười hai giờ trưa! Ánh nắng nhiệt đới chiếu rọi thẳng đứng qua kẽ lá, và đây là lúc Thánh sống chậm bắt đầu phơi mình sưởi nắng để kích hoạt lò tiêu hóa trong bụng. Quý vị hãy nhìn vào chuyển động đầu của nó: trong khi toàn bộ cơ thể vẫn giữ nguyên tư thế treo ngược bất động, chiếc đầu của Con Lười bỗng nhiên quay tít một góc hai trăm bảy mươi độ cực kỳ mượt mà chẳng khác nào một chú chim cú vọ giữa ban ngày! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Bác phóng viên ơi, cổ con người chỉ quay được chín mươi độ thôi, sao gã này quay gần trọn vòng tròn hay vậy?",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Bí mật nằm ở bộ xương cổ độc nhất vô nhị các bạn nhỏ ạ! Trong khi hầu hết các loài động vật có vú trên Trái Đất — từ con chuột nhắt bé tí cho đến hươu cao cổ dài ngoằng — đều chỉ có đúng bảy đốt sống cổ, thì loài lười ba ngón lại tiến hóa sở hữu từ tám đến mười đốt sống cổ! Cấu trúc xương cổ kỳ lạ này cho phép nó quay đầu hai trăm bảy mươi độ ra sau lưng để gặm những chiếc lá non xung quanh mà không cần phải tốn chút sức lực nào để xoay chuyển cả thân mình cồng kềnh! [surprise-oh]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chưa dừng lại ở chiếc cổ cú vọ, hãy nhìn vào bốn bàn chân với những chiếc móng vuốt cong vút dài mười xăng-ti-mét! Đôi chân này không dùng để đi bộ, mà hoạt động như những chiếc móc sắt cứu hộ! Các nhà giải phẫu học phát hiện cơ bắp của Con Lười chiếm chưa đầy ba mươi phần trăm trọng lượng cơ thể, nhưng các đường gân ở ngón chân lại có cơ chế khóa ngàm tự động cực kỳ tinh vi: khi treo lên cành cây, trọng lượng cơ thể tự kéo căng các gân móng bấm chặt vào cành gỗ mà không hề tiêu tốn một chút calo cơ bắp nào! Lực khóa này mạnh đến mức ngay cả khi một con lười đã qua đời vì tuổi già, cơ thể của nó vẫn tiếp tục treo ngược lơ lửng trên cành cây nhiều ngày liền mà không hề bị rơi xuống đất! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Không những thế, Thánh sống chậm còn sở hữu siêu năng lực chịu đòn ngã cây vô địch! Vì thường xuyên leo trèo trên những cành cây mục ướt sũng, các nhà nghiên cứu ghi nhận mỗi con lười trong đời bị ngã từ độ cao mười lăm mét đến ba mươi mét xuống đất cả chục lần! Nhưng nhờ các khớp xương dẻo dai và khung xương sườn đàn hồi kỳ lạ, chúng ngã rơi tự do đánh bịch xuống đất mà hầu như không bao giờ bị gãy xương! Ngã xong, chú lười chỉ việc chớp chớp mắt rồi lại từ từ lết lên thân cây leo tiếp như chưa từng có chuyện gì xảy ra! [laughter]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "18:00 HOÀNG HÔN",
+    "banner_title": "HỆ SINH THÁI BƯỚM ĐÊM & TẢO XANH",
+    "chapter_title": "18:00 Hoàng hôn: Hệ sinh thái di động trên lưng và biệt tài bơi lội",
+    "hook": "MẢNH VƯỜN SINH THÁI TỰ NHIÊN TRÊN BỘ LÔNG",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Bầu trời hoàng hôn buông sắc tím thẫm trên dòng sông, đồng hồ điểm mười tám giờ tối! Khi nhìn cận cảnh vào lớp lông xơ xác màu xám bùn của Thánh sống chậm, chúng tôi phải thốt lên kinh ngạc: đây không phải là một con vật đơn thuần, mà là cả một hệ sinh thái rừng rậm thu nhỏ đang di động! [surprise-oh] Quý vị có thấy những vệt màu xanh lục phủ kín khắp lưng và đầu của nó không? Đó không phải là màu lông bẩm sinh, mà là một thảm tảo xanh sống ký sinh ngay trên các rãnh nứt siêu nhỏ của từng sợi lông lười!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Thảm tảo xanh này được bón phân và chăm sóc bởi một đội quân cư dân đặc quyền: loài bướm đêm Cờ-ríp-tô-xét — sinh vật chỉ sống duy nhất trên bộ lông của Con Lười mà không thể tìm thấy ở bất kỳ nơi nào khác trên hành tinh! Hàng trăm con bướm đêm làm tổ, sinh sống và thải phân đạm nuôi dưỡng cho vườn tảo xanh mọc um tùm. Đổi lại, thảm tảo xanh biến Con Lười thành một búi lá cây ngụy trang hoàn hảo chống lại tầm mắt của kẻ thù từ trên cao, và những lúc đói lòng, chú lười chỉ việc liếm láp lớp tảo giàu chất béo này trên lông như một món ăn vặt bổ dưỡng! Một phi vụ làm ăn đôi bên cùng có lợi kéo dài hàng triệu năm! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng cú sốc lớn nhất buổi chiều hôm nay chính là khả năng thể thao bất ngờ của gã lười! Khi muốn di chuyển qua bờ bên kia, Thánh sống chậm buông tay thả mình rơi tõm xuống dòng sông. Quý vị tin được không: sinh vật lết trên cạn chậm như rùa này lại bơi lội cực kỳ cừ khôi, tốc độ bơi dưới nước nhanh gấp ba đến bốn lần lúc bò trên cạn! Nó có thể nhịn thở dưới nước tới bốn mươi phút đồng hồ nhờ khả năng làm chậm nhịp tim xuống còn một phần ba! Từ một kẻ tàn tật trên cạn, nó biến thành một tay bơi lội cừ khôi vượt sông ngầu chẳng kém gì rái cá! [surprise-wa]",
+      "mood": "don_dap"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "22:00 ĐÊM",
+    "banner_title": "ĐI VỆ SINH TỬ THẦN 1 TUẦN 1 LẦN",
+    "chapter_title": "22:00 Đêm: Nghi lễ đi vệ sinh tử thần và cú giảm 1/3 cân nặng",
+    "hook": "CHUYẾN ĐI VỆ SINH SINH TỬ KÉO DÀI CẢ TIẾNG ĐỒNG HỒ",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Màn đêm bao trùm tĩnh mịch, đồng hồ điểm hai mươi hai giờ đêm! Và đây chính là khoảnh khắc hồi hộp, căng thẳng và nguy hiểm bậc nhất trong cả tuần lễ của Thánh sống chậm: chuyến hành hương xuống mặt đất để đi vệ sinh! Trong khi các loài thú khác trên cành cây chỉ việc xả phân tự do xuống đất từ trên cao, thì loài lười ba ngón lại kiên quyết tuân theo một nghi thức kỳ quặc đến mức khó hiểu: cứ đều đặn một tuần một lần, nó bắt buộc phải bò từ ngọn cây cao chót vót xuống tận mặt đất ẩm ướt để đi đại tiện! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Chuyến đi này tiêu tốn tới mười phần trăm năng lượng ít ỏi cả ngày của nó, nhưng cái giá phải trả lớn hơn thế gấp ngàn lần! Vì di chuyển quá vụng về trên mặt đất, Con Lười hoàn toàn mất đi khả năng tự vệ trước các loài thú săn mồi mặt đất. Báo cáo nghiên cứu thực địa chấn động của các nhà sinh vật học tại Cô-xta Ri-ca chỉ ra rằng: hơn năm mươi phần trăm số cái chết trong toàn bộ cuộc đời của loài lười đều diễn ra đúng vào thời điểm nó mò xuống đất đi vệ sinh! Một cái chết lãng xẹt và bi hài bậc nhất thế giới tự nhiên! [dissatisfaction-hnn]",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Bác phóng viên ơi, nguy hiểm đến mất mạng như thế sao nó không ị luôn trên cây cho khỏe ạ?",
+      "cast": "be_con"
+     },
+     {
+      "text": "Câu hỏi tuyệt vời của khán giả nhí cũng chính là điều khiến các nhà khoa học vò đầu bứt tai suốt nhiều thập kỷ! Khi xuống tới gốc cây, Con Lười dùng chiếc đuôi ngắn ngủn ngoáy một chiếc hố nhỏ trên nền đất rồi bắt đầu xả thải. Quý vị hãy chuẩn bị tinh thần: vì nhịn suốt một tuần lễ, lượng phân và nước tiểu xả ra trong một lần đi vệ sinh có thể nặng tới một phần ba trọng lượng toàn bộ cơ thể nó! Đi vệ sinh xong một cái là chú lười nhẹ bẫng đi ba mươi phần trăm cân nặng! Và mục đích sinh tử của chuyến đi này chính là để phục vụ bạn bè: khi lười đi vệ sinh, những cô bướm đêm trên lông sẽ bò xuống đẻ trứng vào đống phân tươi để ấu trùng phát triển, hoàn thành chu trình duy trì bộ lông xanh cho thế hệ lười tiếp theo! Chấp nhận đối mặt tử thần năm mươi phần trăm chỉ để giữ lời hứa với đàn bướm đêm, quả là một tình bạn sinh tử cảm động! [laughter]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "02:00 ĐÊM",
+    "banner_title": "ĐẠI BÀNG HARPY & CÚ CÀO TỰ VỆ",
+    "chapter_title": "02:00 Đêm: Cuộc chạm trán sát thủ đại bàng Harpy và cú cào tự vệ",
+    "hook": "ĐỐI ĐẦU BẠO CHÚA BẦU TRỜI ĐẠI BÀNG HARPY",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Màn đêm chuyển về khuya, đồng hồ điểm không hai giờ rạng sáng! Sau chuyến đi vệ sinh hú vía dưới mặt đất, Thánh sống chậm đã leo trở lại chạc cây an toàn. Nhưng hiểm nguy từ bầu trời lại bắt đầu rình rập! Trên tầng tán rừng nhiệt đới, kẻ thù truyền kiếp đáng sợ nhất của loài lười đã xuất hiện: Đại bàng Hác-pi — bạo chúa bầu trời châu Mỹ với sải cánh dài hơn hai mét và bộ móng vuốt to bằng móng gấu xám! [surprise-wa]",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Đại bàng Hác-pi chuyên lượn sát các ngọn cây để săn lùng khỉ và lười. Nhưng chính tốc độ rùa bò và bộ lông mọc rêu xanh lại trở thành tấm áo giáp tàng hình siêu việt cứu mạng Thánh sống chậm! Đại bàng bay lướt qua phía trên chỉ thấy một búi lá cây đung đưa bất động trong gió đêm. Và quý vị đừng tưởng chú lười hiền lành này không biết phản kháng nhé! Khi bị dồn vào chân tường, Con Lười có thể tung ra những cú cào vuốt móng thép sắc lẹm với tốc độ cực nhanh, đủ sức rạch toạc da thịt của kẻ săn mồi khiến báo đốm hay đại bàng cũng phải dè chừng lùi bước! Chậm chạp có tính toán, bất động để sinh tồn, đó là bản lĩnh của kẻ sống sót qua hàng triệu năm! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và tình mẫu tử của loài lười cũng cảm động không kém! Chú lười con sinh ra chỉ nhỏ xíu bằng nắm tay, bám chặt vào ngực mẹ suốt sáu tháng trời ròng rã không rời nửa bước! Người mẹ lười dù chậm chạp đến đâu cũng sẽ bảo vệ con mình trước nanh vuốt của thú dữ, sẵn sàng giơ những chiếc móng vuốt mười xăng-ti-mét sắc nhọn rạch toạc mặt bất kỳ kẻ săn mồi nào dám đụng vào đứa con bé bỏng! Chậm chạp nhưng không hề yếu hèn, đó chính là bản lĩnh sinh tồn của Thánh sống chậm! [surprise-oh]",
+      "mood": "am_ap"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "04:00 SÁNG",
+    "banner_title": "BÀI HỌC VÀ BÓNG ĐEN TẬP 14",
+    "chapter_title": "04:00 Rạng sáng: Triết lý sống chậm đỉnh cao và bóng đen bí ẩn tập 14",
+    "hook": "BẬT MÍ BÓNG ĐEN BÍ ẨN CỦA QUÁI KIỆT TẬP 14",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Bây giờ là không bốn giờ rạng sáng! Ánh bình minh le lói bắt đầu rọi xuống tán rừng già, khép lại hai mươi tư giờ tác nghiệp đầy cảm xúc theo chân Thánh sống chậm. Nhiều người thường lấy con lười ra làm biểu tượng cho sự lười nhác và thụt lùi, nhưng thực tế tiến hóa đã chứng minh: lối sống chậm rãi, tối giản hóa năng lượng và không tranh giành thức ăn với bất kỳ ai đã giúp Con Lười tồn tại bền bỉ qua hơn ba mươi triệu năm lịch sử! Đôi khi trong cuộc sống hối hả, biết sống chậm lại, tĩnh tâm và kiên định với con đường của riêng mình lại là cách sinh tồn thông minh và khôn ngoan nhất! [surprise-oh]",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Hành trình hai mươi tư giờ của Thánh sống chậm đã chính thức khép lại! Nhưng ngay bây giờ, xin mời quý vị khán giả hãy hướng mắt lên màn hình lớn để chiêm ngưỡng BÓNG ĐEN BÍ ẨN của nhân vật xuất hiện trong Tập mười bốn tiếp theo! [surprise-oh]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Xin gửi tới quý vị ba manh mối chấn động về bóng đen bí ẩn này: Thứ nhất, đây là siêu tội phạm lừa đảo khét tiếng bậc nhất thế giới loài chim, với tuyệt kỹ đẻ trộm trứng vào tổ của loài chim khác chỉ trong vỏn vẹn mười giây! Thứ hai, bản năng sát thủ tàn nhẫn đến rợn người: con non vừa chui ra khỏi vỏ trứng, mắt còn chưa mở, nhưng đã dùng chiếc lưng lõm hất tung toàn bộ trứng của chim chủ nhà rơi xuống đất vỡ nát! Và thứ ba, nghịch lý bi hài: đôi chim bố mẹ nuôi còng lưng bón mồi cho một đứa con nuôi khổng lồ to gấp ba lần chính mình! [laughter]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Quý vị khán giả có đoán ra bóng đen bí ẩn này là quái kiệt nào không? Hãy để lại phán quyết và dự đoán của bạn ngay dưới phần bình luận nhé! Phóng viên truyền hình xin chào tạm biệt và hẹn gặp lại quý vị trong bản tin sinh tồn kỳ thú tiếp theo!",
+      "mood": "hao_hung"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "don_dap",
+  "text": "[surprise-oh] Một sinh vật lười biếng đến mức mất cả tháng trời chỉ để tiêu hóa một chiếc lá cây, nhưng mỗi tuần lại chấp nhận mạo hiểm tính mạng để làm một việc kỳ quặc! Đó chính là Con Lười ba ngón, thánh sống chậm của rừng rậm Nam Mỹ với tốc độ chỉ không phẩy hai cây số một giờ. Dạ dày bốn ngăn trao đổi chất cực chậm khiến một chiếc lá phải mất ba mươi ngày mới tiêu hóa xong, còn bộ lông phủ đầy tảo xanh biến nó thành một khu rừng di động cho hàng trăm con bướm đêm sinh sống. [surprise-wa] Nhưng kỳ lạ nhất là cứ đúng một tuần một lần, nó bắt buộc phải bò từ ngọn cây xuống đất để đi vệ sinh, xả tới một phần ba trọng lượng cơ thể! [laughter] Do di chuyển quá vụng về dưới đất, hơn năm mươi phần trăm số cái chết của loài lười đều diễn ra đúng vào thời điểm đi vệ sinh này! Vậy là bí mật đã rõ: con lười chấp nhận đối mặt với tử thần chỉ để bướm đêm trên lưng có chỗ đẻ trứng vào phân, giữ cho bộ lông luôn xanh ngụy trang để sinh tồn qua hàng triệu năm!"
+ },
+ "seo": {
+  "title": "Tại Sao 50% Cái Chết Của Con Lười Xảy Ra Lúc Đi Vệ Sinh?! | Con Lười | Tập 13",
+  "hook_paragraph": "Con Lười di chuyển 0.24km/h, mất 30 ngày để tiêu hóa 1 chiếc lá, cổ xoay 270 độ và hệ sinh thái bướm đêm sống trên lông! Nhưng tại sao hơn 50% cái chết trong đời nó lại diễn ra đúng lúc mò xuống đất đi vệ sinh 1 tuần/lần? Khám phá nhật ký sinh tồn 24 giờ của Thánh sống chậm rừng Amazon.",
+  "bullets": [
+   "Tốc độ kỷ lục 0.24km/h, 1 tháng tiêu hóa 1 chiếc lá",
+   "Cổ xoay 270 độ nhờ 8-10 đốt sống cổ và móng vuốt khóa chết trên cây",
+   "Hệ sinh thái di động: Hàng trăm con bướm đêm và tảo xanh nuôi dưỡng nhau trên lông",
+   "Nghi lễ đi vệ sinh tử thần 1 tuần/lần: Xả 1/3 trọng lượng cơ thể và hơn 50% bị săn mồi"
+  ],
+  "question": "Bạn có đoán ra BÓNG ĐEN BÍ ẨN ở cuối video là quái kiệt nào không? (Gợi ý: đẻ trộm trứng trong 10 giây, con non hất vỡ trứng chủ nhà). Bình luận dự đoán nhé!",
+  "next_teaser": "Bóng đen bí ẩn — kẻ đẻ trộm trứng 10 giây và sát thủ chưa mở mắt đẩy vỡ trứng chủ nhà",
+  "hashtags": [
+   "#ConLuoi #Sloth #TheGioiDongVat #VeChuyenHoangDa #KhoaHoc"
+  ],
+  "tags": [
+   "con lười",
+   "con luoi",
+   "sloth",
+   "con lười đi vệ sinh",
+   "tại sao con lười chậm",
+   "con lười bơi lội",
+   "thế giới động vật",
+   "động vật kỳ lạ",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị",
+   "nhật ký 24 giờ"
+  ],
+  "shorts_title": "Tại Sao 50% Cái Chết Của Con Lười Xảy Ra Lúc Đi Vệ Sinh?! 🦥 #shorts #conluoi",
+  "shorts_desc": "Con Lười chậm 0.2km/h, mất 1 tháng tiêu hóa 1 chiếc lá và hơn 50% cái chết trong đời xảy ra đúng lúc đi vệ sinh 1 tuần/lần! Khám phá bí mật sinh tồn của thánh sống chậm rừng Amazon! 🦥🌿",
+  "shorts_tags": [
+   "con lười",
+   "sloth",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã",
+   "động vật hài hước"
+  ],
+  "en_title": "Why 50% of Sloth Deaths Happen While Pooping?! | Three-Toed Sloth",
+  "en_desc": "The Three-Toed Sloth moves at 0.24 km/h, takes 30 days to digest a single leaf, can rotate its neck 270 degrees, and carries a whole ecosystem of moths and algae on its fur! But why do over 50% of sloth deaths happen during their weekly ritual climb down to poop? Explore the 24-hour survival diary of the slowest master in the Amazon rainforest.",
+  "en_shorts_title": "Why 50% of Sloth Deaths Happen While Pooping?! 🦥 #shorts #sloth",
+  "en_shorts_desc": "The Three-Toed Sloth moves at 0.2 km/h, takes 30 days to digest one leaf, and over 50% of sloth deaths occur during their weekly bathroom trip! Discover the secret survival strategy of the Amazon's slowest king! 🦥🌿"
+ }
+}

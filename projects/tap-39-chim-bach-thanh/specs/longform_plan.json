@@ -1,0 +1,480 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "KHÁM NGHIỆM HIỆN TRƯỜNG CÀNH GAI CẮM XÁC KỲ BÍ GIỮA RỪNG SÂU",
+   "hook": "Bức màn trinh thám về kẻ săn mồi đội lốt chim ca hót",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "phòng điều tra trọng án sinh thái",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "giải mã hiện trường",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một vụ án hóc búa",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy nhìn vào cành cây mận gai",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một hiện trường rùng rợn",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hàng loạt con mồi từ thằn lằn",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "xiên thủng qua cổ hoặc ức",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thưa Thanh tra trưởng",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thủ phạm của vụ án liên hoàn",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chiếc mặt nạ của hiệp sĩ Zorro",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "treo xác con mồi lên gai nhọn",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HIỆN TRƯỜNG VỤ ÁN"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "MẤU RĂNG MỎ CHIM ƯNG THU NHỎ BẺ GÃY ĐỐT SỐNG CỔ",
+   "hook": "Cấu trúc mỏ sát thủ tomial tooth độc nhất vô nhị",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây chính là vũ khí đoạt mạng",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tiến hóa theo hướng của các loài",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đầu mỏ trên uốn cong",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hai mấu răng xương nhọn hoắt",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi lao xuống tấn công con mồi",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "không cắn bừa bãi vào thân xác",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hai chiếc mấu răng tomial tooth sẽ cắm",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bẻ gãy tủy sống con mồi",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một cú cắn kết liễu hoàn hảo",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vấn đề nan giải mới lại xuất hiện",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí khi săn bắt",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VŨ KHÍ SỐ 1"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "CHIẾC ĐINH GAI THIÊN NHIÊN THAY THẾ BÀN CHÂN QUẮP MỒI",
+   "hook": "Khắc phục nhược điểm bàn chân sẻ bằng đòn bẩy ngoại vi",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tại sao chim bách thanh phải xiên",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các loài chim săn mồi thực thụ",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thế nhưng nghi phạm của chúng ta",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các ngón chân mảnh khảnh",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để giải quyết nghịch lý cơ học này",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó tha xác con mồi đến những bụi cây",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó dùng toàn lực cắm phập xác nạn nhân",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thong thả dùng chiếc mỏ móc câu",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một bằng chứng hùng hồn",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đáng kinh ngạc hơn nữa",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gai mảnh cho thằn lằn và cào cào",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VŨ KHÍ SỐ 2"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "KHO BẢO QUẢN VÀ GIẢI TRỪ ĐỘC TỐ CON MỒI SUỐT BỐN MƯƠI TÁM GIỜ",
+   "hook": "Chiến lược hóa sinh biến thức ăn độc hại thành bữa tiệc an toàn",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "loài cào cào này tích tụ hàm lượng chất độc",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi cành gai nhọn hoắt",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mọi loài chim săn mồi khác",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "xiên chúng lên cành gai nhọn hoắt",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bí mật nằm ở chỗ",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sau khoảng 48 giờ đến 72 giờ",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chú chim bách thanh kiên nhẫn chờ đợi",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây chẳng khác nào quy trình ủ thực phẩm",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vừa là kho lương thực chống đói",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong mùa sinh sản vào mùa xuân",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Những chú chim mái sẽ bay đi kiểm tra",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VŨ KHÍ SỐ 3"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "BẬC THẦY NHẠI GIỌNG HÓT DỤ DỖ CON MỒI VÀO BẪY PHỤC KÍCH",
+   "hook": "Nghệ thuật cải trang âm thanh đánh lừa cả khu rừng",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chúng ta không thể bỏ qua ngón đòn",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chim bách thanh sở hữu thanh quản",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi đi săn nó sẽ nấp kín",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "giả dạng tiếng chim sẻ non",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Những chú chim nhỏ ngây thơ nghe thấy",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thưa Thanh tra nghĩa là nó dùng",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chính xác 100%",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lao ra như một mũi tên xé gió",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ chiếc mặt nạ đen ngụy trang",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cơ quan phát âm syrinx của chim bách thanh",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "khiến ngay cả những kẻ quan sát",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VŨ KHÍ SỐ 4"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "TÔN VINH KIỆT TÁC SINH TỒN VÀ CÂN BẰNG SINH THÁI",
+   "hook": "Khép lại vụ án với góc nhìn tôn trọng quy luật tự nhiên",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sau khi làm rõ toàn bộ bốn bằng chứng",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Dù thói quen xiên mồi lên cành gai",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "giữ cho cán cân tự nhiên luôn ở trạng thái",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đừng bao giờ đánh giá một sinh vật",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong cuộc sống cũng vậy",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giữa kỹ thuật bẻ cổ bằng mấu răng",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy chia sẻ suy luận phá án của bạn",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhấn nút Đăng Ký Kênh",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tập 40: Khám phá siêu kiến trúc quân sự",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "KẾT LUẬN ĐIỀU TRA"
+  }
+ }
+}

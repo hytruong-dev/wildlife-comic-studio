@@ -1,0 +1,897 @@
+{
+ "episode": "tap-20-ca-cung-thu",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 6,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "intro_mode": "full_first",
+ "output": "renders/tap-20-ca-cung-thu_long.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 80.294,
+   "chapter_no": 1,
+   "badge": "HỒ SƠ XẠ THỦ",
+   "header_image": "assets/banners/chapter_01.png",
+   "title": "THIỆN XẠ ĐẦM LẦY 20CM BẮN TIA NƯỚC HẠ GỤC MỤC TIÊU CÁCH 2M",
+   "card_hook": "LOÀI CÁ BẮN NƯỚC BÁCH PHÁT BÁCH TRÚNG LÊN CẠN",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L01.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 2.72,
+     "image": "assets/long/L02.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 5.96,
+     "image": "assets/long/L03.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 13.48,
+     "image": "assets/long/L04.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 17.02,
+     "image": "assets/long/L05.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 21.68,
+       "side": "L",
+       "y": 380,
+       "value": "15-20cm",
+       "label": "chiều dài cơ thể",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 23.2,
+     "image": "assets/long/L06.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b07",
+     "start_s": 30.74,
+     "image": "assets/long/L07.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b08",
+     "start_s": 36.36,
+     "image": "assets/long/L08.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b09",
+     "start_s": 41.0,
+     "image": "assets/long/L09.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b10",
+     "start_s": 45.5,
+     "image": "assets/long/L10.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 48.14,
+       "side": "R",
+       "y": 380,
+       "value": "2 MÉT",
+       "label": "tầm bắn hiệu quả",
+       "target": [
+        0.75,
+        0.55
+       ]
+      },
+      {
+       "t": 49.8,
+       "side": "R",
+       "y": 480,
+       "value": "3 MÉT",
+       "label": "kỷ lục cực đại",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b11",
+     "start_s": 53.8,
+     "image": "assets/long/L11.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b12",
+     "start_s": 62.26,
+     "image": "assets/long/L12.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b13",
+     "start_s": 69.09,
+     "image": "assets/long/L13.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b14",
+     "start_s": 74.01,
+     "image": "assets/long/L14.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 99.832,
+   "chapter_no": 2,
+   "badge": "BẢN VẼ NÒNG SÚNG",
+   "header_image": "assets/banners/chapter_02.png",
+   "title": "RÃNH CHỮ V VÀ KỸ THUẬT NÉN ĐẠN NƯỚC GIA TỐC ĐUÔI",
+   "card_hook": "NÒNG SÚNG RÃNH CHỮ V VÀ GIỌT ĐẠN NƯỚC KHỔNG LỒ",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L15.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 5.4,
+     "image": "assets/long/L16.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 10.74,
+     "image": "assets/long/L17.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 16.73,
+     "image": "assets/long/L18.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 24.11,
+     "image": "assets/long/L19.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 29.04,
+       "side": "L",
+       "y": 380,
+       "value": "1 mm",
+       "label": "đường kính nòng",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b06",
+     "start_s": 29.88,
+     "image": "assets/long/L20.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 37.66,
+       "side": "R",
+       "y": 380,
+       "value": "4-5 m/s",
+       "label": "vận tốc đạn nước",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b07",
+     "start_s": 39.02,
+     "image": "assets/long/L21.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b08",
+     "start_s": 45.0,
+     "image": "assets/long/L22.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 49.62,
+       "side": "L",
+       "y": 380,
+       "value": "+20% SPD",
+       "label": "gia tốc phần đuôi",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b09",
+     "start_s": 53.0,
+     "image": "assets/long/L23.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b10",
+     "start_s": 64.28,
+     "image": "assets/long/L68.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b11",
+     "start_s": 68.46,
+     "image": "assets/long/L24.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b12",
+     "start_s": 77.42,
+     "image": "assets/long/L25.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 78.22,
+       "side": "R",
+       "y": 380,
+       "value": "x10 LỰC",
+       "label": "động năng nén tụ",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b13",
+     "start_s": 84.97,
+     "image": "assets/long/L26.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 91.17,
+       "side": "L",
+       "y": 380,
+       "value": "6-7 PHÁT",
+       "label": "bắn liên thanh",
+       "target": [
+        0.3,
+        0.55
+       ]
+      },
+      {
+       "t": 92.47,
+       "side": "R",
+       "y": 480,
+       "value": "2 GIÂY",
+       "label": "thời gian xả đạn",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b14",
+     "start_s": 95.33,
+     "image": "assets/long/L27.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 96.04,
+   "chapter_no": 3,
+   "badge": "THUẬT TOÁN QUANG HỌC",
+   "header_image": "assets/banners/chapter_03.png",
+   "title": "BỘ NÃO TỰ ĐỘNG GIẢI ĐỊNH LUẬT KHÚC XẠ SNELL",
+   "card_hook": "BỘ NÃO 0,1 GAM GIẢI BÀI TOÁN KHÚC XẠ TRONG 0,05 GIÂY",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L28.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 5.76,
+     "image": "assets/long/L29.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 12.86,
+     "image": "assets/long/L30.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 19.2,
+     "image": "assets/long/L31.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b05",
+     "start_s": 25.25,
+     "image": "assets/long/L32.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b06",
+     "start_s": 32.13,
+     "image": "assets/long/L33.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 39.35,
+       "side": "L",
+       "y": 380,
+       "value": "50 ms",
+       "label": "tính toán khúc xạ",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b07",
+     "start_s": 40.56,
+     "image": "assets/long/L34.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b08",
+     "start_s": 48.33,
+     "image": "assets/long/L35.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 57.57,
+       "side": "L",
+       "y": 380,
+       "value": "70°-80°",
+       "label": "góc ngắm chuẩn",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b09",
+     "start_s": 59.83,
+     "image": "assets/long/L69.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 66.77,
+       "side": "R",
+       "y": 380,
+       "value": "95% HIT",
+       "label": "độ chính xác",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b10",
+     "start_s": 67.97,
+     "image": "assets/long/L36.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b11",
+     "start_s": 80.52,
+     "image": "assets/long/L37.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b12",
+     "start_s": 90.78,
+     "image": "assets/long/L70.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 90.499,
+   "chapter_no": 4,
+   "badge": "HUẤN LUYỆN TÁC CHIẾN",
+   "header_image": "assets/banners/chapter_04.png",
+   "title": "TÂN BINH BẮN HỤT TRĂM PHÁT VÀ NĂNG LỰC HỌC TẬP",
+   "card_hook": "KHÔNG PHẢI BẢN NĂNG CÓ SẴN MÀ PHẢI TẬP BẮN TỪ BÉ",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L38.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 6.64,
+     "image": "assets/long/L39.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 14.25,
+     "image": "assets/long/L40.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 21.65,
+       "side": "L",
+       "y": 380,
+       "value": "99% TRƯỢT",
+       "label": "tân binh mới nở",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 24.91,
+     "image": "assets/long/L41.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b05",
+     "start_s": 27.77,
+     "image": "assets/long/L42.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b06",
+     "start_s": 35.99,
+     "image": "assets/long/L43.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b07",
+     "start_s": 44.19,
+     "image": "assets/long/L44.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b08",
+     "start_s": 55.41,
+     "image": "assets/long/L45.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b09",
+     "start_s": 65.47,
+     "image": "assets/long/L71.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b10",
+     "start_s": 70.53,
+     "image": "assets/long/L46.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b11",
+     "start_s": 80.91,
+     "image": "assets/long/L47.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 94.097,
+   "chapter_no": 5,
+   "badge": "ĐOÁN TRƯỚC ĐIỂM RƠI",
+   "header_image": "assets/banners/chapter_05.png",
+   "title": "TÍNH QUỸ ĐẠO RƠI TRONG 100MS VÀ CÚ NHẢY NGOẠM MỒI",
+   "card_hook": "TÍNH TOÁN ĐIỂM RƠI TRONG 100 MILI-GIÂY VÀ CUỘC ĐUA CƯỚP MỒI",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L48.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 4.44,
+     "image": "assets/long/L49.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 15.0,
+     "image": "assets/long/L50.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 18.1,
+       "side": "L",
+       "y": 380,
+       "value": "100 ms",
+       "label": "tính điểm rơi",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 26.31,
+     "image": "assets/long/L51.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 35.21,
+       "side": "R",
+       "y": 380,
+       "value": "0,1 GIÂY",
+       "label": "bơi nước rút",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b05",
+     "start_s": 36.13,
+     "image": "assets/long/L52.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b06",
+     "start_s": 41.07,
+     "image": "assets/long/L53.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 43.49,
+       "side": "L",
+       "y": 380,
+       "value": "3-4 CON",
+       "label": "lao vào tranh cướp",
+       "target": [
+        0.25,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b07",
+     "start_s": 47.53,
+     "image": "assets/long/L54.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b08",
+     "start_s": 55.42,
+     "image": "assets/long/L55.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b09",
+     "start_s": 62.16,
+     "image": "assets/long/L56.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 68.72,
+       "side": "R",
+       "y": 380,
+       "value": "30 cm",
+       "label": "nhảy không đối không",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b10",
+     "start_s": 72.08,
+     "image": "assets/long/L57.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b11",
+     "start_s": 80.81,
+     "image": "assets/long/L58.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 80.333,
+   "chapter_no": 6,
+   "badge": "BÁO CÁO THỬ NGHIỆM",
+   "header_image": "assets/banners/chapter_06.png",
+   "title": "BÀI HỌC ĐỘ CHÍNH XÁC VÀ BÓNG ĐEN WOLVERINE 860V TẬP SAU",
+   "card_hook": "BÀI HỌC VỀ ĐỘ CHÍNH XÁC VÀ BẬT MÍ BÓNG ĐEN TẬP 21",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L59.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 9.68,
+     "image": "assets/long/L60.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 17.24,
+     "image": "assets/long/L61.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b04",
+     "start_s": 24.88,
+     "image": "assets/long/L72.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b05",
+     "start_s": 32.45,
+     "image": "assets/long/L62.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 36.05,
+       "side": "L",
+       "y": 380,
+       "value": "ĐẠI BÁC",
+       "label": "đạn nước gia tốc",
+       "target": [
+        0.25,
+        0.55
+       ]
+      },
+      {
+       "t": 39.01,
+       "side": "R",
+       "y": 480,
+       "value": "BỘ NÃO",
+       "label": "giải khúc xạ quang học",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b06",
+     "start_s": 43.84,
+     "image": "assets/long/L63.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b07",
+     "start_s": 54.34,
+     "image": "assets/long/L64.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b08",
+     "start_s": 56.56,
+     "image": "assets/long/L65.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b09",
+     "start_s": 61.42,
+     "image": "assets/long/L66.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b10",
+     "start_s": 73.62,
+     "image": "assets/long/L67.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

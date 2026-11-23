@@ -1,0 +1,162 @@
+{
+ "episode_no": 12,
+ "animal": "Hà Mã",
+ "slug": "tap-12-ha-ma",
+ "format": "F7",
+ "persona": "binh_luan_vien",
+ "nickname": "Cỗ xe tăng bọc thịt",
+ "sources": [
+  "IFAW & National Geographic (Lực cắn 1.800 PSI ~ 12.600 kPa, răng nanh dài tới 50cm, mồm mở rộng 180 độ)",
+  "San Diego Zoo & Newsweek (Không biết bơi hay nổi, xương đặc osteosclerosis chạy bộ dưới đáy sông 8 km/h, trên cạn 30 km/h)",
+  "Saikawa et al. 2004, Nature (Chất lỏng màu đỏ 'blood sweat' chứa axit hipposudoric và norhipposudoric chống nắng và diệt khuẩn)",
+  "Nature 2009 / Thewissen et al. (Họ hàng gần nhất còn sống là bộ Cá voi Cetacea, tách ra 55 triệu năm trước)",
+  "Traill et al. 2022 (Động vật có vú nguy hiểm bậc nhất Châu Phi, gây khoảng 500 ca tử vong mỗi năm)",
+  "Schaller & Eltringham (Tập tính quạt đuôi phân propeller tail poop văng xa 2-3 mét để đánh dấu lãnh thổ)"
+ ],
+ "whisper_prompt": "Hà Mã, Cỗ xe tăng bọc thịt, Hippopotamus, 1.800 PSI, 50cm, 180 độ, 3 tấn, 5cm, 30km/h, 8km/h, mồ hôi máu, blood sweat, cá voi, Cetacea, quạt đuôi phân, cá sấu, Châu Phi, đai vô địch, bóng đen bí ẩn",
+ "display_fix": {
+  "một ngàn tám trăm": "1.800",
+  "Một ngàn tám trăm": "1.800",
+  "năm mươi xăng-ti-mét": "50cm",
+  "Năm mươi xăng-ti-mét": "50cm",
+  "một trăm tám mươi độ": "180°",
+  "Một trăm tám mươi độ": "180°",
+  "ba tấn": "3 tấn",
+  "Ba tấn": "3 tấn",
+  "một tấn rưỡi": "1,5 tấn",
+  "Một tấn rưỡi": "1,5 tấn",
+  "năm xăng-ti-mét": "5cm",
+  "Năm xăng-ti-mét": "5cm",
+  "ba mươi cây số một giờ": "30km/h",
+  "Ba mươi cây số một giờ": "30km/h",
+  "tám cây số một giờ": "8km/h",
+  "Tám cây số một giờ": "8km/h",
+  "năm phút": "5 phút",
+  "Năm phút": "5 phút",
+  "bốn mươi lăm cân": "45kg",
+  "Bốn mươi lăm cân": "45kg",
+  "năm trăm": "500",
+  "Năm trăm": "500",
+  "năm mươi lăm triệu năm": "55 triệu năm",
+  "Năm mươi lăm triệu năm": "55 triệu năm",
+  "ba mét": "3m",
+  "Ba mét": "3m",
+  "hai mét": "2m",
+  "Hai mét": "2m",
+  "ba mét rưỡi": "3,5m",
+  "hai đến ba mét": "2-3m",
+  "ba lần": "3 lần",
+  "Ba lần": "3 lần",
+  "bảy lần": "7 lần",
+  "Bảy lần": "7 lần",
+  "mười lần": "10 lần",
+  "Mười lần": "10 lần",
+  "chín mươi lăm phần trăm": "95%",
+  "một trăm phần trăm": "100%",
+  "chín ngàn chín trăm điểm": "9.900 điểm",
+  "chín ngàn tám trăm điểm": "9.800 điểm",
+  "chín ngàn năm trăm điểm": "9.500 điểm",
+  "mười sáu tiếng": "16 tiếng",
+  "Mười sáu tiếng": "16 tiếng",
+  "sáu tiếng": "6 tiếng",
+  "Sáu tiếng": "6 tiếng",
+  "hai mươi tư trên bảy": "24/7",
+  "một tuần": "1 tuần",
+  "Một tuần": "1 tuần",
+  "một lần": "1 lần",
+  "Một lần": "1 lần",
+  "một phần ba": "1/3",
+  "Một phần ba": "1/3",
+  "không phẩy hai cây số một giờ": "0,2km/h",
+  "Không phẩy hai cây số một giờ": "0,2km/h",
+  "một trăm mười lăm": "115",
+  "ba trăm sáu mươi": "360",
+  "Tập mười hai": "Tập 12",
+  "Tập mười ba": "Tập 13",
+  "hàng triệu năm": "hàng triệu năm",
+  "triệu năm": "triệu năm",
+  "Hà Mã": "Hà Mã",
+  "P-S-I": "PSI",
+  "A-T-K": "ATK",
+  "D-E-F": "DEF",
+  "H-P": "HP",
+  "S-P-D": "SPD",
+  "Xê-ta-xê-a": "Cetacea"
+ },
+ "voice": {},
+ "art": {
+  "decor": "crossed swords, battle shield, lightning bolt, HP bar",
+  "shorts_mascot": "A chubby muscular cartoon Hippopotamus wearing gladiator shoulder armor and red boxing gloves with steam puffing from its nostrils",
+  "thumb_bg": "dòng sông Châu Phi rực lửa lúc hoàng hôn với đàn cá sấu bơi xung quanh",
+  "thumb_title": ["CỖ XE TĂNG 1.800 PSI?!", "ĐẤU TRƯỜNG CHÂU PHI"],
+  "thumb_scene": "một chú Hà Mã béo tròn khổng lồ há to mồm 180 độ khoe cặp răng nanh 50cm sắc nhọn, bốc khói mồ hôi đỏ rực, đang cắn nát một khúc gỗ mục",
+  "thumb_gag": "một chú cá sấu nhỏ bên cạnh đang ôm đầu hoảng sợ bỏ chạy"
+ },
+ "longform": {
+  "scenes": [
+   {"id": "scene01", "badge": "VÕ ĐÀI CHÂU PHI", "banner_title": "TUYỂN THỦ XE TĂNG XUẤT ĐÀI", "chapter_title": "Võ đài Châu Phi: Tuyển thủ xe tăng xuất đài & cú lừa không biết bơi",
+    "hook": "CỖ XE TĂNG BỌC THỊT BƯỚC VÀO SÀN ĐẤU", "mood": "hao_hung", "parts": [
+     {"text": "Kính thưa quý vị khán giả đang theo dõi Đấu Trường Sinh Tồn! Tuyển thủ hạng siêu nặng của chúng ta đã chính thức bước vào sàn đấu! Hãy hướng ống kính về phía dòng sông châu Phi rực lửa, nơi một khối cơ bắp khổng lồ nặng tới ba tấn vừa trồi lên khỏi mặt nước! Đó chính là Hà Mã — sinh vật được mệnh danh là Cỗ xe tăng bọc thịt của giới tự nhiên! Nhìn dáng vẻ tròn ủng, lùn tịt và bốn cái chân ngắn cũn cỡn, nhiều khán giả trên khán đài có thể tưởng rằng gã béo này vô hại như một chú heo mọi khổng lồ. Nhưng xin cảnh báo ngay: đây là cỗ máy chiến đấu cục súc và nguy hiểm bậc nhất lục địa đen, sở hữu bảng chỉ số khiến mọi kẻ săn mồi thượng thừa cũng phải toát mồ hôi hột! [laughter]", "mood": "hao_hung"},
+     {"text": "Alo bình luận viên ơi, nghe đồn tuyển thủ này sống dưới nước suốt ngày nhưng lại... hoàn toàn không biết bơi hả?", "cast": "phat_thanh_vien"},
+     {"text": "[surprise-oh] Báo cáo trường quay, đó là sự thật một trăm phần trăm! Đây chính là cú lừa kinh điển nhất mà tạo hóa dành cho giới sinh học: một loài vật ngâm mình dưới nước tới mười sáu tiếng mỗi ngày, nhưng lại tuyệt đối không biết bơi, thậm chí không thể tự nổi trên mặt nước! Khung xương của nó quá đặc và nặng đến mức ném xuống nước là chìm nghỉm như một khối đá tảng! Vậy làm thế nào Cỗ xe tăng bọc thịt có thể di chuyển thần tốc dưới lòng sông? [question-ah] Hãy cùng chúng tôi mở bảng chỉ số RPG để giải mã toàn bộ bí mật sức mạnh điên rồ của đấu sĩ vô địch này!", "mood": "don_dap"}
+    ]},
+   {"id": "scene02", "badge": "CHỈ SỐ CHIẾN ĐẤU", "banner_title": "BẢNG THÔNG SỐ RPG CỰC HẠN", "chapter_title": "Chỉ số chiến đấu: Bảng thông số RPG cực hạn của quái vật 3 tấn",
+    "hook": "BẢNG CHỈ SỐ RPG CHẠM NÓC ĐẤU TRƯỜNG", "mood": "don_dap", "parts": [
+     {"text": "Chỉ số chiến đấu đã lên bảng điện tử! Xin mời toàn thể khán đài nín thở theo dõi thông số kỹ thuật của Cỗ xe tăng bọc thịt! Về lượng máu sinh lực HP: chạm nóc chín ngàn chín trăm điểm! Với trọng lượng cơ thể dao động từ một tấn rưỡi đến ba tấn, cơ thể của nó là một khối thịt và mỡ đồ sộ, được nâng đỡ bởi hệ thống xương đặc biệt dày và nặng nhất thế giới động vật trên cạn. Khối lượng khủng khiếp này biến nó thành một bức tường thành di động mà chẳng có loài săn mồi nào có thể húc đổ trong một đòn! [surprise-wa]", "mood": "don_dap"},
+     {"text": "Về sức mạnh tấn công ATK: đạt mức tối đa chín ngàn tám trăm điểm! Được trang bị lực cắn kinh hoàng lên tới một ngàn tám trăm PSI, kết hợp với cặp răng nanh hàm dưới dài tới năm mươi xăng-ti-mét nhọn hoắt như hai lưỡi giáo thép! Về phòng thủ DEF: chín ngàn năm trăm điểm nhờ lớp da dày tới năm xăng-ti-mét! Còn về tốc độ SPD thì sao? Đừng để thân hình béo tròn đánh lừa: trên cạn nó có thể bứt tốc ba mươi cây số một giờ, nhanh hơn cả vận động viên chạy nước rút của con người! [surprise-oh]", "mood": "hao_hung"},
+     {"text": "Nhưng nghịch lý hài hước nhất nằm ở chỉ số bơi lội: bằng không điểm tròn trĩnh! Thay vì bơi quẫy đạp như cá hay rái cá, Cỗ xe tăng bọc thịt chọn cách... chạy bộ và phi nước đại dưới đáy sông với tốc độ tám cây số một giờ! Các nhà giải phẫu học phát hiện xương chân và xương sườn của hà mã đặc quánh gần như không có khoang tủy xốp, đóng vai trò y hệt chiếc đai chì của thợ lặn chuyên nghiệp. Nó nhẹ nhàng nhún ngón chân xuống nền cát đáy nước rồi đẩy cả khối thân ba tấn lướt đi êm ái như một vũ công ba-lê dưới nước! [laughter]", "mood": "don_dap"},
+     {"text": "Mỗi lần chìm xuống, nó có thể nhịn thở liên tục năm phút đồng hồ. Thậm chí khi ngủ gật dưới nước, một phản xạ vô thức tự động đẩy cơ thể nó trồi lên mặt nước hít một hơi rồi lại chìm xuống ngủ tiếp mà không hề tỉnh giấc! Chưa hết, âm thanh gầm rú của tuyển thủ dưới nước có thể đạt mức một trăm mười lăm đề-xi-ben ngang ngửa một buổi hòa nhạc nhạc rock, truyền đồng thời qua cả môi trường nước lẫn không khí để răn đe mọi đối thủ trong bán kính hàng cây số! Đúng là phong cách của bậc thầy lười biếng thượng thừa! [surprise-wa]", "mood": "hao_hung"}
+    ]},
+   {"id": "scene03", "badge": "GIÁP PHÒNG THỦ", "banner_title": "GIÁP DA 5CM & KEM CHỐNG NẮNG ĐỎ", "chapter_title": "Giáp phòng thủ: Da dày 5cm và lớp kem chống nắng mồ hôi máu",
+    "hook": "LỚP GIÁP BỌC THÉP VÀ DUNG DỊCH MỒ HÔI MÁU", "mood": "hao_hung", "parts": [
+     {"text": "Chuyển sang phân tích hệ thống phòng thủ độc quyền của tuyển thủ! Quý vị hãy nhìn vào lớp da trần trụi không có lông của Cỗ xe tăng bọc thịt! Đây không phải là da thịt thông thường, mà là một tấm giáp bọc thép sinh học dày tới năm xăng-ti-mét! Lớp da dày và dai như lốp xe tải này có thể chống đỡ răng nanh sắc nhọn của cả đàn sư tử đói, và trong quá khứ, ngay cả những viên đạn chì súng trường cổ điển bắn vào cũng bị trượt văng ra ngoài mà không thể xuyên thủng nội tạng! [surprise-wa]", "mood": "hao_hung"},
+     {"text": "Khoan đã bình luận viên ơi, nhìn trên người tuyển thủ kìa, có phải nó đang bị chảy máu đầm đìa khắp toàn thân không?", "cast": "ga_khong_lo"},
+     {"text": "Bác đấu sĩ khổng lồ chớ vội hốt hoảng! Đó không phải là máu, mà là một trong những phát minh hóa học vi diệu nhất hành tinh: lớp mồ hôi máu huyền thoại! Tuyển thủ của chúng ta không có tuyến mồ hôi thông thường. Khi trời nắng gắt, các lỗ chân lông đặc biệt trên da sẽ tiết ra một chất lỏng nhớt màu đỏ rực như máu. Các nhà khoa học phân tích phát hiện dung dịch này chứa hai loại axit cực hiếm: một loại hấp thụ hoàn toàn tia cực tím độc hại, hoạt động như một lớp kem chống nắng tự nhiên chỉ số cực cao; loại còn lại là chất kháng sinh diệt khuẩn siêu mạnh! [surprise-oh]", "mood": "don_dap"},
+     {"text": "Tại sao lại cần trang bị kỳ lạ này? Bởi vì lớp da của hà mã mất nước nhanh gấp bảy lần da con người nếu rời khỏi môi trường ẩm ướt! Nếu không ngâm mình dưới nước hoặc bôi lớp kem mồ hôi đỏ này, da nó sẽ nứt toác và rỉ máu thật sự dưới cái nắng thiêu đốt của châu Phi! Nhờ có lớp kem chống nắng kiêm thuốc sát trùng thần thánh này, Cỗ xe tăng bọc thịt có thể ngâm mình hàng giờ trong những vũng bùn bẩn thỉu đầy vi khuẩn mà vết thương cắn xé nhau không bao giờ bị nhiễm trùng! Vừa bọc giáp năm xăng-ti-mét, vừa tự bôi kem chống nắng kiêm thuốc sát trùng, đúng là tuyển thủ biết yêu chiều bản thân nhất võ đài! [laughter]", "mood": "hao_hung"}
+    ]},
+   {"id": "scene04", "badge": "VŨ KHÍ TỬ THẦN", "banner_title": "LỰC CẮN 1.800 PSI & NANG 50CM", "chapter_title": "Vũ khí tử thần: Lực cắn 1.800 PSI và cú chạy bộ 30km/h",
+    "hook": "CÚ ĐỚP 1.800 PSI BẺ ĐÔI MỌI VẬT CẢN", "mood": "don_dap", "parts": [
+     {"text": "Bây giờ, xin mời quý vị chiêm ngưỡng vũ khí sát thương khủng khiếp nhất của tuyển thủ! Hãy nhìn vào chiếc mồm khổng lồ kia: nó có thể mở rộng tới một góc một trăm tám mươi độ — tức là mở toang hoác thành một đường thẳng tắp rộng hơn một mét! Bên trong chiếc mồm đỏ lòm là một kho vũ khí cận chiến chết chóc: hai chiếc răng nanh hàm dưới dài tới năm mươi xăng-ti-mét, cong vút và sắc nhọn như hai mũi ngọn giáo kim loại! Đôi răng này không dùng để nhai cỏ, mà là vũ khí chiến đấu thuần túy, liên tục tự mài sắc vào nhau mỗi khi tuyển thủ ngậm mồm lại! [surprise-oh]", "mood": "don_dap"},
+     {"text": "Và khi chiếc hàm cơ bắp kia đóng sập xuống, nó tạo ra một lực cắn khủng khiếp: một ngàn tám trăm PSI! Con số này mạnh gấp ba lần lực cắn của một con sư tử đực trưởng thành, và mạnh gấp mười lần cú cắn của con người! Một cú đớp toàn lực của Cỗ xe tăng bọc thịt đủ sức bẻ gãy đôi một chiếc thuyền độc mộc của ngư dân, nghiền nát mai rùa cứng như đá, hoặc cắn đứt đôi thân mình một con cá sấu dài ba mét chỉ trong một chớp mắt! [surprise-wa]", "mood": "don_dap"},
+     {"text": "Để nhắm bắn chuẩn xác, đầu của hà mã còn có một thiết kế radar đỉnh cao: mắt, tai và lỗ mũi nằm trên cùng một đường thẳng ngang ở đỉnh đầu! Thiết kế này hoạt động y hệt kính tiềm vọng của tàu ngầm quân sự, cho phép tuyển thủ giấu chín mươi lăm phần trăm cơ thể khổng lồ dưới mặt nước mà vẫn quan sát trọn vẹn ba trăm sáu mươi độ mọi động tĩnh trên bờ! [surprise-oh]", "mood": "hao_hung"},
+     {"text": "Và điều trớ trêu nhất là gì? Dù sở hữu vũ khí hủy diệt hạng nặng như vậy, tuyển thủ của chúng ta lại là một... kẻ ăn chay chính hiệu! Ban đêm khi mặt trời lặn, nó lững thững leo lên bờ và dành suốt sáu tiếng đồng hồ chỉ để gặm cỏ non, nạp khoảng bốn mươi lăm cân cỏ mỗi đêm! Răng nanh năm mươi xăng-ti-mét để cắn đôi kẻ thù, nhưng dạ dày thì chỉ thích chứa cỏ xanh! Một sự kết hợp đầy mâu thuẫn giữa vẻ ngoài hung tợn và tâm hồn ăn chay thanh tịnh! [laughter]", "mood": "hao_hung"}
+    ]},
+   {"id": "scene05", "badge": "ĐẠI CHIẾN NẢY LỬA", "banner_title": "CẮN ĐÔI CÁ SẤU & QUẠT ĐUÔI PHÂN", "chapter_title": "Đại chiến nảy lửa: Cắn đôi cá sấu và tuyệt chiêu quạt đuôi phân",
+    "hook": "CÁ SẤU CHÂU PHI TOÁT MỒ HÔI TRÁNH XA", "mood": "don_dap", "parts": [
+     {"text": "Hãy cùng theo dõi những thước phim thực chiến nghẹt thở từ võ đài sông Nile! Trong thế giới hoang dã châu Phi, cá sấu sông Nile được coi là bạo chúa đầm lầy, nhưng khi gặp Cỗ xe tăng bọc thịt, mọi định kiến đều bị đập tan tành! Đã có vô số cảnh quay ghi lại cảnh những con cá sấu khổng lồ bơi lỡ bước vào lãnh địa của đàn hà mã, và ngay lập tức bị tuyển thủ của chúng ta lao tới ngoạm ngang lưng, cắn nát bộ giáp gai và quăng quật như một món đồ chơi! Ngay cả loài sư tử dũng mãnh, nếu dám bén mảng lại gần hà mã con, cũng sẽ bị cả bầy hà mã lao lên bờ rượt đuổi chạy tóe khói! [laughter]", "mood": "don_dap"},
+     {"text": "Theo thống kê của các nhà bảo tồn, Cỗ xe tăng bọc thịt là loài động vật có vú nguy hiểm bậc nhất châu Phi, khiến khoảng năm trăm người thiệt mạng mỗi năm — nhiều hơn cả sư tử, báo hoa mai và voi gộp lại! Tính khí của nó cực kỳ thất thường và có tính sở hữu lãnh thổ cực đoan: bất kỳ ai dám đứng chắn giữa nó và dòng nước cứu sinh đều sẽ phải đối mặt với một cỗ xe ba tấn lao tới với tốc độ ba mươi cây số một giờ! [surprise-wa]", "mood": "nghiem_trang_gia"},
+     {"text": "Nhưng chiêu thức hài hước và bốc mùi nhất võ đài chính là tuyệt kỹ đánh dấu chủ quyền: cỗ máy quạt đuôi phân thần thánh! Tuyển thủ sở hữu một chiếc đuôi ngắn dẹt hoạt động y hệt một chiếc cánh quạt trực thăng. Mỗi khi đi vệ sinh, nó sẽ vừa xả phân vừa vung chiếc đuôi quay tít mù với tốc độ cao, quạt tung tóe các mảnh phân và nước tiểu bắn xa từ hai đến ba mét xung quanh để thông báo cho cả vùng biết: lãnh địa này đã có chủ! [laughter] Kẻ thù nhìn thấy cảnh tượng đó không chỉ khiếp sợ sức mạnh, mà còn phải ôm mũi bỏ chạy vì mức độ ô nhiễm không khí quá nặng nề! [surprise-oh]", "mood": "bi_hai"},
+     {"text": "Ấy thế mà, thỉnh thoảng gã cục súc này lại có những hành động trượng nghĩa khó tin! Các nhà thám hiểm từng ghi lại cảnh hà mã lao vào tấn công cá sấu để giải cứu một chú linh dương đầu bò đang bị kéo xuống nước, thậm chí xua đuổi cả đàn linh cẩu để bảo vệ một chú ngựa vằn bị thương! Dữ dằn số một châu Phi, nhưng đôi khi lại hành xử như một vị cảnh sát trưởng đầy nghĩa khí giữa thiên nhiên hoang dã! [surprise-wa]", "mood": "hao_hung"}
+    ]},
+   {"id": "scene06", "badge": "BẢNG VÀNG & BÓNG ĐEN", "banner_title": "ĐAI VÔ ĐỊCH & BÓNG ĐEN TẬP 13", "chapter_title": "Bảng vàng danh dự: Đai vô địch và bóng đen bí ẩn tập tiếp theo",
+    "hook": "BẬT MÍ BÓNG ĐEN BÍ ẨN CỦA ĐẤU THỦ TẬP 13", "mood": "am_ap", "parts": [
+     {"text": "Và trận đấu đã khép lại! Trọng tài xin trịnh trọng trao chiếc đai vô địch hạng siêu nặng cho Cỗ xe tăng bọc thịt Hà Mã! Một đấu sĩ hội tụ đủ mọi yếu tố không tưởng: ba tấn cơ bắp, mồ hôi chống nắng màu đỏ, lực cắn một ngàn tám trăm PSI nghiền nát cá sấu, và một gia tộc có họ hàng ruột thịt gần gũi nhất với loài cá voi đại dương! Chúng tách ra từ một tổ tiên chung cách đây năm mươi lăm triệu năm: một nhánh bơi hẳn ra biển khơi tiến hóa thành cá voi khổng lồ, còn nhánh kia ở lại đầm lầy châu Phi trở thành cỗ xe tăng bất khả chiến bại này! [surprise-oh]", "mood": "am_ap"},
+     {"text": "Chiếc đai vô địch Tập mười hai đã có chủ! Nhưng đấu trường sinh tồn sẽ không bao giờ dừng lại! Ngay bây giờ, xin mời toàn thể khán đài hướng mắt lên màn hình lớn để chiêm ngưỡng BÓNG ĐEN BÍ ẨN của tuyển thủ tiếp theo trong Tập mười ba! [surprise-oh]", "mood": "hao_hung"},
+     {"text": "Xin đưa ra ba manh mối chấn động về bóng đen bí ẩn này: Thứ nhất, đây là sinh vật sống chậm chạp bậc nhất hành tinh, với tốc độ kỷ lục chỉ không phẩy hai cây số một giờ, đến mức rêu xanh và cả một hệ sinh thái bướm đêm mọc um tùm ngay trên lớp lông của nó! Thứ hai, mỗi tuần nó chỉ chịu leo xuống đất đi vệ sinh đúng một lần duy nhất, mỗi lần đi xả tới một phần ba trọng lượng cơ thể! Và thứ ba, nghịch lý bi hài nhất: hơn một nửa số cái chết trong cuộc đời của sinh vật này đều xảy ra... đúng vào lúc nó xuống đất đi vệ sinh! [laughter]", "mood": "don_dap"},
+     {"text": "Quý vị khán giả có đoán ra bóng đen bí ẩn này là quái kiệt nào của thế giới tự nhiên không? Hãy để lại dự đoán và phán quyết của bạn ngay dưới phần bình luận nhé! Bình luận viên xin chào tạm biệt và hẹn gặp lại toàn thể quý vị trên sàn đấu rực lửa tiếp theo!", "mood": "hao_hung"}
+    ]}
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "don_dap",
+  "text": "[surprise-oh] Một sinh vật nặng tới ba tấn ngâm mình dưới nước mười sáu tiếng mỗi ngày, nhưng lại hoàn toàn không biết bơi! Đó chính là Hà Mã, cỗ xe tăng bọc thịt hung hãn nhất đầm lầy châu Phi! Xương của nó đặc và nặng đến mức ném xuống nước là chìm nghỉm như một khối đá tảng, nên thay vì bơi, nó chọn cách chạy bộ dưới đáy sông với tốc độ tám cây số một giờ! [surprise-wa] Trên bờ, nó có thể bứt tốc ba mươi cây số một giờ, sở hữu lớp da dày năm xăng-ti-mét chống đạn và tự tiết ra lớp mồ hôi đỏ rực như máu để chống nắng kiêm diệt khuẩn. Đáng sợ nhất là lực cắn một ngàn tám trăm PSI gấp ba lần sư tử, kết hợp cặp răng nanh năm mươi xăng-ti-mét đủ sức cắn đứt đôi một con cá sấu dài ba mét chỉ trong một chớp mắt! [laughter] Vậy là bí mật đã rõ: hà mã không cần học bơi, vì dưới đáy sông hay trên cạn, nó sinh ra đã là một cỗ xe bọc thép bất khả chiến bại của tự nhiên!"
+ },
+ "seo": {
+  "title": "Cỗ Xe Tăng 3 Tấn Cắn Đôi Cá Sấu Nhưng Không Biết Bơi?! | Hà Mã | Tập 12",
+  "hook_paragraph": "Hà Mã nặng tới 3 tấn sở hữu lực cắn 1.800 PSI cắn đứt đôi cá sấu, da dày 5cm, mồ hôi đỏ chống nắng tự nhiên nhưng lại hoàn toàn không biết bơi! Khám phá bí mật sinh tồn và bảng chỉ số RPG cực hạn của Cỗ xe tăng bọc thịt châu Phi.",
+  "bullets": [
+   "Chỉ số HP: Nặng 3 tấn, xương đặc chìm nghỉm chạy bộ dưới đáy sông 8km/h",
+   "Phòng thủ DEF: Da dày 5cm và lớp mồ hôi máu chống nắng kiêm diệt khuẩn",
+   "Vũ khí ATK: Lực cắn 1.800 PSI gấp 3 lần sư tử, răng nanh 50cm cắn đôi cá sấu",
+   "Tuyệt chiêu bốc mùi: Quạt đuôi phân văng xa 3 mét đánh dấu lãnh thổ"
+  ],
+  "question": "Bạn có đoán ra BÓNG ĐEN BÍ ẨN ở cuối video là quái kiệt nào không? (Gợi ý: chậm 0.2km/h, rêu mọc trên lưng). Bình luận dự đoán nhé!",
+  "next_teaser": "Bóng đen bí ẩn — sinh vật chậm 0.2km/h mọc rêu trên lưng và suýt mất mạng mỗi lần đi vệ sinh",
+  "hashtags": ["#HaMa #Hippo #TheGioiDongVat #VeChuyenHoangDa #KhoaHoc"],
+  "tags": ["hà mã", "ha ma", "hippo", "hippopotamus", "hà mã cắn cá sấu", "hà mã không biết bơi", "lực cắn hà mã", "thế giới động vật", "động vật hoang dã", "vẽ chuyện hoang dã", "whiteboard animation", "khoa học thú vị", "đấu trường sinh tồn"],
+  "shorts_title": "Cỗ Xe Tăng 3 Tấn Cắn Đôi Cá Sấu Nhưng... Không Biết Bơi?! 🦛 #shorts #hama",
+  "shorts_desc": "Hà Mã nặng 3 tấn cắn đôi cá sấu với lực cắn 1.800 PSI, da dày 5cm chống đạn nhưng lại hoàn toàn không biết bơi! Bí mật cỗ xe tăng chạy bộ dưới đáy sông! 🦛🌊",
+  "shorts_tags": ["hà mã", "hippo", "shorts", "thế giới động vật", "vẽ chuyện hoang dã", "động vật hài hước"]
+ }
+}

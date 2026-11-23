@@ -1,0 +1,314 @@
+{
+ "episode_no": 26,
+ "animal": "Gấu Túi Wombat",
+ "slug": "tap-26-gau-tui-wombat",
+ "format": "F2",
+ "persona": "ky_su_vu_khi",
+ "_angle_from_roadmap": "Giải mã thiết kế \"Mông bọc thép\" ép nát hộp sọ chó hoang vào trần hang và dây chuyền đúc phân hình khối lập phương.",
+ "_shorts_idea_from_roadmap": "Sinh vật duy nhất trên thế giới đi vệ sinh ra những viên phân hình vuông vức!",
+ "nickname": "Xe Tăng Đào Hầm",
+ "sources": [
+  "Yang, Lee, Chan, Martin, Edwards, Carver & Hu (2018, 2021), Soft Matter 17: 475-488 — Giải Nobel Vật lý Ig Nobel 2019 về cơ chế 8% cuối ruột già đúc 80-100 viên phân hình lập phương mỗi ngày",
+  "Australian Museum & Tasmanian Department of Natural Resources (2020) — Cấu tạo tấm khiên mông bọc thép dày 2-3cm gồm mô mạc sợi và sụn, chịu lực cắn của Dingo và kỹ thuật ép trần hang",
+  "Triggs (2009), Wombats: The Biology of the Vombatidae — Hệ thống đường hầm ngầm dài 20-30m, túi mở ngược về sau chống đất cát lọt vào con non",
+  "Röbke (2018) & Wildlife Health Australia — Khủng hoảng bệnh ghẻ sarcoptic mange và mối đe dọa tai nạn giao thông ban đêm trên đường cao tốc Úc",
+  "MacCallum & Martin (2014) — Tốc độ chạy nước rút 40 km/h trong 90 giây ở loài thú nặng 25-35kg, răng cửa mọc dài liên tục suốt đời"
+ ],
+ "whisper_prompt": "Gấu Túi Wombat, Xe Tăng Đào Hầm, Vombatidae, Pa-tri-xi-a Dăng, Patricia Yang, I-gơ Nô-ben, Ig Nobel, chó hoang Đin-gô, Dingo, mông bọc thép, khối lập phương, ruột già, túi mở ngược, 2-3cm, 80-100 viên, 40km/h, 30m, 35kg, 8%",
+ "display_fix": {
+  "ba đê": "3D",
+  "ba mét": "3m",
+  "năm sáu": "5-6",
+  "hai mươi sáu": "26",
+  "hai mươi bảy": "27",
+  "hai mươi lăm": "25",
+  "ba mươi lăm": "35",
+  "ba mươi lăm ki-lô-gam": "35kg",
+  "hai mươi lăm đến ba mươi lăm ki-lô-gam": "25-35kg",
+  "hai mươi đến ba mươi mét": "20-30m",
+  "ba mươi mét": "30m",
+  "hai đến ba xăng-ti-mét": "2-3cm",
+  "ba xăng-ti-mét": "3cm",
+  "tám mươi đến một trăm viên": "80-100 viên",
+  "một trăm viên": "100 viên",
+  "tám mươi viên": "80 viên",
+  "tám phần trăm": "8%",
+  "bốn mươi cây số một giờ": "40km/h",
+  "chín mươi giây": "90 giây",
+  "bốn mặt phẳng": "4 mặt phẳng",
+  "sáu mặt phẳng": "6 mặt phẳng",
+  "men răng": "men răng",
+  "hai tuần": "2 tuần",
+  "ba mươi mốt": "31",
+  "ba mươi": "30",
+  "sáu mươi": "60",
+  "hai mươi bốn giờ": "24 giờ",
+  "năm mươi gam": "50g",
+  "hai mươi hai xúc tu": "22 xúc tu",
+  "mười hai": "12",
+  "không phẩy mười hai giây": "0,12 giây",
+  "hai ngàn mười chín": "2019",
+  "hai ngàn hai mươi mốt": "2021",
+  "một trăm phần trăm": "100%",
+  "hàng trăm": "hàng trăm",
+  "hàng ngàn": "hàng ngàn",
+  "hàng chục mét": "hàng chục mét",
+  "hàng chục": "hàng chục",
+  "bốn hạng mục": "4 hạng mục",
+  "năm cấp độ": "5 cấp độ",
+  "thứ nhất": "thứ 1",
+  "thứ hai": "thứ 2",
+  "thứ ba": "thứ 3",
+  "thứ tư": "thứ 4",
+  "thứ năm": "thứ 5",
+  "điểm mười": "điểm 10",
+  "Uôm-bát": "Wombat",
+  "Đin-gô": "Dingo",
+  "Canh-gu-ru": "Kangaroo",
+  "Cô-a-la": "Koala",
+  "I-gơ Nô-ben": "Ig Nobel",
+  "Pa-tri-xi-a Dăng": "Patricia Yang"
+ },
+ "voice": {},
+ "art": {
+  "decor": "blueprint gears, crosshair, warning stripes, cube blocks",
+  "shorts_mascot": "A chubby determined cartoon Wombat wearing a yellow construction hard hat and tool belt, proudly holding a perfect cube-shaped brown block",
+  "thumb_bg": "hang ngầm nước Úc đất đỏ tương phản ánh đèn bản vẽ blueprint kỹ thuật",
+  "thumb_title": ["MÔNG BỌC THÉP ÉP NÁT SỌ?!", "GẤU TÚI WOMBAT"],
+  "thumb_scene": "một chú Gấu Túi Wombat mập mạp mũm mĩm lông nâu xám to rõ, hai chân trước đào đất khỏe khoắn, phía sau là chiếc mông bọc thép phát sáng cứng như bê tông đang chặn cửa hang đá",
+  "thumb_gag": "một chồng phân hình khối lập phương vuông vức như những viên xúc xắc xếp tháp hài hước"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "HỒ SƠ VŨ KHÍ",
+    "banner_title": "CHIẾN XA BỌC THÉP NƯỚC ÚC",
+    "chapter_title": "Hồ sơ vũ khí: Chiến xa đào hầm nặng 35kg của nước Úc",
+    "hook": "",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Hồ sơ mật cấp độ đỏ. Mở khóa dữ liệu kỹ thuật! Toàn thể đội kỹ thuật tập trung trước màn hình mô phỏng ba đê. Hôm nay chúng ta giải mã một trong những bản thiết kế cơ khí sinh học kỳ dị và thực dụng bậc nhất của giới tự nhiên nước Úc: một cỗ máy đào hầm sống nặng từ hai mươi lăm đến ba mươi lăm ki-lô-gam, thân hình lùn tịt tròn quay như thùng rượu, nhưng sở hữu lớp giáp phòng ngự phía sau khiến cả loài chó hoang Đin-gô phải gãy răng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Báo cáo chỉ huy, radar ghi nhận mục tiêu đang di chuyển với tốc độ bất thường, nhìn như cục đá biết đi nhưng đào hầm nhanh ngang máy xúc!",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "[surprise-oh] Báo cáo rất chuẩn xác! Xin giới thiệu với cả đội: đây là Gấu Túi Uôm-bát, thú có túi đặc hữu của châu Đại Dương, họ hàng thân cận nhất của loài Cô-a-la ôm cây. Nhưng khác với người anh em Cô-a-la suốt ngày ngủ gật ngơ ngác, sinh vật này được trang bị đầy đủ bộ giáp công thủ toàn diện: hàm răng mọc dài liên tục đục thủng rễ cây, móng vuốt xẻng đào hầm xuyên qua đất đá, và chiếc mông bọc thép dày cộp hoạt động như một tấm khiên chống đạn! Trong phòng thiết kế, chúng tôi gọi thẳng tên nó bằng biệt danh: Xe Tăng Đào Hầm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chưa dừng lại ở đó, cỗ xe tăng này còn nắm giữ một kỷ lục vô tiền khoáng hậu khiến các kỹ sư thủy lực và vật lý học toàn cầu phải ôm đầu thán phục: sinh vật duy nhất trên hành tinh có khả năng đúc ra những khối phân vuông vức hình lập phương chuẩn xác đến từng góc cạnh! Đêm nay, tôi mời toàn đội cùng mổ xẻ bốn module kỹ thuật tối mật trên cơ thể Xe Tăng Đào Hầm!",
+      "mood": "nghiem_trang_gia"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "BẢN VẼ CƠ KHÍ",
+    "banner_title": "KHIÊN MÔNG 3CM & TÚI ĐÀO NGƯỢC",
+    "chapter_title": "Bản vẽ cơ khí: Tấm khiên mông bọc thép 3cm và túi mở ngược",
+    "hook": "TẤM KHIÊN MÔNG CHỊU MỌI CÚ CẮN CỦA DINGO",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Module kỹ thuật số một: Bản vẽ tấm khiên mông và kết cấu túi ngầm! Nhìn từ góc nhìn công trình, điểm hiểm yếu nhất của mọi cỗ máy đào hầm ngầm là phần đuôi phía sau: khi chúi đầu vào lòng đất đào bới, phần mông lộ ra ngoài sẽ là miếng mồi ngon cho bất kỳ kẻ săn mồi nào rình rập. Nhưng tạo hóa đã trang bị cho Xe Tăng Đào Hầm một giải pháp giáp đuôi không tưởng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hãy quan sát mặt cắt giải phẫu vùng mông của Uôm-bát: phần đuôi của nó tiêu biến hoàn toàn chỉ còn một mấu cụt nhỏ xíu. Thay vào đó, toàn bộ vùng xương chậu và xương cụt được phủ một lớp mô mạc sợi dày từ hai đến ba xăng-ti-mét, đan kết chặt chẽ với các tấm sụn cứng cáp như thép tấm gia cường! Phía trên là lớp da siêu dày bọc lông rậm rạp, tạo thành một chiếc nắp cống sinh học bất khả xâm phạm! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Khi bị chó hoang Đin-gô truy đuổi ráo riết, Uôm-bát lập tức lao đầu vào cửa hang ngầm và... quay chiếc mông bọc thép ra ngoài để bịt kín miệng hang! Chó hoang lao tới cắn xé điên cuồng, nhưng hàm răng sắc nhọn chỉ cắn trúng tấm khiên sụn cứng trơn trượt, cắn mãi không xuyên thủng mà chỉ tổ mòn răng gãy móng! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chưa hết, các kỹ sư hãy nhìn xuống vùng bụng của nó: là loài thú có túi giống chuột túi Canh-gu-ru, nhưng nếu cửa túi của chuột túi hướng lên trên, thì cửa túi của Uôm-bát lại quay ngược hoàn toàn về phía sau! [surprise-oh] Đây là giải pháp công học thiên tài: khi gã dùng hai bàn chân trước có móng vuốt thép cào đất tung tóe đào những đường hầm sâu hai mươi đến ba mươi mét, toàn bộ đất cát bắn ra phía sau mà không hề có một hạt bụi nào lọt vào túi làm nghẹt thở đứa con non bé nhỏ bên trong!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Phía trước đầu xe tăng còn được lắp đặt một cặp mũi khoan sinh học thượng hạng: bốn chiếc răng cửa to bản mọc dài liên tục suốt đời giống hệt loài gặm nhấm! Lớp men răng trước dày cứng cọ sát với lớp ngà mềm phía sau tạo thành lưỡi đục tự mài sắc bén, có thể gặm đứt phăng rễ cây bạch đàn cổ thụ và cắn thủng cả ống nhựa công trình của con người! Đầu là máy khoan mũi nhọn, đuôi là khiên thép chống đạn, đúng là cỗ máy đào công binh hoàn hảo kín kẽ!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "DÂY CHUYỀN ĐÚC",
+    "banner_title": "DÂY CHUYỀN ĐÚC PHÂN LẬP PHƯƠNG",
+    "chapter_title": "Dây chuyền đúc: 8% ruột già đúc 100 khối lập phương mỗi ngày",
+    "hook": "SINH VẬT DUY NHẤT ĐÚC ĐƯỢC HÌNH LẬP PHƯƠNG TỰ NHIÊN",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Module kỹ thuật số hai: Dây chuyền cơ học đúc phân hình khối lập phương! Đây là bí ẩn cơ học từng làm đau đầu giới khoa học suốt hàng thế kỷ. Mọi loài vật từ voi, bò, chim cho đến con người khi thải phân đều tạo ra hình trụ tròn hoặc khối dẹt elip do sự co thắt đồng tâm của cơ vòng hậu môn. Nhưng Xe Tăng Đào Hầm của chúng ta thì đi vệ sinh ra... những viên xúc xắc vuông chằn chặn có đủ sáu mặt phẳng!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Trời đất ơi chỉ huy ơi, có phải hậu môn của nó có hình vuông giống như khuôn làm bánh không ạ?",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[laughter] Trợ lý đoán sai bét rồi nhé! Năm hai ngàn mười chín, nhóm nghiên cứu của tiến sĩ Pa-tri-xi-a Dăng tại Viện Công nghệ Georgia đã đưa một chú Uôm-bát vào máy chụp cắt lớp CT và đoạt luôn giải Nobel Vật lý I-gơ Nô-ben danh giá! Hậu môn của nó vẫn tròn xoe như mọi loài vật khác. Bí mật cơ khí thực sự nằm ở tám phần trăm chiều dài cuối cùng của ruột già!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Trong công bố chi tiết trên tạp chí Soft Matter năm hai ngàn hai mươi mốt, các nhà vật lý phát hiện thành ruột già của Uôm-bát có tính đàn hồi không đồng nhất: có hai dải cơ cứng đối diện nhau và hai dải cơ mềm linh hoạt xen kẽ! Suốt hành trình tiêu hóa kéo dài hai tuần, chất xơ thô ráp được vắt kiệt nước và nén chặt lại. Khi khối chất thải đi qua đoạn ruột đặc biệt này, các đợt co bóp nhịp nhàng tác động lực ép khác nhau, nặn khối phân thành những cạnh sắc và bốn mặt phẳng đều tăm tắp! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Mỗi đêm, một chú Uôm-bát sản xuất đều đặn từ tám mươi đến một trăm viên gạch phân hình khối lập phương! Tại sao tạo hóa lại bắt nó làm việc như dây chuyền nhà máy gạch? [question-oh] Câu trả lời là để đánh dấu lãnh thổ! Uôm-bát có thị lực cực kém, nó dùng mùi phân để giao tiếp và đặt phân lên trên những tảng đá cao hoặc thân cây đổ. Nếu phân hình tròn, nó sẽ lăn tọt xuống rãnh; nhưng phân hình khối lập phương thì nằm im bất động không lăn đi đâu được! Đúng là thiết kế chống lăn đỉnh cao của tạo hóa! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hiện tượng cơ học này kỳ diệu đến mức các kỹ sư vật liệu tại viện nghiên cứu đang mô phỏng cấu trúc ruột của Uôm-bát để chế tạo các khuôn đúc công nghiệp thế hệ mới: chế tạo các sản phẩm đất sét, gốm sứ và linh kiện hình khối rỗng mà không cần dùng đến dao cắt cơ học! Một chú gấu túi béo ục ịch lại đang dạy cho các kỹ sư hàng đầu thế giới bài học vỡ lòng về thủy lực học và tạo hình vật liệu!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "THỰC CHIẾN",
+    "banner_title": "CÚ ĐÁ LỪA & ÉP NÁT SỌ DINGO",
+    "chapter_title": "Thực chiến: Cú đá lừa ngược và ép nát sọ kẻ thù vào trần hang",
+    "hook": "GỒNG MÔNG BỌC THÉP NGHIỀN NÁT HỘP SỌ KẺ SĂN MỒI",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Module kỹ thuật số ba: Kịch bản tác chiến phòng ngự phản công! Đừng nghĩ tấm khiên mông của Xe Tăng Đào Hầm chỉ biết đứng im chịu đòn bị động. Khi bị dồn vào đường hầm tối tăm, cỗ máy nặng ba mươi lăm ki-lô-gam này sẽ kích hoạt bài phản công sát thương hủy diệt!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Chiến thuật bẫy mồi kinh điển: Uôm-bát cố tình bò thụt lùi vào trong lòng hang hẹp, hơi hạ thấp phần mông xuống tạo ra một khe hở vừa đủ trên đầu. Con chó hoang Đin-gô háo thắng tưởng con mồi đã cùng đường liền thò đầu vào khe hở định ngoạm lấy cổ họng đối phương. Đúng khoảnh khắc chiếc đầu chó hoang chui lọt vào bẫy... [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Bùm! Uôm-bát dùng hai chân sau gồng cực mạnh toàn bộ cơ bắp, bật chiếc mông bọc thép đội thẳng lên trên! Lực đẩy bằng khối cơ bắp ba mươi lăm ki-lô-gam ép chặt chiếc đầu của kẻ săn mồi nghiền nát vào trần hang đá hoa cương cứng ngắc! Bảo tàng Úc ghi nhận nhiều xác chó hoang Dingo được tìm thấy ngoài cửa hang với hộp sọ bị nghiền nát vụn chính là tác phẩm của cú gồng mông chết chóc này! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Gâu gâu! Ta tưởng tóm được miếng mồi béo bở, ai ngờ đụng phải tảng đá hoa cương nghiền nát cả đầu!",
+      "cast": "ga_khong_lo"
+     },
+     {
+      "text": "Nếu phải đánh nhau ngoài bãi cỏ trống trải, gã xe tăng này cũng không ngán đối thủ nào: gã tung ra cú đá lừa ngược bằng hai chân sau uy lực như cú đá của ngựa chứng, hất văng kẻ địch ra xa! Và đừng khinh thường ngoại hình tròn béo lù đù: khi cần tháo chạy nước rút về hang, Uôm-bát có thể tăng tốc lên tới bốn mươi cây số một giờ trong vòng chín mươi giây — nhanh ngang ngửa một vận động viên điền kinh Olympic! [laughter] Kẻ thù chưa kịp định thần thì bóng chiếc mông bọc thép đã biến mất tăm vào lòng đất!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "ĐIỂM YẾU KỸ THUẬT",
+    "banner_title": "TỬ HUYỆT BỆNH GHẺ & XE TÔNG ĐÊM",
+    "chapter_title": "Điểm yếu kỹ thuật: Bệnh ghẻ lở, cận thị nặng và tai nạn giao thông",
+    "hook": "TỬ HUYỆT BỆNH GHẺ VÀ SỨ MỆNH ĐƯỢC CHIA SẺ HANG NGẦM",
+    "mood": "bi_hai",
+    "parts": [
+     {
+      "text": "Module kỹ thuật số bốn: Phân tích điểm yếu và mối đe dọa sinh tồn! Một cỗ xe tăng có giáp mông chống đạn, chân đào máy xúc, hàm răng gặm gỗ và chạy nhanh bốn mươi cây số một giờ liệu có bất khả chiến bại trên thảo nguyên hoang dã? Đội kỹ thuật chúng tôi phải chỉ ra ba tử huyệt nghiêm trọng trong thiết kế!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Thứ nhất là thị lực cực kỳ tệ hại: mắt của Uôm-bát bị cận thị nặng, ban đêm đi kiếm ăn chỉ dựa vào khứu giác và thính giác, nên gã rất hay húc đầu vào gốc cây hoặc lững thững băng qua đường cao tốc mà không nhìn thấy đèn xe tải từ xa, biến tai nạn giao thông ban đêm thành nguyên nhân tử vong hàng đầu!",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Thứ hai là thảm họa ký sinh trùng: căn bệnh ghẻ lở do ve ký sinh làm gã ngứa ngáy dữ dội, rụng lông và suy kiệt cơ thể là mối đe dọa lớn nhất đối với các đàn Uôm-bát hoang dã. [sigh] Nhưng điều làm người dân Úc yêu quý sinh vật này nhất là nghĩa cử cao đẹp trong những trận đại hạn và cháy rừng lịch sử: mạng lưới hang ngầm dài ba mươi mét mát mẻ của Uôm-bát đã trở thành những hầm trú ẩn sinh tồn cứu sống hàng ngàn sinh vật nhỏ như thú có túi, thằn lằn và chim chóc cùng trốn chung một mái nhà!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Mạng lưới hang ngầm của Uôm-bát đồ sộ như một mê cung tàu điện ngầm dưới lòng đất: mỗi hang có tới năm sáu cửa thoát hiểm, chiều dài ngoằn ngoèo tới ba mươi mét và sâu hơn ba mét dưới lòng đất. Nhờ độ sâu này, nhiệt độ bên trong hang luôn mát rượi vào mùa hè và ấm áp vào mùa đông, tạo nên một công trình kiến trúc sinh thái bền vững tuyệt đối!",
+      "mood": "am_ap"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "BÁO CÁO KỸ THUẬT",
+    "banner_title": "BÁO CÁO CUỐI & BÓNG ĐEN KỲ SAU",
+    "chapter_title": "Báo cáo kỹ thuật: Chiếc xe tăng lầy lội và bóng đen 22 xúc tu kỳ sau",
+    "hook": "BÁO CÁO KỸ THUẬT VÀ BÓNG ĐEN CHIẾC MŨI 22 XÚC TU",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Tổng kết báo cáo kỹ thuật số hai mươi sáu. Từ một khối thịt tròn ủm lù đù nặng ba mươi lăm ki-lô-gam, Gấu Túi Uôm-bát đã chứng minh một chân lý cơ học vĩ đại: không cần nanh vuốt dữ tợn, một chiếc mông bọc thép kiên cường cùng một chiến thuật đào hầm thông minh đủ sức giúp nó đứng vững trước mọi kẻ thù tàn bạo nhất!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Báo cáo nghiệm thu vũ khí: Đạt điểm mười tuyệt đối cho cỗ máy công thủ toàn diện và danh hiệu nhà máy đúc gạch phân độc nhất vô nhị hành tinh! Ký tên: kỹ sư trưởng đội giải mã vũ khí! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Còn đội kỹ thuật thì sao? Nếu được chế tạo một bộ giáp công nghệ lấy cảm hứng từ Uôm-bát: chiếc khiên mông chống đạn nghiền nát mọi kẻ bám đuôi, hay dây chuyền đúc phân lập phương chống lăn siêu tiện lợi, anh em chọn trang bị nào? Hãy để lại bình luận bên dưới nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hồ sơ vũ khí số hai mươi sáu xin chính thức đóng lại. Nhưng tập sau, chúng ta sẽ chuyển thẳng sang chương trình phóng sự trực tiếp hai mươi bốn giờ để theo chân một cỗ máy săn mồi tốc độ bàn thờ dưới lòng đất tăm tối! Một sinh vật bé nhỏ chỉ nặng năm mươi gam, hai mắt mù tịt, nhưng sở hữu chiếc mũi quái đản hình bông hoa gồm hai mươi hai xúc tu đỏ hồng rung rinh! Tốc độ ăn tối của nó nhanh đến mức khó tin: chỉ mất đúng không phẩy mười hai giây để nhận diện và nuốt chửng con mồi, nhanh hơn cả một cái chớp mắt của con người! Đố các bạn biết bóng đen bí ẩn kỳ sau là loài vật nào? Hãy đoán ngay ở phần bình luận nhé!",
+      "mood": "am_ap"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Sinh vật này sở hữu chiếc mông bọc thép cứng như bê tông, chuyên bẫy lừa chó hoang chui đầu vào hang rồi gồng mông dập nát hộp sọ kẻ thù vào trần đá! [laughter] Xin giới thiệu Gấu Túi Wombat, xe tăng đào hầm nặng ba mươi lăm ki-lô-gam của nước Úc. Toàn bộ vùng mông của nó được gia cố bằng một tấm khiên sụn và mô sợi dày tới ba xăng-ti-mét, khi bị rượt đuổi, nó chui tọt vào hang và lấy chiếc mông sắt bịt kín cửa hang khiến kẻ săn mồi cắn gãy răng! [surprise-wa] Chưa hết, nó là sinh vật duy nhất trên thế giới đi vệ sinh ra những viên phân hình khối lập phương vuông vức như viên xúc xắc! Nhờ đoạn ruột già có độ co giãn không đồng đều, mỗi đêm nó đúc ra một trăm viên gạch phân vuông để đánh dấu lãnh thổ trên mỏm đá mà không sợ bị lăn xuống rãnh! Khi cần chạy trốn, gã xe tăng tròn béo này có thể phóng nước rút tới bốn mươi cây số một giờ! Một cỗ xe bọc thép vừa lầy lội, vừa sở hữu thiết kế cơ khí đỉnh cao nhất hành tinh!"
+ },
+ "seo": {
+  "title": "Cỗ Xe Tăng Nước Úc Có Mông Bọc Thép & Đi Vệ Sinh Ra Hình Lập Phương?!",
+  "hook_paragraph": "Gấu Túi Wombat (Vombatidae) nặng 35kg sở hữu chiếc mông bọc thép dày 3cm có thể nghiền nát hộp sọ chó hoang Dingo vào trần hang, túi mở ngược về sau chống đất cát và là loài duy nhất đúc ra 100 viên phân hình lập phương mỗi ngày!",
+  "bullets": [
+   "Bản vẽ cơ khí: Tấm khiên mông bọc thép dày 2-3cm gồm mô mạc sợi và sụn chống mọi cú cắn",
+   "Túi mở ngược: Giải pháp công học giúp đất cát không lọt vào con non khi đào hầm 30m",
+   "Dây chuyền đúc phân: 8% cuối ruột già nén đúc 80-100 viên phân hình lập phương chống lăn (Ig Nobel 2019)",
+   "Thực chiến: Cú đá lừa ngược và kỹ thuật gồng mông nghiền nát hộp sọ Dingo vào trần hang"
+  ],
+  "question": "Nếu được sở hữu 1 trang bị của Gấu Túi Wombat: tấm khiên mông bọc thép hay khả năng đúc phân lập phương chống lăn, bạn chọn cái nào? Và đoán xem bóng đen tập sau là loài nào?",
+  "next_teaser": "Bóng đen chiếc mũi 22 xúc tu đỏ hồng: tốc độ ăn mồi 0,12 giây nhanh hơn cả chớp mắt!",
+  "hashtags": [
+   "#độngvật",
+   "#gấutúiwombat",
+   "#VẽChuyệnHoangDã"
+  ],
+  "tags": [
+   "gấu túi wombat",
+   "gau tui wombat",
+   "wombat",
+   "phân hình lập phương",
+   "mông bọc thép",
+   "vombatidae",
+   "động vật nước úc",
+   "động vật kỳ lạ",
+   "thế giới động vật",
+   "động vật hài hước",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị"
+  ],
+  "shorts_title": "Cỗ Xe Tăng Có Mông Bọc Thép & Phân Hình Lập Phương?! 🐻 #độngvật #gấutúiwombat",
+  "shorts_desc": "Gấu Túi Wombat nặng 35kg sở hữu mông bọc thép dày 3cm dập nát sọ Dingo, túi mở ngược và đi vệ sinh ra 100 viên phân hình lập phương mỗi ngày! Giải mã cỗ xe tăng đào hầm nước Úc.",
+  "shorts_tags": [
+   "gấu túi wombat",
+   "wombat",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ],
+  "en_title": "The Armored Rump Wombat That Poops Cubes & Crushes Dingo Skulls?! | Ep 26",
+  "en_hook": "Meet the Australian Wombat (Vombatidae): a 35kg living tank equipped with a 3cm cartilaginous armored rump that crushes predatory Dingo skulls against burrow roofs, a backward-facing pouch, and the unique biological factory that poops 100 cube-shaped pellets every day!",
+  "en_chapters": [
+   "Weapon Blueprint: The 35kg Burrowing Tank of Australia",
+   "Mechanical Design: The 3cm Armored Rump & Backward Pouch",
+   "Production Line: Elastic Intestines Shaping Square Cubes",
+   "Combat Protocol: Donkey Kicks & Ceiling Skull Crushing",
+   "Technical Flaws: Mange Crisis & Night Highway Collisions",
+   "Final Tech Report & Next 22-Tentacle Star-Nosed Mole Teaser"
+  ],
+  "en_shorts_title": "The Tank That Poops Cubes & Crushes Skulls?! 🐻 #animals #wombat"
+ }
+}

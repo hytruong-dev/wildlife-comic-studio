@@ -1,0 +1,659 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "BÀI TOÁN GIA TỐC MỘT NGÀN HAI TRĂM G",
+   "hook": "KỸ SƯ TRƯỞNG KHỞI ĐỘNG MÁY ĐO GIA TỐC: ĐẬP ĐẦU HAI MƯƠI LẦN MỖI GIÂY VỚI LỰC 1.200G VẪN BÌNH AN VÔ SỰ",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bóc tách bản vẽ kỹ thuật",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đối tượng thí nghiệm trên bàn mổ",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "va đầu vào cánh cửa tủ bếp",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo thông số kỹ thuật",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "1.200 G thưa các đồng nghiệp",
+     "image": "assets/long/L06.png",
+     "stickers": [
+      {
+       "at": "1.200 G",
+       "side": "R",
+       "y": 360,
+       "value": "1.200 G",
+       "label": "gia tốc va chạm",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "phi công tiêm kích quân sự",
+     "image": "assets/long/L07.png",
+     "stickers": [
+      {
+       "at": "chín G",
+       "side": "L",
+       "y": 400,
+       "value": "9 G",
+       "label": "giới hạn người ngất",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "tai nạn giao thông xe hơi",
+     "image": "assets/long/L08.png",
+     "stickers": [
+      {
+       "at": "100 G",
+       "side": "R",
+       "y": 380,
+       "value": "100 G",
+       "label": "tai nạn xe hơi tử vong",
+       "target": [
+        0.68,
+        0.42
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "đập đầu vào thân gỗ",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "12.000 lần",
+       "side": "R",
+       "y": 370,
+       "value": "12.000 LẦN",
+       "label": "tần suất đập mỗi ngày",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nếu các kỹ sư chế tạo xe hơi",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bài toán phân tán xung lực",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "một phần ngàn giây",
+     "image": "assets/long/L12.png",
+     "stickers": [
+      {
+       "at": "một phần ngàn giây",
+       "side": "L",
+       "y": 390,
+       "value": "1 MS",
+       "label": "thời gian 1 cú va chạm",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "HỒ SƠ THỬ NGHIỆM VA ĐẬP"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "CHIẾC LƯỠI QUẤN QUANH SỌ NÃO NHƯ DÂY ĐAI XE ĐUA",
+   "hook": "GIẢI PHÃU HỆ CƠ XƯƠNG HYOID: CHIẾC LƯỠI KỲ LẠ DÀI GẤP BA LẦN MỎ QUẤN TRỌN MỘT VÒNG HỘP SỌ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lưỡi bên trong cũng ngắn ngủn",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "rạch lớp da đầu của Cỗ Máy",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chiếc lưỡi của nó không nằm trong họng",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "dài gấp ba lần chiều dài chiếc mỏ",
+     "image": "assets/long/L17.png",
+     "stickers": [
+      {
+       "at": "gấp ba lần",
+       "side": "R",
+       "y": 370,
+       "value": "GẤP 3 LẦN",
+       "label": "dài gấp 3 lần mỏ",
+       "target": [
+        0.68,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "bò vòng lên tận đỉnh hộp sọ",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "dây đai an toàn năm điểm",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong đúng một phần ngàn giây",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ghìm chặt khối não bộ",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "không bị đập dội vào thành xương",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chứa các sợi gân đàn hồi",
+     "image": "assets/long/L23.png",
+     "stickers": [
+      {
+       "at": "50%",
+       "side": "L",
+       "y": 380,
+       "value": "50%",
+       "label": "độ dãn gân đàn hồi",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "thò lưỡi sâu vào tổ kiến",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "LỚP GIẢM CHẤN #1"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "VẬT LIỆU XỐP BỌT KHÍ NANO HẤP THỤ CHÍN MƯƠI CHÍN PHẦN TRĂM XUNG LỰC",
+   "hook": "BẢN VẼ CẤU TRÚC VẬT LIỆU COMPOSITE: XƯƠNG SỌ ĐỆM KHÍ PHÂN TÁN 99,7% NĂNG LƯỢNG VA ĐẬP THÀNH NHIỆT",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "xương sọ là một khối xương đặc",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "xung lực truyền thẳng qua lớp xương cứng",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "dưới kính hiển vi điện tử quét nano",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chứa hàng triệu khoang rỗng",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đại học Công nghệ Bắc Kinh",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đệm cao su giảm chấn",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "99,7% năng lượng cơ học",
+     "image": "assets/long/L32.png",
+     "stickers": [
+      {
+       "at": "99,7%",
+       "side": "R",
+       "y": 360,
+       "value": "99,7%",
+       "label": "xung lực bị hấp thụ",
+       "target": [
+        0.65,
+        0.45
+       ]
+      },
+      {
+       "at": "0,3%",
+       "side": "L",
+       "y": 420,
+       "value": "0,3%",
+       "label": "lực sót lại vào não",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "chuyển hóa trực tiếp thành nhiệt năng",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "gõ liên hồi 20 nhịp",
+     "image": "assets/long/L34.png",
+     "stickers": [
+      {
+       "at": "20 nhịp",
+       "side": "R",
+       "y": 380,
+       "value": "20 NHỊP",
+       "label": "mỗi đợt gõ liên hồi",
+       "target": [
+        0.68,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "mô phỏng phần tử hữu hạn ba chiều",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tối ưu hóa cấu trúc chịu lực",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "LỚP GIẢM CHẤN #2"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "THIẾT KẾ MỎ LỆCH HƯỚNG CHUYỂN DÒNG NĂNG LƯỢNG XUỐNG THÂN",
+   "hook": "KỸ THUẬT PHÂN TÁN DÒNG LỰC: HÀM DƯỚI DÀI HƠN HÀM TRÊN DẪN SÓNG XUNG KÍCH VỀ CỘT SỐNG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hai nửa mỏ trên và mỏ dưới",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "máy quét laser công nghiệp",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "mỏ dưới của nó dài hơn mỏ trên",
+     "image": "assets/long/L40.png",
+     "stickers": [
+      {
+       "at": "mỏ dưới của nó dài hơn mỏ trên",
+       "side": "R",
+       "y": 380,
+       "value": "LỆCH PHA",
+       "label": "hàm dưới dài hơn",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "chạm vào mặt gỗ trước",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "góc bẻ hướng lực 60°",
+     "image": "assets/long/L42.png",
+     "stickers": [
+      {
+       "at": "60°",
+       "side": "L",
+       "y": 390,
+       "value": "60 ĐỘ",
+       "label": "góc bẻ hướng lực xung",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "phiến sừng keratin xếp lớp",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nguyên mẫu hoàn hảo mà các kỹ sư quân sự",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cơ bắp vùng cổ",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lao về phía trước",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "không bị vặn xoắn sang hai bên",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "LỚP GIẢM CHẤN #3"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "MÀNG CHỚP MỘT MILI-GIÂY BẢO VỆ NHÃN CẦU KHÔNG VĂNG RA NGOÀI",
+   "hook": "TỐC ĐỘ ĐÓNG CỬA CHỚP THẦN TỐC: MÍ MẮT THỨ BA KHÓA CHẶT MẮT TRƯỚC VA CHẠM ĐỂ CHỐNG ÁP SUẤT",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "giảm tốc đột ngột trong nháy mắt",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhãn cầu sẽ lập tức văng ra",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "mắt của nó vẫn mở to thao láo",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cửa chập quang học siêu tốc",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "mí mắt thứ ba trong suốt",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "10.000 khung hình trên giây",
+     "image": "assets/long/L54.png",
+     "stickers": [
+      {
+       "at": "10.000 khung hình",
+       "side": "R",
+       "y": 380,
+       "value": "10.000 FPS",
+       "label": "máy quay siêu tốc",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "chiếc kính bảo hộ lao động",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "trong tích tắc 1 mili-giây",
+     "image": "assets/long/L56.png",
+     "stickers": [
+      {
+       "at": "1 mili-giây",
+       "side": "L",
+       "y": 390,
+       "value": "1 MS",
+       "label": "tốc độ mở màng chớp",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "20 lần mỗi giây",
+     "image": "assets/long/L57.png",
+     "stickers": [
+      {
+       "at": "20 lần",
+       "side": "R",
+       "y": 370,
+       "value": "20 LẦN/S",
+       "label": "chớp mắt đồng bộ",
+       "target": [
+        0.68,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "robot công nghiệp nào hiện nay",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vận hành liên tục 12.000 chu kỳ",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "LỚP GIẢM CHẤN #4"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "ĐỈNH CAO CƠ CHẾ GIẢM CHẤN PHỎNG SINH HỌC",
+   "hook": "BẢN GIAO HƯỞNG CƠ KHÍ HOÀN MỸ: BÀI HỌC VÔ GIÁ MÀ KỸ SƯ LOÀI NGƯỜI ĐANG HỌC TẬP TỪ THIÊN NHIÊN",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chúng ta phải nghiêng mình",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyên bố nghiệm thu",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "kỹ sư vũ trụ của NASA",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tập đoàn thiết bị thể thao",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tiếng gõ cốc cốc vang dội",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bài ca thử nghiệm va chạm",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chiếc lưỡi quấn quanh sọ",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "giải pháp cơ khí nào",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bấm đăng ký kênh để đón xem Tập 37",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tôn vinh những kỳ quan kỹ thuật",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "NGHIỆM THU CÔNG TRÌNH"
+  }
+ }
+}

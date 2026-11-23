@@ -1,0 +1,80 @@
+{
+ "title_lines": [
+  "QUÊN MÌNH KHÔNG BIẾT BAY",
+  "LEO 20M NHẢY ĐẬP BỤNG?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "ùm xuống đập",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "at": "4 kg",
+     "side": "L",
+     "y": 500,
+     "value": "4 KG",
+     "label": "vẹt nặng nhất",
+     "target": [
+      0.3,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "kg, và cũng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "năm ở New",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "còn là vật",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "lại tỏa ra",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "đào hố lòng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "at": "5 km",
+     "side": "R",
+     "y": 520,
+     "value": "5 KM",
+     "label": "loa phóng thanh",
+     "target": [
+      0.7,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "cả hành tinh chỉ",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  }
+ ]
+}

@@ -1,0 +1,710 @@
+{
+ "_doc": "Storyboard Tập 26: Gấu Túi Wombat (Format F2 - Giải Mã Vũ Khí Tối Mật). Mỗi câu/ý thoại = 1 beat = 1 ảnh riêng.",
+ "characters": {
+  "HERO": "chú Gấu Túi Wombat (Vombatidae) hoạt hình lông màu nâu xám dày mượt, thân hình mũm mĩm tròn lẳn lù đù như chiếc thùng rượu nhỏ, đầu to mũi xám lớn, hai mắt tròn xoe hiền lành nhưng lầy lội, hai chân trước có móng vuốt đào đất màu đen cứng cáp, đầu đội chiếc mũ bảo hộ công nhân công trình màu vàng",
+  "HERO_S": "chú Gấu Túi Wombat mũm mĩm lông nâu xám, móng vuốt đào đất, mũ bảo hộ vàng",
+  "NO_HERO": "KHÔNG có chú gấu túi đội mũ bảo hộ vàng trong cảnh này",
+  "ENGINEER": "người kỹ sư trưởng hoạt hình mặc áo phản quang cam cầm bản vẽ kỹ thuật cuộn tròn và thước đo",
+  "ASSISTANT": "cô trợ lý kỹ thuật hoạt hình mặc áo phản quang vàng",
+  "DINGO": "chú chó hoang Dingo lông vàng hung dữ răng nanh nhọn hoắt nhưng bị bầm dập hài hước"
+ },
+ "side_characters": [
+  "ENGINEER",
+  "ASSISTANT",
+  "DINGO"
+ ],
+ "shorts_side_characters": [
+  "DINGO"
+ ],
+ "shorts_title_lines": [
+  "MÔNG BỌC THÉP ÉP",
+  "NÁT SỌ CHÓ HOANG?!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Phòng thiết kế cơ khí quân sự tối tân: {ENGINEER} mở màn hình mô phỏng 3D màu đỏ rực giữa căn phòng công nghệ cao. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hôm nay chúng ta giải",
+   "layout": "Bản vẽ thiết kế cơ khí sinh học: một cỗ máy đào hầm sống của giới tự nhiên nước Úc hiện lên từng chi tiết bánh xích và động cơ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "một cỗ máy đào hầm",
+   "layout": "{HERO} lù đù bước ra, thân hình tròn quay lùn tịt như chiếc thùng rượu nhỏ bọc lông nâu xám, chiếc mông phía sau phát sáng hào quang kim loại cứng cáp.",
+   "stickers": [
+    {
+     "at": "25-35kg",
+     "side": "R",
+     "y": 350,
+     "value": "25-35 KG",
+     "label": "cân nặng xe tăng",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Báo cáo chỉ huy, radar",
+   "layout": "Màn hình radar quét địa chấn hiển thị một mục tiêu di chuyển thần tốc xuyên lòng đất đào những đường hầm ngầm nhanh như máy xúc bánh xích. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Báo cáo rất chuẩn xác!",
+   "layout": "Bản đồ nước Úc xinh đẹp: {HERO} đứng cạnh người anh em gấu Koala đang ôm cây ngủ gật lờ đờ, đối chiếu hai tính cách trái ngược hoàn toàn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhưng khác với người anh",
+   "layout": "{HERO} tự tin tạo dáng thể hiện bộ giáp công thủ toàn diện khắp cơ thể, dáng đứng dũng mãnh và kiên cường.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "hàm răng mọc dài liên",
+   "layout": "Sơ đồ vũ khí toàn thân của {HERO}: răng cửa đục rễ cây, chân trước vuốt xẻng máy đào đất đá, và chiếc mông bọc thép dày cộp như tấm khiên chống đạn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Trong phòng thiết kế, chúng",
+   "layout": "{HERO} oai vệ đứng trên bệ bánh xích xe tăng mini, đeo kính bảo hộ công trình với dải băng danh hiệu Xe Tăng Đào Hầm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chưa dừng lại ở đó,",
+   "layout": "Các kỹ sư thủy lực và vật lý học thế giới ôm đầu sửng sốt trước mô hình những viên phân hình khối lập phương vuông vức như viên xúc xắc. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đêm nay, tôi mời toàn",
+   "layout": "{ENGINEER} lật mở tập hồ sơ bản vẽ kỹ thuật dày cộp có dấu mật; {HERO} giơ hai bàn chân có móng vuốt thép sẵn sàng khởi động.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Bảng bản vẽ kỹ thuật hiện MODULE 1: BẢN VẼ TẤM KHIÊN MÔNG VÀ TÚI NGẦM; mô hình điểm hiểm yếu phía sau của cỗ máy đào hầm. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "khi chúi đầu vào lòng",
+   "layout": "Mô hình cỗ máy đào ngầm chúi đầu vào đất, phần mông lộ ra ngoài có dấu cảnh báo mục tiêu nguy hiểm bị kẻ thù nhắm tới. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Hãy quan sát mặt cắt",
+   "layout": "Mặt cắt giải phẫu X-quang vùng mông {HERO}: xương chậu và xương cụt bọc lớp mô mạc sợi và các tấm sụn dày cộp như thép tấm gia cường cứng cáp.",
+   "stickers": [
+    {
+     "at": "2-3cm",
+     "side": "R",
+     "y": 350,
+     "value": "DÀY 2-3 CM",
+     "label": "khiên sụn bọc thép",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Phía trên là lớp da",
+   "layout": "Mặt cắt lớp da siêu dày phủ lông rậm rạp của {HERO} trông như một chiếc nắp cống kim loại tròn xoe kiên cố chốt chặn cửa hang. {HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khi bị chó hoang Dingo",
+   "layout": "{DINGO} hung dữ nhe răng đuổi theo {HERO}; {HERO} nhanh như chớp lao đầu vào hang đất và quay chiếc mông tròn xoe ra ngoài bịt kín miệng hang.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chó hoang lao tới cắn",
+   "layout": "{DINGO} cắn phập vào mông {HERO} nhưng răng nanh bị trượt ra ngoài, ôm mõm kêu ăng ẳng gãy răng đau đớn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chưa hết, các kỹ sư",
+   "layout": "So sánh chiếc túi có túi: BÊN TRÁI chuột túi Kangaroo có miệng túi mở hướng lên trên; BÊN PHẢI {HERO} có miệng túi quay ngược hoàn toàn về phía sau.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "khi gã dùng hai bàn",
+   "layout": "{HERO} dùng hai bàn chân trước cào đất tung tóe đào đường hầm sâu 20-30m, đất cát bắn ra phía sau nhưng đứa con non trong túi vẫn ngủ ngon lành.",
+   "stickers": [
+    {
+     "at": "20-30m",
+     "side": "L",
+     "y": 350,
+     "value": "SÂU 20-30M",
+     "label": "mạng lưới hang ngầm",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Phía trước đầu xe tăng",
+   "layout": "Cận cảnh hàm răng trước của {HERO}: bốn chiếc răng cửa to bản sắc như lưỡi đục kim loại, men răng trước dày cứng tự mài sắc bén.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "có thể gặm đứt phăng",
+   "layout": "{HERO} gặm đứt đôi rễ cây bạch đàn cổ thụ to bằng bắp tay và gặm thủng cả ống nhựa công trình một cách dễ dàng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đầu là máy khoan mũi",
+   "layout": "Mô hình tổng thể xe bọc thép: đầu là mũi khoan đục rễ cây, thân là máy xúc, đuôi là khiên chống đạn; bảng Module 1 bật PASS.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Bảng bản vẽ kỹ thuật hiện MODULE 2: DÂY CHUYỀN ĐÚC PHÂN KHỐI LẬP PHƯƠNG; mô hình các hình khối phân tròn elip của loài vật khác. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Mọi loài vật từ voi,",
+   "layout": "Mô hình các khối phân tròn hoặc elip của động vật có vú do cơ vòng hậu môn đồng tâm co bóp. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng Xe Tăng Đào Hầm",
+   "layout": "{HERO} ngồi thảnh thơi trên tảng đá, phía sau thải ra những viên phân hình khối lập phương vuông vức có đủ 6 mặt phẳng như những viên xúc xắc.",
+   "stickers": [
+    {
+     "at": "6 mặt phẳng",
+     "side": "R",
+     "y": 350,
+     "value": "6 MẶT",
+     "label": "khối lập phương",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Trời đất ơi chỉ huy",
+   "layout": "{ASSISTANT} cầm chiếc khuôn làm bánh hình vuông ngơ ngác hỏi chỉ huy; {ENGINEER} bật cười giải thích bí ẩn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Năm 2019, nhóm nghiên",
+   "layout": "Máy chụp cắt lớp CT của tiến sĩ Patricia Yang và cúp giải thưởng Ig Nobel 2019 rực rỡ; hậu môn của Wombat vẫn tròn xoe như bình thường.",
+   "stickers": [
+    {
+     "at": "2019",
+     "side": "L",
+     "y": 350,
+     "value": "IG NOBEL",
+     "label": "Patricia Yang 2019",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bí mật cơ khí thực",
+   "layout": "Sơ đồ đường ruột của {HERO}: mũi tên chỉ vào 8% chiều dài cuối cùng của ruột già nơi diễn ra quá trình đúc nén hình học kỳ diệu.",
+   "stickers": [
+    {
+     "at": "8%",
+     "side": "R",
+     "y": 350,
+     "value": "8% CUỐI",
+     "label": "ruột già đúc gạch",
+     "target": [
+      0.68,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Trong công bố chi tiết",
+   "layout": "Mặt cắt ruột già trên tạp chí Soft Matter 2021: hai dải cơ cứng đối diện nhau và hai dải cơ mềm linh hoạt co bóp nhịp nhàng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Suốt hành trình tiêu hóa",
+   "layout": "Timeline tiêu hóa 2 tuần: chất xơ thô ráp được vắt kiệt nước và nén chặt nặn thành 4 mặt phẳng đều tăm tắp như khuôn gạch. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "2 tuần",
+     "side": "R",
+     "y": 350,
+     "value": "2 TUẦN",
+     "label": "thời gian tiêu hóa",
+     "target": [
+      0.65,
+      0.5
+     ]
+    },
+    {
+     "at": "4 mặt phẳng",
+     "side": "L",
+     "y": 480,
+     "value": "4 MẶT",
+     "label": "áp lực co bóp thành",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Mỗi đêm, một chú",
+   "layout": "{HERO} đứng cạnh một chồng tháp gồm 80-100 viên gạch phân lập phương vuông vức xếp ngay ngắn như công trường xây dựng mini.",
+   "stickers": [
+    {
+     "at": "80-100 viên",
+     "side": "R",
+     "y": 350,
+     "value": "80-100 V",
+     "label": "sản xuất mỗi đêm",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Wombat có thị lực",
+   "layout": "{HERO} với cặp kính cận dày cộp cẩn thận đặt viên phân vuông lên đỉnh mỏm đá nhọn và thân cây đổ để đánh dấu ranh giới mùi hương.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nếu phân hình tròn,",
+   "layout": "So sánh hai hình thái: viên phân hình tròn lăn tọt xuống rãnh nước; còn viên phân hình khối lập phương nằm im bất động trên gờ đá, thiết kế chống lăn đỉnh cao.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Hiện tượng cơ học này",
+   "layout": "Các kỹ sư công nghiệp tại viện nghiên cứu mô phỏng ruột Uôm-bát để chế tạo khuôn đúc gốm sứ và linh kiện rỗng không cần dao cắt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Một chú gấu túi béo",
+   "layout": "{HERO} đứng trên bục giảng đường đại học đội mũ cử nhân, giảng bài cho các kỹ sư hàng đầu thế giới về thủy lực học và tạo hình vật liệu; bảng Module 2 bật PASS.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Bảng bản vẽ hiện MODULE 3: KỊCH BẢN TÁC CHIẾN PHÒNG NGỰ PHẢN CÔNG; {ENGINEER} mở sơ đồ mặt cắt lòng hang hẹp. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Khi bị dồn vào",
+   "layout": "{HERO} nặng 35kg đứng trong đường hầm tối tăm, đôi mắt nhỏ ánh lên vẻ tự tin chuẩn bị kích hoạt đòn phản công sát thương hủy diệt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chiến thuật bẫy mồi",
+   "layout": "Trong lòng hang đá hẹp: {HERO} bò thụt lùi vào trong, hơi hạ thấp mông tạo khe hở vừa khít; {DINGO} thò đầu vào khe hở định ngoạm mồi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đúng khoảnh khắc chiếc",
+   "layout": "Chiếc đầu của {DINGO} chui lọt vào khe hở bên trên mông {HERO}, ánh mắt háo thắng đắc ý tưởng đã thắng thế.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bùm! Wombat dùng hai",
+   "layout": "Bùm! {HERO} dùng hai chân sau gồng cực mạnh bật chiếc mông thép đội thẳng lên trần hang, ép chặt nghiền nát đầu {DINGO} vào trần đá hoa cương cứng ngắc.",
+   "stickers": [
+    {
+     "at": "35kg",
+     "side": "R",
+     "y": 350,
+     "value": "35 KG ÉP",
+     "label": "nghiền nát hộp sọ",
+     "target": [
+      0.62,
+      0.45
+     ]
+    }
+   ],
+   "impacts": [
+    "bùm"
+   ]
+  },
+  {
+   "scene": "scene04",
+   "at": "Bảo tàng Úc ghi",
+   "layout": "Bên ngoài cửa hang đá: các nhà nghiên cứu bảo tàng Úc ghi nhận dấu vết xương hộp sọ bị nghiền nát của loài chó hoang, minh chứng cho cú gồng mông chết chóc. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Gâu gâu! Ta tưởng",
+   "layout": "{DINGO} ôm đầu bầm dập hoa mắt chóng mặt với những ngôi sao quay cuồng quanh đầu, vừa khóc vừa lồm cồm bò ra khỏi miệng hang.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nếu phải đánh nhau",
+   "layout": "Trên bãi cỏ ngoài hang: {HERO} tung cú đá lừa ngược bằng hai chân sau cực mạnh hất văng một con cáo săn mồi bay lên không trung.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "khi cần tháo chạy",
+   "layout": "{HERO} phi nước rút với tốc độ 40km/h trong 90 giây như viên đạn đại bác lao vun vút về cửa hang; bảng Module 3 bật PASS.",
+   "stickers": [
+    {
+     "at": "40km/h",
+     "side": "L",
+     "y": 350,
+     "value": "40 KM/H",
+     "label": "nước rút trong 90s",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Bảng bản vẽ hiện MODULE 4: PHÂN TÍCH ĐIỂM YẾU VÀ TỬ HUYỆT; {ENGINEER} khoanh vùng các mối đe dọa sinh tồn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thứ nhất là thị",
+   "layout": "{HERO} đeo kính cận dày cộp lững thững đi đêm, suýt húc đầu vào gốc cây to bên đường do thị lực kém.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thứ hai là thảm",
+   "layout": "Kính lúp phóng to con ve ghẻ ký sinh gây ngứa ngáy rụng lông; bên cạnh là dấu chấm than cảnh báo dịch bệnh đối với gấu túi. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "mạng lưới hang ngầm dài",
+   "layout": "Cảnh tượng cảm động trong cháy rừng nước Úc: bên trong mạng lưới hang ngầm mát mẻ của {HERO}, hàng chục con thú nhỏ như thằn lằn, chim chóc cùng ngồi trú ẩn an toàn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "đồ sộ như một mê",
+   "layout": "Sơ đồ kiến trúc ngầm 3D: hệ thống hang dài 30m, sâu hơn 3m dưới lòng đất với 5-6 cửa thoát hiểm như mạng lưới tàu điện ngầm sinh thái.",
+   "stickers": [
+    {
+     "at": "30m",
+     "side": "R",
+     "y": 350,
+     "value": "DÀI 30 MÉT",
+     "label": "sâu 3m mát rượi",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhờ độ sâu này,",
+   "layout": "Biểu đồ nhiệt độ bên trong hang luôn mát rượi vào mùa hè và ấm áp vào mùa đông, tạo nên công trình kiến trúc sinh thái bền vững; bảng Module 4 bật PASS.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "{ENGINEER} đứng cạnh bàn điều khiển tổng kết báo cáo kỹ thuật số 26, ngắm nhìn mô hình Xe Tăng Đào Hầm với sự nể phục tuyệt đối. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "không cần nanh vuốt",
+   "layout": "{HERO} kiên cường đứng vững giữa thảo nguyên hoang dã với chiếc mông bọc thép kiên cố trước mọi kẻ thù.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Báo cáo nghiệm thu",
+   "layout": "{ENGINEER} đóng dấu NGHIỆM THU ĐẠT ĐIỂM 10 màu đỏ chót lên bản vẽ; {HERO} giơ chân trước chào kiểu công binh công trình.",
+   "stickers": [
+    {
+     "at": "điểm 10",
+     "side": "R",
+     "y": 350,
+     "value": "ĐIỂM 10",
+     "label": "nghiệm thu vũ khí",
+     "target": [
+      0.58,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Còn đội kỹ thuật",
+   "layout": "Hai bàn cân lựa chọn: BÊN TRÁI biểu tượng chiếc khiên mông chống đạn nghiền sọ; BÊN PHẢI biểu tượng khuôn đúc phân lập phương chống lăn, khán giả giơ thẻ bình chọn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hồ sơ vũ khí số",
+   "layout": "{ENGINEER} cuộn tròn bản vẽ số 26 lại cất vào hòm sắt, trên màn hình chuyển sang đồng hồ 24 giờ phóng sự điều tra trực tiếp dưới lòng đất tăm tối. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một sinh vật bé",
+   "layout": "Một sinh vật bí ẩn được vẽ hoàn toàn bằng BÓNG ĐEN ĐẶC TUYỀN (solid black silhouette) nhỏ xíu nặng 50g, chiếc mũi xòe ra 22 xúc tu đỏ hồng như bông hoa sao lấp lánh; có dấu hỏi chấm vàng to tướng; KHÔNG vẽ mắt mũi lông. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "50g",
+     "side": "L",
+     "y": 350,
+     "value": "NẶNG 50G",
+     "label": "chuột chũi sao",
+     "target": [
+      0.35,
+      0.45
+     ]
+    },
+    {
+     "at": "22 xúc tu",
+     "side": "R",
+     "y": 480,
+     "value": "22 XÚC TU",
+     "label": "mũi hình bông hoa",
+     "target": [
+      0.68,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Tốc độ ăn tối",
+   "layout": "Đồng hồ siêu tốc đếm 0,12 giây phát sáng: sinh vật bóng đen nuốt chửng con mồi nhanh hơn cái chớp mắt của con người; ba dấu hỏi chấm lớn lấp lánh vàng cam mời gọi khán giả đoán tên. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "0,12 giây",
+     "side": "L",
+     "y": 350,
+     "value": "0,12 GIÂY",
+     "label": "ăn nhanh nhất thế giới",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Khung dọc: {HERO} khoe chiếc mông bọc thép dày cộp phát sáng hào quang cứng như bê tông.",
+   "stickers": []
+  },
+  {
+   "at": "chuyên bẫy lừa chó",
+   "layout": "{DINGO} thò đầu vào hang đá, {HERO} gồng mông dập nát hộp sọ kẻ thù vào trần đá hoa cương.",
+   "stickers": []
+  },
+  {
+   "at": "Xin giới thiệu Gấu",
+   "layout": "{HERO} mập mạp mũm mĩm đứng cạnh chiếc cân đo 35kg và thước đo chiều cao màu vàng.",
+   "stickers": [
+    {
+     "at": "35kg",
+     "side": "R",
+     "y": 620,
+     "value": "35 KG",
+     "label": "xe tăng đào hầm",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Toàn bộ vùng mông",
+   "layout": "Mặt cắt giải phẫu khung dọc: tấm khiên sụn dày 3cm bảo vệ vùng mông {HERO}, {DINGO} cắn vào bị trượt cộp cộp gãy răng.",
+   "stickers": [
+    {
+     "at": "3cm",
+     "side": "L",
+     "y": 620,
+     "value": "DÀY 3CM",
+     "label": "khiên sụn bọc thép",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "khi bị rượt đuổi,",
+   "layout": "{HERO} chui tọt vào hang quay mông bịt kín cửa hang khiến {DINGO} cắn trúng khiên sụn gãy nanh.",
+   "stickers": []
+  },
+  {
+   "at": "Chưa hết, nó là",
+   "layout": "{HERO} ngồi trên mỏm đá khoe các khối phân lập phương có đủ 6 mặt phẳng đều tăm tắp như viên xúc xắc.",
+   "stickers": []
+  },
+  {
+   "at": "Nhờ đoạn ruột già",
+   "layout": "Sơ đồ ruột già co bóp với các dải cơ đàn hồi không đồng nhất tạo cạnh sắc cho khối phân.",
+   "stickers": []
+  },
+  {
+   "at": "mỗi đêm nó đúc",
+   "layout": "{HERO} xếp tháp 100 viên gạch phân lập phương vuông vức trên mỏm đá chống lăn xuống rãnh.",
+   "stickers": [
+    {
+     "at": "100",
+     "side": "R",
+     "y": 650,
+     "value": "100 VIÊN",
+     "label": "gạch phân lập phương",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Khi cần chạy trốn,",
+   "layout": "{HERO} phi nước rút với tốc độ 40km/h trên bãi cỏ lao vun vút về cửa hang.",
+   "stickers": [
+    {
+     "at": "40km/h",
+     "side": "L",
+     "y": 680,
+     "value": "40 KM/H",
+     "label": "nước rút thần tốc",
+     "target": [
+      0.38,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Một cỗ xe bọc",
+   "layout": "Chân dung {HERO} đội mũ bảo hộ vàng giơ ngón tay like bên cạnh tháp gạch phân lập phương ngộ nghĩnh.",
+   "stickers": []
+  }
+ ]
+}

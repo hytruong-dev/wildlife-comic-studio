@@ -1,0 +1,382 @@
+{
+ "title_lines": [
+  "KẺ BẤT TỬ CHẾT LÃNG XẸT",
+  "VÌ... ỐC SÊN!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "image": "assets/gemini_downloaded_shorts/v5_s01.png",
+   "draw_s": 1.2,
+   "stickers": [
+    {
+     "at_s": 0.5,
+     "side": "L",
+     "y": 1020,
+     "value": "1 CON",
+     "label": "ốc sên nhỏ bé",
+     "target": [
+      0.3,
+      0.72
+     ]
+    },
+    {
+     "at_s": 2.62,
+     "side": "R",
+     "y": 540,
+     "value": "BẤT TỬ",
+     "label": "vẫn bị hạ gục",
+     "target": [
+      0.62,
+      0.3
+     ]
+    }
+   ],
+   "captions": [
+    "Chỉ một con",
+    "ốc sên nhỏ bé",
+    "cũng đủ hạ gục",
+    "kẻ bất tử này",
+    "ngay lập tức!"
+   ]
+  },
+  {
+   "at_s": 4.3,
+   "image": "assets/gemini_downloaded_shorts/v5_s02.png",
+   "draw_s": 1.3,
+   "stickers": [
+    {
+     "at_s": 6.8,
+     "side": "L",
+     "y": 820,
+     "value": "5 LẦN",
+     "label": "đại tuyệt chủng",
+     "target": [
+      0.5,
+      0.72
+     ]
+    }
+   ],
+   "captions": [
+    "Dù đây là",
+    "sinh vật duy nhất",
+    "trên Trái Đất",
+    "sống sót qua",
+    "cả 5 cuộc",
+    "đại tuyệt chủng",
+    "từng xóa sổ",
+    "loài khủng long!"
+   ]
+  },
+  {
+   "at_s": 9.65,
+   "image": "assets/gemini_downloaded_shorts/v5_s03.png",
+   "draw_s": 0.9,
+   "stickers": [
+    {
+     "at_s": 10.38,
+     "side": "R",
+     "y": 860,
+     "value": "0,5 mm",
+     "label": "= 1 dấu chấm",
+     "target": [
+      0.616,
+      0.806
+     ]
+    }
+   ],
+   "captions": [
+    "Chỉ dài nửa",
+    "mi-li-mét",
+    "bằng 1 dấu chấm câu"
+   ]
+  },
+  {
+   "at_s": 12.2,
+   "image": "assets/gemini_downloaded_shorts/v5_s04.png",
+   "draw_s": 1.0,
+   "stickers": [
+    {
+     "at_s": 13.42,
+     "side": "R",
+     "y": 540,
+     "value": "-272°C",
+     "label": "lạnh gần độ 0 tuyệt đối",
+     "target": [
+      0.66,
+      0.24
+     ]
+    },
+    {
+     "at_s": 15.9,
+     "side": "L",
+     "y": 960,
+     "value": "150°C",
+     "label": "nước sôi sùng sục",
+     "target": [
+      0.4,
+      0.76
+     ]
+    }
+   ],
+   "captions": [
+    "nhưng Gấu Nước",
+    "chịu được cái lạnh",
+    "âm 272 độ C",
+    "nước sôi 150 độ"
+   ]
+  },
+  {
+   "at_s": 16.55,
+   "image": "assets/gemini_downloaded_shorts/v5_s05.png",
+   "draw_s": 1.1,
+   "stickers": [
+    {
+     "at_s": 19.08,
+     "side": "R",
+     "y": 560,
+     "value": "10 NGÀY",
+     "label": "trần trụi ngoài vũ trụ",
+     "target": [
+      0.4,
+      0.35
+     ]
+    },
+    {
+     "at_s": 20.7,
+     "side": "L",
+     "y": 1020,
+     "value": "ĐẺ CON",
+     "label": "bình thường",
+     "target": [
+      0.58,
+      0.74
+     ]
+    }
+   ],
+   "captions": [
+    "và từng bị ném",
+    "trần trụi ra ngoài",
+    "vũ trụ suốt",
+    "10 ngày mà vẫn",
+    "về Trái Đất",
+    "đẻ con bình thường!"
+   ]
+  },
+  {
+   "at_s": 22.1,
+   "image": "assets/gemini_downloaded_shorts/v5_s06.png",
+   "draw_s": 1.2,
+   "stickers": [
+    {
+     "at_s": 23.4,
+     "side": "L",
+     "y": 560,
+     "value": "99%",
+     "label": "nước bị rút ra",
+     "target": [
+      0.19,
+      0.41
+     ]
+    },
+    {
+     "at_s": 27.04,
+     "side": "R",
+     "y": 820,
+     "value": "THỦY TINH",
+     "label": "bất hoại",
+     "target": [
+      0.7,
+      0.72
+     ]
+    }
+   ],
+   "captions": [
+    "Bí mật nằm ở",
+    "tuyệt kỹ rút",
+    "99% nước",
+    "khỏi cơ thể,",
+    "tiết chất đạm",
+    "biến nội tạng thành",
+    "một khối thủy tinh",
+    "bất hoại!"
+   ]
+  },
+  {
+   "at_s": 28.0,
+   "image": "assets/gemini_downloaded_shorts/v5_s07.png",
+   "draw_s": 1.0,
+   "stickers": [
+    {
+     "at_s": 29.24,
+     "side": "L",
+     "y": 560,
+     "value": "1 GIỌT",
+     "label": "nước là đủ",
+     "target": [
+      0.5,
+      0.28
+     ]
+    },
+    {
+     "at_s": 30.92,
+     "side": "R",
+     "y": 840,
+     "value": "30 NĂM",
+     "label": "vẫn sống dậy",
+     "target": [
+      0.55,
+      0.68
+     ]
+    }
+   ],
+   "captions": [
+    "Chỉ cần nhỏ",
+    "một giọt nước,",
+    "nó lập tức sống dậy",
+    "sau 30 năm",
+    "đóng băng!"
+   ]
+  },
+  {
+   "at_s": 32.3,
+   "image": "assets/gemini_downloaded_shorts/v5_s08.png",
+   "draw_s": 1.0,
+   "stickers": [
+    {
+     "at_s": 34.42,
+     "side": "R",
+     "y": 560,
+     "value": "VÀI GIỜ",
+     "label": "để hóa thủy tinh",
+     "target": [
+      0.62,
+      0.3
+     ]
+    }
+   ],
+   "captions": [
+    "Thế nhưng,",
+    "vì quá trình",
+    "hóa thủy tinh",
+    "mất tới vài tiếng",
+    "đồng hồ chuẩn bị,"
+   ]
+  },
+  {
+   "at_s": 35.95,
+   "image": "assets/gemini_downloaded_shorts/v5_s09.png",
+   "draw_s": 1.0,
+   "stickers": [
+    {
+     "at_s": 36.66,
+     "side": "R",
+     "y": 540,
+     "value": "ỐC SÊN",
+     "label": "bò qua đám rêu",
+     "target": [
+      0.8,
+      0.46
+     ]
+    },
+    {
+     "at_s": 38.46,
+     "side": "L",
+     "y": 1060,
+     "value": "NUỐT GỌN!",
+     "label": "không kịp biến hình",
+     "target": [
+      0.53,
+      0.58
+     ]
+    }
+   ],
+   "captions": [
+    "nên khi một con",
+    "ốc sên bất ngờ",
+    "bò qua đám rêu",
+    "và nuốt gọn,",
+    "vị thần bất tử này",
+    "hoàn toàn không kịp",
+    "biến hình!"
+   ]
+  },
+  {
+   "at_s": 41.95,
+   "image": "assets/gemini_downloaded_shorts/v5_s10.png",
+   "draw_s": 1.1,
+   "stickers": [
+    {
+     "at_s": 42.56,
+     "side": "L",
+     "y": 1020,
+     "value": "HÀNG NGÀN",
+     "label": "Gấu Nước đang ngủ",
+     "target": [
+      0.5,
+      0.72
+     ]
+    },
+    {
+     "at_s": 43.98,
+     "side": "R",
+     "y": 560,
+     "value": "MẶT TRĂNG",
+     "label": "vẫn nằm đó",
+     "target": [
+      0.8,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    "Bí ẩn về",
+    "hàng ngàn chú",
+    "Gấu Nước đang nằm",
+    "trên Mặt Trăng",
+    "đã có ở",
+    "video dài",
+    "bên dưới kênh."
+   ]
+  },
+  {
+   "at_s": 47.0,
+   "image": "assets/gemini_downloaded_shorts/v5_s11.png",
+   "draw_s": 1.1,
+   "stickers": [
+    {
+     "at_s": 47.38,
+     "side": "R",
+     "y": 540,
+     "value": "BẤT TỬ",
+     "label": "ngoài vũ trụ",
+     "target": [
+      0.54,
+      0.3
+     ]
+    },
+    {
+     "at_s": 49.3,
+     "side": "L",
+     "y": 1020,
+     "value": "1 CON",
+     "label": "ốc sên là đủ",
+     "target": [
+      0.31,
+      0.74
+     ]
+    }
+   ],
+   "captions": [
+    "Dù bất tử",
+    "ngoài vũ trụ,",
+    "nhưng trước",
+    "một con ốc sên,",
+    "nó vẫn sẽ",
+    "tiêu đời",
+    "ngay lập tức!",
+    "Bấm xem ngay nhé!"
+   ]
+  }
+ ]
+}

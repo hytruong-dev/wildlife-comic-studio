@@ -1,0 +1,146 @@
+{
+ "title_lines": [
+  "BIỆT ĐỘI ĐẶC NHIỆM",
+  "PHI VỤ THẾ KỶ"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Cửa Ải 1:",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "at": "389 km/h",
+     "side": "R",
+     "y": 640,
+     "value": "389 KM/H",
+     "label": "Bổ nhào kỷ lục",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Cửa Ải 2:",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "18 phút",
+     "side": "L",
+     "y": 620,
+     "value": "18 PHÚT",
+     "label": "Sống ở 0% Oxy",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Cửa Ải 3:",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "at": "65%",
+     "side": "R",
+     "y": 640,
+     "value": "65% NƯỚC",
+     "label": "Đóng băng cơ thể",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Cửa Ải 4:",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "Cửa Ải 5:",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "at": "225 dB",
+     "side": "L",
+     "y": 620,
+     "value": "225 DB",
+     "label": "Xung Sonar đỉnh",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Cửa Ải 6:",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "at": "1200G",
+     "side": "R",
+     "y": 640,
+     "value": "1200G",
+     "label": "Lực chịu va đập",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Cửa Ải 7:",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "at": "90°",
+     "side": "L",
+     "y": 620,
+     "value": "VÁCH 90°",
+     "label": "Móng giác hút",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Và kho báu",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "Bạn ấn tượng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  },
+  {
+   "at": "vì ở đây",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  }
+ ]
+}

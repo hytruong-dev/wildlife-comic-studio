@@ -1,0 +1,227 @@
+{
+  "title_lines": [
+    "CHỒN GULO 15KG ĐUỔI",
+    "GẤU XÁM 300KG CƯỚP MỒI?!"
+  ],
+  "beats": [
+    {
+      "at": 0,
+      "draw_s": 1.0,
+      "image": "assets/shorts/S01.png",
+      "stickers": [
+        {
+          "at": "15kg",
+          "side": "L",
+          "y": 500,
+          "value": "15 kg",
+          "label": "trọng lượng",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "cướp mồi của một con",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S02.png",
+      "stickers": [
+        {
+          "at": "300kg",
+          "side": "R",
+          "y": 520,
+          "value": "300 kg",
+          "label": "Gấu Xám Grizzly",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "Kẻ điên rồ bậc nhất",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S03.png",
+      "stickers": [
+        {
+          "at": "Wolverine",
+          "side": "L",
+          "y": 480,
+          "value": "WOLVERINE",
+          "label": "Chồn Gulo",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "Với bốn bàn chân bè",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S04.png",
+      "stickers": [
+        {
+          "at": "ủng trượt tuyết",
+          "side": "R",
+          "y": 540,
+          "value": "SNOWSHOE",
+          "label": "ủng tuyết tự nhiên",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "hon này lướt nhẹ trên",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S04b.png",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "at": "Bộ lông kỵ nước",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S05.png",
+      "stickers": [
+        {
+          "at": "-40°C",
+          "side": "L",
+          "y": 500,
+          "value": "-40°C",
+          "label": "không đóng băng",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "xoay ngang 90°",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S06.png",
+      "stickers": [
+        {
+          "at": "90°",
+          "side": "R",
+          "y": 520,
+          "value": "90°",
+          "label": "răng kìm sắt",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "Nó có thể chạy liên",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S07.png",
+      "stickers": [
+        {
+          "at": "70km",
+          "side": "L",
+          "y": 480,
+          "value": "70 km",
+          "label": "vượt vách núi",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "khi bị bao vây, nó",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S08.png",
+      "stickers": [
+        {
+          "at": "mùi hôi thối",
+          "side": "R",
+          "y": 540,
+          "value": "SKUNK",
+          "label": "xạ hôi xua đuổi",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "sói cũng phải ôm mũi",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S08b.png",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "at": "bất bại này lại cô",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S09.png",
+      "stickers": [
+        {
+          "at": "cô độc",
+          "side": "L",
+          "y": 500,
+          "value": "CÔ ĐỘC",
+          "label": "không một bóng bạn",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "Bạn muốn biết chú ta",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S09b.png",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "at": "Bấm xem ngay video dài",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S10.png",
+      "stickers": [
+        {
+          "at": "Tập tám",
+          "side": "R",
+          "y": 520,
+          "value": "XEM TẬP 8",
+          "label": "full bản dài 16:9",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at_s": 47.8,
+      "draw_s": 1.0,
+      "image": "assets/shorts/S10b.png",
+      "stickers": [
+        {
+          "at_s": 48.5,
+          "side": "L",
+          "y": 500,
+          "value": "15KG vs 300KG",
+          "label": "vòng lặp vô tận",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    }
+  ]
+}

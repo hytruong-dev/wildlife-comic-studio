@@ -1,0 +1,706 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "00 SÁNG: TUYỆT KỸ UỐNG SƯƠNG MAO DẪN BẰNG BÀN CHÂN",
+   "hook": "KỲ QUAN MAO DẪN NƯỚC NGƯỢC LÊN MIỆNG",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phóng viên truyền hình",
+     "image": "assets/long/L02.png",
+     "stickers": [
+      {
+       "at": "45°C",
+       "side": "R",
+       "y": 380,
+       "value": "45°C",
+       "label": "CHẢO LỬA SA MẠC",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trước mắt chúng ta",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thân hình chỉ dài",
+     "image": "assets/long/L04.png",
+     "stickers": [
+      {
+       "at": "20cm",
+       "side": "L",
+       "y": 390,
+       "value": "DÀI 20CM",
+       "label": "CHIẾN BINH GAI GÓC",
+       "target": [
+        0.28,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Xin trân trọng giới",
+     "image": "assets/long/L52.png",
+     "stickers": [
+      {
+       "at": "Chiến Binh Gai Góc",
+       "side": "R",
+       "y": 380,
+       "value": "QUỶ GAI",
+       "label": "CHIẾN BINH GAI GÓC",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Giáo sư ơi",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khán giả nhí vừa",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Toàn bộ bề mặt",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Theo định luật mao",
+     "image": "assets/long/L08.png",
+     "stickers": [
+      {
+       "at": "mao dẫn",
+       "side": "L",
+       "y": 390,
+       "value": "MAO DẪN",
+       "label": "HÚT NƯỚC NGƯỢC DÒNG",
+       "target": [
+        0.28,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nước chảy từ móng",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà vật lý",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "những rãnh mao dẫn",
+     "image": "assets/long/L53.png",
+     "stickers": [
+      {
+       "at": "5-150 μm",
+       "side": "R",
+       "y": 380,
+       "value": "5-150 μM",
+       "label": "RÃNH MAO DẪN",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Không cần bất kỳ",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chú thằn lằn chỉ",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí nếu bạn",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "05:00 SÁNG"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "00 SÁNG: CHIẾC LƯỠI DÍNH VÀ KỶ LỤC 2.500 CON KIẾN",
+   "hook": "MÁY HÚT KIẾN TỐC ĐỘ CAO SA MẠC",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L14.png",
+     "stickers": [
+      {
+       "at": "35°C",
+       "side": "R",
+       "y": 380,
+       "value": "35°C",
+       "label": "NẮNG NÓNG BẮT ĐẦU",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng quý vị có",
+     "image": "assets/long/L15.png",
+     "stickers": [
+      {
+       "at": "100%",
+       "side": "L",
+       "y": 390,
+       "value": "100% KIẾN",
+       "label": "THỰC ĐƠN ĐỘC NHẤT",
+       "target": [
+        0.28,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chiến Binh Gai Góc lạch bạch",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và ngay khi đàn",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chiếc lưỡi dày phủ",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "1 giây",
+       "side": "R",
+       "y": 380,
+       "value": "1 GIÂY",
+       "label": "THÒ THỤT 2-3 LẦN",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Ối cứu bọn em",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quý vị thử nghĩ",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhưng khi chui vào",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí chiếc đuôi",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tiếng kêu cứu thất",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà nghiên cứu",
+     "image": "assets/long/L63.png",
+     "stickers": [
+      {
+       "at": "2.500",
+       "side": "R",
+       "y": 400,
+       "value": "2.500 CON",
+       "label": "KỶ LỤC KIẾN/NGÀY",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Dạ dày của nó",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "09:00 SÁNG"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "00 TRƯA: BƯỚU GAI ĐẦU GIẢ VÀ NẮNG CHÁY 45 ĐỘ C",
+   "hook": "CÚ CÚI ĐẦU TỬ THỦ TRƯỚC SÁT THỦ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L23.png",
+     "stickers": [
+      {
+       "at": "50°C",
+       "side": "R",
+       "y": 380,
+       "value": "50°C",
+       "label": "CÁT BỐC LỬA",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trên bầu trời rực",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "còn dưới mặt đất, một",
+     "image": "assets/long/L56.png",
+     "stickers": [
+      {
+       "at": "2m",
+       "side": "L",
+       "y": 390,
+       "value": "KỲ ĐÀ 2M",
+       "label": "SÁT THỦ SA MẠC",
+       "target": [
+        0.28,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chiến Binh Gai Góc lập tức",
+     "image": "assets/long/L25.png",
+     "stickers": [
+      {
+       "at": "đầu thứ hai",
+       "side": "R",
+       "y": 380,
+       "value": "ĐẦU GIẢ",
+       "label": "BƯỚU GAI SAU GÁY",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi kẻ địch lao",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đứng lại chú thằn",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cú đớp chí mạng",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong khi kẻ săn",
+     "image": "assets/long/L29.png",
+     "stickers": [
+      {
+       "at": "100%",
+       "side": "R",
+       "y": 420,
+       "value": "100% LÀNH",
+       "label": "ĐẦU THẬT AN TOÀN",
+       "target": [
+        0.75,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "13:00 TRƯA"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "00 HOÀNG HÔN: QUẢ CẦU GAI PHỒNG TO VÀ DÁNG ĐI LÁ KHÔ",
+   "hook": "CHIẾN THUẬT PHÒNG THỦ KHÔNG THỂ NUỐT TRÔI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu kẻ săn mồi",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chiến Binh Gai Góc lập tức tung",
+     "image": "assets/long/L32.png",
+     "stickers": [
+      {
+       "at": "gấp đôi",
+       "side": "L",
+       "y": 380,
+       "value": "GẤP ĐÔI",
+       "label": "PHỒNG QUẢ CẦU GAI",
+       "target": [
+        0.28,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hàng trăm chiếc gai",
+     "image": "assets/long/L57.png",
+     "stickers": [
+      {
+       "at": "90°",
+       "side": "R",
+       "y": 420,
+       "value": "DỰNG 90°",
+       "label": "BỌC THÉP TOÀN THÂN",
+       "target": [
+        0.72,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Kẻ săn mồi há",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và sau khi thoát",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và nếu như cơn",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bốn bàn chân có",
+     "image": "assets/long/L35.png",
+     "stickers": [
+      {
+       "at": "30 giây",
+       "side": "L",
+       "y": 370,
+       "value": "30 GIÂY",
+       "label": "ĐÀO HẦM THẦN TỐC",
+       "target": [
+        0.25,
+        0.45
+       ]
+      },
+      {
+       "at": "10cm",
+       "side": "L",
+       "y": 470,
+       "value": "SÂU 10CM",
+       "label": "LẶN DƯỚI LÒNG CÁT",
+       "target": [
+        0.25,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nó bước một chân",
+     "image": "assets/long/L36.png",
+     "stickers": [
+      {
+       "at": "2-3 nhịp",
+       "side": "R",
+       "y": 400,
+       "value": "GIẬT CỤC",
+       "label": "DÁNG ĐI LÁ KHÔ",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Dáng đi robot giật",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "17:00 HOÀNG HÔN"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "00 ĐÊM: ĐỔI MÀU ĐIỀU HÒA NHIỆT ĐỘ GIỮA SA MẠC LẠNH BUỐT",
+   "hook": "BỘ ÁO GIÁP TẮC KÈ ĐỔI MÀU THÔNG MINH",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L38.png",
+     "stickers": [
+      {
+       "at": "dưới 10°C",
+       "side": "L",
+       "y": 390,
+       "value": "< 10°C",
+       "label": "ĐÊM LẠNH THẤU XƯƠNG",
+       "target": [
+        0.28,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Giữa sự khắc nghiệt",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vào buổi trưa nắng",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Màu da đen tối",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đồng thời, màu sắc",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đặc biệt vào những",
+     "image": "assets/long/L41.png",
+     "stickers": [
+      {
+       "at": "vài nhịp",
+       "side": "R",
+       "y": 390,
+       "value": "NGỦ ĐÔNG",
+       "label": "NHỊP TIM TỐI THIỂU",
+       "target": [
+        0.75,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nó nằm bất động",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và quý vị có",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "còn Thằn Lằn Quỷ",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "21:00 ĐÊM"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "00 RẠNG SÁNG: BẢN LĨNH SINH TỒN ĐỈNH CAO VÀ BÓNG ĐEN TẬP 20",
+   "hook": "BẬT MÍ BÓNG ĐEN BÍ ẨN CỦA QUÁI KIỆT TẬP 20",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một sinh vật nhỏ",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Biến làn da thành",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hành trình 24 giờ",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Xin gửi tới quý",
+     "image": "assets/long/L47.png",
+     "stickers": [
+      {
+       "at": "BÓNG ĐEN BÍ ẨN",
+       "side": "R",
+       "y": 360,
+       "value": "BÓNG ĐEN",
+       "label": "QUÁI KIỆT TẬP 20",
+       "target": [
+        0.75,
+        0.42
+       ]
+      },
+      {
+       "at": "3m",
+       "side": "L",
+       "y": 420,
+       "value": "BẮN XA 3M",
+       "label": "TIA NƯỚC NÉN CAO",
+       "target": [
+        0.25,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thứ hai, bộ não",
+     "image": "assets/long/L48.png",
+     "stickers": [
+      {
+       "at": "rãnh vòm miệng",
+       "side": "R",
+       "y": 390,
+       "value": "ĐẠI BÁC",
+       "label": "TÍNH TOÁN KHÚC XẠ",
+       "target": [
+        0.75,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "có nhận ra bóng đen",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phóng viên sinh tồn",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "03:00 RẠNG SÁNG"
+  }
+ }
+}

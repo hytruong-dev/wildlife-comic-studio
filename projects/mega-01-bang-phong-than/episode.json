@@ -1,0 +1,154 @@
+{
+ "_doc": "MEGA #01 — Bảng Phong Thần 10 quái kiệt (Tập 1-10). Chỉ chứa phần LỜI MỚI: scene01 mở đầu, scene02-10 cầu nối, scene11 kết + Shorts tổng hợp. Thân 10 tập cắt từ video đã đăng theo mega.json. Quy trình: docs/strategy/MEGA_COMPILATION.md",
+ "mega": 1,
+ "episode_no": 0,
+ "animal": "10 quái kiệt hoang dã",
+ "slug": "mega-01-bang-phong-than",
+ "format": "F_SPECIAL",
+ "persona": "giai_dau",
+ "nickname": "Đại Hội Sinh Tồn",
+ "sources": [
+  "Toàn bộ số liệu trong lời mới được lấy lại từ 10 tập đã đăng và đã kiểm chứng (xem episode.json / kịch bản từng tập trong projects/tap-01..tap-10)",
+  "Tập 1 Lửng Mật: kháng nọc rắn nhờ đột biến thụ thể acetylcholine, Stoffel vượt ngục (BBC)",
+  "Tập 4 Thú Mỏ Vịt: George Shaw 1798, không dạ dày, cựa độc, sữa tiết qua da",
+  "Tập 5 Chim Bồ Nông: túi mỏ ~13 lít, nuốt bồ câu ở St James's Park London",
+  "Tập 6 Gấu Nước: dài < 1mm, sống sót 5 lần đại tuyệt chủng, thí nghiệm FOTON-M3 2007 ngoài vũ trụ, chết vì chất nhờn ốc sên",
+  "Tập 7 Tôm Tít: bọt khí cavitation ~4.700°C, vụ đấm nứt kính thủy cung",
+  "Tập 8 Chồn Gulo: ~15kg, cướp mồi gấu xám ~300kg ở Yellowstone, răng hàm xoay 90 độ",
+  "Tập 9 Chim Cánh Cụt: trộm sỏi, chen lấn ở mép băng, bắn phân 1,34m (Ig Nobel 2005)",
+  "Tập 10 Gấu Koala: thí nghiệm đĩa lá, não 0,2% cơ thể, cháo Pap"
+ ],
+ "whisper_prompt": "Đại Hội Sinh Tồn, Vẽ Chuyện Hoang Dã, bảng phong thần, Hạng S, Hạng A, Lỗi Tạo Hóa, Tội Phạm, Gấu Koala, Thú Mỏ Vịt, Chim Bồ Nông, Capybara, Chim Cánh Cụt, Quý ông Vest Đuôi Tôm, Rái Cá Biển, Cá Heo, Chồn Gulo, Tôm Tít, Mike Tyson, Lửng Mật, Gấu Nước, Top 3",
+ "display_fix": {
+  "Mười quái kiệt": "10 quái kiệt",
+  "mười quái kiệt": "10 quái kiệt",
+  "Mười sinh vật": "10 sinh vật",
+  "Mười chiếc thẻ": "10 chiếc thẻ",
+  "cả mười": "cả 10",
+  "hạng mười": "hạng 10",
+  "Hạng mười": "Hạng 10",
+  "hạng chín": "hạng 9",
+  "Hạng chín": "Hạng 9",
+  "hạng tám": "hạng 8",
+  "Hạng tám": "Hạng 8",
+  "hạng bảy": "hạng 7",
+  "Hạng bảy, sáu và năm": "Hạng 7, 6 và 5",
+  "hạng sáu": "hạng 6",
+  "hạng năm": "hạng 5",
+  "hạng bốn": "hạng 4",
+  "Hạng bốn": "Hạng 4",
+  "Hạng ba": "Hạng 3",
+  "Hạng hai": "Hạng 2",
+  "hạng một": "hạng 1",
+  "Top ba": "Top 3",
+  "bốn tầng": "4 tầng",
+  "thế kỷ mười tám": "thế kỷ 18",
+  "mười ba lít": "13 lít",
+  "hơn một mét": "hơn 1m",
+  "mười lăm ki-lô-gam": "15kg",
+  "ba trăm ki-lô-gam": "300kg",
+  "hai mươi xăng-ti-mét": "20cm",
+  "hai mươi năm": "20 năm",
+  "một mi-li-mét": "1mm",
+  "năm lần": "5 lần",
+  "Cô-a-la": "Koala",
+  "Ca-pi-ba-ra": "Capybara",
+  "Gu-lô": "Gulo",
+  "Mai Tai-sơn": "Mike Tyson"
+ },
+ "voice": {},
+ "art": {
+  "decor": "golden stars, tiny crowns, confetti",
+  "thumb_badge": "TRỌN BỘ 10 TẬP",
+  "shorts_banner_lines": ["10 QUÁI KIỆT", "AI GIỮ NGÔI VƯƠNG?!"],
+  "shorts_mascot": "a small cute cartoon tardigrade (water bear, chubby eight-legged, pale beige) wearing a tiny golden crown and holding a small golden trophy",
+  "thumb_bg": "nền tím than đêm tối với sân khấu đại hội, đèn spotlight vàng chiếu xuống",
+  "thumb_title": ["TRỌN BỘ 10", "QUÁI KIỆT!"],
+  "thumb_scene": "một tấm bảng xếp hạng Tier List khổng lồ 4 hàng màu (vàng kim, đỏ cam, tím, xám) có các con vật hoạt hình ngồi trong từng hàng: hàng vàng trên cùng là Lửng Mật đeo kính đen, Tôm Tít giơ găng đấm và một chú Gấu Nước tí hon đội vương miện vàng đứng trên đỉnh bảng; hàng tím là Chim Cánh Cụt đeo nơ đỏ và Cá Heo cười gian",
+  "thumb_gag": "hàng xám dưới cùng: Gấu Koala mặc áo bệnh nhân và Thú Mỏ Vịt ôm nhau khóc dở mếu dở, Chim Bồ Nông há mỏ to bên cạnh"
+ },
+ "longform": {
+  "scenes": [
+   {"id": "scene01", "badge": "ĐẠI HỘI SINH TỒN", "banner_title": "XẾP HẠNG 10 QUÁI KIỆT", "chapter_title": "Mở đầu: Đại Hội Sinh Tồn xếp hạng 10 quái kiệt",
+    "hook": "10 QUÁI KIỆT – 1 NGÔI VƯƠNG", "mood": "tram_bi_an", "parts": [
+     {"text": "Mười sinh vật kỳ dị nhất từng bước qua kênh Vẽ Chuyện Hoang Dã... Mười chiếc thẻ bài đang úp ngược trên bàn. Và chỉ có một kẻ được ngồi lên ngôi vương.", "mood": "tram_bi_an"},
+     {"text": "Chào mừng toàn thể khán đài đến với Đại Hội Sinh Tồn lần thứ nhất! Hôm nay, chúng ta triệu tập cả mười quái kiệt vào chung một bảng phong thần. Một bên là những chiến thần có cú đấm nóng ngang Mặt Trời, và khả năng sống sót qua cả chân không vũ trụ. Một bên là băng đảng ngầm gian manh nhất đại dương. Còn góc kia... là những bệnh nhân tiến hóa lỗi, thà chết đói trước đĩa thức ăn còn hơn ăn lá đã bứt khỏi cành! [laughter]", "mood": "hao_hung"},
+     {"text": "Luật chơi rất đơn giản. Bảng phong thần có bốn tầng: Hạng S bất khả chiến bại, Hạng A chiến binh liều mạng, tầng Tội Phạm của thế giới ngầm, và tầng đáy... Lỗi Tạo Hóa! Hãy chuẩn bị đồ ăn nhẹ, vì trong hơn một giờ tới, chúng ta sẽ đếm ngược từ hạng mười lên tới ngôi vương hạng một. Và người mở màn là... một bệnh nhân đang ôm cây ngủ gật: Gấu Cô-a-la!", "mood": "don_dap"}
+    ]},
+   {"id": "scene02", "badge": "HẠNG 9", "banner_title": "TÁC PHẨM LẮP GHÉP KỲ DỊ", "chapter_title": "Cầu nối: Koala nhận hạng 10, gọi tên hạng 9",
+    "hook": "HỌC GIẢ TƯỞNG LÀ ĐỒ GIẢ", "mood": "hao_hung", "parts": [
+     {"text": "Bộ não phẳng như ức gà luộc, ăn cháo phân mẹ, nhịn đói trước đĩa lá. Không cần bàn cãi: Gấu Cô-a-la nhận huy hiệu hạng mười, tầng Lỗi Tạo Hóa! [laughter]", "mood": "hao_hung"},
+     {"text": "Ủa... hạng mười là cao hay thấp vậy ạ?", "cast": "chu_ngo_ngac"},
+     {"text": "Thấp nhất, bệnh nhân ạ. Nhưng đừng buồn, vì ứng cử viên hạng chín từng khiến các nhà khoa học thế kỷ mười tám tưởng là... đồ giả khâu bằng chỉ! Mỏ vịt, đuôi hải ly, đẻ trứng, tiết sữa như mồ hôi, và giấu nọc độc ở gót chân: Thú Mỏ Vịt!", "mood": "nghiem_trang_gia"}
+    ]},
+   {"id": "scene03", "badge": "HẠNG 8", "banner_title": "CỖ MÁY THAM ĂN VÔ ĐỘ", "chapter_title": "Cầu nối: Thú Mỏ Vịt lên bảng, gọi tên hạng 8",
+    "hook": "THẤY GÌ CŨNG HÁ MỎ KẸP THỬ", "mood": "hao_hung", "parts": [
+     {"text": "Không dạ dày, không răng, ăn cơm kèm sỏi... Thú Mỏ Vịt dán thẳng vào tầng Lỗi Tạo Hóa, ngay cạnh Cô-a-la! Hai bệnh nhân nhìn nhau... và chẳng ai hiểu gì cả. [laughter]", "mood": "hao_hung"},
+     {"text": "Nhưng nếu xét về độ phàm ăn bất chấp kích thước, không ai qua mặt được ứng cử viên hạng tám! Chiếc mỏ chứa mười ba lít nước, thấy gì cử động là há mỏ kẹp thử, từ chim bồ câu cho tới cả chuột lang nước Ca-pi-ba-ra: Chim Bồ Nông!", "mood": "don_dap"}
+    ]},
+   {"id": "scene04", "badge": "HẠNG 7", "banner_title": "TÒA ÁN TỘI PHẠM NGẦM", "chapter_title": "Cầu nối: Bồ Nông chốt tầng Lỗi Tạo Hóa, mở tầng Tội Phạm",
+    "hook": "BƯỚC VÀO THẾ GIỚI NGẦM", "mood": "tram_bi_an", "parts": [
+     {"text": "[sigh] Kẹp thử cả mèo nhà người ta, nuốt thử cả bồ câu giữa công viên... Chim Bồ Nông khép lại tầng Lỗi Tạo Hóa với danh hiệu: cái mồm không có phanh!", "mood": "bi_hai"},
+     {"text": "Và bây giờ... đèn phòng tắt dần. Chúng ta bước xuống tầng Tội Phạm của thế giới ngầm. Kẻ mở màn mặc bộ vest lịch lãm nhất Nam Cực, nhưng hồ sơ ghi rõ: trộm sỏi nhà hàng xóm, đẩy bạn xuống nước thử hải cẩu báo, và bắn phân xa hơn một mét! Ứng cử viên hạng bảy: Chim Cánh Cụt!", "mood": "tram_bi_an"}
+    ]},
+   {"id": "scene05", "badge": "HẠNG 6", "banner_title": "VỎ BỌC HOÀN HẢO NHẤT", "chapter_title": "Cầu nối: Cánh Cụt vào tầng Tội Phạm, gọi tên hạng 6",
+    "hook": "NẮM TAY NGỦ NHƯNG BẮT CÓC CON TIN", "mood": "nghiem_trang_gia", "parts": [
+     {"text": "Tòa xin nhắc lại: bị cáo vô tội... nhưng đến giờ vẫn chưa trả viên sỏi!", "cast": "tham_phan"},
+     {"text": "Chưa trả sỏi thì vẫn ngồi tầng Tội Phạm nhé, Quý ông Vest Đuôi Tôm! [laughter] Nhưng nếu chú cánh cụt đã làm sụp đổ hình tượng ngây thơ trong mắt bạn, thì bị cáo hạng sáu còn có vỏ bọc hoàn hảo hơn gấp bội. Đằng sau bức ảnh nắm tay nhau ngủ làm tan chảy hàng triệu trái tim, là một hồ sơ bắt cóc con tin để đòi tiền chuộc bằng hải sản. Mời bị cáo Rái Cá Biển!", "mood": "nghiem_trang_gia"}
+    ]},
+   {"id": "scene06", "badge": "HẠNG 5", "banner_title": "ÔNG TRÙM ĐẠI DƯƠNG", "chapter_title": "Cầu nối: Rái Cá vào tầng Tội Phạm, gọi tên hạng 5",
+    "hook": "NỤ CƯỜI KHÔNG BAO GIỜ TẮT", "mood": "don_dap", "parts": [
+     {"text": "Bắt cóc con tin! Cướp ván lướt sóng! Giấu búa đá dưới nách! Rái Cá Biển vào tầng Tội Phạm, không cần tranh luận! Nhưng dù ranh mãnh đến đâu, Rái Cá cũng chỉ là tay chơi đơn lẻ.", "mood": "don_dap"},
+     {"text": "Còn ứng cử viên hạng năm... tổ chức hẳn thành một băng đảng. Vây đánh cá mập trắng, chuyền cá nóc làm bóng chuyền, và lúc nào cũng nở một nụ cười... không bao giờ tắt. Ông trùm của đại dương: Cá Heo!", "mood": "tram_bi_an"}
+    ]},
+   {"id": "scene07", "badge": "HẠNG 4", "banner_title": "CHIẾN BINH LIỀU MẠNG XỨ TUYẾT", "chapter_title": "Cầu nối: Cá Heo chốt tầng Tội Phạm, mở Hạng A",
+    "hook": "15KG DÁM CƯỚP MỒI GẤU XÁM", "mood": "hao_hung", "parts": [
+     {"text": "Ông trùm Cá Heo chốt sổ tầng Tội Phạm, với nụ cười đáng sợ nhất biển khơi! [laughter] Từ đây trở lên, Đại Hội Sinh Tồn không còn trò hề, không còn mánh khóe. Chúng ta bước vào Hạng A: những chiến binh đánh nhau bằng cả mạng sống.", "mood": "hao_hung"},
+     {"text": "Nặng chỉ mười lăm ki-lô-gam! Dám cướp mồi của gấu xám ba trăm ki-lô-gam! Răng hàm xoay ngang để nhai cả xương đông đá! Bị vây thì xịt một mùi hôi khiến cả bầy sói bỏ đi! Ứng cử viên hạng bốn, gã liều mạng xứ tuyết: Chồn Gu-lô!", "mood": "don_dap"}
+    ]},
+   {"id": "scene08", "badge": "TOP 3 HẠNG S", "banner_title": "BÁO ĐỘNG ĐỎ: MỞ KHÓA TOP 3", "chapter_title": "Cầu nối: Chồn Gulo giữ Hạng A, mở khóa Top 3",
+    "hook": "CÚ ĐẤM NÓNG NGANG MẶT TRỜI", "mood": "don_dap", "parts": [
+     {"text": "Một mình đuổi cả gấu lẫn sói, Chồn Gu-lô xứng đáng ngồi đầu bảng Hạng A!", "mood": "hao_hung"},
+     {"text": "Báo động đỏ! Báo động đỏ! Top ba Hạng S đã được mở khóa!", "cast": "phat_thanh_vien"},
+     {"text": "Đúng vậy, toàn thể khán đài! Ba cái tên cuối cùng đã vượt qua mọi giới hạn vật lý. Mở màn Top ba là một võ sĩ dài chưa tới hai mươi xăng-ti-mét, nhưng cú đấm tạo ra bọt khí nóng gần bằng bề mặt Mặt Trời, đủ sức đấm nứt cả kính bể cá! Hạng ba, Mai Tai-sơn của đại dương: Tôm Tít!", "mood": "don_dap"}
+    ]},
+   {"id": "scene09", "badge": "HẠNG 2", "banner_title": "Á QUÂN: GÃ CHÍ PHÈO CHÂU PHI", "chapter_title": "Cầu nối: Tôm Tít nhận Hạng S, gọi tên á quân",
+    "hook": "BỊ RẮN HỔ MANG CẮN VẪN ĂN NỐT CON RẮN", "mood": "hao_hung", "parts": [
+     {"text": "Một võ sĩ đấm vỡ cả vỏ ốc, nhưng lại là ông chồng chung thủy suốt hai mươi năm! Tôm Tít nhận huy hiệu Hạng S đầu tiên. [laughter] Nhưng nếu Tôm Tít là bá chủ đòn đánh dưới đáy biển, thì ngôi á quân trên mặt đất phải gọi tên ông anh họ của Chồn Gu-lô: gã giang hồ lưng bạc không biết sợ ai trên thảo nguyên châu Phi!", "mood": "hao_hung"},
+     {"text": "Bị rắn hổ mang cắn, lăn ra ngủ vài tiếng, tỉnh dậy... ăn nốt con rắn! Vượt ngục bằng cành cây, bằng đá, bằng cả cái chổi của nhân viên! Hạng hai: Lửng Mật!", "mood": "don_dap"}
+    ]},
+   {"id": "scene10", "badge": "HẠNG S+", "banner_title": "NGÔI VƯƠNG BẤT TỬ", "chapter_title": "Cầu nối: Lửng Mật á quân, lộ diện nhà vô địch",
+    "hook": "SỐNG SÓT CẢ NGOÀI VŨ TRỤ", "mood": "tram_bi_an", "parts": [
+     {"text": "Lửng Mật bất bại trước nọc rắn và nanh vuốt sư tử. Nhưng nếu một quả thiên thạch rơi xuống... nó vẫn sẽ bị xóa sổ. Chỉ còn đúng một chiếc ghế trên đỉnh tháp. Một chiếc ghế phát sáng... ngoài không gian.", "mood": "tram_bi_an"},
+     {"text": "Kẻ ngồi trên đó dài chưa tới một mi-li-mét, sống sót qua cả năm lần đại tuyệt chủng, từng bị thả trần trụi ngoài vũ trụ mà vẫn sống... nhưng có thể chết lãng xẹt vì một con ốc sên bò ngang qua! [laughter] Nhà vô địch Đại Hội Sinh Tồn lần thứ nhất: Gấu Nước!", "mood": "hao_hung"}
+    ]},
+   {"id": "scene11", "badge": "TRAO VƯƠNG MIỆN", "banner_title": "BẢNG PHONG THẦN CUỐI CÙNG", "chapter_title": "Bảng phong thần cuối cùng & lễ trao vương miện",
+    "hook": "BẠN XẾP AI LÊN NGÔI VƯƠNG?", "mood": "hao_hung", "parts": [
+     {"text": "Và đây là bảng phong thần cuối cùng của Đại Hội Sinh Tồn! Tầng Lỗi Tạo Hóa: Cô-a-la, Thú Mỏ Vịt, Bồ Nông. Tầng Tội Phạm: Cánh Cụt, Rái Cá, Cá Heo. Hạng A: Chồn Gu-lô. Hạng S: Tôm Tít và Lửng Mật. Và trên đỉnh tháp, đội chiếc vương miện bé xíu: Gấu Nước! [laughter]", "mood": "hao_hung"},
+     {"text": "Còn bạn thì sao? Bạn sẽ đưa ai lên ngôi vương, và ai đáng bị giáng xuống tầng Lỗi Tạo Hóa? Hãy viết bảng xếp hạng của riêng bạn ở phần bình luận nhé. Đại hội lần sau, mười quái kiệt mới sẽ mang theo cả một kho vũ khí sinh học... và lần này, chẳng ai chịu đứng hạng mười đâu!", "mood": "am_ap"}
+    ]}
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "don_dap",
+  "text": "[surprise-oh] Mười quái kiệt. Một chiếc vương miện. Không có hòa! Hạng mười: Gấu Cô-a-la, thà chết đói trước đĩa lá vì não không nhận ra đó là đồ ăn! [laughter] Hạng chín: Thú Mỏ Vịt, không dạ dày, ăn cơm với sỏi. Hạng tám: Bồ Nông, thấy gì cũng há mỏ kẹp thử, từ bồ câu cho tới cả chú Ca-pi-ba-ra đang ngồi thiền! Hạng bảy, sáu và năm là băng tội phạm: Cánh Cụt trộm sỏi, Rái Cá bắt cóc con tin, Cá Heo chuyền cá nóc làm bóng chuyền! Hạng bốn: Chồn Gu-lô mười lăm ki-lô-gam dám cướp mồi của gấu xám! [surprise-wa] Top ba Hạng S: Tôm Tít có cú đấm nóng ngang Mặt Trời, Lửng Mật bị rắn hổ mang cắn vẫn tỉnh dậy ăn nốt con rắn! Nhưng cả hai vẫn phải ngước nhìn lên một chiếc ngai bé xíu... Và ngôi vương thuộc về một sinh vật dài chưa tới một mi-li-mét, sống sót cả ngoài vũ trụ: Gấu Nước! [question-ah] Bạn có đồng ý với bảng xếp hạng này không? Xem trọn bộ đại hội trong video dài, vì ở đây chỉ có... mười quái kiệt, một chiếc vương miện, và không có hòa!"
+ },
+ "seo": {
+  "title": "[TRỌN BỘ {MINUTES} PHÚT] Xếp Hạng 10 Sinh Vật Điên Rồ Nhất Hành Tinh: Ai Giữ Ngôi Vương?",
+  "hook_paragraph": "Điều gì xảy ra khi 10 sinh vật kỳ dị nhất kênh Vẽ Chuyện Hoang Dã bị triệu tập vào chung một bảng xếp hạng sinh tồn? Từ Gấu Koala thà nhịn đói trước đĩa lá, Thú Mỏ Vịt ăn cơm với sỏi, băng tội phạm Cánh Cụt – Rái Cá – Cá Heo, cho tới Top 3 Hạng S: Tôm Tít đấm nóng ngang Mặt Trời, Lửng Mật ăn nốt con rắn hổ mang và Gấu Nước sống sót ngoài vũ trụ! Trọn bộ 10 tập trong một video — bật lên lúc ăn cơm hay trước khi ngủ đều hợp.",
+  "bullets": [
+   "Lỗi Tạo Hóa: Gấu Koala (hạng 10), Thú Mỏ Vịt (hạng 9), Chim Bồ Nông (hạng 8)",
+   "Tội Phạm Thế Giới Ngầm: Chim Cánh Cụt (hạng 7), Rái Cá Biển (hạng 6), Cá Heo (hạng 5)",
+   "Hạng A – Chiến Binh Liều Mạng: Chồn Gulo (hạng 4)",
+   "Hạng S: Tôm Tít (hạng 3), Lửng Mật (hạng 2) — Hạng S+ Ngôi Vương: Gấu Nước (hạng 1)"
+  ],
+  "question": "Bạn có đồng ý với bảng xếp hạng này không? Hãy viết Top 3 của riêng bạn ở phần bình luận!",
+  "next_teaser": "Đại Hội #02 — 10 vũ khí sinh học điên rồ nhất tự nhiên",
+  "hashtags": ["#VeChuyenHoangDa", "#TheGioiDongVat", "#XepHang", "#DongVatKyLa", "#KhoaHoc"],
+  "tags": ["vẽ chuyện hoang dã", "thế giới động vật", "xếp hạng động vật", "tier list động vật", "trọn bộ", "tổng hợp động vật", "động vật kỳ lạ", "lửng mật", "gấu nước", "tôm tít", "gấu koala", "thú mỏ vịt", "chim cánh cụt", "rái cá biển", "cá heo", "chồn gulo", "chim bồ nông", "whiteboard animation", "khoa học thú vị", "nghe trước khi ngủ"],
+  "shorts_title": "10 Quái Kiệt – Ai Giữ Ngôi Vương?! 👑 #shorts #dongvat",
+  "shorts_desc": "Xếp hạng 10 sinh vật kỳ dị nhất kênh Vẽ Chuyện Hoang Dã trong 50 giây — từ Gấu Koala nhịn đói trước đĩa lá đến nhà vô địch sống sót cả ngoài vũ trụ! 👑\n👉 Xem trọn bộ Đại Hội Sinh Tồn — video tổng hợp trên kênh Vẽ Chuyện Hoang Dã.",
+  "shorts_tags": ["xếp hạng động vật", "tier list", "shorts", "thế giới động vật", "vẽ chuyện hoang dã", "động vật kỳ lạ"]
+ }
+}

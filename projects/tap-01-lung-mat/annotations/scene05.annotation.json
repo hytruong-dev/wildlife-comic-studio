@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "sceneDurationMs": 109498,
+  "elements": [
+    {
+      "id": "s05_header",
+      "region": {
+        "x": 291,
+        "y": 10,
+        "width": 698,
+        "height": 41
+      },
+      "reveal": {
+        "startMs": 0,
+        "durationMs": 2000
+      }
+    },
+    {
+      "id": "s05_left",
+      "region": {
+        "x": 20,
+        "y": 64,
+        "width": 608,
+        "height": 642
+      },
+      "reveal": {
+        "startMs": 2000,
+        "durationMs": 53000
+      }
+    },
+    {
+      "id": "s05_right",
+      "region": {
+        "x": 652,
+        "y": 64,
+        "width": 608,
+        "height": 642
+      },
+      "reveal": {
+        "startMs": 55000,
+        "durationMs": 54498
+      }
+    }
+  ]
+}

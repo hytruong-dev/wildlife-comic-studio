@@ -1,0 +1,448 @@
+{
+ "episode": "tap-32-chuot-chui-trui",
+ "title_lines": [
+  "CHUỘT XẤU XÍ NHẤT:",
+  "MIỄN NHIỄM 100% UNG THƯ?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 49.03,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-32-chuot-chui-trui_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  4.21,
+  7.21,
+  12.27,
+  16.13,
+  22.71,
+  28.97,
+  33.29,
+  38.51,
+  42.33,
+  47.69
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.0,
+     "text": "Cảnh báo sinh"
+    },
+    {
+     "t": 0.72,
+     "text": "học cấp độ năm!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 2.41,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 2.66,
+     "text": "Tại sao loài"
+    },
+    {
+     "t": 3.14,
+     "text": "chuột xấu xí"
+    },
+    {
+     "t": 3.8,
+     "text": "nhăn nheo như"
+    },
+    {
+     "t": 4.42,
+     "text": "củ khoai tây"
+    },
+    {
+     "t": 5.02,
+     "text": "luộc này"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 5.41,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 5.66,
+     "text": "lại miễn nhiễm"
+    },
+    {
+     "t": 6.3,
+     "text": "hoàn toàn với"
+    },
+    {
+     "t": 6.86,
+     "text": "bệnh ung thư"
+    },
+    {
+     "t": 7.4,
+     "text": "và sống sót"
+    },
+    {
+     "t": 8.04,
+     "text": "18 phút không"
+    },
+    {
+     "t": 8.88,
+     "text": "cần một giọt"
+    },
+    {
+     "t": 9.42,
+     "text": "oxy nào?"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 10.47,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 10.72,
+     "text": "Đây là Chuột"
+    },
+    {
+     "t": 11.22,
+     "text": "Chũi Trũi Đông"
+    },
+    {
+     "t": 11.84,
+     "text": "Phi, siêu dị"
+    },
+    {
+     "t": 12.94,
+     "text": "nhân bất tử"
+    },
+    {
+     "t": 13.56,
+     "text": "dưới lòng đất!"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 14.33,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 16.76,
+     "side": "R",
+     "y": 820,
+     "value": "37 NĂM",
+     "label": "không mắc ung thư",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 14.58,
+     "text": "Khi các nhà"
+    },
+    {
+     "t": 15.06,
+     "text": "khoa học theo"
+    },
+    {
+     "t": 15.52,
+     "text": "dõi hàng ngàn"
+    },
+    {
+     "t": 16.08,
+     "text": "cá thể suốt"
+    },
+    {
+     "t": 16.76,
+     "text": "37 năm,"
+    },
+    {
+     "t": 17.9,
+     "text": "họ sững sờ"
+    },
+    {
+     "t": 18.54,
+     "text": "khi thấy chúng"
+    },
+    {
+     "t": 19.02,
+     "text": "gần như không"
+    },
+    {
+     "t": 19.68,
+     "text": "bao giờ mắc"
+    },
+    {
+     "t": 20.24,
+     "text": "ung thư."
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 20.91,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 26.66,
+     "side": "L",
+     "y": 820,
+     "value": "GẤP 5 LẦN",
+     "label": "siêu keo phân tử",
+     "target": [
+      0.45,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 21.16,
+     "text": "Bí mật nằm"
+    },
+    {
+     "t": 21.84,
+     "text": "ở chỗ tế"
+    },
+    {
+     "t": 22.22,
+     "text": "bào của chúng"
+    },
+    {
+     "t": 22.76,
+     "text": "tiết ra một"
+    },
+    {
+     "t": 23.3,
+     "text": "chất siêu keo"
+    },
+    {
+     "t": 23.94,
+     "text": "tên là Hyaluronic"
+    },
+    {
+     "t": 25.18,
+     "text": "Acid có phân"
+    },
+    {
+     "t": 26.14,
+     "text": "tử nặng gấp"
+    },
+    {
+     "t": 26.66,
+     "text": "5 lần con"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 27.17,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 27.16,
+     "text": "người! Lớp siêu"
+    },
+    {
+     "t": 28.28,
+     "text": "keo này kết"
+    },
+    {
+     "t": 28.78,
+     "text": "hợp cùng bộ"
+    },
+    {
+     "t": 29.32,
+     "text": "khóa gen kép"
+    },
+    {
+     "t": 29.78,
+     "text": "p16 và p27,"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 31.49,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 31.74,
+     "text": "tạo thành chiếc"
+    },
+    {
+     "t": 32.44,
+     "text": "lồng sắt khóa"
+    },
+    {
+     "t": 33.3,
+     "text": "chặt và bóp"
+    },
+    {
+     "t": 33.9,
+     "text": "nghẹt mọi tế"
+    },
+    {
+     "t": 34.46,
+     "text": "bào khối u"
+    },
+    {
+     "t": 35.1,
+     "text": "ngay từ khi"
+    },
+    {
+     "t": 35.94,
+     "text": "mới chớm!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 36.71,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 38.78,
+     "side": "L",
+     "y": 780,
+     "value": "0% OXY",
+     "label": "buồng kín khí",
+     "target": [
+      0.35,
+      0.5
+     ]
+    },
+    {
+     "t": 39.88,
+     "side": "R",
+     "y": 880,
+     "value": "18 PHÚT",
+     "label": "vẫn sống khỏe",
+     "target": [
+      0.65,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 36.96,
+     "text": "Chưa hết,"
+    },
+    {
+     "t": 37.78,
+     "text": "khi bị nhốt"
+    },
+    {
+     "t": 38.18,
+     "text": "trong hầm kín"
+    },
+    {
+     "t": 38.78,
+     "text": "0% oxy suốt"
+    },
+    {
+     "t": 39.88,
+     "text": "18 phút,"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 40.53,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 40.78,
+     "text": "nó lập tức"
+    },
+    {
+     "t": 41.18,
+     "text": "biến hình thành"
+    },
+    {
+     "t": 41.68,
+     "text": "thực vật,"
+    },
+    {
+     "t": 42.38,
+     "text": "đốt đường trái"
+    },
+    {
+     "t": 42.84,
+     "text": "cây Fructose để"
+    },
+    {
+     "t": 44.1,
+     "text": "nuôi não bộ"
+    },
+    {
+     "t": 44.68,
+     "text": "mà chẳng cần"
+    },
+    {
+     "t": 45.12,
+     "text": "hít thở!"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 45.89,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 46.14,
+     "text": "Một kiệt tác"
+    },
+    {
+     "t": 46.68,
+     "text": "y sinh học"
+    },
+    {
+     "t": 47.12,
+     "text": "giúp nó sống"
+    },
+    {
+     "t": 47.78,
+     "text": "thọ tới 37 năm!"
+    }
+   ]
+  }
+ ]
+}

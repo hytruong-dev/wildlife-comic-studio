@@ -1,0 +1,242 @@
+{
+ "episode_no": 49,
+ "animal": "Nhím Lông Nhọn",
+ "slug": "tap-49-nhim-long-nhon",
+ "format": "F2",
+ "persona": "ky_su_vu_khi",
+ "_angle_from_roadmap": "Giải mã 30.000 mũi tên ngạnh ngược: Không bắn từ xa nhưng đầu lông tự rút sâu vào thịt báo hoa mai kèm lớp mỡ kháng sinh.",
+ "_shorts_idea_from_roadmap": "Tại sao chỉ một chiếc lông nhím cắm vào mõm cũng đủ hạ gục cả báo hoa mai?",
+ "nickname": "Pháo Đài Tự Hành",
+ "sources": [
+  "Cho et al. 2012, PNAS — Cấu trúc vi ngạnh ngược làm giảm 54% lực đâm và tăng gấp 3 lực rút của lông nhím",
+  "Roze 2009, The North American Porcupine — Lớp mỡ axit béo kháng sinh tự nhiên trên lông nhím",
+  "Curtis 1938, Journal of Mammalogy — Giải phẫu gốc lông và khả năng tháo rời thụ động"
+ ],
+ "whisper_prompt": "Nhím Lông Nhọn, Erethizon dorsatum",
+ "display_fix": {
+  "ba mươi ngàn": "30.000",
+  "Ba mươi ngàn": "30.000",
+  "năm mươi tư phần trăm": "54%",
+  "ba lần": "3 lần",
+  "ba mươi xăng-ti-mét": "30cm",
+  "mười ki-lô-gam": "10kg",
+  "một mi-li-mét": "1mm",
+  "hai mươi tư giờ": "24h",
+  "bốn mươi cây số": "40km/h",
+  "bảy trăm đến tám trăm": "700-800",
+  "tám trăm": "800",
+  "mười mét": "10m",
+  "tám trăm ki-lô-gam": "800kg",
+  "bốn mươi lăm độ": "45°",
+  "mười đến hai mươi mi-crô-mét": "10-20 µm",
+  "bốn mi-li-mét": "4mm",
+  "năm phần trăm": "5%",
+  "không phẩy một giây": "0.1s",
+  "không phẩy ba gam": "0.3g"
+ },
+ "voice": {
+  "speed": 1.05,
+  "tempo_long": 1.12
+ },
+ "art": {
+  "decor": "carbon black weapon blueprints, microscopic SEM quill barbs, hazard yellow warning signs, industrial caliper dials",
+  "shorts_mascot": "A clever cartoon porcupine wearing an engineer welding helmet holding a high-tech microscopic barbed spear",
+  "thumb_bg": "Dark tactical charcoal workshop with yellow laser holographic blueprints of a quill arrow with backward barbs",
+  "thumb_title": [
+   "30.000 MŨI TÊN",
+   "TỰ RÚT SÂU?!"
+  ],
+  "thumb_scene": "Terrified cartoon leopard clutching its nose pierced with a glowing porcupine quill as cartoon porcupine smirks",
+  "thumb_gag": "A tiny engineer mouse holding a magnifying glass inspecting microscopic barbed fishhooks on the quill tip"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "SƠ ĐỒ VŨ KHÍ",
+    "banner_title": "KHO VŨ KHÍ 30.000 MŨI TÊN",
+    "chapter_title": "Bản vẽ pháo đài rải gai sống",
+    "hook": "PHÁO ĐÀI GAi TỰ ĐỘNG BỎNG MÔN",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Chào mừng toàn thể các chuyên gia vũ khí đạn đạo và các kỹ sư sinh học đã quay trở lại với xưởng giải mã công nghệ quốc phòng tự nhiên! Hãy nhìn vào buồng thử nghiệm vật liệu đằng kia xem, một cỗ máy bọc thép sinh học nhỏ gọn nặng vỏn vẹn mười ki-lô-gam đang lững thững bước đi với vẻ bất cần đời. Nó không cần hàm răng nanh sắc nhọn như hổ dữ, cũng chẳng cần tốc độ bứt phá bốn mươi cây số một giờ như linh dương. Toàn bộ lưng và đuôi của nó được bọc kín bởi một kho vũ khí di động gồm ba mươi ngàn mũi tên chết chóc. Dân gian gọi nó là Nhím Lông Nhọn, nhưng trên bàn thiết kế đạn đạo quân sự của chúng tôi, đây đích thị là Pháo Đài Tự Hành sở hữu công nghệ bẫy chông phản công tàn khốc nhất từng được ghi nhận trong lịch sử! Mỗi bước đi của nó chậm rãi, ung dung và điềm tĩnh như thể toàn bộ thế giới dã thú ngoài kia chẳng có lấy một thứ gì đủ tư cách làm nó phải bận tâm lo sợ.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Báo cáo chỉ huy trưởng, phim hoạt hình thường vẽ con nhím này có thể bắn lông vèo vèo như cung tên từ xa đúng không ạ?",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[laughter] Một quan niệm sai lầm kinh điển suốt nhiều thế kỷ đấy cô trợ lý ơi! [surprise-oh] Pháo Đài Tự Hành hoàn toàn không hề có cơ chế lò xo hay khí nén nào để phóng lông từ xa như những mũi tên bắn tỉa. Nhưng cơ chế thực tế của nó còn nguy hiểm gấp vạn lần trò bắn tỉa vu vơ ấy! Lông của nó là những chiếc mũi lao ngạnh ngược thụ động, chỉ cần chạm khẽ là tự tách gốc và tự động di chuyển sâu vào thớ thịt của kẻ địch như một mũi khoan cơ học tự động. Ngay bây giờ, hãy đeo kính bảo hộ và cùng chúng tôi đưa một chiếc lông nhím lên kính hiển vi điện tử quét để bóc trần bí mật cơ khí vi mô này! Chỉ cần một kẻ đi săn dại dột đưa mõm lại gần ngửi ngửi, chiếc đuôi ngắn ngủn nặng trịch của nó sẽ quất ra một cú chớp nhoáng khiến hàng trăm mũi giáo cắm phập vào mũi đối phương trong sự ngỡ ngàng tột độ.",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "VI NGẠNH NGƯỢC SEM",
+    "banner_title": "GIẢM 54% LỰC ĐÂM VÀO THỊT",
+    "chapter_title": "Công nghệ ngạnh móc microscopic",
+    "hook": "LƯỠI LAO XUYÊN THỦNG VÀ KHÓA CHẶT",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Dưới độ phóng đại hàng ngàn lần của kính hiển vi điện tử quét SEM, phần đầu của chiếc lông nhím dài ba mươi xăng-ti-mét này không hề trơn nhẵn như một cây kim may vá thông thường. Ở khoảng bốn mi-li-mét ngoài cùng phần mũi nhọn, bề mặt được bao phủ bởi từ bảy trăm đến tám trăm vẩy ngạnh ngược microscopic xếp lớp gối lên nhau giống hệt như vẩy cá hay những chiếc mũi móc câu sắc lẹm. Các nhà khoa học vật liệu tại Đại học Harvard đã phát hiện ra một điều kỳ diệu làm chấn động giới kỹ thuật cơ khí quốc tế! Những chiếc vẩy ngạnh này có kích thước siêu nhỏ chỉ khoảng mười đến hai mươi mi-crô-mét, xếp nghiêng một góc bốn mươi lăm độ hoàn hảo hướng về phía chuôi lông.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Trời ơi kính hiển vi phóng to nhìn gai góc ghê rợn quá, trông y như bầy dao găm thu nhỏ vậy các bác ơi!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Khi đâm vào da thịt kẻ thù, các lớp ngạnh ngược này nép chặt vào thân lông theo chiều xuôi, hoạt động như những lưỡi dao rọc thu nhỏ tập trung ứng suất vào một điểm cực hẹp. Nhờ cơ chế thông minh này, lực cần thiết để chiếc lông đâm thủng lớp da dày của thú dữ giảm tới năm mươi tư phần trăm so với một cây kim thép y tế thông thường! Tức là chỉ cần một cú quất nhẹ từ chiếc đuôi của Pháo Đài Tự Hành, hàng chục mũi tên đã dễ dàng cắm sâu xuyên qua da thịt đối phương mà hầu như không gặp phải bất kỳ lực cản đáng kể nào. Cơ chế tập trung ứng suất này làm cho các mô thịt xung quanh bị rẽ sang hai bên một cách êm ái mà không bị dập nát, giúp mũi tên lướt vào bên trong sâu thẳm như một nhát dao rọc giấy đi qua lớp bơ mềm.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Nhưng bi kịch thực sự chỉ bắt đầu khi con thú săn mồi tìm cách nhổ chiếc lông ra! Ngay khoảnh khắc có lực kéo ngược ra ngoài, hàng trăm chiếc vẩy ngạnh ngược lập tức xòe bung ra và móc chặt vào các thớ cơ thịt xung quanh. Lực cần thiết để rút chiếc lông này ra tăng vọt lên gấp ba lần so với lực đâm vào! Càng cố giật mạnh, các ngạnh móc càng xé toạc mô thịt, gây ra cơn đau đớn tột cùng và chảy máu dữ dội, biến chiếc lông thành một chiếc neo sắt vĩnh viễn khóa chặt bên trong cơ thể con mồi. Đây chính là nguyên lý của lưỡi câu cá cổ xưa nhưng đã được tự nhiên hoàn thiện đến cấp độ hiển vi phân tử, khiến mọi nỗ lực dùng móng vuốt hay cọ mõm vào gốc cây của con thú chỉ làm chiếc lông bị gãy thân và cắm chặt hơn vào thịt.",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "CƠ CHẾ TỰ RÚT SÂU",
+    "banner_title": "TỰ DI CHUYỂN 1MM MỖI GIỜ",
+    "chapter_title": "Mũi khoan sinh học di động",
+    "hook": "ĐI XUYÊN TIM PHỔI BÁO HOA MAI",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Bây giờ mới là cơ chế sát thương tinh vi và tàn độc nhất khiến loài báo hoa mai và sư tử châu Phi phải kinh hồn bạt vía. Sau khi chiếc lông cắm vào thịt và gãy gốc, nó không hề nằm yên một chỗ. Các chuyển động co bóp cơ bắp tự nhiên của con thú săn mồi khi di chuyển hay thở sẽ vô tình kích hoạt hệ thống bánh cóc một chiều của các ngạnh ngược. Do các ngạnh chỉ cho phép chiếc lông trượt theo chiều tiến lên mà không thể tụt lùi, mỗi cú co cơ của con vật bị nạn sẽ đẩy chiếc lông nhọn tự rút sâu hơn vào bên trong với tốc độ khoảng một mi-li-mét mỗi giờ! Đây chính là cơ chế bánh cóc sinh học tự nhiên tinh xảo nhất từng được phát hiện trên cơ thể sinh vật, biến chính năng lượng cử động của nạn nhân thành động cơ đẩy đưa vũ khí hủy diệt vào sâu trong lục phủ ngũ tạng.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ủa các bác kỹ sư ơi, vậy nếu bị cắm vào mõm thì chiếc lông đó sẽ chui đi đâu mất tiêu luôn hả?",
+      "cast": "be_con"
+     },
+     {
+      "text": "[laughter] Câu hỏi rất hay của bé con đấy! [surprise-oh] Chiếc lông nhọn sẽ từ từ xuyên thủng các lớp cơ má, đâm xuyên qua vòm họng, thậm chí di chuyển sâu vào trong lồng ngực làm thủng phổi hoặc đâm rách tâm thất của tim! Đã có rất nhiều ghi nhận thực địa về những con báo hoa mai trưởng thành khỏe mạnh bị chết đói thảm khốc chỉ vì vài chiếc lông nhím cắm sâu vào hàm dưới làm nhiễm trùng mưng mủ, khiến miệng sưng to biến dạng không thể nào há ra để nhai thịt được nữa. Một đòn trả đũa tàn nhẫn được lập trình để kết liễu kẻ săn mồi sau nhiều ngày hành hạ! Những kẻ săn mồi khát máu như báo sư tử hay chó sói đồng cỏ một khi dính phải bẫy chông này thường phải trải qua những tuần lễ đau đớn tột cùng trước khi bị cướp đi hơi thở cuối cùng trong sự bất lực.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Đặc biệt hơn nữa, phần gốc của lông nhím nối với nang lông rất lỏng lẻo. Lớp màng cơ dưới da của Pháo Đài Tự Hành có khả năng chủ động co thắt để dựng đứng toàn bộ ba mươi ngàn mũi tên lên khi bị đe dọa, tạo ra tiếng xào xạc đanh thép cảnh báo. Khi kẻ địch chạm phải, các sợi lông này sẽ tự động tách rời khỏi gốc một cách êm ái, chuyển giao toàn bộ gánh nặng vũ khí sang cơ thể đối thủ mà không làm tổn thương dù chỉ một tế bào biểu bì của chú nhím! Hệ thống cơ dựng lông này được điều khiển bởi các xung thần kinh cực kỳ nhạy bén, chỉ mất chưa đầy không phẩy một giây để chuyển từ trạng thái nằm xuôi sang tư thế pháo đài xòe gai sẵn sàng nghênh chiến.",
+      "mood": "don_dap"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "LỚP MỠ KHÁNG SINH",
+    "banner_title": "ÁO BẢO HỘ KHÁNG KHUẨN TỰ NHIÊN",
+    "chapter_title": "Thuốc kháng sinh quét trên mũi tên",
+    "hook": "TỰ CHỮA LÀNH KHI NGÃ CÂY",
+    "mood": "nghiem_trang_gia",
+    "parts": [
+     {
+      "text": "Có một nghịch lý kỹ thuật vô cùng hóc búa được đặt ra cho ban thiết kế sinh học: Nếu mang trên mình ba mươi ngàn mũi tên chết chóc có ngạnh ngược nguy hiểm như vậy, làm thế nào để Pháo Đài Tự Hành không vô tình tự đâm chết chính mình trong những sinh hoạt hàng ngày? Loài nhím này rất thích leo trèo lên những cành cây cao để gặm vỏ cây non và ăn quả ngọt, nhưng chúng lại nổi tiếng là những kẻ vụng về, thường xuyên bị trượt chân và ngã từ trên ngọn cây cao chót vót xuống mặt đất đá lởm chởm. Trọng lượng mười ki-lô-gam với đôi chân ngắn cũn cỡn khiến những bước leo trèo trên các cành cây sồi hay phong cao vút luôn tiềm ẩn rủi ro té ngã cực kỳ cao đối với cỗ máy bọc thép này.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Khi ngã từ trên cao xuống, không ít lần những chiếc lông nhọn của chính nó bị gãy gập và đâm ngược vào đùi hoặc bụng của nó. Nhưng kỳ diệu thay, các vết thương này hầu như không bao giờ bị nhiễm trùng hay mưng mủ! Các nhà hóa sinh học phát hiện ra rằng, bao phủ bên ngoài mỗi chiếc lông nhím là một lớp màng axit béo tự nhiên đậm đặc, chứa các hợp chất kháng khuẩn cực mạnh có khả năng tiêu diệt hoàn toàn các loại vi khuẩn gram dương nguy hiểm. Lớp mỡ kháng sinh này hoạt động như một loại thuốc mỡ bôi vết thương được quét sẵn lên từng mũi tên! Lớp mỡ kháng khuẩn này gồm hỗn hợp các chuỗi axit béo tự do phức tạp, có khả năng ức chế màng tế bào của các loại vi khuẩn nguy hiểm nhất như tụ cầu vàng hay liên cầu khuẩn trong môi trường tự nhiên.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Khi chiếc lông đâm vào chính cơ thể nó, lớp mỡ kháng khuẩn lập tức khử trùng vết thương tại chỗ, giúp mô thịt tự co lại và phục hồi nhanh chóng mà không gây nguy hiểm tính mạng. Thiên nhiên không chỉ trang bị cho Pháo Đài Tự Hành một kho vũ khí công phá hàng đầu, mà còn chu đáo dán sẵn tem bảo hiểm y tế tự động cho người sử dụng, đảm bảo tính an toàn tuyệt đối cho người lính mang vũ khí trong mọi tình huống rủi ro nghề nghiệp! Nhờ có lớp lá chắn hóa học này, những con nhím dù bị hàng chục vết đâm thủng do chính lông của mình gây ra khi rơi từ độ cao mười mét vẫn thong thả đứng dậy, phủi bụi và tiếp tục kiếm ăn như chưa từng có chuyện gì xảy ra.",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "LÕI XỐP BỌC THÉP",
+    "banner_title": "CẤU TRÚC KEVLAR RỖNG NHẸ",
+    "chapter_title": "Kiến trúc vật liệu composite",
+    "hook": "BẬP BỀNH NHƯ PHAO CỨU SINH",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Hãy cầm một nắm lông nhím lên tay và các bạn sẽ phải kinh ngạc trước trọng lượng của chúng! Ba mươi ngàn mũi tên bọc kín toàn thân nhưng tổng khối lượng của chúng chỉ chiếm chưa đầy năm phần trăm trọng lượng cơ thể chú nhím. Nếu những chiếc lông này là những thanh xương đặc cứng, Pháo Đài Tự Hành sẽ bị đè bẹp dí dưới sức nặng của chính mình và không thể nào nhấc nổi bốn chân để di chuyển. Bí quyết nằm ở cấu trúc vật liệu rỗng bên trong thân lông! Một chuẩn mực trọng lượng vàng mà các kỹ sư chế tạo áo giáp chống đạn quân sự hiện đại luôn khao khát đạt được nhưng vẫn chưa thể tối ưu hóa trọn vẹn như thiên nhiên.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Cắt ngang thân của một chiếc lông, chúng ta sẽ thấy một lớp vỏ ngoài bằng chất sừng keratin cực kỳ cứng cáp và chịu lực uốn nắn tuyệt vời. Nhưng bên trong lòng ống lại là một ma trận bọt xốp khí rỗng li ti, đan xen nhau theo cấu trúc tổ ong tổ mối. Cấu trúc composite này vừa tối ưu hóa độ cứng chống cong vênh khi va đập, vừa biến từng chiếc lông thành một khoang chứa khí tí hon. Nhờ có hàng chục ngàn khoang khí này, chú nhím khi rơi xuống nước sẽ nổi bồng bềnh như một chiếc phao cứu sinh tự nhiên! Tỷ trọng của mỗi chiếc lông chỉ đạt khoảng không phẩy ba gam trên một xăng-ti-mét khối, nhẹ hơn cả gỗ bấc và hoàn toàn nổi trên mặt nước mà không cần bất kỳ sự hỗ trợ cơ học nào khác.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Nó có thể thong thả bơi qua những con sông lớn mà không sợ bị chìm nghỉm, vừa có thể xòe gai đẩy lùi lũ cá săn mồi dưới nước. Một thiết kế vật lý siêu nhẹ, siêu cứng và đa năng vượt xa những tấm áo giáp chống đạn tân tiến nhất mà con người từng chế tạo trong các phòng thí nghiệm quân sự tối tân! Khi mùa lũ về trên những cánh rừng Bắc Mỹ, hình ảnh những chú nhím bập bềnh trôi qua dòng nước cuộn xiết chính là minh chứng sống động nhất cho đỉnh cao của công nghệ phao sinh học tự nhiên.",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "KẾT LUẬN",
+    "banner_title": "TRIẾT LÝ PHÒNG THỦ TỐI THƯỢNG",
+    "chapter_title": "Bài học từ pháo đài rải gai",
+    "hook": "SỨC MẠNH TỪ SỰ TỰ VỆ CHỦ ĐỘNG",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Từ ba mươi ngàn mũi tên ngạnh ngược giảm lực đâm năm mươi tư phần trăm, cơ chế bánh cóc một chiều tự rút sâu vào thớ thịt kẻ thù, lớp mỡ kháng khuẩn tự chữa lành vết thương khi ngã cây, cho đến cấu trúc lõi xốp composite siêu nhẹ bập bềnh trên mặt nước, Pháo Đài Tự Hành đã dạy cho chúng ta một bài học sâu sắc về nghệ thuật phòng thủ trong tự nhiên. Nó không bao giờ chủ động gây hấn hay tấn công ai trước, nó chỉ lẳng lặng gặm vỏ cây giữa rừng già, nhưng bất kỳ kẻ nào ngạo mạn muốn biến nó thành con mồi đều sẽ phải trả giá bằng cả mạng sống của mình. Nó không cần phải phô trương nanh vuốt hay rống lên những tiếng gầm gừ đe dọa, bởi vì tự bản thân lớp áo giáp của nó đã là một lời cảnh cáo đanh thép nhất cho mọi kẻ nuôi ý đồ xâm phạm.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Trong cuộc sống và thương trường cũng vậy! Sức mạnh đích thực không nằm ở việc bạn đi đe dọa hay lấn lướt người khác, mà nằm ở năng lực tự bảo vệ vững chắc và những ranh giới thép không thể bị xâm phạm! Hãy trang bị cho mình một nội lực thâm hậu, sự điềm tĩnh kiên định và một cơ chế bảo vệ thông minh như chú nhím nhỏ bé giữa rừng sâu nhé! Bạn thấy chi tiết kỹ thuật nào của Pháo Đài Tự Hành tinh vi nhất: Những chiếc ngạnh ngược microscopic hay lớp mỡ kháng sinh tự chữa lành? Hãy chia sẻ quan điểm của bạn bên dưới nhé! Còn ở tập tiếp theo, chúng ta sẽ bước vào đấu trường La Mã đỉnh cao để giải mã một gã khổng lồ nâng vật nặng tám trăm ki-lô-gam dù chỉ ăn chay nhai lá cây! Hãy học cách xây dựng những giá trị vững chắc từ bên trong và thiết lập những ranh giới bảo vệ kiên cố cho bản thân, để có thể tự tin vững bước giữa một thế giới đầy biến động và cạnh tranh khốc liệt!",
+      "mood": "am_ap"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Tại sao chỉ một chiếc lông nhím nhỏ bé cắm vào mõm cũng đủ sức hạ gục cả một con báo hoa mai hung dữ?! Hãy nhìn Pháo Đài Tự Hành với ba mươi ngàn mũi tên chết chóc này xem! Nhím hoàn toàn không hề bắn lông từ xa như trong phim hoạt hình đâu nhé! Dưới kính hiển vi điện tử quét, đầu mỗi chiếc lông nhím chứa tới tám trăm chiếc ngạnh ngược siêu nhỏ xếp lớp như lưỡi móc câu! Khi đâm vào thịt, các ngạnh này nép sát giúp giảm năm mươi tư phần trăm lực đâm, nhưng khi rút ra thì bung nở móc chặt, làm tăng lực rút lên gấp ba lần! Đáng sợ hơn cả, các cử động cơ bắp của con thú săn mồi sẽ vô tình đẩy chiếc lông tự rút sâu vào bên trong cơ thể với tốc độ một mi-li-mét mỗi giờ, đâm thủng vòm họng và tim phổi kẻ địch! Đã thế, trên thân lông còn phủ lớp mỡ kháng sinh tự nhiên để nhím tự chữa lành khi lỡ bị lông đâm vào người! Một cỗ máy bọc thép sinh học với đòn phản công tàn khốc bậc nhất tự nhiên!"
+ },
+ "seo": {
+  "title": "Bí Mật 30.000 Mũi Tên Nhím: Tự Rút Sâu Vào Thịt Hạ Gục Báo Hoa Mai?! | Tập 49",
+  "en_title": "The Secret of 30,000 Porcupine Quills: Self-Burrowing Barbs That Take Down Leopards! | Ep 49",
+  "en_desc": "Discover the incredible bio-weaponry of the North American Porcupine: 30,000 detachable quills with microscopic backward barbs that penetrate 54% easier, ratchet 1mm/hour into muscle, and feature a natural antibiotic fatty acid coating.",
+  "hook_paragraph": "Nhím Lông Nhọn mang trên mình 30.000 mũi tên tự tách gốc với cấu trúc vi ngạnh ngược giảm 54% lực đâm nhưng tăng gấp 3 lực rút. Tại sao cử động của con mồi lại khiến chiếc lông tự đâm sâu 1mm mỗi giờ xuyên thủng tim phổi?",
+  "bullets": [
+   "30.000 mũi tên chất sừng keratin tự tách gốc thụ động",
+   "Cấu trúc 800 ngạnh ngược microscopic giảm 54% lực đâm xuyên",
+   "Cơ chế bánh cóc tự rút sâu 1mm mỗi giờ vào thớ thịt kẻ thù",
+   "Lớp mỡ axit béo kháng sinh tự nhiên tự chữa lành vết thương khi ngã"
+  ],
+  "question": "Bạn thấy cơ chế nào của Nhím Lông Nhọn đỉnh nhất: Vi ngạnh tự rút sâu hay lớp mỡ kháng sinh tự nhiên?",
+  "next_teaser": "Ở tập tiếp theo, chúng ta sẽ giải mã khối cơ bắp 800kg của Khỉ Đột Lưng Bạc dù chỉ ăn chay!",
+  "hashtags": [
+   "#NhimLongNhon",
+   "#Porcupine",
+   "#TheGioiDongVat",
+   "#VeChuyenHoangDa",
+   "#KhoaHoc",
+   "#KySuVuKhi"
+  ],
+  "tags": [
+   "nhím lông nhọn",
+   "nhim long nhon",
+   "porcupine",
+   "long nhim",
+   "nganh nguoc long nhim",
+   "the gioi dong vat",
+   "ve chuyen hoang da",
+   "dong vat ky thu",
+   "khoa hoc vui",
+   "giai ma dong vat",
+   "ky su vu khi",
+   "phao dai tu hanh"
+  ],
+  "shorts_title": "Tại sao một chiếc lông nhím đủ sức hạ gục cả báo hoa mai?! 🦔 #shorts #nhim",
+  "shorts_desc": "Đầu lông nhím chứa 800 vi ngạnh ngược tự rút sâu 1mm mỗi giờ vào cơ thịt kẻ thù khiến báo hoa mai cũng phải chết thảm!",
+  "shorts_tags": [
+   "nhim",
+   "porcupine",
+   "shorts",
+   "the gioi dong vat",
+   "ve chuyen hoang da"
+  ]
+ }
+}

@@ -1,0 +1,4560 @@
+{
+ "episode": "mega-03-dai-hoi-sinh-ton",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 14,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "intro_mode": "full_first",
+ "output": "renders/mega-03-dai-hoi-sinh-ton_long.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 297.886,
+   "chapter_no": 1,
+   "badge": "KHAI MẠC MÙA 3",
+   "header_image": "assets/banners/chapter_01.png",
+   "title": "10 QUÁI KIỆT DỊ NHÂN BƯỚC VÀO ĐẤU TRƯỜNG",
+   "card_hook": "ĐẤU TRƯỜNG DỊ NHÂN MÙA 3",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L01.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 5.66,
+     "image": "assets/long/L02.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 12.04,
+     "image": "assets/long/L03.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 18.4,
+     "image": "assets/long/L04.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 23.64,
+     "image": "assets/long/L05.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 29.46,
+     "image": "assets/long/L06.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b07",
+     "start_s": 38.45,
+     "image": "assets/long/L07.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b08",
+     "start_s": 44.55,
+     "image": "assets/long/L08.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b09",
+     "start_s": 50.91,
+     "image": "assets/long/L09.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b10",
+     "start_s": 60.85,
+     "image": "assets/long/L10.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b11",
+     "start_s": 69.19,
+     "image": "assets/long/L11.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b12",
+     "start_s": 76.57,
+     "image": "assets/long/L12.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b13",
+     "start_s": 84.72,
+     "image": "assets/long/L13.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b14",
+     "start_s": 90.92,
+     "image": "assets/long/L14.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b15",
+     "start_s": 99.44,
+     "image": "assets/long/L15.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b16",
+     "start_s": 106.38,
+     "image": "assets/long/L16.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b17",
+     "start_s": 114.2,
+     "image": "assets/long/L17.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b18",
+     "start_s": 123.0,
+     "image": "assets/long/L18.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b19",
+     "start_s": 128.48,
+     "image": "assets/long/L19.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b20",
+     "start_s": 135.36,
+     "image": "assets/long/L20.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b21",
+     "start_s": 140.62,
+     "image": "assets/long/L21.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b22",
+     "start_s": 146.92,
+     "image": "assets/long/L22.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b23",
+     "start_s": 152.24,
+     "image": "assets/long/L23.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 155.1,
+       "side": "R",
+       "y": 390,
+       "value": "20 LÍT",
+       "label": "Khóa chặt mang kẻ thù",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b24",
+     "start_s": 158.4,
+     "image": "assets/long/L24.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 160.84,
+       "side": "L",
+       "y": 400,
+       "value": "9 BỘ NÃO",
+       "label": "Trí tuệ phân tán",
+       "target": [
+        0.35,
+        0.72
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b25",
+     "start_s": 165.11,
+     "image": "assets/long/L25.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b26",
+     "start_s": 170.81,
+     "image": "assets/long/L26.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 173.75,
+       "side": "R",
+       "y": 410,
+       "value": "22 XÚC TU",
+       "label": "Cơ quan Eimer nhạy",
+       "target": [
+        0.62,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b27",
+     "start_s": 177.03,
+     "image": "assets/long/L27.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b28",
+     "start_s": 182.69,
+     "image": "assets/long/L28.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b29",
+     "start_s": 189.51,
+     "image": "assets/long/L29.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b30",
+     "start_s": 196.38,
+     "image": "assets/long/L30.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b31",
+     "start_s": 203.68,
+     "image": "assets/long/L31.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b32",
+     "start_s": 210.36,
+     "image": "assets/long/L32.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b33",
+     "start_s": 216.7,
+     "image": "assets/long/L33.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 219.44,
+       "side": "R",
+       "y": 380,
+       "value": "35KG",
+       "label": "Wombat nặng nhất",
+       "target": [
+        0.72,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b34",
+     "start_s": 223.0,
+     "image": "assets/long/L34.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 224.84,
+       "side": "L",
+       "y": 380,
+       "value": "25KG",
+       "label": "Hải Ly công trình",
+       "target": [
+        0.38,
+        0.78
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b35",
+     "start_s": 228.26,
+     "image": "assets/long/L35.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b36",
+     "start_s": 234.5,
+     "image": "assets/long/L36.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b37",
+     "start_s": 239.78,
+     "image": "assets/long/L37.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b38",
+     "start_s": 245.74,
+     "image": "assets/long/L38.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b39",
+     "start_s": 251.92,
+     "image": "assets/long/L39.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b40",
+     "start_s": 258.69,
+     "image": "assets/long/L40.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b41",
+     "start_s": 264.89,
+     "image": "assets/long/L41.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b42",
+     "start_s": 272.15,
+     "image": "assets/long/L42.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b43",
+     "start_s": 279.06,
+     "image": "assets/long/L43.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b44",
+     "start_s": 283.84,
+     "image": "assets/long/L44.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b45",
+     "start_s": 290.22,
+     "image": "assets/long/L45.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 301.49,
+   "chapter_no": 2,
+   "badge": "VÒNG 1: VŨ KHÍ TỰ THÂN",
+   "header_image": "assets/banners/chapter_02.png",
+   "title": "ĐẠI CHIẾN NÂNG CẤP VŨ KHÍ & ÁO GIÁP SINH HỌC",
+   "card_hook": "ĐẠI CHIẾN VŨ KHÍ TỰ THÂN",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L46.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 6.94,
+     "image": "assets/long/L47.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 15.3,
+     "image": "assets/long/L48.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 23.05,
+     "image": "assets/long/L49.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 29.18,
+     "image": "assets/long/L50.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b06",
+     "start_s": 38.1,
+     "image": "assets/long/L51.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 39.45,
+       "side": "R",
+       "y": 420,
+       "value": "DÀY 3CM",
+       "label": "Khiên sụn mô mạc sợi",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b07",
+     "start_s": 43.7,
+     "image": "assets/long/L52.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b08",
+     "start_s": 51.34,
+     "image": "assets/long/L53.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b09",
+     "start_s": 57.61,
+     "image": "assets/long/L54.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b10",
+     "start_s": 64.27,
+     "image": "assets/long/L55.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b11",
+     "start_s": 71.11,
+     "image": "assets/long/L56.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b12",
+     "start_s": 77.05,
+     "image": "assets/long/L57.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b13",
+     "start_s": 84.43,
+     "image": "assets/long/L58.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 88.01,
+       "side": "L",
+       "y": 400,
+       "value": "40CM",
+       "label": "Đốn ngã thân cây cứng",
+       "target": [
+        0.45,
+        0.72
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b14",
+     "start_s": 91.57,
+     "image": "assets/long/L59.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b15",
+     "start_s": 98.17,
+     "image": "assets/long/L60.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b16",
+     "start_s": 106.14,
+     "image": "assets/long/L61.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b17",
+     "start_s": 109.56,
+     "image": "assets/long/L62.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b18",
+     "start_s": 114.84,
+     "image": "assets/long/L63.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b19",
+     "start_s": 120.84,
+     "image": "assets/long/L64.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b20",
+     "start_s": 127.36,
+     "image": "assets/long/L65.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 128.04,
+       "side": "R",
+       "y": 390,
+       "value": "48 GIỜ",
+       "label": "Mô da tự lành",
+       "target": [
+        0.68,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b21",
+     "start_s": 136.18,
+     "image": "assets/long/L66.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b22",
+     "start_s": 144.01,
+     "image": "assets/long/L67.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b23",
+     "start_s": 151.35,
+     "image": "assets/long/L68.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b24",
+     "start_s": 158.77,
+     "image": "assets/long/L69.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b25",
+     "start_s": 166.53,
+     "image": "assets/long/L70.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b26",
+     "start_s": 172.53,
+     "image": "assets/long/L71.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b27",
+     "start_s": 183.24,
+     "image": "assets/long/L72.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b28",
+     "start_s": 189.94,
+     "image": "assets/long/L73.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b29",
+     "start_s": 198.18,
+     "image": "assets/long/L74.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b30",
+     "start_s": 206.86,
+     "image": "assets/long/L75.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b31",
+     "start_s": 213.42,
+     "image": "assets/long/L76.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b32",
+     "start_s": 221.38,
+     "image": "assets/long/L77.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b33",
+     "start_s": 228.6,
+     "image": "assets/long/L78.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b34",
+     "start_s": 236.87,
+     "image": "assets/long/L79.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b35",
+     "start_s": 240.16,
+     "image": "assets/long/L80.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b36",
+     "start_s": 245.58,
+     "image": "assets/long/L81.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 248.08,
+       "side": "L",
+       "y": 410,
+       "value": "15CM",
+       "label": "Sợi tơ protein bung nở",
+       "target": [
+        0.35,
+        0.65
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b37",
+     "start_s": 253.74,
+     "image": "assets/long/L82.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b38",
+     "start_s": 261.9,
+     "image": "assets/long/L83.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b39",
+     "start_s": 266.3,
+     "image": "assets/long/L84.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b40",
+     "start_s": 273.1,
+     "image": "assets/long/L85.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b41",
+     "start_s": 279.66,
+     "image": "assets/long/L86.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b42",
+     "start_s": 289.12,
+     "image": "assets/long/L87.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b43",
+     "start_s": 294.56,
+     "image": "assets/long/L88.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 309.487,
+   "chapter_no": 3,
+   "badge": "VÒNG 2: TÁI SINH THOÁT HIỂM",
+   "header_image": "assets/banners/chapter_03.png",
+   "title": "BẢN LĨNH TÁI SINH & NGHỆ THUẬT THOÁT CHẾT KỲ DỊ",
+   "card_hook": "BẢN LĨNH TÁI SINH THOÁT HIỂM",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L89.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 6.3,
+     "image": "assets/long/L90.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 13.2,
+     "image": "assets/long/L91.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 23.48,
+     "image": "assets/long/L92.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b05",
+     "start_s": 28.38,
+     "image": "assets/long/L93.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b06",
+     "start_s": 35.68,
+     "image": "assets/long/L94.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b07",
+     "start_s": 42.08,
+     "image": "assets/long/L95.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b08",
+     "start_s": 50.54,
+     "image": "assets/long/L96.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b09",
+     "start_s": 57.58,
+     "image": "assets/long/L97.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b10",
+     "start_s": 65.73,
+     "image": "assets/long/L98.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b11",
+     "start_s": 72.61,
+     "image": "assets/long/L99.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 76.45,
+       "side": "L",
+       "y": 430,
+       "value": "4,5MM",
+       "label": "Kích thước nhỏ bé",
+       "target": [
+        0.38,
+        0.72
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b12",
+     "start_s": 77.93,
+     "image": "assets/long/L100.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b13",
+     "start_s": 84.23,
+     "image": "assets/long/L101.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b14",
+     "start_s": 91.71,
+     "image": "assets/long/L102.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b15",
+     "start_s": 99.19,
+     "image": "assets/long/L103.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b16",
+     "start_s": 107.05,
+     "image": "assets/long/L104.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b17",
+     "start_s": 117.19,
+     "image": "assets/long/L105.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b18",
+     "start_s": 120.07,
+     "image": "assets/long/L106.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b19",
+     "start_s": 126.51,
+     "image": "assets/long/L107.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b20",
+     "start_s": 132.63,
+     "image": "assets/long/L108.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b21",
+     "start_s": 139.95,
+     "image": "assets/long/L109.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b22",
+     "start_s": 149.11,
+     "image": "assets/long/L110.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b23",
+     "start_s": 154.09,
+     "image": "assets/long/L111.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b24",
+     "start_s": 158.37,
+     "image": "assets/long/L112.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 164.71,
+       "side": "R",
+       "y": 400,
+       "value": "200MS",
+       "label": "Biến đổi da thần tốc",
+       "target": [
+        0.62,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b25",
+     "start_s": 165.61,
+     "image": "assets/long/L113.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 170.17,
+       "side": "L",
+       "y": 410,
+       "value": "15 LOÀI",
+       "label": "Giả dạng kịch độc",
+       "target": [
+        0.38,
+        0.68
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b26",
+     "start_s": 175.85,
+     "image": "assets/long/L114.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b27",
+     "start_s": 184.78,
+     "image": "assets/long/L115.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b28",
+     "start_s": 191.1,
+     "image": "assets/long/L116.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b29",
+     "start_s": 198.38,
+     "image": "assets/long/L117.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b30",
+     "start_s": 206.2,
+     "image": "assets/long/L118.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b31",
+     "start_s": 211.5,
+     "image": "assets/long/L119.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b32",
+     "start_s": 216.76,
+     "image": "assets/long/L120.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b33",
+     "start_s": 227.75,
+     "image": "assets/long/L121.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b34",
+     "start_s": 235.69,
+     "image": "assets/long/L122.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b35",
+     "start_s": 242.75,
+     "image": "assets/long/L123.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b36",
+     "start_s": 249.14,
+     "image": "assets/long/L124.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b37",
+     "start_s": 256.52,
+     "image": "assets/long/L125.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b38",
+     "start_s": 263.87,
+     "image": "assets/long/L126.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b39",
+     "start_s": 270.86,
+     "image": "assets/long/L127.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b40",
+     "start_s": 275.94,
+     "image": "assets/long/L128.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b41",
+     "start_s": 283.09,
+     "image": "assets/long/L129.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b42",
+     "start_s": 289.75,
+     "image": "assets/long/L130.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b43",
+     "start_s": 295.07,
+     "image": "assets/long/L131.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b44",
+     "start_s": 301.46,
+     "image": "assets/long/L132.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 280.503,
+   "chapter_no": 4,
+   "badge": "VÒNG 3: PHẢN XẠ GIÁC QUAN",
+   "header_image": "assets/banners/chapter_04.png",
+   "title": "PHẢN XẠ SIÊU TỐC & GIÁC QUAN VƯỢT TRỘI DƯỚI LÒNG ĐẤT",
+   "card_hook": "PHẢN XẠ GIÁC QUAN SIÊU TỐC",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L133.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 6.64,
+     "image": "assets/long/L134.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 13.6,
+     "image": "assets/long/L135.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 22.32,
+     "image": "assets/long/L136.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b05",
+     "start_s": 26.58,
+     "image": "assets/long/L137.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 29.74,
+       "side": "R",
+       "y": 410,
+       "value": "25.000 DÂY",
+       "label": "Cơ quan Eimer",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b06",
+     "start_s": 35.86,
+     "image": "assets/long/L138.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 40.48,
+       "side": "L",
+       "y": 400,
+       "value": "50% NÃO",
+       "label": "Dành riêng cho mũi sao",
+       "target": [
+        0.35,
+        0.72
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b07",
+     "start_s": 44.4,
+     "image": "assets/long/L139.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b08",
+     "start_s": 49.32,
+     "image": "assets/long/L140.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 53.02,
+       "side": "R",
+       "y": 420,
+       "value": "0,12 GIÂY",
+       "label": "Ăn nhanh nhất",
+       "target": [
+        0.62,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b09",
+     "start_s": 57.06,
+     "image": "assets/long/L141.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b10",
+     "start_s": 64.28,
+     "image": "assets/long/L142.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b11",
+     "start_s": 73.32,
+     "image": "assets/long/L143.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b12",
+     "start_s": 78.9,
+     "image": "assets/long/L144.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b13",
+     "start_s": 85.62,
+     "image": "assets/long/L145.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b14",
+     "start_s": 91.73,
+     "image": "assets/long/L146.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b15",
+     "start_s": 98.95,
+     "image": "assets/long/L147.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b16",
+     "start_s": 108.55,
+     "image": "assets/long/L148.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b17",
+     "start_s": 113.97,
+     "image": "assets/long/L149.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b18",
+     "start_s": 120.66,
+     "image": "assets/long/L150.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b19",
+     "start_s": 124.74,
+     "image": "assets/long/L151.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b20",
+     "start_s": 130.4,
+     "image": "assets/long/L152.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b21",
+     "start_s": 138.5,
+     "image": "assets/long/L153.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b22",
+     "start_s": 148.17,
+     "image": "assets/long/L154.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b23",
+     "start_s": 156.77,
+     "image": "assets/long/L155.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b24",
+     "start_s": 165.89,
+     "image": "assets/long/L156.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b25",
+     "start_s": 173.89,
+     "image": "assets/long/L157.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b26",
+     "start_s": 180.25,
+     "image": "assets/long/L158.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b27",
+     "start_s": 186.71,
+     "image": "assets/long/L159.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b28",
+     "start_s": 192.71,
+     "image": "assets/long/L160.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b29",
+     "start_s": 200.29,
+     "image": "assets/long/L161.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b30",
+     "start_s": 207.14,
+     "image": "assets/long/L162.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b31",
+     "start_s": 214.6,
+     "image": "assets/long/L163.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b32",
+     "start_s": 221.82,
+     "image": "assets/long/L164.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b33",
+     "start_s": 229.28,
+     "image": "assets/long/L165.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b34",
+     "start_s": 237.36,
+     "image": "assets/long/L166.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b35",
+     "start_s": 243.34,
+     "image": "assets/long/L167.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b36",
+     "start_s": 250.69,
+     "image": "assets/long/L168.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b37",
+     "start_s": 258.17,
+     "image": "assets/long/L169.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b38",
+     "start_s": 263.67,
+     "image": "assets/long/L170.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b39",
+     "start_s": 271.9,
+     "image": "assets/long/L171.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 277.529,
+   "chapter_no": 5,
+   "badge": "GIỜ GIẢI LAO HẬU TRƯỜNG",
+   "header_image": "assets/banners/chapter_05.png",
+   "title": "GIỜ GIẢI LAO HẬU TRƯỜNG & NHỮNG PHA KHÓ ĐỠ CỦA DỊ NHÂN",
+   "card_hook": "NHỮNG PHA HẬU TRƯỜNG KHÓ ĐỠ",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L172.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 6.5,
+     "image": "assets/long/L173.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 12.28,
+     "image": "assets/long/L174.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 20.76,
+     "image": "assets/long/L175.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b05",
+     "start_s": 26.6,
+     "image": "assets/long/L176.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b06",
+     "start_s": 33.36,
+     "image": "assets/long/L177.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b07",
+     "start_s": 39.86,
+     "image": "assets/long/L178.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b08",
+     "start_s": 47.62,
+     "image": "assets/long/L179.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b09",
+     "start_s": 53.78,
+     "image": "assets/long/L180.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b10",
+     "start_s": 61.34,
+     "image": "assets/long/L181.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b11",
+     "start_s": 65.98,
+     "image": "assets/long/L182.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b12",
+     "start_s": 74.24,
+     "image": "assets/long/L183.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b13",
+     "start_s": 81.94,
+     "image": "assets/long/L184.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b14",
+     "start_s": 91.14,
+     "image": "assets/long/L185.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b15",
+     "start_s": 97.32,
+     "image": "assets/long/L186.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b16",
+     "start_s": 103.76,
+     "image": "assets/long/L187.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b17",
+     "start_s": 111.04,
+     "image": "assets/long/L188.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b18",
+     "start_s": 118.04,
+     "image": "assets/long/L189.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b19",
+     "start_s": 125.22,
+     "image": "assets/long/L190.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b20",
+     "start_s": 134.39,
+     "image": "assets/long/L191.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b21",
+     "start_s": 140.62,
+     "image": "assets/long/L192.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b22",
+     "start_s": 146.2,
+     "image": "assets/long/L193.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b23",
+     "start_s": 153.48,
+     "image": "assets/long/L194.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b24",
+     "start_s": 161.46,
+     "image": "assets/long/L195.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 162.46,
+       "side": "R",
+       "y": 410,
+       "value": "8% RUỘT",
+       "label": "Co giãn đàn hồi",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b25",
+     "start_s": 168.6,
+     "image": "assets/long/L196.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 171.12,
+       "side": "L",
+       "y": 430,
+       "value": "100 VIÊN",
+       "label": "Phân hình lập phương",
+       "target": [
+        0.35,
+        0.72
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b26",
+     "start_s": 175.96,
+     "image": "assets/long/L197.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b27",
+     "start_s": 182.63,
+     "image": "assets/long/L198.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b28",
+     "start_s": 188.15,
+     "image": "assets/long/L199.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b29",
+     "start_s": 192.23,
+     "image": "assets/long/L200.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b30",
+     "start_s": 198.61,
+     "image": "assets/long/L201.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b31",
+     "start_s": 206.53,
+     "image": "assets/long/L202.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b32",
+     "start_s": 213.63,
+     "image": "assets/long/L203.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b33",
+     "start_s": 221.63,
+     "image": "assets/long/L204.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b34",
+     "start_s": 228.49,
+     "image": "assets/long/L205.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b35",
+     "start_s": 232.51,
+     "image": "assets/long/L206.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b36",
+     "start_s": 239.75,
+     "image": "assets/long/L207.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b37",
+     "start_s": 246.61,
+     "image": "assets/long/L208.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b38",
+     "start_s": 252.75,
+     "image": "assets/long/L209.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b39",
+     "start_s": 260.03,
+     "image": "assets/long/L210.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b40",
+     "start_s": 264.74,
+     "image": "assets/long/L211.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b41",
+     "start_s": 271.51,
+     "image": "assets/long/L212.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 276.865,
+   "chapter_no": 6,
+   "badge": "VÒNG 4: KỸ SƯ ĐỊA HÌNH",
+   "header_image": "assets/banners/chapter_06.png",
+   "title": "CÔNG TRÌNH ĐỊA HÌNH & XÃ HỘI BẦY ĐÀN KỶ LUẬT",
+   "card_hook": "CÔNG TRÌNH ĐỊA HÌNH VĨ ĐẠI",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L213.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 6.02,
+     "image": "assets/long/L214.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 12.28,
+     "image": "assets/long/L215.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b04",
+     "start_s": 21.8,
+     "image": "assets/long/L216.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b05",
+     "start_s": 27.06,
+     "image": "assets/long/L217.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b06",
+     "start_s": 36.56,
+     "image": "assets/long/L218.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b07",
+     "start_s": 43.92,
+     "image": "assets/long/L219.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b08",
+     "start_s": 50.68,
+     "image": "assets/long/L220.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 52.98,
+       "side": "R",
+       "y": 410,
+       "value": "80% BÙN",
+       "label": "Lọc sạch trầm tích",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b09",
+     "start_s": 57.84,
+     "image": "assets/long/L221.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b10",
+     "start_s": 65.8,
+     "image": "assets/long/L222.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b11",
+     "start_s": 72.62,
+     "image": "assets/long/L223.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b12",
+     "start_s": 79.59,
+     "image": "assets/long/L224.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 82.25,
+       "side": "L",
+       "y": 400,
+       "value": "DÀI 30M",
+       "label": "Hang ngầm kiên cố",
+       "target": [
+        0.35,
+        0.72
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b13",
+     "start_s": 85.57,
+     "image": "assets/long/L225.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b14",
+     "start_s": 93.05,
+     "image": "assets/long/L226.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b15",
+     "start_s": 101.33,
+     "image": "assets/long/L227.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b16",
+     "start_s": 108.03,
+     "image": "assets/long/L228.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b17",
+     "start_s": 113.55,
+     "image": "assets/long/L229.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b18",
+     "start_s": 118.17,
+     "image": "assets/long/L230.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b19",
+     "start_s": 125.15,
+     "image": "assets/long/L231.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b20",
+     "start_s": 131.79,
+     "image": "assets/long/L232.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b21",
+     "start_s": 137.49,
+     "image": "assets/long/L233.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b22",
+     "start_s": 140.95,
+     "image": "assets/long/L234.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b23",
+     "start_s": 148.09,
+     "image": "assets/long/L235.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b24",
+     "start_s": 158.57,
+     "image": "assets/long/L236.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b25",
+     "start_s": 168.09,
+     "image": "assets/long/L237.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b26",
+     "start_s": 178.53,
+     "image": "assets/long/L238.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b27",
+     "start_s": 185.73,
+     "image": "assets/long/L239.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b28",
+     "start_s": 190.67,
+     "image": "assets/long/L240.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b29",
+     "start_s": 198.9,
+     "image": "assets/long/L241.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b30",
+     "start_s": 205.74,
+     "image": "assets/long/L242.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b31",
+     "start_s": 213.5,
+     "image": "assets/long/L243.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b32",
+     "start_s": 218.75,
+     "image": "assets/long/L244.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b33",
+     "start_s": 225.79,
+     "image": "assets/long/L245.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b34",
+     "start_s": 233.13,
+     "image": "assets/long/L246.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b35",
+     "start_s": 239.61,
+     "image": "assets/long/L247.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b36",
+     "start_s": 245.93,
+     "image": "assets/long/L248.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b37",
+     "start_s": 251.39,
+     "image": "assets/long/L249.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b38",
+     "start_s": 258.25,
+     "image": "assets/long/L250.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b39",
+     "start_s": 263.61,
+     "image": "assets/long/L251.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b40",
+     "start_s": 269.91,
+     "image": "assets/long/L252.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene07",
+   "voice": "audio/scene07.wav",
+   "duration_s": 267.605,
+   "chapter_no": 7,
+   "badge": "VÒNG 5: BỘ GEN ĐỘT BIẾN",
+   "header_image": "assets/banners/chapter_07.png",
+   "title": "KHÁNG THỂ SIÊU CẤP & BỘ GEN BẤT TỬ ĐỘT BIẾN",
+   "card_hook": "KHÁNG THỂ & BỘ GEN ĐỘT BIẾN",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene07_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L253.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b02",
+     "start_s": 7.1,
+     "image": "assets/long/L254.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b03",
+     "start_s": 13.34,
+     "image": "assets/long/L255.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b04",
+     "start_s": 21.36,
+     "image": "assets/long/L256.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b05",
+     "start_s": 25.76,
+     "image": "assets/long/L257.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b06",
+     "start_s": 31.8,
+     "image": "assets/long/L258.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 35.9,
+       "side": "R",
+       "y": 410,
+       "value": "32 TỶ BASE",
+       "label": "Gấp 10 lần gen người",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b07",
+     "start_s": 40.2,
+     "image": "assets/long/L259.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b08",
+     "start_s": 50.1,
+     "image": "assets/long/L260.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b09",
+     "start_s": 56.18,
+     "image": "assets/long/L261.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b10",
+     "start_s": 66.21,
+     "image": "assets/long/L262.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b11",
+     "start_s": 73.52,
+     "image": "assets/long/L263.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b12",
+     "start_s": 82.04,
+     "image": "assets/long/L264.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b13",
+     "start_s": 89.6,
+     "image": "assets/long/L265.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b14",
+     "start_s": 98.86,
+     "image": "assets/long/L266.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b15",
+     "start_s": 101.32,
+     "image": "assets/long/L267.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b16",
+     "start_s": 109.22,
+     "image": "assets/long/L268.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b17",
+     "start_s": 113.48,
+     "image": "assets/long/L269.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b18",
+     "start_s": 120.3,
+     "image": "assets/long/L270.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b19",
+     "start_s": 129.46,
+     "image": "assets/long/L271.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b20",
+     "start_s": 133.68,
+     "image": "assets/long/L272.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b21",
+     "start_s": 141.54,
+     "image": "assets/long/L273.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b22",
+     "start_s": 153.06,
+     "image": "assets/long/L274.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b23",
+     "start_s": 159.62,
+     "image": "assets/long/L275.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b24",
+     "start_s": 166.24,
+     "image": "assets/long/L276.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b25",
+     "start_s": 175.24,
+     "image": "assets/long/L277.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b26",
+     "start_s": 182.78,
+     "image": "assets/long/L278.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b27",
+     "start_s": 191.7,
+     "image": "assets/long/L279.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b28",
+     "start_s": 200.5,
+     "image": "assets/long/L280.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b29",
+     "start_s": 207.64,
+     "image": "assets/long/L281.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b30",
+     "start_s": 213.66,
+     "image": "assets/long/L282.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b31",
+     "start_s": 221.38,
+     "image": "assets/long/L283.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b32",
+     "start_s": 228.64,
+     "image": "assets/long/L284.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b33",
+     "start_s": 236.49,
+     "image": "assets/long/L285.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b34",
+     "start_s": 244.25,
+     "image": "assets/long/L286.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b35",
+     "start_s": 249.39,
+     "image": "assets/long/L287.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b36",
+     "start_s": 257.17,
+     "image": "assets/long/L288.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene08",
+   "voice": "audio/scene08.wav",
+   "duration_s": 251.308,
+   "chapter_no": 8,
+   "badge": "VÒNG 6: NGƯỜI HÙNG SINH THÁI",
+   "header_image": "assets/banners/chapter_08.png",
+   "title": "NGƯỜI HÙNG BẢO VỆ SINH THÁI ĐẠI DƯƠNG & RỪNG XANH",
+   "card_hook": "NGƯỜI HÙNG BẢO VỆ SINH THÁI",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene08_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L289.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b02",
+     "start_s": 4.9,
+     "image": "assets/long/L290.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b03",
+     "start_s": 12.64,
+     "image": "assets/long/L291.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b04",
+     "start_s": 20.58,
+     "image": "assets/long/L292.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b05",
+     "start_s": 26.24,
+     "image": "assets/long/L293.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b06",
+     "start_s": 34.44,
+     "image": "assets/long/L294.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 38.3,
+       "side": "R",
+       "y": 410,
+       "value": "130 TẤN",
+       "label": "Hút bụi rạn san hô",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b07",
+     "start_s": 40.64,
+     "image": "assets/long/L295.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b08",
+     "start_s": 46.23,
+     "image": "assets/long/L296.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b09",
+     "start_s": 54.27,
+     "image": "assets/long/L297.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b10",
+     "start_s": 62.08,
+     "image": "assets/long/L298.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b11",
+     "start_s": 71.2,
+     "image": "assets/long/L299.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b12",
+     "start_s": 76.81,
+     "image": "assets/long/L300.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b13",
+     "start_s": 85.27,
+     "image": "assets/long/L301.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 91.45,
+       "side": "L",
+       "y": 400,
+       "value": "33% TĂNG",
+       "label": "Làm giàu sinh thái",
+       "target": [
+        0.35,
+        0.72
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b14",
+     "start_s": 93.93,
+     "image": "assets/long/L302.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b15",
+     "start_s": 98.69,
+     "image": "assets/long/L303.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b16",
+     "start_s": 106.11,
+     "image": "assets/long/L304.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b17",
+     "start_s": 110.69,
+     "image": "assets/long/L305.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b18",
+     "start_s": 119.63,
+     "image": "assets/long/L306.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b19",
+     "start_s": 127.35,
+     "image": "assets/long/L307.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b20",
+     "start_s": 134.72,
+     "image": "assets/long/L308.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b21",
+     "start_s": 141.78,
+     "image": "assets/long/L309.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b22",
+     "start_s": 148.2,
+     "image": "assets/long/L310.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b23",
+     "start_s": 154.94,
+     "image": "assets/long/L311.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b24",
+     "start_s": 162.84,
+     "image": "assets/long/L312.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b25",
+     "start_s": 169.22,
+     "image": "assets/long/L313.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b26",
+     "start_s": 176.76,
+     "image": "assets/long/L314.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b27",
+     "start_s": 183.72,
+     "image": "assets/long/L315.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b28",
+     "start_s": 193.08,
+     "image": "assets/long/L316.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b29",
+     "start_s": 199.56,
+     "image": "assets/long/L317.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b30",
+     "start_s": 206.86,
+     "image": "assets/long/L318.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b31",
+     "start_s": 215.64,
+     "image": "assets/long/L319.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b32",
+     "start_s": 223.78,
+     "image": "assets/long/L320.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b33",
+     "start_s": 230.54,
+     "image": "assets/long/L321.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b34",
+     "start_s": 235.88,
+     "image": "assets/long/L322.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b35",
+     "start_s": 241.52,
+     "image": "assets/long/L323.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene09",
+   "voice": "audio/scene09.wav",
+   "duration_s": 239.752,
+   "chapter_no": 9,
+   "badge": "GIẢI THƯỞNG PHỤ: CỤ TỔ CỔ ĐẠI",
+   "header_image": "assets/banners/chapter_09.png",
+   "title": "CÁC CỤ TỔ CỔ ĐẠI 300 TRIỆU NĂM & TỔ TIÊN KHỔNG LỒ",
+   "card_hook": "CÁC CỤ TỔ CỔ ĐẠI & TỔ TIÊN KHỔNG LỒ",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene09_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L324.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b02",
+     "start_s": 9.48,
+     "image": "assets/long/L325.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b03",
+     "start_s": 18.04,
+     "image": "assets/long/L326.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b04",
+     "start_s": 26.38,
+     "image": "assets/long/L327.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b05",
+     "start_s": 30.24,
+     "image": "assets/long/L328.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 35.52,
+       "side": "R",
+       "y": 410,
+       "value": "300 TR NĂM",
+       "label": "Cổ vật sống cổ đại",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b06",
+     "start_s": 37.12,
+     "image": "assets/long/L329.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b07",
+     "start_s": 42.8,
+     "image": "assets/long/L330.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b08",
+     "start_s": 51.76,
+     "image": "assets/long/L331.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 53.8,
+       "side": "L",
+       "y": 400,
+       "value": "4 QUẢ TIM",
+       "label": "Đập không cần oxy",
+       "target": [
+        0.35,
+        0.72
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b09",
+     "start_s": 59.0,
+     "image": "assets/long/L332.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b10",
+     "start_s": 66.51,
+     "image": "assets/long/L333.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b11",
+     "start_s": 72.07,
+     "image": "assets/long/L334.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b12",
+     "start_s": 80.49,
+     "image": "assets/long/L335.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 85.43,
+       "side": "R",
+       "y": 420,
+       "value": "100KG",
+       "label": "Hải ly kỷ băng hà",
+       "target": [
+        0.62,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b13",
+     "start_s": 88.35,
+     "image": "assets/long/L336.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b14",
+     "start_s": 94.65,
+     "image": "assets/long/L337.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 101.53,
+       "side": "L",
+       "y": 400,
+       "value": "DÀI 3M",
+       "label": "Quái thú Diprotodon Úc",
+       "target": [
+        0.35,
+        0.72
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b15",
+     "start_s": 101.55,
+     "image": "assets/long/L338.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b16",
+     "start_s": 108.3,
+     "image": "assets/long/L339.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 114.48,
+       "side": "R",
+       "y": 410,
+       "value": "500 TR NĂM",
+       "label": "Kỷ Cambri cổ đại",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b17",
+     "start_s": 115.36,
+     "image": "assets/long/L340.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b18",
+     "start_s": 122.94,
+     "image": "assets/long/L341.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b19",
+     "start_s": 130.39,
+     "image": "assets/long/L342.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b20",
+     "start_s": 138.99,
+     "image": "assets/long/L343.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b21",
+     "start_s": 147.37,
+     "image": "assets/long/L344.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b22",
+     "start_s": 154.15,
+     "image": "assets/long/L345.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b23",
+     "start_s": 160.84,
+     "image": "assets/long/L346.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b24",
+     "start_s": 168.7,
+     "image": "assets/long/L347.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b25",
+     "start_s": 176.54,
+     "image": "assets/long/L348.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b26",
+     "start_s": 184.8,
+     "image": "assets/long/L349.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b27",
+     "start_s": 192.88,
+     "image": "assets/long/L350.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b28",
+     "start_s": 202.41,
+     "image": "assets/long/L351.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b29",
+     "start_s": 209.51,
+     "image": "assets/long/L352.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b30",
+     "start_s": 216.51,
+     "image": "assets/long/L353.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b31",
+     "start_s": 223.1,
+     "image": "assets/long/L354.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b32",
+     "start_s": 231.8,
+     "image": "assets/long/L355.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene10",
+   "voice": "audio/scene10.wav",
+   "duration_s": 255.416,
+   "chapter_no": 10,
+   "badge": "VÒNG 7: PHÚC KHẢO TIN ĐỒN",
+   "header_image": "assets/banners/chapter_10.png",
+   "title": "PHÚC KHẢO TIN ĐỒN THẾ KỶ & ĐẬP TAN NHỮNG LẦM TƯỞNG",
+   "card_hook": "PHÚC KHẢO TIN ĐỒN THẾ KỶ",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene10_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L356.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b02",
+     "start_s": 7.9,
+     "image": "assets/long/L357.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b03",
+     "start_s": 14.48,
+     "image": "assets/long/L358.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b04",
+     "start_s": 22.85,
+     "image": "assets/long/L359.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b05",
+     "start_s": 28.75,
+     "image": "assets/long/L360.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b06",
+     "start_s": 34.59,
+     "image": "assets/long/L361.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b07",
+     "start_s": 42.83,
+     "image": "assets/long/L362.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b08",
+     "start_s": 51.17,
+     "image": "assets/long/L363.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b09",
+     "start_s": 56.33,
+     "image": "assets/long/L364.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b10",
+     "start_s": 62.88,
+     "image": "assets/long/L365.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b11",
+     "start_s": 70.41,
+     "image": "assets/long/L366.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b12",
+     "start_s": 77.57,
+     "image": "assets/long/L367.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b13",
+     "start_s": 84.19,
+     "image": "assets/long/L368.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b14",
+     "start_s": 91.27,
+     "image": "assets/long/L369.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b15",
+     "start_s": 98.61,
+     "image": "assets/long/L370.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b16",
+     "start_s": 104.77,
+     "image": "assets/long/L371.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b17",
+     "start_s": 110.05,
+     "image": "assets/long/L372.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b18",
+     "start_s": 118.63,
+     "image": "assets/long/L373.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b19",
+     "start_s": 127.17,
+     "image": "assets/long/L374.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b20",
+     "start_s": 133.53,
+     "image": "assets/long/L375.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b21",
+     "start_s": 141.97,
+     "image": "assets/long/L376.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b22",
+     "start_s": 150.17,
+     "image": "assets/long/L377.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b23",
+     "start_s": 158.65,
+     "image": "assets/long/L378.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b24",
+     "start_s": 166.51,
+     "image": "assets/long/L379.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b25",
+     "start_s": 173.51,
+     "image": "assets/long/L380.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b26",
+     "start_s": 180.75,
+     "image": "assets/long/L381.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b27",
+     "start_s": 190.45,
+     "image": "assets/long/L382.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b28",
+     "start_s": 198.93,
+     "image": "assets/long/L383.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b29",
+     "start_s": 206.58,
+     "image": "assets/long/L384.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b30",
+     "start_s": 214.34,
+     "image": "assets/long/L385.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b31",
+     "start_s": 221.0,
+     "image": "assets/long/L386.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b32",
+     "start_s": 226.08,
+     "image": "assets/long/L387.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b33",
+     "start_s": 234.04,
+     "image": "assets/long/L388.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b34",
+     "start_s": 239.4,
+     "image": "assets/long/L389.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b35",
+     "start_s": 246.03,
+     "image": "assets/long/L390.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene11",
+   "voice": "audio/scene11.wav",
+   "duration_s": 233.998,
+   "chapter_no": 11,
+   "badge": "BÁN KẾT: PHÒNG THÍ NGHIỆM",
+   "header_image": "assets/banners/chapter_11.png",
+   "title": "THÍ NGHIỆM TƯƠNG LAI",
+   "card_hook": "PHÒNG THÍ NGHIỆM TƯƠNG LAI",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene11_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L391.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b02",
+     "start_s": 7.4,
+     "image": "assets/long/L392.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b03",
+     "start_s": 14.66,
+     "image": "assets/long/L393.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b04",
+     "start_s": 21.71,
+     "image": "assets/long/L394.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b05",
+     "start_s": 26.39,
+     "image": "assets/long/L395.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b06",
+     "start_s": 33.63,
+     "image": "assets/long/L396.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b07",
+     "start_s": 39.71,
+     "image": "assets/long/L397.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 46.63,
+       "side": "R",
+       "y": 410,
+       "value": "GẤP 3 LẦN",
+       "label": "Độ đàn hồi cực cao",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b08",
+     "start_s": 48.37,
+     "image": "assets/long/L398.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b09",
+     "start_s": 55.14,
+     "image": "assets/long/L399.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b10",
+     "start_s": 60.54,
+     "image": "assets/long/L400.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b11",
+     "start_s": 64.51,
+     "image": "assets/long/L401.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b12",
+     "start_s": 70.21,
+     "image": "assets/long/L402.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b13",
+     "start_s": 75.23,
+     "image": "assets/long/L403.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b14",
+     "start_s": 82.21,
+     "image": "assets/long/L404.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b15",
+     "start_s": 89.79,
+     "image": "assets/long/L405.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b16",
+     "start_s": 97.21,
+     "image": "assets/long/L406.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b17",
+     "start_s": 100.79,
+     "image": "assets/long/L407.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b18",
+     "start_s": 107.85,
+     "image": "assets/long/L408.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b19",
+     "start_s": 115.96,
+     "image": "assets/long/L409.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b20",
+     "start_s": 123.38,
+     "image": "assets/long/L410.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b21",
+     "start_s": 131.1,
+     "image": "assets/long/L411.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b22",
+     "start_s": 138.97,
+     "image": "assets/long/L412.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b23",
+     "start_s": 147.77,
+     "image": "assets/long/L413.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b24",
+     "start_s": 155.81,
+     "image": "assets/long/L414.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b25",
+     "start_s": 162.72,
+     "image": "assets/long/L415.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b26",
+     "start_s": 172.02,
+     "image": "assets/long/L416.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b27",
+     "start_s": 180.3,
+     "image": "assets/long/L417.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b28",
+     "start_s": 187.06,
+     "image": "assets/long/L418.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b29",
+     "start_s": 195.36,
+     "image": "assets/long/L419.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b30",
+     "start_s": 202.96,
+     "image": "assets/long/L420.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b31",
+     "start_s": 210.26,
+     "image": "assets/long/L421.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b32",
+     "start_s": 216.16,
+     "image": "assets/long/L422.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b33",
+     "start_s": 222.73,
+     "image": "assets/long/L423.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene12",
+   "voice": "audio/scene12.wav",
+   "duration_s": 251.792,
+   "chapter_no": 12,
+   "badge": "CHUNG KẾT: MÓN QUÀ CHO NHÂN LOẠI",
+   "header_image": "assets/banners/chapter_12.png",
+   "title": "MÓN QUÀ CHO NHÂN LOẠI — CÔNG NGHỆ TƯƠNG LAI ĐỘT PHÁ (ĐIỂM NHÂN ĐÔI)",
+   "card_hook": "MÓN QUÀ CHO NHÂN LOẠI — ĐIỂM NHÂN ĐÔI",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene12_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L424.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b02",
+     "start_s": 8.42,
+     "image": "assets/long/L425.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b03",
+     "start_s": 16.82,
+     "image": "assets/long/L426.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b04",
+     "start_s": 24.22,
+     "image": "assets/long/L427.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b05",
+     "start_s": 32.26,
+     "image": "assets/long/L428.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b06",
+     "start_s": 37.36,
+     "image": "assets/long/L429.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b07",
+     "start_s": 43.18,
+     "image": "assets/long/L430.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b08",
+     "start_s": 52.08,
+     "image": "assets/long/L431.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b09",
+     "start_s": 60.15,
+     "image": "assets/long/L432.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b10",
+     "start_s": 69.31,
+     "image": "assets/long/L433.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b11",
+     "start_s": 75.49,
+     "image": "assets/long/L434.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b12",
+     "start_s": 80.51,
+     "image": "assets/long/L435.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b13",
+     "start_s": 89.77,
+     "image": "assets/long/L436.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b14",
+     "start_s": 96.17,
+     "image": "assets/long/L437.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b15",
+     "start_s": 101.57,
+     "image": "assets/long/L438.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b16",
+     "start_s": 106.01,
+     "image": "assets/long/L439.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b17",
+     "start_s": 114.91,
+     "image": "assets/long/L440.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b18",
+     "start_s": 122.55,
+     "image": "assets/long/L441.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b19",
+     "start_s": 132.73,
+     "image": "assets/long/L442.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b20",
+     "start_s": 138.03,
+     "image": "assets/long/L443.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b21",
+     "start_s": 147.53,
+     "image": "assets/long/L444.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b22",
+     "start_s": 155.79,
+     "image": "assets/long/L445.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b23",
+     "start_s": 163.34,
+     "image": "assets/long/L446.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b24",
+     "start_s": 168.76,
+     "image": "assets/long/L447.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b25",
+     "start_s": 179.3,
+     "image": "assets/long/L448.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b26",
+     "start_s": 184.87,
+     "image": "assets/long/L449.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b27",
+     "start_s": 192.09,
+     "image": "assets/long/L450.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b28",
+     "start_s": 200.86,
+     "image": "assets/long/L451.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b29",
+     "start_s": 206.24,
+     "image": "assets/long/L452.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b30",
+     "start_s": 213.6,
+     "image": "assets/long/L453.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b31",
+     "start_s": 220.71,
+     "image": "assets/long/L454.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b32",
+     "start_s": 229.21,
+     "image": "assets/long/L455.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b33",
+     "start_s": 235.37,
+     "image": "assets/long/L456.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene12_b34",
+     "start_s": 242.87,
+     "image": "assets/long/L457.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene13",
+   "voice": "audio/scene13.wav",
+   "duration_s": 166.172,
+   "chapter_no": 13,
+   "badge": "LỄ BẾ MẠC & TRAO VƯƠNG MIỆN",
+   "header_image": "assets/banners/chapter_13.png",
+   "title": "LỄ BẾ MẠC & TRAO VƯƠNG MIỆN ĐẠI HỘI SINH TỒN MÙA 3",
+   "card_hook": "LỄ TRAO VƯƠNG MIỆN MÙA 3",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene13_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L458.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b02",
+     "start_s": 9.24,
+     "image": "assets/long/L459.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b03",
+     "start_s": 15.62,
+     "image": "assets/long/L460.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b04",
+     "start_s": 22.1,
+     "image": "assets/long/L461.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b05",
+     "start_s": 29.7,
+     "image": "assets/long/L462.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b06",
+     "start_s": 36.67,
+     "image": "assets/long/L463.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b07",
+     "start_s": 41.73,
+     "image": "assets/long/L464.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b08",
+     "start_s": 48.47,
+     "image": "assets/long/L465.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b09",
+     "start_s": 56.51,
+     "image": "assets/long/L466.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b10",
+     "start_s": 62.31,
+     "image": "assets/long/L467.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b11",
+     "start_s": 65.39,
+     "image": "assets/long/L468.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b12",
+     "start_s": 71.76,
+     "image": "assets/long/L469.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b13",
+     "start_s": 80.04,
+     "image": "assets/long/L470.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b14",
+     "start_s": 86.4,
+     "image": "assets/long/L471.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b15",
+     "start_s": 96.78,
+     "image": "assets/long/L472.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b16",
+     "start_s": 105.74,
+     "image": "assets/long/L473.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b17",
+     "start_s": 112.54,
+     "image": "assets/long/L474.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b18",
+     "start_s": 120.65,
+     "image": "assets/long/L475.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b19",
+     "start_s": 127.57,
+     "image": "assets/long/L476.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b20",
+     "start_s": 135.74,
+     "image": "assets/long/L477.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b21",
+     "start_s": 143.66,
+     "image": "assets/long/L478.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b22",
+     "start_s": 152.06,
+     "image": "assets/long/L479.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene13_b23",
+     "start_s": 161.24,
+     "image": "assets/long/L480.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene14",
+   "voice": "audio/scene14.wav",
+   "duration_s": 170.889,
+   "chapter_no": 14,
+   "badge": "BẢO TỒN SINH THÁI & HÉ LỘ MÙA 4",
+   "header_image": "assets/banners/chapter_14.png",
+   "title": "BÀI HỌC BẢO TỒN, CÂU HỎI BÌNH LUẬN & HÉ LỘ MÙA 4",
+   "card_hook": "BÀI HỌC BẢO TỒN & HÉ LỘ MÙA 4",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene14_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L481.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b02",
+     "start_s": 6.9,
+     "image": "assets/long/L482.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b03",
+     "start_s": 12.92,
+     "image": "assets/long/L483.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b04",
+     "start_s": 19.5,
+     "image": "assets/long/L484.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b05",
+     "start_s": 29.5,
+     "image": "assets/long/L485.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b06",
+     "start_s": 37.64,
+     "image": "assets/long/L486.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b07",
+     "start_s": 45.86,
+     "image": "assets/long/L487.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b08",
+     "start_s": 53.58,
+     "image": "assets/long/L488.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b09",
+     "start_s": 60.0,
+     "image": "assets/long/L489.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b10",
+     "start_s": 73.22,
+     "image": "assets/long/L490.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b11",
+     "start_s": 79.01,
+     "image": "assets/long/L491.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b12",
+     "start_s": 88.73,
+     "image": "assets/long/L492.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b13",
+     "start_s": 97.64,
+     "image": "assets/long/L493.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b14",
+     "start_s": 105.0,
+     "image": "assets/long/L494.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b15",
+     "start_s": 113.17,
+     "image": "assets/long/L495.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b16",
+     "start_s": 119.02,
+     "image": "assets/long/L496.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b17",
+     "start_s": 130.16,
+     "image": "assets/long/L497.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b18",
+     "start_s": 135.89,
+     "image": "assets/long/L498.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b19",
+     "start_s": 144.85,
+     "image": "assets/long/L499.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b20",
+     "start_s": 150.03,
+     "image": "assets/long/L500.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b21",
+     "start_s": 157.19,
+     "image": "assets/long/L501.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene14_b22",
+     "start_s": 164.04,
+     "image": "assets/long/L502.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

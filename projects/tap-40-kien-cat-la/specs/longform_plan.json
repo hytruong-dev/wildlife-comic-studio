@@ -1,0 +1,480 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "KHÁM PHÁ KỲ QUAN KIẾN TRÚC ĐẠI CÔNG TRÌNH NGẦM DƯỚI LÒNG ĐẤT",
+   "hook": "Bí mật về nền nông nghiệp lâu đời nhất hành tinh",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "phòng thiết kế kỹ thuật sinh học",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy quan sát mặt cắt bản vẽ kỹ thuật",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ăn sâu 8m xuống lòng đất",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vận chuyển hơn 40 tấn đất đá",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "xây dựng đại kim tự tháp Giza",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thưa Tổng chỉ huy công trình",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "có tới hơn 1.000 căn phòng chuyên dụng",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Những công trình sư tài ba",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "gọi chúng bằng danh hiệu",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thành lập những trang trại trồng nấm",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nuôi dưỡng những vườn nấm khổng lồ",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "ĐẠI CÔNG TRƯỜNG NGẦM"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "CẶP HÀM RĂNG CƯA RUNG TẦN SỐ CAO CẮT NGỌT TỪNG PHIẾN LÁ",
+   "hook": "Cơ chế dao cắt rung siêu âm lấy cảm hứng cho ngành cơ khí",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hàm của kiến thợ cắt lá được gia cố",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ngang ngửa với lưỡi dao phẫu thuật",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cơ chế rung tần số cao",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tần số lên tới 1.000 lần mỗi giây",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "xẻ ngọt phiến lá dai nhách",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thưa Chỉ huy có phải mỗi mảnh lá cây",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ngoạm chặt một mảnh lá",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tương đương với việc một người lực sĩ",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cảnh tượng kỳ vĩ tựa như một dòng sông",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tốc độ hành quân của những đoàn kiến",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "xa lộ liên tỉnh bằng phẳng",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "LƯỠI CƯA SINH HỌC"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "TRANG TRẠI NẤM CỘNG SINH CỔ XƯA NHẤT HÀNH TINH",
+   "hook": "Mối quan hệ cộng sinh tương hỗ hoàn hảo giữa kiến và nấm",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Loài nấm này mang tên",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "gắn liền với số phận loài kiến",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quy trình chế biến thức ăn tại đây",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tẩm ướp các giọt enzyme tiêu hóa",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sợi nấm sẽ tiêu hóa chất xơ",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Những viên nang dinh dưỡng này",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Loài nấm này phụ thuộc hoàn toàn",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng để duy trì một vườn nấm khổng lồ",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ước tính mỗi tổ kiến cắt lá tiêu thụ",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "không bao giờ tàn sát một cái cây",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tránh tích tụ độc tố thực vật",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VƯỜN NẤM NGẦM"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "HỆ THỐNG THÔNG GIÓ ĐỐI LƯU GIỮ NHIỆT ĐỘ HAI MƯƠI LĂM ĐỘ HOÀN HẢO",
+   "hook": "Kỹ thuật thông gió thụ động lấy cảm hứng cho các tòa nhà chọc trời",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vườn nấm ngầm đòi hỏi một môi trường",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bất kể bên ngoài mặt đất đang là nắng hạn",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đào đục hàng ngàn giếng thông gió",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sự chênh lệch áp suất khí quyển",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hiệu ứng ống khói đối lưu nhiệt",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi nhiệt độ thay đổi",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhiều tòa nhà chọc trời tiết kiệm năng lượng",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "giảm 90% chi phí điện máy lạnh",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và để bảo vệ kỳ quan đô thị này",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngay cả trong những trận mưa lũ",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một bản lĩnh thiết kế thủy lợi",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỆ THỐNG ĐIỀU HÒA"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "PHÂN CHIA ĐẲNG CẤP XÃ HỘI CỰC ĐOAN VÀ VŨ KHÍ KHÁNG SINH SỐNG",
+   "hook": "Đội quân kiến lính bọc thép và phòng thí nghiệm y tế di động",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chẳng có một xã hội động vật nào",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở vị trí quân đội thường trực",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cắn thủng lớp da giày",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngược lại ở vị trí chăm sóc y tế",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "xua đuổi những con ruồi ký sinh phorid",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "trên lớp vỏ mai của kiến thợ",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhà máy sản xuất thuốc kháng sinh",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tiêu diệt đặc hiệu các loài nấm mốc",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "giữ cho trang trại nấm ngầm luôn vô trùng",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một hệ thống y tế và an ninh",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bảo vệ sự phồn vinh của đế chế ngầm",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "LỰC LƯỢNG QUÂN SỰ"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "TÔN VINH KIỆT TÁC KIẾN TRÚC VÀ BÀI HỌC CHO NHÂN LOẠI",
+   "hook": "Bài học về sự đoàn kết tổ chức và phát triển bền vững",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vườn nấm nông nghiệp 50 triệu năm",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hình mẫu kiểu mẫu về nền kinh tế tuần hoàn",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tạo nên thảm thực vật xanh tươi",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bài học từ loài kiến nhỏ bé",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tinh thần kỷ luật và sự phân công",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giữa hệ thống điều hòa thông gió đối lưu",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy để lại ý kiến đóng góp của bạn",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhấn nút Đăng Ký Kênh",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Xin chào tạm biệt và hẹn gặp lại",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "TỔNG KẾT DỰ ÁN"
+  }
+ }
+}

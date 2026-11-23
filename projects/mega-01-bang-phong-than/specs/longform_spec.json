@@ -1,0 +1,786 @@
+{
+ "episode": "mega-01-bang-phong-than",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 11,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "intro_mode": "full_first",
+ "output": "renders/mega-01-bang-phong-than_long.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 46.012,
+   "chapter_no": 1,
+   "badge": "ĐẠI HỘI SINH TỒN",
+   "header_image": "assets/banners/chapter_01.png",
+   "title": "ĐẠI HỘI SINH TỒN XẾP HẠNG 10 QUÁI KIỆT",
+   "card_hook": "10 QUÁI KIỆT – 1 NGÔI VƯƠNG",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L01.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 5.4,
+     "image": "assets/long/L02.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 7.72,
+     "image": "assets/long/L03.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 14.42,
+     "image": "assets/long/L04.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 19.8,
+     "image": "assets/long/L05.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 22.52,
+     "image": "assets/long/L06.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b07",
+     "start_s": 29.7,
+     "image": "assets/long/L07.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b08",
+     "start_s": 36.82,
+     "image": "assets/long/L08.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b09",
+     "start_s": 42.18,
+     "image": "assets/long/L09.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 21.279,
+   "chapter_no": 2,
+   "badge": "HẠNG 9",
+   "header_image": "assets/banners/chapter_02.png",
+   "title": "KOALA NHẬN HẠNG 10, GỌI TÊN HẠNG 9",
+   "card_hook": "HỌC GIẢ TƯỞNG LÀ ĐỒ GIẢ",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L10.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 3.74,
+     "image": "assets/long/L11.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 8.28,
+     "image": "assets/long/L12.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 11.62,
+     "image": "assets/long/L13.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 16.58,
+     "image": "assets/long/L14.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 19.533,
+   "chapter_no": 3,
+   "badge": "HẠNG 8",
+   "header_image": "assets/banners/chapter_03.png",
+   "title": "THÚ MỎ VỊT LÊN BẢNG, GỌI TÊN HẠNG 8",
+   "card_hook": "THẤY GÌ CŨNG HÁ MỎ KẸP THỬ",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L15.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 2.64,
+     "image": "assets/long/L16.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 9.14,
+     "image": "assets/long/L17.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 13.12,
+     "image": "assets/long/L18.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 14.04,
+       "side": "L",
+       "y": 360,
+       "value": "13 LÍT",
+       "label": "túi mỏ chứa nước",
+       "target": [
+        0.66,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b05",
+     "start_s": 16.08,
+     "image": "assets/long/L19.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 20.675,
+   "chapter_no": 4,
+   "badge": "HẠNG 7",
+   "header_image": "assets/banners/chapter_04.png",
+   "title": "BỒ NÔNG CHỐT TẦNG LỖI TẠO HÓA, MỞ TẦNG TỘI PHẠM",
+   "card_hook": "BƯỚC VÀO THẾ GIỚI NGẦM",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L20.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 3.76,
+     "image": "assets/long/L21.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 7.54,
+     "image": "assets/long/L22.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 11.74,
+     "image": "assets/long/L23.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b05",
+     "start_s": 13.92,
+     "image": "assets/long/L24.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b06",
+     "start_s": 17.4,
+     "image": "assets/long/L25.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 20.783,
+   "chapter_no": 5,
+   "badge": "HẠNG 6",
+   "header_image": "assets/banners/chapter_05.png",
+   "title": "CÁNH CỤT VÀO TẦNG TỘI PHẠM, GỌI TÊN HẠNG 6",
+   "card_hook": "NẮM TAY NGỦ NHƯNG BẮT CÓC CON TIN",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L26.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 4.18,
+     "image": "assets/long/L27.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 7.72,
+     "image": "assets/long/L28.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 10.8,
+     "image": "assets/long/L29.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b05",
+     "start_s": 15.02,
+     "image": "assets/long/L30.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b06",
+     "start_s": 17.82,
+     "image": "assets/long/L31.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 18.118,
+   "chapter_no": 6,
+   "badge": "HẠNG 5",
+   "header_image": "assets/banners/chapter_06.png",
+   "title": "RÁI CÁ VÀO TẦNG TỘI PHẠM, GỌI TÊN HẠNG 5",
+   "card_hook": "NỤ CƯỜI KHÔNG BAO GIỜ TẮT",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L32.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 2.26,
+     "image": "assets/long/L33.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 5.14,
+     "image": "assets/long/L34.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b04",
+     "start_s": 9.2,
+     "image": "assets/long/L35.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b05",
+     "start_s": 12.42,
+     "image": "assets/long/L36.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b06",
+     "start_s": 15.4,
+     "image": "assets/long/L37.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene07",
+   "voice": "audio/scene07.wav",
+   "duration_s": 22.877,
+   "chapter_no": 7,
+   "badge": "HẠNG 4",
+   "header_image": "assets/banners/chapter_07.png",
+   "title": "CÁ HEO CHỐT TẦNG TỘI PHẠM, MỞ HẠNG A",
+   "card_hook": "15KG DÁM CƯỚP MỒI GẤU XÁM",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene07_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L38.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b02",
+     "start_s": 4.82,
+     "image": "assets/long/L39.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b03",
+     "start_s": 10.1,
+     "image": "assets/long/L40.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 13.16,
+       "side": "L",
+       "y": 360,
+       "value": "15 KG",
+       "label": "gã liều mạng",
+       "target": [
+        0.55,
+        0.62
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b04",
+     "start_s": 13.98,
+     "image": "assets/long/L41.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 15.28,
+       "side": "R",
+       "y": 330,
+       "value": "300 KG",
+       "label": "gấu xám bị cướp",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b05",
+     "start_s": 16.38,
+     "image": "assets/long/L42.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene07_b06",
+     "start_s": 18.98,
+     "image": "assets/long/L43.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene08",
+   "voice": "audio/scene08.wav",
+   "duration_s": 20.028,
+   "chapter_no": 8,
+   "badge": "TOP 3 HẠNG S",
+   "header_image": "assets/banners/chapter_08.png",
+   "title": "CHỒN GULO GIỮ HẠNG A, MỞ KHÓA TOP 3",
+   "card_hook": "CÚ ĐẤM NÓNG NGANG MẶT TRỜI",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene08_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L44.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b02",
+     "start_s": 4.22,
+     "image": "assets/long/L45.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b03",
+     "start_s": 8.84,
+     "image": "assets/long/L46.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b04",
+     "start_s": 11.0,
+     "image": "assets/long/L47.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 13.4,
+       "side": "L",
+       "y": 380,
+       "value": "< 20 CM",
+       "label": "võ sĩ tí hon",
+       "target": [
+        0.55,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b05",
+     "start_s": 14.02,
+     "image": "assets/long/L48.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene08_b06",
+     "start_s": 17.82,
+     "image": "assets/long/L49.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene09",
+   "voice": "audio/scene09.wav",
+   "duration_s": 23.735,
+   "chapter_no": 9,
+   "badge": "HẠNG 2",
+   "header_image": "assets/banners/chapter_09.png",
+   "title": "TÔM TÍT NHẬN HẠNG S, GỌI TÊN Á QUÂN",
+   "card_hook": "BỊ RẮN HỔ MANG CẮN VẪN ĂN NỐT CON RẮN",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene09_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L50.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b02",
+     "start_s": 4.84,
+     "image": "assets/long/L51.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b03",
+     "start_s": 7.28,
+     "image": "assets/long/L52.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b04",
+     "start_s": 13.16,
+     "image": "assets/long/L53.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b05",
+     "start_s": 16.64,
+     "image": "assets/long/L54.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b06",
+     "start_s": 18.72,
+     "image": "assets/long/L55.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene09_b07",
+     "start_s": 21.32,
+     "image": "assets/long/L56.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene10",
+   "voice": "audio/scene10.wav",
+   "duration_s": 23.42,
+   "chapter_no": 10,
+   "badge": "HẠNG S+",
+   "header_image": "assets/banners/chapter_10.png",
+   "title": "LỬNG MẬT Á QUÂN, LỘ DIỆN NHÀ VÔ ĐỊCH",
+   "card_hook": "SỐNG SÓT CẢ NGOÀI VŨ TRỤ",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene10_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L57.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b02",
+     "start_s": 2.72,
+     "image": "assets/long/L58.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b03",
+     "start_s": 5.76,
+     "image": "assets/long/L59.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b04",
+     "start_s": 10.22,
+     "image": "assets/long/L60.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 11.9,
+       "side": "L",
+       "y": 360,
+       "value": "< 1 MM",
+       "label": "nhà vô địch tí hon",
+       "target": [
+        0.6,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b05",
+     "start_s": 14.44,
+     "image": "assets/long/L61.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b06",
+     "start_s": 16.94,
+     "image": "assets/long/L62.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene10_b07",
+     "start_s": 20.46,
+     "image": "assets/long/L63.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene11",
+   "voice": "audio/scene11.wav",
+   "duration_s": 27.017,
+   "chapter_no": 11,
+   "badge": "TRAO VƯƠNG MIỆN",
+   "header_image": "assets/banners/chapter_11.png",
+   "title": "BẢNG PHONG THẦN CUỐI CÙNG & LỄ TRAO VƯƠNG MIỆN",
+   "card_hook": "BẠN XẾP AI LÊN NGÔI VƯƠNG?",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene11_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L64.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b02",
+     "start_s": 3.04,
+     "image": "assets/long/L65.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b03",
+     "start_s": 5.32,
+     "image": "assets/long/L66.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b04",
+     "start_s": 7.54,
+     "image": "assets/long/L67.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b05",
+     "start_s": 10.14,
+     "image": "assets/long/L68.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b06",
+     "start_s": 13.64,
+     "image": "assets/long/L69.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene11_b07",
+     "start_s": 20.82,
+     "image": "assets/long/L70.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

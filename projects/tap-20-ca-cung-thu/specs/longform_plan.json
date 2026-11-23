@@ -1,0 +1,717 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "THIỆN XẠ ĐẦM LẦY 20CM BẮN TIA NƯỚC HẠ GỤC MỤC TIÊU CÁCH 2M",
+   "hook": "LOÀI CÁ BẮN NƯỚC BÁCH PHÁT BÁCH TRÚNG LÊN CẠN",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Toàn đội kỹ thuật",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chiến trường mà chúng",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nơi một sát thủ",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhân vật đứng trước",
+     "image": "assets/long/L05.png",
+     "stickers": [
+      {
+       "at": "15-20cm",
+       "side": "L",
+       "y": 380,
+       "value": "15-20cm",
+       "label": "chiều dài cơ thể",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "khoác lên mình bộ",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong giới quân sự",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quy tắc tác chiến",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng Thiện Xạ Đầm",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu con mồi đậu",
+     "image": "assets/long/L10.png",
+     "stickers": [
+      {
+       "at": "2m",
+       "side": "R",
+       "y": 380,
+       "value": "2 MÉT",
+       "label": "tầm bắn hiệu quả",
+       "target": [
+        0.75,
+        0.55
+       ]
+      },
+      {
+       "at": "3m",
+       "side": "R",
+       "y": 480,
+       "value": "3 MÉT",
+       "label": "kỷ lục cực đại",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hỏa lực của gã",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một phát bắn trúng",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hôm nay, ban chỉ",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Làm thế nào một",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỒ SƠ XẠ THỦ"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "RÃNH CHỮ V VÀ KỸ THUẬT NÉN ĐẠN NƯỚC GIA TỐC ĐUÔI",
+   "hook": "NÒNG SÚNG RÃNH CHỮ V VÀ GIỌT ĐẠN NƯỚC KHỔNG LỒ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Rất nhiều người nghĩ",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sai lầm hoàn toàn",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở vòm họng trên",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "biến khoang miệng thành",
+     "image": "assets/long/L19.png",
+     "stickers": [
+      {
+       "at": "1mm",
+       "side": "L",
+       "y": 380,
+       "value": "1 mm",
+       "label": "đường kính nòng",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tiếp theo, hai nắp",
+     "image": "assets/long/L20.png",
+     "stickers": [
+      {
+       "at": "4-5 m/s",
+       "side": "R",
+       "y": 380,
+       "value": "4-5 m/s",
+       "label": "vận tốc đạn nước",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng bí mật kinh",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo chỉ huy",
+     "image": "assets/long/L22.png",
+     "stickers": [
+      {
+       "at": "20%",
+       "side": "L",
+       "y": 380,
+       "value": "+20% SPD",
+       "label": "gia tốc phần đuôi",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đây chính là tuyệt",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi bay trên không",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hiện tượng này biến",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tăng vọt gấp 5-10",
+     "image": "assets/long/L25.png",
+     "stickers": [
+      {
+       "at": "gấp 5-10 lần",
+       "side": "R",
+       "y": 380,
+       "value": "x10 LỰC",
+       "label": "động năng nén tụ",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết đâu các",
+     "image": "assets/long/L26.png",
+     "stickers": [
+      {
+       "at": "6-7",
+       "side": "L",
+       "y": 380,
+       "value": "6-7 PHÁT",
+       "label": "bắn liên thanh",
+       "target": [
+        0.3,
+        0.55
+       ]
+      },
+      {
+       "at": "2 giây",
+       "side": "R",
+       "y": 480,
+       "value": "2 GIÂY",
+       "label": "thời gian xả đạn",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi phát bắn đều",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẢN VẼ NÒNG SÚNG"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "BỘ NÃO TỰ ĐỘNG GIẢI ĐỊNH LUẬT KHÚC XẠ SNELL",
+   "hook": "BỘ NÃO 0,1 GAM GIẢI BÀI TOÁN KHÚC XẠ TRONG 0,05 GIÂY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và trở ngại chết",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bất kỳ học sinh",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Do đó, vị trí",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu bạn bắn thẳng",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng bộ não của",
+     "image": "assets/long/L33.png",
+     "stickers": [
+      {
+       "at": "50 mili-giây",
+       "side": "L",
+       "y": 380,
+       "value": "50 ms",
+       "label": "tính toán khúc xạ",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Alo các bác xạ",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đúng như chú nhện",
+     "image": "assets/long/L35.png",
+     "stickers": [
+      {
+       "at": "70°",
+       "side": "L",
+       "y": 380,
+       "value": "70°-80°",
+       "label": "góc ngắm chuẩn",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng ngay cả khi",
+     "image": "assets/long/L69.png",
+     "stickers": [
+      {
+       "at": "95%",
+       "side": "R",
+       "y": 380,
+       "value": "95% HIT",
+       "label": "độ chính xác",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đôi mắt to tròn",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí võng mạc",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một hệ thống kính",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "THUẬT TOÁN QUANG HỌC"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "TÂN BINH BẮN HỤT TRĂM PHÁT VÀ NĂNG LỰC HỌC TẬP",
+   "hook": "KHÔNG PHẢI BẢN NĂNG CÓ SẴN MÀ PHẢI TẬP BẮN TỪ BÉ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nghiên cứu thực nghiệm",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bản tin huấn luyện",
+     "image": "assets/long/L40.png",
+     "stickers": [
+      {
+       "at": "99%",
+       "side": "L",
+       "y": 380,
+       "value": "99% TRƯỢT",
+       "label": "tân binh mới nở",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đúng là cảnh tượng",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cá cung thủ non",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng điều làm kinh",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một con cá non",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khả năng quan sát",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một minh chứng hùng",
+     "image": "assets/long/L71.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để kiểm chứng điều",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ sau vài lượt",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HUẤN LUYỆN TÁC CHIẾN"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "TÍNH QUỸ ĐẠO RƠI TRONG 100MS VÀ CÚ NHẢY NGOẠM MỒI",
+   "hook": "TÍNH TOÁN ĐIỂM RƠI TRONG 100 MILI-GIÂY VÀ CUỘC ĐUA CƯỚP MỒI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong thế giới đầm",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngay khoảnh khắc tia",
+     "image": "assets/long/L50.png",
+     "stickers": [
+      {
+       "at": "100 mili-giây",
+       "side": "L",
+       "y": 380,
+       "value": "100 ms",
+       "label": "tính điểm rơi",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Không cần đợi nhìn",
+     "image": "assets/long/L51.png",
+     "stickers": [
+      {
+       "at": "0,1 giây",
+       "side": "R",
+       "y": 380,
+       "value": "0,1 GIÂY",
+       "label": "bơi nước rút",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Một pha đoán đầu",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cuộc đua cướp mồi",
+     "image": "assets/long/L53.png",
+     "stickers": [
+      {
+       "at": "3-4",
+       "side": "L",
+       "y": 380,
+       "value": "3-4 CON",
+       "label": "lao vào tranh cướp",
+       "target": [
+        0.25,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nếu tay súng chính",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tôi bắn tỉa trong",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí Thiện Xạ",
+     "image": "assets/long/L56.png",
+     "stickers": [
+      {
+       "at": "30cm",
+       "side": "R",
+       "y": 380,
+       "value": "30 cm",
+       "label": "nhảy không đối không",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Con cá chỉ cần",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuy nhiên, cỗ máy",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "ĐOÁN TRƯỚC ĐIỂM RƠI"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "BÀI HỌC ĐỘ CHÍNH XÁC VÀ BÓNG ĐEN WOLVERINE 860V TẬP SAU",
+   "hook": "BÀI HỌC VỀ ĐỘ CHÍNH XÁC VÀ BẬT MÍ BÓNG ĐEN TẬP 21",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sự am hiểu quy",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chính cơ chế nén",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thiết kế ra những",
+     "image": "assets/long/L72.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bạn khâm phục điều",
+     "image": "assets/long/L62.png",
+     "stickers": [
+      {
+       "at": "Khẩu đại bác",
+       "side": "L",
+       "y": 380,
+       "value": "ĐẠI BÁC",
+       "label": "đạn nước gia tốc",
+       "target": [
+        0.25,
+        0.55
+       ]
+      },
+      {
+       "at": "giải định luật",
+       "side": "R",
+       "y": 480,
+       "value": "BỘ NÃO",
+       "label": "giải khúc xạ quang học",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và bây giờ, hãy",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy chiêm ngưỡng một",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một sinh vật lưỡng",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi bị kẻ săn",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đố các chuyên viên",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BÁO CÁO THỬ NGHIỆM"
+  }
+ }
+}

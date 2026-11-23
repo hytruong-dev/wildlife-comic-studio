@@ -1,0 +1,1063 @@
+{
+ "_doc": "Storyboard Tập 9 — mỗi câu thoại = 1 beat = 1 ảnh. Chạy: python src/episode/build_plans.py projects/tap-09-chim-canh-cut",
+ "characters": {
+  "HERO": "chú chim cánh cụt Adélie hoạt hình nhỏ nhắn tròn trịa: đầu và lưng đen tuyền, bụng trắng, quanh mỗi mắt có vòng trắng tròn nổi bật, mắt to long lanh biểu cảm, mỏ ngắn màu đen, chân hồng cam, đeo một chiếc nơ bướm đỏ nhỏ ở cổ",
+  "HERO_S": "chú cánh cụt Adélie đen trắng, vòng trắng quanh mắt, nơ bướm đỏ ở cổ",
+  "NO_HERO": "KHÔNG có chú cánh cụt nơ đỏ trong cảnh này",
+  "JUDGE": "ngài thẩm phán hải mã (walrus) già đội tóc giả trắng xoăn, cầm búa gỗ",
+  "LAWYER": "ông công tố viên hoạt hình đeo kính tròn, mặc áo choàng đen"
+ },
+ "side_characters": [
+  "JUDGE",
+  "LAWYER"
+ ],
+ "shorts_side_characters": [
+  "JUDGE"
+ ],
+ "shorts_title_lines": [
+  "ĐẨY BẠN XUỐNG BIỂN",
+  "ĐỂ THỬ HẢI CẨU?!"
+ ],
+ "skip_numbers": [
+  29
+ ],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Toàn cảnh Nam Cực trong bão tuyết: núi băng trắng xanh, gió cuốn tuyết thành vệt, bầu trời xám. BÊN PHẢI cắm một chiếc nhiệt kế khổng lồ đóng băng, cột đỏ tụt xuống tận đáy. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "-40°C",
+     "side": "R",
+     "y": 360,
+     "value": "-40°C",
+     "label": "lạnh thấu xương",
+     "target": [
+      0.78,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Một viên sỏi vừa",
+   "layout": "Một cái tổ hình vòng tròn xếp bằng những viên sỏi xám nằm trên bãi đá, phía trước tổ có một chỗ trống hình viên sỏi được khoanh bằng nét đứt như hiện trường vụ án; một chiếc kính lúp to ở GIỮA soi vào chỗ trống; BÊN TRÁI một chú cánh cụt hàng xóm (không đeo nơ) há mỏ sửng sốt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Ở mép băng, một",
+   "layout": "Mép một tảng băng trôi trên biển xanh thẫm: một chú cánh cụt (không đeo nơ) đang rơi tõm xuống nước, hai cánh vung loạn, nước bắn tung tóe; trên mép băng thấy một chiếc chân cánh cụt khác vừa rụt lại đầy bí ẩn.",
+   "stickers": [],
+   "impacts": [
+    "rơi tõm"
+   ]
+  },
+  {
+   "scene": "scene01",
+   "at": "Và trên nền tuyết",
+   "layout": "Nhìn từ trên cao: nền tuyết trắng với nhiều vệt màu hồng trắng tỏa ra từ một cái tổ sỏi như tia nắng, giống hiện trường bị bắn súng sơn; một cái bóng đen nhỏ lạch bạch bỏ đi ở góc phải.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bị cáo, mời đứng",
+   "layout": "Phòng xử án băng giá: Ở GIỮA trên bục cao là {JUDGE}, mặt nghiêm nghị, búa gỗ giơ lên; phía dưới BÊN PHẢI là vành móng ngựa bằng gỗ còn trống, đèn chiếu sáng vào đó.",
+   "stickers": [],
+   "impacts": [
+    "mời đứng lên"
+   ]
+  },
+  {
+   "scene": "scene01",
+   "at": "Và bị cáo là",
+   "layout": "Trong vành móng ngựa gỗ là {HERO}, nhỏ xíu đến mức chỉ ló được nửa cái đầu qua thành gỗ, đang nhón chân; BÊN TRÁI là một con mèo nhà màu cam ngồi cạnh để so sánh kích cỡ (cao gần bằng nhau); có thước đo chiều cao vẽ vạch (không số) sau lưng chú cánh cụt.",
+   "stickers": [
+    {
+     "at": "70cm",
+     "side": "R",
+     "y": 330,
+     "value": "70 CM",
+     "label": "chiều cao bị cáo",
+     "target": [
+      0.62,
+      0.45
+     ]
+    },
+    {
+     "at": "3-6kg",
+     "side": "L",
+     "y": 470,
+     "value": "3-6 KG",
+     "label": "nặng như con mèo",
+     "target": [
+      0.25,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Kính thưa bồi thẩm",
+   "layout": "Chân dung cận cảnh {HERO}, đứng thẳng như chụp ảnh hồ sơ, hai cánh khép, vòng trắng quanh mắt tròn xoe như vừa bị dọa giật mình, vài giọt mồ hôi lo lắng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Ở tòa này, chúng",
+   "layout": "{HERO} thêm áo vest đuôi tôm đen bóng như đi dự tiệc cưới, cầm ly nước, cười lịch lãm; BÊN PHẢI là một chồng hồ sơ giấy khổng lồ cao hơn cả chú cánh cụt, sắp đổ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hôm nay, công tố",
+   "layout": "{LAWYER} đứng BÊN TRÁI giơ tay chỉ vào một bảng ghim 4 tấm ảnh bằng chứng ở BÊN PHẢI: một viên sỏi, một cú rơi xuống nước bắn tung tóe, một vệt bắn màu hồng trắng, một bàn tay bị tát đỏ ửng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Còn bồi thẩm đoàn",
+   "layout": "Hàng ghế bồi thẩm đoàn gồm các bạn nhỏ hoạt hình đủ màu da và vài con thú dễ thương, nửa số đang nhìn với đôi mắt trái tim, nửa còn lại nheo mắt nghi ngờ; ở GIỮA phía trước là {HERO} đang chớp mắt ngây thơ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Một túi nilon đựng tang vật trong suốt kẹp nhãn trắng (nhãn trống không chữ) đặt trên bàn gỗ của tòa; bên trong túi chỉ có đúng MỘT viên sỏi xám bé xíu; đèn rọi vào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng ở Nam Cực",
+   "layout": "Bản đồ lục địa Nam Cực hoạt hình nhìn từ trên: gần như toàn bộ phủ băng trắng, chỉ có vài mảng đá nâu xám nhỏ xíu dọc bờ biển được khoanh tròn đỏ; một chiếc kính lúp ở GIỮA-PHẢI soi vào một mảng đá. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "2%",
+     "side": "R",
+     "y": 380,
+     "value": "2%",
+     "label": "đất không có băng",
+     "target": [
+      0.7,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Mỗi mùa xuân, hàng",
+   "layout": "Một đoàn cánh cụt Adélie đông nghịt nối đuôi nhau lạch bạch đi từ biển băng lên một bãi đá trống, kéo dài tới tận chân trời, con nào cũng hăm hở.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và tổ của chúng",
+   "layout": "Chia 3 ô: BÊN TRÁI tổ cỏ bị gạch chéo đỏ, Ở GIỮA tổ lông vũ bị gạch chéo đỏ, BÊN PHẢI một cái tổ tròn xếp bằng sỏi xám có dấu tích xanh lá to.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Trung bình mỗi tổ",
+   "layout": "{HERO} ngậm một viên sỏi trong mỏ, mồ hôi nhễ nhại, cạnh một đống sỏi cao như núi nhỏ BÊN PHẢI; BÊN TRÁI là con mèo nhà ngồi nhìn ngạc nhiên để so sánh: con chim nặng bằng con mèo mà phải khuân cả núi đá.",
+   "stickers": [
+    {
+     "at": "200 viên",
+     "side": "R",
+     "y": 340,
+     "value": "200 VIÊN",
+     "label": "sỏi cho 1 cái tổ",
+     "target": [
+      0.72,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và thế là tội",
+   "layout": "Bãi đá với nhiều tổ sỏi: BÊN TRÁI một chú cánh cụt hàng xóm (không đeo nơ) đang quay lưng ngắm biển; BÊN PHẢI {HERO} đeo mặt nạ kẻ trộm đen che mắt, nhón chân rón rén tiến tới tổ hàng xóm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Ngoạm một viên! Quay",
+   "layout": "{HERO} ngậm một viên sỏi, chạy lạch bạch thật nhanh với vệt chuyển động phía sau, từ tổ hàng xóm BÊN TRÁI về tổ của mình BÊN PHẢI, mũi tên nét đứt chỉ đường đi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Có kẻ trộm xong",
+   "layout": "{HERO} đứng ngay sau lưng một chú cánh cụt hàng xóm đang ngủ gật trên tổ, một cánh đặt lên cằm như đang lựa chọn, mắt nheo nhìn viên sỏi đẹp nhất trong tổ của nạn nhân.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nạn nhân phát hiện",
+   "layout": "Cuộc rượt đuổi vòng quanh bãi đá: một chú cánh cụt hàng xóm giận dữ (không đeo nơ) giơ cánh đuổi theo {HERO} đang ngậm sỏi bỏ chạy; cả hai chạy rất chậm như quay chậm, bên cạnh có một con ốc sên đang vượt qua họ.",
+   "stickers": [
+    {
+     "at": "2km/h",
+     "side": "L",
+     "y": 360,
+     "value": "2 KM/H",
+     "label": "tốc độ rượt đuổi",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Điều buồn cười nhất",
+   "layout": "{HERO} đội mũ bảo vệ, cầm đèn pin, đứng gác cái tổ sỏi của mình như bảo vệ ngân hàng, mắt đảo nghi ngờ; BÊN TRÁI một nhóm làm phim tài liệu (người cầm máy quay) đang lén quay lại.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bồi thẩm đoàn thử",
+   "layout": "Nhìn từ trên cao: một vòng tròn khổng lồ gồm rất nhiều tổ sỏi, mỗi chú cánh cụt đều đang lén lấy sỏi của tổ bên cạnh, các mũi tên nhỏ nối thành một vòng xoay; ở giữa vòng tròn có một viên sỏi phát sáng đi theo đường nét đứt quay về đúng tổ ban đầu.",
+   "stickers": [
+    {
+     "at": "5 triệu",
+     "side": "R",
+     "y": 400,
+     "value": "5 TRIỆU",
+     "label": "dân số khu phố",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Còn ở họ hàng",
+   "layout": "Một chú cánh cụt Gentoo (mỏ cam đỏ, vệt trắng trên đỉnh đầu, chân cam) quỳ một chân, hai cánh dâng lên một viên sỏi tròn bóng lấp lánh như nhẫn kim cương cho một cô cánh cụt Gentoo đang ôm má e thẹn, trái tim bay quanh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Mà bồi thẩm đoàn biết",
+   "layout": "{HERO} đứng bên tổ sỏi đúng chỗ cũ, cạnh tổ cắm một hòm thư nhỏ hình ngôi nhà (không chữ); xa xa một cô cánh cụt Adélie đeo nơ hồng đang đi tới, bong bóng nghĩ của cô vẽ hình cái tổ năm ngoái giống hệt; trái tim nhỏ bay lên.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L85"
+  },
+  {
+   "scene": "scene02",
+   "at": "Tổ xấu quá thì",
+   "layout": "Một chú cánh cụt (không đeo nơ) đứng cạnh cái tổ lèo tèo chỉ vài viên sỏi, mặt hi vọng; cô cánh cụt đeo nơ hồng ngẩng cao đầu đi lướt qua, mắt nhìn đi chỗ khác, vẻ coi như không quen biết; chú kia há mỏ thất vọng hài hước.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L86"
+  },
+  {
+   "scene": "scene02",
+   "at": "Thưa tòa, cháu không",
+   "layout": "Trong vành móng ngựa: {HERO} chắp hai cánh trước ngực làm mặt ngây thơ, mắt to long lanh; phía sau lưng chú lộ ra một viên đá xám tròn nhỏ; BÊN PHẢI {JUDGE} nhướng một bên mày, mỉm cười hài hước.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bồi thẩm đoàn đã",
+   "layout": "{HERO} đứng trước bức tường đo chiều cao kiểu chụp ảnh can phạm (chỉ có vạch kẻ ngang, không số), hai cánh ôm một viên sỏi, mặt phụng phịu; đèn flash máy ảnh lóe sáng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Mép băng lúc chiều tà, trời cam tím: hàng trăm chú cánh cụt Adélie đứng chen chúc sát mép tảng băng nhìn xuống làn nước biển xanh thẫm phía dưới.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Ai cũng đói. Ai",
+   "layout": "Cận cảnh vài chú cánh cụt trên mép băng ôm bụng đói, bong bóng suy nghĩ phía trên vẽ cá bạc và tôm nhỏ màu hồng; nhưng các ngón chân dừng sát mép băng, run run, không ai dám bước; {HERO} đứng ở hàng giữa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Vì dưới làn nước",
+   "layout": "Mặt cắt ngang tảng băng và biển: phía trên là chân các chú cánh cụt sát mép, phía dưới mặt nước tối om có một cái bóng to lớn mờ mờ với hai con mắt phát sáng đang rình. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Hải cẩu báo! Dài",
+   "layout": "Một con hải cẩu báo (leopard seal) hoạt hình to dài, thân thon màu xám bạc có đốm đen, đầu to như đầu rắn, nằm dọc khung hình; một chiếc thước dây vàng kéo từ mũi tới đuôi. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "3,5m",
+     "side": "L",
+     "y": 330,
+     "value": "3,5 M",
+     "label": "chiều dài hải cẩu báo",
+     "target": [
+      0.5,
+      0.62
+     ]
+    },
+    {
+     "at": "500kg",
+     "side": "R",
+     "y": 470,
+     "value": "500 KG",
+     "label": "nặng như con bò",
+     "target": [
+      0.62,
+      0.42
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Cái đầu to như",
+   "layout": "Cận cảnh đầu hải cẩu báo há miệng rộng (không máu, phong cách hài), lộ hàm răng nanh dài nhọn trắng, mắt láu cá. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nó nấp ngay dưới",
+   "layout": "Mặt cắt mép băng: hải cẩu báo nấp sát dưới mép băng, chỉ ló mỗi cái mũi trên mặt nước; phía trên mép băng các chú cánh cụt chưa hề hay biết.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "So với Quý ông",
+   "layout": "So sánh hài hước: BÊN TRÁI {HERO} bé xíu; BÊN PHẢI hải cẩu báo được vẽ như một chiếc xe tải có bánh xe và hàm răng nanh to đùng, cười nhe răng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và thế là cảnh",
+   "layout": "Đám đông cánh cụt trên mép băng chen chúc huých nhau, ủn nhau, cánh vung loạn xạ, mặt hoảng hốt, giống giờ tan tầm; {HERO} kẹt ở giữa đám đông.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Con đứng hàng đầu",
+   "layout": "Một chú cánh cụt (không đeo nơ) đứng hàng đầu đang ngả người ra sau, hai chân bấu chặt mép băng, hai cánh chới với; phía sau mấy chú khác dồn lên ép tới.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và rồi tõm Một",
+   "layout": "Chú cánh cụt xui xẻo (không đeo nơ) rơi tõm xuống nước tạo cột nước bắn tung tóe hình vương miện, chữ tượng thanh được thay bằng các tia nước to.",
+   "stickers": [],
+   "impacts": [
+    "tõm"
+   ]
+  },
+  {
+   "scene": "scene03",
+   "at": "Cả bầy lập tức",
+   "layout": "Cả bầy cánh cụt trên mép băng nghển cổ nhìn xuống nước, mắt mở to nín thở như khán giả xem phim kinh dị, có con ôm hộp bỏng ngô, có con che mắt hé nhìn; {HERO} cắn móng cánh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nếu bạn ấy bơi",
+   "layout": "Chú cánh cụt dưới nước vẫy cánh vui vẻ bình an; phía trên cả bầy ào ào nhảy xuống theo như đi tắm biển ngày hè, có con đeo kính bơi, có con mang phao vịt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Còn nếu không thì",
+   "layout": "Cả bầy cánh cụt lùi lại xa mép băng một bước, đứng thành hàng lo lắng, mồ hôi rơi, nhìn đồng hồ cát; mặt nước phía trước chỉ còn bong bóng (không có cảnh bạo lực); {HERO} đứng ở cuối hàng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhân chứng của vụ",
+   "layout": "Năm 1911: một bác sĩ thám hiểm người Anh hoạt hình, râu mép, mặc áo lông thú dày và mũ len, ngồi trên thùng gỗ cạnh túp lều gỗ phủ tuyết, cầm sổ tay và bút chì quan sát đàn cánh cụt Adélie; phong cách hơi cổ điển màu nâu sepia nhẹ.",
+   "stickers": [
+    {
+     "at": "1911",
+     "side": "R",
+     "y": 330,
+     "value": "1911",
+     "label": "Cape Adare",
+     "target": [
+      0.3,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Ông ghi lại cảnh",
+   "layout": "Trang sổ tay mở rộng với hình phác thảo bằng bút chì: các chú cánh cụt né qua né lại trên mép băng và đẩy nhau xuống nước, có mũi tên phác thảo; bàn tay bác sĩ cầm bút chì đang vẽ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Mấy con đứng sau",
+   "layout": "Vòng tròn hài hước: những chú cánh cụt hàng đầu suýt rơi liền chạy vòng ra phía sau đám đông để đẩy lại, tạo thành một vòng xoay vô tận có mũi tên tròn; một ông lão nhân chứng râu bạc ở góc trái kể lại, tay chỉ vào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bồi thẩm đoàn nghe",
+   "layout": "Trò kéo co ngược chiều: hai đội cánh cụt đứng hai bên mép băng cố đẩy ngược nhau về phía nước; BÊN PHẢI một chú (không đeo nơ) thắng cuộc thong thả ăn con cá, BÊN TRÁI chú thua cuộc bơi dưới nước liếc nhìn lo lắng; {HERO} làm trọng tài thổi còi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "{HERO} nằm ấp trứng trên tổ sỏi, mặt kiên nhẫn mệt mỏi, xung quanh các tờ lịch bay vèo vèo thể hiện nhiều ngày trôi qua, tuyết rơi trên đầu; BÊN PHẢI một chiếc khăn phủ che một 'vũ khí' bí ẩn hình ống.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nó đứng dậy, quay",
+   "layout": "Phong cách hoạt hình hài nhẹ nhàng, thân thiện trẻ em: {HERO} đứng ở mép tổ, quay lưng ra ngoài, chổng đuôi lên, phóng ra một vệt chất lỏng trắng hồng thành đường vòng cung bay xa như vòi nước, vẻ mặt tỉnh bơ; quả trứng trong tổ vẫn sạch sẽ.",
+   "stickers": [],
+   "impacts": [
+    "bắn"
+   ]
+  },
+  {
+   "scene": "scene04",
+   "at": "Cứ thế, quanh mỗi",
+   "layout": "Nhìn từ trên cao: nhiều cái tổ sỏi tròn, quanh mỗi tổ có các vệt trắng hồng tỏa ra đều như tia nắng mặt trời hoặc như vết súng sơn, tạo thành một bức tranh hoa văn đẹp mắt trên bãi đá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chuyện nghe thì buồn",
+   "layout": "Hai nhà khoa học hoạt hình mặc áo khoác đỏ, một người quỳ cầm thước dây đo độ dài một vệt trắng hồng trên tuyết, người kia cầm máy tính bỏ túi và bảng kẹp giấy với công thức vẽ nguệch ngoạc (không chữ đọc được); một chú cánh cụt đứng nhìn ngơ ngác.",
+   "stickers": [
+    {
+     "at": "2003",
+     "side": "R",
+     "y": 330,
+     "value": "2003",
+     "label": "đo vệt phân",
+     "target": [
+      0.4,
+      0.62
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Kết quả: 10-60 kPa",
+   "layout": "BÊN TRÁI một chú cánh cụt với chiếc đồng hồ đo áp suất to dán bên cạnh, kim vọt lên vùng đỏ; BÊN PHẢI một chiếc lốp xe hơi với đồng hồ đo áp suất kim cao gấp đôi; dấu bằng một nửa ở giữa.",
+   "stickers": [
+    {
+     "at": "10-60 kPa",
+     "side": "L",
+     "y": 340,
+     "value": "60 KPA",
+     "label": "áp suất cực đại",
+     "target": [
+      0.22,
+      0.4
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Công trình này còn",
+   "layout": "Lễ trao giải vui nhộn: hai nhà khoa học trên sân khấu cầm chiếc cúp hình chú cánh cụt vàng, khán giả bên dưới cười nghiêng ngả, pháo giấy bay.",
+   "stickers": [
+    {
+     "at": "2005",
+     "side": "R",
+     "y": 340,
+     "value": "IG NOBEL",
+     "label": "giải năm 2005",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chưa hết! Năm 2020",
+   "layout": "Hai nhà khoa học Nhật Bản hoạt hình đeo kính đứng cạnh tấm bảng trắng vẽ một đường parabol và các mũi tên lực (không chữ); BÊN PHẢI một chú cánh cụt Humboldt (mặt có mảng da hồng quanh mỏ, một vạch đen ngang ngực) đứng trên tảng đá.",
+   "stickers": [
+    {
+     "at": "2020",
+     "side": "R",
+     "y": 330,
+     "value": "2020",
+     "label": "tính lại tầm bắn",
+     "target": [
+      0.25,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Kết quả: tầm bắn",
+   "layout": "Chú cánh cụt Humboldt đứng trên tảng đá BÊN TRÁI, một đường vòng cung nét đứt bay sang BÊN PHẢI đáp xuống cạnh một lá cờ cắm trên đất; một thước dây vàng kéo dài bên dưới dọc theo đường bay.",
+   "stickers": [
+    {
+     "at": "1,34m",
+     "side": "R",
+     "y": 360,
+     "value": "1,34 M",
+     "label": "tầm bắn xa nhất",
+     "target": [
+      0.78,
+      0.68
+     ]
+    },
+    {
+     "at": "8km/h",
+     "side": "L",
+     "y": 470,
+     "value": "8 KM/H",
+     "label": "tốc độ bay",
+     "target": [
+      0.45,
+      0.35
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nếu đổi sang cỡ",
+   "layout": "So sánh quy mô: BÊN TRÁI một chú cánh cụt nhỏ với đường vòng cung ngắn; BÊN PHẢI một người đàn ông hoạt hình đứng cạnh một đường vòng cung khổng lồ dài gấp nhiều lần chạm tới lá cờ xa, ông ta ôm mặt ngượng ngùng; phong cách hài lịch sự.",
+   "stickers": [
+    {
+     "at": "3m",
+     "side": "R",
+     "y": 360,
+     "value": "> 3 M",
+     "label": "nếu là con người",
+     "target": [
+      0.85,
+      0.7
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và họ nghiêm túc",
+   "layout": "Một nhân viên thủy cung hoạt hình mặc áo mưa vàng, đội mũ bảo hộ, cầm ô che, đứng sau một vạch kẻ an toàn màu vàng đen trên sàn, cách xa một chú cánh cụt Humboldt đang chổng đuôi; mặt nhân viên cảnh giác buồn cười.",
+   "stickers": [
+    {
+     "at": "1,34m",
+     "side": "L",
+     "y": 400,
+     "value": "1,34 M",
+     "label": "khoảng cách an toàn",
+     "target": [
+      0.5,
+      0.78
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và vũ khí này",
+   "layout": "Không gian vũ trụ: một vệ tinh nhân tạo có tấm pin mặt trời bay trên quỹ đạo, bên dưới là quả địa cầu nhìn thấy lục địa Nam Cực trắng xóa; ống kính vệ tinh chiếu tia sáng xuống. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Năm 2012, các nhà",
+   "layout": "Các nhà khoa học hoạt hình ngồi trước màn hình máy tính lớn hiển thị ảnh vệ tinh: nền băng trắng có những mảng màu nâu đỏ được khoanh tròn; một người chỉ tay ngạc nhiên, người kia cầm cốc trà.",
+   "stickers": [
+    {
+     "at": "2012",
+     "side": "R",
+     "y": 330,
+     "value": "2012",
+     "label": "soi ảnh vệ tinh",
+     "target": [
+      0.55,
+      0.4
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Lần theo dấu vết",
+   "layout": "Một đàn cánh cụt hoàng đế khổng lồ (to cao, mảng vàng cam ở cổ và má, mỏ dài có vạch cam) đứng đông nghịt tới tận chân trời trên băng, cạnh đàn là một mảng màu nâu; vài chú con lông xám đứng giữa chân bố mẹ.",
+   "stickers": [
+    {
+     "at": "46",
+     "side": "L",
+     "y": 340,
+     "value": "46 ĐÀN",
+     "label": "cánh cụt hoàng đế",
+     "target": [
+      0.4,
+      0.5
+     ]
+    },
+    {
+     "at": "595.000",
+     "side": "R",
+     "y": 460,
+     "value": "595.000",
+     "label": "con được đếm",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bồi thẩm đoàn thấy",
+   "layout": "Một tấm ảnh vệ tinh khổng lồ treo trong tòa như tấm áp phích truy nã, trên ảnh là một vệt nâu chỉ thẳng tới một băng nhóm cánh cụt đang ngơ ngác; phía trước {HERO} lấy cánh che mặt xấu hổ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Một nhà nghiên cứu hoạt hình mặc áo khoác cam, quỳ xuống cạnh tổ sỏi cầm một chiếc cân treo nhỏ định cân chú cánh cụt con lông xám; {HERO} đứng phắt dậy, mắt trợn giận dữ, lông dựng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nó lao tới, đứng",
+   "layout": "{HERO} đứng thẳng người, vung cánh tát mạnh vào ống chân nhà nghiên cứu, các tia sao va chạm và vệt chuyển động; nhà nghiên cứu nhảy lò cò ôm chân, mặt méo xệch hài hước.",
+   "stickers": [],
+   "impacts": [
+    "Phạch"
+   ]
+  },
+  {
+   "scene": "scene05",
+   "at": "Cánh chim cánh cụt",
+   "layout": "Hình mặt cắt kỹ thuật kiểu sách giáo khoa: chiếc cánh cánh cụt dẹt như mái chèo, bên trong lộ xương dẹt đặc màu kem; BÊN PHẢI để so sánh là một cây thước kẻ gỗ và một mái chèo gỗ có hình dạng tương tự.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Không chỉ con người",
+   "layout": "Một con chim cướp biển Skua nâu sải cánh rộng sà xuống định cướp quả trứng; {HERO} nhảy lên vung cánh tát vào mỏ nó, lông Skua bay tán loạn.",
+   "stickers": [
+    {
+     "at": "hơn 1m",
+     "side": "R",
+     "y": 340,
+     "value": "> 1 M",
+     "label": "sải cánh chim Skua",
+     "target": [
+      0.6,
+      0.3
+     ]
+    }
+   ],
+   "impacts": [
+    "Tát"
+   ]
+  },
+  {
+   "scene": "scene05",
+   "at": "Hải cẩu bò lên",
+   "layout": "Chia đôi khung: BÊN TRÁI {HERO} tát một con hải cẩu lông nâu đang bò lại quá gần tổ khiến nó giật mình lùi lại; BÊN PHẢI {HERO} tát luôn một chú cánh cụt hàng xóm vừa lấn sang nửa bước.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Cả đời bị cáo",
+   "layout": "Chia đôi khung có nút công tắc ở giữa: BÊN TRÁI {HERO} đứng im dễ thương, má hồng, trái tim bay quanh; BÊN PHẢI cùng chú cánh cụt đó mắt đỏ rực, cánh vung tát ra liên tục như cánh quạt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Và đừng tưởng bị",
+   "layout": "{HERO} đi lạch bạch trên băng như ông cụ đi chợ, khoác giỏ đi chợ trên cánh, chậm rãi; phía sau là một con ốc sên đi cùng tốc độ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhưng xuống nước thì",
+   "layout": "Dưới nước xanh: {HERO} lao đi như tên lửa ngư lôi với vệt bọt khí dài phía sau, đuổi theo đàn cá bạc; bên trái có thang đo độ sâu vẽ vạch xuống tận đáy tối.",
+   "stickers": [
+    {
+     "at": "15km/h",
+     "side": "L",
+     "y": 340,
+     "value": "15 KM/H",
+     "label": "tốc độ bơi",
+     "target": [
+      0.5,
+      0.45
+     ]
+    },
+    {
+     "at": "180m",
+     "side": "R",
+     "y": 470,
+     "value": "180 M",
+     "label": "lặn sâu nhất",
+     "target": [
+      0.12,
+      0.85
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "và khi phóng lên",
+   "layout": "{HERO} phóng vọt khỏi mặt nước, bay cao lên theo đường cong và đáp gọn lên mặt một tảng băng cao, tư thế ngầu như đặc vụ đeo kính râm; một thước đo chiều cao dựng cạnh tảng băng.",
+   "stickers": [
+    {
+     "at": "2m",
+     "side": "R",
+     "y": 360,
+     "value": "2 M",
+     "label": "cú nhảy lên băng",
+     "target": [
+      0.75,
+      0.3
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Còn khi lười đi",
+   "layout": "{HERO} nằm sấp trên tuyết, lấy bụng trắng làm ván trượt, hai chân đạp phía sau tung tuyết, lướt vèo vèo xuống dốc với vệt tốc độ, mặt sung sướng như trẻ con chơi cầu trượt.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L87"
+  },
+  {
+   "scene": "scene05",
+   "at": "Còn tòa án gọi",
+   "layout": "Hài hước: {HERO} trượt bụng trên tuyết thoát khỏi một tòa án băng phía sau, miệng ngậm một viên sỏi; phía sau một chú cảnh sát hải cẩu nhỏ đội mũ cảnh sát chạy đuổi theo hụt hơi, còi thổi.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L88"
+  },
+  {
+   "scene": "scene05",
+   "at": "Công tố viên xin",
+   "layout": "{LAWYER} đứng BÊN TRÁI giơ tay chỉ mạnh vào bảng ghim 4 bằng chứng BÊN PHẢI: viên sỏi, cú rơi xuống nước, vệt bắn hồng trắng, cú tát vào ống chân; {HERO} ở góc dưới phải toát mồ hôi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Ngay cả nhân chứng",
+   "layout": "Ông bác sĩ thám hiểm năm 1911 (râu mép, áo lông thú) cau mày nhìn một nhóm cánh cụt Adélie trẻ nghịch ngợm mặc áo khoác da, đội mũ lưỡi trai ngược, đang xô đẩy nhau phá phách trên bãi đá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Ông còn viết một",
+   "layout": "Ông bác sĩ thám hiểm năm 1911 ngồi trong lều gỗ dưới ánh đèn dầu, lén lút che một trang nhật ký bằng tay, trên trang có các ký hiệu ngoằn ngoèo bí ẩn bị một ổ khóa vẽ đè lên; vẻ mặt bí mật hài hước.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Bằng chứng đã đủ",
+   "layout": "{LAWYER} đập mạnh tập hồ sơ xuống bàn, giấy bay tứ tung; {JUDGE} trên bục nhìn xuống; {HERO} trong vành móng ngựa run cầm cập.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Người đàn ông hoạt hình đeo kính tròn đang cởi chiếc áo choàng đen công tố viên ném sang một bên và khoác lên bộ vest xanh dương của luật sư bào chữa, tay giơ ngón trỏ 'phản đối', vẻ mặt quyết tâm; tia sáng đổi vai phía sau.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Mỗi mùa xuân, tuyết",
+   "layout": "Mùa xuân Nam Cực: tuyết tan thành những dòng nước lạnh xanh nhạt chảy tràn qua bãi đá làm tổ của đàn cánh cụt, tạo thành các vũng nước lớn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Quả trứng nằm sát",
+   "layout": "Một quả trứng cánh cụt hoạt hình có khuôn mặt dễ thương nằm sát mặt đất trong vũng nước lạnh, run cầm cập, quấn khăn len, băng giá bám quanh; cái tổ thấp lè tè bị nước tràn vào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một đống sỏi cao",
+   "layout": "{HERO} ngồi ấp 2 quả trứng trên một đống sỏi cao như hòn đảo nhỏ giữa dòng nước tan, trứng khô ráo an toàn; các tổ thấp xung quanh bị ngập; có chiếc phao cứu sinh vẽ mờ như biểu tượng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Thứ bị cáo trộm",
+   "layout": "{HERO} ôm hai quả trứng vào lòng trên tổ sỏi cao, ánh sáng vàng ấm áp tỏa quanh, trái tim nhỏ bay lên, khuôn mặt hiền hậu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "nhiều nhà khoa học cho",
+   "layout": "Cảnh giờ cao điểm ở mép băng như ga tàu điện ngầm đông nghịt: hàng trăm chú cánh cụt dồn lên, một chú đầu hàng bị đẩy ra mép một cách vô tình, ai cũng ngơ ngác không cố ý.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhảy theo bầy lại",
+   "layout": "Hàng trăm chú cánh cụt cùng lúc lao xuống nước tỏa ra mọi hướng; ở giữa một con hải cẩu báo xoay vòng chóng mặt, mắt quay mòng mòng không biết đuổi con nào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "bắn phân ra xa là",
+   "layout": "{HERO} cầm một cây chổi nhỏ quét tổ sỏi sạch bóng lấp lánh, chú cánh cụt con lông xám ngồi trong tổ khô ráo vui vẻ; các vệt trắng hồng nằm xa bên ngoài tổ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "tát cả nhà khoa học?",
+   "layout": "{HERO} bé nhỏ dang hai cánh đứng chắn trước tổ có hai quả trứng; phía trước là ba cái bóng khổng lồ cao gấp nhiều lần: chim Skua, hải cẩu báo và một nhà khoa học; chú cánh cụt không lùi bước, ánh mắt kiên định.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nếu đó là tội",
+   "layout": "{HERO} làm bố ôm chú cánh cụt con lông xám vừa nở, hai bố con dụi má nhau, trái tim to màu đỏ phía sau, cảnh ấm áp cảm động.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Cộc cộc cộc Tòa",
+   "layout": "{JUDGE} gõ búa xuống bàn có các vạch tượng thanh rung; phía dưới {HERO} trong vành móng ngựa thở phào nhẹ nhõm nhưng đang bị yêu cầu đưa trả lại một viên sỏi.",
+   "stickers": [],
+   "impacts": [
+    "Cộc cộc cộc"
+   ]
+  },
+  {
+   "scene": "scene06",
+   "at": "Và thế là Quý",
+   "layout": "{HERO} lạch bạch rời khỏi tòa án quay về tổ, trong mỏ ngậm một viên sỏi mới vừa nhặt từ tổ nhà bên cạnh, liếc mắt tinh nghịch; chú hàng xóm phía sau đang ngủ không hay biết.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Còn bạn, nếu là",
+   "layout": "Hàng ghế bồi thẩm đoàn các bạn nhỏ hoạt hình đa dạng đang giơ thẻ bài: một nửa thẻ hình ngón cái hướng lên màu xanh, một nửa thẻ hình ngón cái hướng xuống màu đỏ, vẻ mặt đang suy nghĩ hào hứng; không có chữ trên thẻ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Tập sau, chúng ta",
+   "layout": "Phòng khám bác sĩ thú y hoạt hình sáng sủa: một chú gấu Koala lông xám, tai tròn bông xù, mũi đen to, ngồi trên ghế bệnh nhân mắt lờ đờ ngơ ngác, cạnh đó có ống nghe và tấm phim X-quang treo tường. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bày sẵn đĩa lá",
+   "layout": "Chú gấu Koala ngồi trước một chiếc đĩa sứ đầy lá bạch đàn xanh tươi đặt ngay trước mặt, nhưng nhìn chằm chằm vào chiếc đĩa với dấu chấm hỏi to trên đầu, bụng sôi òng ọc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Phòng xử án băng giá dọc: phía trên {JUDGE} gõ búa; phía dưới {HERO} trong vành móng ngựa gỗ, một cánh lén lút đẩy một chú cánh cụt khác về phía mép băng có nước biển xanh.",
+   "stickers": []
+  },
+  {
+   "at": "Chú chim cánh cụt mặc",
+   "layout": "{HERO} mặc vest đuôi tôm đen bóng đứng ở mép băng, một cánh đẩy lưng một chú cánh cụt khác (không đeo nơ) đang chới với sắp rơi xuống nước; phía dưới nước thấp thoáng bóng hải cẩu báo.",
+   "stickers": []
+  },
+  {
+   "at": "Bị cáo chỉ cao",
+   "layout": "{HERO} đứng cạnh một con mèo nhà màu cam cao gần bằng; phía sau thước đo chiều cao kẻ vạch; chú cánh cụt đi lạch bạch như trẻ mẫu giáo đeo cặp sách nhỏ.",
+   "stickers": [
+    {
+     "at": "70cm",
+     "side": "L",
+     "y": 620,
+     "value": "70 CM",
+     "label": "chiều cao bị cáo",
+     "target": [
+      0.45,
+      0.4
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Hiện trường: mép băng",
+   "layout": "Mép băng Nam Cực dọc khung: hàng trăm chú cánh cụt chen chúc sát mép, ôm bụng đói, bong bóng nghĩ hình cá, nhưng không ai dám bước xuống nước.",
+   "stickers": []
+  },
+  {
+   "at": "Vì dưới nước là",
+   "layout": "Mặt cắt dọc: phía trên mép băng là chân các chú cánh cụt; phía dưới là con hải cẩu báo xám đốm đen dài to, đầu như rắn, há miệng lộ răng nanh, đang nấp rình.",
+   "stickers": [
+    {
+     "at": "3,5m",
+     "side": "R",
+     "y": 560,
+     "value": "3,5 M",
+     "label": "hải cẩu báo",
+     "target": [
+      0.5,
+      0.7
+     ]
+    },
+    {
+     "at": "500kg",
+     "side": "L",
+     "y": 900,
+     "value": "500 KG",
+     "label": "nặng như con bò",
+     "target": [
+      0.45,
+      0.75
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Thế là chen lên",
+   "layout": "Đám đông cánh cụt chen lấn ủn nhau, một chú (không đeo nơ) bị dồn rơi tõm xuống nước tạo cột nước bắn tung tóe.",
+   "stickers": []
+  },
+  {
+   "at": "Cả bầy nín thở",
+   "layout": "Cả bầy cánh cụt nghển cổ nhìn xuống nước, mắt mở to, có con ôm bỏng ngô, có con che mắt; {HERO} cắn móng cánh.",
+   "stickers": []
+  },
+  {
+   "at": "Bạn ấy bơi đi",
+   "layout": "Chú cánh cụt dưới nước vẫy cánh bình an, cả bầy ào ào nhảy xuống theo như đi tắm biển, có con đeo kính bơi, có con mang phao vịt.",
+   "stickers": []
+  },
+  {
+   "at": "Chưa hết, bị cáo",
+   "layout": "{HERO} đeo mặt nạ kẻ trộm ngậm một viên sỏi rón rén bỏ chạy khỏi tổ hàng xóm đang ngủ gật.",
+   "stickers": []
+  },
+  {
+   "at": "và bắn phân xa",
+   "layout": "Phong cách hoạt hình hài thân thiện trẻ em: {HERO} đứng trên tổ sỏi chổng đuôi phóng một vệt trắng hồng thành vòng cung bay xa, có thước dây vàng đo bên dưới tới lá cờ.",
+   "stickers": [
+    {
+     "at": "1,34m",
+     "side": "R",
+     "y": 620,
+     "value": "1,34 M",
+     "label": "tầm bắn",
+     "target": [
+      0.7,
+      0.62
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Nhưng khoan, nhiều nhà",
+   "layout": "Một nhà khoa học hoạt hình mặc áo khoác đỏ cầm kính lúp quan sát đám cánh cụt ở mép băng, giơ một tay ra hiệu 'khoan đã'; {HERO} đứng cạnh gật gù đồng ý, vẻ mặt được minh oan.",
+   "stickers": [],
+   "id": "S13"
+  },
+  {
+   "at": "chỉ là chen lấn",
+   "layout": "Cảnh giờ cao điểm ở mép băng như ga tàu điện đông nghịt: hàng trăm chú cánh cụt dồn lên, chú đầu hàng bị đẩy ra mép vô tình, ai cũng ngơ ngác.",
+   "stickers": []
+  },
+  {
+   "at": "Vậy bị cáo có",
+   "layout": "Cận cảnh {HERO} trong vành móng ngựa ngước nhìn thẳng ra người xem với đôi mắt to long lanh ngây thơ, hai cánh ôm một viên sỏi sau lưng, {JUDGE} cầm búa phía sau lưỡng lự.",
+   "stickers": []
+  }
+ ]
+}

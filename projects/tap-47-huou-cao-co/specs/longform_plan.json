@@ -1,0 +1,540 @@
+{
+  "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+  "targets": {},
+  "scenes": {
+    "scene01": {
+      "chapter_no": 1,
+      "title": "BẢN VẼ THÁP CẨU 5 MÉT GIỮA SAVANNAH",
+      "hook": "MỔ XẺ THÁP CẨU SAVANNAH 2M",
+      "card": false,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L01.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "nay, ống nhòm",
+          "image": "assets/long/L02.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "học đồ sộ",
+          "image": "assets/long/L03.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "quen thuộc là",
+          "image": "assets/long/L04.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "túy: Làm thế",
+          "image": "assets/long/L05.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "ống nhựa sẽ",
+          "image": "assets/long/L06.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "cơ thể một",
+          "image": "assets/long/L07.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "vì cạn kiệt",
+          "image": "assets/long/L08.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "thậm chí khi",
+          "image": "assets/long/L09.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "con vật này đều",
+          "image": "assets/long/L09b.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "SƠ ĐỒ THỦY LỰC"
+    },
+    "scene02": {
+      "chapter_no": 2,
+      "title": "ĐỘNG CƠ V8 BƠM MÁU CAO ÁP",
+      "hook": "TRÁI TIM GẤP ĐÔI ÁP LỰC NGƯỜI",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L10.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Tháp Cẩu Di Động hoàn",
+          "image": "assets/long/L11.png",
+          "stickers": [
+            {
+              "at": "11kg",
+              "side": "L",
+              "y": 360,
+              "value": "11 kg",
+              "label": "Động cơ tim siêu áp",
+              "target": [
+                0.35,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "thể tích buồng chứa cực",
+          "image": "assets/long/L11b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "lên động mạch",
+          "image": "assets/long/L12.png",
+          "stickers": [
+            {
+              "at": "300 mmHg",
+              "side": "R",
+              "y": 320,
+              "value": "300 mmHg",
+              "label": "Áp lực bơm cực đại",
+              "target": [
+                0.8,
+                0.4
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "thực hiện một chu kỳ",
+          "image": "assets/long/L12b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "động viên điền",
+          "image": "assets/long/L13.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "qua lực hút",
+          "image": "assets/long/L14.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "áp suất thủy tĩnh sẽ",
+          "image": "assets/long/L14b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "đã giảm về",
+          "image": "assets/long/L15.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "trì hoàn hảo",
+          "image": "assets/long/L16.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "chẳng mấy chốc",
+          "image": "assets/long/L17.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "dao động từ",
+          "image": "assets/long/L17b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "gia cố bằng",
+          "image": "assets/long/L18.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Bình tích áp này giãn",
+          "image": "assets/long/L18b.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "ĐỘNG CƠ TIM 11KG"
+    },
+    "scene03": {
+      "chapter_no": 3,
+      "title": "HỆ THỐNG XẢ ÁP RETE MIRABILE",
+      "hook": "HỆ THỐNG RETE MIRABILE XẢ ÁP",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L19.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "đất. Để uống",
+          "image": "assets/long/L20.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "hạ thấp phần đầu",
+          "image": "assets/long/L20b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "được cộng dồn",
+          "image": "assets/long/L21.png",
+          "stickers": [
+            {
+              "at": "500 mmHg",
+              "side": "R",
+              "y": 320,
+              "value": "500 mmHg",
+              "label": "Áp lực dồn đỉnh sọ",
+              "target": [
+                0.8,
+                0.4
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Áp lực máu tại khoang",
+          "image": "assets/long/L21b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "mạch não mỏng",
+          "image": "assets/long/L22.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "nó không phát nổ tung",
+          "image": "assets/long/L22b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "tiết cơ khí",
+          "image": "assets/long/L23.png",
+          "stickers": [
+            {
+              "at": "Mạng Lưới Kỳ Diệu",
+              "side": "L",
+              "y": 340,
+              "value": "RETE",
+              "label": "Ma trận xả áp não",
+              "target": [
+                0.4,
+                0.45
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Mạng Lưới Kỳ Diệu",
+          "image": "assets/long/L23b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "hạ thấp đầu",
+          "image": "assets/long/L24.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Thiết diện tổng của dòng",
+          "image": "assets/long/L24b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "nhạy cảm. Chưa",
+          "image": "assets/long/L25.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "các van một chiều cơ",
+          "image": "assets/long/L25b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "ngược trở lại",
+          "image": "assets/long/L26.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "tụt dốc về",
+          "image": "assets/long/L27.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "như một kho dự trữ",
+          "image": "assets/long/L27b.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "MẠNG LƯỚI VAN KỲ DIỆU"
+    },
+    "scene04": {
+      "chapter_no": 4,
+      "title": "BỘ ĐỒ PHI HÀNH GIA Ở CẲNG CHÂN",
+      "hook": "LỚP DA BẢO HỘ CHỐNG TĨNH MẠCH",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L28.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "thẳng trên bốn",
+          "image": "assets/long/L29.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "200 mmHg. Để",
+          "image": "assets/long/L30.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "mao mạch tạo",
+          "image": "assets/long/L31.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "tất áp lực",
+          "image": "assets/long/L32.png",
+          "stickers": [
+            {
+              "at": "bộ đồ kháng áp",
+              "side": "R",
+              "y": 350,
+              "value": "G-SUIT",
+              "label": "Đồ nén chân NASA",
+              "target": [
+                0.8,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "gia khi chịu",
+          "image": "assets/long/L33.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "dày đặc và",
+          "image": "assets/long/L34.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "mạch đang đẩy",
+          "image": "assets/long/L35.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "kết hợp với",
+          "image": "assets/long/L36.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "thong thả đứng cả",
+          "image": "assets/long/L36b.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "TẤT ÁP LỰC CHỐNG PHÙ"
+    },
+    "scene05": {
+      "chapter_no": 5,
+      "title": "CỖ MÁY ĐẬP PHÁ NẶNG HAI TẤN",
+      "hook": "CẶP SỪNG BỌC DA VÀ ĐÒN BẨY",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L37.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "giao phối tranh",
+          "image": "assets/long/L38.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "nặng với sức",
+          "image": "assets/long/L39.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Necking, tức là",
+          "image": "assets/long/L40.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "toàn bộ chiếc",
+          "image": "assets/long/L41.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "thợ máy ơi,",
+          "image": "assets/long/L42.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "tới hơn 100km/h",
+          "image": "assets/long/L43.png",
+          "stickers": [
+            {
+              "at": "100km/h",
+              "side": "R",
+              "y": 320,
+              "value": "100 km/h",
+              "label": "Vận tốc búa sừng",
+              "target": [
+                0.8,
+                0.4
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "này tương đương",
+          "image": "assets/long/L44.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "gục ngã tức",
+          "image": "assets/long/L45.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "VŨ KHÍ CỔ BÚA ĐẬP TẤN"
+    },
+    "scene06": {
+      "chapter_no": 6,
+      "title": "BÀI HỌC TỪ THÁP CẨU TỰ NHIÊN",
+      "hook": "BÀI HỌC CÂN BẰNG ÁP LỰC SỐNG",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L46.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "hứng chế tạo",
+          "image": "assets/long/L47.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "tinh tế nhất",
+          "image": "assets/long/L48.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "nhận sống chung",
+          "image": "assets/long/L49.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "chúng ta cũng",
+          "image": "assets/long/L50.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "lên vai. Nhưng",
+          "image": "assets/long/L51.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "cảm xúc, và",
+          "image": "assets/long/L52.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "khâm phục bộ phận",
+          "image": "assets/long/L52b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "đầm lầy tiền sử",
+          "image": "assets/long/L53.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "KẾT LUẬN"
+    }
+  }
+}

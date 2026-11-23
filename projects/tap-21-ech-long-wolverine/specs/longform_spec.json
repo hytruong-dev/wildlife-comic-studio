@@ -1,0 +1,992 @@
+{
+ "episode": "tap-21-ech-long-wolverine",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 6,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "intro_mode": "full_first",
+ "output": "renders/tap-21-ech-long-wolverine_long.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 77.898,
+   "chapter_no": 1,
+   "badge": "BỆNH ÁN #21",
+   "header_image": "assets/banners/chapter_01.png",
+   "title": "CA CẤP CỨU TỰ BẺ XƯƠNG ĐÂM THỦNG DA",
+   "card_hook": "",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L01.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 7.34,
+     "image": "assets/long/L02.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 10.92,
+     "image": "assets/long/L03.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 13.88,
+     "image": "assets/long/L04.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": [
+      17.98
+     ]
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 19.78,
+     "image": "assets/long/L05.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 25.63,
+     "image": "assets/long/L06.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b07",
+     "start_s": 31.87,
+     "image": "assets/long/L07.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b08",
+     "start_s": 38.37,
+     "image": "assets/long/L08.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 40.03,
+       "side": "R",
+       "y": 350,
+       "value": "10-13 CM",
+       "label": "dài cỡ nắm tay",
+       "target": [
+        0.79,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b09",
+     "start_s": 42.67,
+     "image": "assets/long/L09.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b10",
+     "start_s": 50.35,
+     "image": "assets/long/L10.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b11",
+     "start_s": 58.09,
+     "image": "assets/long/L11.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 61.28,
+       "side": "L",
+       "y": 380,
+       "value": "9 CM",
+       "label": "ếch cái nhỏ hơn",
+       "target": [
+        0.32,
+        0.58
+       ]
+      },
+      {
+       "t": 63.37,
+       "side": "R",
+       "y": 350,
+       "value": "13 CM",
+       "label": "ếch đực to vượt trội",
+       "target": [
+        0.7,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b12",
+     "start_s": 64.69,
+     "image": "assets/long/L12.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b13",
+     "start_s": 71.33,
+     "image": "assets/long/L13.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 106.883,
+   "chapter_no": 2,
+   "badge": "CHỤP X-QUANG",
+   "header_image": "assets/banners/chapter_02.png",
+   "title": "CƠ CHẾ XƯƠNG TRẦN TỰ ĐÂM THỦNG DA LÀM VUỐT",
+   "card_hook": "VUỐT XƯƠNG TRẦN ĐÂM THỦNG DA THỊT",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L14.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 7.94,
+     "image": "assets/long/L15.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": [
+      11.16
+     ]
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 12.76,
+     "image": "assets/long/L16.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 16.38,
+     "image": "assets/long/L17.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 22.18,
+     "image": "assets/long/L18.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 26.9,
+       "side": "R",
+       "y": 350,
+       "value": "100% XƯƠNG",
+       "label": "không có vỏ sừng",
+       "target": [
+        0.56,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b06",
+     "start_s": 27.93,
+     "image": "assets/long/L19.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 32.29,
+       "side": "L",
+       "y": 360,
+       "value": "2008",
+       "label": "nghiên cứu Harvard",
+       "target": [
+        0.58,
+        0.42
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b07",
+     "start_s": 37.51,
+     "image": "assets/long/L20.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b08",
+     "start_s": 46.29,
+     "image": "assets/long/L21.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b09",
+     "start_s": 50.61,
+     "image": "assets/long/L22.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b10",
+     "start_s": 54.31,
+     "image": "assets/long/L23.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": [
+      54.91
+     ]
+    },
+    {
+     "id": "scene02_b11",
+     "start_s": 56.95,
+     "image": "assets/long/L24.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": [
+      57.57
+     ]
+    },
+    {
+     "id": "scene02_b12",
+     "start_s": 59.97,
+     "image": "assets/long/L25.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 62.99,
+       "side": "R",
+       "y": 380,
+       "value": "8 NGÓN",
+       "label": "phóng vuốt xương",
+       "target": [
+        0.52,
+        0.38
+       ]
+      }
+     ],
+     "impacts": [
+      61.97
+     ]
+    },
+    {
+     "id": "scene02_b13",
+     "start_s": 64.21,
+     "image": "assets/long/L26.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 66.39,
+       "side": "L",
+       "y": 350,
+       "value": "0,02 MM",
+       "label": "vỏ xương ở gốc",
+       "target": [
+        0.34,
+        0.55
+       ]
+      },
+      {
+       "t": 70.59,
+       "side": "R",
+       "y": 350,
+       "value": "0,13 MM",
+       "label": "dày gấp 6 lần ở mũi",
+       "target": [
+        0.68,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b14",
+     "start_s": 73.98,
+     "image": "assets/long/L27.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b15",
+     "start_s": 82.84,
+     "image": "assets/long/L28.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b16",
+     "start_s": 89.7,
+     "image": "assets/long/L29.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b17",
+     "start_s": 96.04,
+     "image": "assets/long/L30.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b18",
+     "start_s": 102.32,
+     "image": "assets/long/L31.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 108.49,
+   "chapter_no": 3,
+   "badge": "NỘI SOI DA",
+   "header_image": "assets/banners/chapter_03.png",
+   "title": "BỘ LÔNG MẠCH MÁU GIÚP THỞ VÀ LÁ PHỔI TEO TÓP",
+   "card_hook": "LÔNG MẠCH MÁU HÚT OXY DƯỚI SUỐI",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L32.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 4.24,
+     "image": "assets/long/L33.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 16.41,
+     "image": "assets/long/L34.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 22.79,
+     "image": "assets/long/L35.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b05",
+     "start_s": 30.31,
+     "image": "assets/long/L36.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 35.05,
+       "side": "R",
+       "y": 350,
+       "value": "0,35-0,45",
+       "label": "đường kính sợi (mm)",
+       "target": [
+        0.62,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b06",
+     "start_s": 38.69,
+     "image": "assets/long/L37.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b07",
+     "start_s": 43.93,
+     "image": "assets/long/L38.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 48.83,
+       "side": "R",
+       "y": 350,
+       "value": "THÁNG 4-6",
+       "label": "mùa sinh sản mọc lông",
+       "target": [
+        0.74,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b08",
+     "start_s": 50.38,
+     "image": "assets/long/L39.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b09",
+     "start_s": 54.38,
+     "image": "assets/long/L40.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 56.94,
+       "side": "L",
+       "y": 350,
+       "value": "1925",
+       "label": "phát hiện giải phẫu",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b10",
+     "start_s": 59.4,
+     "image": "assets/long/L41.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b11",
+     "start_s": 65.82,
+     "image": "assets/long/L42.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b12",
+     "start_s": 73.27,
+     "image": "assets/long/L43.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b13",
+     "start_s": 80.47,
+     "image": "assets/long/L44.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": [
+      81.85
+     ]
+    },
+    {
+     "id": "scene03_b14",
+     "start_s": 89.39,
+     "image": "assets/long/L45.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b15",
+     "start_s": 96.09,
+     "image": "assets/long/L46.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b16",
+     "start_s": 103.41,
+     "image": "assets/long/L47.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 101.017,
+   "chapter_no": 4,
+   "badge": "GIÁM ĐỊNH TIẾN HÓA",
+   "header_image": "assets/banners/chapter_04.png",
+   "title": "SO SÁNH HỘI TỰ HỦY VÀ GAI BÁM SUỐI XIẾT",
+   "card_hook": "ĐÂM XƯƠNG SƯỜN & VẾT CÀO CHẢY MÁU",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L48.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 5.6,
+       "side": "L",
+       "y": 350,
+       "value": "63 LOÀI",
+       "label": "khảo sát bảo tàng",
+       "target": [
+        0.32,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 10.3,
+     "image": "assets/long/L49.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 11.56,
+       "side": "R",
+       "y": 350,
+       "value": "11 LOÀI",
+       "label": "có vuốt giấu kín",
+       "target": [
+        0.65,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 15.9,
+     "image": "assets/long/L50.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 22.54,
+     "image": "assets/long/L51.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b05",
+     "start_s": 27.26,
+     "image": "assets/long/L52.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b06",
+     "start_s": 37.16,
+     "image": "assets/long/L53.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 47.08,
+       "side": "R",
+       "y": 350,
+       "value": "3 HÀNG GAI",
+       "label": "ngón cái tay trước",
+       "target": [
+        0.56,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b07",
+     "start_s": 49.36,
+     "image": "assets/long/L54.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b08",
+     "start_s": 57.01,
+     "image": "assets/long/L55.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 60.27,
+       "side": "L",
+       "y": 350,
+       "value": "1954",
+       "label": "sách Gerald Durrell",
+       "target": [
+        0.3,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b09",
+     "start_s": 66.47,
+     "image": "assets/long/L56.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": [
+      72.19
+     ]
+    },
+    {
+     "id": "scene04_b10",
+     "start_s": 75.99,
+     "image": "assets/long/L57.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b11",
+     "start_s": 81.33,
+     "image": "assets/long/L58.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b12",
+     "start_s": 85.63,
+     "image": "assets/long/L59.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b13",
+     "start_s": 97.65,
+     "image": "assets/long/L60.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 81.365,
+   "chapter_no": 5,
+   "badge": "THỰC ĐỊA CAMEROON",
+   "header_image": "assets/banners/chapter_05.png",
+   "title": "THỢ SĂN PHẢI DÙNG GIÁO BA MŨI TRÁNH VUỐT",
+   "card_hook": "THỢ SĂN PHẢI CHẾ GIÁO BA LƯỠI ĐỂ BẮT",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L61.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 10.74,
+     "image": "assets/long/L62.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 15.91,
+     "image": "assets/long/L63.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 20.38,
+     "image": "assets/long/L64.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b05",
+     "start_s": 30.5,
+     "image": "assets/long/L65.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b06",
+     "start_s": 35.71,
+     "image": "assets/long/L66.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 44.27,
+       "side": "R",
+       "y": 350,
+       "value": "3 LƯỠI",
+       "label": "giáo săn giống vuốt",
+       "target": [
+        0.56,
+        0.46
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b07",
+     "start_s": 45.67,
+     "image": "assets/long/L67.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b08",
+     "start_s": 51.33,
+     "image": "assets/long/L68.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b09",
+     "start_s": 55.92,
+     "image": "assets/long/L69.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b10",
+     "start_s": 67.5,
+     "image": "assets/long/L70.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b11",
+     "start_s": 70.74,
+     "image": "assets/long/L71.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 78.02,
+       "side": "R",
+       "y": 350,
+       "value": "TOP 3,5%",
+       "label": "độc đáo nhất hành tinh",
+       "target": [
+        0.52,
+        0.42
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 85.425,
+   "chapter_no": 6,
+   "badge": "KẾT LUẬN Y KHOA",
+   "header_image": "assets/banners/chapter_06.png",
+   "title": "ĐƠN THUỐC BẤT LỰC VÀ BÓNG ĐEN BÍ ẨN TẬP SAU",
+   "card_hook": "SẴN SÀNG CHỊU ĐAU ĐỂ BẢO VỆ SỰ SỐNG",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L72.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 7.04,
+     "image": "assets/long/L73.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 12.04,
+       "side": "L",
+       "y": 370,
+       "value": "13 CM",
+       "label": "nhỏ bé nhưng gan lì",
+       "target": [
+        0.48,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 18.27,
+     "image": "assets/long/L82.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b04",
+     "start_s": 23.89,
+     "image": "assets/long/L74.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b05",
+     "start_s": 30.99,
+     "image": "assets/long/L75.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b06",
+     "start_s": 41.95,
+     "image": "assets/long/L76.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b07",
+     "start_s": 49.93,
+     "image": "assets/long/L77.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b08",
+     "start_s": 56.59,
+     "image": "assets/long/L78.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b09",
+     "start_s": 64.71,
+     "image": "assets/long/L79.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b10",
+     "start_s": 71.15,
+     "image": "assets/long/L80.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 75.47,
+       "side": "L",
+       "y": 350,
+       "value": "1/3 TIM",
+       "label": "tái sinh không sẹo",
+       "target": [
+        0.35,
+        0.32
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b11",
+     "start_s": 80.53,
+     "image": "assets/long/L81.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

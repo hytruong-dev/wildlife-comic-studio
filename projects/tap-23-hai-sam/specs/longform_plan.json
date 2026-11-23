@@ -1,0 +1,630 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "CA CẤP CỨU SINH VẬT KHÔNG NÃO, KHÔNG MẮT, KHÔNG TIM",
+   "hook": "",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bệnh nhân số 23",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không có hộp sọ.",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bác sĩ ơi, em",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trợ lý bình tĩnh,",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Xin giới thiệu với",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kích thước trung bình",
+     "image": "assets/long/L07.png",
+     "stickers": [
+      {
+       "at": "30cm",
+       "side": "R",
+       "y": 350,
+       "value": "20-30 CM",
+       "label": "chiều dài cơ thể",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhìn bề ngoài thì",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đừng để vẻ ngoài",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cơ thể tự hóa lỏng",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hôm nay, phòng khám",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BỆNH ÁN #23"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "CƠ THỂ TỰ CHUYỂN TỪ CỨNG NHƯ ĐÁ SANG LỎNG NHƯ NƯỚC",
+   "hook": "TỰ HÓA LỎNG CHUI QUA KHE ĐÁ VÀ CỨNG LẠI TRONG 1 GIÂY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bình thường khi một",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "khiến chiếc càng cua",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": [
+      "cộp cộp"
+     ]
+    },
+    {
+     "at": "Nhưng điều làm toàn",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu kẻ săn mồi",
+     "image": "assets/long/L16.png",
+     "stickers": [
+      {
+       "at": "1 giây",
+       "side": "R",
+       "y": 350,
+       "value": "1 GIÂY",
+       "label": "hóa lỏng như thạch",
+       "target": [
+        0.62,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "toàn bộ lớp thịt",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ trạng thái nhão",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vừa chui tọt vào",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": [
+      "cứng ngắc"
+     ]
+    },
+    {
+     "at": "Bí mật đằng sau",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng thay vì dùng",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Muốn cứng là cứng,",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để chứng minh điều",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng chỉ cần nhỏ",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giới kỹ sư vật",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CHỤP CẮT LỚP"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "CÂY HÔ HẤP KỲ LẠ VÀ KHÁCH TRỌ CÁ NGỌC CHUI VÀO",
+   "hook": "THỞ BẰNG HẬU MÔN VÀ KHÁCH SẠN MIỄN PHÍ CHO CÁ NGỌC",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nó dùng đúng chiếc",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bên trong khoang sau",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cứ đều đặn 3-4",
+     "image": "assets/long/L29.png",
+     "stickers": [
+      {
+       "at": "3-4 lần",
+       "side": "R",
+       "y": 350,
+       "value": "3-4 LẦN/P",
+       "label": "thở bằng hậu môn",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "rồi lại co bóp",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bác sĩ ơi, trong",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đúng rồi đấy trợ",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "một loài cá nhỏ",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chào bác sĩ, em",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chú cá ngọc coi",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tệ hơn nữa, đôi",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng Quái Kiệt Ruột",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà sinh vật",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bên trong khoang cơ thể",
+     "image": "assets/long/L39.png",
+     "stickers": [
+      {
+       "at": "15 con",
+       "side": "L",
+       "y": 350,
+       "value": "15 CON CÁ",
+       "label": "trú cùng một lúc",
+       "target": [
+        0.42,
+        0.48
+       ]
+      },
+      {
+       "at": "40cm",
+       "side": "R",
+       "y": 480,
+       "value": "40 CM",
+       "label": "chiều dài hải sâm",
+       "target": [
+        0.72,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "bỗng chốc biến thành",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết, đôi khi",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "NỘI SOI HẬU MÔN"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "PHÓNG BÚI ỐNG CUVIER NHƯ PHÁO HOA SỢI MÌ",
+   "hook": "BẮN BÙI TƠ BẠCH DÃN DÀI 20 LẦN DÍNH CHẶT KẺ THÙ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không có chân để",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó lập tức quay",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": [
+      "bùm"
+     ]
+    },
+    {
+     "at": "Một loạt búi sợi",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngay khoảnh khắc chạm",
+     "image": "assets/long/L46.png",
+     "stickers": [
+      {
+       "at": "20 lần",
+       "side": "R",
+       "y": 350,
+       "value": "DÃN 20 LẦN",
+       "label": "kéo dài tức thì",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đồng thời, lớp màng",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kẻ tấn công càng",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa dừng lại ở",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong lúc đối thủ",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Độ dai dính kinh",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngư dân đi biển",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí trong trường",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "GIÁM ĐỊNH VŨ KHÍ"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "PHUN SẠCH RUỘT GAN VÀ CỖ MÁY LỌC SẠCH ĐÁY BIỂN",
+   "hook": "BẮN TOÀN BỘ RUỘT GAN VÀ TÁI TẠO NGUYÊN VẸN TRONG 35 NGÀY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó tự bẻ gãy",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": [
+      "tống thẳng"
+     ]
+    },
+    {
+     "at": "Kẻ săn mồi nhìn",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mất sạch toàn bộ",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ sau 35 ngày,",
+     "image": "assets/long/L58.png",
+     "stickers": [
+      {
+       "at": "35 ngày",
+       "side": "L",
+       "y": 350,
+       "value": "35 NGÀY",
+       "label": "mọc lại cả bộ ruột",
+       "target": [
+        0.35,
+        0.45
+       ]
+      },
+      {
+       "at": "5 tuần",
+       "side": "R",
+       "y": 480,
+       "value": "5 TUẦN",
+       "label": "tái sinh 100%",
+       "target": [
+        0.68,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và khi đã mọc",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi ngày, một chú",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi năm, một cá",
+     "image": "assets/long/L61.png",
+     "stickers": [
+      {
+       "at": "50kg",
+       "side": "R",
+       "y": 350,
+       "value": "50 KG CÁT",
+       "label": "lọc sạch mỗi năm",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trong các thí nghiệm",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sau đúng 24 giờ",
+     "image": "assets/long/L63.png",
+     "stickers": [
+      {
+       "at": "24 giờ",
+       "side": "L",
+       "y": 350,
+       "value": "24 GIỜ",
+       "label": "lọc sạch bể nước",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chúng chính là những",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "TỰ TỐNG NỘI TẠNG"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "ĐƠN THUỐC BẤT LỰC VÀ BÓNG ĐEN CỖ MÁY TẠO ĐỜM",
+   "hook": "ĐƠN THUỐC CHO BỆNH NHÂN KHÔNG Não VÀ BÓNG ĐEN TẠO ĐỜM",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hải Sâm đã biến",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kê đơn xuất viện:",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn các đồng nghiệp",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hồ sơ bệnh án",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một sinh vật cổ",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhưng khi bị cá",
+     "image": "assets/long/L71.png",
+     "stickers": [
+      {
+       "at": "20 lít",
+       "side": "R",
+       "y": 350,
+       "value": "20 LÍT KEO",
+       "label": "đặc quánh trong 1 giây",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đố các bạn biết",
+     "image": "assets/long/L72.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "KẾT LUẬN Y KHOA"
+  }
+ }
+}

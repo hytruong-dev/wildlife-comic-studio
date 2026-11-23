@@ -1,0 +1,330 @@
+{
+ "episode_no": 24,
+ "animal": "Cá Mút Đá Hagfish",
+ "slug": "tap-24-ca-mut-da-hagfish",
+ "format": "F5",
+ "persona": "nha_khoa_hoc",
+ "_angle_from_roadmap": "Thử thách cỗ máy tạo đờm: Biến 20 lít nước thành keo đặc trong 1 giây làm cá mập nghẹt thở, tự thắt nút cơ thể.",
+ "_shorts_idea_from_roadmap": "Vụ tai nạn xe tải làm đổ Cá Mút Đá biến cả đường cao tốc thành biển chất nhầy!",
+ "nickname": "Cỗ Máy Tạo Đờm",
+ "sources": [
+  "Fudge et al. (2005, 2014), Journal of Experimental Biology — Cơ chế tuyến chất nhầy, tế bào sợi gland thread cells dãn dài 10.000 lần thể tích ban đầu trong 0,4 giây",
+  "Miyashita et al. (2019), PNAS 116(6): 2146-2151 — Hóa thạch cá mút đá kỷ Phấn trắng và nguồn gốc không hàm cổ xưa hơn 300 triệu năm",
+  "Zintzen et al. (2011), Scientific Reports 1: 131 — Video thực địa cá mập và cá săn mồi bị chất nhầy của cá mút đá làm tắc nghẽn mang ngạt thở tức thì",
+  "Oregon State Police & The Guardian (Tháng 7/2017) — Vụ tai nạn xe tải chở 7.500 pound (3.400 kg) cá mút đá trên Quốc lộ 101 phủ kín mặt đường và xe cộ",
+  "Clark & Summers (2007), Journal of Experimental Biology — Phân tích cơ sinh học động tác thắt nút cơ thể (travelling-knot) để gạt chất nhầy và xé thức ăn"
+ ],
+ "whisper_prompt": "Cá Mút Đá Hagfish, Cỗ Máy Tạo Đờm, Myxini, Đa-vít Phút-giơ, Douglas Fudge, O-rê-gơn, Oregon, Quốc lộ 101, cao tốc 101, 7.500 pound, 3.400kg, 20 lít, 10.000 lần, 0,4 giây, 300 triệu năm, 4 trái tim, sợi tơ keratin, thắt nút, travelling knot, 5 cấp độ, cấp độ 1, cấp độ 2, cấp độ 3, cấp độ 4, cấp độ 5",
+ "display_fix": {
+  "hai mươi tư": "24",
+  "hai mươi lăm": "25",
+  "Hai mươi lít": "20 lít",
+  "hai mươi lít": "20 lít",
+  "hai mươi xăng-ti-mét": "20cm",
+  "ba mươi xăng-ti-mét": "30cm",
+  "bốn mươi xăng-ti-mét": "40cm",
+  "bốn mươi đến tám mươi xăng-ti-mét": "40-80cm",
+  "tám mươi xăng-ti-mét": "80cm",
+  "mười ngàn lần": "10.000 lần",
+  "nửa mét": "0,5m",
+  "không phẩy một phần trăm": "0,1%",
+  "chín mươi chín phẩy chín phần trăm": "99,9%",
+  "năm ga-lông": "5 gallon",
+  "không phẩy bốn giây": "0,4 giây",
+  "một giây": "1 giây",
+  "hai giây": "2 giây",
+  "năm ngàn": "5.000",
+  "bốn trái tim": "4 trái tim",
+  "bốn quả tim": "4 quả tim",
+  "ba trăm triệu năm": "300 triệu năm",
+  "hàng trăm triệu năm": "hàng trăm triệu năm",
+  "hàng trăm lỗ": "hàng trăm lỗ",
+  "một trăm năm mươi": "150",
+  "một trăm": "100",
+  "một trăm phần trăm": "100%",
+  "bảy ngàn năm trăm pound": "7.500 pound",
+  "ba ngàn bốn trăm ki-lô-gam": "3.400kg",
+  "mười ba tháng bảy năm hai ngàn mười bảy": "13/7/2017",
+  "Năm hai ngàn mười bảy": "2017",
+  "năm hai ngàn mười bảy": "2017",
+  "năm mươi": "50",
+  "mười lăm": "15",
+  "chín bộ não": "9 bộ não",
+  "ba trái tim": "3 trái tim",
+  "mười lăm loài": "15 loài",
+  "năm cấp độ": "5 cấp độ",
+  "cấp độ một": "cấp độ 1",
+  "cấp độ hai": "cấp độ 2",
+  "cấp độ ba": "cấp độ 3",
+  "cấp độ bốn": "cấp độ 4",
+  "cấp độ năm": "cấp độ 5",
+  "cấp một": "cấp 1",
+  "cấp hai": "cấp 2",
+  "cấp ba": "cấp 3",
+  "cấp bốn": "cấp 4",
+  "thứ nhất": "thứ 1",
+  "thứ hai": "thứ 2",
+  "thứ ba": "thứ 3",
+  "thứ tư": "thứ 4",
+  "thứ năm": "thứ 5",
+  "điểm mười": "điểm 10",
+  "a-xít a-min": "axit amin",
+  "Đa-vít Phút-giơ": "Douglas Fudge",
+  "O-rê-gơn": "Oregon",
+  "Kê-ra-tin": "Keratin",
+  "kê-ra-tin": "keratin",
+  "Quốc lộ một trăm linh một": "Quốc lộ 101",
+  "cao tốc một trăm linh một": "cao tốc 101"
+ },
+ "voice": {},
+ "art": {
+  "decor": "bubbling test tubes, slime droplets, warning stripes, level-up arrows",
+  "shorts_mascot": "A funny cartoon pinkish-grey Hagfish tied in a loose overhand knot, wearing safety lab goggles and covered in bubbling translucent slime drops",
+  "thumb_bg": "đáy biển sâu tăm tối rực sáng chất nhờn huỳnh quang màu trắng xanh",
+  "thumb_title": ["20 LÍT ĐỜM TRONG 1 GIÂY?!", "CÁ MÚT ĐÁ HAGFISH"],
+  "thumb_scene": "một chú Cá Mút Đá Hagfish hoạt hình thân dài trơn tuột màu xám hồng đang uốn mình thắt nút hình số 8, xung quanh bùng nổ hàng lít chất nhầy bọt trắng bao phủ cả đầu con cá mập há hốc mồm ngạt thở",
+  "thumb_gag": "biển cảnh báo đường trơn trượt màu vàng bị bao phủ bởi chất nhầy nhớt kèm xe cứu hộ mini"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "HỒ SƠ MẪU VẬT",
+    "banner_title": "SINH VẬT CỔ ĐẠI 300 TRIỆU NĂM",
+    "chapter_title": "Hồ sơ mẫu vật: Quái vật 4 trái tim không xương sống",
+    "hook": "",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Ghi chép thí nghiệm phòng lab đáy biển sâu, ca trực rạng sáng. Đèn huỳnh quang tím bật sáng chiếu thẳng vào bể cách ly số hai mươi tư. Giữa đáy nước lạnh ngắt, một sinh vật dài ngoằng trơn nhẫy như sợi dây thừng màu hồng xám đang cuộn tròn bất động... Không có hàm răng trên dưới. Không có cột sống lưng. Không có lấy một chiếc vây bơi hoàn chỉnh. Và đôi mắt thì thoái hóa thành hai đốm trắng mờ đục chẳng nhìn thấy nổi ánh sáng mặt trời!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Viện trưởng ơi, mẫu vật này nhìn trơn tuột lù đù như cọng bún thiu, thả vào bể nuôi chung với cá mập lỡ bị nuốt chửng thì sao ạ?",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-oh] Trợ lý ngây thơ quá rồi! Nếu có con cá mập nào dại dột đớp phải mẫu vật này, thì kẻ phải cầu cứu đội cấp cứu chính là con cá mập chứ không phải nó đâu! [laughter] Xin giới thiệu với các đồng nghiệp: đây là Cá Mút Đá Hagfish, sinh vật cổ đại thuộc lớp Myxini, một trong những nhánh động vật có hộp sọ nguyên thủy nhất hành tinh. Chiều dài trung bình từ bốn mươi đến tám mươi xăng-ti-mét. Trong giới sinh vật học, chúng tôi gọi thẳng tên nó bằng biệt danh: Cỗ Máy Tạo Đờm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tổ tiên của nó đã tung tăng dưới đáy biển từ hơn ba trăm triệu năm trước, tức là xuất hiện trước cả loài khủng long bạo chúa, sống sót qua hàng loạt đại tuyệt chủng mà chẳng thèm thay đổi hình dáng! Toàn bộ cơ thể nó chỉ có hộp sọ bằng sụn dẻo, không có đốt sống thật, nhưng lại sở hữu tới bốn quả tim độc lập để bơm máu! Và thứ vũ khí sinh học kinh dị giúp nó bất khả chiến bại suốt hàng trăm triệu năm qua chính là khả năng phóng ra một đại dương chất nhầy đặc quánh làm ngạt thở mọi kẻ săn mồi! Đêm nay, tôi tuyên bố kích hoạt hệ thống thử thách năm cấp độ cực hạn để giải mã Cỗ Máy Tạo Đờm!",
+      "mood": "nghiem_trang_gia"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "CẤP ĐỘ 1: TẠO ĐỜM",
+    "banner_title": "20 LÍT CHẤT NHẦY TRONG 0,4 GIÂY",
+    "chapter_title": "Cấp độ 1: Cỗ máy siêu tốc biến 20 lít nước thành keo nhớt",
+    "hook": "BÙNG NỔ 10.000 LẦN THỂ TÍCH CHỈ TRONG MỘT NỐT NHẠC",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Khởi động Cấp độ một: Thử thách công suất phóng chất nhầy! Nhìn từ bên ngoài, làn da của Cỗ Máy Tạo Đờm mềm mại, lỏng lẻo như một chiếc áo khoác quá khổ mượn của anh trai. Nhưng nếu bạn soi kính hiển vi chạy dọc hai bên sườn của nó, bạn sẽ đếm được từ một trăm đến một trăm năm mươi lỗ chân lông đặc biệt. Đó chính là miệng xả của hàng trăm túi tuyến chất nhầy sinh học tối tân!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hãy quan sát thí nghiệm khi một kẻ thù vừa chạm miệng vào người nó! Ngay lập tức, các túi tuyến này bóp nghẹt, bắn ra một lượng dịch đục chỉ nhỏ bằng hạt đậu. Nhưng khoảnh khắc giọt dịch chạm vào nước biển, một phản ứng dây chuyền nổ tung! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Chỉ trong vòng đúng không phẩy bốn giây — tức là nhanh hơn một cái chớp mắt của con người — giọt dịch nhỏ xíu đó lập tức trương nở thể tích lên gấp mười ngàn lần! Một con cá mút đá dài nửa mét có thể biến toàn bộ hai mươi lít nước biển xung quanh thành một khối keo nhớt đặc quánh, sánh mịn chẳng khác nào một xô thạch khổng lồ! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Làm thế nào mà một giọt dịch bé tí lại biến cả xô nước thành keo dính nhanh đến mức ma quái như vậy? Tiến sĩ Douglas Fudge tại phòng thí nghiệm cơ sinh học đã giải mã bí ẩn dưới kính hiển vi: bên trong túi dịch chứa hàng ngàn cuộn sợi tơ protein siêu nhỏ làm từ chất sừng keratin, mỗi sợi cuộn chặt như một cuộn chỉ may vá tinh xảo. Khi gặp nước biển và lực xoáy, các cuộn chỉ tự bung sợi với vận tốc ánh sáng, đan cài vào các hạt chất nhầy hút nước giữ chặt mọi phân tử nước biển lại!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Kết quả tạo ra một loại vật liệu siêu nhớt không phải gel đặc, mà là một khối mạng lưới chất lỏng đàn hồi vô cùng bền bỉ! [laughter] Kẻ thù chưa kịp cắn miếng nào đã thấy miệng mình ngập ngụa trong cả biển đờm nhầy nhụa!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Viện trưởng ơi, em thử đong một xô nước biển năm ga-lông, thả một chú cá mút đá vào quấy nhẹ một cái là cả xô nước đông đặc nhấc bổng cả cái muôi lên luôn ạ!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-oh] Trợ lý chứng kiến tận mắt rồi đấy! Kỳ diệu ở chỗ: toàn bộ mạng lưới sợi tơ và chất nhầy chỉ chiếm chưa tới không phẩy một phần trăm tổng khối lượng, còn lại tới chín mươi chín phẩy chín phần trăm đều là nước biển bị bắt giữ! Tận dụng chính nước của môi trường để làm vũ khí bảo vệ mình, đúng là cỗ máy tiết kiệm nguyên liệu siêu đẳng nhất hành tinh! Cấp độ một: Phóng chất nhầy thành công mỹ mãn!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "CẤP ĐỘ 2: BÓP NGHẸT",
+    "banner_title": "BÍT KÍN MANG LÀM CÁ MẬP NGẠT THỞ",
+    "chapter_title": "Cấp độ 2: Vũ khí bóp nghẹt khiến cá mập hung dữ phải nhả vội",
+    "hook": "BÍT KÍN KHE MANG LÀM KẺ SĂN MỒI SUÝT CHẾT NGẠT",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Trợ lý, nâng độ khó lên Cấp độ hai: Thử nghiệm vũ khí phòng thủ trước chúa tể đại dương! Trong chuỗi thức ăn dưới đáy biển sâu, cá mập hay cá mú khổng lồ là những sát thủ săn mồi tàn bạo nhất. Khi nhìn thấy Cỗ Máy Tạo Đờm bơi chậm chạp không vây, không vảy, không gai nhọn, con cá mập lập tức lao tới há rộng bộ hàm sắc nhọn đớp trọn con mồi vào họng!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Khoảnh khắc hàm cá mập vừa nghiến xuống lớp da lỏng lẻo của cá mút đá, các túi tuyến hai bên sườn lập tức khai hỏa! Hai mươi lít chất nhầy bùng nổ ngay bên trong khoang miệng của kẻ đi săn! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Điều kinh hoàng bắt đầu: cá mập thở bằng cách hút nước vào miệng rồi ép nước chảy qua các khe mang hai bên để lọc oxy. Nhưng khối chất nhầy của Cỗ Máy Tạo Đờm là một loại polymer nhớt dính siêu cấp: dòng nước chảy qua mang càng mạnh, các sợi tơ keratin càng dãn dài và quấn chặt bít kín mít toàn bộ các khe mang thở của cá mập! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Báo cáo viện trưởng, cảm biến ghi nhận con cá mập đang quằn quại lắc đầu dữ dội, nó ho sặc sụa và nhả mẫu vật ra ngay lập tức kìa!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "Đúng thế các đồng nghiệp ạ! Bị bít kín mang là đồng nghĩa với việc bị bóp nghẹt khí quản nghẹt thở đến chết chỉ trong vài giây! Con cá mập hoảng loạn nhả vội cá mút đá ra ngoài, liên tục ho khạc để cố tống mớ đờm dính ra khỏi khe mang rồi tháo chạy bạt mạng! Các video gắn camera dưới đáy biển sâu đã ghi nhận hàng chục vụ tấn công của cá mập hay cá chình biển, và một trăm phần trăm kẻ săn mồi đều phải vội vã tháo chạy thề không bao giờ bén mảng lại gần! [laughter] Cấp độ hai: Chúa tể biển sâu bị hạ đo ván!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "CẤP ĐỘ 3: THẮT NÚT",
+    "banner_title": "TUYỆT KỸ THẮT NÚT CƠ THỂ SỐ 8",
+    "chapter_title": "Cấp độ 3: Ảo thuật tự thắt nút cơ thể gạt đờm và xé mồi",
+    "hook": "TỰ THẮT NÚT DÂY THỪNG TỪ ĐẦU ĐẾN ĐUÔI SIÊU ẢO",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Tăng cấp độ thử thách lên Cấp độ ba: Nghệ thuật cơ học tự thắt nút cơ thể! Sau khi phóng ra cả một biển chất nhầy nhớt bốc mùi bám đầy khắp người, Cỗ Máy Tạo Đờm phải đối mặt với một bài toán sinh tử: nếu không dọn sạch lớp đờm dính trên cơ thể mình, chính các khe mang thở của nó cũng sẽ bị nghẹt thở đến chết! Không có chân tay, không có vây, làm thế nào để nó gạt sạch lớp keo dính này?",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Và đây là lúc tuyệt kỹ ảo thuật đỉnh cao bậc nhất giới động vật xuất hiện! Cỗ Máy Tạo Đờm uốn cong chiếc đuôi, tự luồn cơ thể mình qua một vòng tròn để tạo thành một nút thắt thòng lọng hình số tám quanh thân! [surprise-oh]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Sau đó, nó co bóp các bó cơ dọc sống lưng để trượt nút thắt đó di chuyển từ từ từ đầu xuống tận đuôi! Chiếc nút thắt di động này đóng vai trò như một chiếc cần gạt nước kính ô tô, miết chặt vào da và cạo sạch bong toàn bộ lớp chất nhầy nhớt trôi tuột ra ngoài cơ thể trong vài giây! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Chưa hết đâu các đồng nghiệp! Vì loài cá này hoàn toàn không có hàm răng trên dưới để nhai cắn, khi tìm thấy một xác cá voi chết chìm dưới đáy biển sâu, nó lại dùng đúng tuyệt kỹ thắt nút này: cắm chiếc đĩa lưỡi có gai sừng keratin vào thịt xác chết, rồi thắt nút cơ thể tỳ mạnh vào tảng thịt để tạo đòn bẩy xé toạc từng mảng thức ăn! [laughter] Không có hàm răng, nó lấy chính cơ thể mình làm chiếc cờ-lê cơ học!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Đặc biệt nhất, khi chui rúc sâu vào bên trong những xác chết khổng lồ tăm tối nơi nồng độ oxy gần như bằng không, Cỗ Máy Tạo Đờm lại kích hoạt một năng lực chấn động giới sinh học: nó có thể hấp thụ trực tiếp các chất dinh dưỡng và a-xít a-min xuyên qua lớp da và mang của mình! Đây là loài động vật có xương sống duy nhất trên Trái Đất được ghi nhận có khả năng ăn thức ăn bằng da chẳng khác nào các loài giun biển nguyên thủy! Cấp độ ba: Hoàn thành xuất sắc tuyệt đối không tì vết!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "CẤP ĐỘ 4: OREGON 2017",
+    "banner_title": "VỤ LẬT XE PHỦ KÍN ĐƯỜNG CAO TỐC",
+    "chapter_title": "Cấp độ 4: Vụ lật xe trên cao tốc Oregon và sợi tơ tương lai",
+    "hook": "7.500 POUND CÁ MÚT ĐÁ BIẾN CAO TỐC THÀNH BIỂN NHẦY",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Nâng công suất máy quét lên Cấp độ bốn: Khảo nghiệm sự kiện thực tế kinh điển ngoài đời thực! Nếu các đồng nghiệp vẫn nghĩ chất nhầy của Cỗ Máy Tạo Đờm chỉ là chuyện viễn tưởng dưới đáy biển sâu, thì hãy quay ngược thời gian về ngày mười ba tháng bảy năm hai ngàn mười bảy trên Quốc lộ một trăm linh một bang O-rê-gơn nước Mỹ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Báo cáo cảnh sát giao thông: Một chiếc xe tải chở bảy ngàn năm trăm pound — tức là gần ba ngàn bốn trăm ki-lô-gam cá mút đá sống đang trên đường vận chuyển — bỗng nhiên gặp sự cố phanh gấp và lật nhào ngang giữa đường cao tốc!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Hàng ngàn chú cá mút đá bị văng ra khỏi thùng chứa, rơi lộp độp xuống mặt đường nhựa nóng rực và bị kích động hoảng loạn tột độ. [surprise-wa] Đồng loạt hàng ngàn Cỗ Máy Tạo Đờm kích hoạt cơ chế tự vệ: chúng xả hàng tấn chất nhầy nhớt bao phủ kín mít mặt đường cao tốc và trùm lên một chiếc xe ô tô con gần đó như cảnh tượng trong phim quái vật ngoài hành tinh!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Đội cứu hỏa và cảnh sát giao thông bang O-rê-gơn phải điều động máy ủi đất và vòi rồng cứu hỏa công suất cực đại phun nước cật lực suốt nhiều giờ liền mới dọn dẹp sạch được bãi chiến trường nhầy nhụa trơn như đổ mỡ! [laughter] Vụ tai nạn trở thành đề tài sốt dẻo trên toàn bộ các mặt báo quốc tế!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Từ sự kiện chấn động đó, các nhà khoa học vật liệu quân sự của Hải quân Mỹ đã vào cuộc nghiên cứu sâu sợi tơ của cá mút đá. Kết quả cho thấy các sợi protein keratin trong chất nhầy mỏng gấp một trăm lần sợi tóc người nhưng có độ bền kéo và độ dẻo dai tương đương tơ nhện và sợi ni-lông nhân tạo! Người ta đang nghiên cứu dùng loại sợi sinh học này để dệt quần áo chống đạn, làm sợi chỉ khâu y tế tự tiêu và chế tạo màng dập lửa thân thiện với môi trường! [surprise-oh] Cấp độ bốn: Vượt qua xuất sắc!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "CẤP TỐI THƯỢNG",
+    "banner_title": "TỬ HUYỆT DUY NHẤT & CA KỲ SAU",
+    "chapter_title": "Cấp độ tối thượng: Khắc tinh hải quỳ và bóng đen điệp viên đại dương",
+    "hook": "TỬ HUYỆT DUY NHẤT VÀ BÓNG ĐEN ĐIỆP VIÊN 9 NÃO",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Bước vào Cấp độ tối thượng: Liệu Cỗ Máy Tạo Đờm có thực sự bất tử dưới đáy đại dương? Cá mập cắn phải nhả. Cá mú đớp phải ho khạc. Bị mắc kẹt thì tự thắt nút tẩu thoát. Chẳng lẽ quái vật này không có lấy một kẻ thù tự nhiên nào sao? [question-oh]",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Và đây là câu trả lời bất ngờ: Khắc tinh số một đánh bại được Cỗ Máy Tạo Đờm lại là những sinh vật... không hề có mang để thở! Đó là những bông hải quỳ ăn thịt khổng lồ và các loài chim biển! Hải quỳ săn mồi bằng xúc tu có tế bào gai châm độc, nuốt chửng con mồi qua khoang bụng mở mà không cần hút nước qua mang, nên chất nhầy của cá mút đá hoàn toàn mất tác dụng! Đúng là vỏ quýt dày có móng tay nhọn! [laughter]",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Tổng kết ghi chép phòng thí nghiệm số hai mươi tư: Mẫu vật đạt điểm mười tuyệt đối cho cỗ máy phòng thủ chất nhầy kỳ dị nhất tiến hóa! Còn các trợ lý thì sao? Nếu được sở hữu một trong hai năng lực: biến cả xô nước thành keo nhớt trong một giây, hay tự thắt nút cơ thể hình số tám để trốn thoát, bạn chọn cái nào? Hãy bình luận lựa chọn của bạn bên dưới nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hồ sơ phòng thí nghiệm hôm nay xin tạm khép lại. Nhưng tập sau, chúng ta sẽ bước vào hồ sơ thế giới ngầm đại dương để điều tra một siêu điệp viên bí ẩn bậc nhất biển cả! Một sinh vật sở hữu tới chín bộ não độc lập, ba trái tim đập nhịp nhàng, dòng máu màu xanh lam huyền bí, và sở hữu tài hóa trang thiên bẩm: có thể biến hình mượt mà thành mười lăm loài sinh vật kịch độc khác nhau dưới đáy biển chỉ trong chớp mắt! Đố các bạn biết bóng đen bí ẩn kỳ sau là loài vật nào? Hãy đoán ngay ở phần bình luận nhé!",
+      "mood": "am_ap"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Chỉ cần một con cá mập vừa cắn vào thân, loài vật này có thể biến hai mươi lít nước biển xung quanh thành một khối keo nhớt đặc quánh chỉ trong không phẩy bốn giây làm kẻ săn mồi suýt chết ngạt! [laughter] Đây là Cá Mút Đá Hagfish, sinh vật cổ đại ba trăm triệu năm dài nửa mét sống dưới đáy biển sâu. Cơ thể nó không có xương sống, có tới bốn quả tim độc lập, và sở hữu hàng trăm lỗ xả chất nhầy hai bên sườn! Khi bị tấn công, các sợi tơ protein dãn nở gấp mười ngàn lần bít kín hoàn toàn các khe mang thở của cá mập khiến kẻ đi săn ho sặc sụa phải nhả vội ra tẩu thoát! [surprise-wa] Để gạt sạch đờm khỏi người mình, nó tự thắt cơ thể thành nút thòng lọng hình số tám từ đầu đến đuôi như ảo thuật gia! Năm hai ngàn mười bảy, một xe tải chở ba ngàn bốn trăm ki-lô-gam cá mút đá lật nhào đã biến cả đường cao tốc ở Mỹ thành một biển chất nhầy nhớt trượt ngã cả xe cứu hỏa! Một cỗ máy tạo đờm độc nhất vô nhị của đại dương!"
+ },
+ "seo": {
+  "title": "Sinh Vật Biến 20 Lít Nước Thành Keo Nhớt Làm Nghẹt Thở Cá Mập?!",
+  "hook_paragraph": "Cá Mút Đá Hagfish cổ đại 300 triệu năm không xương sống nhưng sở hữu vũ khí kinh dị bậc nhất đại dương: biến 20 lít nước thành chất nhầy đặc quánh trong 0,4 giây bít kín mang cá mập và tự thắt nút cơ thể hình số 8 để gạt sạch đờm tẩu thoát!",
+  "bullets": [
+   "Cấp độ 1: 150 lỗ tuyến bắn chất nhầy dãn nở 10.000 lần thể tích trong 0,4 giây",
+   "Cấp độ 2: Bít kín khe mang khiến cá mập và cá mú sặc ngạt thở phải nhả vội",
+   "Cấp độ 3: Tuyệt kỹ tự thắt nút cơ thể hình số 8 để cạo sạch đờm và tạo đòn bẩy xé mồi",
+   "Cấp độ 4: Vụ lật xe chở 3.400kg cá mút đá biến cao tốc Oregon 2017 thành biển chất nhầy",
+   "Cấp độ 5: Sợi tơ keratin siêu bền gấp nhiều lần nylon ứng dụng áo giáp chống đạn"
+  ],
+  "question": "Nếu được sở hữu 1 năng lực của Cá Mút Đá Hagfish: biến 20 lít nước thành keo nhớt tức thì hay tự thắt nút cơ thể hình số 8, bạn chọn cái nào? Và đoán xem bóng đen tập sau là loài nào?",
+  "next_teaser": "Bóng đen siêu điệp viên đại dương: 9 bộ não, 3 quả tim, máu xanh lam và tài hóa trang thành 15 loài kịch độc!",
+  "hashtags": [
+   "#độngvật",
+   "#cámútđá",
+   "#VẽChuyệnHoangDã"
+  ],
+  "tags": [
+   "cá mút đá hagfish",
+   "ca mut da hagfish",
+   "hagfish",
+   "cá mút đá",
+   "chất nhầy cá mút đá",
+   "hagfish slime",
+   "động vật kỳ lạ",
+   "thế giới động vật",
+   "động vật hài hước",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị",
+   "thử thách 5 cấp độ"
+  ],
+  "shorts_title": "Biến 20 Lít Nước Thành Keo Nhớt Làm Nghẹt Thở Cá Mập?! 🐟 #độngvật #cámútđá",
+  "shorts_desc": "Cá Mút Đá Hagfish biến 20 lít nước thành keo nhớt đặc quánh trong 0,4 giây bít kín mang cá mập và tự thắt nút cơ thể hình số 8 để thoát thân! Giải mã Cỗ Máy Tạo Đờm cổ đại 300 triệu năm.",
+  "shorts_tags": [
+   "cá mút đá",
+   "hagfish",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ],
+  "en_title": "The Slime Eel That Turns 20L Water Into Slime in 0.4s?! | Ep 24",
+  "en_hook": "Meet the Hagfish: a 300-million-year-old jawless survivor with 4 hearts that turns 20 liters of seawater into thick suffocating slime in just 0.4 seconds to choke predatory sharks, then ties itself into a moving knot to wipe itself clean!",
+  "en_chapters": [
+   "Specimen File: The 300-Million-Year Ancient Slime Creature",
+   "Level 1: 20 Liters of Viscous Slime in 0.4 Seconds",
+   "Level 2: Suffocating Sharks by Clogging Their Gills",
+   "Level 3: The Figure-8 Body Knotting Mechanism",
+   "Level 4: The 2017 Oregon Highway 101 Slime Highway Spill",
+   "Ultimate Level: The Sea Anemone Nemesis & Next Spy Teaser"
+  ],
+  "en_shorts_title": "Turns 20L Water Into Slime to Choke Sharks?! 🐟 #animals #hagfish"
+ }
+}

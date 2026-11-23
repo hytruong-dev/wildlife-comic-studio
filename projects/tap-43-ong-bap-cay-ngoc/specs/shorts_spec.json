@@ -1,0 +1,403 @@
+{
+ "episode": "tap-43-ong-bap-cay-ngoc",
+ "title_lines": [
+  "ONG PHẪU THUẬT NÃO",
+  "BIẾN GIÁN THÀNH ZOMBIE?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 42.57,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-43-ong-bap-cay-ngoc_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  6.67,
+  9.71,
+  13.87,
+  15.37,
+  21.67,
+  28.09,
+  33.99,
+  35.73,
+  39.65
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.64,
+     "text": "Bạn có tin"
+    },
+    {
+     "t": 1.08,
+     "text": "một con ong"
+    },
+    {
+     "t": 1.58,
+     "text": "bé tí chỉ"
+    },
+    {
+     "t": 2.26,
+     "text": "bằng ngón tay"
+    },
+    {
+     "t": 2.88,
+     "text": "lại có thể"
+    },
+    {
+     "t": 3.58,
+     "text": "biến một con"
+    },
+    {
+     "t": 4.06,
+     "text": "gián to gấp 6"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 4.87,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01b.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 4.92,
+     "text": "lần thành một"
+    },
+    {
+     "t": 5.42,
+     "text": "xác sống Zombie"
+    },
+    {
+     "t": 6.16,
+     "text": "ngoan ngoãn nghe"
+    },
+    {
+     "t": 7.06,
+     "text": "lời răm rắp?"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 7.91,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 8.16,
+     "text": "Đây là Ong"
+    },
+    {
+     "t": 8.7,
+     "text": "Bắp Cày Ngọc,"
+    },
+    {
+     "t": 9.7,
+     "text": "sát thủ mang"
+    },
+    {
+     "t": 10.16,
+     "text": "biệt danh Bác"
+    },
+    {
+     "t": 10.74,
+     "text": "sĩ phẫu thuật"
+    },
+    {
+     "t": 11.34,
+     "text": "thần kinh!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 12.07,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 16.0,
+     "side": "R",
+     "y": 620,
+     "value": "PHÁT 1",
+     "label": "liệt chân trước",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 12.32,
+     "text": "Thay vì giết"
+    },
+    {
+     "t": 12.9,
+     "text": "con mồi,"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 13.57,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03b.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 13.82,
+     "text": "gã tung ra"
+    },
+    {
+     "t": 14.28,
+     "text": "2 phát châm"
+    },
+    {
+     "t": 14.96,
+     "text": "kim độc quyền:"
+    },
+    {
+     "t": 16.0,
+     "text": "Phát 1 châm"
+    },
+    {
+     "t": 16.66,
+     "text": "thẳng vào ngực"
+    },
+    {
+     "t": 17.44,
+     "text": "làm tê liệt"
+    },
+    {
+     "t": 17.92,
+     "text": "hai chân trước"
+    },
+    {
+     "t": 18.48,
+     "text": "của gián trong"
+    },
+    {
+     "t": 19.02,
+     "text": "2-3 phút."
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 19.87,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 23.22,
+     "side": "R",
+     "y": 620,
+     "value": "VI PHẪU",
+     "label": "hạch não gián",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 20.12,
+     "text": "Sau đó,"
+    },
+    {
+     "t": 20.82,
+     "text": "gã chọc mũi"
+    },
+    {
+     "t": 21.3,
+     "text": "kim xuyên qua"
+    },
+    {
+     "t": 21.82,
+     "text": "sọ gián,"
+    },
+    {
+     "t": 22.66,
+     "text": "tìm chính xác"
+    },
+    {
+     "t": 23.22,
+     "text": "hạch não dưới"
+    },
+    {
+     "t": 23.94,
+     "text": "thực quản để"
+    },
+    {
+     "t": 24.58,
+     "text": "bơm độc tố"
+    },
+    {
+     "t": 25.22,
+     "text": "ức chế ý"
+    },
+    {
+     "t": 25.84,
+     "text": "chí sinh tồn!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 26.29,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 29.74,
+     "side": "L",
+     "y": 620,
+     "value": "100%",
+     "label": "mất ý chí",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 26.54,
+     "text": "Hậu quả là"
+    },
+    {
+     "t": 27.5,
+     "text": "con gián vẫn"
+    },
+    {
+     "t": 28.02,
+     "text": "sống, tim vẫn"
+    },
+    {
+     "t": 28.84,
+     "text": "đập, nhưng mất"
+    },
+    {
+     "t": 29.56,
+     "text": "sạch 100%"
+    },
+    {
+     "t": 30.38,
+     "text": "phản xạ sợ"
+    },
+    {
+     "t": 30.98,
+     "text": "hãi và ý"
+    },
+    {
+     "t": 31.48,
+     "text": "chí chạy trốn!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 32.19,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 32.44,
+     "text": "Ong chỉ việc"
+    },
+    {
+     "t": 32.86,
+     "text": "cắn bớt râu,"
+    },
+    {
+     "t": 33.48,
+     "text": "ngậm gốc"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 33.93,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 33.92,
+     "text": "râu dắt con"
+    },
+    {
+     "t": 34.54,
+     "text": "gián tự bước"
+    },
+    {
+     "t": 35.24,
+     "text": "chân vào hang"
+    },
+    {
+     "t": 35.92,
+     "text": "ngầm như dắt"
+    },
+    {
+     "t": 36.68,
+     "text": "thú cưng đi dạo!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 37.85,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 38.1,
+     "text": "Một kỳ tích"
+    },
+    {
+     "t": 38.7,
+     "text": "vi phẫu não"
+    },
+    {
+     "t": 39.32,
+     "text": "bộ thao túng"
+    },
+    {
+     "t": 39.92,
+     "text": "tâm lý đỉnh"
+    },
+    {
+     "t": 40.5,
+     "text": "cao và rùng"
+    },
+    {
+     "t": 41.171,
+     "text": "rợn nhất thế"
+    },
+    {
+     "t": 41.7,
+     "text": "giới côn trùng!"
+    }
+   ]
+  }
+ ]
+}

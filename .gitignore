@@ -1,0 +1,49 @@
+# ===== Bí mật & cấu hình riêng từng máy =====
+.env
+.env.*
+config/local.json
+*.pem
+*.key
+client_secret*.json
+cookies*.txt
+
+# ===== Phụ thuộc cài lại được (xem SETUP_MAY_MOI.md) =====
+node_modules/
+tools/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ===== File nặng sinh ra khi sản xuất (render lại được từ episode.json + specs) =====
+# Giữ: episode.json, content/, specs/, *.md, upload*.json, audio/*.json (transcript căn thời gian)
+projects/**/renders/
+projects/**/assets/
+projects/**/audio/**/*.wav
+projects/**/audio/**/*.mp3
+projects/**/audio/vs/
+projects/**/*.mp4
+projects/**/*.wav
+projects/**/*.png
+projects/**/*.jpg
+projects/**/*.jpeg
+projects/**/*.webp
+projects/**/sources/
+projects/**/cache/
+projects/**/_raw/
+
+# ===== Rác tạm =====
+tmp/
+logs/
+*.log
+.DS_Store
+Thumbs.db
+
+# Script vá tạm một lần ở gốc (đã dùng xong, không phải công cụ)
+/align_ep*.py
+/apply_fix_ep*.py
+/build_sb_ep*.py
+/expand_ep*.py
+/fix_ep*.py
+/generate_ep*.py
+/scratch_*.py

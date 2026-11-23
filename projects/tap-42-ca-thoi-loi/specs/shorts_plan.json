@@ -1,0 +1,56 @@
+{
+  "title_lines": [
+    "CÁ NGẠT THỞ DƯỚI NƯỚC?!",
+    "THỤT MẮT ĐỂ NUỐT MỒI"
+  ],
+  "beats": [
+    {
+      "at_s": 0.0,
+      "draw_s": 1.0,
+      "image": "assets/shorts/S01.png",
+      "stickers": []
+    },
+    {
+      "at": "Đây là Cá Thòi Lòi,",
+      "image": "assets/shorts/S02.png",
+      "stickers": [],
+      "captions": []
+    },
+    {
+      "at": "nhưng bù lại gã hô hấp trực tiếp",
+      "image": "assets/shorts/S02b.png",
+      "stickers": [],
+      "captions": []
+    },
+    {
+      "at": "Để không bị khô mang,",
+      "image": "assets/shorts/S03.png",
+      "stickers": [],
+      "captions": []
+    },
+    {
+      "at": "cặp vây ngực",
+      "image": "assets/shorts/S04.png",
+      "stickers": [],
+      "captions": []
+    },
+    {
+      "at": "Nhưng dị nhất là đôi mắt lồi",
+      "image": "assets/shorts/S05.png",
+      "stickers": [],
+      "captions": []
+    },
+    {
+      "at": "Mỗi khi đớp mồi trên cạn",
+      "image": "assets/shorts/S06.png",
+      "stickers": [],
+      "captions": []
+    },
+    {
+      "at": "vừa làm ẩm mắt vừa",
+      "image": "assets/shorts/S07.png",
+      "stickers": [],
+      "captions": []
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+ "episode_no": 27,
+ "animal": "Chuột Chũi Sao",
+ "slug": "tap-27-chuot-chui-sao",
+ "format": "F4",
+ "persona": "phong_vien_24h",
+ "_angle_from_roadmap": "Cuộc đua tốc độ $0.12\\text{ giây}$: Chiếc mũi 22 xúc tu chạm 12 vị trí mỗi giây và kỹ năng thổi bong bóng ngửi mùi dưới nước.",
+ "_shorts_idea_from_roadmap": "Chiếc mũi như quái vật ngoài hành tinh giúp nó ăn tối nhanh hơn cái chớp mắt!",
+ "nickname": "Tia Chớp Lòng Đất",
+ "sources": [
+  "Catania & Kaas (1995, 1999), Nature 375: 45-46 & Nature Neuroscience 2: 722-728 — Cấu tạo 22 xúc tu với hơn 25.000 thụ thể Eimer và hoàng điểm xúc giác fovea ở xúc tu số 11",
+  "Catania & Remple (2005), Nature 433: 519-522 — Kỷ lục Guinness động vật có vú ăn mồi nhanh nhất hành tinh: 120 mili-giây (0,12 giây) để nhận diện và nuốt chửng con mồi",
+  "Catania (2006), Nature 444: 1024-1025 — Khám phá đầu tiên về khả năng ngửi mùi dưới nước ở động vật có vú bằng cơ chế thổi và hít lại bong bóng khí (5-10 lần/giây)",
+  "Marasco et al. (2006) & Journal of Comparative Neurology — Tốc độ dẫn truyền thần kinh 46mm/s và vùng não cảm giác bản thể chiếm ưu thế tuyệt đối",
+  "Hamilton (1931) & Canadian Field-Naturalist — Tập tính bán thủy sinh, bơi lội dưới băng mùa đông và chiếc đuôi phình to tích trữ mỡ năng lượng"
+ ],
+ "whisper_prompt": "Chuột Chũi Sao, Tia Chớp Lòng Đất, Condylura cristata, Ken-nét Ca-ta-ni-a, Kenneth Catania, Ban-đơ-bin, Vanderbilt, Eimer, thụ thể Eimer, fovea, vỏ não, somatosensory cortex, 22 xúc tu, 25.000, 100.000, 0,12 giây, 120 mili-giây, 8 mili-giây, 12 vị trí, 10 lần, 50g, 24 giờ, 06:00, 12:00, 18:00, 00:00, 04:00",
+ "display_fix": {
+  "hai mươi bảy": "27",
+  "hai mươi tám": "28",
+  "hai mươi hai xúc tu": "22 xúc tu",
+  "hai mươi hai": "22",
+  "hai mươi xúc tu": "20 xúc tu",
+  "hai mươi": "20",
+  "hai mươi mốt": "21",
+  "hai mươi ba": "23",
+  "hai mươi bốn": "24",
+  "hai mươi lăm ngàn": "25.000",
+  "hai mươi lăm": "25",
+  "một trăm ngàn": "100.000",
+  "một ngàn": "1.000",
+  "ba trăm": "300",
+  "bốn trăm": "400",
+  "ba trăm đến bốn trăm mili-giây": "300-400 mili-giây",
+  "không phẩy mười hai giây": "0,12 giây",
+  "một trăm hai mươi mili-giây": "120 mili-giây",
+  "tám mili-giây": "8 mili-giây",
+  "mười hai vị trí": "12 vị trí",
+  "mười hai": "12",
+  "mười vị trí": "10 vị trí",
+  "năm đến mười lần": "5-10 lần",
+  "mười lần": "10 lần",
+  "mười một cặp": "11 cặp",
+  "mười cặp": "10 cặp",
+  "năm lần": "5 lần",
+  "sáu lần": "6 lần",
+  "năm mươi gam": "50g",
+  "năm mươi phần trăm": "50%",
+  "mười lăm đến hai mươi xăng-ti-mét": "15-20cm",
+  "mười lăm xăng-ti-mét": "15cm",
+  "hai mươi xăng-ti-mét": "20cm",
+  "hai mươi bốn giờ": "24 giờ",
+  "không sáu giờ sáng": "06:00",
+  "mười hai giờ trưa": "12:00",
+  "mười tám giờ hoàng hôn": "18:00",
+  "không không giờ nửa đêm": "00:00",
+  "không bốn giờ rạng sáng": "04:00",
+  "năm hai ngàn lẻ sáu": "2006",
+  "một trăm phần trăm": "100%",
+  "hàng ngàn": "hàng ngàn",
+  "hàng trăm": "hàng trăm",
+  "thứ nhất": "thứ 1",
+  "thứ hai": "thứ 2",
+  "thứ ba": "thứ 3",
+  "thứ tư": "thứ 4",
+  "không độ C": "0°C",
+  "ba mươi bảy độ C": "37°C",
+  "số mười một": "số 11",
+  "mười một": "11",
+  "thứ mười một": "thứ 11",
+  "thứ 11": "thứ 11",
+  "ba đê": "3D",
+  "Ghi-nét": "Guinness",
+  "Ken-nét": "Kenneth",
+  "Ca-ta-ni-a": "Catania",
+  "Ban-đơ-bin": "Vanderbilt",
+  "Ai-mơ": "Eimer",
+  "Pho-vê-a": "Fovea"
+ },
+ "voice": {},
+ "art": {
+  "decor": "running clock gear, lightning bolts, dirt clods, red star tentacles",
+  "shorts_mascot": "A funny cute cartoon Star-Nosed Mole with a velvety black body, paddle-like front paws, and a bright pink 22-ray star nose, wearing running sneakers and a stopwatch",
+  "thumb_bg": "địa đạo lòng đất tăm tối rực sáng tia chớp đỏ cam từ chiếc mũi sao",
+  "thumb_title": ["ĂN MỒI TRONG 0,12 GIÂY?!", "CHUỘT CHŨI SAO"],
+  "thumb_scene": "một chú Chuột Chũi Sao hoạt hình lông đen nhung mập mạp to rõ, hai chân trước hình xẻng cào đất, chiếc mũi xòe 22 xúc tu đỏ hồng như bông hoa sao đang nuốt chửng một con giun đất cực nhanh",
+  "thumb_gag": "chiếc đồng hồ bấm giờ điện tử dừng lại ở con số 0,12s bốc khói vì quá tốc độ"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "06:00 SÁNG",
+    "banner_title": "BẮT ĐẦU CUỘC ĐUA TỐC ĐỘ 24 GIỜ",
+    "chapter_title": "06:00 Sáng: Mở màn cuộc đua sinh tồn và chiếc mũi quái vật ngoài hành tinh",
+    "hook": "",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Bây giờ là không sáu giờ sáng! Chúng tôi đang có mặt trực tiếp tại một đầm lầy ẩm ướt vùng Đông Bắc Bắc Mỹ. Sương mù mờ ảo giăng kín mặt đất, tiếng đồng hồ tích tắc báo hiệu cuộc đua sinh tồn nghẹt thở hai mươi bốn giờ chính thức khai hỏa! Dưới lớp bùn đất nhão nhoẹt, mặt đất bắt đầu rung chuyển nhẹ... Một cỗ máy khoan đất tí hon chỉ nặng khoảng năm mươi gam, dài chưa đầy mười lăm đến hai mươi xăng-ti-mét, bỗng chốc đùn đất trồi lên!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Báo cáo phóng viên hiện trường: Mục tiêu vừa lộ diện nhưng trên mặt nó không có mắt, mà gắn một bông hoa thịt màu đỏ hồng đang ngoe nguẩy dữ dội!",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "[surprise-oh] Quý vị khán giả của đài truyền hình Vẽ Chuyện Hoang Dã đừng vội hoảng sợ! Đây không phải quái vật ngoài hành tinh xâm lăng Trái Đất, mà là Chuột Chũi Sao, loài động vật có vú sở hữu cơ quan cảm giác kỳ dị bậc nhất hành tinh! Hai mắt của nó thoái hóa mù tịt, hai tai không có vành, nhưng ngay trên đầu mũi lại xòe ra hai mươi hai xúc tu thịt màu hồng tươi rung rinh liên tục như một bông hoa sao biển! Trong bản tin trực tiếp hôm nay, chúng tôi gọi thẳng tên nó bằng biệt danh: Tia Chớp Lòng Đất!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Điều gì đã khiến một sinh vật nhỏ bé mù lòa lại được Tổ chức Kỷ lục Thế giới Ghi-nét phong tặng danh hiệu cỗ máy săn mồi nhanh nhất hành tinh? Chiếc mũi sao kia vận hành thần tốc ra sao để giúp nó sinh tồn suốt một ngày dài đói khát? Hãy cùng trường quay của chúng tôi theo sát từng mốc thời gian trong ngày của Tia Chớp Lòng Đất!",
+      "mood": "nghiem_trang_gia"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "12:00 TRƯA",
+    "banner_title": "KỶ LỤC GUINNESS 0,12 GIÂY",
+    "chapter_title": "12:00 Trưa: Kỷ lục Guinness 120 mili-giây và 25.000 thụ thể Eimer",
+    "hook": "ĂN MỒI NHANH HƠN CHỚP MẮT: 120 MILI-GIÂY",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Đồng hồ điểm mười hai giờ trưa! Ánh nắng mặt trời rọi thẳng đứng nhưng dưới lòng địa đạo tăm tối, Tia Chớp Lòng Đất đang bắt đầu bữa tiệc trưa tốc độ ánh sáng! Hãy chuẩn bị tinh thần theo dõi camera quay chậm một ngàn khung hình mỗi giây, vì mắt thường của quý vị hoàn toàn bất lực trước vận tốc này!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Giáo sư Ken-nét Ca-ta-ni-a tại Đại học Ban-đơ-bin đã đưa chuột chũi sao vào phòng thí nghiệm với máy quay tốc độ cao và phát hiện một kỷ lục thế giới kinh hoàng: thời gian trung bình để nó dùng mũi chạm vào con mồi, nhận diện ăn được hay không, rồi há miệng ngoạm nuốt chửng... chỉ mất đúng một trăm hai mươi mili-giây, tức là không phẩy mười hai giây! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Quý vị có biết một cái chớp mắt của con người mất bao lâu không? Mất khoảng ba trăm đến bốn trăm mili-giây! Nghĩa là trong lúc quý vị vừa chớp mắt một cái nhẹ tênh, chú Chuột Chũi Sao đã kịp chén sạch sành sanh ba con giun liên tiếp! [laughter] Thậm chí bộ não của nó chỉ mất đúng tám mili-giây để phân tích tín hiệu thần kinh và đưa ra quyết định ăn hay bỏ — nhanh ngang ngửa tốc độ xử lý của vi mạch máy tính tối tân!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bí mật đằng sau tốc độ bàn thờ này nằm trọn trên chiếc mũi hoa sao: trên hai mươi hai chiếc xúc tu thịt nhỏ xíu chứa tới hơn hai mươi lăm ngàn thụ thể xúc giác siêu nhạy gọi là thụ thể Ai-mơ, được nuôi dưỡng bởi hơn một trăm ngàn sợi dây thần kinh — tức là dày đặc gấp sáu lần toàn bộ dây thần kinh trên cả hai bàn tay của một con người trưởng thành! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Khi đi săn trong bóng tối mù mịt, chiếc mũi của Tia Chớp Lòng Đất gõ liên hồi xuống bùn đất với tần số khó tin: chạm tới mười hai vị trí khác nhau trong vỏn vẹn một giây! Mười cặp xúc tu bên ngoài làm nhiệm vụ dò đường quét rộng, khi phát hiện thứ gì nghi ngờ là thức ăn, nó lập tức điều phối cặp xúc tu số mười một chụp lấy kiểm tra cận cảnh! Chẳng một hạt cát, chẳng một con ấu trùng bọ cánh cứng nào có thể trốn thoát trước chiếc máy quét xúc giác quét từng milimet đất này!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Không những thế, bộ hàm của nó còn trang bị những chiếc răng cửa nhọn hoắt đan chéo vào nhau như chiếc nhíp gắp siêu nhỏ! Ngay khi cặp xúc tu số mười một xác nhận con mồi, chiếc nhíp răng liền phóng ra ngoạm chặt và kéo thẳng con mồi vào họng, kết hợp với tuyến nước bọt có chất gây tê nhẹ làm con giun đất bất động ngay tức khắc! Đúng là dây chuyền bắt và chế biến thức ăn tự động nhanh nhất thế giới!",
+      "mood": "don_dap"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "18:00 HOÀNG HÔN",
+    "banner_title": "THỔI BONG BÓNG NGỬI DƯỚI NƯỚC",
+    "chapter_title": "18:00 Hoàng hôn: Lặn suối dưới băng và tuyệt kỹ ngửi mùi bằng bong bóng",
+    "hook": "ĐỘNG VẬT CÓ VÚ DUY NHẤT NGỬI MÙI DƯỚI NƯỚC",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Bầu trời hoàng hôn buông xuống, đồng hồ chuyển sang mốc mười tám giờ hoàng hôn. Đừng nghĩ chuột chũi chỉ biết quanh quẩn đào đất trong bóng tối khô ráo. Tia Chớp Lòng Đất của chúng ta là một vận động viên bơi lội bán thủy sinh cừ khôi, và địa bàn hoạt động buổi chiều tà của gã chuyển thẳng xuống những dòng suối lạnh buốt ven đầm lầy!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Hai bàn chân trước to bè như hai mái chèo xẻ nước, chiếc đuôi dày cộp đóng vai trò bánh lái đưa gã lặn sâu xuống đáy nước mò tìm ấu trùng chuồn chuồn và cá nhỏ. Nhưng điều làm chấn động toàn bộ giới sinh học thế giới — được công bố trên tạp chí Nature năm hai ngàn lẻ sáu — là câu hỏi: làm thế nào một loài thú lại có thể đánh hơi tìm mồi dưới nước khi không thể hít nước vào phổi?",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Báo cáo hiện trường: Camera hồng ngoại dưới nước ghi nhận mẫu vật liên tục thổi những quả bong bóng khí tròn xoe ra khỏi lỗ mũi rồi hít ngược trở lại!",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "[surprise-oh] Quý vị đang chứng kiến một kỳ quan vật lý sinh học độc nhất vô nhị! Chuột Chũi Sao chính là loài động vật có vú đầu tiên trên hành tinh được chứng minh có khả năng ngửi mùi dưới nước! Nó thổi những bong bóng khí nhỏ từ mũi chạm vào thức ăn, các phân tử mùi trong nước lập tức khuếch tán bám vào bề mặt bong bóng, và trong chớp mắt, nó hít ngược bong bóng vào khoang mũi để cơ quan khứu giác phân tích mùi vị! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Tần số thổi và hít lại bong bóng này đạt từ năm đến mười lần mỗi giây — nhanh và nhịp nhàng hệt như cách một chú chuột cống hít hà đánh hơi trên cạn! Nhờ chiếc máy thở bong bóng tuần hoàn này, dù đáy suối tối om không nhìn thấy gì, Tia Chớp Lòng Đất vẫn bơi theo dấu vết mùi của con mồi chuẩn xác từng centimet! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Thậm chí vào mùa đông khi mặt nước đầm lầy đóng thành những tảng băng dày cứng ngắc, gã vẫn lặn ngụp dưới băng, thổi những quả bong bóng khí chạm vào mặt dưới của tảng băng để gom mùi hương của tôm tép đang bơi lội! Các nhà vật lý chất lưu thán phục rằng cơ chế bắt dính phân tử mùi qua sức căng bề mặt của bong bóng là một phát kiến tự nhiên siêu việt mà con người chưa từng nghĩ tới!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "00:00 NỬA ĐÊM",
+    "banner_title": "HOÀNG ĐIỂM XÚC GIÁC & NÃO BỘ",
+    "chapter_title": "00:00 Nửa đêm: Cặp xúc tu số 11 và bản đồ xúc giác chiếm trọn vỏ não",
+    "hook": "BẢN ĐỒ NÃO BỘ KHỔNG LỒ DÀNH RIÊNG CHO MŨI SAO",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Đồng hồ điểm không không giờ nửa đêm! Rừng đầm lầy chìm trong bóng tối dày đặc, tiếng cú mèo rúc vang trên cành cây báo hiệu giờ săn mồi của những kẻ thù nguy hiểm nhất: chồn ec-min, rắn nước và chim săn đêm đang rình rập quanh các cửa hầm ngầm.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Bên trong lòng đất, Tia Chớp Lòng Đất vẫn miệt mài vận hành cỗ máy thần kinh tinh vi nhất. Khi các nhà khoa học chụp bản đồ quét não bộ của nó, họ phát hiện một hiện tượng giải phẫu làm kinh ngạc toàn ngành thần kinh học: toàn bộ vùng vỏ não cảm giác bản thể của nó hầu như bị chiếc mũi hoa sao chiếm trọn hoàn toàn!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Đặc biệt nhất là cặp xúc tu ở vị trí thứ mười một — cặp xúc tu nhỏ nhất nằm ở chính giữa phía dưới của bông hoa sao! Cặp xúc tu thứ mười một này hoạt động y hệt như hoàng điểm Pho-vê-a trên võng mạc mắt người — tức là vùng có độ phân giải thị giác sắc nét nhất! Khi hai mươi xúc tu bên ngoài chạm lướt qua phát hiện vật thể khả nghi, chiếc mũi lập tức hướng cặp xúc tu thứ mười một vào kiểm tra cận cảnh với độ phóng đại não bộ lớn gấp nhiều lần! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Các nghiên cứu giải phẫu thần kinh cho thấy hơn năm mươi phần trăm diện tích của vùng não cảm giác bản thể dành trọn vẹn để xử lý thông tin từ chiếc mũi chỉ rộng chưa đầy một centimet này! Nếu vẽ lại cơ thể chuột chũi sao theo tỷ lệ diện tích não bộ điều khiển, chiếc mũi của nó sẽ to đùng bằng cả tòa nhà, còn thân mình và chân tay chỉ bé bằng hạt vừng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Thế nên dù không có mắt để nhìn, thế giới trong đầu của Chuột Chũi Sao lại rực rỡ và chi tiết đến từng milimet qua những bức tranh xúc giác ba đê sống động! Nó nhìn thấy thế giới bằng chính chiếc mũi sao của mình, định vị không gian và phát hiện kẻ thù đào đất mò tới từ khoảng cách hàng mét để kịp thời bịt kín ngách hầm tẩu thoát an toàn! [laughter]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "04:00 RẠNG SÁNG",
+    "banner_title": "CƠN ĐÓI KHÁT & ĐUÔI TÍCH MỠ",
+    "chapter_title": "04:00 Rạng sáng: Cơn đói liên tục và chiếc đuôi phình to trữ mỡ mùa đông",
+    "hook": "ĂN LƯỢNG THỨC ĂN BẰNG CẢ TRỌNG LƯỢNG CƠ THỂ MỖI NGÀY",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Bây giờ là không bốn giờ rạng sáng. Nhiệt độ ngoài trời giảm xuống mức đóng băng, hơi lạnh buốt giá bắt đầu luồn vào từng kẽ đất. Lúc này, Tia Chớp Lòng Đất phải đối mặt với kẻ thù nguy hiểm nhất đe dọa sự sống còn của chính mình: Cơn đói cồn cào của cỗ máy chuyển hóa năng lượng siêu tốc!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Với một cơ thể nhỏ bé năm mươi gam nhưng vận động đào bới liên tục với nhịp tim và trao đổi chất cao ngất ngưởng, nó không thể nhịn ăn quá vài giờ đồng hồ. Mỗi ngày, một chú Chuột Chũi Sao phải tiêu thụ lượng thức ăn tương đương từ một nửa cho đến gần bằng một trăm phần trăm trọng lượng cơ thể của chính mình! Nếu ngừng ăn là pin năng lượng sẽ cạn sạch và cơ thể sẽ hạ thân nhiệt tử vong!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Thế nhưng khi mùa đông tuyết trắng phủ dày cả mét và mặt hồ đóng băng cứng ngắc, làm sao nó sống sót? Hãy nhìn ra phía sau chiếc đuôi của nó: vào mùa thu trù phú, chiếc đuôi của Chuột Chũi Sao phình to gấp ba đến bốn lần kích thước bình thường, biến thành một bình ắc-quy sinh học tích trữ đầy mỡ béo dự trữ năng lượng! [surprise-oh]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhờ chiếc đuôi tích mỡ thần kỳ kết hợp với bộ lông nhung không thấm nước dày dặn, gã thản nhiên bơi lặn săn mồi bên dưới lớp băng tuyết mùa đông lạnh thấu xương mà không hề biết đến khái niệm ngủ đông là gì! Đúng là chiến binh bốn mùa bất khuất của thế giới đầm lầy!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Đặc biệt là vào những đợt bão tuyết khắc nghiệt, nhiệt độ dưới lớp băng có thể giảm sâu xuống gần không độ C, nhưng nhiệt độ cơ thể của Tia Chớp Lòng Đất vẫn duy trì ổn định ở ba mươi bảy độ C! Toàn bộ mỡ dự trữ trong chiếc đuôi phình to được đốt cháy từng phần để sưởi ấm các cơ quan nội tạng quan trọng nhất!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "KẾT THÚC 24H",
+    "banner_title": "ĐỒNG HỒ KHÉP & BÓNG ĐEN KỲ SAU",
+    "chapter_title": "Kết thúc 24h: Chiếc đồng hồ khép vòng và bóng đen kiến nổ cảm tử",
+    "hook": "VÒNG XOAY 24H KHÉP LẠI VÀ BÓNG ĐEN QUÂN ĐOÀN CẢM TỬ",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Đồng hồ lại điểm không sáu giờ sáng! Tròn hai mươi bốn giờ nghẹt thở đã trôi qua. Sương sớm lại giăng kín đầm lầy, và cuộc đua sinh tồn của Tia Chớp Lòng Đất lại khép lại một vòng quay Trái Đất để rồi tiếp tục bắt đầu một ngày mới không ngừng nghỉ.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Từ một sinh vật mù lòa xấu xí bị xem là dị hợm, Chuột Chũi Sao đã biến chiếc mũi hoa sao thành một tuyệt tác tiến hóa đỉnh cao: ăn mồi trong không phẩy mười hai giây, ngửi mùi dưới nước bằng bong bóng và vẽ nên bản đồ thế giới bằng xúc giác kỳ diệu!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Phóng sự hai mươi bốn giờ của chúng tôi xin được khép lại tại đây. Còn quý vị khán giả thì sao? Nếu được sở hữu một siêu năng lực của Tia Chớp Lòng Đất: tốc độ ăn tối nhanh hơn cái chớp mắt không lo trễ giờ, hay khả năng ngửi mùi dưới nước bằng bong bóng, quý vị chọn cái nào? Hãy để lại bình luận bên dưới nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và bây giờ, bản tin đặc biệt xin được bật mí bóng đen bí ẩn của tập tiếp theo! Rời khỏi đầm lầy Bắc Mỹ, chúng ta sẽ bước vào rừng mưa nhiệt đới Đông Nam Á để chứng kiến một đội quân đế chế khét tiếng tàn bạo! Những chiến binh bé nhỏ mang trong mình lòng trung thành tuyệt đối với bà trùm: khi kẻ thù tấn công tổ, chúng sẵn sàng tự gồng cơ bụng nổ tung cơ thể mình như những quả bom cảm tử, phun ra dòng chất độc màu vàng dính chặt kẻ thù cùng chết chung! Đố các bạn biết bóng đen bí ẩn kỳ sau là loài vật nào? Hãy đoán ngay ở phần bình luận nhé!",
+      "mood": "am_ap"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Sinh vật mù lòa này ăn tối nhanh đến mức khó tin: chỉ mất đúng không phẩy mười hai giây để nhận diện và nuốt chửng con mồi, nhanh hơn cả một cái chớp mắt của con người! [laughter] Xin giới thiệu Chuột Chũi Sao, cỗ máy săn mồi dài hai mươi xăng-ti-mét sống dưới các đầm lầy Bắc Mỹ. Hai mắt của nó thoái hóa mù tịt, nhưng trên mũi lại mọc ra hai mươi hai xúc tu thịt màu hồng xòe rộng như một bông hoa sao biển! [surprise-wa] Chiếc mũi quái đản này chứa hơn hai mươi lăm ngàn thụ thể cảm giác, gõ xuống bùn đất tới mười hai vị trí mỗi giây để dò mồi! Thậm chí khi lặn xuống nước, nó là loài thú duy nhất biết thổi những quả bong bóng khí ra khỏi mũi rồi hít ngược trở lại để ngửi mùi con mồi dưới đáy suối! Bộ não của nó chỉ mất đúng tám mili-giây để quyết định ăn hay bỏ! Một tia chớp lòng đất với chiếc mũi quái vật ngoài hành tinh sở hữu tốc độ săn mồi nhanh nhất hành tinh!"
+ },
+ "seo": {
+  "title": "Cỗ Máy Mù Lòa Ăn Mồi Trong 0,12 Giây & Ngửi Mùi Dưới Nước?!",
+  "hook_paragraph": "Chuột Chũi Sao (Condylura cristata) nắm giữ Kỷ lục Guinness động vật có vú ăn mồi nhanh nhất hành tinh: chỉ mất 0,12 giây (120 mili-giây) để nuốt chửng con mồi nhờ chiếc mũi 22 xúc tu chứa 25.000 thụ thể Eimer và khả năng thổi bong bóng ngửi mùi dưới nước!",
+  "bullets": [
+   "Kỷ lục Guinness: Ăn con mồi trong 120 mili-giây (0,12s), não phân tích chỉ mất 8 mili-giây",
+   "Chiếc mũi hoa sao: 22 xúc tu chứa 25.000 thụ thể Eimer chạm 12 điểm mỗi giây",
+   "Động vật có vú duy nhất ngửi mùi dưới nước bằng cơ chế thổi và hít lại bong bóng khí (Nature 2006)",
+   "Nhật ký 24h: Bơi lội dưới băng mùa đông nhờ chiếc đuôi phình to tích trữ mỡ dự trữ"
+  ],
+  "question": "Nếu được sở hữu 1 năng lực của Chuột Chũi Sao: tốc độ ăn mồi trong 0,12 giây hay kỹ năng thổi bong bóng ngửi mùi dưới nước, bạn chọn cái nào? Và đoán xem bóng đen tập sau là loài nào?",
+  "next_teaser": "Bóng đen quân đoàn cảm tử: những chiến binh tự kích nổ tung cơ thể phun chất độc vàng bảo vệ bà trùm!",
+  "hashtags": [
+   "#độngvật",
+   "#chuộtchũisao",
+   "#VẽChuyệnHoangDã"
+  ],
+  "tags": [
+   "chuột chũi sao",
+   "chuot chui sao",
+   "star nosed mole",
+   "condylura cristata",
+   "ăn mồi 0.12 giây",
+   "ngửi mùi dưới nước",
+   "mũi 22 xúc tu",
+   "động vật kỳ lạ",
+   "thế giới động vật",
+   "động vật hài hước",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị"
+  ],
+  "shorts_title": "Cỗ Máy Mù Lòa Ăn Mồi Trong 0,12 Giây & Ngửi Mùi Dưới Nước?! 🌟 #độngvật #chuộtchũisao",
+  "shorts_desc": "Chuột Chũi Sao ăn mồi trong 0,12 giây nhanh hơn chớp mắt nhờ chiếc mũi 22 xúc tu chứa 25.000 thụ thể Eimer và khả năng thổi bong bóng ngửi mùi dưới nước! Kỷ lục Guinness động vật có vú nhanh nhất hành tinh.",
+  "shorts_tags": [
+   "chuột chũi sao",
+   "star nosed mole",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ],
+  "en_title": "The Blind Mole That Eats in 0.12s & Smells Underwater?! | Ep 27",
+  "en_hook": "Meet the Star-Nosed Mole (Condylura cristata): holding the Guinness World Record for the fastest-eating mammal at just 120 milliseconds (0.12s), equipped with a 22-ray star nose with 25,000 Eimer's organs, and the only mammal that smells underwater by blowing air bubbles!",
+  "en_chapters": [
+   "06:00 AM: The 24-Hour Race & The Alien Star Nose",
+   "12:00 PM: The 120ms Guinness Record & 25,000 Eimer's Organs",
+   "06:00 PM: Ice Swimming & Underwater Bubble Sniffing",
+   "12:00 AM: The Ray-11 Fovea & Giant Somatosensory Brain Map",
+   "04:00 AM: High Metabolism Hunger & Fat-Strore Winter Tail",
+   "24-Hour Wrap-Up & Next Exploding Ant Army Teaser"
+  ],
+  "en_shorts_title": "The Blind Animal That Eats in 0.12 Seconds?! 🌟 #animals #starnosedmole"
+ }
+}

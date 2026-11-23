@@ -1,0 +1,80 @@
+{
+ "title_lines": [
+  "ĐẠI CÔNG TRÌNH SƯ",
+  "KỲ QUAN NÔNG NGHIỆP 50 TRIỆU NĂM?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Trước khi con người xuất hiện",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "quy mô công nghiệp sâu 8m",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "Bí mật kinh hoàng nằm ở chỗ",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "Chúng cắt lá cây không phải để ăn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "như máy cưa xẻ nát lá",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "Tổ của chúng đào bới hơn 40 tấn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "hệ thống thông gió đối lưu tự nhiên",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "giữ nhiệt độ luôn ổn định ở 25°C",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "Thậm chí trên mai kiến còn có vi khuẩn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  },
+  {
+   "at": "để bảo vệ mùa màng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  },
+  {
+   "at": "Đúng là bậc thầy công trình vĩ đại",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": []
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-04-thu-mo-vit/audio/scene01_eleven_p0.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-04-thu-mo-vit/audio/gap_200ms.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-04-thu-mo-vit/audio/scene01_eleven_p1.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-04-thu-mo-vit/audio/gap_200ms.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-04-thu-mo-vit/audio/scene01_eleven_p2.wav'

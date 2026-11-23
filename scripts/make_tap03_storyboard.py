@@ -1,0 +1,294 @@
+import json
+
+storyboard = {
+  "characters": {
+    "HERO": "chú Cá Heo hoạt hình 2D màu xám xanh bóng bẩy, vây lưng cong vút, chiếc mõm uốn cong cười tủm tỉm tinh nghịch",
+    "HERO_S": "chú Cá Heo",
+    "NO_HERO": "khung cảnh đại dương, không có cá heo"
+  },
+  "shorts_title_lines": [
+    "BÍ MẬT NỤ CƯỜI",
+    "CỦA CÁ HEO?!"
+  ],
+  "long": [
+    # Scene 1: 6 beats -> L01..L06
+    {
+      "scene": "scene01",
+      "at": 0,
+      "layout": "Chiếc cầu nối đại dương: Rái Cá Biển vẫy tay chào tạm biệt nhường sân khấu cho {HERO} đang tung tăng bơi ra biển lớn.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "Trong mọi bộ phim hoạt",
+      "layout": "{HERO} trong tranh vẽ thiếu nhi với nụ cười thiên thần rạng rỡ, hai chú chim nhỏ bay quanh như trong cổ tích.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "Khung xương hàm dưới của",
+      "layout": "Mặt cắt giải phẫu: Cấu tạo khung xương hàm dưới của họ cá heo Delphinidae uốn cong cố định tạo thành nụ cười vĩnh cửu.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "Thực tế, đằng sau gương",
+      "layout": "{HERO} đeo kính râm đen lột xác thành tay anh chị giang hồ đại dương ngậm cọng cỏ cười khẩy cực ngầu.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "Chúng là biệt đội học",
+      "layout": "{HERO} dùng mõm chạm nhẹ trêu chọc chú cá nóc phồng to như quả bóng gai dưới đáy biển.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "và hợp sức xua đuổi",
+      "layout": "Biệt đội cá heo hợp lực rượt đuổi cá mập trắng khổng lồ khiến hung thần biển cả phải co giò tháo chạy.",
+      "stickers": [],
+      "impacts": []
+    },
+    # Scene 2: 8 beats -> L07..L14
+    {
+      "scene": "scene02",
+      "at": 0,
+      "layout": "{HERO} bơi tới trước chiếc gương soi dưới đáy biển, nghiêng đầu ngắm nghía tạo dáng như người mẫu.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "Đầu tiên là chỉ số",
+      "layout": "Thẻ chỉ số RPG BRAIN IQ: 99/100, minh họa bộ não lớn thứ 2 hành tinh với chằng chịt nếp nhăn vượt trội.",
+      "stickers": [
+        {"at": "99/100", "side": "R", "y": 360, "value": "99/100", "label": "siêu trí tuệ não lớn", "target": [0.65, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "Thứ hai là chỉ số Ra-đa",
+      "layout": "Thẻ chỉ số RPG SONAR: 100/100 tuyệt đối, chùm sóng âm radar quét sạch bóng tối dưới đáy biển.",
+      "stickers": [
+        {"at": "100/100", "side": "L", "y": 360, "value": "100/100", "label": "ra-đa siêu âm đáy biển", "target": [0.55, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "Dù bơi trong làn nước",
+      "layout": "{HERO} phát sóng âm sonar xuyên qua đáy cát, nhìn thấy rõ chú cá đang ẩn nấp như kính X-quang sinh học.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "Thứ ba là chỉ số Tốc Độ",
+      "layout": "Thẻ chỉ số RPG SPEED: 95/100, ngọn lửa tốc độ bốc cháy sau đuôi khi {HERO} rẽ sóng.",
+      "stickers": [
+        {"at": "95/100", "side": "L", "y": 360, "value": "95/100", "label": "ngư lôi biển sâu", "target": [0.5, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "Nhờ làn da trơn láng",
+      "layout": "{HERO} phóng như quả ngư lôi xé nước với vận tốc 55 km/h, bật nhảy vút lên không trung cao 6m xoay vòng 360 độ.",
+      "stickers": [
+        {"at": "55 km/h", "side": "R", "y": 360, "value": "55 KM/H", "label": "tốc độ ngư lôi", "target": [0.6, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "Và cuối cùng là chỉ",
+      "layout": "Thẻ chỉ số RPG PLAYFULNESS: 999 điểm vượt khung, còi hú báo động độ tinh quái lầy lội.",
+      "stickers": [
+        {"at": "999", "side": "R", "y": 360, "value": "999", "label": "độ ham chơi tinh quái", "target": [0.6, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "Từ việc tự thổi những",
+      "layout": "{HERO} thổi những chiếc vòng bong bóng tròn xoe lấp lánh dưới nước rồi bơi luồn lách qua như diễn xiếc.",
+      "stickers": [],
+      "impacts": []
+    },
+    # Scene 3: 4 beats -> L15..L18
+    {
+      "scene": "scene03",
+      "at": 0,
+      "layout": "Giải phẫu khối mỡ Melon trên trán {HERO}: Phát ra 1.000 tiếng click siêu âm mỗi giây tạo chùm tia quét cát.",
+      "stickers": [
+        {"at": "1.000", "side": "R", "y": 360, "value": "1.000", "label": "tiếng click siêu âm/s", "target": [0.6, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "Kỳ diệu hơn nữa là",
+      "layout": "Sơ đồ não bộ ngủ luân phiên: Nửa não trái ngủ nhắm mắt phải, nửa não phải thức mở mắt trái canh chừng kẻ thù suốt 8 tiếng.",
+      "stickers": [
+        {"at": "suốt 8", "side": "L", "y": 360, "value": "8 TIẾNG", "label": "ngủ luân phiên não", "target": [0.55, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "Không chỉ có não bộ",
+      "layout": "Chứng minh thư nhân dân của {HERO}: Kèm nốt nhạc giai điệu huýt sáo độc nhất vô nhị làm tên riêng.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "Thậm chí ở vịnh Shark",
+      "layout": "{HERO} đeo miếng bọt biển mềm bọc quanh đầu mũi như găng tay bảo hộ để sục đáy đá tìm mồi ở Shark Bay.",
+      "stickers": [],
+      "impacts": []
+    },
+    # Scene 4: 4 beats -> L19..L22
+    {
+      "scene": "scene04",
+      "at": 0,
+      "layout": "Trận bóng chuyền cá nóc: Nhóm cá heo dùng mũi tâng chuyền chú cá nóc phồng to như quả bóng chuyền gai.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "Ngay sau đó, cả nhóm",
+      "layout": "Cả nhóm cá heo ngửa bụng sát mặt nước mắt lim dim phê pha thư thái ngắm mây trời.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "Đến khi cần kiếm bữa",
+      "layout": "Chiến thuật lưới bùn: Cá heo đội trưởng bơi vòng tròn khuấy tung bùn cát thành bức tường trụ giam giữ đàn cá.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "nhưng bên ngoài bức tường",
+      "layout": "Đàn cá nhỏ nhảy vọt lên không trung và cả đàn cá heo xếp hàng há miệng đớp gọn giữa không trung.",
+      "stickers": [],
+      "impacts": []
+    },
+    # Scene 5: 4 beats -> L23..L26
+    {
+      "scene": "scene05",
+      "at": 0,
+      "layout": "Đội hình cá heo phối hợp chiến thuật bầy đàn bơi vây ráp cá mập trắng từ bốn phương tám hướng.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "rồi thay phiên nhau lao",
+      "layout": "{HERO} phi vút 55 km/h, dùng mõm xương Rostrum cứng như thép đúc húc thẳng vào bụng cá mập trắng.",
+      "stickers": [
+        {"at": "55 km/h", "side": "R", "y": 360, "value": "ROSTRUM", "label": "húc vỡ nội tạng cá mập", "target": [0.6, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "Đối với con người, cá",
+      "layout": "Huyền thoại chú cá heo Pelorus Jack nhảy sóng dẫn đường cho tàu thủy vượt eo biển đá ngầm New Zealand suốt 24 năm.",
+      "stickers": [
+        {"at": "24 năm", "side": "L", "y": 360, "value": "24 NĂM", "label": "hoa tiêu pelorus jack", "target": [0.55, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "Cho đến tận ngày nay,",
+      "layout": "Đàn cá heo bơi thành vòng tròn che chắn cứu người gặp nạn đưa vào bờ an toàn như những hiệp sĩ biển cả.",
+      "stickers": [],
+      "impacts": []
+    },
+    # Scene 6: 3 beats -> L27..L29
+    {
+      "scene": "scene06",
+      "at": 0,
+      "layout": "Thông điệp biển xanh: {HERO} bơi lượn tự do giữa đại dương sạch đẹp không rác thải nhựa.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "Hãy cùng nhau giữ gìn",
+      "layout": "Bàn tay họa sĩ vẽ nên bức tranh doodle cá heo nghệ thuật nhảy múa giữa muôn ngàn bong bóng nước.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "Và nếu bạn nghĩ một",
+      "layout": "Bật mí teaser Tập 4: Sinh vật kỳ quặc nhất hành tinh Thú Mỏ Vịt với mỏ vịt, đuôi hải ly và giấu cựa độc.",
+      "stickers": [],
+      "impacts": []
+    }
+  ],
+  "shorts": [
+    {
+      "at": 0,
+      "layout": "{HERO} trong tranh hoạt hình nở nụ cười rạng rỡ thân thiện.",
+      "stickers": []
+    },
+    {
+      "at": "Nụ cười vĩnh cửu ấy",
+      "layout": "Giải phẫu khung xương hàm dưới uốn cong cố định từ khi mới sinh của {HERO}.",
+      "stickers": []
+    },
+    {
+      "at": "Đằng sau nụ cười thiên",
+      "layout": "{HERO} lột mặt nạ đeo kính râm đen làm đại ca học sinh siêu quậy biển sâu.",
+      "stickers": []
+    },
+    {
+      "at": "Chúng biết tự soi gương",
+      "layout": "{HERO} tự soi gương tạo dáng điệu đà trước mặt kính dưới đáy biển.",
+      "stickers": []
+    },
+    {
+      "at": "dùng khối mỡ Melon trên",
+      "layout": "Khối mỡ thấu kính Melon phát 1.000 tiếng click siêu âm quét xuyên qua lớp cát.",
+      "stickers": [
+        {"at": "1.000", "side": "R", "y": 620, "value": "1.000", "label": "tiếng click siêu âm", "target": [0.55, 0.5]}
+      ]
+    },
+    {
+      "at": "và sở hữu tuyệt kỹ",
+      "layout": "Tuyệt kỹ ngủ mở một mắt nhắm một mắt điều khiển đuôi ngoi lên thở suốt 8 tiếng.",
+      "stickers": [
+        {"at": "canh chừng", "side": "L", "y": 620, "value": "NGỦ MỞ MẮT", "label": "canh chừng cá mập", "target": [0.5, 0.5]}
+      ]
+    },
+    {
+      "at": "Đỉnh cao lầy lội là",
+      "layout": "Trận bóng chuyền cá nóc kịch độc: Cá heo chuyền qua chuyền lại bạn cá nóc phồng to.",
+      "stickers": []
+    },
+    {
+      "at": "và cú húc mõm thép",
+      "layout": "Cú húc mõm xương Rostrum tốc độ 55 km/h đập tan tác cá mập trắng ôm đầu chạy trốn.",
+      "stickers": [
+        {"at": "55 km/h", "side": "R", "y": 620, "value": "55 KM/H", "label": "húc tan tác cá mập", "target": [0.55, 0.5]}
+      ]
+    }
+  ]
+}
+
+with open("projects/tap-03-ca-heo/specs/storyboard.json", "w", encoding="utf-8") as f:
+    json.dump(storyboard, f, ensure_ascii=False, indent=2)
+print("Wrote projects/tap-03-ca-heo/specs/storyboard.json")

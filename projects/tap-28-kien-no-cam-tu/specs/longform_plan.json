@@ -1,0 +1,584 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "QUY TẮC SINH TỬ CỦA GIA TỘC KIẾN VÒM RỪNG",
+   "hook": "",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tại những ngọn cây",
+     "image": "assets/long/L02.png",
+     "stickers": [
+      {
+       "at": "40-50m",
+       "side": "R",
+       "y": 350,
+       "value": "CAO 40-50M",
+       "label": "vòm cây cổ thụ",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo bà trùm,",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bật màn hình chỉ",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Xin giới thiệu với",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Dù kích thước cơ",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Điều gì đã khiến",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bí mật nằm ở",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đêm nay, tôi mời",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "4 tầng",
+       "side": "L",
+       "y": 350,
+       "value": "4 TẦNG",
+       "label": "cấu trúc đế chế",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trên những tầng tán",
+     "image": "assets/long/L10.png",
+     "stickers": [
+      {
+       "at": "50-60m",
+       "side": "R",
+       "y": 350,
+       "value": "50-60 MÉT",
+       "label": "độ cao sinh tồn",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Không có chỗ cho",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một khi đã bước",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỒ SƠ ĐẾ CHẾ"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "LÍNH THỢ MINOR VÀ KHO VŨ KHÍ TUYẾN HÀM DƯỚI",
+   "hook": "KHO VŨ KHÍ HÓA CHẤT DÀI SUỐT DỌC CƠ THỂ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng đằng sau vẻ",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "2018, một công",
+     "image": "assets/long/L15.png",
+     "stickers": [
+      {
+       "at": "2018",
+       "side": "L",
+       "y": 350,
+       "value": "NĂM 2018",
+       "label": "nghiên cứu Laciny",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cặp túi hóa chất",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bên trong túi chứa",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó sống cả cuộc",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Điều kỳ thú là",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chừng nào túi tuyến",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một sự phân công",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để tiếp cận và",
+     "image": "assets/long/L23.png",
+     "stickers": [
+      {
+       "at": "50m",
+       "side": "R",
+       "y": 350,
+       "value": "THÁP 50M",
+       "label": "cẩu tháp Brunei",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Họ phải đu dây",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP BẬC ĐÁY"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "CÚ GỒNG CƠ BỤNG NỔ TUNG CƠ THỂ AUTOTHYSIS",
+   "hook": "TỰ XÉ RÁCH VỎ BỤNG NỔ TUNG KEO DÍNH TRÓI KẺ THÙ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi đang tuần tra",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gã lập tức áp",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sau đó, gã gồng",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": [
+      "bùm"
+     ]
+    },
+    {
+     "at": "Dòng keo dính màu",
+     "image": "assets/long/L29.png",
+     "stickers": [
+      {
+       "at": "vài giây",
+       "side": "R",
+       "y": 350,
+       "value": "ĐÔNG CỨNG",
+       "label": "keo độc dán sắt",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Kẻ săn mồi hoảng",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chiến Binh Cảm Tử đã",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "gửi đi một thông",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mùi hương cay nồng",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Những chú kiến thợ",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong lịch sử sinh",
+     "image": "assets/long/L35.png",
+     "stickers": [
+      {
+       "at": "1916",
+       "side": "L",
+       "y": 350,
+       "value": "NĂM 1916",
+       "label": "phát hiện đầu tiên",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trải qua hơn một",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "ĐỘI QUÂN CẢM TỬ"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "HIỆN TƯỢNG PHRAGMOSIS DÙNG ĐẦU LÀM CÁNH CỬA SỐNG",
+   "hook": "LÍNH ĐẦU PHẲNG CẮM CHẶT LỖ CÂY NHƯ NẮP NÚT CHAI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy quan sát hiện",
+     "image": "assets/long/L38.png",
+     "stickers": [
+      {
+       "at": "100%",
+       "side": "R",
+       "y": 350,
+       "value": "KHÍT 100%",
+       "label": "đầu phẳng phragmosis",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Gã lính gác dùng",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo gác cổng:",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kẻ thù bên ngoài",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ khi nào những",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "gã lính gác mới",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Suốt cả cuộc đời",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chúng ăn thức ăn",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu gã lính gác",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "KẺ GÁC CỔNG"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "CUỘC CHIẾN VỚI KIẾN VÀNG OECOPHYLLA VÀ BÀ TRÙM",
+   "hook": "CHIẾN TRANH BẦY ĐÀN VÀ SỰ HY SINH BẢO VỆ KIẾN CHÚA",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kẻ thù truyền kiếp",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong những trận đụng",
+     "image": "assets/long/L49.png",
+     "stickers": [
+      {
+       "at": "50m",
+       "side": "R",
+       "y": 350,
+       "value": "TÁN LÁ 50M",
+       "label": "chiến trường đẫm máu",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "hàng trăm Chiến Binh",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sự hy sinh vị",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kiến chúa là trái",
+     "image": "assets/long/L52.png",
+     "stickers": [
+      {
+       "at": "hàng ngàn",
+       "side": "L",
+       "y": 350,
+       "value": "1.000 QUẢ",
+       "label": "trứng đẻ mỗi ngày",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đây là đỉnh cao",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vào mùa giao phối",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Những thế hệ cảm tử",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một tổ kiến Colobopsis",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hàng trăm ngàn cá",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "ĐẠI CHIẾN BẦY ĐÀN"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "LÒNG TRUNG THÀNH TUYỆT ĐỐI VÀ BÓNG ĐEN ĐẢO NGƯỢC THỜI GIAN",
+   "hook": "BÁO CÁO CUỐI CÙNG VÀ BÓNG ĐEN SỨA BẤT TỬ TẬP 29",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ một loài côn",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo điệp báo",
+     "image": "assets/long/L60.png",
+     "stickers": [
+      {
+       "at": "điểm 10",
+       "side": "R",
+       "y": 350,
+       "value": "ĐIỂM 10",
+       "label": "kỷ luật quân đội thép",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Còn anh em thì",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "xin được khép",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một sinh vật nhỏ",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "khi già yếu hoặc",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đố các bạn biết",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BÁO CÁO GIA TỘC"
+  }
+ }
+}

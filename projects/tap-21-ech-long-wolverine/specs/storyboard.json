@@ -1,0 +1,937 @@
+{
+ "_doc": "Storyboard Tập 21: Ếch Lông Wolverine (Format F1 - Bệnh án tiến hóa). Mỗi câu/ý thoại = 1 beat = 1 ảnh riêng.",
+ "characters": {
+  "HERO": "chú Ếch Lông Wolverine (Trichobatrachus robustus) hoạt hình mũm mĩm màu nâu rêu pha vệt xanh ô-liu, thân bè tròn, đầu to mõm ngắn, hai mắt vàng to lồi biểu cảm hài hước, hai bên sườn và đùi có tua lông da xù xì màu nâu xanh, đeo một chiếc băng đô gương soi tròn màu bạc của bác sĩ trên trán",
+  "HERO_S": "chú Ếch Lông Wolverine nâu rêu mũm mĩm, tua lông xù hai bên sườn, đeo gương soi bác sĩ bạc trên trán",
+  "NO_HERO": "KHÔNG có chú ếch đeo gương bác sĩ trên trán trong cảnh này",
+  "DOCTOR": "ông bác sĩ hoạt hình tóc muối tiêu mặc áo blouse trắng, đeo kính tròn và ống nghe y tế, vẻ mặt bất lực hài hước",
+  "NURSE": "cô trợ lý phòng khám hoạt hình mặc áo blouse xanh nhạt, kẹp tập hồ sơ bệnh án"
+ },
+ "side_characters": [
+  "DOCTOR",
+  "NURSE"
+ ],
+ "shorts_side_characters": [
+  "DOCTOR"
+ ],
+ "shorts_title_lines": [
+  "TỰ BẺ XƯƠNG ĐÂM",
+  "THỦNG DA LÀM VUỐT?!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "BÊN TRÁI-GIỮA là phòng cấp cứu dã chiến dựng bằng lều vải giữa rừng mưa Trung Phi ban đêm, đèn cứu thương đỏ trên nóc chớp sáng rực; BÊN PHẢI là {DOCTOR} và {NURSE} giật mình bật dậy khỏi bàn trực. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bệnh nhân tự bước",
+   "layout": "{HERO} lầm lì bước vào cửa phòng khám, hai bàn chân sau quấn băng trắng nhưng vẫn ló ra tám đầu vuốt xương nhọn hoắt xuyên qua lớp băng, mặt lạnh tanh không cảm xúc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Không phải do thú",
+   "layout": "Hai bong bóng suy nghĩ gạch chéo đỏ ở GIỮA: BÊN TRÁI hình răng nanh báo đốm gạch chéo đỏ, BÊN PHẢI hình bụi gai rừng gạch chéo đỏ; phía dưới là dấu chấm hỏi to. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mà là do chính",
+   "layout": "Cận cảnh bàn chân sau của {HERO} bên PHẢI: chú ếch tự gồng bắp chân nổi cuồn cuộn, làm chiếc xương ngón chân nhọn đâm xuyên qua da bàn chân thò ra ngoài như lưỡi dao găm.",
+   "stickers": [],
+   "impacts": [
+    "đâm xuyên"
+   ]
+  },
+  {
+   "scene": "scene01",
+   "at": "Bác sĩ ơi, em",
+   "layout": "BÊN TRÁI {NURSE} giơ cuộn băng gạc trắng toát mồ hôi nhìn xuống; BÊN PHẢI {HERO} ngồi ngay ngắn trên giường khám, vết thương đã quấn băng nhưng mặt tỉnh bơ ngơ ngác nhìn thẳng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Các đồng nghiệp nhìn",
+   "layout": "BÊN TRÁI {DOCTOR} cầm tập hồ sơ bệnh án chỉ tay sửng sốt; BÊN PHẢI là hình bóng gấu xám và sói xám bị gạch bỏ, thay bằng {HERO} ngồi gọn lỏn trên chiếc cân khám bệnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đây là Ếch Lông",
+   "layout": "Bản đồ lục địa châu Phi tô sáng vùng Trung Phi và Cameroon ở BÊN TRÁI; BÊN PHẢI là dòng suối đá rừng nhiệt đới nơi {HERO} đang ngồi trên tảng đá rêu đầy tự hào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Con đực trưởng thành",
+   "layout": "Ở GIỮA {HERO} đứng cạnh một nắm tay người lớn hoạt hình để so kích cỡ bằng nhau; BÊN PHẢI có chiếc thước đo chiều cao màu vàng dựng thẳng cạnh chú ếch.",
+   "stickers": [
+    {
+     "at": "13cm",
+     "side": "R",
+     "y": 350,
+     "value": "10-13 CM",
+     "label": "dài cỡ nắm tay",
+     "target": [
+      0.79,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Trông ngoài mặt thì",
+   "layout": "Chia đôi khung: BÊN TRÁI một cục đất sét nâu nặn hình con ếch; BÊN PHẢI {HERO} khoanh tay ưỡn ngực đeo bảng tên bệnh nhân đầy ngạo nghễ giữa phòng khám.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Điều khiến tôi bất",
+   "layout": "BÊN TRÁI {DOCTOR} ôm trán thở dài bất lực trước chiếc cân bập bênh bị đảo ngược hoàn toàn: đĩa bên trái đặt một cô ếch xanh bình thường to hơn, đĩa bên phải là chú ếch đực nhỏ xíu bị nhấc bổng lên. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Riêng nhà Dị Nhân",
+   "layout": "So sánh kích thước trên thước kẻ phòng khám: BÊN TRÁI một cô ếch cái trơn láng (không đeo gương bác sĩ) thấp hơn hẳn; BÊN PHẢI {HERO} cao to vạm vỡ gấp rưỡi, ưỡn ngực tự hào.",
+   "stickers": [
+    {
+     "at": "9cm",
+     "side": "L",
+     "y": 380,
+     "value": "9 CM",
+     "label": "ếch cái nhỏ hơn",
+     "target": [
+      0.32,
+      0.58
+     ]
+    },
+    {
+     "at": "13cm",
+     "side": "R",
+     "y": 350,
+     "value": "13 CM",
+     "label": "ếch đực to vượt trội",
+     "target": [
+      0.7,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chưa hết, mùa thường",
+   "layout": "Chia đôi trước-sau: BÊN TRÁI {HERO} da trơn láng gọn gàng; mũi tên ở GIỮA chỉ sang BÊN PHẢI là {HERO} mọc tua tủa bộ lông xù xì hai bên sườn như bộ râu quai nón hài hước.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hôm nay, tôi mời",
+   "layout": "{DOCTOR} đứng giữa phòng khám bật chiếc đèn phẫu thuật khổng lồ chiếu thẳng xuống {HERO} ngồi trên ghế bệnh nhân, xung quanh bày sẵn phim X-quang và kính hiển vi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Cận cảnh bàn chân sau tròn ủm, có màng bơi màu nâu ô-liu của {HERO} đặt trên tấm đệm khám bệnh trắng tinh, nhìn bên ngoài mềm mại cực kỳ hiền lành vô hại.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng khi đặt chân",
+   "layout": "{DOCTOR} cầm tách cà phê làm rơi văng tung tóe xuống sàn vì choáng váng khi nhìn lên bảng đèn soi X-quang ở GIỮA: phim X-quang chiếu xuyên bàn chân {HERO} hiện rõ những chiếc xương ngón chân nhọn hoắt như lưỡi dao bấm.",
+   "stickers": [],
+   "impacts": [
+    "rơi"
+   ]
+  },
+  {
+   "scene": "scene02",
+   "at": "Ẩn sâu bên dưới",
+   "layout": "Mặt cắt giải phẫu bàn chân ếch màu hoạt hình sạch sẽ ở GIỮA: dưới lớp da mịn là một hàng dao bấm bỏ túi màu trắng xương xếp gọn gàng ẩn bên trong thịt. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Ở mèo, chó hay",
+   "layout": "So sánh chia đôi: BÊN TRÁI bàn chân mèo giơ móng vuốt sừng vàng mọc bên ngoài da; BÊN PHẢI chân đại bàng với móng vuốt sừng đen uốn cong. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Còn vuốt của Dị",
+   "layout": "Cận cảnh ngón chân sau của {HERO} phóng to ở GIỮA: không có lớp vỏ sừng bọc ngoài, chỉ có đầu xương trắng muốt trơn nhẵn đâm thẳng ra khỏi da.",
+   "stickers": [
+    {
+     "at": "100%",
+     "side": "R",
+     "y": 350,
+     "value": "100% XƯƠNG",
+     "label": "không có vỏ sừng",
+     "target": [
+      0.56,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Cơ chế khai hỏa",
+   "layout": "Trong phòng thí nghiệm Đại học, nhà khoa học hoạt hình đeo kính lúp mắt to ngồi soi bàn chân ếch trên kính hiển vi với bảng vẽ sơ đồ xương phát sáng bên cạnh. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "2008",
+     "side": "L",
+     "y": 360,
+     "value": "2008",
+     "label": "nghiên cứu Harvard",
+     "target": [
+      0.58,
+      0.42
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Lúc bình thường, đầu",
+   "layout": "Sơ đồ cắt lớp ngón chân ếch ở trạng thái nghỉ (ở GIỮA): đầu xương nhọn hình móc câu nằm yên trong thịt, nối vào một cục xương tròn nhỏ đầu ngón bằng dải dây chằng đàn hồi màu hồng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhờ chốt an toàn",
+   "layout": "{HERO} vui vẻ nhảy lò cò trên lá sen xanh và chạy tung tăng trên đá suối, hai bàn chân đóng kín an toàn như có khóa cài.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng chỉ cần một",
+   "layout": "Một con rắn hổ mang rừng hoặc cầy mangut thò đầu từ BÊN TRÁI chạm vào lưng {HERO}; {HERO} ở BÊN PHẢI lập tức quay ngoắt đầu lại, mắt vàng rực lửa giận dữ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "lập tức co cực",
+   "layout": "Cận cảnh bắp chân sau của {HERO} gồng lên nổi cơ bắp cuồn cuộn phát sáng cam, kéo căng sợi gân bên trong bàn chân như kéo cò súng.",
+   "stickers": [],
+   "impacts": [
+    "co cực mạnh"
+   ]
+  },
+  {
+   "scene": "scene02",
+   "at": "Lực kéo giật đứt",
+   "layout": "Sơ đồ phóng to đầu ngón chân ếch: dải dây nối màu hồng bị giật đứt làm đôi phựt ra khỏi cục xương tròn nhỏ, tạo tia lửa hiệu ứng comic. {NO_HERO}.",
+   "stickers": [],
+   "impacts": [
+    "giật đứt"
+   ]
+  },
+  {
+   "scene": "scene02",
+   "at": "Đầu xương nhọn lập",
+   "layout": "Hai bàn chân sau của {HERO} đồng loạt bật ra tám chiếc vuốt xương trắng nhọn hoắt như móng vuốt hoạt hình màu trắng sáng (phong cách hoạt hình hài thân thiện trẻ em, không máu), tư thế chiến đấu cực ngầu.",
+   "stickers": [
+    {
+     "at": "8 ngón chân sau",
+     "side": "R",
+     "y": 380,
+     "value": "8 NGÓN",
+     "label": "phóng vuốt xương",
+     "target": [
+      0.52,
+      0.38
+     ]
+    }
+   ],
+   "impacts": [
+    "chọc thủng"
+   ]
+  },
+  {
+   "scene": "scene02",
+   "at": "Các bác sĩ đo",
+   "layout": "Sơ đồ so sánh độ dày lớp vỏ xương ở gốc và mũi vuốt bằng kính hiển vi có thước đo siêu nhỏ: phần gốc mảnh như tờ giấy, phần mũi dày đặc cứng cáp như đầu lưỡi dao găm. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "0,02mm",
+     "side": "L",
+     "y": 350,
+     "value": "0,02 MM",
+     "label": "vỏ xương ở gốc",
+     "target": [
+      0.34,
+      0.55
+     ]
+    },
+    {
+     "at": "0,13mm",
+     "side": "R",
+     "y": 350,
+     "value": "0,13 MM",
+     "label": "dày gấp 6 lần ở mũi",
+     "target": [
+      0.68,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nghe tới đây chắc",
+   "layout": "{DOCTOR} và {NURSE} toát mồ hôi hột nhìn bàn chân có vuốt xương lòi ra ngoài, đặt dấu chấm hỏi to tướng phía trên. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Câu trả lời còn",
+   "layout": "{DOCTOR} dùng kính lúp soi khắp bàn chân ếch tìm sợi cơ kéo vuốt nhưng hoàn toàn trống trơn, khuôn mặt ngơ ngác tột độ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Các nhà khoa học",
+   "layout": "Cơ chân sau của {HERO} thả lỏng dần dưới ánh đèn xanh dịu, chiếc vuốt xương tự trượt thụ động ngược lại vào trong lớp đệm ngón chân.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Còn vết thương rách",
+   "layout": "Cận cảnh bàn chân {HERO} tỏa ánh sáng hồi phục xanh lá nhẹ nhàng, vết rách da nhanh chóng khép miệng tự liền lại êm ái như mới.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đúng là siêu anh",
+   "layout": "{HERO} tạo dáng siêu anh hùng oai phong nhưng hai bàn chân sau quấn đầy băng gạc cá nhân hình chữ thập, ngồi cạnh một thùng băng gạc y tế rỗng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "{DOCTOR} cầm kính lúp soi da bên sườn của {HERO}, ghi chép hồ sơ da liễu và kiểm tra hệ hô hấp trong phòng khám.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thú thật với các",
+   "layout": "Trong bong bóng suy nghĩ hài hước của {DOCTOR}, {HERO} đội tóc giả xù hoặc mặc áo lông chuột ngớ ngẩn; kính hiển vi đặt bên cạnh để kiểm chứng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Trời đất ơi, đi",
+   "layout": "BÊN TRÁI một chú ếch xanh bình thường (không đeo gương, da trơn) đang bơi giữa suối tròn mắt há hốc; BÊN PHẢI {HERO} bơi tung tăng với bộ tua lông xù xì như đang mặc áo choàng lông thú.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chú ếch hàng xóm",
+   "layout": "{HERO} đứng khoanh tay giải thích cho chú ếch xanh hàng xóm, hai bên sườn phất phơ các sợi tua da mềm mại chứ không phải lông thú.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đó là hàng trăm",
+   "layout": "Cận cảnh bộ lông tua rua ở sườn {HERO} đặt cạnh một sợi cước câu cá trong suốt có kính lúp phóng to ở GIỮA để thấy độ mảnh của sợi nhú da.",
+   "stickers": [
+    {
+     "at": "0,45mm",
+     "side": "R",
+     "y": 350,
+     "value": "0,35-0,45",
+     "label": "đường kính sợi (mm)",
+     "target": [
+      0.62,
+      0.52
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bên trong mỗi sợi",
+   "layout": "Mặt cắt phóng to một sợi nhú da màu hồng tươi: bên trong chứa đầy mạng lưới mao mạch đỏ li ti chạy sát ngay lớp da mỏng ngoài cùng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và kỳ lạ nhất",
+   "layout": "So sánh đôi vợ chồng ếch dưới ánh nắng mùa hạ: BÊN TRÁI cô ếch cái da trơn nhẵn; BÊN PHẢI {HERO} con đực mọc đầy bộ râu lông hai bên sườn đứng cạnh tờ lịch mùa sinh sản.",
+   "stickers": [
+    {
+     "at": "tháng 4",
+     "side": "R",
+     "y": 350,
+     "value": "THÁNG 4-6",
+     "label": "mùa sinh sản mọc lông",
+     "target": [
+      0.74,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Tại sao tạo hóa",
+   "layout": "Bác sĩ cổ điển với cặp kính gọng tròn đang soi bản vẽ giải phẫu cổ trên bàn gỗ đặt dấu chấm hỏi vào sườn chú ếch mọc tua lông. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Câu trả lời được",
+   "layout": "Tài liệu khoa học cổ và phim soi nội soi hiển thị hai lá phổi nhỏ xíu, cấu tạo khác biệt rõ rệt giữa ếch đực và ếch cái. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1925",
+     "side": "L",
+     "y": 350,
+     "value": "1925",
+     "label": "phát hiện giải phẫu",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Hóa ra phổi của",
+   "layout": "Phim X-quang đối chiếu ngực ếch: phổi của {HERO} con đực rất nhỏ và có túi cơ lạ, biểu tượng đồng hồ đo oxy báo thiếu hụt khi vận động mạnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khi con cái đẻ",
+   "layout": "Chia đôi cảnh suối rừng: BÊN TRÁI trên bờ lá khô cô ếch cái đeo kính râm tung tăng đi dạo; BÊN PHẢI dưới đáy suối đá nước chảy xiết là {HERO} ngồi lì canh một bọc trứng tròn xoe.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Ngồi lì dưới nước",
+   "layout": "{HERO} ngồi dưới đáy suối nước xanh, trên ngực hiện hình lá phổi tí hon đang thở hổn hển với thanh pin báo đỏ yếu ớt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thế là cơ thể",
+   "layout": "Cận cảnh hai bên sườn {HERO} bùng nổ mọc ra hàng trăm sợi tua rua da màu hồng nâu, phát sáng như bật chế độ tăng lực sinh học.",
+   "stickers": [],
+   "impacts": [
+    "kích hoạt"
+   ]
+  },
+  {
+   "scene": "scene03",
+   "at": "Những sợi lông giả",
+   "layout": "Những bong bóng oxy nhỏ màu xanh ngọc từ dòng nước suối đang thấm xuyên thẳng qua các sợi tua rua da của {HERO} vào mạch máu, giống hệt cơ chế mang cá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chưa hết, lúc ẩn",
+   "layout": "{HERO} nấp sát hòn đá dưới suối, bộ tua rua lất phất hòa lẫn hoàn toàn vào đám rêu tảo xanh rì; một con chim săn mồi đậu phía trên ngó xuống tìm không ra.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Hết mùa giữ trứng",
+   "layout": "Đàn nòng nọc nhỏ bơi tung tăng đi xa; {HERO} rụng hết tua lông bên sườn trở lại làn da trơn láng bảnh bao, mỉm cười vẫy tay chào con.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "{DOCTOR} mở ngăn tủ hồ sơ bảo tàng chất đầy hàng chục lọ tiêu bản ếch châu Phi được đánh số gọn gàng để kiểm tra gia phả. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "63 loài",
+     "side": "L",
+     "y": 350,
+     "value": "63 LOÀI",
+     "label": "khảo sát bảo tàng",
+     "target": [
+      0.32,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Tổng cộng có tới",
+   "layout": "Bảng xếp đội hình 11 chú ếch châu Phi thuộc ba nhóm họ hàng đứng dàn hàng ngang, tất cả đều giấu chiếc vuốt xương nhỏ dưới chân sau. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "11 loài",
+     "side": "R",
+     "y": 350,
+     "value": "11 LOÀI",
+     "label": "có vuốt giấu kín",
+     "target": [
+      0.65,
+      0.52
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nếu mở rộng hồ",
+   "layout": "Bản đồ châu Âu và tấm hồ sơ giải phẫu lưỡng cư tự vệ mở ra trên bàn bác sĩ, hình vẽ chú kỳ giông Tây Ban Nha đang chuẩn bị tư thế phòng thủ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "khi bị tấn công",
+   "layout": "Một chú kỳ giông gân sườn Tây Ban Nha màu xám nâu đốm cam mặc áo choàng gai, gồng lưng đẩy các đầu gai xương sườn trắng nhọn chọc nhẹ qua hai bên hông đầy vẻ ngầu lòi (kiểu hoạt hình, không máu). {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Tuy vậy, cơ chế",
+   "layout": "Đặt cạnh nhau trên bệ trưng bày: chiếc vuốt xương cong như dao găm của {HERO} tỏa hào quang vàng đứng hạng nhất về độ độc lạ trong giới động vật có xương sống.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chưa hết đâu các",
+   "layout": "Phóng to bàn tay trước của {HERO}: trên ngón cái mập mạp có ba hàng gai sừng màu đen cứng cáp xếp đều tăm tắp như gai lốp xe địa hình.",
+   "stickers": [
+    {
+     "at": "3 hàng gai",
+     "side": "R",
+     "y": 350,
+     "value": "3 HÀNG GAI",
+     "label": "ngón cái tay trước",
+     "target": [
+      0.56,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bộ gai nhám này",
+   "layout": "{HERO} dùng hai bàn tay trước có gai nhám ôm ghì chặt lấy một tảng đá trơn nhẵn giữa dòng thác nước chảy xiết trắng xóa mà không bị cuốn trôi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nhưng đừng thấy nó",
+   "layout": "Nhà tự nhiên học mặc đồ thám hiểm kaki đội mũ cối ở BÊN TRÁI cầm cuốn sổ da, rón rén đưa tay về phía {HERO} đang ngồi giả vờ ngây thơ ở BÊN PHẢI.",
+   "stickers": [
+    {
+     "at": "1954",
+     "side": "L",
+     "y": 350,
+     "value": "1954",
+     "label": "sách Gerald Durrell",
+     "target": [
+      0.3,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Khi ông dùng tay",
+   "layout": "{HERO} đạp tung hai chân sau giơ vuốt xương lên; nhà thám hiểm giật bắn người rụt tay lại với vài vệt băng đỏ dán ngang lòng bàn tay và biểu cảm sốc nặng (hài hước, không máu me ghê rợn).",
+   "stickers": [],
+   "impacts": [
+    "cào thẳng"
+   ]
+  },
+  {
+   "scene": "scene04",
+   "at": "Đúng là nhìn mặt",
+   "layout": "Chia đôi: BÊN TRÁI {HERO} cười hiền lành giả vờ như cục đất dễ thương; BÊN PHẢI hiện nguyên hình giơ hai chân đầy vuốt xương sắc bén khiến người xem giật mình.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bác sĩ ơi, thế",
+   "layout": "Một chú nòng nọc hoạt hình tròn trĩnh màu nâu nhạt bơi trong cốc thủy tinh tròn, tò mò giơ cái đuôi lên hỏi {DOCTOR} đứng bên cạnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Câu hỏi rất hay",
+   "layout": "Chia đôi: BÊN TRÁI chú nòng nọc nhỏ xíu trơn tru chưa có chân tay bơi trong nước; BÊN PHẢI một chú ếch con bé bằng đồng xu vừa bước lên bờ đã giấu sẵn chiếc vuốt xương tí hon dưới bàn chân.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Tuổi nhỏ tài cao",
+   "layout": "Chú ếch con tý hon đội mũ bảo hiểm nhỏ xíu đứng oai vệ cạnh mô hình chiếc vuốt xương phóng to bằng kính lúp đầy tự hào. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Rừng núi Cameroon ban đêm ánh trăng xanh: {DOCTOR} đeo đèn pin trên trán cùng người dân bản địa châu Phi chỉ tay về phía dòng suối đá có {HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "thì người dân bản",
+   "layout": "Người thợ săn bản địa châu Phi kinh nghiệm lắc đầu chỉ biển cảnh báo vào {HERO} đang ngồi trên đá suối, trên đầu có đồng hồ cát quay ngược thời gian hàng trăm năm. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Tại nhiều làng ở",
+   "layout": "Quầy bếp lửa trại ngoài trời ở làng quê châu Phi với khói tỏa nghi ngút và xiên đồ nướng thơm lừng đặt trên đĩa gỗ; không vẽ cảnh giết mổ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhưng có một quy",
+   "layout": "Biển cảnh báo hoạt hình màu vàng hình bàn tay bị gạch chéo đỏ to đùng phía trên đầu {HERO} đang giơ chân sau khoe tám chiếc vuốt xương.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Vậy nên các thợ",
+   "layout": "Hai người thợ săn hoạt hình châu Phi đứng từ xa giơ những cây sào giáo dài bằng gỗ để giữ khoảng cách an toàn với {HERO} ngồi trên tảng đá bờ suối.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Và đây là cú",
+   "layout": "Cận cảnh đầu cây giáo sắt dùng săn ếch ở GIỮA: có đúng ba lưỡi nhọn song song chĩa thẳng ra ngoài cực bén, {DOCTOR} đứng cạnh bật cười chỉ vào. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "3 lưỡi nhọn",
+     "side": "R",
+     "y": 350,
+     "value": "3 LƯỠI",
+     "label": "giáo săn giống vuốt",
+     "target": [
+      0.56,
+      0.46
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "trông chẳng khác nào",
+   "layout": "Đặt cạnh nhau để đối chiếu: BÊN TRÁI là đầu giáo sắt ba lưỡi; BÊN PHẢI là bàn tay vuốt ba ngạnh kim loại kiểu siêu anh hùng Người Sói lóe sáng hài hước. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Muốn săn Người Sói",
+   "layout": "So sánh đối xứng hài hước: BÊN TRÁI người thợ săn cầm cây giáo ba mũi; BÊN PHẢI {HERO} giơ ba ngón chân có vuốt xương chĩa thẳng về phía trước như đấu kiếm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thậm chí người dân",
+   "layout": "Minh họa truyền thuyết cổ tích hài hước: trên bầu trời đêm đầy sao và mây trắng, những chú {HERO} bung dù nhỏ bé rơi lả tả từ trên trời xuống ngôi làng phía dưới.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhiều cặp vợ chồng",
+   "layout": "Cảnh gia đình dân làng vui vẻ ngồi quây quần quanh mâm cơm ấm áp, bên trên là dấu gạch chéo khoa học nhẹ nhàng giải thích đây chỉ là niềm tin dân gian. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đến nay, khoa học",
+   "layout": "Sơ đồ cây tiến hóa rực rỡ ở GIỮA: {HERO} đứng trên bục vinh quang top đầu giữa hàng trăm loài ếch nhái khác, đội chiếc cúp độc đáo di truyền.",
+   "stickers": [
+    {
+     "at": "3,5%",
+     "side": "R",
+     "y": 350,
+     "value": "TOP 3,5%",
+     "label": "độc đáo nhất hành tinh",
+     "target": [
+      0.52,
+      0.42
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "{DOCTOR} đứng cạnh bảng đèn X-quang bàn chân ếch, nhìn chăm chú với ánh mắt cảm phục, tay cầm bút ghi chú vào bệnh án số 21.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Để sinh tồn giữa",
+   "layout": "{HERO} đứng vững giữa vòng vây của một con rắn rừng và bóng chim săn mồi từ trên cao, hai chân sau sẵn sàng bung vuốt xương tự vệ dũng cảm.",
+   "stickers": [
+    {
+     "at": "13cm",
+     "side": "L",
+     "y": 370,
+     "value": "13 CM",
+     "label": "nhỏ bé nhưng gan lì",
+     "target": [
+      0.48,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "id": "L82",
+   "at": "Và ẩn sau vẻ",
+   "layout": "Chia đôi: BÊN TRÁI một cái bóng đen oai vệ có sáu gai nhỏ; BÊN PHẢI là {HERO} cười hiền hậu đeo tạp dề người cha mẫu mực.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "sẵn sàng mọc cả",
+   "layout": "Cảnh ấm áp dưới lòng suối xanh trong: {HERO} với bộ tua lông sườn dịu dàng ôm che bọc trứng tròn phát sáng vàng ấm áp để bảo vệ đàn con.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Kê đơn cuối cùng",
+   "layout": "{DOCTOR} đóng dấu đỏ lên tờ giấy xuất viện, trao cho {HERO} một cuộn băng cá nhân to đùng làm quà; {HERO} vẫy tay cười tươi rời phòng khám.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Còn các đồng nghiệp",
+   "layout": "Hai lựa chọn đặt trên hai bàn cân: BÊN TRÁI biểu tượng vuốt xương trắng kèm cuộn băng gạc; BÊN PHẢI biểu tượng bộ lông sườn cùng bình oxy lặn biển, dấu hỏi chấm ở giữa. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "hay mọc lông kín",
+   "layout": "Các bạn nhỏ hoạt hình hào hứng ngồi giơ hai tấm thẻ biểu tượng: một thẻ vẽ hình chiếc vuốt xương, một thẻ vẽ hình ống thở oxy dưới nước (không có chữ). {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hồ sơ phòng khám",
+   "layout": "{DOCTOR} đóng quyển sổ bệnh án dày cộp trên bàn, ánh sáng đèn phòng khám chuyển sang ánh sáng neon xanh của phòng thí nghiệm năm cấp độ với nhiều ống nghiệm sủi bọt. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một sinh vật nhỏ",
+   "layout": "Một sinh vật bí ẩn được vẽ hoàn toàn bằng BÓNG ĐEN ĐẶC TUYỀN (solid black silhouette) bên trong bể nước phòng thí nghiệm: hình dáng một sinh vật lưỡng cư nhỏ có sáu chiếc tua sừng xù ba nhánh hai bên đầu và chiếc đuôi dài, kèm dấu hỏi chấm vàng lớn phát sáng phía trên; KHÔNG vẽ rõ mắt mũi hay màu da thật. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Điều khiến các nhà",
+   "layout": "Cũng chiếc BÓNG ĐEN ĐẶC TUYỀN (solid black silhouette) của sinh vật có sáu sừng lông xù và đuôi dài đó đứng ở GIỮA, xung quanh tỏa hào quang tái sinh màu xanh lá với biểu tượng trái tim ghép liền và tia sét hồi phục không tì vết. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1/3 trái tim",
+     "side": "L",
+     "y": 350,
+     "value": "1/3 TIM",
+     "label": "tái sinh không sẹo",
+     "target": [
+      0.35,
+      0.32
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đố các bạn biết",
+   "layout": "Chiếc BÓNG ĐEN ĐẶC TUYỀN bí ẩn có sáu sừng lông xù đứng giữa khung kính hiển vi và ba dấu hỏi chấm lớn lấp lánh vàng cam mời gọi khán giả đoán tên. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Khung dọc phòng cấp cứu: phía trên {DOCTOR} cầm bảng bệnh án há hốc mồm; phía dưới {HERO} ngồi trên giường bệnh.",
+   "stickers": []
+  },
+  {
+   "at": "mà vì nó vừa",
+   "layout": "Cận cảnh bàn chân sau của {HERO} tự gồng cơ bắp chân làm các chiếc xương ngón chân nhọn đâm xuyên qua lớp băng và da chui ra ngoài.",
+   "stickers": []
+  },
+  {
+   "at": "Xin giới thiệu Ếch",
+   "layout": "{HERO} ngồi bảnh bao trên tảng đá suối rừng Trung Phi, bên cạnh có chiếc thước đo chiều cao màu vàng dựng thẳng.",
+   "stickers": [
+    {
+     "at": "13cm",
+     "side": "R",
+     "y": 580,
+     "value": "13 CM",
+     "label": "dị nhân suối Trung Phi",
+     "target": [
+      0.62,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Dưới lớp da 8",
+   "layout": "Mặt cắt phóng đại ngón chân sau của ếch theo khung dọc: đầu xương nhọn hình móc câu giấu kín trong thịt, nối vào cục xương nhỏ đầu ngón bằng dải dây chằng hồng. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "8 ngón chân sau",
+     "side": "L",
+     "y": 560,
+     "value": "8 NGÓN",
+     "label": "giấu dao bấm xương",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Khi bị kẻ thù",
+   "layout": "{HERO} quay đầu giận dữ trước một con rắn rừng, gồng cơ bắp chân sau giật đứt sợi dây nối hồng bên trong ngón chân.",
+   "stickers": []
+  },
+  {
+   "at": "và đẩy thẳng xương",
+   "layout": "Hai bàn chân sau của {HERO} đồng loạt bật phựt bốn chiếc vuốt xương trắng sắc lẹm đâm xuyên qua lớp da đầu ngón lao ra ngoài như dao găm.",
+   "stickers": []
+  },
+  {
+   "at": "Một nhà tự nhiên",
+   "layout": "Nhà thám hiểm đội mũ cối giật mình rụt tay lại khi bị {HERO} quơ chân cào xước, dán mấy miếng băng cá nhân trên lòng bàn tay (hài hước, không máu).",
+   "stickers": []
+  },
+  {
+   "at": "Chưa hết, đến mùa",
+   "layout": "{HERO} bơi dưới nước suối trong, hai bên sườn và đùi mọc tua tủa hàng trăm sợi lông da xù xì lất phất trong nước, kính lúp phóng to một sợi lông mảnh.",
+   "stickers": [
+    {
+     "at": "0,4mm",
+     "side": "R",
+     "y": 580,
+     "value": "0,4 MM",
+     "label": "sợi nhú da mạch máu",
+     "target": [
+      0.55,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Lý do cực kỳ",
+   "layout": "{HERO} làm ông bố tận tụy ôm giữ bọc trứng vàng dưới đáy suối đá, mắt dõi theo đàn trứng bảo vệ cẩn thận.",
+   "stickers": []
+  },
+  {
+   "at": "để hút thêm oxy",
+   "layout": "Sơ đồ cắt lớp dưới nước: các bong bóng oxy xanh ngọc từ suối xuyên qua lớp tua lông da đi thẳng vào người {HERO}, bên cạnh là hình lá phổi tí hon yếu ớt.",
+   "stickers": []
+  },
+  {
+   "at": "Một gã dị nhân",
+   "layout": "Chân dung ngầu lòi cực hài của {HERO} giữa khung dọc: một bên sườn có tua lông phấp phới, hai chân sau bật vuốt xương sáng loáng.",
+   "stickers": []
+  },
+  {
+   "at": "đúng là siêu anh",
+   "layout": "{HERO} khoanh tay đứng oai vệ trên tảng đá rêu giữa khung dọc với áo choàng lá rừng nhỏ bay phấp phới, đeo gương bác sĩ bạc sáng lấp lánh.",
+   "stickers": []
+  }
+ ]
+}

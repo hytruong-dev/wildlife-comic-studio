@@ -1,0 +1,347 @@
+{
+ "episode": "tap-46-lon-huou-babirusa",
+ "title_lines": [
+  "TIẾN HÓA TỰ SÁT",
+  "RĂNG ĐÂM THỦNG HỘP SỌ?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 40.74,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-46-lon-huou-babirusa_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  6.13,
+  10.93,
+  17.33,
+  23.25,
+  27.75,
+  32.79,
+  37.39
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.6,
+     "text": "Khi tiến hóa"
+    },
+    {
+     "t": 1.04,
+     "text": "chơi khăm tàn"
+    },
+    {
+     "t": 1.5,
+     "text": "nhẫn: Loài lợn"
+    },
+    {
+     "t": 2.46,
+     "text": "sở hữu cặp"
+    },
+    {
+     "t": 3.0,
+     "text": "răng nanh tự"
+    },
+    {
+     "t": 3.58,
+     "text": "đâm thủng da mặt"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 4.33,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 4.42,
+     "text": "rồi uốn cong"
+    },
+    {
+     "t": 5.18,
+     "text": "cắm thẳng vào"
+    },
+    {
+     "t": 5.58,
+     "text": "não của chính"
+    },
+    {
+     "t": 6.02,
+     "text": "nó! Đây là"
+    },
+    {
+     "t": 7.08,
+     "text": "Lợn Hươu Babirusa,"
+    },
+    {
+     "t": 8.5,
+     "text": "loài động vật kỳ"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 9.13,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 14.4,
+     "side": "L",
+     "y": 500,
+     "value": "180°",
+     "label": "xoay ngược nanh",
+     "target": [
+      0.3,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 9.08,
+     "text": "lạ đặc hữu"
+    },
+    {
+     "t": 9.66,
+     "text": "của hòn đảo"
+    },
+    {
+     "t": 10.08,
+     "text": "Sulawesi, Indonesia!"
+    },
+    {
+     "t": 11.36,
+     "text": "Ở con đực,"
+    },
+    {
+     "t": 12.78,
+     "text": "mầm răng nanh"
+    },
+    {
+     "t": 13.38,
+     "text": "hàm trên bị"
+    },
+    {
+     "t": 14.02,
+     "text": "xoay ngược 180°,"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 15.53,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 18.76,
+     "side": "R",
+     "y": 520,
+     "value": "40 CM",
+     "label": "vòng cung tự sát",
+     "target": [
+      0.7,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 15.78,
+     "text": "đâm xuyên qua"
+    },
+    {
+     "t": 16.4,
+     "text": "thịt mõm chồi"
+    },
+    {
+     "t": 17.08,
+     "text": "lên trời."
+    },
+    {
+     "t": 18.12,
+     "text": "Chiếc nanh dài"
+    },
+    {
+     "t": 18.58,
+     "text": "tới 40 cm"
+    },
+    {
+     "t": 19.54,
+     "text": "uốn cong thành"
+    },
+    {
+     "t": 20.38,
+     "text": "vòng cung hướng"
+    },
+    {
+     "t": 21.08,
+     "text": "thẳng về"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 21.45,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 21.44,
+     "text": "trán, và ở"
+    },
+    {
+     "t": 22.44,
+     "text": "những con già,"
+    },
+    {
+     "t": 23.5,
+     "text": "mũi nanh nhọn"
+    },
+    {
+     "t": 24.08,
+     "text": "hoắt sẽ đâm"
+    },
+    {
+     "t": 24.6,
+     "text": "xuyên xương sọ"
+    },
+    {
+     "t": 25.18,
+     "text": "cắm vào não"
+    },
+    {
+     "t": 25.82,
+     "text": "gây tử"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 25.95,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 26.0,
+     "text": "vong! Kỳ lạ"
+    },
+    {
+     "t": 26.98,
+     "text": "thay, gen tự"
+    },
+    {
+     "t": 27.96,
+     "text": "sát này vẫn"
+    },
+    {
+     "t": 28.54,
+     "text": "tồn tại hàng"
+    },
+    {
+     "t": 29.08,
+     "text": "triệu năm vì"
+    },
+    {
+     "t": 29.96,
+     "text": "lợn cái mê"
+    },
+    {
+     "t": 30.54,
+     "text": "mẩn những con"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 30.99,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 31.08,
+     "text": "đực có nanh"
+    },
+    {
+     "t": 31.54,
+     "text": "cong sát trán,"
+    },
+    {
+     "t": 32.5,
+     "text": "coi đó là"
+    },
+    {
+     "t": 33.02,
+     "text": "biểu tượng sống"
+    },
+    {
+     "t": 33.56,
+     "text": "thọ và quyến"
+    },
+    {
+     "t": 34.12,
+     "text": "rũ! Chúng phải"
+    },
+    {
+     "t": 35.24,
+     "text": "liên tục"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 35.59,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 35.58,
+     "text": "cọ răng vào"
+    },
+    {
+     "t": 36.28,
+     "text": "cây để mài"
+    },
+    {
+     "t": 36.86,
+     "text": "mòn, tự cứu"
+    },
+    {
+     "t": 37.94,
+     "text": "lấy mạng sống"
+    },
+    {
+     "t": 38.42,
+     "text": "của mình trước"
+    },
+    {
+     "t": 38.94,
+     "text": "món quà chết"
+    },
+    {
+     "t": 39.58,
+     "text": "người của tạo hóa!"
+    }
+   ]
+  }
+ ]
+}

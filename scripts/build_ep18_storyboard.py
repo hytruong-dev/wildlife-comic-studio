@@ -1,0 +1,1022 @@
+"""Generate specs/storyboard.json for Episode 18: Bọ Pháo Thủ (Bombardier Beetle) - Format F2.
+Enforces:
+- 1 beat per visual idea / sentence (avg 5-8s per beat)
+- HERO with fixed accessory: yellow engineer safety helmet with goggles, metallic tail nozzle
+- Every sticker has target: [x, y]
+- Clean matching 'at' values (using display_fix subtitle text)
+- TASTE-68: silhouette teaser for Episode 19 Thằn Lằn Quỷ Gai (Thorny Devil)
+- Shorts: 11 beats, complete narrative
+"""
+
+import json
+from pathlib import Path
+
+P = Path("projects/tap-18-bo-phao-thu")
+
+storyboard = {
+    "_doc": "Storyboard Tập 18 — Bọ Pháo Thủ (Bombardier Beetle) F2 Vũ Khí Tối Mật. Chạy: python src/episode/build_plans.py projects/tap-18-bo-phao-thu",
+    "characters": {
+        "HERO": "chú Bọ Pháo Thủ (Bombardier Beetle) hoạt hình ngộ nghĩnh: thân hình thon gọn màu xanh đen ánh kim, đầu và chân màu cam đất, đội một chiếc mũ bảo hộ kỹ sư màu vàng có gắn kính bảo hộ trong suốt trên đầu, đuôi thon gọn có khớp xoay tháp pháo bằng kim loại phát ra vệt hơi nước bốc khói",
+        "HERO_S": "chú Bọ Pháo Thủ hoạt hình màu xanh đen, đầu cam đất, đội mũ bảo hộ kỹ sư vàng",
+        "NO_HERO": "KHÔNG có chú Bọ Pháo Thủ trong cảnh này",
+        "TOAD": "chú cóc khổng lồ Nhật Bản da sần sùi màu xanh xám, mắt to tròn lồi, mồm rộng há to",
+        "BIRD": "chú chim săn mồi hoạt hình mỏ quặp hung hãn, lông vũ bay tứ tung",
+        "ANT_ARMY": "đàn kiến lửa hung hãn hàng trăm con giương càng răng cưa",
+        "MANTIS": "chú bọ ngựa chiến binh màu xanh lá giơ hai lưỡi kiếm răng cưa sắc bén"
+    },
+    "side_characters": [
+        "TOAD",
+        "BIRD",
+        "ANT_ARMY",
+        "MANTIS"
+    ],
+    "shorts_side_characters": [
+        "TOAD"
+    ],
+    "shorts_title_lines": [
+        "BỊ CÓC NUỐT 1 TIẾNG",
+        "VẪN BẮN PHÁO THOÁT THÂN?!"
+    ],
+    "skip_numbers": [47, 66],
+    "long": [
+        # ==========================================
+        # SCENE 01: HỒ SƠ VŨ KHÍ (12 beats)
+        # ==========================================
+        {
+            "scene": "scene01",
+            "at": 0,
+            "layout": "Phòng thí nghiệm quân sự tối mật: Một chiếc bàn kim loại có đèn rọi chiếu sáng, xung quanh là các bản vẽ vũ khí tối mật dán trên tường; một tấm biển đỏ đề 'BÁO CÁO THỬ NGHIỆM CẤP ĐỘ ĐỎ'. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Mở khóa toàn bộ",
+            "layout": "Một chiếc két sắt thép dày nặng nề đang mở khóa tung ra, bên trong tỏa ra ánh sáng xanh lam huyền bí của dữ liệu vũ khí sinh học lưu trữ; các tập hồ sơ bay lượn. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Toàn đội kỹ thuật",
+            "layout": "BÊN TRÁI là các chuyên viên kỹ thuật hoạt hình đang vội vã đeo kính chắn nhiệt và mặt nạ phòng độc; BÊN PHẢI là đồng hồ đo nhiệt độ báo động đỏ rực. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Quên đi những nọc",
+            "layout": "BÊN TRÁI là chiếc đầu rắn hổ mang bành nhe răng nanh và chiếc đuôi bọ cạp bị gạch chéo đỏ lớn; BÊN PHẢI là thảm lá mục rừng nhiệt đới bí ẩn với ánh nắng le lói rọi xuống một đốm sáng nhỏ.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Đối tượng mang mã",
+            "layout": "Chân dung cận cảnh của {HERO}: một chú bọ cánh cứng nhỏ xíu đứng cạnh một chiếc thước dây đo chiều dài từ 1,5cm đến 2,5cm; thân màu xanh đen ánh kim, đầu và chân màu cam đất, đội mũ bảo hộ kỹ sư vàng oai phong.",
+            "stickers": [
+                {
+                    "at": "1,5cm",
+                    "side": "L",
+                    "y": 360,
+                    "value": "1,5-2,5cm",
+                    "label": "chiều dài cơ thể",
+                    "target": [0.32, 0.55]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Nhìn bề ngoài, gã",
+            "layout": "Góc nhìn từ trên cao xuống lối mòn rừng: Một chiếc đế giày leo núi khổng lồ đang bước xuống sát sạt chú {HERO}; {HERO} ngước nhìn lên với vẻ mặt bình thản không chút sợ hãi.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Nhưng trong danh mục",
+            "layout": "Hồ sơ vũ khí sinh học: Một tấm thẻ định danh quân sự có in ảnh {HERO} cùng dòng chữ lớn 'PHÁO THỦ HÓA HỌC'; bên cạnh là huy hiệu biểu tượng đầu lâu có khói bốc lên.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Mỗi khi bị kẻ",
+            "layout": "{HERO} kích hoạt vũ khí ở đuôi: Một tiếng nổ chói tai phát ra từ đuôi, luồng khói và hơi nước sôi 100°C bắn phụt ra như pháo cao xạ, tia nhiệt phát sáng cam đỏ rực rỡ.",
+            "stickers": [
+                {
+                    "at": "100°C",
+                    "side": "R",
+                    "y": 380,
+                    "value": "100°C",
+                    "label": "nhiệt độ hơi sôi",
+                    "target": [0.75, 0.52]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Hãy tưởng tượng bạn",
+            "layout": "Góc nhìn thứ nhất cực kỳ kịch tính: Tia nước sôi 100°C bắn thẳng về phía ống kính với tốc độ 20 m/s xé gió, hơi nước trắng xóa bốc lên mù mịt kèm các giọt hóa chất ăn mòn phát sáng.",
+            "stickers": [
+                {
+                    "at": "20 m/s",
+                    "side": "R",
+                    "y": 360,
+                    "value": "20 m/s",
+                    "label": "vận tốc xé gió",
+                    "target": [0.72, 0.48]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Bất kỳ loài chim",
+            "layout": "Cảnh tượng săn mồi hỗn loạn: BÊN TRÁI chú {BIRD} mỏ quặp bị trúng luồng hơi sôi đang giật bắn mình nhắm tịt mắt, lông đầu bốc khói; một con thằn lằn bên cạnh cuống cuồng tháo chạy.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Vậy điều kỳ diệu",
+            "layout": "{HERO} đứng ở GIỮA trên nền trắng, cơ thể 2cm nhỏ bé nguyên vẹn mỉm cười; một chiếc nhiệt kế khổng lồ bên cạnh chỉ vọt lên mốc 100°C màu đỏ rực; hai bên là dấu hỏi chấm lớn.",
+            "stickers": [
+                {
+                    "at": "2cm",
+                    "side": "L",
+                    "y": 380,
+                    "value": "2cm",
+                    "label": "kích thước tí hon",
+                    "target": [0.28, 0.55]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Hãy cùng mở bản",
+            "layout": "Bàn làm việc của kỹ sư: Một bản vẽ thiết kế cơ khí màu xanh lam (blueprint) trải rộng ra, hiển thị các đường nét kỹ thuật của bụng {HERO} với các mũi tên chỉ vào các buồng chứa bí mật.",
+            "stickers": [],
+            "impacts": []
+        },
+
+        # ==========================================
+        # SCENE 02: BẢN VẼ CƠ KHÍ (17 beats)
+        # ==========================================
+        {
+            "scene": "scene02",
+            "at": 0,
+            "layout": "Phòng thí nghiệm synchrotron công nghệ cao: Kính hiển vi điện tử quét X-quang tốc độ cao đang chiếu chùm tia sáng quét qua cơ thể {HERO}; màn hình máy tính hiển thị mô hình 3D cắt lớp khoang bụng.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Điểm cốt lõi giúp",
+            "layout": "Sơ đồ nguyên lý vũ khí nhị phân: Hai bình chứa hóa chất riêng biệt đặt song song, ở giữa có bức tường ngăn cách bằng thép kiên cố; biểu tượng an toàn màu xanh lá lấp lánh.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Ở phần trên của",
+            "layout": "Đặc tả buồng dự trữ lớn ở bụng trên của {HERO}: Một khoang chứa hình quả thận trong suốt, bên trong chứa đầy dung dịch lỏng trong vắt không màu, thành vách mềm mại.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Buồng này chứa hỗn",
+            "layout": "Phân tích hóa học: Hai ống nghiệm dán nhãn; BÊN TRÁI là ống 10% Hydroquinone, BÊN PHẢI là ống 25% Hydrogen peroxide (nước oxy già); hai chất hòa vào nhau trong bình thủy tinh mà không có phản ứng.",
+            "stickers": [
+                {
+                    "at": "10%",
+                    "side": "L",
+                    "y": 360,
+                    "value": "10%",
+                    "label": "Hydroquinone",
+                    "target": [0.3, 0.52]
+                },
+                {
+                    "at": "25%",
+                    "side": "R",
+                    "y": 420,
+                    "value": "25%",
+                    "label": "Hydrogen peroxide",
+                    "target": [0.72, 0.58]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Khi hai chất này",
+            "layout": "Hai phân tử hóa học hoạt hình dễ thương đang bắt tay nhau hòa bình, nở nụ cười hiền lành bên trong khoang bụng của {HERO}, không có một tia lửa hay bong bóng khí nào.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Cảnh báo nhiệt độ",
+            "layout": "Màn hình bảng điều khiển kỹ thuật nhấp nháy đèn đỏ báo động: Cột nhiệt kế nhảy vọt lên 100°C; kim đồng hồ áp suất rung lắc dữ dội ở vùng nguy hiểm màu đỏ.",
+            "stickers": [
+                {
+                    "at": "100°C",
+                    "side": "R",
+                    "y": 360,
+                    "value": "100°C!",
+                    "label": "nhiệt độ tới hạn",
+                    "target": [0.75, 0.48]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Áp suất oxy tăng",
+            "layout": "Hình ảnh van cơ học cảnh báo: Một chiếc van kim loại màu vàng đang bị áp lực khí nén đẩy căng phồng, trợ lý kỹ thuật hoạt hình đang cuống cuồng xoay vô-lăng van khóa an toàn.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Đúng như trợ lý",
+            "layout": "{HERO} đội mũ kỹ sư mỉm cười tự tin, cầm chiếc mỏ lết chỉ vào cơ chế van tự động bên trong cơ thể mình; các bánh răng cơ khí ăn khớp hoàn hảo.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Nối giữa buồng chứa",
+            "layout": "Cận cảnh cấu trúc van cơ học một chiều: Ống dẫn hẹp nối buồng dự trữ với buồng đốt, van có lá chắn đàn hồi chỉ cho chất lỏng chảy theo một chiều từ trên xuống dưới.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Khi con bọ siết",
+            "layout": "{HERO} siết cơ bụng màu cam đất: Khoang bụng co lại ép một giọt dung dịch lỏng màu xanh ngọc chảy qua khe van, rơi tọt xuống buồng đốt nhỏ phía dưới.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Tại buồng đốt thứ",
+            "layout": "Bên trong buồng đốt thứ hai: Thành vách buồng được lót bằng lớp màng sừng cutin dày cộp màu nâu đậm, bóng loáng và kiên cố như lớp gạch chịu nhiệt của lò luyện thép.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Nơi đây đã được",
+            "layout": "Hai chú enzyme hoạt hình ngộ nghĩnh: Enzyme Catalase đội mũ công nhân cầm kéo sắc bén, và enzyme Peroxidase mang bình oxy đang đứng chờ sẵn trong buồng đốt.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Ngay khoảnh khắc giọt",
+            "layout": "Vụ nổ dây chuyền bùng phát: Giọt dung dịch chạm vào mặt enzyme liền lóe sáng chói lòa như pháo hoa, bọt khí sôi ùng ục, các tia lửa nhiệt lượng tỏa ra dữ dội.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Enzyme Catalase lập tức",
+            "layout": "Sơ đồ phản ứng hóa học bùng nổ: Hydrogen peroxide bị bẻ đôi thành H2O và bọt khí Oxy bốc hơi cuồn cuộn; ngọn lửa nhiệt lượng 100°C bùng cháy rực rỡ.",
+            "stickers": [
+                {
+                    "at": "100°C",
+                    "side": "L",
+                    "y": 380,
+                    "value": "100°C",
+                    "label": "nhiệt lượng bùng nổ",
+                    "target": [0.32, 0.52]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Đồng thời, enzyme Peroxidase",
+            "layout": "Chất độc Benzoquinone hình thành: Một đám mây khí màu nâu vàng cay xè, bốc khói khét lẹt kèm các biểu tượng mắt cay xè toát ra từ dung dịch đang sôi.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Toàn bộ chuỗi phản",
+            "layout": "So sánh kích thước siêu vi mô: Một chiếc đầu kim may khổng lồ, trên đầu kim là buồng đốt tí hon của {HERO} đang phát sáng; kích thước chỉ 1/10 mm³ cực nhỏ.",
+            "stickers": [
+                {
+                    "at": "thể tích tí hon",
+                    "side": "R",
+                    "y": 360,
+                    "value": "1/10 mm³",
+                    "label": "thể tích buồng đốt",
+                    "target": [0.72, 0.5]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Nhờ lớp vỏ chitin",
+            "layout": "Mặt cắt cách nhiệt hoàn hảo: Lớp vỏ chitin nhiều tầng cách nhiệt bao quanh buồng đốt đỏ rực; bên ngoài là trái tim và nội tạng của {HERO} vẫn mát rượi màu xanh êm dịu.",
+            "stickers": [],
+            "impacts": []
+        },
+
+        # ==========================================
+        # SCENE 03: ĐỘNG CƠ XUNG (13 beats)
+        # ==========================================
+        {
+            "scene": "scene03",
+            "at": 0,
+            "layout": "Tình huống giả định hài hước: Nếu xịt nước sôi liên tục, cơ thể {HERO} bị lực phản lực đẩy lùi văng xa tít tắp, xoay mòng mòng như quả bóng bay xì hơi trên mặt đất.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Nhưng tạo hóa đã",
+            "layout": "Bố cục so sánh lịch sử quân sự: BÊN TRÁI là quả tên lửa phản lực xung V-1 của Đức với cửa hút khí chớp tắt; BÊN PHẢI là cơ chế đuôi của {HERO} có cấu trúc động cơ tương tự.",
+            "stickers": [
+                {
+                    "at": "V-1",
+                    "side": "L",
+                    "y": 360,
+                    "value": "TÊN LỬA V1",
+                    "label": "động cơ phản lực xung",
+                    "target": [0.28, 0.48]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Mỗi phát bắn của",
+            "layout": "Đồng hồ đo tần số điện tử kỹ thuật số: Màn hình dao động ký hiển thị dải sóng xung nhịp răng cưa cực kỳ đều đặn, chỉ số tần số nhảy múa từ 500 lần/giây đến 1.000 lần/giây.",
+            "stickers": [
+                {
+                    "at": "500 lần/giây",
+                    "side": "R",
+                    "y": 380,
+                    "value": "500-1000Hz",
+                    "label": "tần số nổ liên thanh",
+                    "target": [0.75, 0.52]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Máy quay tốc độ",
+            "layout": "Hình ảnh camera quay chậm: Áp suất khí oxy bùng nổ đẩy chặt nắp van cơ học đóng khít lại; chốt khóa an toàn chặn đứng áp lực không cho dội ngược vào khoang dự trữ.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Sau đó, hơi sôi",
+            "layout": "Nòng pháo đuôi của {HERO} khai hỏa: Luồng hơi nước sôi 100°C phụt mạnh ra ngoài thành từng xung khói trắng hình vòng tròn nối tiếp nhau như đạn súng máy.",
+            "stickers": [
+                {
+                    "at": "100°C",
+                    "side": "R",
+                    "y": 360,
+                    "value": "100°C",
+                    "label": "hơi nước khai hỏa",
+                    "target": [0.72, 0.48]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Ngay khi luồng hơi",
+            "layout": "Chu kỳ hút tự động: Áp suất buồng đốt giảm mạnh tạo lực hút chân không, van tự mở ra hút mẻ hóa chất mới vào; chu kỳ lặp lại liên tục với tần số 500 Hz.",
+            "stickers": [
+                {
+                    "at": "500 Hz",
+                    "side": "L",
+                    "y": 380,
+                    "value": "500 Hz",
+                    "label": "chu kỳ tự nạp đạn",
+                    "target": [0.32, 0.55]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Đó là lý do",
+            "layout": "Hiệu ứng âm thanh hoạt hình: Từ đuôi {HERO} phát ra hàng chục tia lửa kèm các chữ tượng thanh 'TÁCH! TÁCH! TÁCH!' đanh thép như súng máy liên thanh đang nã đạn.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Tôi vừa vồ thử",
+            "layout": "Chú {BIRD} săn mồi hoặc chú chuột to xác đang ôm mặt đau đớn, hai mắt sưng húp đỏ ửng, nước mắt ròng ròng, mỏ há hốc kêu la thảm thiết; phía xa {HERO} đứng ngắm nhìn.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Đừng bao giờ nghĩ",
+            "layout": "Một chú {MANTIS} lén lút bò rón rén lại gần từ phía sau lưng {HERO}; trên đầu bọ ngựa hiện lên bóng mây tưởng tượng chuẩn bị vồ mồi ngon lành.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Đuôi của Pháo Thủ",
+            "layout": "Bản vẽ tháp pháo xe tăng: Đuôi của {HERO} được bọc kim loại với một khớp cầu xoay linh hoạt; chiếc thước đo góc hiển thị góc xoay tự do từ 0 đến 270° quanh cơ thể.",
+            "stickers": [
+                {
+                    "at": "270°",
+                    "side": "R",
+                    "y": 380,
+                    "value": "270°",
+                    "label": "tháp pháo xoay tự do",
+                    "target": [0.72, 0.52]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Kẻ thù tấn công",
+            "layout": "{HERO} không cần quay đầu: Nòng đuôi bẻ cong vòng qua nách bắn xéo một phát chính diện vào mặt kẻ tấn công phía trước; luồng hơi sôi trúng đích 100% cực kỳ điêu luyện.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Thậm chí các thử",
+            "layout": "Băng ghi hình camera siêu chậm: Một xung nổ được tua chậm từng mili-giây; đồng hồ bấm giờ hiển thị từ 2-3 mili-giây cho một lần khai hỏa trọn vẹn.",
+            "stickers": [
+                {
+                    "at": "2-3 mili-giây",
+                    "side": "L",
+                    "y": 360,
+                    "value": "2-3 ms",
+                    "label": "thời gian mỗi xung",
+                    "target": [0.3, 0.5]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Tốc độ phản xạ",
+            "layout": "Một con mắt người hoạt hình đang chớp mắt nửa chừng; trong cùng khoảng thời gian đó chú {HERO} đã bắn xong hàng chục phát đạn hơi sôi vào bia ngắm.",
+            "stickers": [],
+            "impacts": []
+        },
+
+        # ==========================================
+        # SCENE 04: THỰC CHIẾN KOBE (16 beats)
+        # ==========================================
+        {
+            "scene": "scene04",
+            "at": 0,
+            "layout": "Phòng thí nghiệm Đại học Kobe Nhật Bản: Biển hiệu trường Kobe University, hai nhà khoa học Shinji Sugiura và Takuya Sato mặc áo blouse trắng đang chuẩn bị bể thí nghiệm kính.",
+            "stickers": [
+                {
+                    "at": "2018",
+                    "side": "L",
+                    "y": 360,
+                    "value": "NĂM 2018",
+                    "label": "thí nghiệm chấn động",
+                    "target": [0.32, 0.52]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Họ muốn kiểm tra:",
+            "layout": "Bên trong hộp kính: Một chú {TOAD} khổng lồ bụng bự đang ngồi đối diện chú {HERO} tí hon; trên đầu cả hai là dấu hỏi chấm lớn đầy hồi hộp.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Loài cóc Nhật Bản",
+            "layout": "Cú đớp siêu tốc: Chiếc lưỡi dài màu hồng dính nhớp của chú {TOAD} phóng vụt ra như tia chớp, quấn chặt lấy {HERO} trong chớp mắt.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Pháo Thủ Hóa Học",
+            "layout": "{HERO} bị cuốn trôi vào họng cóc, trượt dọc theo thực quản tối tăm và rơi tõm xuống đáy hồ axit dạ dày đang sủi bọt nhớt nhầy nhụa.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Trong bụng tôi như",
+            "layout": "Mặt cắt dạ dày cóc: {HERO} đứng vững chãi giữa dịch vị axit, nòng pháo đuôi dựng đứng liên tục xả đạn hơi sôi 100°C vào thành dạ dày cóc.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Đúng như tiếng rên",
+            "layout": "Chú {TOAD} toát mồ hôi đầm đìa, há mồm thở dốc, hai bàn tay ôm chặt dạ dày đang nóng ran như lò nướng bánh mì.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Bị nhốt trong dạ",
+            "layout": "{HERO} đội mũ bảo hộ kỹ sư hiên ngang giữa bóng tối dạ dày thiếu oxy, bình tĩnh điều chỉnh tháp pháo đuôi không hề hoảng loạn.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Nó bình tĩnh kích",
+            "layout": "Tia hơi hóa chất 100°C và khói độc Benzoquinone bốc mù mịt bên trong dạ dày cóc, làm niêm mạc cóc co thắt dữ dội vì cay rát.",
+            "stickers": [
+                {
+                    "at": "100°C",
+                    "side": "R",
+                    "y": 380,
+                    "value": "100°C",
+                    "label": "nã đạn trong dạ dày",
+                    "target": [0.72, 0.55]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Cuộc chiến nội tạng",
+            "layout": "Đồng hồ bấm giờ cuộc chiến dạ dày: Kim đồng hồ quay từ 15 phút qua 40 phút đến mốc 107 phút; chú cóc càng lúc càng kiệt sức ngã gục xuống sàn cát.",
+            "stickers": [
+                {
+                    "at": "15 phút",
+                    "side": "L",
+                    "y": 360,
+                    "value": "15-107phút",
+                    "label": "cuộc chiến sinh tử",
+                    "target": [0.32, 0.5]
+                },
+                {
+                    "at": "40 phút",
+                    "side": "R",
+                    "y": 420,
+                    "value": "TB 40 PHÚT",
+                    "label": "thời gian cầm cự",
+                    "target": [0.75, 0.58]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Cuối cùng, con cóc",
+            "layout": "Dạ dày chú cóc co bóp cực độ: Cổ họng mở toang, một luồng phản xạ nôn mửa dâng trào từ đáy bụng lên thực quản.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Nó há to mồm,",
+            "layout": "Chú {TOAD} quỳ rạp xuống sàn, há hốc mồm hết cỡ, mắt nhắm nghiền chịu trận trong cơn co thắt nôn mửa dữ dội.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "ọe một bãi nôn",
+            "layout": "Một bãi dịch nôn lớn văng ra sàn nhà; chú cóc thở phào nhẹ nhõm nằm bẹp một bên với vẻ mặt sợ hãi tột cùng.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Và từ trong đống",
+            "layout": "{HERO} lồm cồm bò ra từ bãi dịch nôn, hai chân trước phủi sạch bùn nhớt trên mũ bảo hộ vàng, vẫy đôi cánh cứng sáng bóng bước đi hiên ngang.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Thống kê chấn động",
+            "layout": "Bảng kết quả nghiên cứu Kobe: Tỷ lệ sống sót ghi nhận 14/16 con bọ (đạt 60-80%); biểu đồ cột màu xanh lá vút cao đầy ấn tượng.",
+            "stickers": [
+                {
+                    "at": "14/16",
+                    "side": "L",
+                    "y": 360,
+                    "value": "14/16 CON",
+                    "label": "vượt ngục thành công",
+                    "target": [0.3, 0.52]
+                },
+                {
+                    "at": "60-80%",
+                    "side": "R",
+                    "y": 420,
+                    "value": "60-80%",
+                    "label": "tỷ lệ sống sót",
+                    "target": [0.72, 0.58]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Những con bọ này",
+            "layout": "{HERO} cùng bạn đời và bầy ấu trùng nhỏ xíu đang vui vẻ bò trên thảm lá rừng, hoàn toàn khỏe mạnh và sung sức sau màn vượt ngục lịch sử.",
+            "stickers": [],
+            "impacts": []
+        },
+
+        # ==========================================
+        # SCENE 05: ĐIỂM YẾU KỸ THUẬT (14 beats)
+        # ==========================================
+        {
+            "scene": "scene05",
+            "at": 0,
+            "layout": "Một chiếc bia ngắm mục tiêu quân sự bị thủng lỗ chỗ; {HERO} đứng cạnh một biển báo hình tam giác màu vàng cảnh báo 'GIỚI HẠN KHO ĐẠN VÀ RỦI RO KỸ THUẬT'.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Mọi kỹ sư quân",
+            "layout": "Bàn cân kỹ thuật: BÊN TRÁI là quả pháo nổ hủy diệt mạnh mẽ; BÊN PHẢI là chiếc đồng hồ cát đang cạn dần năng lượng, cán cân nghiêng nặng.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Và điểm yếu chí",
+            "layout": "Cận cảnh buồng chứa hóa chất của {HERO}: Mực dung dịch chất lỏng bên trong buồng dự trữ đang tụt dần xuống đáy cạn kiệt.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Dung tích buồng chứa",
+            "layout": "Hộp đạn hoạt hình: Một hộp chứa đúng 20-30 viên đạn phát sáng; mỗi phát bắn làm biến mất một viên đạn, hộp đạn dần trống rỗng.",
+            "stickers": [
+                {
+                    "at": "20-30",
+                    "side": "R",
+                    "y": 380,
+                    "value": "20-30 PHÁT",
+                    "label": "cơ số đạn tối đa",
+                    "target": [0.72, 0.55]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Nếu gặp phải một",
+            "layout": "Tình huống vây hãm nguy hiểm: Đàn {ANT_ARMY} hàng ngàn con đỏ rực đang vây kín xung quanh {HERO}; {HERO} bắn liên tục cho đến khi nòng pháo đuôi chỉ xì ra một làn khói mỏng.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Thông báo từ trung",
+            "layout": "Màn hình kỹ thuật số báo động cạn kiệt: Chữ 'HẾT ĐẠN 100%' nhấp nháy đỏ rực; chiếc kim xăng chỉ về vạch E rỗng không.",
+            "stickers": [
+                {
+                    "at": "100%",
+                    "side": "R",
+                    "y": 360,
+                    "value": "CẠN 100%",
+                    "label": "kho đạn cạn kiệt",
+                    "target": [0.75, 0.5]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Cần tối thiểu 24",
+            "layout": "Một chiếc đồng hồ đếm ngược nạp đạn: Kim đồng hồ chỉ mốc 24 tiếng đến 36 tiếng; {HERO} đeo băng quấn đầu nghỉ ngơi dưỡng sức.",
+            "stickers": [
+                {
+                    "at": "24 tiếng",
+                    "side": "L",
+                    "y": 380,
+                    "value": "24-36 GIỜ",
+                    "label": "thời gian nạp đạn",
+                    "target": [0.32, 0.55]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Sau khi bắn hết",
+            "layout": "Bên trong cơ thể {HERO}: Hai buồng chứa hóa chất đang từ từ được nhỏ từng giọt Hydroquinone và Hydrogen peroxide mới tổng hợp vào bình chứa.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Trong suốt khoảng thời",
+            "layout": "{HERO} lấm lét nấp dưới một chiếc lá mục khô, hai tay ôm đầu; một chú thằn lằn đi ngang qua phía trên khiến {HERO} toát mồ hôi lo lắng.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Chưa hết, gã béo",
+            "layout": "{HERO} biến thành hình một thùng thuốc nổ TNT có dây ngòi cháy dở; bước đi rón rén từng bước nhẹ nhàng như giẫm trên trứng mỏng.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Nếu bị một kẻ",
+            "layout": "Vụ nổ tự hủy giả định: Bức tường ngăn giữa 2 buồng bị nứt vỡ; phản ứng tỏa nhiệt bùng nổ ngay trong ruột khiến khói bốc nghi ngút quanh mình {HERO}.",
+            "stickers": [
+                {
+                    "at": "2 buồng",
+                    "side": "R",
+                    "y": 380,
+                    "value": "2 BUỒNG VỠ",
+                    "label": "nguy cơ tự hủy",
+                    "target": [0.72, 0.55]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Sống bên cạnh cái",
+            "layout": "{HERO} đứng trên một sợi dây thừng mảnh bắc qua vực sâu; một bên là ngọn lửa bỏng rát, một bên là bóng tối săn mồi; thần thái điềm đạm cân bằng.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Bởi vậy, bài học",
+            "layout": "{HERO} đứng nghiêm trang như xạ thủ bắn tỉa chuyên nghiệp, một mắt nheo lại ngắm qua kính ngắm; nòng pháo đuôi khóa chặt mục tiêu chuẩn xác 100%.",
+            "stickers": [],
+            "impacts": []
+        },
+
+        # ==========================================
+        # SCENE 06: BÀI HỌC SINH TỒN (12 beats)
+        # ==========================================
+        {
+            "scene": "scene06",
+            "at": 0,
+            "layout": "Viện nghiên cứu kỹ thuật hàng không: Các kỹ sư mặc áo bảo hộ đang quan sát chú {HERO} trên bàn thí nghiệm; phía sau là màn hình mô phỏng dòng khí động lực học.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Cấu tạo van một",
+            "layout": "Các ứng dụng công nghệ mô phỏng sinh học: Một bình xịt y tế phun sương siêu mịn, một vòi phun cứu hỏa dập lửa bọt tuyết, và một động cơ đẩy tên lửa vũ trụ mini.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Tự nhiên chính là",
+            "layout": "Một cuốn sách mở lớn giữa khu rừng xanh tươi: Mẹ Thiên Nhiên đội vương miện lá cây đang mỉm cười trao tặng bằng sáng chế phát minh cho chú {HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Một sinh vật nhỏ",
+            "layout": "{HERO} đứng kiêu hãnh trên đỉnh một viên đá cuội phủ rêu; xung quanh các loài chim săn mồi và bọ ngựa đều giữ khoảng cách nể sợ; ánh hoàng hôn rực rỡ chiếu sáng.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Bạn ấn tượng nhất",
+            "layout": "Khung hình tương tác hai lựa chọn thú vị: BÊN TRÁI là khẩu pháo xịt hơi sôi 100°C; BÊN PHẢI là màn tẩu thoát khỏi dạ dày cóc sau 1 tiếng; {HERO} chỉ tay mời khán giả bình luận.",
+            "stickers": [
+                {
+                    "at": "100°C",
+                    "side": "L",
+                    "y": 380,
+                    "value": "PHÁO 100°C",
+                    "label": "lựa chọn 1",
+                    "target": [0.28, 0.52]
+                },
+                {
+                    "at": "1 tiếng",
+                    "side": "R",
+                    "y": 380,
+                    "value": "THOÁT CÓC",
+                    "label": "lựa chọn 2",
+                    "target": [0.72, 0.52]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Hãy để lại bình",
+            "layout": "Hộp bình luận YouTube hoạt hình rực rỡ: Hàng chục biểu tượng ngọn lửa, tia chớp và bình luận 'BỌ PHÁO THỦ BÁ ĐẠO!' đang bay lên lung linh.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Và bây giờ, hãy",
+            "layout": "Bàn vẽ chuyển màu từ rừng cây sang màu vàng cát bỏng rát của sa mạc hoang vu; ngòi bút vẽ tay lướt êm ái trên mặt giấy mở ra một vùng đất mới.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Trong tập tiếp theo,",
+            "layout": "Toàn cảnh sa mạc Úc mênh mông cát đỏ bỏng rát: Những cồn cát nhấp nhô dưới ánh mặt trời thiêu đốt; không khí bốc hơi mờ ảo đầy khắc nghiệt.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Nơi đây có một",
+            "layout": "BÓNG ĐEN HOÀN TOÀN (solid black silhouette) của một sinh vật kỳ dị toàn thân chi chít gai nhọn như quả cầu gai hay bãi chông di động, viền hào quang vàng cam sa mạc phát sáng bí ẩn.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Sinh vật kỳ dị",
+            "layout": "Đặc tả bóng đen bí ẩn: Bàn chân giẫm lên giọt sương và nước tự hút ngược lên cơ thể; phía sau gáy có một chiếc đầu giả nhô lên; và từ hốc mắt bắn ra một tia máu đỏ thẳng tắp xa tới 1m.",
+            "stickers": [
+                {
+                    "at": "1m",
+                    "side": "R",
+                    "y": 380,
+                    "value": "BẮN XA 1M",
+                    "label": "tia máu từ mắt",
+                    "target": [0.75, 0.48]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Đố bạn biết danh",
+            "layout": "BÓNG ĐEN BÍ ẨN (solid black silhouette) của quái kiệt gai góc nổi bật ở GIỮA; trên đầu là DẤU HỎI CHẤM LỚN MÀU ĐỎ phát sáng rực rỡ; dòng chữ 'ĐOÁN TÊN CON VẬT TẬP 19' lung linh.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Hãy để lại phán",
+            "layout": "Khung cảnh kết thúc hồi hộp: Chiếc cọ vẽ vàng chấm một giọt mực bí ẩn xuống mặt giấy trắng, để lại dấu hỏi lớn kích thích trí tò mò tột độ của khán giả.",
+            "stickers": [],
+            "impacts": []
+        }
+    ],
+    "shorts": [
+        {
+            "at": 0,
+            "layout": "Bên trong dạ dày cóc tối tăm: {HERO_S} đội mũ bảo hộ kỹ sư vàng đang đứng hiên ngang giữa dòng axit dạ dày, nòng đuôi ngắm bắn chuẩn bị khai hỏa giải cứu bản thân.",
+            "stickers": [
+                {
+                    "at": "1 tiếng",
+                    "side": "L",
+                    "y": 580,
+                    "value": "1 TIẾNG",
+                    "label": "mắc kẹt trong dạ dày",
+                    "target": [0.32, 0.55]
+                }
+            ],
+            "captions": []
+        },
+        {
+            "at": "Đây là Bọ Pháo",
+            "layout": "{HERO_S} đứng bệ vệ trên nền trắng, khoe chiếc mũ bảo hộ kỹ sư vàng và đôi cánh xanh đen; chiếc thước đo 2cm đặt bên cạnh khẳng định tầm vóc tí hon.",
+            "stickers": [
+                {
+                    "at": "2cm",
+                    "side": "R",
+                    "y": 580,
+                    "value": "2cm",
+                    "label": "kích thước tí hon",
+                    "target": [0.7, 0.52]
+                }
+            ],
+            "captions": []
+        },
+        {
+            "at": "Bên trong bụng gã",
+            "layout": "Sơ đồ cắt lớp bụng hoạt hình: Hai buồng hóa chất riêng biệt phát sáng màu xanh ngọc và cam đất; hai nhãn tên Hydroquinone và Hydrogen peroxide nổi bật.",
+            "stickers": [],
+            "captions": []
+        },
+        {
+            "at": "Khi bị đe dọa,",
+            "layout": "Van một chiều mở ra: Hóa chất từ hai buồng dự trữ tràn vào buồng đốt chứa enzyme xúc tác, chuẩn bị cho phản ứng kích hoạt.",
+            "stickers": [],
+            "captions": []
+        },
+        {
+            "at": "đun sôi dung dịch",
+            "layout": "Phản ứng dây chuyền bùng nổ: Hóa chất bị đun sôi lên đúng 100°C với tần số nổ liên thanh 500 lần/giây chớp nháy liên hồi.",
+            "stickers": [
+                {
+                    "at": "100°C",
+                    "side": "L",
+                    "y": 560,
+                    "value": "100°C",
+                    "label": "nhiệt độ sôi",
+                    "target": [0.3, 0.48]
+                },
+                {
+                    "at": "500 lần/giây",
+                    "side": "R",
+                    "y": 620,
+                    "value": "500 Hz",
+                    "label": "nổ liên thanh",
+                    "target": [0.72, 0.55]
+                }
+            ],
+            "captions": []
+        },
+        {
+            "at": "Tia hơi hóa chất",
+            "layout": "Nòng pháo đuôi của {HERO_S} bẻ cong 270° bắn ra luồng hơi nước sôi 100°C với vận tốc 20 m/s xé toạc màn đêm; tia lửa và khói trắng bốc lên cuồn cuộn.",
+            "stickers": [
+                {
+                    "at": "20 m/s",
+                    "side": "R",
+                    "y": 580,
+                    "value": "20 m/s",
+                    "label": "vận tốc xé gió",
+                    "target": [0.68, 0.52]
+                }
+            ],
+            "captions": []
+        },
+        {
+            "at": "từ chiếc tháp pháo",
+            "layout": "Cận cảnh tháp pháo đuôi có khớp xoay 270° linh hoạt: {HERO_S} ngắm bắn chuẩn xác theo mọi hướng mà không cần quay đầu.",
+            "stickers": [
+                {
+                    "at": "270°",
+                    "side": "L",
+                    "y": 580,
+                    "value": "270°",
+                    "label": "tháp pháo xoay tự do",
+                    "target": [0.32, 0.5]
+                }
+            ],
+            "captions": []
+        },
+        {
+            "at": "Kể cả khi bị",
+            "layout": "Chú {TOAD} khổng lồ đang nuốt chửng {HERO_S} vào mồm nhưng ngay lập tức ôm bụng quằn quại vì bị nã đạn cay rát bên trong nội tạng.",
+            "stickers": [],
+            "captions": []
+        },
+        {
+            "at": "khiến con cóc đau",
+            "layout": "Chú cóc há to mồm nôn ọe một bãi dịch lớn ra mặt đất; chiếc đồng hồ bấm giờ hiển thị mốc 40 phút cầm cự của con bọ.",
+            "stickers": [
+                {
+                    "at": "40 phút",
+                    "side": "R",
+                    "y": 600,
+                    "value": "40 PHÚT",
+                    "label": "thời gian nôn mửa",
+                    "target": [0.72, 0.55]
+                }
+            ],
+            "captions": []
+        },
+        {
+            "at": "Nhỏ bé nhưng sở",
+            "layout": "{HERO_S} lồm cồm bò ra từ bãi dịch nôn, phủi sạch chân, giũ đôi cánh cứng bóng loáng và hiên ngang bước đi bình an vô sự.",
+            "stickers": [],
+            "captions": []
+        },
+        {
+            "at": "đó chính là bí",
+            "layout": "Khung cảnh kết thúc oai phong: {HERO_S} đứng trên đỉnh viên đá cuội, giơ hai tay chữ V chiến thắng dưới ánh hào quang rực rỡ; biểu tượng huy chương vàng sinh tồn lấp lánh.",
+            "stickers": [],
+            "captions": []
+        }
+    ]
+}
+
+out_p = P / "specs" / "storyboard.json"
+out_p.write_text(json.dumps(storyboard, ensure_ascii=False, indent=1), encoding="utf-8")
+print(f"Saved {out_p}")

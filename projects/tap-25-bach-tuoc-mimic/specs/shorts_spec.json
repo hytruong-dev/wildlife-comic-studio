@@ -1,0 +1,423 @@
+{
+ "episode": "tap-25-bach-tuoc-mimic",
+ "title_lines": [
+  "9 BỘ NÃO VÀ 15",
+  "KHUÔN MẶT BIẾN HÌNH?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 50.0,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-25-bach-tuoc-mimic_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  5.13,
+  10.83,
+  16.91,
+  20.97,
+  27.11,
+  31.41,
+  36.19,
+  42.01,
+  46.63
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.6,
+     "text": "Khi bị kẻ"
+    },
+    {
+     "t": 1.08,
+     "text": "thù bao vây,"
+    },
+    {
+     "t": 1.98,
+     "text": "con vật này"
+    },
+    {
+     "t": 2.44,
+     "text": "không chạy trốn,"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 3.33,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 3.58,
+     "text": "mà lập tức"
+    },
+    {
+     "t": 4.06,
+     "text": "biến 2 chiếc"
+    },
+    {
+     "t": 4.76,
+     "text": "xúc tu của"
+    },
+    {
+     "t": 5.26,
+     "text": "mình thành một"
+    },
+    {
+     "t": 5.78,
+     "text": "con rắn biển"
+    },
+    {
+     "t": 6.4,
+     "text": "kịch độc le"
+    },
+    {
+     "t": 7.1,
+     "text": "lưỡi dọa lại"
+    },
+    {
+     "t": 8.0,
+     "text": "kẻ đi săn!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 9.03,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 12.1,
+     "side": "R",
+     "y": 620,
+     "value": "60 CM",
+     "label": "sải tay bãi cát",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 9.28,
+     "text": "Xin giới thiệu"
+    },
+    {
+     "t": 10.04,
+     "text": "Bạch Tuộc Mimic,"
+    },
+    {
+     "t": 11.28,
+     "text": "siêu điệp viên"
+    },
+    {
+     "t": 11.72,
+     "text": "sải tay 60cm"
+    },
+    {
+     "t": 12.86,
+     "text": "sống dưới đáy"
+    },
+    {
+     "t": 13.6,
+     "text": "cát ở Indonesia."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 15.11,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 16.04,
+     "side": "L",
+     "y": 620,
+     "value": "9 BỘ NÃO",
+     "label": "3 tim máu xanh",
+     "target": [
+      0.4,
+      0.52
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 15.36,
+     "text": "Nó sở hữu"
+    },
+    {
+     "t": 15.92,
+     "text": "tới 9 bộ"
+    },
+    {
+     "t": 16.38,
+     "text": "não độc lập,"
+    },
+    {
+     "t": 16.9,
+     "text": "3 trái tim"
+    },
+    {
+     "t": 17.34,
+     "text": "bơm dòng máu"
+    },
+    {
+     "t": 18.0,
+     "text": "màu xanh lam"
+    },
+    {
+     "t": 18.56,
+     "text": "óng ánh,"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 19.17,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 19.42,
+     "text": "và tài năng"
+    },
+    {
+     "t": 19.82,
+     "text": "hóa trang vô"
+    },
+    {
+     "t": 20.5,
+     "text": "tiền khoáng hậu:"
+    },
+    {
+     "t": 21.72,
+     "text": "có thể biến"
+    },
+    {
+     "t": 22.22,
+     "text": "hình mượt mà"
+    },
+    {
+     "t": 22.82,
+     "text": "thành 15 loài"
+    },
+    {
+     "t": 23.64,
+     "text": "sinh vật kịch"
+    },
+    {
+     "t": 24.12,
+     "text": "độc khác nhau!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 25.31,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 25.56,
+     "text": "Bị cá thia"
+    },
+    {
+     "t": 26.02,
+     "text": "tấn công?"
+    },
+    {
+     "t": 26.82,
+     "text": "Thụt thân vào"
+    },
+    {
+     "t": 27.3,
+     "text": "hang, biến 2"
+    },
+    {
+     "t": 28.18,
+     "text": "xúc tu thành"
+    },
+    {
+     "t": 28.62,
+     "text": "rắn biển cạp nong!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 29.61,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 29.86,
+     "text": "Gặp cá nhồng"
+    },
+    {
+     "t": 30.36,
+     "text": "hung dữ?"
+    },
+    {
+     "t": 31.32,
+     "text": "Xòe 8 xúc"
+    },
+    {
+     "t": 31.96,
+     "text": "tu bơi lơ"
+    },
+    {
+     "t": 32.64,
+     "text": "lửng thành cá"
+    },
+    {
+     "t": 33.24,
+     "text": "sư tử đầy"
+    },
+    {
+     "t": 33.84,
+     "text": "gai độc!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 34.39,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 34.64,
+     "text": "Cần di chuyển"
+    },
+    {
+     "t": 35.28,
+     "text": "qua bãi cát"
+    },
+    {
+     "t": 35.76,
+     "text": "trống? Ép dẹt"
+    },
+    {
+     "t": 36.723,
+     "text": "toàn thân thành"
+    },
+    {
+     "t": 37.34,
+     "text": "chiếc lá lướt"
+    },
+    {
+     "t": 38.32,
+     "text": "sóng giả dạng"
+    },
+    {
+     "t": 38.9,
+     "text": "cá bơn độc!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 40.21,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "t": 43.76,
+     "side": "R",
+     "y": 680,
+     "value": "0,2 GIÂY",
+     "label": "đổi màu cơ học",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 40.46,
+     "text": "Làn da của"
+    },
+    {
+     "t": 40.92,
+     "text": "nó chứa hàng"
+    },
+    {
+     "t": 41.66,
+     "text": "triệu túi sắc"
+    },
+    {
+     "t": 42.24,
+     "text": "tố đổi màu"
+    },
+    {
+     "t": 43.02,
+     "text": "cơ học chỉ"
+    },
+    {
+     "t": 43.54,
+     "text": "trong 0,2 giây!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 44.83,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 45.08,
+     "text": "Một bậc thầy"
+    },
+    {
+     "t": 45.68,
+     "text": "tình báo thế"
+    },
+    {
+     "t": 46.26,
+     "text": "giới ngầm không"
+    },
+    {
+     "t": 46.96,
+     "text": "cần nanh vuốt"
+    },
+    {
+     "t": 47.86,
+     "text": "vẫn khiến cả"
+    },
+    {
+     "t": 48.42,
+     "text": "đại dương phải"
+    },
+    {
+     "t": 48.98,
+     "text": "ngả mũ kính sợ!"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,425 @@
+{
+ "episode": "tap-30-hai-ly",
+ "title_lines": [
+  "ĐẶT LOA NƯỚC CHẢY TRƯỚC MẶT",
+  "HẢI LY VÀ CÁI KẾT?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 48.64,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-30-hai-ly_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  6.99,
+  10.61,
+  16.05,
+  20.35,
+  27.15,
+  30.77,
+  36.35,
+  40.17,
+  44.21,
+  46.89
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.48,
+     "text": "Điều gì sẽ"
+    },
+    {
+     "t": 1.24,
+     "text": "xảy ra nếu"
+    },
+    {
+     "t": 2.04,
+     "text": "bạn đặt một"
+    },
+    {
+     "t": 2.62,
+     "text": "chiếc loa phát"
+    },
+    {
+     "t": 3.26,
+     "text": "tiếng nước chảy"
+    },
+    {
+     "t": 3.98,
+     "text": "trước mặt Hải Ly?"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 5.19,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 5.44,
+     "text": "Ngay lập tức,"
+    },
+    {
+     "t": 6.58,
+     "text": "gã kỹ sư"
+    },
+    {
+     "t": 7.1,
+     "text": "đập nước này"
+    },
+    {
+     "t": 7.62,
+     "text": "sẽ phát điên"
+    },
+    {
+     "t": 8.2,
+     "text": "cuồng loạn,"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 8.81,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 9.06,
+     "text": "vác bùn đất"
+    },
+    {
+     "t": 9.64,
+     "text": "chạy hộc tốc"
+    },
+    {
+     "t": 10.2,
+     "text": "lên cạn để"
+    },
+    {
+     "t": 10.88,
+     "text": "trát kín mít"
+    },
+    {
+     "t": 11.5,
+     "text": "chiếc loa cho"
+    },
+    {
+     "t": 12.18,
+     "text": "đến khi tiếng"
+    },
+    {
+     "t": 12.74,
+     "text": "nước róc rách"
+    },
+    {
+     "t": 13.3,
+     "text": "tắt ngấm!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 14.25,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 14.5,
+     "text": "Hải Ly mắc"
+    },
+    {
+     "t": 15.3,
+     "text": "chứng ám ảnh"
+    },
+    {
+     "t": 15.92,
+     "text": "cưỡng chế bẩm"
+    },
+    {
+     "t": 16.58,
+     "text": "sinh với âm"
+    },
+    {
+     "t": 17.36,
+     "text": "thanh nước rò rỉ."
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 18.55,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 18.8,
+     "text": "Thậm chí khi"
+    },
+    {
+     "t": 19.44,
+     "text": "các nhà khoa"
+    },
+    {
+     "t": 19.96,
+     "text": "học treo chiếc"
+    },
+    {
+     "t": 20.58,
+     "text": "loa lơ lửng"
+    },
+    {
+     "t": 21.12,
+     "text": "trên cành cây,"
+    },
+    {
+     "t": 22.36,
+     "text": "gã còn kiên"
+    },
+    {
+     "t": 22.82,
+     "text": "nhẫn đắp cả"
+    },
+    {
+     "t": 23.36,
+     "text": "chiếc cầu thang"
+    },
+    {
+     "t": 23.92,
+     "text": "bùn để trèo"
+    },
+    {
+     "t": 24.64,
+     "text": "lên bịt chặt cho"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 25.35,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 25.3,
+     "text": "bằng được,"
+    },
+    {
+     "t": 25.6,
+     "text": "vì với gã"
+    },
+    {
+     "t": 26.5,
+     "text": "tiếng nước rò"
+    },
+    {
+     "t": 27.06,
+     "text": "rỉ là một"
+    },
+    {
+     "t": 27.56,
+     "text": "tội ác không"
+    },
+    {
+     "t": 28.1,
+     "text": "thể tha thứ!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 28.97,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 29.22,
+     "text": "Để phục vụ"
+    },
+    {
+     "t": 29.64,
+     "text": "đam mê đắp"
+    },
+    {
+     "t": 30.16,
+     "text": "đập, nó trang"
+    },
+    {
+     "t": 30.98,
+     "text": "bị bộ răng"
+    },
+    {
+     "t": 31.52,
+     "text": "cửa màu cam"
+    },
+    {
+     "t": 32.18,
+     "text": "chứa đầy oxit"
+    },
+    {
+     "t": 33.02,
+     "text": "sắt cứng như"
+    },
+    {
+     "t": 33.64,
+     "text": "kim loại thép,"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 34.55,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 37.58,
+     "side": "R",
+     "y": 620,
+     "value": "30 PHÚT",
+     "label": "hạ cây cổ thụ",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 34.8,
+     "text": "có khả năng"
+    },
+    {
+     "t": 35.26,
+     "text": "tự mài sắc"
+    },
+    {
+     "t": 35.98,
+     "text": "để đốn hạ"
+    },
+    {
+     "t": 36.58,
+     "text": "thân cây to"
+    },
+    {
+     "t": 37.16,
+     "text": "chỉ trong 30 phút!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 38.37,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "t": 40.36,
+     "side": "L",
+     "y": 620,
+     "value": "DÀI 850M",
+     "label": "đập khổng lồ",
+     "target": [
+      0.38,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 38.62,
+     "text": "Những con đập"
+    },
+    {
+     "t": 39.06,
+     "text": "do nó xây"
+    },
+    {
+     "t": 39.54,
+     "text": "dựng có thể"
+    },
+    {
+     "t": 40.0,
+     "text": "dài tới 850m,"
+    },
+    {
+     "t": 41.64,
+     "text": "chặn đứng dòng sông"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 42.41,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 42.5,
+     "text": "và nhìn thấy"
+    },
+    {
+     "t": 42.98,
+     "text": "rõ mồn một"
+    },
+    {
+     "t": 43.74,
+     "text": "từ vệ tinh"
+    },
+    {
+     "t": 44.34,
+     "text": "không gian!"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 45.09,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 45.34,
+     "text": "Đúng là kỹ"
+    },
+    {
+     "t": 45.88,
+     "text": "sư xây dựng"
+    },
+    {
+     "t": 46.62,
+     "text": "cuồng nhiệt và"
+    },
+    {
+     "t": 47.2,
+     "text": "lầy lội nhất"
+    },
+    {
+     "t": 47.78,
+     "text": "thế giới động vật!"
+    }
+   ]
+  }
+ ]
+}

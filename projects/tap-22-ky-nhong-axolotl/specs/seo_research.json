@@ -1,0 +1,512 @@
+{
+ "episode": "tap-22-ky-nhong-axolotl",
+ "animal": "kỳ nhông axolotl",
+ "cores": [
+  "kỳ nhông"
+ ],
+ "title_check": {
+  "title": "Sinh Vật Bị Mất Não & Thủng Tim Vẫn Tự Mọc Lại Không Sẹo?! | Tập 22",
+  "len": 67,
+  "animal_in_first_40": false
+ },
+ "tags_before": {
+  "tags": [
+   "kỳ nhông axolotl",
+   "ky nhong axolotl",
+   "axolotl",
+   "khủng long sáu sừng",
+   "khung long sau sung",
+   "ambystoma mexicanum",
+   "tái sinh không sẹo",
+   "mọc lại chi",
+   "động vật kỳ lạ",
+   "thế giới động vật",
+   "động vật hài hước",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị"
+  ],
+  "count": 14,
+  "unique_count": 14,
+  "total_characters": 265,
+  "character_limit": 500,
+  "within_limit": true,
+  "duplicates": [],
+  "longest": "whiteboard animation",
+  "average_length": 16.14
+ },
+ "tags_after": {
+  "tags": [
+   "kỳ nhông axolotl",
+   "ky nhong axolotl",
+   "axolotl",
+   "khủng long sáu sừng",
+   "khung long sau sung",
+   "ambystoma mexicanum",
+   "tái sinh không sẹo",
+   "mọc lại chi",
+   "động vật kỳ lạ",
+   "thế giới động vật",
+   "động vật hài hước",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị",
+   "kỳ nhông axolotl ăn gì",
+   "kỳ nhông axolotl khổng lồ",
+   "nuôi kỳ nhông axolotl",
+   "bắt kỳ nhông axolotl",
+   "cá kỳ nhông axolotl",
+   "kỳ nhông",
+   "kỳ nhông ăn gì",
+   "kỳ nhông khổng lồ",
+   "kỳ nhông nước",
+   "kỳ nhông biển"
+  ],
+  "added": [
+   "kỳ nhông axolotl ăn gì",
+   "kỳ nhông axolotl khổng lồ",
+   "nuôi kỳ nhông axolotl",
+   "bắt kỳ nhông axolotl",
+   "cá kỳ nhông axolotl",
+   "kỳ nhông",
+   "kỳ nhông ăn gì",
+   "kỳ nhông khổng lồ",
+   "kỳ nhông nước",
+   "kỳ nhông biển"
+  ],
+  "count": 24,
+  "unique_count": 24,
+  "total_characters": 467,
+  "character_limit": 500,
+  "within_limit": true,
+  "duplicates": [],
+  "longest": "kỳ nhông axolotl khổng lồ",
+  "average_length": 16.58
+ },
+ "search_suggestions": {
+  "seeds": [
+   "kỳ nhông axolotl",
+   "kỳ nhông"
+  ],
+  "all": [
+   "kỳ nhông axolotl",
+   "kỳ nhông axolotl ăn gì",
+   "kỳ nhông axolotl khổng lồ",
+   "kỳ nhông axolotl mua ở đâu",
+   "kỳ nhông axolotl play together",
+   "kỳ nhông axolotl minecraft",
+   "kỳ nhông axolotl ăn gì trong minecraft",
+   "kỳ nhông axolotl giá bao nhiêu",
+   "kỳ nhông axolotl xanh ngọc",
+   "nuôi kỳ nhông axolotl",
+   "bắt kỳ nhông axolotl",
+   "con kỳ nhông axolotl",
+   "cá kỳ nhông axolotl",
+   "móc len kỳ nhông axolotl",
+   "kỳ nhông",
+   "kỳ nhông ăn gì",
+   "kỳ nhông khổng lồ",
+   "kỳ nhông nước",
+   "kỳ nhông biển",
+   "kỳ nhông con",
+   "kỳ nhông mexico",
+   "kỳ nhông là ông kỳ đà",
+   "kỳ nhông xanh",
+   "kỳ nhông kêu",
+   "kỳ nhông con ăn gì",
+   "kỳ nhông ăn cái gì",
+   "kỳ nhông đậu xanh"
+  ],
+  "relevant": [
+   "kỳ nhông axolotl",
+   "kỳ nhông axolotl ăn gì",
+   "kỳ nhông axolotl khổng lồ",
+   "nuôi kỳ nhông axolotl",
+   "bắt kỳ nhông axolotl",
+   "con kỳ nhông axolotl",
+   "cá kỳ nhông axolotl",
+   "kỳ nhông",
+   "kỳ nhông ăn gì",
+   "kỳ nhông khổng lồ",
+   "kỳ nhông nước",
+   "kỳ nhông biển",
+   "kỳ nhông con",
+   "kỳ nhông xanh",
+   "kỳ nhông con ăn gì",
+   "kỳ nhông ăn cái gì"
+  ],
+  "rejected": [
+   "kỳ nhông axolotl mua ở đâu",
+   "kỳ nhông axolotl play together",
+   "kỳ nhông axolotl minecraft",
+   "kỳ nhông axolotl ăn gì trong minecraft",
+   "kỳ nhông axolotl giá bao nhiêu",
+   "kỳ nhông axolotl xanh ngọc",
+   "móc len kỳ nhông axolotl",
+   "kỳ nhông mexico",
+   "kỳ nhông là ông kỳ đà",
+   "kỳ nhông kêu",
+   "kỳ nhông đậu xanh"
+  ]
+ },
+ "competitors": [
+  {
+   "id": "uz0Ny0YZnYA",
+   "title": "How to make a trumpet to call reptiles‼️catch chameleon, grass lizard, leaf grasshopper",
+   "views": 1311149,
+   "duration": 1297,
+   "channel": "mister insect",
+   "description": "How to make a trumpet to call reptiles‼️catch chameleon, grass lizard, leaf grasshopper #animals #bugs #insects #explore ...",
+   "tags": []
+  },
+  {
+   "id": "G5KlsW_i0vo",
+   "title": "Anh Da Đen Thử Thách Dùng Phi Tiêu Shopee Săn Kỳ Nhông Về Tẩm Bổ Cho Nóc Nhà Và Cái Kết",
+   "views": 915464,
+   "duration": 309,
+   "channel": "MÈO Ú REVIEW",
+   "description": "reviewgiaitri #review MÈO Ú REVIEW Cảm ơn Các Bạn Đã Xem Hết Video. #reviewconnguoivacuocsong #nhimcutereview ...",
+   "tags": [
+    "mèo mập review",
+    "review con người và cuộc sống",
+    "review cuộc sống và con người",
+    "mèo ú review",
+    "review sinh tồn",
+    "gấu trúc review",
+    "tiểu linh đan review",
+    "tiểu linh nhi review",
+    "review giải trí",
+    "review",
+    "review con người và cuộc sống sinh tồn",
+    "review con người và cuộc sống đồ ăn",
+    "review con người và cuộc sống thú vị",
+    "review con người và cuộc sống sinh tồn trên đảo hoang",
+    "anh da đen thử thách dùng phi tiêu shopee săn kỳ nhông về tẩm bổ cho nóc nhà và cái kết"
+   ]
+  },
+  {
+   "id": "XMIaTk7bsuw",
+   "title": "Họ Kỳ Nhông ♫ Bé Ngọc Ngân ♫ Nhạc Thiếu Nhi Vui Nhộn",
+   "views": 876914,
+   "duration": 157,
+   "channel": "Kênh Thiếu Nhi - BHMEDIA",
+   "description": "Họ Kỳ Nhông ♫ Bé Ngọc Ngân ♫ Nhạc Thiếu Nhi Vui Nhộn ♫ Nhạc Thiếu Nhi Sôi Động: https://goo.gl/7XNvRF ♫ Nhạc Cho Trẻ ...",
+   "tags": [
+    "họ kỳ nhông ngọc ngân",
+    "họ kỳ nhông",
+    "nhac thieu nhi",
+    "nhạc thiếu nhi",
+    "nhac thieu nhi vui nhon",
+    "nhạc vui nhộn cho bé",
+    "bé ngọc ngân",
+    "thiếu nhi",
+    "vui nhộn",
+    "ca nhạc thiếu nhi",
+    "kenh thieu nhi bhmedia",
+    "bhkids"
+   ]
+  },
+  {
+   "id": "Hlx7BENimg4",
+   "title": "Close-up: Dad goes to 'EXTREME LENGTHS' to catch a 'GREEN IGUANA' | Động Tiin",
+   "views": 810219,
+   "duration": 125,
+   "channel": "ĐỘNG TIIN",
+   "description": "Close-up clip of a father 'using every means' to catch a 'South American Dragon' | Dong Tiin\n\nThank you for your interest in ...",
+   "tags": [
+    "động tiin",
+    "dong tiin",
+    "động tin",
+    "tin nhanh",
+    "tin nhanh 3 phút",
+    "tinnhanh",
+    "tin 3 phut",
+    "tin tức 3 phút",
+    "tin 3 phut hai",
+    "tin moi",
+    "tin nong",
+    "tin giai tri",
+    "tin xa hoi",
+    "rồng nam mỹ",
+    "thằn lằn nam mỹ",
+    "bắt rồng nam mỹ",
+    "loài thằn lằn nam mỹ",
+    "dragon"
+   ]
+  },
+  {
+   "id": "DJ6l8wTt9dM",
+   "title": "Sinl Vlog Bắt KỲ NHÔNG bằng Tay Không - Bách Phát Bách Trúng",
+   "views": 765439,
+   "duration": 1664,
+   "channel": "Sinl Official",
+   "description": "Sinl Vlog Bắt KỲ NHÔNG bằng Tay Không - Bách Phát Bách Trúng Đây là kênh YouTube Chính Thức của Khoa Sinl với chủ đề ...",
+   "tags": [
+    "sinl vlog",
+    "sin vlog",
+    "sinl",
+    "sin",
+    "sinl vlog bắt kỳ nhông",
+    "bắt kỳ nhông",
+    "sinl bắt kỳ nhông",
+    "kỳ nhông",
+    "bách phát bách trúng",
+    "đông vât hoang gia",
+    "đong vat quy hiem o viet nam",
+    "động vật",
+    "bách phát",
+    "bách trúng",
+    "vlog",
+    "vlogs",
+    "bắt",
+    "kỳ",
+    "nhông",
+    "bằng",
+    "tay",
+    "không",
+    "bách",
+    "phát",
+    "trúng"
+   ]
+  },
+  {
+   "id": "TtBC08n13oI",
+   "title": "Tôi Vô Tình Phát Hiện Một Cửa Hàng Thú Cưng Axolotl Bị Bỏ Hoang...",
+   "views": 315812,
+   "duration": 2034,
+   "channel": "Bass Fishing Productions bằng tiếng Việt",
+   "description": "Bạn sẽ không tin được đâu: mình vừa khám phá một cửa hàng thú cưng axolotl bị bỏ hoang, đầy ắp những loài kỳ giông Mexico ...",
+   "tags": [
+    "axolotl",
+    "axolotl bạch tạng",
+    "axolotl melanistic",
+    "axolotl mosaic",
+    "axolotl phát sáng",
+    "axolotl vàng",
+    "cứu động vật",
+    "cửa hàng thú cưng bỏ hoang",
+    "kỳ giông mexico",
+    "thú cưng hiếm"
+   ]
+  },
+  {
+   "id": "as2cygsrHEo",
+   "title": "Hành trình đi câu Kỳ Nhông - LVTC TEEN",
+   "views": 302746,
+   "duration": 660,
+   "channel": "Hệ Thống Tưới LVTC",
+   "description": "Hành trình đi câu Kỳ Nhông - LVTC TEEN CÁM ƠN CÁC BẠN ĐÃ ĐÓN XEM. ĐĂNG KÝ KÊNH ỦNG HỘ MÌNH NHÉ CÁC BẠN!",
+   "tags": [
+    "san bat",
+    "săn bắt",
+    "cau ky nhong",
+    "câu kỳ nhông",
+    "con ky nhong",
+    "ky nhong",
+    "kỳ nhông",
+    "dong vat",
+    "bo sap",
+    "leiolepis",
+    "agamidae",
+    "iguana",
+    "cắc ké",
+    "lvtc teen"
+   ]
+  },
+  {
+   "id": "thqEKhBsPK0",
+   "title": "SO BIG! Giant Salamander Farm Earns Millions of Dollars Every Year",
+   "views": 212229,
+   "duration": 536,
+   "channel": "ATPTV",
+   "description": "SO BIG! GIANT Iguana Farm Earns Millions of Dollars Every Year\nATP Discovery: is a place to share and update the best ...",
+   "tags": [
+    "nông nghiệp",
+    "nông nghiệp hiện đại",
+    "khám phá",
+    "nông nghiệp thế giới",
+    "xâm lấn",
+    "kỳ nhông",
+    "bự quá! trang trại nuôi kỳ nhông khổng lồ thu hàng triệu đô mỗi năm"
+   ]
+  },
+  {
+   "id": "tZiRxlIWdos",
+   "title": "Chia sẻ cách thuần hóa con kỳ nhông ( con cắc ké )",
+   "views": 196134,
+   "duration": 719,
+   "channel": "Khang Dũng",
+   "description": "Mình xin chào các bạn nha. - Mình cảm ơn các bạn đã xem video của mình nha. - Và các bạn xem video này thấy hay thì cho mình ...",
+   "tags": []
+  },
+  {
+   "id": "jwi38PAbfzg",
+   "title": "Bắt gặp hai con kỳ nhông đầu xanh ngọc bích tới lái",
+   "views": 195319,
+   "duration": 30,
+   "channel": "An Tahsi",
+   "description": "antahsi #kynhong #conkynhong.",
+   "tags": []
+  },
+  {
+   "id": "khDLPXSnsjc",
+   "title": "Cách Chọn Giờ Vàng Câu Kỳ Nhông Tắc Ké Nướng Bóp Gỏi Xoài | LÂM TƯỞNG TV",
+   "views": 185067,
+   "duration": 1337,
+   "channel": "LÂM TƯỞNG TV",
+   "description": "Để bắt kỳ nhông, căn vào đúng lúc Tắc Ké Kỳ Nhông ra nhiều chúng ta phải chọn thời điểm thích hợp đó là vào lúc hứng nắng ...",
+   "tags": []
+  },
+  {
+   "id": "cHIPViULUz4",
+   "title": "Những điều thú vị về loài kỳ nhông",
+   "views": 35205,
+   "duration": 270,
+   "channel": "3PKP",
+   "description": "Kỳ nhông là tên địa phương để chỉ chi Nhông cát (danh pháp khoa học Leiolepis) thuộc họ Nhông (Agamidae) sống ở vùng Đông ...",
+   "tags": []
+  },
+  {
+   "id": "XBWWu-BghsY",
+   "title": "khi Axolotl (kỳ nhông Mexico) giai rubik :)",
+   "views": 14477,
+   "duration": 12,
+   "channel": "AFK ",
+   "description": "link kênh gốc :https://www.youtube.com/channel/UCpGk56cJDZcVqIxZatX7nbQ.",
+   "tags": []
+  },
+  {
+   "id": "cSxNOVNTs8E",
+   "title": "Khám Phá Trang Trại Kỳ Giông Khổng Lồ – Loài Lưỡng Cư Lớn Nhất Thế Giới!",
+   "views": 13355,
+   "duration": 737,
+   "channel": "Nông Nghiệp Kỳ Thú",
+   "description": "... kỳ giông 01:27 Sinh sản và ấp trứng kỳ giông 03:11 Chăn nuôi kỳ giông 04:38 Điều kiện chăm sóc kỳ nhông 06:12 Thu hoạch ...",
+   "tags": []
+  },
+  {
+   "id": "EnMthPNyHrE",
+   "title": "Khoảnh khắc kỳ nhông bắt mồi",
+   "views": 5953,
+   "duration": 20,
+   "channel": "Vi Sinh VN",
+   "description": "",
+   "tags": []
+  }
+ ],
+ "competitor_tags_relevant": [
+  "kỳ nhông",
+  "bắt kỳ nhông"
+ ],
+ "title_keyword_stats": {
+  "avg_title_len": 58.9,
+  "avg_title_words": 12.5,
+  "top_title_words": [
+   [
+    "kỳ",
+    11
+   ],
+   [
+    "nhông",
+    10
+   ],
+   [
+    "bắt",
+    3
+   ],
+   [
+    "con",
+    3
+   ],
+   [
+    "catch",
+    2
+   ],
+   [
+    "ngọc",
+    2
+   ],
+   [
+    "bách",
+    2
+   ],
+   [
+    "phát",
+    2
+   ],
+   [
+    "thú",
+    2
+   ],
+   [
+    "axolotl",
+    2
+   ],
+   [
+    "câu",
+    2
+   ],
+   [
+    "cách",
+    2
+   ],
+   [
+    "ké",
+    2
+   ],
+   [
+    "loài",
+    2
+   ]
+  ]
+ },
+ "audit_before": {
+  "score": 77,
+  "grade": "B (Good / Minor Tweaks Needed)",
+  "title": 19,
+  "desc": 30,
+  "tags": 14,
+  "hashtags": 14,
+  "strengths": [
+   "Title length (67 chars) is optimal for mobile CTR.",
+   "Description length (2793 chars) provides rich semantic indexing depth.",
+   "First 150 characters contain a compelling narrative hook before the link.",
+   "Includes outbound streaming/smart links.",
+   "Includes chapters or full lyrics for Google Key Moments & keyword indexing.",
+   "Optimal hashtag count (3 hashtags)."
+  ],
+  "warnings": [
+   "Possible keyword stuffing detected for: https, youtu"
+  ],
+  "suggestions": [
+   "Move your primary keyword into the first 40 characters for higher ranking.",
+   "Tags use 252/500 chars. Add more related secondary terms to reach 450+."
+  ],
+  "ignored_music_only": []
+ },
+ "audit_after": {
+  "score": 86,
+  "grade": "A (Strong SEO)",
+  "title": 19,
+  "desc": 30,
+  "tags": 23,
+  "hashtags": 14,
+  "strengths": [
+   "Title length (67 chars) is optimal for mobile CTR.",
+   "Description length (2793 chars) provides rich semantic indexing depth.",
+   "First 150 characters contain a compelling narrative hook before the link.",
+   "Includes outbound streaming/smart links.",
+   "Includes chapters or full lyrics for Google Key Moments & keyword indexing.",
+   "Tag budget utilization (444/500 chars) is maximized.",
+   "Well-balanced tag count (24 tags).",
+   "Optimal hashtag count (3 hashtags)."
+  ],
+  "warnings": [
+   "Possible keyword stuffing detected for: https, youtu"
+  ],
+  "suggestions": [
+   "Move your primary keyword into the first 40 characters for higher ranking."
+  ],
+  "ignored_music_only": []
+ }
+}

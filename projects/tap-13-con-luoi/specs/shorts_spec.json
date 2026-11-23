@@ -1,0 +1,487 @@
+{
+ "episode": "tap-13-con-luoi",
+ "title_lines": [
+  "TẠI SAO 50% CÁI CHẾT",
+  "LÚC ĐI VỆ SINH?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 47.14,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-13-con-luoi_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  6.27,
+  9.67,
+  15.85,
+  20.47,
+  25.57,
+  30.57,
+  33.37,
+  35.33,
+  39.55,
+  45.45,
+  47.07
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "t": 2.16,
+     "side": "L",
+     "y": 560,
+     "value": "1 THÁNG",
+     "label": "tiêu hóa 1 chiếc lá",
+     "target": [
+      0.35,
+      0.4
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 0.68,
+     "text": "Một sinh vật"
+    },
+    {
+     "t": 1.1,
+     "text": "lười biếng đến"
+    },
+    {
+     "t": 1.74,
+     "text": "mức mất cả"
+    },
+    {
+     "t": 2.34,
+     "text": "tháng trời chỉ"
+    },
+    {
+     "t": 3.08,
+     "text": "để tiêu hóa"
+    },
+    {
+     "t": 3.72,
+     "text": "một chiếc lá cây,"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 4.47,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 4.72,
+     "text": "nhưng mỗi tuần"
+    },
+    {
+     "t": 5.3,
+     "text": "lại chấp nhận"
+    },
+    {
+     "t": 5.84,
+     "text": "mạo hiểm tính"
+    },
+    {
+     "t": 6.4,
+     "text": "mạng để làm"
+    },
+    {
+     "t": 6.98,
+     "text": "một việc kỳ quặc!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 7.87,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 12.36,
+     "side": "R",
+     "y": 580,
+     "value": "0,2 KM/H",
+     "label": "tốc độ rùa bò",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 8.12,
+     "text": "Đó chính là"
+    },
+    {
+     "t": 8.7,
+     "text": "Con Lười ba"
+    },
+    {
+     "t": 9.28,
+     "text": "ngón, thánh sống"
+    },
+    {
+     "t": 10.38,
+     "text": "chậm của rừng"
+    },
+    {
+     "t": 10.86,
+     "text": "rậm Nam Mỹ"
+    },
+    {
+     "t": 11.46,
+     "text": "với tốc độ"
+    },
+    {
+     "t": 12.16,
+     "text": "chỉ 0,2km/h."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 14.05,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 17.2,
+     "side": "L",
+     "y": 650,
+     "value": "30 NGÀY",
+     "label": "trao đổi chất chậm",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 14.3,
+     "text": "Dạ dày 4"
+    },
+    {
+     "t": 14.88,
+     "text": "ngăn trao đổi"
+    },
+    {
+     "t": 15.54,
+     "text": "chất cực chậm"
+    },
+    {
+     "t": 16.16,
+     "text": "khiến một chiếc"
+    },
+    {
+     "t": 16.66,
+     "text": "lá phải mất"
+    },
+    {
+     "t": 17.2,
+     "text": "30 ngày mới"
+    },
+    {
+     "t": 17.9,
+     "text": "tiêu hóa xong,"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 18.67,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 18.92,
+     "text": "còn bộ lông"
+    },
+    {
+     "t": 19.46,
+     "text": "phủ đầy tảo"
+    },
+    {
+     "t": 20.12,
+     "text": "xanh biến nó"
+    },
+    {
+     "t": 20.72,
+     "text": "thành một khu"
+    },
+    {
+     "t": 21.28,
+     "text": "rừng di động"
+    },
+    {
+     "t": 21.86,
+     "text": "cho hàng trăm"
+    },
+    {
+     "t": 22.42,
+     "text": "con bướm đêm"
+    },
+    {
+     "t": 22.96,
+     "text": "sinh sống."
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 23.77,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 25.42,
+     "side": "R",
+     "y": 600,
+     "value": "1 TUẦN/LẦN",
+     "label": "nghi lễ đi vệ sinh",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 24.02,
+     "text": "Nhưng kỳ lạ"
+    },
+    {
+     "t": 24.8,
+     "text": "nhất là cứ"
+    },
+    {
+     "t": 25.24,
+     "text": "đúng 1 tuần"
+    },
+    {
+     "t": 25.74,
+     "text": "1 lần,"
+    },
+    {
+     "t": 26.38,
+     "text": "nó bắt buộc"
+    },
+    {
+     "t": 26.9,
+     "text": "phải bò từ"
+    },
+    {
+     "t": 27.42,
+     "text": "ngọn cây xuống"
+    },
+    {
+     "t": 28.02,
+     "text": "đất để đi"
+    },
+    {
+     "t": 28.46,
+     "text": "vệ sinh,"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 28.77,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 29.48,
+     "side": "L",
+     "y": 650,
+     "value": "1/3",
+     "label": "trọng lượng cơ thể",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 29.02,
+     "text": "xả tới 1/3"
+    },
+    {
+     "t": 30.1,
+     "text": "trọng lượng cơ thể!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 31.57,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 31.82,
+     "text": "Do di chuyển"
+    },
+    {
+     "t": 32.6,
+     "text": "quá vụng về"
+    },
+    {
+     "t": 33.14,
+     "text": "dưới đất,"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 33.53,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 33.88,
+     "side": "R",
+     "y": 650,
+     "value": "50% CHẾT",
+     "label": "khi đi vệ sinh",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 33.78,
+     "text": "hơn 50%"
+    },
+    {
+     "t": 34.6,
+     "text": "số cái chết"
+    },
+    {
+     "t": 35.2,
+     "text": "của loài lười"
+    },
+    {
+     "t": 35.78,
+     "text": "đều diễn ra"
+    },
+    {
+     "t": 36.54,
+     "text": "đúng vào thời"
+    },
+    {
+     "t": 36.96,
+     "text": "điểm đi vệ"
+    },
+    {
+     "t": 37.32,
+     "text": "sinh này!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 37.75,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 38.0,
+     "text": "Vậy là bí"
+    },
+    {
+     "t": 38.46,
+     "text": "mật đã rõ:"
+    },
+    {
+     "t": 39.58,
+     "text": "con lười chấp"
+    },
+    {
+     "t": 40.14,
+     "text": "nhận đối mặt"
+    },
+    {
+     "t": 40.66,
+     "text": "với tử thần"
+    },
+    {
+     "t": 41.22,
+     "text": "chỉ để bướm"
+    },
+    {
+     "t": 41.82,
+     "text": "đêm trên lưng"
+    },
+    {
+     "t": 42.34,
+     "text": "có chỗ đẻ"
+    },
+    {
+     "t": 42.88,
+     "text": "trứng vào phân,"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 43.65,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 43.9,
+     "text": "giữ cho bộ"
+    },
+    {
+     "t": 44.5,
+     "text": "lông luôn xanh"
+    },
+    {
+     "t": 45.06,
+     "text": "ngụy trang"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 45.27,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 45.52,
+     "text": "để sinh tồn"
+    },
+    {
+     "t": 46.16,
+     "text": "qua hàng triệu năm!"
+    }
+   ]
+  }
+ ]
+}

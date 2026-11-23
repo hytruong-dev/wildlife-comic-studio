@@ -1,0 +1,480 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "BỆNH ÁN SỐ 46 — BÁC SĨ CHẤN ĐỘNG TRƯỚC CA PHẪU THUẬT RĂNG NANH MỌC NGƯỢC",
+   "hook": "BỆNH ÁN PHÁP Y ĐẶC BIỆT TIẾP NHẬN SINH VẬT CÓ VŨ KHÍ TỰ SÁT",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ba chiều đa",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đới đảo Sulawesi",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "mặt nó đã",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "còn gọi là",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "có răng nanh",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "diệt không thể",
+     "image": "assets/long/L07.png",
+     "stickers": [
+      {
+       "at": "100 kg",
+       "side": "R",
+       "y": 360,
+       "value": "100 KG",
+       "label": "thể trọng cơ bắp",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "phóng to góc",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thịt mũi rồi",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỒ SƠ BỆNH ÁN"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "GIẢI PHẪU DỊ TẬT — CẶP RĂNG NANH HÀM TRÊN XOAY 180 ĐỘ ĐÂM XUYÊN DA MÕM",
+   "hook": "GIẢI MÃ CƠ CHẾ RĂNG XOAY MỘT TRĂM TÁM MƯƠI ĐỘ ĐÂM XUYÊN MÕM",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vào chân răng",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chân răng hàm",
+     "image": "assets/long/L12.png",
+     "stickers": [
+      {
+       "at": "180°",
+       "side": "L",
+       "y": 380,
+       "value": "180°",
+       "label": "xoay chân răng",
+       "target": [
+        0.28,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "bệnh nhân sẽ",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vào độ tuổi",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lỗ hổng vĩnh",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "phẫu đau đớn",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đâm thẳng qua",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "phải gánh chịu!",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "20 cm",
+       "side": "R",
+       "y": 360,
+       "value": "20 CM",
+       "label": "nanh dưới cận chiến",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "chiếc lưỡi mác",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "GIẢI PHẪU DỊ TẬT"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "VÒNG CUNG TỰ SÁT — CHIẾC RĂNG 40CM UỐN CONG ĐÂM THỦNG HỘP SỌ LỢN GIÀ",
+   "hook": "MŨI KHOAN BỐN MƯƠI XĂNG TI MÉT UỐN CONG CẮM VÀO NÃO BỘ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhân tự sát",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "suốt cuộc đời!",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "song đúng không?",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nanh này để",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nanh trên có",
+     "image": "assets/long/L25.png",
+     "stickers": [
+      {
+       "at": "40 cm",
+       "side": "R",
+       "y": 360,
+       "value": "30-40 CM",
+       "label": "vòng cung tự sát",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "thẳng vào vầng",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lợn hươu may",
+     "image": "assets/long/L27.png",
+     "stickers": [
+      {
+       "at": "15 năm",
+       "side": "L",
+       "y": 380,
+       "value": "15 NĂM",
+       "label": "thời điểm đâm sọ",
+       "target": [
+        0.3,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "vào da trán,",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhiên học khi",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "và vô cùng",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÒNG CUNG TỰ SÁT"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "BÍ ẨN TIẾN HÓA — CHỌN LỌC GIỚI TÍNH ĐÁNH ĐỔI TÍNH MẠNG VÌ BẠN TÌNH",
+   "hook": "TẠI SAO CHỌN LỌC TỰ NHIÊN KHÔNG LOẠI BỎ CẶP NAI TỰ HỦY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bệnh nhân tự",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "những anh chàng",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tính! Trong mắt",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vì sao? 1",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gã sở hữu",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cho thế hệ",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhất vô nhị:",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vào đó, chúng",
+     "image": "assets/long/L39.png",
+     "stickers": [
+      {
+       "at": "2 chân sau",
+       "side": "R",
+       "y": 360,
+       "value": "2 CHÂN SAU",
+       "label": "đấu vật quyền anh",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "BÍ ẨN TIẾN HÓA"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "CỖ MÁY SINH HỌC — CHIẾC BỤNG LÊN MEN NHƯ BÒ VÀ ĐÔI CHÂN HƯƠU CHẠY NHANH",
+   "hook": "CHIẾC BỤNG LÊN MEN XENLULOZO VÀ ĐÔI CHÂN BẬC THẦY BƠI LỘI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chữ babi nghĩa",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "như 1 chú",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "các eo biển",
+     "image": "assets/long/L43.png",
+     "stickers": [
+      {
+       "at": "Sulawesi",
+       "side": "L",
+       "y": 380,
+       "value": "SULAWESI",
+       "label": "địa bàn đặc hữu",
+       "target": [
+        0.28,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "sẽ khiến các",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tương tự như",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cho chiếc nanh",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tồn từng ngày",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tự sát tiến hóa phải",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ở đảo Sulawesi!",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CỖ MÁY SINH HỌC"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "ĐƠN THUỐC TIẾN HÓA — BÀI HỌC TRIẾT LÝ VÀ THỬ THÁCH ĐOÁN TẬP 47",
+   "hook": "ĐƠN THUỐC TIẾN HÓA VÀ THỬ THÁCH ĐOÁN TẬP BỐN MƯƠI BẢY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhiên! Trong cuộc",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lại chính là",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thiệp vào quy",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "để lại bình",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sinh vật đồ",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "van thủy lực",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "LỜI KẾT BỆNH ÁN"
+  }
+ }
+}

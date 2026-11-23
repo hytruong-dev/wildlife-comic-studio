@@ -1,0 +1,703 @@
+{
+ "episode": "tap-44-ca-mat-trang",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 6,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "intro_mode": "full_first",
+ "output": "renders/tap-44-ca-mat-trang_long.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 83.106,
+   "chapter_no": 1,
+   "badge": "HỒ SƠ BỆNH ÁN",
+   "header_image": "assets/banners/chapter_01.png",
+   "title": "BỆNH ÁN GÃ KHỔNG LỒ 2 TẤN NGƠ NGÁC NHẤT ĐẠI DƯƠNG",
+   "card_hook": "BỆNH ÁN GÃ KHỔNG LỒ HAI TẤN CỤT ĐUÔI VÔ TRI NHẤT ĐẠI DƯƠNG",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L01.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 7.92,
+       "side": "R",
+       "y": 360,
+       "value": "10 TẤN",
+       "label": "cần cẩu công nghiệp",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 9.48,
+     "image": "assets/long/L02.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 18.8,
+     "image": "assets/long/L03.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 27.92,
+     "image": "assets/long/L04.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 37.97,
+     "image": "assets/long/L05.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 46.57,
+     "image": "assets/long/L06.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b07",
+     "start_s": 57.29,
+     "image": "assets/long/L07.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b08",
+     "start_s": 65.57,
+     "image": "assets/long/L08.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 66.55,
+       "side": "R",
+       "y": 380,
+       "value": "2 TẤN",
+       "label": "thể trọng kỷ lục",
+       "target": [
+        0.72,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b09",
+     "start_s": 73.83,
+     "image": "assets/long/L09.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 109.969,
+   "chapter_no": 2,
+   "badge": "GIẢI PHẪU DỊ TẬT",
+   "header_image": "assets/banners/chapter_02.png",
+   "title": "CẤU TẠO XƯƠNG SỤN KỲ LẠ VÀ THÙY ĐUÔI CLAVUS CỤT NGỦN",
+   "card_hook": "CỖ MÁY SINH HỌC CỤT ĐUÔI BƠI BẰNG HAI CÁNH VÂY KHỔNG LỒ",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L10.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 8.68,
+     "image": "assets/long/L11.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 18.12,
+     "image": "assets/long/L12.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 28.88,
+     "image": "assets/long/L13.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 39.3,
+     "image": "assets/long/L14.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b06",
+     "start_s": 49.7,
+     "image": "assets/long/L15.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b07",
+     "start_s": 60.18,
+     "image": "assets/long/L16.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b08",
+     "start_s": 69.1,
+     "image": "assets/long/L17.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b09",
+     "start_s": 78.32,
+     "image": "assets/long/L18.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 81.68,
+       "side": "L",
+       "y": 360,
+       "value": "3.2 KM/H",
+       "label": "vận tốc bơi thực tế",
+       "target": [
+        0.28,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b10",
+     "start_s": 89.12,
+     "image": "assets/long/L19.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 96.04,
+       "side": "R",
+       "y": 380,
+       "value": "7.5 CM",
+       "label": "độ dày da đệm",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b11",
+     "start_s": 99.98,
+     "image": "assets/long/L20.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 88.625,
+   "chapter_no": 3,
+   "badge": "THỰC ĐƠN KỲ LẶC",
+   "header_image": "assets/banners/chapter_03.png",
+   "title": "CHẾ ĐỘ ĂN 99% NƯỚC VÀ CHUYẾN LẶN SÂU 800 MÉT",
+   "card_hook": "LẶN SÂU TÁM TRĂM MÉT SĂN SỨA DƯỚI CÁI LẠNH BỐN ĐỘ C",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L21.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 7.62,
+     "image": "assets/long/L22.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 15.96,
+     "image": "assets/long/L23.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 19.16,
+       "side": "R",
+       "y": 360,
+       "value": "99%",
+       "label": "thực đơn sứa biển",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 25.31,
+     "image": "assets/long/L24.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b05",
+     "start_s": 34.29,
+     "image": "assets/long/L25.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b06",
+     "start_s": 43.41,
+     "image": "assets/long/L26.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b07",
+     "start_s": 52.27,
+     "image": "assets/long/L27.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b08",
+     "start_s": 61.49,
+     "image": "assets/long/L28.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b09",
+     "start_s": 70.98,
+     "image": "assets/long/L29.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 74.12,
+       "side": "L",
+       "y": 380,
+       "value": "800 M",
+       "label": "độ sâu lặn săn",
+       "target": [
+        0.3,
+        0.5
+       ]
+      },
+      {
+       "t": 79.48,
+       "side": "R",
+       "y": 360,
+       "value": "4°C",
+       "label": "nhiệt độ biển sâu",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b10",
+     "start_s": 80.38,
+     "image": "assets/long/L30.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 107.997,
+   "chapter_no": 4,
+   "badge": "SPA ĐẠI DƯƠNG",
+   "header_image": "assets/banners/chapter_04.png",
+   "title": "HÀNH VI NẰM NGHIÊNG PHƠI NẮNG VÀ KHÁCH SẠN KÝ SINH TRÙNG",
+   "card_hook": "NẰM PHƠI NẮNG BỂ BƠI ĐỂ HỒI PHỤC THÂN NHIỆT VÀ TRỊ LIỆU",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L31.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 10.16,
+     "image": "assets/long/L32.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 19.44,
+     "image": "assets/long/L33.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 29.45,
+     "image": "assets/long/L34.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b05",
+     "start_s": 39.27,
+     "image": "assets/long/L35.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 40.59,
+       "side": "R",
+       "y": 360,
+       "value": "40 LOÀI",
+       "label": "ký sinh trùng bám da",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b06",
+     "start_s": 47.45,
+     "image": "assets/long/L36.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b07",
+     "start_s": 57.86,
+     "image": "assets/long/L37.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b08",
+     "start_s": 67.42,
+     "image": "assets/long/L38.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b09",
+     "start_s": 78.6,
+     "image": "assets/long/L39.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b10",
+     "start_s": 88.42,
+     "image": "assets/long/L40.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 92.7,
+       "side": "L",
+       "y": 380,
+       "value": "3 MÉT",
+       "label": "cú phóng vọt mặt nước",
+       "target": [
+        0.28,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b11",
+     "start_s": 98.12,
+     "image": "assets/long/L41.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 89.899,
+   "chapter_no": 5,
+   "badge": "CỖ MÁY SINH SẢN",
+   "header_image": "assets/banners/chapter_05.png",
+   "title": "KỶ LỤC SINH SẢN ĐỈNH CAO BÙ ĐẮP CHỈ SỐ SINH TỒN CỰC THẤP",
+   "card_hook": "KỶ LỤC VÔ ĐỊCH ĐẺ BA TRĂM TRIỆU TRỨNG TRONG MỘT LẦN",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L42.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 8.18,
+     "image": "assets/long/L43.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 16.34,
+     "image": "assets/long/L44.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 25.32,
+     "image": "assets/long/L45.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b05",
+     "start_s": 33.8,
+     "image": "assets/long/L46.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 35.88,
+       "side": "R",
+       "y": 360,
+       "value": "300 TRIỆU",
+       "label": "kỷ lục sinh sản trứng",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b06",
+     "start_s": 41.76,
+     "image": "assets/long/L47.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 49.61,
+       "side": "L",
+       "y": 380,
+       "value": "2 MM",
+       "label": "kích thước ấu trùng",
+       "target": [
+        0.28,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b07",
+     "start_s": 52.07,
+     "image": "assets/long/L48.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b08",
+     "start_s": 60.73,
+     "image": "assets/long/L49.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b09",
+     "start_s": 70.83,
+     "image": "assets/long/L50.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b10",
+     "start_s": 80.37,
+     "image": "assets/long/L51.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 83.07,
+       "side": "R",
+       "y": 360,
+       "value": "X60 TRIỆU",
+       "label": "tăng trưởng thể trọng",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 55.264,
+   "chapter_no": 6,
+   "badge": "LỜI KẾT BỆNH ÁN",
+   "header_image": "assets/banners/chapter_06.png",
+   "title": "ĐƠN THUỐC TIẾN HÓA VÀ THỬ THÁCH ĐOÁN TẬP 45",
+   "card_hook": "ĐƠN THUỐC TIẾN HÓA VÀ THỬ THÁCH ĐOÁN TẬP BỐN MƯƠI LĂM",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L52.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 7.56,
+     "image": "assets/long/L53.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 15.38,
+     "image": "assets/long/L54.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b04",
+     "start_s": 23.0,
+     "image": "assets/long/L55.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b05",
+     "start_s": 31.31,
+     "image": "assets/long/L56.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b06",
+     "start_s": 39.42,
+     "image": "assets/long/L57.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b07",
+     "start_s": 47.76,
+     "image": "assets/long/L58.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

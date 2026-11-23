@@ -1,0 +1,435 @@
+{
+ "episode": "tap-26-gau-tui-wombat",
+ "title_lines": [
+  "MÔNG BỌC THÉP ÉP",
+  "NÁT SỌ CHÓ HOANG?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 49.36,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-26-gau-tui-wombat_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  4.95,
+  10.51,
+  15.59,
+  20.19,
+  26.51,
+  33.21,
+  36.19,
+  41.79,
+  46.63
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.82,
+     "text": "Sinh vật này"
+    },
+    {
+     "t": 1.24,
+     "text": "sở hữu chiếc"
+    },
+    {
+     "t": 1.8,
+     "text": "mông bọc thép"
+    },
+    {
+     "t": 2.3,
+     "text": "cứng như bê tông,"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 3.15,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 3.4,
+     "text": "chuyên bẫy lừa"
+    },
+    {
+     "t": 3.94,
+     "text": "chó hoang chui"
+    },
+    {
+     "t": 5.06,
+     "text": "đầu vào hang"
+    },
+    {
+     "t": 5.6,
+     "text": "rồi gồng mông"
+    },
+    {
+     "t": 6.18,
+     "text": "dập nát hộp"
+    },
+    {
+     "t": 6.92,
+     "text": "sọ kẻ thù"
+    },
+    {
+     "t": 7.42,
+     "text": "vào trần đá!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 8.71,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 11.8,
+     "side": "R",
+     "y": 620,
+     "value": "35 KG",
+     "label": "xe tăng đào hầm",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 8.96,
+     "text": "Xin giới thiệu"
+    },
+    {
+     "t": 9.74,
+     "text": "Gấu Túi Wombat,"
+    },
+    {
+     "t": 10.9,
+     "text": "xe tăng đào"
+    },
+    {
+     "t": 11.4,
+     "text": "hầm nặng 35kg"
+    },
+    {
+     "t": 12.64,
+     "text": "của nước Úc."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 13.79,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 17.52,
+     "side": "L",
+     "y": 620,
+     "value": "DÀY 3CM",
+     "label": "khiên sụn bọc thép",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 14.04,
+     "text": "Toàn bộ vùng"
+    },
+    {
+     "t": 14.6,
+     "text": "mông của nó"
+    },
+    {
+     "t": 15.08,
+     "text": "được gia cố"
+    },
+    {
+     "t": 15.66,
+     "text": "bằng một tấm"
+    },
+    {
+     "t": 16.18,
+     "text": "khiên sụn và"
+    },
+    {
+     "t": 16.76,
+     "text": "mô sợi dày"
+    },
+    {
+     "t": 17.34,
+     "text": "tới 3cm,"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 18.39,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 18.64,
+     "text": "khi bị rượt"
+    },
+    {
+     "t": 19.16,
+     "text": "đuổi, nó chui"
+    },
+    {
+     "t": 20.06,
+     "text": "tọt vào hang"
+    },
+    {
+     "t": 20.62,
+     "text": "và lấy chiếc"
+    },
+    {
+     "t": 21.2,
+     "text": "mông sắt bịt"
+    },
+    {
+     "t": 21.74,
+     "text": "kín cửa hang"
+    },
+    {
+     "t": 22.38,
+     "text": "khiến kẻ săn"
+    },
+    {
+     "t": 23.06,
+     "text": "mồi cắn gãy răng!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 24.71,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 24.96,
+     "text": "Chưa hết,"
+    },
+    {
+     "t": 25.94,
+     "text": "nó là sinh"
+    },
+    {
+     "t": 26.36,
+     "text": "vật duy nhất"
+    },
+    {
+     "t": 26.86,
+     "text": "trên thế giới"
+    },
+    {
+     "t": 27.56,
+     "text": "đi vệ sinh"
+    },
+    {
+     "t": 28.18,
+     "text": "ra những viên"
+    },
+    {
+     "t": 28.72,
+     "text": "phân hình khối"
+    },
+    {
+     "t": 29.36,
+     "text": "lập phương vuông"
+    },
+    {
+     "t": 30.02,
+     "text": "vức như viên"
+    },
+    {
+     "t": 30.64,
+     "text": "xúc xắc!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 31.41,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 31.66,
+     "text": "Nhờ đoạn ruột"
+    },
+    {
+     "t": 32.46,
+     "text": "già có độ"
+    },
+    {
+     "t": 33.04,
+     "text": "co giãn không"
+    },
+    {
+     "t": 33.68,
+     "text": "đồng đều,"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 34.39,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 35.54,
+     "side": "R",
+     "y": 650,
+     "value": "100 VIÊN",
+     "label": "gạch phân lập phương",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 34.64,
+     "text": "mỗi đêm nó"
+    },
+    {
+     "t": 35.2,
+     "text": "đúc ra 100"
+    },
+    {
+     "t": 35.76,
+     "text": "viên gạch phân"
+    },
+    {
+     "t": 36.5,
+     "text": "vuông để đánh"
+    },
+    {
+     "t": 37.16,
+     "text": "dấu lãnh thổ"
+    },
+    {
+     "t": 37.7,
+     "text": "trên mỏm đá"
+    },
+    {
+     "t": 38.32,
+     "text": "mà không sợ"
+    },
+    {
+     "t": 39.2,
+     "text": "bị lăn xuống rãnh!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 39.99,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "t": 43.48,
+     "side": "L",
+     "y": 680,
+     "value": "40 KM/H",
+     "label": "nước rút thần tốc",
+     "target": [
+      0.38,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 40.24,
+     "text": "Khi cần chạy"
+    },
+    {
+     "t": 40.8,
+     "text": "trốn, gã xe"
+    },
+    {
+     "t": 41.66,
+     "text": "tăng tròn béo"
+    },
+    {
+     "t": 42.2,
+     "text": "này có thể"
+    },
+    {
+     "t": 42.64,
+     "text": "phóng nước rút"
+    },
+    {
+     "t": 43.32,
+     "text": "tới 40km/h!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 44.83,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 45.08,
+     "text": "Một cỗ xe"
+    },
+    {
+     "t": 45.58,
+     "text": "bọc thép vừa"
+    },
+    {
+     "t": 46.08,
+     "text": "lầy lội,"
+    },
+    {
+     "t": 46.9,
+     "text": "vừa sở hữu"
+    },
+    {
+     "t": 47.54,
+     "text": "thiết kế cơ"
+    },
+    {
+     "t": 48.0,
+     "text": "khí đỉnh cao"
+    },
+    {
+     "t": 48.62,
+     "text": "nhất hành tinh!"
+    }
+   ]
+  }
+ ]
+}

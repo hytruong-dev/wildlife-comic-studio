@@ -1,0 +1,83 @@
+{
+  "title_lines": [
+    "CHỒN GULO 15KG CƯỚP MỒI",
+    "GẤU XÁM 300KG?!"
+  ],
+  "beats": [
+    {
+      "at_s": 0.0, "draw_s": 1.0, "image": "assets/shorts/S01.png",
+      "stickers": [
+        {"at": "15kg", "side": "L", "y": 960, "value": "15 KG", "label": "Chồn Gulo tí hon", "target": [0.5, 0.75]},
+        {"at": "300kg", "side": "R", "y": 560, "value": "300 KG", "label": "Gấu Xám Grizzly", "target": [0.5, 0.3]}
+      ]
+    },
+    {
+      "at": "Kẻ điên rồ bậc nhất", "draw_s": 1.0, "image": "assets/shorts/S02.png",
+      "stickers": [
+        {"at": "Wolverine", "side": "L", "y": 640, "value": "WOLVERINE", "label": "tên tiếng Anh", "target": [0.5, 0.35]}
+      ]
+    },
+    {
+      "at": "Với bốn bàn chân bè", "draw_s": 1.0, "image": "assets/shorts/S11.png",
+      "stickers": [
+        {"at": "ủng trượt tuyết", "side": "R", "y": 1000, "value": "ỦNG TUYẾT", "label": "bàn chân bè rộng", "target": [0.45, 0.85]}
+      ]
+    },
+    {
+      "at": "gã tí hon này lướt", "draw_s": 1.0, "image": "assets/shorts/S03.png",
+      "stickers": [
+        {"at": "sa lầy", "side": "L", "y": 960, "value": "SA LẦY!", "label": "mồi khổng lồ", "target": [0.5, 0.75]}
+      ]
+    },
+    {
+      "at": "Bộ lông kỵ nước", "draw_s": 1.0, "image": "assets/shorts/S12.png",
+      "stickers": [
+        {"at": "-40°C", "side": "R", "y": 700, "value": "-40°C", "label": "lông không đóng băng", "target": [0.25, 0.5]}
+      ]
+    },
+    {
+      "at": "còn chiếc răng hàm", "draw_s": 1.0, "image": "assets/shorts/S04.png",
+      "stickers": [
+        {"at": "90°", "side": "L", "y": 700, "value": "90°", "label": "răng hàm xoay ngang", "target": [0.5, 0.5]}
+      ]
+    },
+    {
+      "at": "Nó có thể chạy", "draw_s": 1.0, "image": "assets/shorts/S05.png",
+      "stickers": [
+        {"at": "70km", "side": "R", "y": 760, "value": "70 KM", "label": "chạy không nghỉ", "target": [0.5, 0.45]}
+      ]
+    },
+    {
+      "at": "và khi bị bao", "draw_s": 1.0, "image": "assets/shorts/S06.png",
+      "stickers": [
+        {"at": "xạ hôi", "side": "L", "y": 980, "value": "XẠ HÔI", "label": "vũ khí hóa học", "target": [0.5, 0.75]}
+      ]
+    },
+    {
+      "at": "Nhưng nghịch lý hài", "draw_s": 1.0, "image": "assets/shorts/S13.png",
+      "stickers": [
+        {"at": "bất bại", "side": "R", "y": 700, "value": "BẤT BẠI", "label": "mà khóc nhè", "target": [0.5, 0.4]}
+      ]
+    },
+    {
+      "at": "cả đời lủi thủi", "draw_s": 1.0, "image": "assets/shorts/S07.png",
+      "stickers": [
+        {"at": "một mình", "side": "L", "y": 800, "value": "CÔ ĐỘC", "label": "cả đời một mình", "target": [0.5, 0.55]}
+      ]
+    },
+    {
+      "at": "Muốn biết gã tí", "draw_s": 1.0, "image": "assets/shorts/S09.png",
+      "stickers": []
+    },
+    {
+      "at": "Bấm xem ngay", "draw_s": 0.8, "image": "assets/shorts/S08.png",
+      "stickers": [
+        {"at": "Tập tám", "side": "R", "y": 700, "value": "XEM TẬP 8", "label": "bản dài đầy đủ", "target": [0.5, 0.6]}
+      ]
+    },
+    {
+      "at": "vì gã này", "draw_s": 0.5, "image": "assets/shorts/S10.png",
+      "stickers": []
+    }
+  ]
+}

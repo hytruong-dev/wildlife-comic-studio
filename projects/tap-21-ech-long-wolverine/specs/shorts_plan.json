@@ -1,0 +1,116 @@
+{
+ "title_lines": [
+  "TỰ BẺ XƯƠNG ĐÂM",
+  "THỦNG DA LÀM VUỐT?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "mà vì nó vừa",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "Xin giới thiệu Ếch",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "13cm",
+     "side": "R",
+     "y": 580,
+     "value": "13 CM",
+     "label": "dị nhân suối Trung Phi",
+     "target": [
+      0.62,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Dưới lớp da 8",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "at": "8 ngón chân sau",
+     "side": "L",
+     "y": 560,
+     "value": "8 NGÓN",
+     "label": "giấu dao bấm xương",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Khi bị kẻ thù",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "và đẩy thẳng xương",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "Một nhà tự nhiên",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "Chưa hết, đến mùa",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "at": "0,4mm",
+     "side": "R",
+     "y": 580,
+     "value": "0,4 MM",
+     "label": "sợi nhú da mạch máu",
+     "target": [
+      0.55,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Lý do cực kỳ",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "để hút thêm oxy",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  },
+  {
+   "at": "Một gã dị nhân",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  },
+  {
+   "at": "đúng là siêu anh",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": []
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "title_lines": [
+  "ĐẠI BÁC 218 DECIBEL:",
+  "NÓNG 5.000 ĐỘ C!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Bạn có tin một",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "at": "4cm",
+     "side": "R",
+     "y": 620,
+     "value": "4cm",
+     "label": "kích thước tí hon",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Đây là Tôm Súng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "Thứ nhất, chiếc càng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "at": "8.000g",
+     "side": "L",
+     "y": 620,
+     "value": "8.000g",
+     "label": "gia tốc cực đại",
+     "target": [
+      0.25,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "tạo ra âm thanh",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "at": "218 dB",
+     "side": "R",
+     "y": 620,
+     "value": "218 dB",
+     "label": "âm thanh cực hạn",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Thứ hai, cú kẹp",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "at": "5.000°C",
+     "side": "L",
+     "y": 620,
+     "value": "5.000°C",
+     "label": "nhiệt độ lõi nổ",
+     "target": [
+      0.25,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "nóng ngang bề mặt",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "Thứ ba, vào Thế",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "làm điếc đặc toàn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "at": "Hải quân Hoa Kỳ",
+     "side": "R",
+     "y": 620,
+     "value": "SONAR MỸ",
+     "label": "Thế chiến II",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Dù sở hữu đại",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  },
+  {
+   "at": "phải thuê vệ sĩ",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  },
+  {
+   "at": "Đừng bao giờ đánh",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": []
+  }
+ ]
+}

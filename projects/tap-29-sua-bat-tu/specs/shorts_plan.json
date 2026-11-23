@@ -1,0 +1,86 @@
+{
+ "title_lines": [
+  "TỰ BIẾN NGƯỢC THÀNH SƠ SINH",
+  "ĐỂ BẤT TỬ MÃI MÃI?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Xin giới thiệu Sứa",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "at": "4,5mm",
+     "side": "R",
+     "y": 620,
+     "value": "CHỈ 4,5MM",
+     "label": "kích thước siêu nhỏ",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Khi bị đói, bị",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "Thay vào đó, nó",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "toàn bộ tế bào cơ bắp",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "Khối cơ thể sứa",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "rồi từ đó nhân",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "at": "hàng trăm",
+     "side": "L",
+     "y": 620,
+     "value": "100 BẢN",
+     "label": "nhân bản vô tính",
+     "target": [
+      0.38,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Miễn là không bị",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "trở thành sinh vật",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  }
+ ]
+}

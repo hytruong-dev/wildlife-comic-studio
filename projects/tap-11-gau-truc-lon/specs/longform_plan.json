@@ -1,0 +1,688 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "00 SÁNG: BẮT ĐẦU CA NHAI TRE CẬT LỰC CỦA KẺ PHẢN BỘI TỔ TIÊN",
+   "hook": "BẮT ĐẦU CA NHAI TRE CỦA KẺ PHẢN BỘI TỔ TIÊN",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kính thưa quý vị",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chiếc đồng hồ sinh",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không tập thể dục",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bốc một thanh",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": [
+      "rôm rốp"
+     ]
+    },
+    {
+     "at": "Alo trường quay",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo trường quay",
+     "image": "assets/long/L07.png",
+     "stickers": [
+      {
+       "at": "14 tiếng",
+       "side": "R",
+       "y": 360,
+       "value": "14 TIẾNG",
+       "label": "nhai tre liên tục",
+       "target": [
+        0.7,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Điều nghịch lý đến",
+     "image": "assets/long/L08.png",
+     "stickers": [
+      {
+       "at": "19 triệu năm",
+       "side": "L",
+       "y": 380,
+       "value": "19 TR NĂM",
+       "label": "tổ tiên thú ăn thịt",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hộp sọ của nó",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "khoảng 2 triệu năm",
+     "image": "assets/long/L10.png",
+     "stickers": [
+      {
+       "at": "2 triệu năm",
+       "side": "R",
+       "y": 380,
+       "value": "2 TR NĂM",
+       "label": "pha bẻ lái ăn chay",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "mất đi cảm nhận",
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "99%",
+       "side": "L",
+       "y": 360,
+       "value": "99%",
+       "label": "khẩu phần là tre",
+       "target": [
+        0.3,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học phát hiện",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đối với Chiến thần",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy cùng chúng tôi",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "06:00 SÁNG"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "00 TRƯA: GIẢI MÃ NGÓN TAY CÁI THỨ SÁU VÀ HÀM NGHIỀN XƯƠNG",
+   "hook": "XƯƠNG CỔ TAY BIẾN DỊ THÀNH NGÓN TAY CÁI BÓC VỎ TRE",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L15.png",
+     "stickers": [
+      {
+       "at": "10kg",
+       "side": "L",
+       "y": 380,
+       "value": "10 KG",
+       "label": "xử lý trong 4 tiếng",
+       "target": [
+        0.4,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Quý vị có bao giờ",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Camera góc siêu cận",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "6 ngón tay",
+       "side": "R",
+       "y": 360,
+       "value": "6 NGÓN TAY",
+       "label": "bàn tay bóc vỏ tre",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Này phóng viên ơi",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bác nhân chứng nói",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trên thực tế, ngón",
+     "image": "assets/long/L21.png",
+     "stickers": [
+      {
+       "at": "xương vừng",
+       "side": "L",
+       "y": 380,
+       "value": "XƯƠNG VỪNG",
+       "label": "ngón tay cái giả",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "giúp nó kẹp chặt",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa dừng lại ở",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hai bên má phúng",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Toàn bộ niêm mạc",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vũ khí của mãnh",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "10:00 TRƯA"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "00 CHIỀU: CỖ MÁY TIÊU HÓA CHỈ HẤP THỤ 17% VÀ THẢI 25KG PHÂN",
+   "hook": "TIÊU HÓA SIÊU KÉM CHỈ HẤP THỤ 17% DINH DƯỠNG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quý vị hãy giữ",
+     "image": "assets/long/L28.png",
+     "stickers": [
+      {
+       "at": "38kg",
+       "side": "R",
+       "y": 360,
+       "value": "38 KG",
+       "label": "tre nạp mỗi ngày",
+       "target": [
+        0.72,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng vì mang ruột",
+     "image": "assets/long/L29.png",
+     "stickers": [
+      {
+       "at": "17%",
+       "side": "L",
+       "y": 380,
+       "value": "17%",
+       "label": "hấp thụ dinh dưỡng",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tới 83% lượng",
+     "image": "assets/long/L30.png",
+     "stickers": [
+      {
+       "at": "83%",
+       "side": "R",
+       "y": 380,
+       "value": "83%",
+       "label": "thải ra ngoài",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Xin thông báo một",
+     "image": "assets/long/L31.png",
+     "stickers": [
+      {
+       "at": "40 lần",
+       "side": "L",
+       "y": 360,
+       "value": "40 LẦN",
+       "label": "đi vệ sinh mỗi ngày",
+       "target": [
+        0.4,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "thải ra từ 20kg",
+     "image": "assets/long/L32.png",
+     "stickers": [
+      {
+       "at": "25kg",
+       "side": "R",
+       "y": 360,
+       "value": "25 KG",
+       "label": "phân tre mỗi ngày",
+       "target": [
+        0.68,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Vừa ngồi nhai cành",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà sinh vật",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây chính xác là",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vì 99% thức",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tại Tứ Xuyên, người",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ai mà ngờ chất",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "14:00 CHIỀU"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "00 HOÀNG HÔN: NHỮNG PHA NGÃ CÂY KINH ĐIỂN VÀ NGỦ BẤT CHẤP TƯ THẾ",
+   "hook": "NGỦ BẤT CHẤP TƯ THẾ VÀ LĂN LỘN TỰ NHIÊN",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quý vị hãy nhìn",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó ngủ trong những",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ối ối bác phóng",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Rắc! Bịch! Một",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": [
+      "Rắc",
+      "Bịch"
+     ]
+    },
+    {
+     "at": "Nhờ có lớp mỡ",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học phát hiện",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngay cả bộ lông",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đốm đen quanh mắt",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chiếc đuôi ngắn ngủn",
+     "image": "assets/long/L47.png",
+     "stickers": [
+      {
+       "at": "15cm",
+       "side": "L",
+       "y": 380,
+       "value": "15 CM",
+       "label": "chiếc đuôi chổi quét",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Ngã cây như cơm",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "18:00 HOÀNG HÔN"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "00 ĐÊM: CỬA SỔ THỤ THAI 48 GIỜ VÀ CỤC BÔNG 100G BÉ NHƯ THỎI SON",
+   "hook": "CỬA SỔ THỤ THAI DUY NHẤT 24-72 GIỜ MỖI NĂM",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chúng tôi xin chuyển",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "mỗi năm, con cái",
+     "image": "assets/long/L51.png",
+     "stickers": [
+      {
+       "at": "24-72 giờ",
+       "side": "R",
+       "y": 360,
+       "value": "24-72 GIỜ",
+       "label": "cửa sổ thụ thai",
+       "target": [
+        0.68,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đúng thế thưa quý",
+     "image": "assets/long/L52.png",
+     "stickers": [
+      {
+       "at": "365 ngày",
+       "side": "L",
+       "y": 380,
+       "value": "365 NGÀY",
+       "label": "chỉ có 1 cơ hội",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí các chuyên",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và điều kỳ diệu",
+     "image": "assets/long/L54.png",
+     "stickers": [
+      {
+       "at": "100g",
+       "side": "L",
+       "y": 360,
+       "value": "100 GAM",
+       "label": "bé như thỏi son",
+       "target": [
+        0.35,
+        0.45
+       ]
+      },
+      {
+       "at": "1/900",
+       "side": "R",
+       "y": 480,
+       "value": "1/900",
+       "label": "trọng lượng mẹ",
+       "target": [
+        0.65,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhỏ thó bằng một",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa kể, các cô",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi nhận thấy những",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cho đến khi siêu",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "22:00 ĐÊM"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "00 RẠNG SÁNG: KẾT THÚC 24H SINH TỒN VÀ BÀI HỌC TỪ CHÚ GẤU BÉO",
+   "hook": "BÀI HỌC SINH TỒN VÀ BẮC CẦU SANG TẬP 12 HÀ MÃ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhiều người từng chế",
+     "image": "assets/long/L58.png",
+     "stickers": [
+      {
+       "at": "2 triệu năm",
+       "side": "L",
+       "y": 380,
+       "value": "2 TR NĂM",
+       "label": "chiến thần sinh tồn",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bằng cách hạ thấp",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đồng hồ lại sắp",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở tập tiếp theo,",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hà Mã! Tuyệt đối",
+     "image": "assets/long/L62.png",
+     "stickers": [
+      {
+       "at": "1.800",
+       "side": "R",
+       "y": 360,
+       "value": "1.800 PSI",
+       "label": "lực cắn xe tăng",
+       "target": [
+        0.7,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo trường quay,",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kính chúc quý vị",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "04:00 SÁNG"
+  }
+ }
+}

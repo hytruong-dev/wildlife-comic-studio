@@ -1,0 +1,296 @@
+{
+  "episode_no": 36,
+  "animal": "Chim Gõ Kiến",
+  "slug": "tap-36-chim-go-kien",
+  "format": "F2",
+  "persona": "ky_su_vu_khi",
+  "nickname": "Cỗ Máy Giảm Chấn Rừng Xanh",
+  "sources": [
+    "Wang et al. 2011, PLoS ONE — Cơ chế hấp thụ xung động chống chấn thương sọ não 1.200G ở chim gõ kiến",
+    "Gibson 2006, Journal of Zoology — Cấu trúc xương móng hyoid apparatus quấn quanh hộp sọ làm dây đai an toàn",
+    "Yoon & Park 2011, Bioinspiration & Biomimetics — Thiết kế vi cơ điện tử giảm chấn phỏng sinh học từ mỏ chim gõ kiến",
+    "Oda et al. 2006, Computers & Structures — Mô phỏng phần tử hữu hạn hộp sọ và màng nhầy đệm não",
+    "May et al. 1976, The Lancet — Cơ chế bảo vệ nhãn cầu bằng mí mắt thứ ba đóng trong một mili-giây"
+  ],
+  "whisper_prompt": "Chim Gõ Kiến, Cỗ Máy Giảm Chấn Rừng Xanh, Picidae, Hyoid, 1.200G, giảm chấn hộp sọ, xương móng, sọ xốp bọt khí, mí mắt thứ ba, NASA, F1",
+  "display_fix": {
+    "Tập ba mươi sáu": "Tập 36",
+    "Tập ba mươi bảy": "Tập 37",
+    "mười hai ngàn lần": "12.000 lần",
+    "mười hai ngàn chu kỳ": "12.000 chu kỳ",
+    "hai mươi lần": "20 lần",
+    "hai mươi nhịp": "20 nhịp",
+    "thế kỷ hai mươi mốt": "thế kỷ 21",
+    "một giây": "1 giây",
+    "một mili-giây": "1 mili-giây",
+    "hai mươi lăm kilômét trên giờ": "25 km/h",
+    "Một ngàn hai trăm": "1.200",
+    "một ngàn hai trăm": "1.200",
+    "một trăm hai mươi lần": "120 lần",
+    "một trăm": "100",
+    "mười lần": "10 lần",
+    "mười ngàn khung hình": "10.000 khung hình",
+    "ba lớp": "3 lớp",
+    "bốn cơ chế": "4 cơ chế",
+    "sáu mươi độ": "60°",
+    "năm mươi phần trăm": "50%",
+    "chín mươi chín phần trăm": "99%",
+    "chín mươi chín phẩy bảy phần trăm": "99,7%",
+    "không phẩy ba phần trăm": "0,3%",
+    "hàng triệu năm": "hàng triệu năm",
+    "triệu năm": "triệu năm",
+    "Hyoid": "Hyoid",
+    "Picidae": "Picidae",
+    "Black & Decker": "Black & Decker",
+    "NASA": "NASA",
+    "F1": "F1"
+  },
+  "voice": {
+    "tempo_long": 1.11,
+    "tempo_shorts_min": 1.12,
+    "min_long_s": 510,
+    "max_long_s": 900
+  },
+  "art": {
+    "decor": "steampunk brass gears, technical calipers, millimeter ruler markings, CAD blueprint grid lines, kinetic shockwave rings, industrial rivets",
+    "shorts_mascot": "A funny cartoon woodpecker wearing steampunk engineer goggles and a tiny hardhat, holding a high-tech wrench",
+    "thumb_bg": "deep navy blue technical blueprint background with glowing cyan and gold engineering schematics",
+    "thumb_title": [
+      "BẢN VẼ GIẢM CHẤN",
+      "HỘP SỌ 1200G?!"
+    ],
+    "thumb_scene": "a cool cartoon woodpecker with high-tech engineer goggles pecking violently into a metallic tree trunk with explosive shockwave rings",
+    "thumb_gag": "a human crash-test dummy wearing a shattered helmet looking dizzy with swirling stars",
+    "shorts_banner_lines": [
+      "HỘP SỌ 1200G:",
+      "CHIM GÕ KIẾN!"
+    ],
+    "style_label": "phong cách bản vẽ kỹ thuật cơ khí Da Vinci & Steampunk Schematic (Kinetic Technical Crosshatch)",
+    "visual_style": "tỉ lệ {AR}; phong cách bản vẽ kỹ thuật cơ khí Leonardo Da Vinci & Steampunk Schematic (Kinetic Technical Crosshatch & Blueprint): nét bút kim kỹ thuật chuẩn xác từng milimét, các đường nét gạch bóng crosshatch cơ học tinh vi, chi tiết bánh răng đồng thau lộ cơ chế, thước kẹp caliper, vòng đo chấn động shockwave 1200G, sơ đồ vạch kích thước CAD màu nâu mực sepia và xanh lam blueprint kỹ thuật; NỀN TRẮNG TINH hoàn toàn, không watermark, không logo; chủ thể nằm gọn trong khung, chừa lề trắng"
+  },
+  "seo": {
+    "title": "Bản Vẽ Giảm Chấn Hộp Sọ: Đập Đầu 12.000 Lần/Ngày Với Lực 1.200G Nhờ Chiếc Lưỡi Quấn Não?! | Tập 36",
+    "hook_paragraph": "Chim Gõ Kiến (Picidae) đập đầu vào thân cây gỗ cứng với tần số hai mươi lần mỗi giây và gia tốc cực hạn lên tới một ngàn hai trăm G — gấp một trăm hai mươi lần lực gây tử vong cho con người. Điều gì giúp cỗ máy cơ khí này không bị chấn thương sọ não hay xuất huyết nội sọ? Hãy cùng Kỹ sư trưởng giải mã bốn lớp phòng vệ sinh học đỉnh cao!",
+    "bullets": [
+      "Gia tốc va chạm 1.200G: Đập đầu 12.000 lần mỗi ngày với vận tốc 25 km/h không hề đau đầu",
+      "Chiếc lưỡi Hyoid thần thánh: Dài gấp 3 lần mỏ, quấn trọn vòng quanh hộp sọ đóng vai trò dây đai an toàn",
+      "Cấu trúc xương sọ xốp bọt khí: Hấp thụ và phân tán 99,7% xung lực va đập thành nhiệt năng",
+      "Mỏ bất đối xứng: Hàm dưới dài hơn hàm trên dẫn hướng sóng xung kích đi xuống cột sống thay vì não bộ",
+      "Mí mắt thứ ba chớp trong 1 mili-giây: Khóa chặt nhãn cầu chống áp suất đẩy mắt văng ra ngoài",
+      "Ứng dụng quân sự và thể thao: NASA và các hãng mũ bảo hiểm F1 học tập cấu trúc chống sốc của loài chim"
+    ],
+    "question": "Giữa chiếc lưỡi quấn quanh sọ làm dây đai an toàn và cấu trúc xương xốp hấp thụ 99,7% xung lực, giải pháp cơ khí nào của Chim Gõ Kiến khiến bạn kinh ngạc nhất?",
+    "next_teaser": "bác sĩ cấp cứu sa mạc mang túi mỡ dự trữ kỳ diệu và vòm họng nhai nuốt gai xương rồng",
+    "hashtag_broad": "#thếgiớiđộngvật",
+    "hashtag_animal": "#chimgõkiến",
+    "tags": [
+      "chim gõ kiến",
+      "picidae",
+      "giảm chấn hộp sọ",
+      "cơ khí sinh học",
+      "khoa học kỳ thú",
+      "vẽ chuyện hoang dã",
+      "whiteboard animation"
+    ],
+    "shorts_title": "Bí kíp Chim Gõ Kiến đập đầu 1.200G mà não không tổn thương?!",
+    "shorts_desc": "Chiếc lưỡi của Chim Gõ Kiến dài gấp 3 lần mỏ và quấn trọn quanh hộp sọ như chiếc dây đai an toàn xe hơi!",
+    "shorts_tags": [
+      "chim gõ kiến",
+      "khoa học",
+      "vẽ chuyện hoang dã",
+      "shorts"
+    ],
+    "en_title": "Woodpecker: The 1,200G Shock-Absorbing Machine of Nature! | EP36",
+    "en_hook": "Discover how woodpeckers endure 12,000 head impacts daily at 1,200G acceleration without brain injury!",
+    "en_shorts_title": "How Do Woodpeckers Endure 1,200G Head Impacts?!"
+  },
+  "longform": {
+    "scenes": [
+      {
+        "id": "scene01",
+        "badge": "HỒ SƠ THỬ NGHIỆM VA ĐẬP",
+        "banner_title": "THỬ THÁCH 1.200G TỬ THẦN",
+        "chapter_title": "Khởi động phòng thử nghiệm: Bài toán gia tốc một ngàn hai trăm G",
+        "hook": "KỸ SƯ TRƯỞNG KHỞI ĐỘNG MÁY ĐO GIA TỐC: ĐẬP ĐẦU HAI MƯƠI LẦN MỖI GIÂY VỚI LỰC 1.200G VẪN BÌNH AN VÔ SỰ",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "text": "Chào mừng toàn thể các kỹ sư, chuyên gia cơ khí và các bạn đam mê công nghệ vật liệu bước vào Phòng thử nghiệm động lực học va đập của thiên nhiên hoang dã! [laughter] Hôm nay, chúng ta sẽ cùng nhau bóc tách bản vẽ kỹ thuật của một cỗ máy khoan đục kỳ vĩ nhất mà mẹ thiên nhiên từng sáng tạo ra. Đối tượng thí nghiệm trên bàn mổ cơ khí của chúng ta hôm nay mang tên Chim Gõ Kiến, hay được các kỹ sư vũ khí gọi bằng mật danh Cỗ Máy Giảm Chấn Rừng Xanh! Nếu các bạn từng bị va đầu vào cánh cửa tủ bếp và cảm thấy hoa mắt chóng mặt suốt nửa ngày, thì xin hãy chuẩn bị tinh thần để lắng nghe những thông số chấn động sau đây!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Báo cáo thông số kỹ thuật: Cảm biến gia tốc ghi nhận va đập đạt đỉnh một ngàn hai trăm G!",
+            "cast": "co_tro_ly"
+          },
+          {
+            "text": "[surprise-oh] Một ngàn hai trăm G thưa các đồng nghiệp! Để tôi làm một phép so sánh cơ học cho các bạn dễ hình dung: Một phi công tiêm kích quân sự lão luyện khi thực hiện động tác ngoặt gấp chỉ chịu được tối đa chín G trước khi máu dồn xuống chân và ngất lịm hoàn toàn. Một vụ tai nạn giao thông xe hơi thảm khốc với lực va chạm khoảng một trăm G đã đủ sức làm hộp sọ người vỡ vụn và tử vong ngay tại chỗ! Thế nhưng, Cỗ Máy Giảm Chấn Rừng Xanh của chúng ta đập đầu vào thân gỗ lim cứng như đá với vận tốc hai mươi lăm kilômét trên giờ, tần số hai mươi lần mỗi giây, và lặp lại liên tục mười hai ngàn lần mỗi ngày mà không hề bị xuất huyết não, không choáng váng và cũng chẳng cần uống lấy một viên thuốc giảm đau nào!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Nếu các kỹ sư chế tạo xe hơi của loài người áp dụng những tiêu chuẩn an toàn thông thường lên loài chim này, họ chắc chắn sẽ tuyên bố đây là một điều bất khả thi về mặt vật lý. Nhưng đối với thiên nhiên, không có gì là bất khả thi một khi bài toán phân tán xung lực đã được giải quyết bằng bốn tầng giảm chấn cơ học hoàn hảo! Hãy cùng tôi lật giở từng trang bản vẽ giải phẫu để khám phá bí mật kinh thiên động địa này!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Các số liệu đo đạc cho thấy: Mỗi cú va chạm chỉ diễn ra trong vòng chưa đầy một phần ngàn giây. Nhưng lực cản quán tính sinh ra lại tương đương với việc một chiếc xe bọc thép hạng nặng đâm trực diện vào bức tường bê tông cốt thép ở tốc độ tối đa! Sự bền bỉ phi thường này chính là nguồn cảm hứng vô tận cho ngành chế tạo giáp bảo vệ hiện đại!",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene02",
+        "badge": "LỚP GIẢM CHẤN #1",
+        "banner_title": "CHIẾC LƯỠI DÂY ĐAI AN TOÀN",
+        "chapter_title": "Lớp phòng vệ số 1: Chiếc lưỡi quấn quanh sọ não như dây đai xe đua",
+        "hook": "GIẢI PHÃU HỆ CƠ XƯƠNG HYOID: CHIẾC LƯỠI KỲ LẠ DÀI GẤP BA LẦN MỎ QUẤN TRỌN MỘT VÒNG HỘP SỌ",
+        "mood": "tram_bi_an",
+        "parts": [
+          {
+            "text": "Hãy bắt đầu với chi tiết cơ khí kỳ dị và độc nhất vô nhị nhất trong toàn bộ giới động vật có xương sống: Hệ cơ xương móng mang tên Hyoid. Khi nhìn vào chiếc mỏ nhọn hoắt của chim gõ kiến, nhiều người cứ nghĩ rằng chiếc lưỡi bên trong cũng ngắn ngủn như lưỡi của loài gà hay chim sẻ thông thường. [laughter] Nhưng khi các nhà giải phẫu học rạch lớp da đầu của Cỗ Máy Giảm Chấn Rừng Xanh, họ đã hoàn toàn chết lặng trước phát hiện chấn động!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Thưa Kỹ sư trưởng, chiếc lưỡi của nó không nằm trong họng mà chạy ngược lên đỉnh đầu!",
+            "cast": "chu_ngo_ngac"
+          },
+          {
+            "text": "[surprise-oh] Quá chính xác thưa trợ lý tập sự! Chiếc lưỡi của chim gõ kiến dài gấp ba lần chiều dài chiếc mỏ của nó. Gốc của chiếc lưỡi không bắt đầu từ cuống họng mà tách ra làm hai nhánh cơ xương đàn hồi, luồn ngược qua phía sau cổ, bò vòng lên tận đỉnh hộp sọ, đi qua giữa hai hốc mắt rồi mới chui tọt vào lỗ mũi bên phải! Các bạn hãy tưởng tượng xem: Toàn bộ hộp sọ chứa bộ não non nớt được ôm chặt lấy bởi một hệ thống dây đai cơ bắp siêu co giãn, hệt như chiếc dây đai an toàn năm điểm của một chiếc xe đua Công thức Một ôm chặt lấy người lái!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Trong đúng một phần ngàn giây trước khoảnh khắc chiếc mỏ va chạm vào thân cây gỗ, toàn bộ hệ cơ xương móng Hyoid này lập tức gồng cứng lại và co thắt đồng bộ. Chúng ghìm chặt khối não bộ vào vị trí cố định, triệt tiêu hoàn toàn chuyển động rung lắc quán tính qua lại. Nhờ đó, não bộ của chim gõ kiến không bị đập dội vào thành xương sọ bên trong, loại bỏ hoàn toàn nguy cơ dập não và chấn động nội sọ tử thần!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Chưa dừng lại ở đó, hai nhánh xương móng này còn chứa các sợi gân đàn hồi cực đại có thể kéo dài thêm năm mươi phần trăm chiều dài nghỉ ngơi. Khi chim gõ kiến thò lưỡi sâu vào tổ kiến trong thân cây, hệ thống này đóng vai trò như chiếc cần cẩu thủy lực vươn xa, vừa bắt mồi vừa là hệ thống treo giảm xóc chủ động!",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene03",
+        "badge": "LỚP GIẢM CHẤN #2",
+        "banner_title": "HỘP SỌ XỐP BỌT KHÍ",
+        "chapter_title": "Lớp phòng vệ số 2: Vật liệu xốp bọt khí nano hấp thụ chín mươi chín phần trăm xung lực",
+        "hook": "BẢN VẼ CẤU TRÚC VẬT LIỆU COMPOSITE: XƯƠNG SỌ ĐỆM KHÍ PHÂN TÁN 99,7% NĂNG LƯỢNG VA ĐẬP THÀNH NHIỆT",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "text": "Nếu chiếc dây đai cơ bắp Hyoid đảm nhận vai trò giữ chặt bộ não không bị xô lệch, thì bức tường bảo vệ thứ hai lại nằm ở chính cấu trúc vật liệu làm nên hộp sọ của loài chim này. Ở con người chúng ta, xương sọ là một khối xương đặc cứng và giòn. Khi đầu chúng ta va chạm mạnh, xung lực truyền thẳng qua lớp xương cứng và dội trực tiếp vào mô não mềm mại. Nhưng dưới kính hiển vi điện tử quét nano, hộp sọ của Cỗ Máy Giảm Chấn Rừng Xanh lại là một tuyệt tác vật liệu composite siêu việt!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Báo cáo phân tích vật liệu: Xương sọ chứa hàng triệu khoang rỗng xốp xơ xốp như miếng bọt biển!",
+            "cast": "cong_to_vien"
+          },
+          {
+            "text": "[laughter] Rất chính xác! Các nhà khoa học tại Đại học Công nghệ Bắc Kinh đã phát hiện xương trán và xương chẩm của chim gõ kiến có cấu trúc xốp dạng tổ ong với mật độ rỗng cực kỳ dày đặc. Lớp xương xốp này hoạt động hệt như lớp đệm cao su giảm chấn hoặc lớp bọt xốp EPS bên trong mũ bảo hiểm cao cấp của các phi hành gia NASA! Khi cú va đập kinh hoàng một ngàn hai trăm G xảy ra, chín mươi chín phẩy bảy phần trăm năng lượng cơ học bị hấp thụ và tiêu tán hoàn toàn bên trong các vi khoang rỗng xốp này!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Chỉ có vỏn vẹn không phẩy ba phần trăm năng lượng va đập còn sót lại truyền được tới não bộ! Toàn bộ lượng xung lực khổng lồ bị hấp thụ sẽ chuyển hóa trực tiếp thành nhiệt năng làm nóng hộp sọ lên. Đó chính là lý do vì sao sau mỗi đợt gõ liên hồi hai mươi nhịp, chim gõ kiến bắt buộc phải dừng lại nghỉ vài giây để não bộ tỏa nhiệt làm mát, tránh cho các tế bào thần kinh bị sốt nhiệt cục bộ!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Các mô hình mô phỏng phần tử hữu hạn ba chiều khẳng định: Sự phân bố mật độ xương xốp không hề ngẫu nhiên mà dày đặc nhất tại đúng điểm tiếp nhận véc-tơ lực chính diện. Thiên nhiên đã tối ưu hóa cấu trúc chịu lực này hoàn hảo hơn bất kỳ thuật toán trí tuệ nhân tạo nào của thế kỷ hai mươi mốt!",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene04",
+        "badge": "LỚP GIẢM CHẤN #3",
+        "banner_title": "CHIẾC MỎ BẤT ĐỐI XỨNG",
+        "chapter_title": "Lớp phòng vệ số 3: Thiết kế mỏ lệch hướng chuyển dòng năng lượng xuống thân",
+        "hook": "KỸ THUẬT PHÂN TÁN DÒNG LỰC: HÀM DƯỚI DÀI HƠN HÀM TRÊN DẪN SÓNG XUNG KÍCH VỀ CỘT SỐNG",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "text": "Bây giờ, xin mời các kỹ sư chuyển ống kính quan sát xuống bộ phận tiền tuyến chịu trận đầu tiên: Chiếc mỏ nhọn hoắt như mũi đục kim cương. Bằng mắt thường nhìn lướt qua, ai cũng nghĩ hai nửa mỏ trên và mỏ dưới của chim gõ kiến đối xứng hoàn hảo như một chiếc kẹp gắp. [laughter] Nhưng các phép đo đạc ba chiều siêu chính xác bằng máy quét laser công nghiệp đã lật tẩy một bí mật thiết kế cơ khí tài tình!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Ủa Kỹ sư trưởng ơi, tôi đo thấy mỏ dưới của nó dài hơn mỏ trên một đoạn rõ ràng kìa!",
+            "cast": "ga_khong_lo"
+          },
+          {
+            "text": "[surprise-oh] Mắt nhìn rất chuẩn thưa bác thợ cả! Hàm dưới của chim gõ kiến luôn dài hơn hàm trên và có cấu trúc xương đặc hơn hẳn. Khi chiếc mỏ gõ mạnh vào thân cây gỗ, hàm dưới sẽ chạm vào mặt gỗ trước hàm trên trong một phần triệu giây. Cú va chạm lệch pha này tạo ra một góc bẻ hướng lực sáu mươi độ, hướng toàn bộ sóng xung kích uốn cong đi xuống dưới vòm họng, truyền dọc theo cột sống cổ dày đặc cơ bắp và tiêu tán xuống lồng ngực to lớn, thay vì truyền thẳng băng lên hộp sọ!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Chưa hết, lớp vỏ ngoài của mỏ được cấu tạo từ các phiến sừng keratin xếp lớp chồng lên nhau như vảy cá, có khả năng biến dạng đàn hồi để triệt tiêu chấn động trước khi lực truyền vào xương hàm. Đây chính là nguyên mẫu hoàn hảo mà các kỹ sư quân sự hiện đại đã sao chép để chế tạo mũi khoan bê tông và đầu đạn xuyên giáp chống dội ngược!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Hơn thế nữa, các cơ bắp vùng cổ của chim gõ kiến rất nở nang và hoạt động như những pít-tông thủy lực đối trọng. Khi đầu lao về phía trước, cơ cổ co rút với độ chuẩn xác tuyệt đối để giữ quỹ đạo chuyển động thẳng tắp một trăm phần trăm, không bị vặn xoắn sang hai bên — bởi vì lực vặn xoắn mới chính là thủ phạm nguy hiểm nhất gây đứt rách mạch máu não!",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene05",
+        "badge": "LỚP GIẢM CHẤN #4",
+        "banner_title": "MÍ MẮT MỘT MILI-GIÂY",
+        "chapter_title": "Lớp phòng vệ số 4: Màng chớp một mili-giây bảo vệ nhãn cầu không văng ra ngoài",
+        "hook": "TỐC ĐỘ ĐÓNG CỬA CHỚP THẦN TỐC: MÍ MẮT THỨ BA KHÓA CHẶT MẮT TRƯỚC VA CHẠM ĐỂ CHỐNG ÁP SUẤT",
+        "mood": "tram_bi_an",
+        "parts": [
+          {
+            "text": "Nếu các bạn nghĩ rằng bảo vệ được bộ não là cỗ máy đã có thể yên tâm vận hành, thì các bạn đã quên mất một chi tiết giải phẫu cực kỳ mỏng manh và nguy hiểm: Đôi mắt! Với gia tốc va chạm một ngàn hai trăm G cùng sự giảm tốc đột ngột trong nháy mắt, áp lực nội nhãn sẽ tăng vọt lên mức khủng khiếp. Nếu là mắt người, nhãn cầu sẽ lập tức văng ra khỏi hốc mắt hoặc bị đứt cuống võng mạc gây mù lòa vĩnh viễn ngay từ cú đập đầu tiên!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Vậy làm sao mà mắt của nó vẫn mở to thao láo nhìn thấy sâu bọ trong hốc cây thưa sếp?",
+            "cast": "ong_gia_ke"
+          },
+          {
+            "text": "[laughter] Đó là nhờ một công nghệ cảm biến và cửa chập quang học siêu tốc thưa bác già! Chim gõ kiến sở hữu một lớp mí mắt thứ ba trong suốt gọi là màng chớp. Máy quay siêu tốc mười ngàn khung hình trên giây của các nhà khoa học đã ghi lại được: Đúng một mili-giây trước khi mỏ chạm vào gỗ, lớp màng chớp này lập tức sập xuống khóa chặt nhãn cầu vào hốc mắt! Nó hoạt động hệt như một chiếc kính bảo hộ lao động kiêm đai nẹp cơ học, vừa ngăn không cho bụi gỗ bắn vào giác mạc, vừa ghìm chặt nhãn cầu chống lại lực quán tính văng ra phía trước!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Và ngay khi cú va chạm kết thúc, trong tích tắc một mili-giây tiếp theo, màng chớp lại tự động mở ra để mắt chim gõ kiến tiếp tục quan sát con mồi đang cựa quậy bên trong thớ gỗ! Toàn bộ chu trình đóng mở thần tốc đó diễn ra hai mươi lần mỗi giây mà mắt thường con người chỉ thấy như một cái chớp nhẹ vô hình!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Một hệ thống kiểm soát cơ học tinh vi đến từng phần ngàn giây như vậy đòi hỏi sự đồng bộ hoàn hảo giữa tín hiệu xung thần kinh thị giác và cơ vận nhãn. Không có một hệ thống robot công nghiệp nào hiện nay có thể đạt được độ tin cậy vận hành liên tục mười hai ngàn chu kỳ mỗi ngày mà không xảy ra sai số như đôi mắt của chim gõ kiến!",
+            "mood": "am_ap"
+          }
+        ]
+      },
+      {
+        "id": "scene06",
+        "badge": "NGHIỆM THU CÔNG TRÌNH",
+        "banner_title": "KỲ QUAN KỸ THUẬT RỪNG XANH",
+        "chapter_title": "Nghiệm thu bản vẽ: Đỉnh cao cơ chế giảm chấn phỏng sinh học",
+        "hook": "BẢN GIAO HƯỞNG CƠ KHÍ HOÀN MỸ: BÀI HỌC VÔ GIÁ MÀ KỸ SƯ LOÀI NGƯỜI ĐANG HỌC TẬP TỪ THIÊN NHIÊN",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "text": "Thưa toàn thể hội đồng kỹ thuật, sau khi bóc tách toàn bộ bốn tầng giảm chấn từ dây đai an toàn Hyoid quấn quanh sọ, hộp sọ xốp bọt khí nano, chiếc mỏ dẫn dòng lực lệch pha cho đến mí mắt cửa chập một mili-giây, chúng ta phải nghiêng mình ngả mũ trước thiên tài thiết kế của tạo hóa! Cỗ Máy Giảm Chấn Rừng Xanh không chỉ là một loài chim kiếm ăn, mà là một kỳ quan cơ học và là mẫu hình chuẩn mực cho ngành kỹ thuật phỏng sinh học tương lai!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Tuyên bố nghiệm thu: Bản thiết kế chống va đập của Chim Gõ Kiến đạt điểm xuất sắc tuyệt đối!",
+            "cast": "tham_phan"
+          },
+          {
+            "text": "[laughter] Hoàn toàn xứng đáng thưa thẩm phán danh dự! Ngày nay, các kỹ sư vũ trụ của NASA đã ứng dụng cấu trúc hộp sọ chim gõ kiến để chế tạo hộp đen máy bay chịu được va đập cực hạn và các bộ phận tiếp đất của tàu thám hiểm không gian. Các tập đoàn thiết bị thể thao cũng dựa trên hệ cơ xương Hyoid để thiết kế mũ bảo hiểm xe đua Công thức Một và bóng bầu dục nhằm giảm thiểu tối đa chấn thương sọ não cho các vận động viên!",
+            "mood": "am_ap"
+          },
+          {
+            "text": "Lần tới khi bạn đi dạo trong rừng và nghe thấy tiếng gõ cốc cốc vang dội khắp tán cây, hãy nhớ rằng bạn đang lắng nghe bài ca thử nghiệm va chạm đỉnh cao nhất của hành tinh Trái Đất! Còn bây giờ, giữa chiếc lưỡi quấn quanh sọ và hộp sọ xốp bọt khí tiêu tán xung lực, giải pháp cơ khí nào khiến bạn thán phục nhất? Hãy để lại bình luận bên dưới nhé! Và đừng quên bấm đăng ký kênh để đón xem Tập ba mươi bảy khám phá cỗ máy lọc nước và túi mỡ kỳ diệu của Lạc Đà Sa Mạc nhé!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Hãy cùng tôn vinh những kỳ quan kỹ thuật vĩ đại của tự nhiên, nơi mỗi sinh vật đều mang trong mình những giải pháp công nghệ vượt trước thời đại hàng triệu năm!",
+            "mood": "am_ap"
+          }
+        ]
+      }
+    ]
+  },
+  "shorts": {
+    "target_s": 54.0,
+    "mood": "hao_hung",
+    "text": "[surprise-oh] Bạn có biết điều gì sẽ xảy ra nếu một con người đập đầu vào thân gỗ với tần số hai mươi lần mỗi giây không? Hộp sọ sẽ vỡ vụn và tử vong ngay tức khắc! [dissatisfaction-hnn] Thế nhưng loài Chim Gõ Kiến lại làm việc đó mười hai ngàn lần mỗi ngày với lực va chạm lên tới một ngàn hai trăm G — gấp một trăm hai mươi lần giới hạn tử vong của con người! Bí mật kinh thiên động địa nằm ở chiếc lưỡi kỳ dị dài gấp ba lần mỏ của nó: Chiếc lưỡi không nằm trong họng mà luồn ngược ra sau gáy, quấn trọn một vòng quanh hộp sọ như chiếc dây đai an toàn xe hơi! Mỗi khi mỏ đập vào gỗ, chiếc lưỡi gồng cứng lại ghìm chặt não bộ không bị rung lắc, kết hợp cùng hộp sọ xốp bọt khí hấp thụ chín mươi chín phẩy bảy phần trăm xung lực thành nhiệt năng! [laughter] Thật là một kỳ quan cơ khí giảm chấn đỉnh cao của rừng xanh!"
+  }
+}

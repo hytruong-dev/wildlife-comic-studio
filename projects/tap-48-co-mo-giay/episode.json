@@ -1,0 +1,231 @@
+{
+ "episode_no": 48,
+ "animal": "Cò Mỏ Giày",
+ "slug": "tap-48-co-mo-giay",
+ "format": "F4",
+ "persona": "phong_vien_24h",
+ "_angle_from_roadmap": "24h của tượng đá đầm lầy: Đứng im hàng giờ, tiếng gõ mỏ như súng máy AK, lịch sự với người nhưng tàn nhẫn với em ruột.",
+ "_shorts_idea_from_roadmap": "Nhìn người thì cúi đầu chào lịch sự, nhưng với em ruột trong tổ thì cực kỳ tàn nhẫn!",
+ "nickname": "Tượng Đá Tiền Sử",
+ "sources": [
+  "Mullers & Amar 2015, The Ostrich — Hiện tượng sát hại con thứ Cainism và hành vi làm tổ của Shoebill",
+  "Guillet 1979, Journal of Ornithology — Giải phẫu mỏ và sinh thái học kiếm ăn của Balaeniceps rex",
+  "Tomita et al. 2014, Journal of Ethology — Nghi thức cúi đầu giao tiếp Bill-bobbing ở chim nuôi nhốt"
+ ],
+ "whisper_prompt": "Cò Mỏ Giày, Balaeniceps rex",
+ "display_fix": {
+  "hai mươi tư giờ": "24h",
+  "hai mươi tư xăng-ti-mét": "24cm",
+  "năm mươi xăng-ti-mét": "50cm",
+  "ba mươi lăm cây số": "35km/h",
+  "bảy ki-lô-gam": "7kg",
+  "ba tiếng": "3 tiếng",
+  "năm tiếng": "5 tiếng",
+  "một trăm đề-xi-ben": "100 dB",
+  "ba mươi ngàn": "30.000",
+  "Ba-la-ê-ni-xép rếch": "Balaeniceps rex"
+ },
+ "voice": {
+  "speed": 1.05,
+  "tempo_long": 1.12
+ },
+ "art": {
+  "decor": "steamy prehistoric swamp reeds, muddy water lilies, antique AK-47 ammunition casings, vintage stopwatch dials",
+  "shorts_mascot": "A comical cartoon shoebill stork with a huge wooden shoe bill wearing a trench coat and reporter press badge",
+  "thumb_bg": "Misty eerie prehistoric African swamp with pale green water and silhouette of flying pterodactyls",
+  "thumb_title": [
+   "TƯỢNG ĐÁ ĐẦM LẦY",
+   "SÚNG MÁY GÕ MỎ?!"
+  ],
+  "thumb_scene": "Huge cartoon Shoebill stork staring directly forward with hypnotic yellow eyes and massive shoe bill clattering",
+  "thumb_gag": "A terrified baby crocodile peeking out of muddy water waving a tiny white surrender flag"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "NHẬT KÝ CHIẾN TRƯỜNG",
+    "banner_title": "BÓNG MA ĐẦM LẦY TIỀN SỬ",
+    "chapter_title": "24 giờ thâm nhập vùng đất chết",
+    "hook": "SÁT THỦ ĐỨNG BẤT ĐỘNG 5 TIẾNG",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Chào mừng quý vị khán giả đang theo dõi bản tin hiện trường trực tiếp của kênh Truyền hình Sinh tồn Hoang dã! Tôi là phóng viên chiến trường đang có mặt tại đầm lầy Bangweulu heo hút giữa lục địa châu Phi, nơi màn sương mù dày đặc che phủ những vũng nước đen ngòm từ thời tiền sử. Hãy hạ thấp ống kính máy quay xuống mép lau sậy đằng kia xem! Trong làn sương mờ ảo, một bóng đen sừng sững cao gần một mét rưỡi đang đứng sừng sững như một tảng đá cẩm thạch xám xịt. Đôi mắt vàng đục vô cảm, bất động tuyệt đối, chẳng một sợi lông tơ lay động dù gió lốc đang thổi qua. Dân địa phương gọi nó là Cò Mỏ Giày, nhưng trong sổ tay tác nghiệp của tôi, sinh vật này mang mật danh rùng rợn: Tượng Đá Tiền Sử. Nó đang làm gì thế kia? Liệu nó còn sống hay đã hóa thạch từ kỷ Phấn Trắng? Mỗi hơi thở của nó chậm rãi đến mức mặt nước xung quanh phẳng lặng như tờ gương chẳng một gợn sóng lăn tăn, khiến mọi sinh vật bơi lội dưới chân đều hoàn toàn mất đi cảnh giác phòng thủ.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Alo trường quay nhắc phóng viên giữ an toàn, cảm biến báo nó vẫn thở nhưng nhịp tim cực thấp!",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "[laughter] Cảm ơn trường quay đã cảnh báo! [surprise-oh] Quý vị không nghe nhầm đâu, cỗ máy săn mồi này có thể đứng im như một khúc gỗ chết suốt ba tiếng, thậm chí năm tiếng đồng hồ liên tục mà không hề chớp mắt lấy một lần! Thậm chí những chú chim sẻ ngây thơ còn tưởng đây là cọc gỗ mục nên đã thản nhiên bay tới đậu lên đỉnh đầu của nó để rỉa lông. Nhưng đừng để sự tĩnh lặng ma mị này đánh lừa các giác quan của bạn! Dưới lớp vỏ bọc bằng đá ấy là một sát thủ phục kích tàn độc nhất thế giới đầm lầy, sẵn sàng kích hoạt một đòn tấn công sấm sét có thể chẻ đôi cả một con cá sấu non! Hãy cùng chúng tôi bật máy quay hồng ngoại và bám sát đối tượng trong hai mươi tư giờ nghẹt thở ngay sau đây! Chẳng một chuyển động thừa, chẳng một cái chớp mí mắt, con quái vật này đã biến sự nhẫn nại thành một thứ nghệ thuật rình mồi tối thượng chưa từng có trong lịch sử tự nhiên.",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "VŨ KHÍ MỎ GUỐC GỖ",
+    "banner_title": "CHIẾC MỎ DÀI 24CM SẮC NHƯ DAO",
+    "chapter_title": "Giải mã chiếc guốc tử thần",
+    "hook": "LƯỠI DAO PHAY CHÉM ĐÔI CON MỒI",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Bây giờ ống kính siêu cận cảnh của chúng tôi đã bắt trọn cấu trúc kinh dị nhất trên cơ thể Tượng Đá Tiền Sử: Chiếc mỏ khổng lồ độc nhất vô nhị trong thế giới loài chim! Dài tới hai mươi tư xăng-ti-mét, chu vi đo được hơn năm mươi xăng-ti-mét, chiếc mỏ này phình to tròn trịa trông giống hệt như một chiếc guốc gỗ của những người thợ Hà Lan cổ đại. Tên khoa học của nó là Ba-la-ê-ni-xép rếch, dịch nôm na là Vua Đầu Cá Voi. Nhưng khác xa với vẻ ngoài cục mịch hài hước, chiếc mỏ này thực chất là một cỗ máy chém sinh học được tôi luyện qua suốt bao kỷ nguyên tiến hóa! Khối sừng khổng lồ này có thể tích buồng chứa lớn thứ ba trong toàn bộ các loài chim biết bay trên thế giới, tạo ra một trọng tâm lệch hẳn về phía trước nhưng lại được cân bằng tuyệt đối bởi chiếc đuôi xòe rộng.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hãy quan sát thật kỹ hai mép mỏ! Chúng sắc lẹm không khác gì một cặp lưỡi dao phay công nghiệp, có khả năng cắt đứt các sợi gân dai nhất chỉ bằng một lực khép nhẹ. Và ở ngay đầu mỏ trên, một chiếc móc sừng nhọn hoắt quặp ngược xuống dưới như một chiếc mỏ neo sắt. Khi chiếc mỏ này đập sập lại, chiếc móc sừng sẽ cắm phập vào hộp sọ con mồi, khóa chặt mục tiêu không cho bất kỳ giọt chất lỏng hay sinh lực nào có cơ hội thoát ra ngoài. Lực bấm của bộ hàm này khi khép chặt có thể nghiền nát cả những lớp mai rùa nước ngọt dày cộp hay những bộ vảy cứng như giáp sắt của các loài cá cổ đại bơi lội dưới tầng đáy bùn lầy.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Với một khối lượng mỏ nặng trịch như thế, chiếc cổ của hươu hay cò bình thường sẽ bị gãy gập vì mất cân bằng trọng tâm. Nhưng thiên nhiên đã đúc cho Tượng Đá Tiền Sử một hệ thống đốt sống cổ cứng như thép nguội, kết hợp với các bó cơ gáy cuồn cuộn có khả năng giật ngược chiếc mỏ nặng cả ki-lô-gam với gia tốc cực lớn. Chiếc guốc gỗ này không chỉ dùng để mổ, nó là một chiếc xẻng xúc bùn, một chiếc kẹp tạ nặng tấn và là một vũ khí hủy diệt chuyên biệt để nuốt trọn những con quái vật trơn trượt dưới đáy đầm lầy tăm tối! Cấu trúc xương sọ của nó có mật độ canxi dày đặc gấp ba lần các loài cò bình thường, hấp thụ hoàn toàn xung chấn khi va đập mạnh xuống đáy đầm nước mà không làm tổn thương các mô mềm bên trong não.",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "TIẾNG NỔ SÚNG MÁY",
+    "banner_title": "ÂM THANH GÕ MỎ 100 DECIBEL",
+    "chapter_title": "Tiếng nổ xé toạc màn đêm",
+    "hook": "TIẾNG KHẨU SÚNG TIỂU LIÊN AK",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Trời đã về chiều, màn đêm đen đặc đang bao trùm lấy đầm lầy châu Phi. Đột nhiên, một tràng âm thanh chát chúa vang dội xé toạc không gian yên tĩnh! Bằng! Bằng! Tạch tạch tạch tạch! Cả đoàn phóng viên chúng tôi hoảng hốt nằm rạp xuống bùn lầy vì tưởng chừng như đang có một cuộc đấu súng ác liệt giữa các tay súng phiến quân trang bị súng trường tự động AK! Nhưng khi ngẩng đầu lên qua ống nhòm nhìn đêm, nguồn gốc của âm thanh kinh hoàng ấy lại phát ra từ chính chiếc mỏ của Tượng Đá Tiền Sử! Từng tràng tiếng nổ đanh gọn, dứt khoát và khô khốc vang dội từ bờ sậy bên này sang đảo lau bên kia, khiến cả bầy chim nước hoảng hốt vỗ cánh bay tán loạn lên bầu trời mờ mịt.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Trời ơi tiếng gì đanh thép như súng máy liên thanh nổ giòn giã thế, có nguy hiểm tính mạng không phóng viên ơi?",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "[laughter] Bình tĩnh nào người anh em ngơ ngác, đó là tiếng gõ mỏ chào sân của chú chim đấy! [surprise-oh] Hiện tượng này trong giới điểu học được gọi là Bill-clattering. Khi muốn khẳng định chủ quyền lãnh thổ hoặc giao tiếp với bạn tình, Tượng Đá Tiền Sử sẽ ngửa cổ ra sau rồi dập hai hàm mỏ vào nhau với tốc độ siêu thanh. Do bên trong mỏ có cấu trúc khoang rỗng hoạt động như một buồng cộng hưởng âm thanh, mỗi cú đập tạo ra tiếng nổ vang dội lên tới hơn một trăm đề-xi-ben, tương đương với tiếng súng máy quân dụng nhả đạn cự ly gần! Tần số rung động của tiếng gõ mỏ này mạnh đến mức làm rung chuyển cả những mặt lá súng nổi trên mặt nước xung quanh, tạo nên một hiệu ứng áp chế tâm lý nghẹt thở giữa không gian tĩnh mịch của màn đêm.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Âm thanh chát chúa này có thể truyền xa tới cả cây số qua làn sương mù đầm lầy, làm cho lũ cá sấu, linh cẩu và cả những đàn báo đốm đi săn đêm cũng phải giật mình kinh sợ mà dạt ra xa. Đó là lời tuyên ngôn đanh thép khẳng định rằng: Vùng đầm lầy tăm tối này đã có chủ nhân, và bất kỳ kẻ nào dám xâm phạm vùng nước phục kích của nó sẽ phải đối diện với chiếc kẹp tử thần! Đối với những con chim trưởng thành khác cùng loài, tiếng gõ mỏ này mang thông điệp cấm xâm phạm bất khả xâm phạm, giúp chúng phân chia lãnh thổ rộng lớn hàng chục cây số vuông mà không cần phải đổ máu trực diện.",
+      "mood": "don_dap"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "CÚ LAO SẬP COLLAPSE",
+    "banner_title": "TỐC ĐỘ LAO MỒI 35KM/H",
+    "chapter_title": "Cú bổ nhào nuốt trọn cá phổi",
+    "hook": "ĐÒN SỤP ĐỔ TÀN KHỐC 7KG",
+    "mood": "nghiem_trang_gia",
+    "parts": [
+     {
+      "text": "Bây giờ là khoảnh khắc săn mồi đắt giá nhất mà đoàn làm phim chúng tôi đã phải phục kích ròng rã suốt mười tiếng đồng hồ dưới đầm nước hôi thối để ghi lại. Dưới lớp bèo hoa dâu đục ngầu, một con cá phổi châu Phi khổng lồ dài gần một mét đang từ từ trồi lên mặt nước để đớp không khí. Nó hoàn toàn không hề hay biết rằng, cách đó chỉ hai bước chân, Tượng Đá Tiền Sử đã khóa mục tiêu bằng đôi mắt vàng rực có thị giác lập thể ba chiều hoàn hảo. Đôi mắt to tròn màu vàng rơm của nó không nằm lệch sang hai bên như chim bồ câu hay gà vịt, mà hướng thẳng về phía trước giống hệt mắt cú vẹo hay mắt người, cho phép đo đạc cự ly chính xác đến từng mi-li-mét.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Và rồi, bùm! Không hề có một động tác nhấp nhử hay chuẩn bị, toàn bộ cơ thể nặng bảy ki-lô-gam của Tượng Đá Tiền Sử đổ ụp thẳng xuống mặt nước như một tòa nhà bê tông sụp đổ! Tuyệt kỹ săn mồi này được các nhà khoa học gọi là Collapse strike, tức là đòn bổ nhào sụp đổ. Con chim phóng cả thân hình, sải cánh rộng hai mét rưỡi và chiếc mỏ nặng trịch cắm thẳng xuống bùn lầy với vận tốc ba mươi lăm cây số một giờ. Lực va chạm mạnh đến mức nước bắn tung tóe mù mịt như một quả mìn nổ chậm dưới lòng hồ! Cú rơi tự do này sử dụng chính trọng lượng cơ thể đồ sộ bảy ki-lô-gam làm gia tốc rơi, biến toàn bộ cơ thể thành một khối chùy công phá dội thẳng xuống đầu con mồi trong chớp mắt.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Khi con chim ngẩng đầu lên khỏi làn nước đục ngầu, con cá phổi giãy giụa tuyệt vọng đã nằm gọn trong chiếc mỏ khổng lồ. Con chim dùng cạnh mỏ sắc như dao phay nghiền nát hộp sọ con mồi, giũ sạch bùn đất và bèo rác rồi nuốt trọn cả con cá dài cả mét vào dạ dày chỉ sau ba cú ực. Một màn trình diễn săn mồi bạo lực, chính xác và tàn khốc đến nghẹt thở! Con chim dùng đầu lưỡi hình ngọn giáo đẩy con mồi vào họng, rồi hớp một ngụm nước trong để súc sạch cặn bùn, thể hiện một sự điềm tĩnh lạnh lùng đến rợn gáy sau khi vừa thực hiện một pha sát hại đẫm máu.",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "NGHỊCH LÝ TỔNG HỢP",
+    "banner_title": "LỊCH SỰ VỚI NGƯỜI NHƯNG TÀN BẠO",
+    "chapter_title": "Góc khuất đen tối trong tổ chim",
+    "hook": "BI KỊCH SÁT HẠI CON THỨ CAINISM",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Đến đây, quý vị khán giả sẽ thấy một nghịch lý tâm lý cực kỳ kỳ quặc ở loài chim này. Khi tiếp xúc với con người, đặc biệt là trong các trung tâm bảo tồn hay vườn thú, Tượng Đá Tiền Sử lại cư xử như một quý ông người Anh cực kỳ lịch lãm. Nếu một người chăm sóc cúi gập người chào nó một cách cung kính, chú chim sẽ lập tức cúi thấp đầu xuống đáp lễ, lắc lư chiếc mỏ nhẹ nhàng và phát ra những tiếng rù rù êm ái như một lời chào mừng nồng nhiệt. Nhiều du khách đã phải thốt lên rằng đây là loài chim lễ phép và đáng yêu nhất hành tinh! Sự tương phản giữa ngoại hình hung dữ như khủng long tiền sử và phong thái cúi đầu chào lịch thiệp này đã tạo nên một cơn sốt kỳ thú trên toàn mạng xã hội, biến nó thành biểu tượng văn hóa độc đáo ở đất nước Nhật Bản.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Alo phóng viên, sổ tay thực địa có ghi chương đen tối rùng rợn về chúng trong tổ hoang dã đúng không?",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "[laughter] Đáng tiếc là đúng như vậy thưa trường quay! [surprise-oh] Ẩn sau vẻ ngoài lịch thiệp ấy là một sự thật tàn khốc đến lạnh người trong tổ đẻ, mang tên hiện tượng Cainism, tức là sát hại anh em ruột. Chim mẹ luôn đẻ hai quả trứng để dự phòng rủi ro. Khi quả trứng đầu tiên nở ra một con non khỏe mạnh, và vài ngày sau quả trứng thứ hai nở ra đứa em bé nhỏ, một cuộc chiến sinh tồn đẫm máu bắt đầu. Con chim anh to lớn hơn sẽ liên tục dùng mỏ mổ vào đầu em mình, cắn xé lông tơ và đẩy đứa em ra mép tổ dưới nắng thiêu đốt. Tiếng kêu chít chít cầu cứu yếu ớt của đứa em nhỏ bé lọt thỏm giữa tiếng gió rít qua đầm lầy, trong khi người anh lớn liên tục giáng những cú mổ sắc nhọn để xua đuổi kẻ cạnh tranh sinh tồn duy nhất của mình.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Đau lòng hơn cả, chim mẹ đứng ngay bên cạnh chứng kiến toàn bộ sự việc nhưng tuyệt đối không can thiệp. Toàn bộ thức ăn và nước uống đều được dồn hết cho đứa con lớn, trong khi đứa em yếu ớt dần kiệt sức và chết đói trong sự cô độc tàn nhẫn. Đó là quy luật chọn lọc tự nhiên khắc nghiệt của đầm lầy: Nguồn thức ăn quá khan hiếm, và chim bố mẹ chỉ đủ sức nuôi duy nhất một cỗ máy chiến tranh hoàn hảo để duy trì nòi giống! Sự chọn lọc tự nhiên không có chỗ cho lòng thương hại hay những giọt nước mắt ủy mị. Chỉ những cá thể mạnh nhất, tàn nhẫn nhất và có sức đề kháng cao nhất mới xứng đáng đại diện cho giống loài tiếp tục thống trị vùng đầm lầy.",
+      "mood": "tram_bi_an"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "KẾT LUẬN",
+    "banner_title": "DI SẢN KỶ BĂNG HÀ ĐẦM LẦY",
+    "chapter_title": "Bài học từ tượng đá bất tử",
+    "hook": "BẢN LĨNH KIÊN ĐỊNH CHỜ THỜI",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Sau hai mươi tư giờ theo chân Tượng Đá Tiền Sử giữa đầm lầy châu Phi hoang dã, chúng tôi nhận ra rằng đây không đơn thuần là một loài chim, mà là một hóa thạch sống kiên cường mang linh hồn của những loài khủng long ăn thịt từ kỷ Jura còn sót lại giữa thời hiện đại. Từ sự nhẫn nại đứng im hàng giờ không chớp mắt, chiếc mỏ guốc gỗ sắc lẹm chém đôi con mồi, tiếng gõ mỏ vang dội như súng máy quân dụng, cho đến sự lạnh lùng tàn nhẫn để sinh tồn, tất cả đã tạo nên một kiệt tác thích nghi đỉnh cao của tạo hóa. Nó đứng đó như một tượng đài bất hoại chứng kiến sự thăng trầm của lịch sử tự nhiên, nhắc nhở chúng ta về sức mạnh kỳ diệu của sự kiên định trước những biến đổi khắc nghiệt của môi trường.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Cuộc đời của chú chim Mỏ Giày mang lại cho chúng ta một bài học sâu sắc về sự kiên nhẫn và thời cơ trong cuộc sống: Đôi khi, điều làm nên sự vĩ đại không phải là việc bạn chạy nhảy lăng xăng khắp nơi, mà là khả năng giữ vững sự tĩnh lặng tuyệt đối, kiên định chờ đợi thời điểm chín muồi để tung ra một đòn quyết định thay đổi toàn bộ cục diện! Bạn ấn tượng nhất với đặc điểm nào của Tượng Đá Tiền Sử: Tiếng gõ mỏ nổ giòn như súng máy AK hay sự kiên nhẫn đứng bất động năm tiếng đồng hồ? Hãy để lại bình luận chia sẻ cảm nghĩ nhé! Còn ở tập tiếp theo, xưởng vũ khí tự nhiên sẽ đưa các bạn diện kiến một pháo đài di động với ba mươi ngàn mũi tên ngạnh ngược có khả năng tự găm sâu vào thịt mãnh thú! Hãy học cách đứng vững trước sóng gió cuộc đời như chú chim mỏ giày giữa đầm lầy hoang dã, để khi thời cơ đến, bạn sẽ bứt phá mạnh mẽ và làm nên những điều phi thường nhất!",
+      "mood": "am_ap"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Gặp người thì cúi đầu chào lịch sự như một quý ông, nhưng với em ruột trong tổ thì ra tay tàn nhẫn đến lạnh người?! Hãy nhìn chú Cò Mỏ Giày kỳ dị giữa đầm lầy châu Phi này xem! Mang mật danh Tượng Đá Tiền Sử, nó có thể đứng bất động giữa bãi lau sậy suốt năm tiếng liên tục mà không thèm chớp mắt lấy một lần! Chiếc mỏ dài hai mươi tư xăng-ti-mét của nó trông như chiếc guốc gỗ nhưng mép sắc lẹm như dao phay, sẵn sàng tung cú bổ nhào ba mươi lăm cây số một giờ chém đôi cá phổi và cá sấu non! Mỗi khi đêm xuống, nó dập mỏ tạo ra tiếng nổ đanh thép như súng máy liên thanh nổ giòn vang xa hàng cây số! Ở vườn thú, nếu bạn cúi chào, nó sẽ lập tức cúi gập đầu đáp lễ cực kỳ đáng yêu. Thế nhưng trong tự nhiên hoang dã, chim non mới nở sẽ liên tục mổ, cắn xé và bỏ đói đứa em ruột của mình đến chết để độc chiếm nguồn thức ăn, dưới sự làm ngơ tuyệt đối của chim mẹ! Một nghịch lý sinh tồn rùng mình đến nghẹt thở của tự nhiên!"
+ },
+ "seo": {
+  "title": "Tượng Đá Tiền Sử Cò Mỏ Giày: Cúi Chào Người Nhưng Tàn Nhẫn Với Em Ruột?! | Tập 48",
+  "hook_paragraph": "Cò Mỏ Giày (Shoebill) cao 1.5m có thể đứng im 5 tiếng không chớp mắt, sở hữu chiếc mỏ guốc sắc bén gõ đanh thép như súng máy AK. Tại sao loài chim lịch sự cúi đầu chào người này lại có bí mật rùng rợn sát hại em ruột trong tổ?",
+  "bullets": [
+   "Đứng bất động 5 tiếng đồng hồ như tượng đá giữa đầm lầy châu Phi",
+   "Chiếc mỏ dài 24cm nặng trịch sắc như dao phay nuốt trọn cá phổi",
+   "Tiếng gõ mỏ đanh thép 100 dB vang dội như tiếng súng máy quân dụng",
+   "Nghi thức cúi chào lịch sự với người nhưng tàn nhẫn sát hại con thứ Cainism"
+  ],
+  "question": "Bạn thấy điều gì ở Cò Mỏ Giày gây sốc nhất: Tiếng gõ mỏ như súng máy AK hay hành vi sát hại em ruột?",
+  "next_teaser": "Ở tập tiếp theo, chúng ta sẽ giải mã Nhím Lông Nhọn với 30.000 mũi tên tự rút sâu vào thịt báo hoa mai!",
+  "hashtags": [
+   "#CoMoGiay",
+   "#Shoebill",
+   "#TheGioiDongVat",
+   "#VeChuyenHoangDa",
+   "#KhoaHoc",
+   "#DongVatKyThu"
+  ],
+  "tags": [
+   "cò mỏ giày",
+   "co mo giay",
+   "shoebill",
+   "balaeniceps rex",
+   "tieng go mo shoebill",
+   "the gioi dong vat",
+   "ve chuyen hoang da",
+   "dong vat ky thu",
+   "khoa hoc vui",
+   "sat hai con thu",
+   "cainism",
+   "chim tien su"
+  ],
+  "shorts_title": "Cò mỏ giày: Chào người lịch sự nhưng tàn nhẫn với em ruột?! 🪶 #shorts #comogiay",
+  "shorts_desc": "Cò Mỏ Giày đứng im 5 tiếng như tượng đá, tiếng gõ mỏ như súng máy AK, gặp người cúi đầu chào nhưng lại sát hại em ruột trong tổ!",
+  "shorts_tags": [
+   "co mo giay",
+   "shoebill",
+   "shorts",
+   "the gioi dong vat",
+   "ve chuyen hoang da"
+  ]
+ }
+}

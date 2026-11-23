@@ -1,0 +1,487 @@
+{
+ "episode": "tap-16-tom-sung",
+ "title_lines": [
+  "ĐẠI BÁC 218 DECIBEL:",
+  "NÓNG 5.000 ĐỘ C!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 49.7,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-16-tom-sung_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  3.75,
+  9.47,
+  13.65,
+  18.25,
+  22.29,
+  29.19,
+  32.11,
+  35.55,
+  39.35,
+  42.39,
+  45.77
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.6,
+     "text": "Cảnh báo thử"
+    },
+    {
+     "t": 1.08,
+     "text": "nghiệm vũ khí!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 1.95,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 4.24,
+     "side": "R",
+     "y": 620,
+     "value": "4cm",
+     "label": "kích thước tí hon",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 2.2,
+     "text": "Bạn có tin"
+    },
+    {
+     "t": 2.68,
+     "text": "một sinh vật"
+    },
+    {
+     "t": 3.08,
+     "text": "bé nhỏ dài"
+    },
+    {
+     "t": 3.76,
+     "text": "chưa đầy 4cm"
+    },
+    {
+     "t": 4.96,
+     "text": "lại sở hữu"
+    },
+    {
+     "t": 5.36,
+     "text": "hỏa lực nổ"
+    },
+    {
+     "t": 5.96,
+     "text": "to hơn cả"
+    },
+    {
+     "t": 6.5,
+     "text": "động cơ máy"
+    },
+    {
+     "t": 6.94,
+     "text": "bay phản lực?"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 7.67,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 7.92,
+     "text": "Đây là Tôm"
+    },
+    {
+     "t": 8.4,
+     "text": "Súng, hay còn"
+    },
+    {
+     "t": 9.3,
+     "text": "gọi là Pháo"
+    },
+    {
+     "t": 9.84,
+     "text": "Thủ Tí Hon"
+    },
+    {
+     "t": 10.34,
+     "text": "của các rạn"
+    },
+    {
+     "t": 10.88,
+     "text": "san hô nhiệt đới!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 11.85,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 15.7,
+     "side": "L",
+     "y": 620,
+     "value": "8.000g",
+     "label": "gia tốc cực đại",
+     "target": [
+      0.25,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 12.1,
+     "text": "Thứ nhất,"
+    },
+    {
+     "t": 12.9,
+     "text": "chiếc càng súng"
+    },
+    {
+     "t": 13.44,
+     "text": "khổng lồ của"
+    },
+    {
+     "t": 13.96,
+     "text": "nó có thể"
+    },
+    {
+     "t": 14.4,
+     "text": "kẹp lại với"
+    },
+    {
+     "t": 15.0,
+     "text": "gia tốc kinh"
+    },
+    {
+     "t": 15.46,
+     "text": "hoàng 8.000g,"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 16.45,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 17.84,
+     "side": "R",
+     "y": 620,
+     "value": "218 dB",
+     "label": "âm thanh cực hạn",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 16.7,
+     "text": "tạo ra âm"
+    },
+    {
+     "t": 17.26,
+     "text": "thanh lên tới"
+    },
+    {
+     "t": 17.84,
+     "text": "218 dB làm"
+    },
+    {
+     "t": 19.4,
+     "text": "rung chuyển đáy biển!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 20.49,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 26.36,
+     "side": "L",
+     "y": 620,
+     "value": "5.000°C",
+     "label": "nhiệt độ lõi nổ",
+     "target": [
+      0.25,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 20.74,
+     "text": "Thứ hai,"
+    },
+    {
+     "t": 21.64,
+     "text": "cú kẹp phụt"
+    },
+    {
+     "t": 22.18,
+     "text": "ra tia nước"
+    },
+    {
+     "t": 22.68,
+     "text": "phản lực xé"
+    },
+    {
+     "t": 23.34,
+     "text": "toạc áp suất,"
+    },
+    {
+     "t": 24.32,
+     "text": "sinh ra bọt"
+    },
+    {
+     "t": 25.04,
+     "text": "khí phát nổ"
+    },
+    {
+     "t": 25.66,
+     "text": "ở nhiệt độ"
+    },
+    {
+     "t": 26.14,
+     "text": "gần 5.000°C,"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 27.39,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 27.64,
+     "text": "nóng ngang bề"
+    },
+    {
+     "t": 28.14,
+     "text": "mặt Mặt Trời"
+    },
+    {
+     "t": 28.78,
+     "text": "và phát ra"
+    },
+    {
+     "t": 29.26,
+     "text": "chớp sáng lóe mắt!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 30.31,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 30.56,
+     "text": "Thứ ba,"
+    },
+    {
+     "t": 31.18,
+     "text": "vào Thế chiến"
+    },
+    {
+     "t": 31.64,
+     "text": "II, hàng triệu"
+    },
+    {
+     "t": 32.68,
+     "text": "con tôm súng"
+    },
+    {
+     "t": 33.16,
+     "text": "đã đồng thanh nổ"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 33.75,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "t": 36.56,
+     "side": "R",
+     "y": 620,
+     "value": "SONAR MỸ",
+     "label": "Thế chiến II",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 33.82,
+     "text": "càng làm điếc"
+    },
+    {
+     "t": 34.4,
+     "text": "đặc toàn bộ"
+    },
+    {
+     "t": 35.0,
+     "text": "hệ thống định"
+    },
+    {
+     "t": 35.5,
+     "text": "vị thủy âm"
+    },
+    {
+     "t": 36.0,
+     "text": "Sonar của Hải"
+    },
+    {
+     "t": 36.74,
+     "text": "quân Hoa Kỳ!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 37.55,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 37.8,
+     "text": "Dù sở hữu"
+    },
+    {
+     "t": 38.36,
+     "text": "đại bác hủy"
+    },
+    {
+     "t": 38.86,
+     "text": "diệt nhưng mắt"
+    },
+    {
+     "t": 39.56,
+     "text": "nó lại gần"
+    },
+    {
+     "t": 40.06,
+     "text": "như mù tịt,"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 40.59,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 40.84,
+     "text": "phải thuê vệ"
+    },
+    {
+     "t": 41.38,
+     "text": "sĩ cá bống"
+    },
+    {
+     "t": 41.88,
+     "text": "canh cửa để"
+    },
+    {
+     "t": 42.5,
+     "text": "đổi lấy chỗ"
+    },
+    {
+     "t": 43.24,
+     "text": "ở an toàn!"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 43.97,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 44.22,
+     "text": "Đừng bao giờ"
+    },
+    {
+     "t": 44.66,
+     "text": "đánh giá thấp"
+    },
+    {
+     "t": 45.26,
+     "text": "những kẻ tí"
+    },
+    {
+     "t": 45.84,
+     "text": "hon, bởi hỏa"
+    },
+    {
+     "t": 46.64,
+     "text": "lực khủng khiếp"
+    },
+    {
+     "t": 47.26,
+     "text": "nhất đôi khi"
+    },
+    {
+     "t": 48.14,
+     "text": "lại nằm trong"
+    },
+    {
+     "t": 48.62,
+     "text": "bàn tay nhỏ"
+    },
+    {
+     "t": 49.22,
+     "text": "bé nhất!"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,429 @@
+# -*- coding: utf-8 -*-
+"""Generate complete episode.json for Episode 32: Chuột Chũi Trũi (Naked Mole-Rat)
+Format: F5 (Phòng Thí Nghiệm 5 Cấp Độ Cực Hạn) | Persona: nha_khoa_hoc
+Visual Style (TASTE-73): Bio-Lab Fallout & Underground Schematic
+"""
+import json
+from pathlib import Path
+
+P = Path("projects/tap-32-chuot-chui-trui")
+P.mkdir(parents=True, exist_ok=True)
+
+ep = {
+    "episode_no": 32,
+    "animal": "Chuột Chũi Trũi",
+    "slug": "tap-32-chuot-chui-trui",
+    "format": "F5",
+    "persona": "nha_khoa_hoc",
+    "_angle_from_roadmap": "5 Thử thách cực hạn: Không biết đau trước axit, không ung thư, hóa thành 'thực vật' sống 18 phút không cần oxy.",
+    "_shorts_idea_from_roadmap": "Bí mật giúp loài chuột xấu xí nhất hành tinh miễn nhiễm hoàn toàn với ung thư!",
+    "nickname": "Dị Nhân Khoai Tây",
+    "sources": [
+        "Park, T. J. et al. (2008), PLoS Biology — Phát hiện Chuột Chũi Trũi thiếu chất dẫn truyền thần kinh Substance P và hoàn toàn vô cảm với axit cùng chất cay capsaicin",
+        "Smith, E. S. J. & Lewin, G. R. (2011), Science — Biến đổi kênh ion NaV1.7 khiến axit hoạt động như thuốc gây tê khóa chặt tín hiệu đau đớn",
+        "Park, T. J., Lewin, G. R. et al. (2017), Science — Cơ chế chuyển đổi trao đổi chất sang đốt đường Fructose kỵ khí như thực vật giúp sống sót 18 phút ở mức 0% oxy",
+        "Tian, X., Azpurua, J., Gorbunova, V. & Seluanov, A. (2013), Nature — Hợp chất Hyaluronic Acid khối lượng phân tử siêu cao (HMW-HA) gấp 5 lần người ngăn chặn hoàn toàn khối u ung thư",
+        "Jarvis, J. U. M. (1981), Science — Cấu trúc xã hội côn trùng Eusocial ở thú có vú với một Nữ Hoàng duy nhất sinh sản và phân chia giai cấp công nhân, chiến binh",
+        "Buffenstein, R. (2018), eLife — Nghiên cứu trên hơn 3.000 cá thể chứng minh Chuột Chũi Trũi sống tới 37 năm và thách thức định luật tử vong lão hóa Gompertz"
+    ],
+    "whisper_prompt": "Chuột Chũi Trũi, Dị Nhân Khoai Tây, Heterocephalus glaber, Thomas Park, Gary Lewin, Vera Gorbunova, Andrei Seluanov, Rochelle Buffenstein, Jennifer Jarvis, Substance P, capsaicin, NaV1.7, Fructose, Glucose, GLUT5, Hyaluronic Acid, HMW-HA, p16, p27, Gompertz, Eusocial, 18 phút, 37 năm, 30 năm, 300 cá thể, 5km, 25%, 0% oxy, 200 nhịp/phút, 50 nhịp/phút, Ếch Gỗ Bắc Cực",
+    "display_fix": {
+        "mười tám phút": "18 phút",
+        "Mười tám phút": "18 phút",
+        "ba mươi bảy năm": "37 năm",
+        "Ba mươi bảy năm": "37 năm",
+        "ba mươi năm": "30 năm",
+        "Ba mươi năm": "30 năm",
+        "hai đến ba năm": "2-3 năm",
+        "Hai đến ba năm": "2-3 năm",
+        "hai mươi lăm phần trăm": "25%",
+        "Hai mươi lăm phần trăm": "25%",
+        "không phần trăm": "0%",
+        "Không phần trăm": "0%",
+        "năm phần trăm": "5%",
+        "Năm phần trăm": "5%",
+        "hai trăm nhịp một phút": "200 nhịp/phút",
+        "Hai trăm nhịp một phút": "200 nhịp/phút",
+        "năm mươi nhịp một phút": "50 nhịp/phút",
+        "Năm mươi nhịp một phút": "50 nhịp/phút",
+        "bảy mươi đến ba trăm": "70-300",
+        "Bảy mươi đến ba trăm": "70-300",
+        "ba trăm cá thể": "300 cá thể",
+        "Ba trăm cá thể": "300 cá thể",
+        "hai mươi bảy đến ba mươi": "27-30",
+        "năm ki-lô-mét": "5km",
+        "Năm ki-lô-mét": "5km",
+        "ba đến năm ki-lô-mét": "3-5km",
+        "hai mét": "2m",
+        "Hai mét": "2m",
+        "tám đến mười xăng-ti-mét": "8-10cm",
+        "ba mươi lăm gam": "35g",
+        "mười lăm độ C": "15°C",
+        "ba mươi lăm độ C": "35°C",
+        "ba mươi độ C": "30°C",
+        "âm hai mươi độ C": "-20°C",
+        "bốn mươi": "40",
+        "bảy mươi phần trăm": "70%",
+        "một trăm tám mươi độ": "180°",
+        "ba trăm sáu mươi độ": "360°",
+        "tám trăm tuổi": "800 tuổi",
+        "tám tháng": "8 tháng",
+        "năm lần": "5 lần",
+        "Năm lần": "5 lần",
+        "mười lần": "10 lần",
+        "Mười lần": "10 lần",
+        "mười hai lần": "12 lần",
+        "sáu mươi giây": "60 giây",
+        "Sáu mươi giây": "60 giây",
+        "ba trăm con": "300 con",
+        "gần ba mươi": "gần 30",
+        "ba mươi tuổi": "30 tuổi",
+        "hai tuổi": "2 tuổi",
+        "một phút": "1 phút",
+        "năm phút": "5 phút",
+        "mười phút": "10 phút",
+        "năm một ngàn chín trăm tám mươi mốt": "năm 1981",
+        "năm hai ngàn không trăm linh tám": "năm 2008",
+        "năm hai ngàn không trăm mười một": "năm 2011",
+        "năm hai ngàn không trăm mười ba": "năm 2013",
+        "năm hai ngàn không trăm mười bảy": "năm 2017",
+        "năm hai ngàn không trăm mười tám": "năm 2018",
+        "ba ngàn": "3.000",
+        "Ba ngàn": "3.000",
+        "số ba mươi hai": "số 32",
+        "ba mươi hai": "32",
+        "Ba mươi hai": "32",
+        "tập ba mươi ba": "Tập 33",
+        "Tập ba mươi ba": "Tập 33",
+        "Hê-tê-rô-xê-pha-lút gla-bơ": "Heterocephalus glaber",
+        "Tô-mát Pác": "Thomas Park",
+        "Ga-ri Lê-uyn": "Gary Lewin",
+        "Vê-ra Goóc-bu-nô-va": "Vera Gorbunova",
+        "Rô-sen Bắp-phen-xtên": "Rochelle Buffenstein",
+        "Gien-ni-phơ Gia-vít": "Jennifer Jarvis",
+        "Y-li-noi": "Illinois",
+        "Rô-chét-xtơ": "Rochester",
+        "Sai-ần": "Science",
+        "các-bô-níc": "CO2",
+        "Sắp-xtần Pê": "Substance P",
+        "cáp-xai-xin": "capsaicin",
+        "phờ-rắc-tô-zơ": "Fructose",
+        "gờ-lu-cô-zơ": "Glucose",
+        "Hy-a-lu-rô-níc A-xít": "Hyaluronic Acid",
+        "Hát Mờ Đắp-bờ-liu Hát A": "HMW-HA",
+        "Gôm-pớt": "Gompertz",
+        "pê mười sáu": "p16",
+        "pê hai mươi bảy": "p27",
+        "Na Vê một chấm bảy": "NaV1.7"
+    },
+    "voice": {},
+    "art": {
+        "style_label": "phong cách Bio-Lab Schematic hoạt hình 2D",
+        "visual_style": (
+            "tỉ lệ {AR}; phong cách tranh minh họa 2D Bio-Lab Schematic kết hợp hoạt hình châm biếm hài hước (Dark Comedy Scientific Illustration): "
+            "nét mực đen đậm sắc sảo, phối hợp các chi tiết sơ đồ giải phẫu sinh học, bình thí nghiệm, lưới tọa độ tế bào và mảng màu tươi sáng "
+            "tương phản cao (tím phòng lab, xanh lục bảo neon, vàng hổ phách và hồng phấn nhân vật); biểu cảm hoạt hình hài hước cường điệu, "
+            "thân thiện với trẻ em; NỀN TRẮNG TINH hoàn toàn, không khung viền, KHÔNG chữ, không số, không logo; chủ thể nằm gọn trong khung, chừa lề trắng"
+        ),
+        "decor": "glowing green bio-lab test tubes, DNA double helix spirals, microscope icons, cellular hexagon grids",
+        "shorts_mascot": "A funny wrinkly pink cartoon naked mole-rat wearing oversized neon-green lab safety goggles and a tiny white lab coat, grinning with two big buck teeth",
+        "shorts_banner_style": (
+            "a 2D cartoon secret bio-laboratory containment title board isolated on a pure solid white background: a dark purple metallic containment plaque "
+            "with glowing neon acid-green glass tube borders, bubbling test flasks on the left corner, and yellow-black hazard warning chevrons on the ends"
+        ),
+        "thumb_bg": "dark glowing subterranean bio-laboratory chamber with neon green chemical tubes and golden DNA helix light beams",
+        "thumb_title": ["SỐNG 18 PHÚT 0% OXY?!", "BẤT TỬ TRƯỚC UNG THƯ"],
+        "thumb_scene": "chú chuột chũi trũi da hồng nhăn nheo đeo kính bảo hộ phòng lab cười khẩy ngạo nghễ giữa các ống nghiệm sủi bọt và khiên chắn DNA phát sáng",
+        "thumb_gag": "tế bào khối u hoạt hình cầm chùy gai khóc thét bị trượt ngã trước bức tường gel trong suốt siêu dày"
+    },
+    "longform": {
+        "scenes": [
+            {
+                "id": "scene01",
+                "badge": "MẪU VẬT #32",
+                "banner_title": "CỦ KHOAI TÂY RĂNG VẨU",
+                "card_sub": "BỘ HÀM XUYÊN MÔI ĐỤC BÊ TÔNG",
+                "card_style": (
+                    "a large ornate 2D cartoon bio-laboratory containment chapter title plaque isolated on a pure solid white background: "
+                    "a chamfered dark purple steel chamber frame with glowing neon acid-green glass tubes and microscope icons on the corners; "
+                    "at the top is a glowing purple barcode specimen badge containing bold white uppercase Vietnamese text \"{badge}\"; "
+                    "in the center is huge glowing bright yellow uppercase Vietnamese headline \"{title}\"; "
+                    "at the bottom is a dark cyber-lab ribbon containing bold cyan uppercase Vietnamese subtitle \"{sub}\""
+                ),
+                "banner_bar_style": (
+                    "on the left is a glowing laboratory purple bio-specimen tag with a barcode and bubbling flask icon containing bold white uppercase Vietnamese text \"{badge}\"; "
+                    "immediately to the right is a high-tech stainless steel lab chamber bar with neon acid-green hazard borders containing bold bright yellow uppercase Vietnamese text \"{title}\""
+                ),
+                "chapter_title": "Mẫu vật #32: Chân dung củ khoai tây biết đi và bộ hàm xuyên môi đào bê tông",
+                "hook": "PHÒNG THÍ NGHIỆM CẤP 5: GIẢI MÃ MẪU VẬT XẤU XÍ NHẤT HÀNH TINH",
+                "mood": "tram_bi_an",
+                "parts": [
+                    {
+                        "text": "Cảnh báo sinh học cấp độ năm! Chào mừng toàn thể hội đồng khoa học đã bước xuống phòng thí nghiệm ngầm tối mật của chúng tôi. Hôm nay, nằm trong lồng kính cường lực trước mặt quý vị không phải là một quái thú săn mồi hào nhoáng, mà là mẫu vật kỳ dị bậc nhất lịch sử tiến hóa: Chuột Chũi Trũi Đông Phi, danh pháp khoa học Hê-tê-rô-xê-pha-lút gla-bơ. Nhìn thoáng qua, chắc chắn ai cũng tưởng ai đó vừa đánh rơi một củ khoai tây luộc bị héo hoặc một cây xúc xích hồng nhăn nheo biết chạy!",
+                        "mood": "tram_bi_an"
+                    },
+                    {
+                        "text": "Trợ lý phòng lab báo cáo: Mẫu vật dài tám đến mười xăng-ti-mét, nặng ba mươi lăm gam, trụi lông hoàn toàn nhưng chỉ số sinh tồn vượt mọi giới hạn sinh học!",
+                        "cast": "co_tro_ly"
+                    },
+                    {
+                        "text": "[laughter] Đừng để vẻ ngoài xấu xí ma chê quỷ hờn của gã Dị Nhân Khoai Tây này đánh lừa các bạn! Dù cơ thể chỉ nhỉnh hơn ngón tay cái người lớn và đôi mắt ti hí gần như mù tịt dưới lòng đất tối đen, cơ thể nó lại là một cỗ máy đào hầm siêu hạng. Hãy nhìn vào hai chiếc răng cửa khổng lồ trắng hếu của nó mà xem: Răng của nó không mọc trong miệng như thú bình thường, mà đâm xuyên thẳng qua lớp môi nhô hẳn ra bên ngoài!",
+                        "mood": "hao_hung"
+                    },
+                    {
+                        "text": "Thiết kế kỳ quặc này cho phép đôi môi của chuột chũi khép chặt hoàn toàn phía sau răng. Nhờ vậy, khi nó dùng răng đục khoét lớp đất cứng như bê tông khô dưới lòng đất châu Phi, chẳng có hạt đất cát nào có thể lọt vào cổ họng! Đỉnh cao hơn nữa, khối cơ hàm của nó chiếm tới hai mươi lăm phần trăm tổng lượng cơ bắp toàn cơ thể, và hai chiếc răng cửa hàm dưới có thể điều khiển tách rời độc lập y hệt như một đôi đũa gắp thức ăn!",
+                        "mood": "don_dap"
+                    },
+                    {
+                        "text": "Chưa dừng lại ở đó, dù cơ thể trụi lủi nhưng dọc sườn và đuôi của nó lại mọc lưa thưa khoảng bốn mươi sợi lông xúc giác cực nhạy hoạt động như một dàn radar ba trăm sáu mươi độ. Nhờ dàn cảm biến này, nó có thể chạy lùi trong đường hầm tối đen với tốc độ nhanh chẳng kém gì khi chạy tiến! Nhưng đó mới chỉ là màn khởi động trước khi bước vào năm bài thử nghiệm cực hạn điên rồ nhất!",
+                        "mood": "hao_hung"
+                    }
+                ]
+            },
+            {
+                "id": "scene02",
+                "badge": "THỬ NGHIỆM CẤP 1",
+                "banner_title": "VÔ CẢM TRƯỚC AXIT & ỚT HIỂM",
+                "card_sub": "KHÓA CHẶT KÊNH THẦN KINH ĐAU ĐỚN",
+                "card_style": (
+                    "a large ornate 2D cartoon chemical-hazard experiment chapter title board isolated on a pure solid white background: "
+                    "a dark emerald laboratory plaque framed by translucent green glass pipes filled with bubbling neon acid and red chili icons on the corners; "
+                    "at the top is a yellow-and-black hazard shield badge containing bold white uppercase Vietnamese text \"{badge}\"; "
+                    "in the center is huge glowing bright yellow uppercase Vietnamese headline \"{title}\"; "
+                    "at the bottom is a dark chemical tube ribbon containing bold white uppercase Vietnamese subtitle \"{sub}\""
+                ),
+                "banner_bar_style": (
+                    "on the left is a yellow-and-black chemical hazard shield badge with a glowing acid droplet icon containing bold dark-outlined white uppercase Vietnamese text \"{badge}\"; "
+                    "immediately to the right is a translucent green laboratory glass pipe bar filled with bubbling neon liquid containing bold bright yellow uppercase Vietnamese text \"{title}\""
+                ),
+                "chapter_title": "Thử nghiệm cấp 1: Vô cảm trước axit ăn mòn và chất cay ớt hiểm nhờ khóa kênh thần kinh",
+                "hook": "THỬ NGHIỆM CẤP ĐỘ 1: TẠT AXIT VÀ ỚT HIỂM — PHẢN ỨNG BẰNG KHÔNG",
+                "mood": "don_dap",
+                "parts": [
+                    {
+                        "text": "Bắt đầu bài thử nghiệm khắc nghiệt cấp độ một: Kiểm tra ngưỡng chịu đau hóa học! Năm hai ngàn không trăm linh tám, giáo sư Tô-mát Pác tại Đại học Y-li-noi và giáo sư Ga-ri Lê-uyn đã tiến hành một thí nghiệm khiến giới thần kinh học sững sờ. Khi nhỏ dung dịch axit nồng độ thấp hoặc bôi hoạt chất cáp-xai-xin siêu cay chiết xuất từ ớt hiểm lên da các loài chuột bình thường, chúng lập tức nhảy dựng lên vì bỏng rát dữ dội.",
+                        "mood": "don_dap"
+                    },
+                    {
+                        "text": "Ủa các bác sĩ nhỏ nước gì mát thế? Cho xin thêm vài giọt ớt hiểm làm nước chấm củ rễ cây luôn được không ạ?",
+                        "cast": "chu_ngo_ngac"
+                    },
+                    {
+                        "text": "[surprise-oh] Chẳng hề nhăn mặt, chẳng hề giật mình! Mẫu vật Chuột Chũi Trũi hoàn toàn trơ lì như không hề có chuyện gì xảy ra! Khi mổ xẻ hệ thần kinh dưới kính hiển vi phân tử, các nhà khoa học phát hiện sợi thần kinh cảm giác dưới da của nó hoàn toàn thiếu vắng một hợp chất truyền tin mang tên Sắp-xtần Pê — vốn là chất phát tín hiệu báo động cảm giác bỏng rát lên não bộ ở mọi loài thú có vú.",
+                        "mood": "hao_hung"
+                    },
+                    {
+                        "text": "Độc đáo hơn nữa, nghiên cứu năm hai ngàn không trăm mười một trên tạp chí Sai-ần đã chỉ ra rằng kênh truyền tín hiệu đau Na Vê một chấm bảy của loài chuột này đã bị đột biến đảo ngược. Ở con người, khi gặp axit, kênh này mở toang để bắn tín hiệu đau đớn điên cuồng. Nhưng ở Chuột Chũi Trũi, chính phân tử axit lại biến thành chiếc chìa khóa đóng sập kênh Na Vê một chấm bảy lại! Tức là axit đối với nó chẳng khác nào thuốc gây tê miễn phí, giúp nó sống khỏe re dưới đáy hang ngầm ngập tràn khí các-bô-níc đậm đặc gây axit hóa mô!",
+                        "mood": "tram_bi_an"
+                    }
+                ]
+            },
+            {
+                "id": "scene03",
+                "badge": "THỬ NGHIỆM CẤP 2",
+                "banner_title": "HÓA THỰC VẬT SỐNG 0% OXY",
+                "card_sub": "18 PHÚT ĐỐT ĐƯỜNG TRÁI CÂY FRUCTOSE",
+                "card_style": (
+                    "a large ornate 2D cartoon zero-oxygen vacuum chamber chapter title board isolated on a pure solid white background: "
+                    "a dark titanium airlock plaque wrapped with glowing green botanical plant vines and glowing leaves on the corners; "
+                    "at the top is a crimson red 0% oxygen pressure-gauge badge containing bold white uppercase Vietnamese text \"{badge}\"; "
+                    "in the center is huge glowing bright yellow uppercase Vietnamese headline \"{title}\"; "
+                    "at the bottom is a glowing emerald bio-vine ribbon containing bold cyan-white uppercase Vietnamese subtitle \"{sub}\""
+                ),
+                "banner_bar_style": (
+                    "on the left is a crimson red oxygen-gauge pressure meter badge with a zero-percent dial icon containing bold white uppercase Vietnamese text \"{badge}\"; "
+                    "immediately to the right is a dark titanium vacuum chamber bar fused with glowing green plant vines containing bold bright yellow uppercase Vietnamese text \"{title}\""
+                ),
+                "chapter_title": "Thử nghiệm cấp 2: Hóa thành thực vật đốt đường Fructose sống 18 phút ở mức 0% oxy",
+                "hook": "THỬ NGHIỆM CẤP ĐỘ 2: RÚT CẠN 100% OXY TRONG BUỒNG KÍN SUỐT 18 PHÚT",
+                "mood": "tram_bi_an",
+                "parts": [
+                    {
+                        "text": "Nếu bài kiểm tra hóa chất vẫn chưa đủ làm khó mẫu vật, chúng ta nâng mức độ lên thử nghiệm cấp độ hai: Buồng chân không rút cạn sạch không phần trăm oxy! Hãy tưởng tượng dưới lòng đất sâu hai mét, ba trăm con chuột chũi chen chúc nhau trong một đường hầm bịt kín bưng chẳng có khe gió. Nồng độ oxy ở đó thấp đến mức bất kỳ người hay con chuột bạch nào bước vào cũng sẽ ngất lịm và tử vong chỉ sau sáu mươi giây.",
+                        "mood": "tram_bi_an"
+                    },
+                    {
+                        "text": "Cảnh báo đỏ: Nồng độ oxy trong buồng thử nghiệm đã tụt về không phần trăm! Nhịp tim mẫu vật giảm từ hai trăm nhịp một phút xuống còn năm mươi nhịp một phút!",
+                        "cast": "co_tro_ly"
+                    },
+                    {
+                        "text": "Một phút trôi qua... năm phút... mười phút... rồi đúng mười tám phút hoàn toàn chẳng có lấy một phân tử oxy nào! Mẫu vật nằm bất động trong trạng thái đình trệ sinh học. Thế nhưng ngay khoảnh khắc van oxy được mở trở lại, gã Dị Nhân Khoai Tây lập tức vươn vai đứng dậy đi lại tỉnh bơ mà không hề bị tổn thương một tế bào não hay cơ tim nào! Bí mật nằm ở công trình chấn động công bố trên tạp chí Sai-ần năm hai ngàn không trăm mười bảy.",
+                        "mood": "don_dap"
+                    },
+                    {
+                        "text": "[surprise-wa] Khi thiếu oxy, mọi loài động vật có vú đều bị tắc nghẽn dây chuyền đốt đường gờ-lu-cô-zơ làm tế bào não chết ngạt. Nhưng Chuột Chũi Trũi đã thực hiện một cú chuyển đổi sinh học không tưởng: Nó bật công tắc chuyển sang đốt đường phờ-rắc-tô-zơ — tức là loại đường trái cây — thông qua các bơm phân tử chuyên biệt để nuôi sống não bộ mà không cần oxy! Đây vốn là cơ chế trao đổi chất độc quyền của giới thực vật! Nói cách khác, khi hết sạch không khí, nó tạm thời biến thành một củ khoai tây thực thụ để chờ thời, rồi lại hoàn hồn làm động vật khi có gió về! [laughter]",
+                        "mood": "hao_hung"
+                    }
+                ]
+            },
+            {
+                "id": "scene04",
+                "badge": "THỬ NGHIỆM CẤP 3",
+                "banner_title": "SIÊU KEO KHÓA CHẶT UNG THƯ",
+                "card_sub": "SIÊU PHÂN TỬ HMW-HA GẤP 5 LẦN",
+                "card_style": (
+                    "a large ornate 2D cartoon molecular anti-cancer shield chapter title plaque isolated on a pure solid white background: "
+                    "a deep sapphire bio-fortress board framed by golden intertwined double-helix DNA strands and golden padlocks on the corners; "
+                    "at the top is an emerald green molecular shield badge containing bold white uppercase Vietnamese text \"{badge}\"; "
+                    "in the center is huge glowing bright yellow uppercase Vietnamese headline \"{title}\"; "
+                    "at the bottom is a dark sapphire ribbon containing bold cyan-white uppercase Vietnamese subtitle \"{sub}\""
+                ),
+                "banner_bar_style": (
+                    "on the left is an emerald green molecular microscope badge with a glowing shield icon containing bold white uppercase Vietnamese text \"{badge}\"; "
+                    "immediately to the right is a dark sapphire bio-helix bar framed by golden intertwined DNA strands containing bold bright yellow uppercase Vietnamese text \"{title}\""
+                ),
+                "chapter_title": "Thử nghiệm cấp 3: Siêu keo Hyaluronic Acid HMW-HA và khóa kép chống ung thư tuyệt đối",
+                "hook": "THỬ NGHIỆM CẤP ĐỘ 3: KHIÊN CHẮN PHÂN TỬ BÓP NGHẸT MỌI KHỐI U",
+                "mood": "hao_hung",
+                "parts": [
+                    {
+                        "text": "Chuyển sang thử nghiệm cấp độ ba: Khả năng kháng bệnh nan y! Thông thường, tới hơn bảy mươi phần trăm các loài chuột trong phòng thí nghiệm sẽ tử vong vì các khối u ung thư khi về già. Thế nhưng khi giáo sư Vê-ra Goóc-bu-nô-va và cộng sự tại Đại học Rô-chét-xtơ theo dõi hàng ngàn cá thể Chuột Chũi Trũi suốt hàng chục năm trời, họ phát hiện một con số gây chấn động y học thế giới: Hầu như không có bất kỳ cá thể nào mắc bệnh ung thư!",
+                        "mood": "hao_hung"
+                    },
+                    {
+                        "text": "Khi kiểm tra dịch nuôi cấy tế bào của chúng vào năm hai ngàn không trăm mười ba, các nhà nghiên cứu thấy dung dịch cứ đặc quánh và nhớt nhầy như hồ dán làm tắc nghẽn cả ống hút phòng lab! Thủ phạm chính là hợp chất đường siêu phân tử Hy-a-lu-rô-níc A-xít khối lượng cực cao, viết tắt là Hát Mờ Đắp-bờ-liu Hát A. Ở con người, hợp chất này vốn được dùng làm chất giữ ẩm trong mỹ phẩm dưỡng da, nhưng ở Chuột Chũi Trũi, chuỗi phân tử của nó dài và nặng gấp năm lần so với của người!",
+                        "mood": "don_dap"
+                    },
+                    {
+                        "text": "Lớp siêu keo Hát Mờ Đắp-bờ-liu Hát A này tạo thành một mạng lưới lồng sắt đàn hồi cực kỳ dày đặc bao bọc quanh từng tế bào của Dị Nhân Khoai Tây. Nhờ lớp đệm siêu đàn hồi đó mà làn da của nó mới nhăn nheo và co giãn rộng thùng thình, giúp nó luồn lách và quay đầu một trăm tám mươi độ ngay trong lòng đường hầm chật hẹp mà không bị rách da!",
+                        "mood": "am_ap"
+                    },
+                    {
+                        "text": "Quan trọng hơn cả, mạng lưới siêu keo này kích hoạt cơ chế ức chế tiếp xúc sớm thông qua bộ khóa bảo vệ kép gồm hai gen pê mười sáu và pê hai mươi bảy. Ở cơ thể người, chúng ta chỉ có một ổ khóa pê hai mươi bảy, nên khi tế bào đột biến nhân lên chật chội, khối u vẫn có thể phá khóa phát triển. Còn ở Chuột Chũi Trũi, ngay khi vài tế bào bất thường vừa chạm nhẹ vào nhau, ổ khóa thứ hai pê mười sáu lập tức sập xuống, ra lệnh đóng băng toàn bộ quá trình phân chia, bóp nghẹt mầm mống ung thư ngay từ trong trứng nước!",
+                        "mood": "tram_bi_an"
+                    }
+                ]
+            },
+            {
+                "id": "scene05",
+                "badge": "THỬ NGHIỆM CẤP 4",
+                "banner_title": "ĐẾ CHẾ NỮ HOÀNG ĐỘC TÀI",
+                "card_sub": "VƯƠNG QUỐC NGẦM 300 THẦN DÂN",
+                "card_style": (
+                    "a large ornate 2D cartoon subterranean royal empire chapter title plaque isolated on a pure solid white background: "
+                    "a carved terracotta underground earth-tunnel board embedded with glowing crystals, roots, and crossed mining pickaxes on the corners; "
+                    "at the top is a rusted iron underground crown badge containing bold white uppercase Vietnamese text \"{badge}\"; "
+                    "in the center is huge glowing bright yellow uppercase Vietnamese headline \"{title}\"; "
+                    "at the bottom is a dark subterranean stone ribbon containing bold white uppercase Vietnamese subtitle \"{sub}\""
+                ),
+                "banner_bar_style": (
+                    "on the left is a rusted iron underground crown badge with crossed digging pickaxes containing bold white uppercase Vietnamese text \"{badge}\"; "
+                    "immediately to the right is a subterranean terracotta earth-tunnel bar embedded with glowing roots and crystals containing bold bright yellow uppercase Vietnamese text \"{title}\""
+                ),
+                "chapter_title": "Thử nghiệm cấp 4: Đế chế Nữ Hoàng độc tài, nhà vệ sinh chung và tử huyệt máu lạnh",
+                "hook": "THỬ NGHIỆM CẤP ĐỘ 4: BÍ MẬT XÃ HỘI CÔN TRÙNG & TỬ HUYỆT TRỜI ĐÁNH",
+                "mood": "bi_hai",
+                "parts": [
+                    {
+                        "text": "Bước vào thử nghiệm cấp độ bốn: Quan sát hành vi xã hội! Năm một ngàn chín trăm tám mươi mốt, nhà sinh vật học Gien-ni-phơ Gia-vít đã phát hiện Chuột Chũi Trũi là loài thú có vú hiếm hoi trên Trái Đất sống theo mô hình xã hội côn trùng chân chính y hệt loài kiến và mối! Một vương quốc ngầm dài từ ba đến năm ki-lô-mét chứa tới ba trăm cá thể, nhưng chỉ có duy nhất một Nữ Hoàng tối cao được phép sinh con đẻ cái cùng ba gã hoàng phu!",
+                        "mood": "hao_hung"
+                    },
+                    {
+                        "text": "Tất cả nghe lệnh ta! Đội công nhân xếp hàng đào đất! Đội chiến binh ra chặn cửa hang! Đứa nào dám yêu đương lén lút ta húc cho văng vào vách đá!",
+                        "cast": "ba_trum"
+                    },
+                    {
+                        "text": "[laughter] Nữ Hoàng cai trị bằng nắm đấm sắt đúng nghĩa đen! Mỗi lần mang thai, các đốt xương sống của Nữ Hoàng tự động kéo dài ra như lò xo để chứa tới gần ba mươi đứa con trong bụng. Trong khi đó, hàng trăm thần dân còn lại bị Nữ Hoàng dùng áp lực cơ học húc đẩy liên tục khiến hormone sinh sản bị khóa chặt suốt đời! Đội công nhân phải xếp thành một dây chuyền băng tải sống: con đầu tiên dùng răng khoét đất, hàng chục con phía sau cứ thế đá đất qua háng nhau chạy tít ra cửa hang!",
+                        "mood": "bi_hai"
+                    },
+                    {
+                        "text": "Và chi tiết lầy lội nhất của đế chế này chính là quy định nhận diện công dân: Vì dưới hang tối đen như mực không nhìn thấy mặt nhau, cả ba trăm con chuột trong đàn đều phải lăn lộn vào chung một buồng nhà vệ sinh duy nhất! Nhờ tắm chung mùi chất thải đặc trưng của gia tộc, chúng nhận ra đồng đội ngay lập tức, kẻ lạ nào khác mùi mò vào sẽ bị đội chiến binh tóm cổ ngay!",
+                        "mood": "bi_hai"
+                    },
+                    {
+                        "text": "Thế nhưng vị hoàng đế ngầm này lại mang một tử huyệt chí mạng: Chúng đã đánh mất hoàn toàn lớp mỡ nâu và khả năng tự điều chỉnh thân nhiệt của loài thú có vú, trở thành sinh vật biến nhiệt chẳng khác nào loài bò sát máu lạnh! Ở trong hang sâu nhiệt độ luôn ổn định quanh mức ba mươi độ C, nhưng nếu bị lôi ra ngoài trời lạnh dưới mười lăm độ C hoặc nắng nóng trên ba mươi lăm độ C, siêu dị nhân chống axit và ung thư của chúng ta sẽ lập tức đơ cứng vì sốc nhiệt! Để giữ ấm, cả đàn chỉ còn cách rúc vào nhau nằm chồng chất thành một đống khoai tây khổng lồ!",
+                        "mood": "tram_bi_an"
+                    }
+                ]
+            },
+            {
+                "id": "scene06",
+                "badge": "THỬ NGHIỆM CẤP 5",
+                "banner_title": "PHÁ VỠ ĐỊNH LUẬT LÃO HÓA",
+                "card_sub": "KỶ LỤC TRƯỜNG THỌ 37 NĂM BẤT TỬ",
+                "card_style": (
+                    "a large ornate 2D cartoon cyber-biotech longevity chapter title plaque isolated on a pure solid white background: "
+                    "a dark obsidian circuit board framed with glowing cyan bio-circuits, golden longevity graphs, and a golden DNA key on the corners; "
+                    "at the top is a golden infinity-hourglass seal badge containing bold dark-outlined white uppercase Vietnamese text \"{badge}\"; "
+                    "in the center is huge glowing bright yellow uppercase Vietnamese headline \"{title}\"; "
+                    "at the bottom is a glowing cyan biotech ribbon containing bold white uppercase Vietnamese subtitle \"{sub}\""
+                ),
+                "banner_bar_style": (
+                    "on the left is a golden classified-approval seal badge with an infinity hourglass icon containing bold dark-outlined white uppercase Vietnamese text \"{badge}\"; "
+                    "immediately to the right is a glowing cyan cyber-biotech circuit bar with golden longevity graphs containing bold bright yellow uppercase Vietnamese text \"{title}\""
+                ),
+                "chapter_title": "Thử nghiệm cấp 5: Tuổi thọ 37 năm phá vỡ định luật lão hóa Gompertz và hé lộ tập 33",
+                "hook": "BÁO CÁO NGHIỆM THU CẤP 5: BÍ MẬT TRƯỜNG THỌ BẤT TỬ & CÂU ĐỐ TẬP 33",
+                "mood": "am_ap",
+                "parts": [
+                    {
+                        "text": "Cuối cùng, bài thử nghiệm cấp độ năm cũng là đỉnh cao vĩ đại nhất của Dị Nhân Khoai Tây mang mã số ba mươi hai: Thử thách thời gian! Một con chuột nhắt có cùng kích thước chỉ sống được tối đa từ hai đến ba năm là già yếu qua đời. Thế nhưng Chuột Chũi Trũi có thể sống khỏe mạnh tới ba mươi bảy năm — tức là gấp hơn mười hai lần tuổi thọ dự kiến! Nếu quy đổi sang thước đo của con người, nó tương đương với một cụ già sống thọ tới hơn tám trăm tuổi!",
+                        "mood": "hao_hung"
+                    },
+                    {
+                        "text": "Năm hai ngàn không trăm mười tám, nhà sinh học Rô-sen Bắp-phen-xtên đã công bố dữ liệu theo dõi hơn ba ngàn cá thể suốt ba thập kỷ và chứng minh Chuột Chũi Trũi đã đập tan định luật lão hóa Gôm-pớt. Ở mọi sinh vật khác, càng lớn tuổi thì nguy cơ tử vong càng tăng theo cấp số nhân. Nhưng ở loài chuột này, một cụ chuột ba mươi tuổi vẫn có trái tim khỏe mạnh, mật độ xương rắn chắc và tế bào tự dọn rác hoàn hảo y hệt một thanh niên hai tuổi! Nó chính là chìa khóa vàng giúp y học nhân loại giải mã giấc mơ trường thọ và chiến thắng bệnh ung thư trong tương lai.",
+                        "mood": "am_ap"
+                    },
+                    {
+                        "text": "Hội đồng khoa học thân mến, sau năm cấp độ thử nghiệm điên rồ vừa rồi, bạn thấy siêu năng lực nào của Chuột Chũi Trũi đỉnh chóp nhất: Vô cảm trước axit nhờ khóa kênh thần kinh, hóa thành thực vật sống mười tám phút không cần oxy, hay lớp siêu keo Hát Mờ Đắp-bờ-liu Hát A bóp nghẹt mọi khối u ung thư? Hãy ghi ngay đánh giá của bạn xuống phần bình luận bên dưới nhé!",
+                        "mood": "hao_hung"
+                    },
+                    {
+                        "text": "Và ngay trong hồ sơ tập ba mươi ba tiếp theo, chúng ta sẽ rời căn hầm nóng bức Đông Phi để bay tới vùng băng giá Bắc Cực lạnh âm hai mươi độ C! Tại đó có một quái kiệt lưỡng cư tự biến hai phần ba lượng nước trong cơ thể thành một cục nước đá cứng ngắc suốt tám tháng mùa đông: Tim ngừng đập hoàn toàn, máu ngừng chảy, não bộ tắt nguồn như đã chết, nhưng ngay khi nắng xuân vừa chạm tới lại tự rã đông nhảy nhót tỉnh bơ! Đố bạn đoán được sinh vật đóng băng bất tử tiếp theo này là ai?",
+                        "mood": "tram_bi_an"
+                    }
+                ]
+            }
+        ]
+    },
+    "shorts": {
+        "target_s": 54.0,
+        "mood": "hao_hung",
+        "text": "Cảnh báo sinh học cấp độ năm! [surprise-oh] Tại sao loài chuột xấu xí nhăn nheo như củ khoai tây luộc này lại miễn nhiễm hoàn toàn với bệnh ung thư và sống sót mười tám phút không cần một giọt oxy nào? Đây là Chuột Chũi Trũi Đông Phi, siêu dị nhân bất tử dưới lòng đất! Khi các nhà khoa học theo dõi hàng ngàn cá thể suốt ba mươi bảy năm, họ sững sờ khi thấy chúng gần như không bao giờ mắc ung thư. Bí mật nằm ở chỗ tế bào của chúng tiết ra một chất siêu keo tên là Hy-a-lu-rô-níc A-xít có phân tử nặng gấp năm lần con người! Lớp siêu keo này kết hợp cùng bộ khóa gen kép pê mười sáu và pê hai mươi bảy, tạo thành chiếc lồng sắt khóa chặt và bóp nghẹt mọi tế bào khối u ngay từ khi mới chớm! Chưa hết, khi bị nhốt trong hầm kín không phần trăm oxy suốt mười tám phút, nó lập tức biến hình thành thực vật, đốt đường trái cây phờ-rắc-tô-zơ để nuôi não bộ mà chẳng cần hít thở! Một kiệt tác y sinh học giúp nó sống thọ tới ba mươi bảy năm!"
+    },
+    "seo": {
+        "title": "Sinh Vật Sống Ở Mức 0% Oxy & Miễn Nhiễm Hoàn Toàn Ung Thư?! | Tập 32",
+        "hook_paragraph": "Chuột Chũi Trũi (Heterocephalus glaber) trông nhăn nheo như củ khoai tây luộc nhưng sở hữu 5 siêu năng lực thách thức mọi định luật sinh học: vô cảm trước axit, hóa thành thực vật sống 18 phút ở mức 0% oxy, miễn nhiễm ung thư nhờ siêu keo phân tử HMW-HA và sống thọ tới 37 năm!",
+        "bullets": [
+            "Bộ răng cửa mọc xuyên qua lớp môi và cơ hàm chiếm 25% cơ thể chuyên đục đất cứng như bê tông",
+            "Đột biến khóa kênh thần kinh NaV1.7 và thiếu chất Substance P giúp vô cảm hoàn toàn trước axit và chất cay ớt hiểm",
+            "Chuyển đổi trao đổi chất sang đốt đường Fructose kỵ khí như thực vật để sống sót 18 phút ở môi trường 0% oxy",
+            "Hợp chất siêu keo Hyaluronic Acid HMW-HA nặng gấp 5 lần người và khóa kép p16/p27 chặn đứng 100% khối u ung thư",
+            "Đế chế Nữ Hoàng độc tài dưới lòng đất và tuổi thọ kỷ lục 37 năm phá vỡ định luật lão hóa Gompertz"
+        ],
+        "question": "Trong 5 siêu năng lực của Chuột Chũi Trũi, bạn thấy khả năng nào phi thường nhất: Vô cảm trước axit, hóa thực vật sống 18 phút 0% oxy, hay lớp siêu keo HMW-HA khóa chặt ung thư?",
+        "next_teaser": "sinh vật Bắc Cực tự đóng băng cơ thể thành cục đá suốt mùa đông, tim ngừng đập nhưng mùa xuân lại tự rã đông sống dậy",
+        "hashtag_broad": "#độngvật",
+        "hashtag_animal": "#chuộtchũi",
+        "hashtags": ["#độngvật", "#chuộtchũi", "#VẽChuyệnHoangDã"],
+        "tags": [
+            "chuột chũi trũi", "chuột chũi", "naked mole rat", "heterocephalus glaber",
+            "động vật miễn nhiễm ung thư", "sống không cần oxy", "hyaluronic acid hmw-ha",
+            "động vật bất tử", "chuột sống 37 năm", "sinh vật kỳ lạ nhất thế giới",
+            "thế giới động vật", "vẽ chuyện hoang dã", "whiteboard animation", "khoa học vui"
+        ],
+        "shorts_title": "Tại Sao Loài Chuột Xấu Xí Nhất Hành Tinh Không Bao Giờ Bị Ung Thư?!",
+        "shorts_desc": "Chuột Chũi Trũi (Heterocephalus glaber) tiết ra hợp chất siêu keo Hyaluronic Acid (HMW-HA) nặng gấp 5 lần con người kết hợp khóa gen kép p16/p27 bóp nghẹt mọi khối u ung thư, đồng thời hóa thành thực vật sống 18 phút không cần oxy và thọ tới 37 năm!",
+        "shorts_tags": ["chuột chũi trũi", "naked mole rat", "shorts", "động vật", "khoa học", "vẽ chuyện hoang dã"],
+        "en_title": "The Immortal Rodent That Survives 0% Oxygen & Never Gets Cancer?! | Ep 32",
+        "en_hook": "The Naked Mole-Rat (Heterocephalus glaber) looks like a wrinkly potato yet defies biology: feeling zero pain from acid, surviving 18 minutes at 0% oxygen by burning fructose like a plant, blocking cancer completely with high-molecular-weight Hyaluronic Acid (HMW-HA), and living up to 37 years!",
+        "en_chapters": [
+            "Specimen #32: The Walking Potato and Lip-Piercing Incisors",
+            "Level 1 Test: Acid and Capsaicin Pain Immunity via NaV1.7 Lock",
+            "Level 2 Test: Plant Mode Fructose Metabolism at 0% Oxygen for 18 Minutes",
+            "Level 3 Test: Super-Glue HMW-HA and Dual p16/p27 Anti-Cancer Shield",
+            "Level 4 Test: Eusocial Underground Queen and Cold-Blooded Weakness",
+            "Level 5 Test: 37-Year Lifespan Defying Gompertz Aging Law"
+        ],
+        "en_shorts_title": "Why Does the Ugliest Rodent on Earth Never Get Cancer?!"
+    }
+}
+
+df = ep["display_fix"]
+for k, v in list(df.items()):
+    df[k[0].upper() + k[1:]] = v[0].upper() + v[1:] if v and v[0].isalpha() and k[0].islower() else v
+    df[k[0].lower() + k[1:]] = v
+ep["display_fix"] = df
+
+(P / "episode.json").write_text(json.dumps(ep, ensure_ascii=False, indent=2), encoding="utf-8")
+print("Written projects/tap-32-chuot-chui-trui/episode.json successfully!")

@@ -1,0 +1,399 @@
+{
+ "episode": "tap-48-co-mo-giay",
+ "title_lines": [
+  "TƯỢNG ĐÁ ĐẦM LẦY",
+  "SÚNG MÁY GÕ MỎ?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 48.8,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-48-co-mo-giay_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  8.25,
+  13.83,
+  18.65,
+  24.09,
+  27.83,
+  33.61,
+  38.19,
+  42.63,
+  47.31
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.66,
+     "text": "Gặp người thì"
+    },
+    {
+     "t": 1.12,
+     "text": "cúi đầu chào"
+    },
+    {
+     "t": 1.72,
+     "text": "lịch sự như"
+    },
+    {
+     "t": 2.16,
+     "text": "một quý ông,"
+    },
+    {
+     "t": 3.02,
+     "text": "nhưng với em"
+    },
+    {
+     "t": 3.56,
+     "text": "ruột trong tổ"
+    },
+    {
+     "t": 4.2,
+     "text": "thì ra tay"
+    },
+    {
+     "t": 4.98,
+     "text": "tàn nhẫn đến"
+    },
+    {
+     "t": 5.72,
+     "text": "lạnh người?!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 6.45,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 6.7,
+     "text": "Hãy nhìn chú"
+    },
+    {
+     "t": 7.28,
+     "text": "Cò Mỏ Giày"
+    },
+    {
+     "t": 7.88,
+     "text": "kỳ dị giữa"
+    },
+    {
+     "t": 8.54,
+     "text": "đầm lầy châu"
+    },
+    {
+     "t": 8.98,
+     "text": "Phi này xem!"
+    },
+    {
+     "t": 9.9,
+     "text": "Mang mật danh"
+    },
+    {
+     "t": 10.56,
+     "text": "Tượng Đá Tiền"
+    },
+    {
+     "t": 11.2,
+     "text": "Sử, nó"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 12.03,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02b.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 12.04,
+     "text": "có thể đứng"
+    },
+    {
+     "t": 12.44,
+     "text": "bất động giữa"
+    },
+    {
+     "t": 13.04,
+     "text": "bãi lau sậy"
+    },
+    {
+     "t": 13.596,
+     "text": "suốt 5 tiếng"
+    },
+    {
+     "t": 14.28,
+     "text": "liên tục mà"
+    },
+    {
+     "t": 15.0,
+     "text": "không thèm chớp"
+    },
+    {
+     "t": 15.68,
+     "text": "mắt lấy một lần!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 16.85,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 17.1,
+     "text": "Chiếc mỏ dài"
+    },
+    {
+     "t": 17.74,
+     "text": "24cm của nó"
+    },
+    {
+     "t": 19.3,
+     "text": "trông như chiếc"
+    },
+    {
+     "t": 19.82,
+     "text": "guốc gỗ nhưng"
+    },
+    {
+     "t": 20.68,
+     "text": "mép sắc lẹm"
+    },
+    {
+     "t": 21.4,
+     "text": "như dao phay,"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 22.29,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03b.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 22.54,
+     "text": "sẵn sàng tung"
+    },
+    {
+     "t": 23.04,
+     "text": "cú bổ nhào"
+    },
+    {
+     "t": 23.66,
+     "text": "35km/h một giờ"
+    },
+    {
+     "t": 24.68,
+     "text": "chém đôi cá"
+    },
+    {
+     "t": 25.18,
+     "text": "phổi và cá sấu"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 26.03,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 26.08,
+     "text": "non! Mỗi khi"
+    },
+    {
+     "t": 27.14,
+     "text": "đêm xuống,"
+    },
+    {
+     "t": 27.62,
+     "text": "nó dập mỏ"
+    },
+    {
+     "t": 28.32,
+     "text": "tạo ra tiếng"
+    },
+    {
+     "t": 28.9,
+     "text": "nổ đanh thép"
+    },
+    {
+     "t": 29.5,
+     "text": "như súng máy"
+    },
+    {
+     "t": 30.04,
+     "text": "liên thanh nổ"
+    },
+    {
+     "t": 30.58,
+     "text": "giòn vang xa"
+    },
+    {
+     "t": 31.08,
+     "text": "hàng cây số!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 31.81,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 32.06,
+     "text": "Ở vườn thú,"
+    },
+    {
+     "t": 32.9,
+     "text": "nếu bạn cúi"
+    },
+    {
+     "t": 33.44,
+     "text": "chào, nó sẽ"
+    },
+    {
+     "t": 34.22,
+     "text": "lập tức cúi"
+    },
+    {
+     "t": 34.78,
+     "text": "gập đầu đáp"
+    },
+    {
+     "t": 35.36,
+     "text": "lễ cực kỳ"
+    },
+    {
+     "t": 35.9,
+     "text": "đáng yêu."
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 36.39,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 36.64,
+     "text": "Thế nhưng trong"
+    },
+    {
+     "t": 37.2,
+     "text": "tự nhiên hoang"
+    },
+    {
+     "t": 37.92,
+     "text": "dã, chim non"
+    },
+    {
+     "t": 38.54,
+     "text": "mới nở sẽ"
+    },
+    {
+     "t": 39.2,
+     "text": "liên tục mổ,"
+    },
+    {
+     "t": 40.12,
+     "text": "cắn xé và bỏ"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 40.83,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 40.82,
+     "text": "đói đứa em"
+    },
+    {
+     "t": 41.3,
+     "text": "ruột của mình"
+    },
+    {
+     "t": 41.7,
+     "text": "đến chết để"
+    },
+    {
+     "t": 42.52,
+     "text": "độc chiếm nguồn"
+    },
+    {
+     "t": 43.14,
+     "text": "thức ăn,"
+    },
+    {
+     "t": 43.4,
+     "text": "dưới sự làm"
+    },
+    {
+     "t": 44.2,
+     "text": "ngơ tuyệt đối"
+    },
+    {
+     "t": 44.86,
+     "text": "của chim mẹ!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 45.51,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 45.76,
+     "text": "Một nghịch lý"
+    },
+    {
+     "t": 46.36,
+     "text": "sinh tồn rùng"
+    },
+    {
+     "t": 47.08,
+     "text": "mình đến nghẹt"
+    },
+    {
+     "t": 47.84,
+     "text": "thở của tự nhiên!"
+    }
+   ]
+  }
+ ]
+}

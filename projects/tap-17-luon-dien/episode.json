@@ -1,0 +1,339 @@
+{
+ "episode_no": 17,
+ "animal": "Lươn Điện",
+ "slug": "tap-17-luon-dien",
+ "format": "F5",
+ "persona": "nha_khoa_hoc",
+ "_angle_from_roadmap": "Thử nghiệm nguồn điện 860 Vôn: Bố trí 6.000 tế bào pin nối tiếp, cú nhảy dí cằm giật ngất cá sấu.",
+ "_shorts_idea_from_roadmap": "Tại sao Lươn Điện phóng ra 860 Vôn giết cá sấu nhưng chính nó không bị giật?",
+ "nickname": "Nhà Máy Điện Sống",
+ "sources": [
+  "de Santana, C. D. et al. (2019), Nature Communications — Unexpected diversity in electric eels with 860V shock record in Electrophorus voltai",
+  "Catania, K. C. (2014), Science — The shocking predatory strike of the electric eel and remote control of prey muscles",
+  "Catania, K. C. (2016), PNAS — Leaping eels power high-voltage discharges directly against terrestrial threats",
+  "Catania, K. C. (2015), Current Biology — Electric eels use high-voltage curled posture to double power delivered to prey",
+  "Johansen, K. et al. (1968), Journal of Experimental Biology — Air breathing in the electric eel Electrophorus electricus",
+  "Gotter, A. L. et al. (1998), Comp. Biochem. Physiol. — Electrocytes and the biophysics of electric organ discharge"
+ ],
+ "whisper_prompt": "Lươn Điện, Nhà Máy Điện Sống, Electrophorus electricus, Electrophorus voltai, Kenneth Catania, David de Santana, electrocytes, 860V, 600V, 10V, 6.000 pin, cá sấu Caiman, Amazon, Bọ Pháo Thủ",
+ "display_fix": {
+  "tám trăm sáu mươi Vôn": "860V",
+  "Tám trăm sáu mươi Vôn": "860V",
+  "tám trăm sáu mươi vôn": "860V",
+  "Tám trăm sáu mươi vôn": "860V",
+  "sáu trăm Vôn": "600V",
+  "Sáu trăm Vôn": "600V",
+  "sáu trăm vôn": "600V",
+  "mười Vôn": "10V",
+  "Mười Vôn": "10V",
+  "mười vôn": "10V",
+  "không phẩy mười lăm Vôn": "0,15V",
+  "hai trăm hai mươi Vôn": "220V",
+  "hai trăm hai mươi vôn": "220V",
+  "một Am-pe": "1A",
+  "một am-pe": "1A",
+  "tám trăm sáu mươi Oát": "860W",
+  "sáu ngàn": "6.000",
+  "Sáu ngàn": "6.000",
+  "năm ngàn": "5.000",
+  "hai ngàn mười chín": "2019",
+  "hai ngàn mười sáu": "2016",
+  "hai ngàn mười bốn": "2014",
+  "hai mét": "2m",
+  "hai mét rưỡi": "2,5m",
+  "hai mươi ki-lô-gam": "20kg",
+  "Hai mươi ki-lô-gam": "20kg",
+  "tám mươi phần trăm": "80%",
+  "Tám mươi phần trăm": "80%",
+  "hai mươi phần trăm": "20%",
+  "Hai mươi phần trăm": "20%",
+  "mười lăm phút": "15 phút",
+  "mười phút": "10 phút",
+  "năm phút": "5 phút",
+  "một mili-giây": "1 mili-giây",
+  "hai đến ba phần nghìn giây": "2-3 phần nghìn giây",
+  "gấp bốn lần": "gấp 4 lần",
+  "gấp hai lần": "gấp 2 lần",
+  "năm cấp độ": "5 cấp độ",
+  "Cấp độ một": "Cấp độ 1",
+  "Cấp độ hai": "Cấp độ 2",
+  "Cấp độ ba": "Cấp độ 3",
+  "Cấp độ bốn": "Cấp độ 4",
+  "Cấp độ năm": "Cấp độ 5",
+  "Tập mười tám": "Tập 18",
+  "năm trăm lần mỗi giây": "500 lần/giây",
+  "một trăm độ C": "100°C",
+  "một tiếng": "1 tiếng",
+  "Ken-nét Ca-ta-ni-a": "Kenneth Catania",
+  "Đê Xan-ta-na": "de Santana",
+  "Vôn-tai": "voltai",
+  "Ê-léc-trô-pho-rút": "Electrophorus",
+  "Văn-đơ-bin": "Vanderbilt",
+  "Xmít-xô-ni-an": "Smithsonian",
+  "Cai-man": "Caiman",
+  "A-ma-dôn": "Amazon",
+  "mười bảy": "17",
+  "hai mươi": "20",
+  "ba mươi": "30",
+  "bốn trăm Vôn": "400V",
+  "bốn trăm nhịp": "400 nhịp",
+  "bốn trăm": "400",
+  "hai trăm năm": "200 năm",
+  "trăm triệu năm": "trăm triệu năm",
+  "hàng trăm triệu năm": "hàng trăm triệu năm",
+  "nửa mét": "0,5m",
+  "mười phân": "10cm",
+  "ba mươi xăng-ti-mét": "30cm",
+  "Ba mươi xăng-ti-mét": "30cm",
+  "một phần mười giây": "1/10 giây"
+ },
+ "voice": {},
+ "art": {
+  "decor": "electric lightning sparks, high voltage warning signs, battery cells, neon blue lightning bolts, digital voltmeters",
+  "shorts_mascot": "A feisty cute cartoon electric eel sparking with bright blue and yellow lightning bolts, wearing scientist goggles and holding two live battery jumper cables",
+  "thumb_bg": "phòng thí nghiệm công nghệ cao u tối với hồ nước ngầm Amazon phát sáng tia sét xanh neon chói lòa",
+  "thumb_title": [
+   "860 VÔN GIẬT CÁ SẤU?!",
+   "PHÒNG THÍ NGHIỆM LƯƠN ĐIỆN"
+  ],
+  "thumb_scene": "một chú Lươn Điện khổng lồ hoạt hình to rõ mắt sáng quắc đang ngóc đầu nhảy khỏi mặt nước phóng luồng điện 860V cực mạnh, đeo kính bảo hộ nhà khoa học, bên cạnh là đồng hồ đo điện quá tải nổ khói",
+  "thumb_gag": "góc dưới một con cá sấu Caiman bị giật cháy đen xù lông mắt xoay vòng tròn hài hước"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "KHỞI ĐỘNG THỬ THÁCH",
+    "banner_title": "MẪU VẬT PIN SỐNG 860 VÔN",
+    "chapter_title": "Khởi động phòng thí nghiệm: Mẫu vật pin sống 860 Vôn",
+    "hook": "BẬT CÔNG TẮC THỬ NGHIỆM 5 CẤP ĐỘ",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Chào mừng tất cả các trợ lý nghiên cứu đã bước vào Phòng Thí Nghiệm Sinh Học Tối Mật! Rè rè... Xoẹt! Tiếng hồ quang điện nổ lép bép trong bóng tối, và đồng hồ đo vôn kế đang nhảy số loạn xạ. Đằng sau tấm kính cường lực chống điện dày mười phân kia, một mẫu vật thủy quái kỳ dị bậc nhất hành tinh vừa được áp giải từ lưu vực sông Amazon về đây!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Báo cáo giáo sư! Nguồn điện trong bể chứa đang tăng vọt bất thường, tất cả bóng đèn cảnh báo đều đang chớp đỏ liên tục!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "Bình tĩnh nào cô trợ lý! Hãy đeo kính cách điện vào và ghi chép nhật ký thật cẩn thận! Mẫu vật số mười bảy hôm nay là một sinh vật mà cả thế giới quen miệng gọi là Lươn Điện. Nhưng tôi xin tiết lộ ngay một sự thật gây sốc đầu tiên: về mặt phả hệ sinh học, nó hoàn toàn không phải là lươn! [surprise-oh] Nó không có bất kỳ họ hàng nào với loài lươn đồng hay lươn biển, mà thuộc bộ cá dao Nam Mỹ, tức là có họ gần gũi với cá trê và cá da trơn hơn!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng tại sao chúng ta lại gọi nó bằng biệt danh Nhà Máy Điện Sống? Bởi vì toàn bộ cấu trúc cơ thể của con cá này sinh ra chỉ để phục vụ một mục đích duy nhất: biến thịt da thành vũ khí sốc điện hủy diệt! Hơn tám mươi phần trăm chiều dài cơ thể của nó là những khối pin sinh học nối tiếp nhau, có khả năng kích hoạt nguồn điện lên tới tám trăm sáu mươi Vôn — tức là mạnh gấp bốn lần ổ cắm điện hai trăm hai mươi Vôn trong nhà bạn! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Hôm nay, tôi sẽ kích hoạt quy trình thí nghiệm năm cấp độ tăng dần: từ máy phát radar định vị mười Vôn, vũ khí hack hệ thần kinh con mồi từ xa, cú nhảy dí cằm điện giật ngất ngây cá sấu hai mét, cho đến bí mật vì sao nó không bị điện giật chết chính mình! Hãy siết chặt dây an toàn, chúng ta bắt đầu kích hoạt Cấp độ một ngay bây giờ! [laughter]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "CẤP ĐỘ 1",
+    "banner_title": "RADAR DÒ VÀ 6000 CỤC PIN",
+    "chapter_title": "Cấp độ 1: 6.000 tế bào pin và radar định vị bùn lầy",
+    "hook": "MÁY ĐO ĐIỆN VÀ RADAR DÒ TÌM CON MỒI",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Khởi động Cấp độ một: Phân tích cơ chế nạp điện và hệ thống radar định vị trong bùn lầy! [laughter] Hãy nhìn kỹ vào thân hình dài tới hai mét và nặng hai mươi ki-lô-gam của mẫu vật. Tất cả các cơ quan nội tạng quan trọng nhất như tim, gan, dạ dày và mang thở đều bị dồn ép lại vỏn vẹn trong hai mươi phần trăm phần đầu phía trước! Toàn bộ phần thân dài ngoằng còn lại chính là ba cơ quan phát điện độc lập!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Cơ quan phát điện chính, cơ quan Hun-tơ và cơ quan Sách! Bên trong ba khối cơ này chứa khoảng năm ngàn đến sáu ngàn tế bào phát điện hình chiếc đĩa dẹp xếp chồng khít lên nhau thành hàng trăm cột dài song song. Mỗi tế bào này giống như một cục pin cúc áo mini, tạo ra một điện thế cực nhỏ chỉ không phẩy mười lăm Vôn. Nhưng khi hàng ngàn tế bào này được thần kinh kích hoạt đồng loạt nối tiếp nhau, các điện thế cộng dồn lại tạo thành một cú sốc điện kinh thiên động địa! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Nhưng ở chế độ bình thường, Nhà Máy Điện Sống không dại gì xả hết điện năng! Nó sử dụng cơ quan Sách ở đuôi để liên tục phát ra những xung điện áp thấp chỉ khoảng mười Vôn với tần số hai mươi nhịp mỗi giây. Vùng nước sông Amazon đục ngầu phù sa khiến mắt của lươn điện gần như bị mù lòa. Nhưng nhờ trường điện mười Vôn bao bọc xung quanh cơ thể, nó có thể cảm nhận mọi vật cản và con mồi bơi qua hệt như một chiếc tàu ngầm bật sóng sonar!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Giáo sư ơi! Màn hình radar vừa phát hiện một đàn cá nhỏ đang vùi mình dưới lớp bùn sâu ba mươi xăng-ti-mét! Nó làm sao bắt được chúng ạ?",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "Câu hỏi rất hay! Đã đến lúc chuyển giao diện thí nghiệm sang Cấp độ hai: Kỹ thuật hack não và thao túng cơ bắp con mồi từ xa! [laughter]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "CẤP ĐỘ 2",
+    "banner_title": "THAO TÚNG NÃO CON MỒI",
+    "chapter_title": "Cấp độ 2: Xung điện kép thao túng cơ bắp con mồi từ xa",
+    "hook": "HACK HỆ THẦN KINH VÀ ÉP CƠ BẮP CO GIẬT",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Bước vào Cấp độ hai: Thử nghiệm vũ khí điều khiển thần kinh từ xa! Năm hai ngàn mười bốn, nhà sinh vật học lừng danh Ken-nét Ca-ta-ni-a tại Đại học Văn-đơ-bin đã công bố một nghiên cứu chấn động trên tạp chí Science danh giá, vạch trần bí mật săn mồi đỉnh cao của Nhà Máy Điện Sống! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Khi nghi ngờ có con mồi đang ẩn nấp dưới đáy bùn, Lươn Điện sẽ phóng ra một cặp xung điện kép cực mạnh gồm hai cú sốc cách nhau đúng hai đến ba phần nghìn giây! Cặp xung điện này không phải để giết chết con mồi, mà nó bắt chước hoàn hảo tín hiệu điều khiển vận động của não bộ! Tín hiệu này xâm nhập thẳng vào hệ thần kinh của con cá đang nấp, ép toàn bộ các bó cơ trên cơ thể con mồi phải co giật kịch liệt ngoài ý muốn!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ối giời ơi! Tự nhiên đuôi tôi nó giật bắn lên thế này! Tôi đâu có muốn bơi đâu mà cơ thể cứ giãy nảy lên văng cả bùn ra ngoài thế này cứu tôi với!",
+      "cast": "be_con"
+     },
+     {
+      "text": "Chính xác là như vậy! Con cá nhỏ vừa giật bắn mình làm rung chuyển lớp bùn là vị trí ẩn nấp lập tức bị bại lộ hoàn toàn trước cảm biến của thợ săn! Và ngay trong một phần mười giây tiếp theo, Nhà Máy Điện Sống lập tức tung ra đòn kết liễu tàn nhẫn: nó xả liên tiếp hàng trăm xung điện cao thế bốn trăm Vôn với tần số bốn trăm nhịp mỗi giây! [surprise-wa]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Toàn bộ cơ bắp của con mồi lập tức rơi vào trạng thái co cứng cực đại, bị đông cứng như một khúc gỗ hoàn toàn tê liệt không thể cử động hay hít thở! Và trước khi con mồi kịp hiểu chuyện gì vừa xảy ra, Lươn Điện há chiếc miệng rộng ngoác tạo ra một lực hút chân không cực mạnh nuốt chửng nạn nhân vào bụng chỉ trong chớp mắt! Một cơ chế săn mồi điều khiển từ xa tinh vi đến mức các kỹ sư quân sự cũng phải ngả mũ bái phục! [laughter]",
+      "mood": "am_ap"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "CẤP ĐỘ 3",
+    "badge_title": "CÚ NHẢY DÍ CẰM DIỆT CÁ SẤU",
+    "banner_title": "CÚ NHẢY DÍ CẰM DIỆT CÁ SẤU",
+    "chapter_title": "Cấp độ 3: Cú nhảy dí cằm điện giật ngất cá sấu 2 mét",
+    "hook": "CÚ PHÓNG LÊN KHỎI NƯỚC DÍ THẲNG VÀO TIM",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Cảnh báo mức độ nguy hiểm cực hạn! Chúng ta bước vào Cấp độ ba: Đối đầu với những kẻ săn mồi khổng lồ trên cạn và cú nhảy dí cằm huyền thoại! [surprise-oh] Hơn hai trăm năm trước, nhà thám hiểm vĩ đại A-lếch-xăng-đơ von Hum-bôn từng kể lại câu chuyện lươn điện phóng điện tấn công cả đàn ngựa băng qua sông, nhưng suốt hai thế kỷ giới khoa học đều nghĩ rằng ông chỉ phóng đại câu chuyện dân gian!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Cho đến tận năm hai ngàn mười sáu, giáo sư Ca-ta-ni-a mới chính thức giải mã được hành vi kinh hoàng này trong phòng thí nghiệm! Trong môi trường nước sâu, dòng điện phóng ra từ cơ thể lươn sẽ bị phân tán ra mọi hướng trong nước, khiến điện áp truyền vào cơ thể kẻ địch bị suy giảm đáng kể. Nhưng khi bị một kẻ săn mồi to xác như cá sấu Cai-man, báo đốm hay con người dồn vào vùng nước nông, Nhà Máy Điện Sống sẽ tung ra tuyệt chiêu cận chiến nguy hiểm nhất!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Nó không nằm dưới nước phóng điện, mà dùng chiếc đuôi khỏe khoắn gập mạnh, ngóc đầu phóng vọt lên khỏi mặt nước cao tới nửa mét! Nó áp sát phần cằm dẫn điện cực dương trực tiếp vào ngực hoặc cổ họng của kẻ tấn công, trong khi phần đuôi cực âm vẫn cắm chặt dưới nước! Toàn bộ nguồn điện khủng khiếp chạy thẳng một mạch xuyên qua tim và não của kẻ săn mồi mà không hề bị tiêu hao một mi-li-vôn nào ra môi trường nước xung quanh! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Này con lươn trơn tuột kia, nhìn tao là cá sấu chúa dài hai mét đây này, liệu hồn mà nạp mạng... Á á á! Cứu tao với! Điện giật xoắn cả đuôi, tim ngừng đập rồi trời ơi!",
+      "cast": "ga_khong_lo"
+     },
+     {
+      "text": "Cú nhảy dí cằm trực tiếp này tạo ra một dòng điện cực mạnh đủ sức làm tê liệt hoàn toàn hệ cơ tim của một con cá sấu dài hai mét hoặc một con ngựa trưởng thành, khiến chúng ngã gục ngay tại chỗ vì sốc tim và ngạt thở! Chưa hết, khi gặp con mồi quá to, nó còn uốn cong cơ thể thành hình chữ U, kẹp chặt con mồi vào giữa đầu và đuôi để nhân đôi cường độ điện trường xuyên qua cơ thể nạn nhân! Một chiến thuật chiến đấu công thủ toàn diện đến mức rùng mình! [laughter]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "CẤP ĐỘ 4",
+    "banner_title": "TẠI SAO KHÔNG BỊ GIẬT CHẾT",
+    "chapter_title": "Cấp độ 4: Tại sao lươn điện không bị điện giật chết?",
+    "hook": "LỚP CÁCH ĐIỆN SINH HỌC VÀ NGHỊCH LÝ CHẾT ĐUỐI",
+    "mood": "nghiem_trang_gia",
+    "parts": [
+     {
+      "text": "Đến đây, chắc chắn câu hỏi lớn nhất đang sôi sục trong đầu các trợ lý là: Phóng ra nguồn điện khủng khiếp như vậy, tại sao chính con Lươn Điện lại không bị giật chết lăn quay ra đấy? Câu trả lời nằm ở ba tấm lá chắn vật lý và sinh học thiên tài mà tiến hóa đã trang bị cho Nhà Máy Điện Sống! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Lá chắn thứ nhất là quy luật điện trở vật lý! Cơ thể của lươn điện được bọc kín bởi một lớp da dày và các lớp mỡ dày có điện trở rất cao. Trong khi đó, dòng điện luôn có xu hướng chọn con đường có điện trở thấp nhất để di chuyển. Môi trường nước sông Amazon xung quanh cơ thể nó có điện trở thấp hơn rất nhiều so với lớp mỡ bảo vệ, nên phần lớn năng lượng điện phóng ra sẽ lập tức thoát thẳng ra nước xung quanh thay vì thâm nhập ngược vào sâu trong nội tạng của lươn!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Lá chắn thứ hai là bố cục vị trí cơ quan sinh học! Như tôi đã nhấn mạnh ở đầu buổi thí nghiệm, toàn bộ não bộ, tim và các cơ quan nội tạng nhạy cảm đều được cô lập hoàn toàn ở phần đầu, cách xa khu vực ba cơ quan phát điện ở thân sau và được bao bọc bởi các lớp mô liên kết cách điện kiên cố! Dòng điện đi từ đầu tới đuôi nhưng chỉ lướt qua bề mặt ngoài cơ thể!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Và lá chắn thứ ba là yếu tố kích thước! Lươn Điện trưởng thành dài tới hơn hai mét, nên mật độ dòng điện đi qua từng thớ cơ của nó bị pha loãng ra nhiều lần, trong khi những con cá nhỏ hay con mồi bị nó dí sát thì phải hứng trọn mật độ điện trường dày đặc chí mạng! Nhưng Nhà Máy Điện Sống bất khả chiến bại này lại có một điểm yếu chết người cực kỳ bi hài!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Tám mươi phần trăm lượng oxy của lươn điện được hấp thụ qua các mao mạch trong miệng chứ mang của nó gần như bị thoái hóa hoàn toàn! Cứ mười đến mười lăm phút một lần, nó bắt buộc phải ngoi đầu lên mặt nước để hít thở không khí. Nếu bạn giữ chặt con lươn này dưới nước không cho nó ngoi lên, một sát thủ điện giật ngất cá sấu sẽ... chết đuối y như con người! Một nghịch lý sinh học quá đỗi thú vị! [laughter]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "CẤP ĐỘ TỐI THƯỢNG",
+    "banner_title": "ĐẠT ĐỈNH 860V VÀ BÓNG ĐEN",
+    "chapter_title": "Cấp độ tối thượng: Sức mạnh 860V và bóng đen bí ẩn Tập 18",
+    "hook": "ĐỈNH CAO 860 VÔN VÀ BẬT MÍ QUÁI KIỆT TẬP 18",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Chào mừng quý vị bước vào Cấp độ tối thượng: Kỷ lục năng lượng mới nhất của thế giới hiện đại! Suốt hai trăm năm ròng rã, cả thế giới đinh ninh rằng hành tinh này chỉ có duy nhất một loài lươn điện với điện áp tối đa sáu trăm Vôn. Nhưng vào năm hai ngàn mười chín, nhóm nghiên cứu của tiến sĩ Đê Xan-ta-na tại Viện Xmít-xô-ni-an đã phát hiện ra loài lươn điện mới mang tên Ê-léc-trô-pho-rút Vôn-tai!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Khi gắn thiết bị đo vào mẫu vật Vôn-tai này, chiếc kim đồng hồ đã vọt lên con số kỷ lục tám trăm sáu mươi Vôn! Đây chính là sinh vật phóng điện mạnh nhất từng được ghi nhận trong lịch sử Trái Đất, biến những dòng sông hoang dã Nam Mỹ trở thành những trạm biến áp tự nhiên kỳ vĩ bậc nhất hành tinh! Tiến hóa không chỉ tạo ra sự sống, mà còn tạo ra những kỳ quan công nghệ sinh học đi trước con người hàng trăm triệu năm!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Báo cáo giáo sư! Toàn bộ dữ liệu thử nghiệm của mẫu vật Lươn Điện đã được lưu trữ thành công vào hệ thống! Nhưng trên radar quét tầm xa, phòng thí nghiệm vừa bắt được tín hiệu của một quái kiệt tí hon cực kỳ nguy hiểm cho Tập mười tám!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "Tuyệt vời lắm cô trợ lý! Xin mời toàn thể các nhà nghiên cứu hãy hướng mắt lên màn hình lớn trung tâm để giải mã BÓNG ĐEN BÍ ẨN của nhân vật xuất hiện trong Tập mười tám tiếp theo! [surprise-oh]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Xin gửi tới các bạn ba manh mối khoa học chấn động về bóng đen bí ẩn này: Thứ nhất, đây là siêu pháo thủ tí hon sở hữu khẩu súng hóa học liên thanh nã đạn năm trăm lần mỗi giây ở nhiệt độ sôi sùng sục một trăm độ C làm bỏng rát mọi kẻ thù! Thứ hai, phản ứng hóa học hai buồng đốt chết người: buồng chứa nhiên liệu và buồng kích nổ áp suất cực cao! Và thứ ba, kỷ lục thoát chết kinh dị bậc nhất: bị cóc nuốt chửng vào bụng suốt một tiếng đồng hồ, nó nã pháo xả độc ngay trong bao tử khiến cóc buồn nôn nôn thốc nôn tháo nguyên con ra ngoài vẫn sống nhăn nhở! [laughter]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Các trợ lý khoa học có đoán ra bóng đen pháo thủ tí hon này là sinh vật nào không? Hãy để lại kết quả phân tích và dự đoán của bạn ngay dưới phần bình luận nhé! Giáo sư phòng thí nghiệm xin chào tạm biệt và hẹn gặp lại các bạn trong cuộc thử nghiệm kỳ thú tiếp theo!",
+      "mood": "hao_hung"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "text": "[surprise-oh] Trợ lý, tăng điện áp lên mức tối đa! Một sinh vật có thể phóng ra dòng điện tám trăm sáu mươi Vôn giật ngất ngây cả cá sấu hai mét, nhưng tại sao chính nó lại không bị giật chết lăn quay? Đó chính là Lươn Điện, nhà máy điện sống khét tiếng của rừng rậm Nam Mỹ. Hơn tám mươi phần trăm cơ thể của nó là sáu ngàn tế bào pin sinh học nối tiếp nhau, tích tụ điện thế mạnh gấp bốn lần ổ cắm điện gia đình! [surprise-wa] Khi săn mồi, nó phóng xung điện kép hack thẳng vào hệ thần kinh ép cơ bắp con mồi co giật làm lộ vị trí, rồi tung cú nhảy dí cằm trực tiếp truyền trọn nguồn điện cực mạnh vào tim kẻ thù! Nhưng sở dĩ nó không bị giật chết là nhờ lớp mỡ cách điện dày cộp, toàn bộ nội tạng dồn hết lên đầu, và dòng điện luôn chọn thoát ra môi trường nước có điện trở thấp hơn! [laughter] Vậy là bí mật đã sáng tỏ: một tuyệt tác thiết kế của tự nhiên, biến thịt da thành vũ khí sốc điện tối thượng mà không hề tự thiêu rụi chính mình!",
+  "target_s": 53.0,
+  "mood": "hao_hung"
+ },
+ "seo": {
+  "title": "Tại Sao Lươn Điện 860V Giật Ngất Cá Sấu Mà Không Bị Giật Chết?! | Lươn Điện | Tập 17",
+  "hook_paragraph": "Lươn Điện phóng dòng điện kỷ lục 860V mạnh gấp 4 lần điện gia đình, hack hệ thần kinh con mồi từ xa và dí cằm giật ngất cá sấu 2m! Nhưng tại sao chính nó không bị điện giật chết? Khám phá phòng thí nghiệm 5 cấp độ sinh học của Nhà Máy Điện Sống.",
+  "bullets": [
+   "Nguồn điện kỷ lục 860V từ 6.000 tế bào pin sinh học nối tiếp",
+   "Vũ khí hack thần kinh: Xung điện kép ép cơ bắp con mồi co giật lộ vị trí",
+   "Cú nhảy dí cằm huyền thoại giật ngất cá sấu Caiman và ngựa trưởng thành",
+   "Bí mật lớp mỡ cách điện sinh học và nghịch lý 80% thở bằng miệng"
+  ],
+  "question": "Bạn có đoán ra BÓNG ĐEN BÍ ẨN ở cuối video là sinh vật nào không? (Gợi ý: Pháo thủ nã đạn 500 lần/giây ở 100°C, bị cóc nuốt 1 tiếng vẫn nã độc thoát ra). Bình luận dự đoán nhé!",
+  "next_teaser": "Bóng đen bí ẩn — siêu pháo thủ nã đạn 500 lần/giây ở 100°C bị cóc nuốt vẫn thoát thân",
+  "hashtags": [
+   "#LuonDien #ElectricEel #TheGioiDongVat #VeChuyenHoangDa #KhoaHoc"
+  ],
+  "tags": [
+   "lươn điện",
+   "luon dien",
+   "electric eel",
+   "tại sao lươn điện không bị giật",
+   "lươn điện giật cá sấu",
+   "lươn điện 860v",
+   "thế giới động vật",
+   "động vật kỳ lạ",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị",
+   "phòng thí nghiệm động vật"
+  ],
+  "shorts_title": "Tại Sao Lươn Điện 860V Giật Cá Sấu Mà Không Tự Giật Chết?! ⚡ #shorts #luondien",
+  "shorts_desc": "Lươn Điện phóng ra 860V giật ngất cá sấu 2 mét nhưng tại sao chính nó không bị điện giật chết? Khám phá tuyệt tác cách điện sinh học của Nhà Máy Điện Sống! ⚡🔋",
+  "shorts_tags": [
+   "lươn điện",
+   "electric eel",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã",
+   "khoa học thú vị"
+  ],
+  "en_title": "Why Doesn't the 860V Electric Eel Shock Itself to Death?! | Electric Eel | Ep 17",
+  "en_desc": "The Electric Eel discharges a record-breaking 860 Volts - four times household voltage - capable of knocking out a 2-meter caiman crocodile, yet never shocks itself! Explore the 5-level laboratory analysis of nature's living power plant.\n\nCHAPTERS:\n00:00 Intro\n00:10 Secret Lab: Specimen 860V Living Battery\n01:25 Level 1: 6,000 Electrocytes & Muddy Water Radar\n02:59 Level 2: Remote Muscle Hijacking with Doublet Pulses\n04:28 Level 3: The Shocking Chin Leap Against Caimans\n05:57 Level 4: Why Doesn't the Electric Eel Shock Itself?\n07:06 Ultimate Level: 860V World Record & Episode 18 Mystery Silhouette\n08:41 Ending\n\nWild Tales Sketch (Vẽ Chuyện Hoang Dã) explains real, fact-checked animal science with funny hand-drawn whiteboard animation. Narration is in Vietnamese: turn on CC and choose Auto-translate for subtitles in your language.\n\n#WildTalesSketch #ElectricEel #AnimalFacts #WhiteboardAnimation #FunnyAnimals",
+  "en_shorts_title": "Why Doesn't the 860V Electric Eel Shock Itself?! ⚡ #shorts #electriceel",
+  "en_shorts_desc": "The Electric Eel discharges 860V to stun 2-meter caiman crocodiles, but why doesn't it shock itself to death? Discover nature's master bio-insulation design! ⚡🔋\n\n#shorts #ElectricEel #AnimalFacts #WildTalesSketch"
+ }
+}

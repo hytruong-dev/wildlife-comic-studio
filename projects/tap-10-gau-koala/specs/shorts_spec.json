@@ -1,0 +1,433 @@
+{
+ "episode": "tap-10-gau-koala",
+ "title_lines": [
+  "BÀY ĐỒ ĂN RA ĐĨA",
+  "NHƯNG THÀ NHỊN ĐÓI?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 48.41,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-10-gau-koala_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  8.25,
+  14.27,
+  18.43,
+  21.23,
+  25.35,
+  28.65,
+  30.59,
+  34.41,
+  41.11,
+  45.41
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.66,
+     "text": "Bày sẵn một"
+    },
+    {
+     "t": 1.2,
+     "text": "đĩa lá tươi"
+    },
+    {
+     "t": 1.78,
+     "text": "ngon ngay trước"
+    },
+    {
+     "t": 2.38,
+     "text": "mặt, nhưng chú"
+    },
+    {
+     "t": 3.3,
+     "text": "Gấu Koala này"
+    },
+    {
+     "t": 4.24,
+     "text": "thà chịu chết"
+    },
+    {
+     "t": 5.0,
+     "text": "đói chứ nhất"
+    },
+    {
+     "t": 5.66,
+     "text": "quyết không ăn!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 6.45,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 6.7,
+     "text": "Lý do là"
+    },
+    {
+     "t": 7.3,
+     "text": "vì lá cây"
+    },
+    {
+     "t": 7.84,
+     "text": "đã bị bứt"
+    },
+    {
+     "t": 8.3,
+     "text": "rời khỏi cành,"
+    },
+    {
+     "t": 9.26,
+     "text": "bộ não của"
+    },
+    {
+     "t": 9.7,
+     "text": "nó hoàn toàn"
+    },
+    {
+     "t": 10.46,
+     "text": "không nhận diện"
+    },
+    {
+     "t": 11.04,
+     "text": "được đó là"
+    },
+    {
+     "t": 11.54,
+     "text": "thức ăn!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 12.47,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 12.72,
+     "text": "Khi chụp X-quang"
+    },
+    {
+     "t": 13.62,
+     "text": "hộp sọ của"
+    },
+    {
+     "t": 14.16,
+     "text": "Bệnh nhân ngơ"
+    },
+    {
+     "t": 14.7,
+     "text": "ngác này,"
+    },
+    {
+     "t": 15.42,
+     "text": "các bác sĩ"
+    },
+    {
+     "t": 15.84,
+     "text": "đã ngã ngửa:"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 16.63,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 17.02,
+     "side": "L",
+     "y": 650,
+     "value": "40% NƯỚC",
+     "label": "hộp sọ đệm lỏng",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 16.88,
+     "text": "tới 40%"
+    },
+    {
+     "t": 17.74,
+     "text": "hộp sọ chỉ"
+    },
+    {
+     "t": 18.5,
+     "text": "chứa toàn nước lỏng,"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 19.43,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 19.68,
+     "text": "còn bộ não"
+    },
+    {
+     "t": 20.26,
+     "text": "bên trong thì"
+    },
+    {
+     "t": 20.84,
+     "text": "phẳng lì như"
+    },
+    {
+     "t": 21.48,
+     "text": "hai miếng ức"
+    },
+    {
+     "t": 22.04,
+     "text": "gà luộc,"
+    },
+    {
+     "t": 22.78,
+     "text": "không có lấy"
+    },
+    {
+     "t": 23.22,
+     "text": "một nếp"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 23.55,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 23.62,
+     "text": "nhăn! Nó ăn"
+    },
+    {
+     "t": 24.66,
+     "text": "thứ lá khuynh"
+    },
+    {
+     "t": 25.22,
+     "text": "diệp chứa đầy"
+    },
+    {
+     "t": 25.8,
+     "text": "độc tố Xyanua,"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 26.85,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 28.28,
+     "side": "R",
+     "y": 580,
+     "value": "RUỘT 2M",
+     "label": "lọc độc Xyanua",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 27.1,
+     "text": "sở hữu đoạn"
+    },
+    {
+     "t": 27.54,
+     "text": "ruột thừa dài"
+    },
+    {
+     "t": 28.14,
+     "text": "tới 2m,"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 28.79,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 30.04,
+     "side": "L",
+     "y": 850,
+     "value": "NGỦ 22H",
+     "label": "tiết kiệm pin",
+     "target": [
+      0.35,
+      0.7
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 29.04,
+     "text": "và phải ngủ"
+    },
+    {
+     "t": 29.48,
+     "text": "li bì tới"
+    },
+    {
+     "t": 30.04,
+     "text": "22 tiếng mỗi"
+    },
+    {
+     "t": 31.02,
+     "text": "ngày để tiết"
+    },
+    {
+     "t": 31.52,
+     "text": "kiệm pin!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 32.61,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 32.86,
+     "text": "Chưa hết,"
+    },
+    {
+     "t": 33.96,
+     "text": "đầu ngón tay"
+    },
+    {
+     "t": 34.5,
+     "text": "của nó còn"
+    },
+    {
+     "t": 34.98,
+     "text": "có dấu vân"
+    },
+    {
+     "t": 35.56,
+     "text": "tay giống hệt"
+    },
+    {
+     "t": 36.16,
+     "text": "con người khiến"
+    },
+    {
+     "t": 36.78,
+     "text": "cảnh sát hình"
+    },
+    {
+     "t": 37.38,
+     "text": "sự cũng phải"
+    },
+    {
+     "t": 37.94,
+     "text": "bó tay!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 39.31,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 39.56,
+     "text": "Bạn có tin"
+    },
+    {
+     "t": 40.02,
+     "text": "một loài vật"
+    },
+    {
+     "t": 40.6,
+     "text": "não phẳng như"
+    },
+    {
+     "t": 41.18,
+     "text": "thế này lại"
+    },
+    {
+     "t": 41.62,
+     "text": "sống sót được"
+    },
+    {
+     "t": 42.26,
+     "text": "hàng triệu năm không?"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 43.61,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 43.86,
+     "text": "Xem trọn bộ"
+    },
+    {
+     "t": 44.56,
+     "text": "hồ sơ bệnh"
+    },
+    {
+     "t": 45.1,
+     "text": "án trong video"
+    },
+    {
+     "t": 45.88,
+     "text": "dài bên dưới"
+    },
+    {
+     "t": 46.62,
+     "text": "nhé, vì bệnh"
+    },
+    {
+     "t": 47.8,
+     "text": "nhân này..."
+    }
+   ]
+  }
+ ]
+}

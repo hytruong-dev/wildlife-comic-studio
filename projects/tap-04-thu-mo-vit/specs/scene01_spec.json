@@ -1,0 +1,452 @@
+{
+  "scene_id": "scene01",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 6,
+  "world_width": 2290,
+  "world_height": 1168,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 60,
+  "duration_ms": 84036,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-04-thu-mo-vit/assets/scenes_composed/scene01_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      147,
+      8,
+      1133,
+      52
+    ],
+    "x": 159,
+    "y": 12,
+    "w": 962,
+    "h": 38,
+    "text": "[PHẦN 1: CÚ SỐC THẾ KỶ 18]  TIẾN SĨ GEORGE SHAW VÀ CÚ LỪA NGHĨ LÀ THỦY THỦ KHÂU VÁ",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-04-thu-mo-vit/assets/scenes_composed/scene01_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 12465,
+      "has_frame": false,
+      "pill_box": [
+        251,
+        124,
+        572,
+        164
+      ],
+      "art_only_box": [
+        95,
+        160,
+        724,
+        513
+      ],
+      "caption": {
+        "text": "Tạm biệt cá heo đại dương: Đặt chân đến dòng suối mát lành miền đông nước Úc",
+        "x": 116,
+        "y": 513,
+        "w": 587,
+        "h": 27,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        93,
+        124,
+        726,
+        542
+      ],
+      "img_region": {
+        "x": 95,
+        "y": 160,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 12465,
+      "end_ms": 24930,
+      "has_frame": false,
+      "pill_box": [
+        1049,
+        124,
+        1243,
+        161
+      ],
+      "art_only_box": [
+        830,
+        160,
+        1459,
+        513
+      ],
+      "caption": {
+        "text": "Năm 1798: Tiến sĩ George Shaw mở hộp mẫu vật gửi từ Úc và bàng hoàng không thốt nên lời",
+        "x": 849,
+        "y": 513,
+        "w": 591,
+        "h": 26,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        828,
+        124,
+        1461,
+        541
+      ],
+      "img_region": {
+        "x": 830,
+        "y": 160,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 24930,
+      "end_ms": 37653,
+      "has_frame": false,
+      "pill_box": [
+        1755,
+        124,
+        2008,
+        159
+      ],
+      "art_only_box": [
+        1565,
+        160,
+        2194,
+        513
+      ],
+      "caption": {
+        "text": "Nghi ngờ trò lừa: Quả quyết thủy thủ khâu mỏ vịt vào đầu rái cá và đuôi hải ly!",
+        "x": 1577,
+        "y": 513,
+        "w": 606,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1563,
+        124,
+        2196,
+        544
+      ],
+      "img_region": {
+        "x": 1565,
+        "y": 160,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_04",
+      "start_ms": 37653,
+      "end_ms": 51436,
+      "has_frame": false,
+      "pill_box": [
+        1774,
+        614,
+        1988,
+        654
+      ],
+      "art_only_box": [
+        1565,
+        650,
+        2194,
+        1003
+      ],
+      "caption": {
+        "text": "Dùng kéo rạch tìm chỉ khâu: Tiến sĩ Shaw cố vạch trần đường may chắp vá của trò chơi khăm",
+        "x": 1583,
+        "y": 1003,
+        "w": 594,
+        "h": 26,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1563,
+        614,
+        2196,
+        1031
+      ],
+      "img_region": {
+        "x": 1565,
+        "y": 650,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_05",
+      "start_ms": 51436,
+      "end_ms": 66364,
+      "has_frame": false,
+      "pill_box": [
+        1054,
+        614,
+        1238,
+        654
+      ],
+      "art_only_box": [
+        830,
+        650,
+        1459,
+        1003
+      ],
+      "caption": {
+        "text": "Bàng hoàng tột độ: Không có một mũi chỉ! Mỏ vịt mọc liền một khối với hộp sọ!",
+        "x": 843,
+        "y": 1003,
+        "w": 603,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        828,
+        614,
+        1461,
+        1034
+      ],
+      "img_region": {
+        "x": 830,
+        "y": 650,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_06",
+      "start_ms": 66364,
+      "end_ms": 82536,
+      "has_frame": false,
+      "pill_box": [
+        273,
+        614,
+        549,
+        651
+      ],
+      "art_only_box": [
+        95,
+        650,
+        724,
+        1003
+      ],
+      "caption": {
+        "text": "Khủng hoảng phân loại học: Mỏ vịt, đuôi hải ly, chân màng, lông thú — Nó là loài gì?",
+        "x": 103,
+        "y": 1003,
+        "w": 613,
+        "h": 26,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        93,
+        614,
+        726,
+        1031
+      ],
+      "img_region": {
+        "x": 95,
+        "y": 650,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 93.0,
+    "y_min": 124.0,
+    "x_max": 2196.0,
+    "y_max": 1034.0,
+    "bbox_w": 2103.0,
+    "bbox_h": 910.0,
+    "center_x": 1144.5,
+    "center_y": 579.0,
+    "zoom_out_scale": 0.5837,
+    "crop_w": 2193.0,
+    "crop_h": 1117.1
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 409.5,
+      "cy": 333.0,
+      "crop_w": 938.4,
+      "crop_h": 478.0,
+      "zoom_relative": 2.34,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 11845.0,
+      "cx": 409.5,
+      "cy": 333.0,
+      "crop_w": 938.4,
+      "crop_h": 478.0,
+      "zoom_relative": 2.34,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 12465.0,
+      "cx": 1144.5,
+      "cy": 332.5,
+      "crop_w": 936.4,
+      "crop_h": 477.0,
+      "zoom_relative": 2.34,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 24310.0,
+      "cx": 1144.5,
+      "cy": 332.5,
+      "crop_w": 936.4,
+      "crop_h": 477.0,
+      "zoom_relative": 2.34,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 24930.0,
+      "cx": 1879.5,
+      "cy": 334.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.33,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 37033.0,
+      "cx": 1879.5,
+      "cy": 334.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.33,
+      "phase": "transition",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 37653.0,
+      "cx": 1879.5,
+      "cy": 822.5,
+      "crop_w": 936.4,
+      "crop_h": 477.0,
+      "zoom_relative": 2.34,
+      "phase": "focus_hold",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 50816.0,
+      "cx": 1879.5,
+      "cy": 822.5,
+      "crop_w": 936.4,
+      "crop_h": 477.0,
+      "zoom_relative": 2.34,
+      "phase": "transition",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 51436.0,
+      "cx": 1144.5,
+      "cy": 824.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.33,
+      "phase": "focus_hold",
+      "target_node_id": "beat_05"
+    },
+    {
+      "time_ms": 65744.0,
+      "cx": 1144.5,
+      "cy": 824.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.33,
+      "phase": "transition",
+      "target_node_id": "beat_05"
+    },
+    {
+      "time_ms": 66364.0,
+      "cx": 409.5,
+      "cy": 822.5,
+      "crop_w": 936.4,
+      "crop_h": 477.0,
+      "zoom_relative": 2.34,
+      "phase": "focus_hold",
+      "target_node_id": "beat_06"
+    },
+    {
+      "time_ms": 82536.0,
+      "cx": 409.5,
+      "cy": 822.5,
+      "crop_w": 936.4,
+      "crop_h": 477.0,
+      "zoom_relative": 2.34,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_06"
+    },
+    {
+      "time_ms": 83036.0,
+      "cx": 1144.5,
+      "cy": 579.0,
+      "crop_w": 2193.0,
+      "crop_h": 1117.1,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 84036.0,
+      "cx": 1144.5,
+      "cy": 579.0,
+      "crop_w": 2193.0,
+      "crop_h": 1117.1,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+ "episode_no": 50,
+ "animal": "Khỉ Đột Lưng Bạc",
+ "slug": "tap-50-khi-dot-lung-bac",
+ "format": "F7",
+ "persona": "binh_luan_vien",
+ "_angle_from_roadmap": "Giải mã khối cơ bắp gấp 10 lần người dù chỉ ăn chay: Lò lên men vi sinh vật trong chiếc bụng to tròn đầy khí gas.",
+ "_shorts_idea_from_roadmap": "Tại sao Khỉ Đột chỉ ăn lá cây nhưng lại có cơ bắp nâng được vật nặng 800 kg?",
+ "nickname": "Vua Đấu Trường Rừng Rậm",
+ "sources": [
+  "Popovich et al. 1997, Journal of Nutrition — Khả năng lên men manh tràng và tổng hợp axit béo chuỗi ngắn ở khỉ đột",
+  "Schaller 1963, The Mountain Gorilla — Sinh thái học và hành vi vỗ ngực của Gorilla beringei beringei",
+  "Zihlman & McFarland 2000, American Journal of Physical Anthropology — Cấu trúc cơ xương và lực bắp tay của Silverback"
+ ],
+ "whisper_prompt": "Khỉ Đột Lưng Bạc, Gorilla beringei",
+ "display_fix": {
+  "tám trăm ki-lô-gam": "800kg",
+  "hai trăm ki-lô-gam": "200kg",
+  "hai mươi ki-lô-gam": "20kg",
+  "năm trăm ki-lô-gam": "500kg",
+  "mười lần": "10 lần",
+  "bốn đến chín lần": "4-9 lần",
+  "bảy mươi phần trăm": "70%",
+  "sáu mươi phần trăm": "60%",
+  "hai mươi phần trăm": "20%",
+  "một phần trăm": "1%",
+  "bốn đến sáu tiếng": "4-6 tiếng",
+  "hai mét": "2m",
+  "hai mét rưỡi": "2.5m",
+  "một ngàn ba trăm": "1300 PSI",
+  "hai mươi tư giờ": "24h",
+  "năm mươi tập": "50 tập",
+  "một trăm phần trăm": "100%",
+  "sáu múi": "6 múi",
+  "hai mươi cú đập": "20 cú đập",
+  "ngàn tỷ": "ngàn tỷ",
+  "hai mươi tư trên hai mươi tư": "24/24",
+  "năm mươi": "50"
+ },
+ "voice": {
+  "speed": 1.05,
+  "tempo_long": 1.12
+ },
+ "art": {
+  "decor": "golden championship arena belts, heavy iron barbells, explosive comic punch starbursts, fiery microbial reactor dials",
+  "shorts_mascot": "A hyper-muscular cartoon silverback gorilla wearing a gold champion belt shouting enthusiastically into an old-school WWE arena microphone",
+  "thumb_bg": "Roaring colosseum arena with red and gold comic action burst lines and smoking volcanic vents",
+  "thumb_title": [
+   "CHỈ ĂN LÁ CÂY",
+   "CƠ BẮP 800KG?!"
+  ],
+  "thumb_scene": "Gigantic cartoon silverback flexing massive biceps bursting through stone chains with fiery glowing belly reactor",
+  "thumb_gag": "A puny cartoon gym bro holding a protein shake crying in total despair next to a giant salad leaf"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "ĐẤU TRƯỜNG UFC",
+    "banner_title": "QUÁI VẬT HẠNG NẶNG 200KG",
+    "chapter_title": "Vị vua quyền anh của dãy núi Virunga",
+    "hook": "CỖ MÁY CƠ BẮP GẤP 10 LẦN NGƯỜI",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Chào mừng toàn thể hàng triệu khán giả cuồng nhiệt đang theo dõi buổi phát sóng trực tiếp từ đài thể thao đỉnh cao thế giới hoang dã! Tôi là bình luận viên chuyên nghiệp đang có mặt tại sàn đấu núi lửa Virunga mù sương ở Trung Phi. Hãy nhìn vào góc võ đài màu đỏ đằng kia xem, một võ sĩ giác đấu khổng lồ nặng tới hai trăm ki-lô-gam đang lừng lững bước ra với chiếc lưng ánh bạc lấp lánh như thép tôi! Cánh tay vượn dài hai mét với những bó cơ bắp cuồn cuộn gân guốc, cơ ngực nở nang săn chắc như hai tấm khiên đồng La Mã. Người đời gọi nó là Khỉ Đột Lưng Bạc, nhưng trên bảng xếp hạng các nhà vô địch sinh tồn của chúng tôi, đây chính là Vua Đấu Trường Rừng Rậm! Một cú đấm sấm sét của gã có thể làm cong vênh thanh xà beng bằng thép đặc và nâng bổng một chiếc xe hơi nặng tám trăm ki-lô-gam lên không trung một cách nhẹ nhàng! Hãy nhớ rằng các lực sĩ cử tạ khỏe nhất thế giới loài người phải đeo đai lưng bảo hộ, quấn băng cổ tay và hít thở trợ lực cật lực mới có thể nâng được mức tạ năm trăm ki-lô-gam trong vài giây ngắn ngủi. Trong khi đó, gã khổng lồ này chỉ cần dùng một tay nhấc bổng khúc gỗ nặng tám trăm ki-lô-gam một cách thong thả như chúng ta cầm một cuốn sách!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Alo bình luận viên ơi, võ sĩ khổng lồ này ngày nào cũng nốc hàng chục xô đạm whey protein để nuôi cơ bắp hả?",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "[laughter] Nhầm to rồi người anh em ngơ ngác ơi, một sự nhầm lẫn thế kỷ của dân tập gym! [surprise-oh] Võ sĩ vô địch Vua Đấu Trường Rừng Rậm của chúng ta là một người ăn chay thuần túy một trăm phần trăm! Cả cuộc đời của nó chưa từng chạm vào một miếng ức gà, chẳng hề đụng đến một muỗng bột đạm công nghiệp, mà thức ăn hàng ngày chỉ toàn là lá cây rừng cay đắng, chồi tre non xơ xác và cọng cần tây dại! Vậy mà khối cơ bắp của nó lại khỏe gấp bốn đến chín lần một người đàn ông lực lưỡng nhất hành tinh! Bí mật đen tối nào đang được che giấu bên trong chiếc bụng to tròn lùm lùm như một quả bom nổ chậm kia? Ngay bây giờ, hãy nổi hồi chuông bắt đầu trận đấu và cùng chúng tôi đột nhập vào khoang lò phản ứng sinh học bí mật này! Mật độ xương đùi và xương cẳng tay của nó dày đặc gấp ba lần xương người, được bọc ngoài bởi những dải gân dày như dây cáp tời thép, tạo nên một khung đỡ cơ học hoàn hảo để truyền tải những nguồn động năng khổng lồ mà không sợ bị gãy nứt.",
+      "mood": "don_dap"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "LÒ LÊN MEN BỤNG BỰ",
+    "banner_title": "LÒ PHẢN ỨNG VI SINH RUỘT SAU",
+    "chapter_title": "Chiếc bụng bia chứa hàng tỷ vi khuẩn",
+    "hook": "CHUYỂN HÓA CHẤT XƠ THÀNH NĂNG LƯỢNG",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Các khán giả sành sỏi hãy nhìn kỹ vào vóc dáng của Vua Đấu Trường Rừng Rậm! Mặc dù sở hữu đôi bắp tay cuồn cuộn như đá tảng, nhưng vòng eo của nó hoàn toàn không hề có cơ bụng sáu múi săn chắc như các người mẫu thể hình thời nay. Ngược lại, nó vác một chiếc bụng to tròn, căng phồng và lùm lùm như một chiếc trống cái. Đừng vội chê nó béo phì nhé quý vị! Chiếc bụng bự ấy chính là một khoang lò phản ứng sinh học tối tân mang tên hệ thống lên men ruột sau, nơi hàng ngàn tỷ vi sinh vật kỵ khí đang làm việc tăng ca hai mươi tư trên hai mươi tư giờ không ngừng nghỉ! Chiếc bụng to tròn ấy chiếm tới gần sáu mươi phần trăm tổng thể tích toàn bộ đường tiêu hóa, trong khi ở con người chúng ta ruột già chỉ chiếm vỏn vẹn hai mươi phần trăm.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Mỗi ngày, chú khỉ đột trưởng thành này phải nhai ngấu nghiến tới hai mươi ki-lô-gam lá cây và cỏ dại. Trong dạ dày người chúng ta, chất xơ thô cellulose là thứ hoàn toàn không thể tiêu hóa được và bị tống thẳng ra ngoài. Nhưng ở Vua Đấu Trường Rừng Rậm, đoạn manh tràng và ruột già khổng lồ của nó lại là một thùng ủ bia sinh học hoàn hảo. Hàng tỷ vi khuẩn chuyên biệt tại đây sẽ tiết ra các enzym cắt vụn các liên kết chất xơ cellulose cứng đầu, biến chúng thành các phân tử axit béo chuỗi ngắn cực kỳ giàu năng lượng! Không chỉ chuyển hóa chất xơ thành calo, đàn vi sinh vật kỵ khí này còn có khả năng tự tổng hợp ra các axit amin thiết yếu và các loại vitamin nhóm B quan trọng, trực tiếp tái tạo các khối protein nuôi dưỡng từng tế bào cơ bắp nạc cho chú khỉ đột.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Những axit béo kỳ diệu này được niêm mạc ruột hấp thụ trực tiếp và cung cấp tới bảy mươi phần trăm tổng nhu cầu calo mỗi ngày cho toàn bộ cơ thể khổng lồ hai trăm ki-lô-gam. Nó không cần ăn mỡ động vật hay uống sữa tăng cơ, bởi vì chính đàn vi sinh vật trong bụng đã tự tay sản xuất ra nguồn năng lượng tinh khiết nhất để nuôi dưỡng từng thớ cơ bắp thép nguội. Chiếc bụng to tướng ấy không phải mỡ thừa, mà là một nhà máy phát điện sinh học độc nhất vô nhị của rừng rậm nhiệt đới! Mỗi ngày nó dành tới bốn đến sáu tiếng đồng hồ chỉ để thong dong ngồi nhai và tiêu hóa, biến những cánh rừng tre trúc xanh tươi thành nguồn nhiên liệu sinh học vô tận nuôi dưỡng cỗ máy chiến tranh bất khả chiến bại.",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "LỰC ĐẤM TÀN PHÁ",
+    "banner_title": "CÚ ĐẤNH BÚA TẠ NÂNG 800KG",
+    "chapter_title": "Sức mạnh bắp tay xé toạc thân cây",
+    "hook": "LỰC CẮN 1300 PSI NGHIỀN NÁT XƯƠNG",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Bây giờ mời quý khán giả hướng mắt về bảng đo lực điện tử đặt ngay giữa sàn đấu! Khi một con khỉ đột đực vào cơn thịnh nộ, nó có thể tung ra những đòn đánh với sức công phá làm sập cả một bức tường gạch dày. Cấu trúc bắp tay của Vua Đấu Trường Rừng Rậm được cấu tạo chủ yếu từ các sợi cơ co rút nhanh màu trắng, tối ưu hóa cho những cú bộc phát sức mạnh tột đỉnh trong tích tắc. Một con đực trưởng thành có thể dùng hai tay không bẻ gãy gập một thân cây chuối rừng to bằng bắp đùi người lớn chỉ bằng một cú vặn nhẹ nhàng như bẻ một que tăm! Chiều dài sải tay vượt trội cùng với khớp vai linh hoạt tuyệt đối cho phép nó tung ra những cú đấm móc vòng cung với vận tốc bộc phát xé toạc không gian, tạo ra một vùng sát thương cận chiến tuyệt đối trong bán kính hai mét.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Này các cháu ơi, ngày xưa ông từng thấy nó cắn nát quả dừa khô cứng ngắc trong một nốt nhạc, răng có bọc titan không?",
+      "cast": "ong_gia_ke"
+     },
+     {
+      "text": "[laughter] Kính thưa cụ già kể chuyện, hàm răng của nó còn đáng sợ hơn cả kim loại nhân tạo nữa ạ! [surprise-oh] Nhờ có một gờ xương đỉnh đầu nhô cao như một chiếc mào gà bằng đá, nơi bám của những bó cơ nhai khổng lồ, lực cắn của Vua Đấu Trường Rừng Rậm đo được lên tới một ngàn ba trăm đơn vị, tức là mạnh gấp đôi lực cắn của một con sư tử châu Phi và gấp bốn lần một người trưởng thành! Một cú cắn của nó thừa sức nghiền nát cành gỗ lim cứng nhất hoặc nghiền vụn xương ống chân của thú dữ trong chớp mắt mà không hề mẻ một chiếc răng nanh nào! Khi hai hàm răng này khép chặt lại, áp lực tại điểm tiếp xúc tương đương với việc đặt một chiếc xe hơi bốn chỗ đè nặng lên một diện tích nhỏ bằng đầu ngón tay cái, đủ sức bóp vụn mọi lớp vỏ giáp bảo vệ cứng cáp nhất.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Kết hợp với sải tay dài hơn hai mét rưỡi và trọng tâm cơ thể cực thấp vững chãi như một chiếc xe tăng lội nước, con vật có thể nâng bổng những tảng đá hoa cương nặng tới tám trăm ki-lô-gam rồi ném xa hàng mét. Bất kỳ đối thủ nào dám bước chân vào cự ly cận chiến với gã khổng lồ này đều sẽ phải nếm trải cảm giác bị một cỗ máy nghiền đá ép nát toàn bộ khung xương! Trọng tâm cơ thể cực thấp dồn vào bốn chi vững chãi như bốn cột trụ móng nhà, khiến nó hầu như không bao giờ bị mất thăng bằng hay bị quật ngã trong bất kỳ cuộc giao tranh sinh tử nào giữa núi rừng.",
+      "mood": "don_dap"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "TIẾNG ĐẬP NGỰC SẤM RỀN",
+    "banner_title": "RUNG CHUYỂN RỪNG NÚI 1 KILOMÉT",
+    "chapter_title": "Nghi thức vỗ ngực rền vang",
+    "hook": "TÚI KHÍ KHÍ QUẢN CỘNG HƯỞNG ÂM",
+    "mood": "nghiem_trang_gia",
+    "parts": [
+     {
+      "text": "Bùm! Bùm! Bùm! Bùm! Tiếng sấm rền từ đâu vang lên làm rung chuyển cả thung lũng sương mù Virunga! Hãy nhìn vào màn sương dày đặc kia, Vua Đấu Trường Rừng Rậm đang đứng thẳng bằng hai chân sau, vươn cao lồng ngực vĩ đại và dùng hai bàn tay khum lại đập liên hồi vào ngực với tốc độ hai mươi cú đập mỗi giây! Đây chính là nghi thức vỗ ngực kinh điển mang tính thương hiệu toàn cầu của loài khỉ đột lưng bạc! Màn trình diễn này bắt đầu bằng việc con vật đứng thẳng người, nhổ bật một bụi cây xung quanh rồi ném mạnh về phía trước, tiếp theo là một màn bứt tốc chạy ngang đầy thị uy trước khi tung ra cú đập ngực sấm sét rung chuyển trời đất.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Nhiều người lầm tưởng rằng chúng dùng nắm đấm thép đấm huỳnh huỵch vào ngực để khoe khoang sự hung bạo. Nhưng góc quay phân tích chuyển động chậm của chúng tôi cho thấy: Bàn tay của nó khum tròn lại như một chiếc bát úp! Bên dưới lớp da ngực dày cộp là các túi khí thanh quản khổng lồ hoạt động giống hệt như những chiếc trống lục lạc cộng hưởng âm thanh. Mỗi cú đập khum tay tạo ra những luồng sóng âm trầm đục vang xa tới hơn một cây số xuyên qua rừng rậm dày đặc! Những túi khí thanh quản này có thể tích chứa lên tới vài lít không khí, hoạt động đồng điệu với nhịp đập bàn tay để tạo nên những tần số âm thanh cộng hưởng trầm sâu có sức xuyên thấu phi thường qua tán lá rậm rạp.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Âm thanh trầm đục này chứa đựng các thông số sinh học chính xác về kích thước cơ thể, dung tích phổi và đẳng cấp sức mạnh của con đực đầu đàn. Những con đực trẻ tuổi ngỗ nghịch khi nghe thấy tiếng trống ngực uy dũng này từ xa sẽ lập tức biết thân biết phận mà cúi đầu rút lui, tránh được những cuộc chiến đẫm máu không cần thiết. Đó là một giải pháp ngoại giao bằng âm thanh đỉnh cao, vừa phô diễn sức mạnh vô song, vừa bảo tồn sinh lực cho toàn thể bầy đàn! Đây chính là nghệ thuật chiến tranh tâm lý đỉnh cao: Đánh bại đối thủ từ trong tư tưởng trước khi một giọt máu nào kịp rơi, khẳng định vị thế thủ lĩnh tối cao mà không làm tiêu hao dù chỉ một phần trăm sinh lực quý giá của bầy đàn.",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "TÂM HỒN NGƯỜI KHỔNG LỒ",
+    "banner_title": "GÃ KHỔNG LỒ ĐẦY TÌNH PHỤ TỬ",
+    "chapter_title": "Bản chất vị tha của nhà vô địch",
+    "hook": "SẴN SÀNG HY SINH VÌ ĐÀN CON",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Mặc dù sở hữu sức mạnh hủy diệt có thể hạ gục cả một con báo hoa mai trưởng thành chỉ bằng một cú tát trời giáng, nhưng bản chất thực sự của Vua Đấu Trường Rừng Rậm lại là một người khổng lồ cực kỳ hiền lành, trầm tĩnh và giàu lòng trắc ẩn. Chúng dành phần lớn thời gian trong ngày để nằm phơi nắng trên những thảm cỏ xanh, nhẹ nhàng chải lông cho những chú khỉ đột con tinh nghịch trèo lên đầu lên cổ mình, và chia sẻ những chồi măng non ngon lành cho các con mái trong bầy. Những nhà linh trưởng học huyền thoại từng dành cả đời sống cạnh các gia đình khỉ đột hoang dã đều khẳng định rằng: Đây là một trong những loài sinh vật sống tình cảm, thấu hiểu và hòa bình nhất từng bước đi trên hành tinh của chúng ta.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ủa chú ơi, gã khổng lồ cơ bắp cuồn cuộn này cũng dịu dàng nằm chơi với con nhỏ giống bố cháu ở nhà hả?",
+      "cast": "be_con"
+     },
+     {
+      "text": "Chúng không bao giờ chủ động gây chiến hay ức hiếp những sinh vật nhỏ bé xung quanh. Những màn gầm rú hay đập ngực thị uy thực chất chỉ là những lời cảnh cáo nhân từ cuối cùng để kẻ xâm nhập biết đường rút lui trong hòa bình. Nhưng một khi gia đình của nó bị đe dọa bởi những tên săn trộm tàn độc hay bầy thú ăn thịt đói khát, gã khổng lồ hiền lành ấy sẽ lập tức hóa thân thành một bức tường thành bất khả xâm phạm, sẵn sàng hứng trọn mọi mũi giáo và đạn lửa để che chở cho từng đứa con bé bỏng đến hơi thở cuối cùng! Ánh mắt trầm tư đầy thấu cảm của một con đực đầu đàn khi nhìn đứa con thơ chập chững biết đi chứa đựng một vẻ đẹp nhân văn sâu sắc, xóa tan hoàn toàn mọi định kiến thô bạo về quái thú King Kong hung dữ trong phim ảnh viễn tưởng.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Một trái tim quả cảm đầy tình phụ tử nằm bên trong khối cơ bắp thép nguội hai trăm ki-lô-gam! Đó chính là phẩm chất cao quý nhất làm nên vị thế của một vị vua chân chính của núi rừng bao la, khiến con người chúng ta khi đứng trước chúng cũng phải nghiêng mình kính phục! Sức mạnh càng lớn thì lòng vị tha và tinh thần che chở càng phải cao thượng! Đó chính là nguyên lý sinh tồn cốt lõi giúp giống loài khỉ đột lưng bạc tồn tại kiên cường qua suốt bao kỷ nguyên thăng trầm của lịch sử tự nhiên.",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "KẾT LUẬN",
+    "banner_title": "BÀI HỌC TỪ ĐẤU TRƯỜNG SINH MỆNH",
+    "chapter_title": "Khép lại mùa giải 50 tập huyền thoại",
+    "hook": "BẢN LĨNH CỦA KẺ MẠNH ĐÍCH THỰC",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Từ chiếc bụng lò phản ứng vi sinh vật biến lá cây thành sức mạnh tám trăm ki-lô-gam phi thường, lực cắn sấm sét một ngàn ba trăm đơn vị vượt xa chúa sơn lâm, tiếng đập ngực rền vang một cây số rung chuyển rừng già, cho đến tâm hồn nhân từ của một vị vua bảo hộ gia đình, Vua Đấu Trường Rừng Rậm đã chứng minh cho toàn thế giới thấy rằng: Sức mạnh cơ bắp đích thực bắt nguồn từ sự giản dị thuần khiết của tự nhiên, và quyền lực tối thượng luôn đi liền với lòng vị tha và tinh thần trách nhiệm bảo vệ kẻ yếu! Khối cơ bắp phi thường tám trăm ki-lô-gam ấy không phải là công cụ để thống trị hay áp bức, mà là tấm lá chắn thiêng liêng để bảo bọc sự bình yên cho cả gia đình thân yêu.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Tập phim thứ năm mươi ngày hôm nay cũng chính là mốc son chói lọi khép lại trọn vẹn chuỗi hành trình năm mươi tập phim khám phá thế giới động vật kỳ thú của kênh chúng tôi! Trải qua năm mươi bài học sinh tồn phi thường, từ những sinh vật biển sâu tăm tối cho đến những pháo đài rải gai và đấu trường rừng rậm, chúng ta đã cùng nhau chứng kiến những tuyệt tác tiến hóa vĩ đại nhất của tạo hóa. Xin chân thành cảm ơn sự đồng hành cuồng nhiệt của toàn thể quý vị khán giả! Hãy tiếp tục rèn luyện cho mình một thể lực sung mãn, một ý chí kiên định và một trái tim nhân ái như chú khỉ đột lưng bạc nhé! Đừng quên để lại bình luận và chia sẻ tình yêu thiên nhiên kỳ diệu này! Hẹn gặp lại các bạn trong những siêu phẩm hoang dã tiếp theo! Nhìn lại chặng đường năm mươi tập phim đã qua, chúng tôi vô cùng tự hào và xúc động khi được cùng các bạn mở toang những cánh cửa kỳ diệu nhất của thế giới tự nhiên. Hãy giữ vững ngọn lửa đam mê khám phá và sống một cuộc đời tràn đầy bản lĩnh nhé!",
+      "mood": "am_ap"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Chỉ ăn toàn lá cây rừng và chồi tre non xơ xác, tại sao Khỉ Đột Lưng Bạc lại sở hữu cơ bắp cuồn cuộn nâng được vật nặng tám trăm ki-lô-gam?! Hãy nhìn Vua Đấu Trường Rừng Rậm nặng tới hai trăm ki-lô-gam này xem! Cơ bắp của nó khỏe gấp bốn đến chín lần một người đàn ông lực lưỡng, với lực cắn một ngàn ba trăm đơn vị mạnh gấp đôi cả chúa sơn lâm sư tử châu Phi! Bí mật sức mạnh không nằm ở thức ăn giàu đạm mà ẩn giấu bên trong chiếc bụng bự tròn vo của nó! Bên trong ruột già khổng lồ chứa hàng ngàn tỷ vi khuẩn kỵ khí lên men, biến chất xơ cellulose khó tiêu của hai mươi ki-lô-gam lá cây mỗi ngày thành các phân tử axit béo giàu năng lượng, cung cấp tới bảy mươi phần trăm tổng calo cho toàn bộ cơ thể! Khi thị uy, nó đứng thẳng hai chân đập khum tay vào ngực, tạo ra những đợt sóng âm sấm sét vang xa hơn một cây số để cảnh cáo kẻ thù! Một cỗ máy cơ bắp ăn chay thuần túy bất khả chiến bại của tạo hóa!"
+ },
+ "seo": {
+  "title": "Bí Mật Khỉ Đột Lưng Bạc: Ăn Chay Nhưng Cơ Bắp 800KG Gấp 10 Lần Người?! | Tập 50",
+  "en_title": "The Secret of the Silverback Gorilla: Herbivore with 800KG Muscles 10x Human Strength! | Ep 50",
+  "en_desc": "Uncover the secret of the Silverback Gorilla: Lifting 800kg and packing a 1300 PSI bite force purely on a plant diet, powered by a massive hindgut bacterial fermentation bioreactor.",
+  "hook_paragraph": "Khỉ Đột Lưng Bạc nặng 200kg chỉ ăn lá cây nhưng sở hữu cơ bắp nâng 800kg và lực cắn 1300 PSI gấp đôi sư tử. Làm thế nào chiếc bụng lò phản ứng lên men biến chất xơ thành khối cơ bắp siêu nhân?",
+  "bullets": [
+   "Khối lượng 200kg với sức nâng 800kg gấp 4-9 lần người khỏe nhất",
+   "Hệ thống lên men ruột sau biến chất xơ thành 70% calo năng lượng",
+   "Lực cắn 1300 PSI nghiền nát thân cây và xương thú dữ",
+   "Nghi thức khum tay đập ngực tạo buồng âm vang xa hơn 1 km"
+  ],
+  "question": "Bạn thấy điều gì ở Khỉ Đột Lưng Bạc ấn tượng nhất: Cơ bắp nâng 800kg chỉ nhờ ăn lá cây hay cú đập ngực rền vang 1km?",
+  "next_teaser": "Chúc mừng cột mốc 50 tập phim hoàn chỉnh! Hãy đón chờ chuỗi video tổng hợp Mega đặc biệt tiếp theo!",
+  "hashtags": [
+   "#KhiDotLungBac",
+   "#SilverbackGorilla",
+   "#TheGioiDongVat",
+   "#VeChuyenHoangDa",
+   "#KhoaHoc",
+   "#Tap50"
+  ],
+  "tags": [
+   "khỉ đột lưng bạc",
+   "khi dot lung bac",
+   "silverback gorilla",
+   "co bap khi dot",
+   "khi dot an chay",
+   "the gioi dong vat",
+   "ve chuyen hoang da",
+   "dong vat ky thu",
+   "khoa hoc vui",
+   "suc manh khi dot",
+   "binh luan vien",
+   "tap 50"
+  ],
+  "shorts_title": "Chỉ ăn lá cây nhưng cơ bắp nâng được 800kg?! 🦍 #shorts #khidot",
+  "shorts_desc": "Khỉ Đột Lưng Bạc chỉ ăn lá cây nhưng sở hữu cơ bắp nâng 800kg nhờ chiếc bụng lò phản ứng vi khuẩn lên men biến chất xơ thành năng lượng!",
+  "shorts_tags": [
+   "khi dot",
+   "gorilla",
+   "shorts",
+   "the gioi dong vat",
+   "ve chuyen hoang da"
+  ]
+ }
+}

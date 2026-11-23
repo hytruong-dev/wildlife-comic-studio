@@ -1,0 +1,592 @@
+{
+ "episode": "tap-50-khi-dot-lung-bac",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 6,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "intro_mode": "full_first",
+ "output": "renders/tap-50-khi-dot-lung-bac_long.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 112.024,
+   "chapter_no": 1,
+   "badge": "ĐẤU TRƯỜNG UFC",
+   "header_image": "assets/banners/chapter_01.png",
+   "title": "VỊ VUA QUYỀN ANH CỦA DÃY NÚI VIRUNGA",
+   "card_hook": "CỖ MÁY CƠ BẮP GẤP 10 LẦN NGƯỜI",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L01.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 9.72,
+     "image": "assets/long/L02.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 22.92,
+     "image": "assets/long/L03.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 35.56,
+     "image": "assets/long/L04.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 40.24,
+       "side": "R",
+       "y": 320,
+       "value": "800kg",
+       "label": "Sức nâng bắp tay",
+       "target": [
+        0.8,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 48.48,
+     "image": "assets/long/L05.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 62.89,
+     "image": "assets/long/L06.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b07",
+     "start_s": 74.86,
+     "image": "assets/long/L07.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b08",
+     "start_s": 86.68,
+     "image": "assets/long/L08.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b09",
+     "start_s": 98.0,
+     "image": "assets/long/L09.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 110.613,
+   "chapter_no": 2,
+   "badge": "LÒ LÊN MEN BỤNG BỰ",
+   "header_image": "assets/banners/chapter_02.png",
+   "title": "CHIẾC BỤNG BIA CHỨA HÀNG TỶ VI KHUẨN",
+   "card_hook": "CHUYỂN HÓA CHẤT XƠ THÀNH NĂNG LƯỢNG",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L10.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 8.08,
+     "image": "assets/long/L11.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 19.94,
+     "image": "assets/long/L12.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 33.38,
+     "image": "assets/long/L13.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 41.42,
+       "side": "L",
+       "y": 360,
+       "value": "20kg",
+       "label": "Lá cây mỗi ngày",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 46.72,
+     "image": "assets/long/L14.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b06",
+     "start_s": 57.08,
+     "image": "assets/long/L15.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b07",
+     "start_s": 70.1,
+     "image": "assets/long/L16.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 78.41,
+       "side": "R",
+       "y": 320,
+       "value": "70% CALO",
+       "label": "Năng lượng từ chất xơ",
+       "target": [
+        0.8,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b08",
+     "start_s": 84.93,
+     "image": "assets/long/L17.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b09",
+     "start_s": 98.77,
+     "image": "assets/long/L18.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 107.632,
+   "chapter_no": 3,
+   "badge": "LỰC ĐẤM TÀN PHÁ",
+   "header_image": "assets/banners/chapter_03.png",
+   "title": "SỨC MẠNH BẮP TAY XÉ TOẠC THÂN CÂY",
+   "card_hook": "LỰC CẮN 1300 PSI NGHIỀN NÁT XƯƠNG",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L19.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 7.48,
+     "image": "assets/long/L20.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 18.4,
+     "image": "assets/long/L21.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 29.62,
+     "image": "assets/long/L22.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b05",
+     "start_s": 43.08,
+     "image": "assets/long/L23.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b06",
+     "start_s": 55.52,
+     "image": "assets/long/L24.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 56.18,
+       "side": "R",
+       "y": 320,
+       "value": "1300 PSI",
+       "label": "Lực cắn nghiền xương",
+       "target": [
+        0.8,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b07",
+     "start_s": 67.76,
+     "image": "assets/long/L25.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b08",
+     "start_s": 80.02,
+     "image": "assets/long/L26.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b09",
+     "start_s": 93.02,
+     "image": "assets/long/L27.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 101.638,
+   "chapter_no": 4,
+   "badge": "TIẾNG ĐẬP NGỰC SẤM RỀN",
+   "header_image": "assets/banners/chapter_04.png",
+   "title": "NGHI THỨC VỖ NGỰC RỀN VANG",
+   "card_hook": "TÚI KHÍ KHÍ QUẢN CỘNG HƯỞNG ÂM",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L28.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 7.34,
+     "image": "assets/long/L29.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 17.72,
+     "image": "assets/long/L30.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 27.64,
+     "image": "assets/long/L31.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b05",
+     "start_s": 39.82,
+     "image": "assets/long/L32.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b06",
+     "start_s": 50.7,
+     "image": "assets/long/L33.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 52.46,
+       "side": "L",
+       "y": 350,
+       "value": "1 KM",
+       "label": "Âm thanh vỗ ngực",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b07",
+     "start_s": 61.48,
+     "image": "assets/long/L34.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b08",
+     "start_s": 74.41,
+     "image": "assets/long/L35.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b09",
+     "start_s": 87.61,
+     "image": "assets/long/L36.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 103.273,
+   "chapter_no": 5,
+   "badge": "TÂM HỒN NGƯỜI KHỔNG LỒ",
+   "header_image": "assets/banners/chapter_05.png",
+   "title": "BẢN CHẤT VỊ THA CỦA NHÀ VÔ ĐỊCH",
+   "card_hook": "SẴN SÀNG HY SINH VÌ ĐÀN CON",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L37.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 7.56,
+     "image": "assets/long/L38.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 19.82,
+     "image": "assets/long/L39.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 32.14,
+     "image": "assets/long/L40.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b05",
+     "start_s": 43.91,
+     "image": "assets/long/L41.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b06",
+     "start_s": 54.35,
+     "image": "assets/long/L42.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b07",
+     "start_s": 64.31,
+     "image": "assets/long/L43.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b08",
+     "start_s": 76.57,
+     "image": "assets/long/L44.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 81.92,
+       "side": "R",
+       "y": 320,
+       "value": "200kg",
+       "label": "Khối lượng nhà vô địch",
+       "target": [
+        0.8,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b09",
+     "start_s": 90.36,
+     "image": "assets/long/L45.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 80.232,
+   "chapter_no": 6,
+   "badge": "KẾT LUẬN",
+   "header_image": "assets/banners/chapter_06.png",
+   "title": "KHÉP LẠI MÙA GIẢI 50 TẬP HUYỀN THOẠI",
+   "card_hook": "BẢN LĨNH CỦA KẺ MẠNH ĐÍCH THỰC",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L46.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 7.2,
+     "image": "assets/long/L47.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 16.98,
+     "image": "assets/long/L48.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b04",
+     "start_s": 27.4,
+     "image": "assets/long/L49.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b05",
+     "start_s": 37.12,
+     "image": "assets/long/L50.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b06",
+     "start_s": 47.3,
+     "image": "assets/long/L51.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b07",
+     "start_s": 57.26,
+     "image": "assets/long/L52.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b08",
+     "start_s": 66.8,
+     "image": "assets/long/L53.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

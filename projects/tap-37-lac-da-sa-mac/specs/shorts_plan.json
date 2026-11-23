@@ -1,0 +1,139 @@
+{
+ "title_lines": [
+  "CỖ MÁY LỌC NƯỚC",
+  "SA MẠC 50°C"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "at": "200 lít nước",
+     "side": "R",
+     "y": 620,
+     "value": "200 LÍT",
+     "label": "dung tích uống",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "vỡ hồng cầu chết ngay lập tức",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "Đó chính là Lạc Đà Sa Mạc",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "Trái ngược với hiểu lầm",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "khối bướu mỡ nặng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "at": "40 kg",
+     "side": "R",
+     "y": 600,
+     "value": "40 KG",
+     "label": "bướu mỡ năng lượng",
+     "target": [
+      0.65,
+      0.45
+     ]
+    },
+    {
+     "at": "50°C",
+     "side": "L",
+     "y": 620,
+     "value": "50°C",
+     "label": "nhiệt độ môi trường",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "tế bào hồng cầu hình oval",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "phồng to gấp 240%",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "at": "240%",
+     "side": "R",
+     "y": 620,
+     "value": "240%",
+     "label": "giãn nở hồng cầu",
+     "target": [
+      0.68,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "quả thận siêu lọc",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "cô đặc nước tiểu thành si-rô",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "nhịn uống suốt 30 ngày",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [
+    {
+     "at": "30 ngày",
+     "side": "L",
+     "y": 620,
+     "value": "30 NGÀY",
+     "label": "nhịn uống tối đa",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "giữa chảo lửa sa mạc",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  },
+  {
+   "at": "vẫn sống khỏe re",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": []
+  }
+ ]
+}

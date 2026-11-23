@@ -1,0 +1,157 @@
+{
+ "title_lines": [
+  "BẮN TỈA 3 MÉT:",
+  "GIẢI ĐỊNH LUẬT VẬT LÝ!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Bạn có tin một",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "at": "2m",
+     "side": "R",
+     "y": 620,
+     "value": "2 MÉT",
+     "label": "tầm bắn trên cạn",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Đây là Cá Cung",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "Thứ nhất, vòm họng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "nén tia nước bắn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "at": "3m",
+     "side": "R",
+     "y": 620,
+     "value": "3 MÉT",
+     "label": "tầm bắn kỷ lục",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Thứ hai, phần đuôi",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "đập dồn lại thành",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "at": "gấp 10 lần",
+     "side": "L",
+     "y": 620,
+     "value": "x10 LỰC",
+     "label": "động năng nén tụ",
+     "target": [
+      0.25,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Thứ ba, mặt nước",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "nhưng bộ não của",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "at": "50 mili-giây",
+     "side": "L",
+     "y": 620,
+     "value": "50 ms",
+     "label": "giải khúc xạ Snell",
+     "target": [
+      0.25,
+      0.55
+     ]
+    },
+    {
+     "at": "95%",
+     "side": "R",
+     "y": 720,
+     "value": "95% HIT",
+     "label": "độ chính xác",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Chưa hết, nó còn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  },
+  {
+   "at": "để bơi nước rút",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [
+    {
+     "at": "0,1 giây",
+     "side": "R",
+     "y": 620,
+     "value": "0,1 GIÂY",
+     "label": "bơi nước rút",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Độ chính xác và",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": []
+  },
+  {
+   "at": "đó chính là vũ",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S13.png",
+   "stickers": []
+  }
+ ]
+}

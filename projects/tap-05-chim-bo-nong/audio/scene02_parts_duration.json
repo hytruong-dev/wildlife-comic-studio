@@ -1,0 +1,11 @@
+{
+  "total_duration": 67.534,
+  "lead_in_sec": 0.4,
+  "gap_sec": 0.35,
+  "parts": {
+    "part0": 20.316,
+    "part1": 19.349,
+    "part2": 15.405,
+    "part3": 11.014
+  }
+}

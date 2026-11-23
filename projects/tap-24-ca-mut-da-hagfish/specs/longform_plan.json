@@ -1,0 +1,700 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "QUÁI VẬT 4 TRÁI TIM KHÔNG XƯƠNG SỐNG",
+   "hook": "",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giữa đáy nước lạnh",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không có hàm răng",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Viện trưởng ơi, mẫu",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trợ lý ngây thơ",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Xin giới thiệu với",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chiều dài trung bình",
+     "image": "assets/long/L07.png",
+     "stickers": [
+      {
+       "at": "40-80cm",
+       "side": "R",
+       "y": 350,
+       "value": "40-80 CM",
+       "label": "chiều dài cơ thể",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trong giới sinh vật",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tổ tiên của nó",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "300 triệu năm",
+       "side": "L",
+       "y": 350,
+       "value": "300 TR NĂM",
+       "label": "sống trước khủng long",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Toàn bộ cơ thể",
+     "image": "assets/long/L10.png",
+     "stickers": [
+      {
+       "at": "4 quả tim",
+       "side": "R",
+       "y": 350,
+       "value": "4 QUẢ TIM",
+       "label": "bơm máu độc lập",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và thứ vũ khí",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đêm nay, tôi tuyên",
+     "image": "assets/long/L12.png",
+     "stickers": [
+      {
+       "at": "5 cấp độ",
+       "side": "L",
+       "y": 350,
+       "value": "5 CẤP ĐỘ",
+       "label": "thử thách phòng lab",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "HỒ SƠ MẪU VẬT"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "CỖ MÁY SIÊU TỐC BIẾN 20 LÍT NƯỚC THÀNH KEO NHỚT",
+   "hook": "BÙNG NỔ 10.000 LẦN THỂ TÍCH CHỈ TRONG MỘT NỐT NHẠC",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng nếu bạn soi",
+     "image": "assets/long/L14.png",
+     "stickers": [
+      {
+       "at": "150",
+       "side": "R",
+       "y": 350,
+       "value": "150 LỖ",
+       "label": "dọc hai bên sườn",
+       "target": [
+        0.62,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hãy quan sát thí",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bắn ra một lượng",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ trong vòng đúng",
+     "image": "assets/long/L17.png",
+     "stickers": [
+      {
+       "at": "0,4 giây",
+       "side": "L",
+       "y": 350,
+       "value": "0,4 GIÂY",
+       "label": "tốc độ bùng nổ",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "giọt dịch nhỏ xíu",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "10.000 lần",
+       "side": "R",
+       "y": 350,
+       "value": "10.000 LẦN",
+       "label": "trương nở thể tích",
+       "target": [
+        0.65,
+        0.45
+       ]
+      },
+      {
+       "at": "20 lít",
+       "side": "L",
+       "y": 480,
+       "value": "20 LÍT KEO",
+       "label": "từ một giọt dịch",
+       "target": [
+        0.32,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Làm thế nào mà",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tiến sĩ Douglas Fudge",
+     "image": "assets/long/L20.png",
+     "stickers": [
+      {
+       "at": "Douglas Fudge",
+       "side": "L",
+       "y": 350,
+       "value": "D. FUDGE",
+       "label": "giải mã sợi tơ",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi gặp nước biển",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả tạo ra",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Viện trưởng ơi, em",
+     "image": "assets/long/L23.png",
+     "stickers": [
+      {
+       "at": "5 gallon",
+       "side": "R",
+       "y": 350,
+       "value": "5 GALLON",
+       "label": "đông đặc cả xô",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trợ lý chứng kiến",
+     "image": "assets/long/L24.png",
+     "stickers": [
+      {
+       "at": "0,1%",
+       "side": "L",
+       "y": 350,
+       "value": "0,1% TƠ",
+       "label": "giữ 99,9% nước",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tận dụng chính nước",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 1: TẠO ĐỜM"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "VŨ KHÍ BÓP NGHẸT KHIẾN CÁ MẬP HUNG DỮ PHẢI NHẢ VỘI",
+   "hook": "BÍT KÍN KHE MANG LÀM KẺ SĂN MỒI SUÝT CHẾT NGẠT",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi nhìn thấy Cỗ Máy",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khoảnh khắc hàm cá",
+     "image": "assets/long/L28.png",
+     "stickers": [
+      {
+       "at": "20 lít",
+       "side": "R",
+       "y": 350,
+       "value": "20 LÍT ĐỜM",
+       "label": "nổ trong miệng",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Điều kinh hoàng bắt",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng khối chất nhầy của",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo viện trưởng,",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đúng thế các đồng",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Con cá mập hoảng",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các video gắn camera",
+     "image": "assets/long/L34.png",
+     "stickers": [
+      {
+       "at": "100%",
+       "side": "R",
+       "y": 350,
+       "value": "100% CHẠY",
+       "label": "không dám ăn",
+       "target": [
+        0.68,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 2: BÓP NGHẸT"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "ẢO THUẬT TỰ THẮT NÚT CƠ THỂ GẠT ĐỜM VÀ XÉ MỒI",
+   "hook": "TỰ THẮT NÚT DÂY THỪNG TỪ ĐẦU ĐẾN ĐUÔI SIÊU ẢO",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nếu không dọn sạch lớp",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và đây là lúc",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sau đó, nó co",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chiếc nút thắt di động",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết đâu các",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "rồi thắt nút cơ thể",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nó lấy chính cơ thể",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đặc biệt nhất, khi",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nó có thể hấp thụ",
+     "image": "assets/long/L44.png",
+     "stickers": [
+      {
+       "at": "axit amin",
+       "side": "R",
+       "y": 350,
+       "value": "ĂN QUA DA",
+       "label": "hấp thụ axit amin",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đây là loài động",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 3: THẮT NÚT"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "VỤ LẬT XE TRÊN CAO TỐC OREGON VÀ SỢI TƠ TƯƠNG LAI",
+   "hook": "7.500 POUND CÁ MÚT ĐÁ BIẾN CAO TỐC THÀNH BIỂN NHẦY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thì hãy quay ngược thời",
+     "image": "assets/long/L47.png",
+     "stickers": [
+      {
+       "at": "Quốc lộ 101",
+       "side": "L",
+       "y": 350,
+       "value": "QL 101",
+       "label": "tai nạn Oregon 2017",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo cảnh sát",
+     "image": "assets/long/L48.png",
+     "stickers": [
+      {
+       "at": "7.500 pound",
+       "side": "R",
+       "y": 350,
+       "value": "3.400 KG",
+       "label": "cá mút đá sống",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hàng ngàn chú cá",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đồng loạt hàng ngàn Cỗ",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đội cứu hỏa và",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vụ tai nạn trở thành",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ sự kiện chấn",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả cho thấy",
+     "image": "assets/long/L54.png",
+     "stickers": [
+      {
+       "at": "100",
+       "side": "L",
+       "y": 350,
+       "value": "1/100 TÓC",
+       "label": "bền ngang tơ nhện",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Người ta đang nghiên",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 4: OREGON 2017"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "KHẮC TINH HẢI QUỲ VÀ BÓNG ĐEN ĐIỆP VIÊN ĐẠI DƯƠNG",
+   "hook": "TỬ HUYỆT DUY NHẤT VÀ BÓNG ĐEN ĐIỆP VIÊN 9 NÃO",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chẳng lẽ quái vật này",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và đây là câu",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hải quỳ săn mồi bằng",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tổng kết ghi chép",
+     "image": "assets/long/L60.png",
+     "stickers": [
+      {
+       "at": "điểm 10",
+       "side": "R",
+       "y": 350,
+       "value": "ĐIỂM 10",
+       "label": "phòng thủ chất nhầy",
+       "target": [
+        0.58,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Còn các trợ lý",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hồ sơ phòng thí",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một sinh vật sở",
+     "image": "assets/long/L63.png",
+     "stickers": [
+      {
+       "at": "9 bộ não",
+       "side": "L",
+       "y": 350,
+       "value": "9 NÃO",
+       "label": "siêu điệp viên biển",
+       "target": [
+        0.35,
+        0.45
+       ]
+      },
+      {
+       "at": "3 trái tim",
+       "side": "R",
+       "y": 480,
+       "value": "3 TIM",
+       "label": "máu màu xanh lam",
+       "target": [
+        0.68,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "và sở hữu tài hóa trang",
+     "image": "assets/long/L64.png",
+     "stickers": [
+      {
+       "at": "15 loài",
+       "side": "R",
+       "y": 350,
+       "value": "15 LOÀI",
+       "label": "tuyệt kỹ biến hình",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đố các bạn biết",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP TỐI THƯỢNG"
+  }
+ }
+}

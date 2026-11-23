@@ -1,0 +1,152 @@
+{
+ "title_lines": [
+  "TẠI SAO 50% CÁI CHẾT",
+  "LÚC ĐI VỆ SINH?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "at": "cả tháng",
+     "side": "L",
+     "y": 560,
+     "value": "1 THÁNG",
+     "label": "tiêu hóa 1 chiếc lá",
+     "target": [
+      0.35,
+      0.4
+     ]
+    }
+   ]
+  },
+  {
+   "at": "nhưng mỗi tuần lại",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": []
+  },
+  {
+   "at": "Đó chính là Con",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "at": "0,2km/h",
+     "side": "R",
+     "y": 580,
+     "value": "0,2 KM/H",
+     "label": "tốc độ rùa bò",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Dạ dày 4 ngăn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "30 ngày",
+     "side": "L",
+     "y": 650,
+     "value": "30 NGÀY",
+     "label": "trao đổi chất chậm",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "còn bộ lông phủ",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "Nhưng kỳ lạ nhất",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "at": "1 tuần",
+     "side": "R",
+     "y": 600,
+     "value": "1 TUẦN/LẦN",
+     "label": "nghi lễ đi vệ sinh",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "xả tới 1/3",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "at": "1/3",
+     "side": "L",
+     "y": 650,
+     "value": "1/3",
+     "label": "trọng lượng cơ thể",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Do di chuyển quá",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "hơn 50% số cái",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "at": "50%",
+     "side": "R",
+     "y": 650,
+     "value": "50% CHẾT",
+     "label": "khi đi vệ sinh",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vậy là bí mật",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "giữ cho bộ lông",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  },
+  {
+   "at": "để sinh tồn qua",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  }
+ ]
+}

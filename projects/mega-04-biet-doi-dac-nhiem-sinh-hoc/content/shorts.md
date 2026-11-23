@@ -1,0 +1,13 @@
+## BIỆT ĐỘI ĐẶC NHIỆM | PHI VỤ THẾ KỶ
+@ don_dap
+[surprise-oh] Mười đặc vụ quái kiệt. Bảy cửa ải an ninh. Một phi vụ thế kỷ đột nhập Pháo Đài Tự Nhiên! :: {BOARD} sáng rực với bảy cửa ải đỏ rực giữa căn phòng tối, {CHIEF} đứng chỉ tay vào bản đồ cùng bóng đen của mười đặc vụ.
+Cửa Ải Một: Chim Cắt Lớn bổ nhào xé gió ba trăm tám mươi chín cây số một giờ vô hiệu hóa lưới laser! :: {FALCON} lao xuống như quả tên lửa xé toạc màn đêm, sóng xung kích trắng xóa quanh thân. || ba trăm tám mươi chín cây số một giờ;R;640;389 KM/H;Bổ nhào kỷ lục;0.5,0.55
+Cửa Ải Hai: Chuột Chũi Trũi thở bằng đường hoa quả sống sót mười tám phút ở mức không phần trăm oxy! :: {MOLERAT} bò thoăn thoắt trong đường ống ngập sương axit, cặp kính hồng ngoại chớp sáng. || mười tám phút;L;620;18 PHÚT;Sống ở 0% Oxy;0.5,0.5
+Cửa Ải Ba: Ếch Gỗ Bắc Cực chủ động đóng băng sáu mươi lăm phần trăm cơ thể, tim ngừng đập qua mặt cảm biến tầm nhiệt! :: {FROGS} biến thành một bức tượng băng trong suốt trượt êm ái trên sàn băng tuyết. || sáu mươi lăm phần trăm;R;640;65% NƯỚC;Đóng băng cơ thể;0.5,0.55
+Cửa Ải Bốn: Quạ Đen dùng trí tuệ giải mã chuỗi bẫy cơ học tám bước và lóa mắt camera an ninh! :: {CROW} ngậm móc câu thép mở ngăn kéo bí mật, nháy mắt tinh nghịch trước ống kính.
+Cửa Ải Năm: Cá Voi Sát Thủ bắn xung sonar hai trăm hai mươi lăm đê-xi-ben quất sóng thần phá đập nước ngầm! :: {ORCA} rẽ nước quất mạnh vây đuôi tạo sóng thần áp lực đập tung cửa van thép. || hai trăm hai mươi lăm đê-xi-ben;L;620;225 DB;Xung Sonar đỉnh;0.5,0.5
+Cửa Ải Sáu: Chim Gõ Kiến triệt tiêu một ngàn hai trăm G cùng Đại Đội Kiến Cắt Lá dùng răng thép đục sập boong-ke! :: {WOODPECKER} gõ mỏ tóe lửa vào vách đá granite, bên dưới là đàn kiến cắt lá mang hàm thép hỗ trợ. || một ngàn hai trăm G;R;640;1200G;Lực chịu va đập;0.5,0.55
+Cửa Ải Bảy: Dê Núi phi thân leo vách đứng chín mươi độ và Lạc Đà vượt sa mạc năm mươi độ C hạ cầu treo! :: {GOAT} bám móng giác hút leo vách đá chín mươi độ, phía dưới {CAMEL} đứng kiêu hãnh trên cát đỏ. || chín mươi độ;L;620;VÁCH 90°;Móng giác hút;0.5,0.5
+Và kho báu tối thượng là gì? Không phải vàng bạc, mà là kiệt tác tiến hóa nằm ngay trong chính bản thân mỗi loài! :: {CHIEF} mở nắp két sắt tối thượng, một quả cầu ánh sáng sinh học rực rỡ bừng nở soi rọi cả mười đặc vụ.
+[question-ah] Bạn ấn tượng với siêu năng lực của đặc vụ nào nhất? Xem trọn bộ phi vụ thế kỷ trong video dài nhé, :: Mười đặc vụ cùng tạo dáng cực ngầu dưới ánh trăng, {CHIEF} giơ huy hiệu điệp viên chào khán giả.
+vì ở đây chỉ có mười đặc vụ quái kiệt, bảy cửa ải sinh tử, và một phi vụ thế kỷ! :: {BOARD} sáng rực với bảy biểu tượng màu xanh ngọc bích, mười đặc vụ cùng nhảy lên ăn mừng chiến thắng.

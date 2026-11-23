@@ -1,0 +1,446 @@
+{
+  "scene_id": "scene01",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 6,
+  "world_width": 2740,
+  "world_height": 1396,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 150,
+  "duration_ms": 68160,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/assets/scenes_composed/scene01_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      301,
+      8,
+      979,
+      52
+    ],
+    "x": 313,
+    "y": 12,
+    "w": 654,
+    "h": 38,
+    "text": "[PHẦN 1]  BÁ CHỦ LỲ LỢM & CƠN ÁC MỘNG CỦA CHÚA SƠN LÂM",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/assets/scenes_composed/scene01_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 14500,
+      "has_frame": false,
+      "pill_box": [
+        427,
+        193,
+        596,
+        231
+      ],
+      "art_only_box": [
+        188,
+        229,
+        832,
+        582
+      ],
+      "caption": {
+        "text": "Bá chủ thảo nguyên: Sư tử, linh cẩu, voi rừng & tê giác",
+        "x": 273,
+        "y": 582,
+        "w": 474,
+        "h": 31,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        186,
+        189,
+        834,
+        615
+      ],
+      "img_region": {
+        "x": 188,
+        "y": 229,
+        "width": 644,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 14500,
+      "end_ms": 29680,
+      "has_frame": false,
+      "pill_box": [
+        1278,
+        193,
+        1464,
+        228
+      ],
+      "art_only_box": [
+        1048,
+        229,
+        1691,
+        582
+      ],
+      "caption": {
+        "text": "Nghịch lý: Bầy sư tử toát mồ hôi tự động né sang một bên đường",
+        "x": 1088,
+        "y": 582,
+        "w": 564,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1046,
+        189,
+        1693,
+        614
+      ],
+      "img_region": {
+        "x": 1048,
+        "y": 229,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 29680,
+      "end_ms": 37500,
+      "has_frame": false,
+      "pill_box": [
+        2136,
+        193,
+        2326,
+        230
+      ],
+      "art_only_box": [
+        1908,
+        229,
+        2551,
+        582
+      ],
+      "caption": {
+        "text": "Mellivora capensis: Kẻ Chí Phèo số 1 hành tinh — Lửng Mật!",
+        "x": 1969,
+        "y": 582,
+        "w": 521,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1906,
+        189,
+        2553,
+        614
+      ],
+      "img_region": {
+        "x": 1908,
+        "y": 229,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_04",
+      "start_ms": 37500,
+      "end_ms": 44500,
+      "has_frame": false,
+      "pill_box": [
+        2134,
+        773,
+        2328,
+        811
+      ],
+      "art_only_box": [
+        1915,
+        809,
+        2544,
+        1162
+      ],
+      "caption": {
+        "text": "Kỷ lục Guinness thế giới: Sinh vật không biết sợ nhất hành tinh",
+        "x": 1959,
+        "y": 1162,
+        "w": 542,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1913,
+        769,
+        2546,
+        1194
+      ],
+      "img_region": {
+        "x": 1915,
+        "y": 809,
+        "width": 629,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_05",
+      "start_ms": 44500,
+      "end_ms": 52500,
+      "has_frame": false,
+      "pill_box": [
+        1264,
+        773,
+        1479,
+        806
+      ],
+      "art_only_box": [
+        1048,
+        809,
+        1691,
+        1162
+      ],
+      "caption": {
+        "text": "Tương quan chấn động: 30cm / 12kg đối đầu Sư tử nặng gấp 15 lần",
+        "x": 1075,
+        "y": 1162,
+        "w": 590,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1046,
+        769,
+        1693,
+        1194
+      ],
+      "img_region": {
+        "x": 1048,
+        "y": 809,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_06",
+      "start_ms": 52500,
+      "end_ms": 68160,
+      "has_frame": false,
+      "pill_box": [
+        428,
+        773,
+        595,
+        814
+      ],
+      "art_only_box": [
+        188,
+        809,
+        832,
+        1162
+      ],
+      "caption": {
+        "text": "Cái giá quá đắt: Rách môi mẻ vuốt đổi lấy miếng thịt dai nhách",
+        "x": 231,
+        "y": 1162,
+        "w": 557,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        186,
+        769,
+        834,
+        1197
+      ],
+      "img_region": {
+        "x": 188,
+        "y": 809,
+        "width": 644,
+        "height": 353
+      },
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 186.0,
+    "y_min": 189.0,
+    "x_max": 2553.0,
+    "y_max": 1197.0,
+    "bbox_w": 2367.0,
+    "bbox_h": 1008.0,
+    "center_x": 1369.5,
+    "center_y": 693.0,
+    "zoom_out_scale": 0.5085,
+    "crop_w": 2517.0,
+    "crop_h": 1282.1
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 645.4,
+      "cy": 402.0,
+      "crop_w": 1290.8,
+      "crop_h": 657.5,
+      "zoom_relative": 1.95,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 13880.0,
+      "cx": 645.4,
+      "cy": 402.0,
+      "crop_w": 1290.8,
+      "crop_h": 657.5,
+      "zoom_relative": 1.95,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 14500.0,
+      "cx": 1369.5,
+      "cy": 401.5,
+      "crop_w": 1227.8,
+      "crop_h": 625.4,
+      "zoom_relative": 2.05,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 29060.0,
+      "cx": 1369.5,
+      "cy": 401.5,
+      "crop_w": 1227.8,
+      "crop_h": 625.4,
+      "zoom_relative": 2.05,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 29680.0,
+      "cx": 2126.1,
+      "cy": 401.5,
+      "crop_w": 1227.8,
+      "crop_h": 625.4,
+      "zoom_relative": 2.05,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 36880.0,
+      "cx": 2126.1,
+      "cy": 401.5,
+      "crop_w": 1227.8,
+      "crop_h": 625.4,
+      "zoom_relative": 2.05,
+      "phase": "transition",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 37500.0,
+      "cx": 2110.8,
+      "cy": 981.5,
+      "crop_w": 1258.5,
+      "crop_h": 641.0,
+      "zoom_relative": 2.0,
+      "phase": "focus_hold",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 43880.0,
+      "cx": 2110.8,
+      "cy": 981.5,
+      "crop_w": 1258.5,
+      "crop_h": 641.0,
+      "zoom_relative": 2.0,
+      "phase": "transition",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 44500.0,
+      "cx": 1369.5,
+      "cy": 981.5,
+      "crop_w": 1258.5,
+      "crop_h": 641.0,
+      "zoom_relative": 2.0,
+      "phase": "focus_hold",
+      "target_node_id": "beat_05"
+    },
+    {
+      "time_ms": 51880.0,
+      "cx": 1369.5,
+      "cy": 981.5,
+      "crop_w": 1258.5,
+      "crop_h": 641.0,
+      "zoom_relative": 2.0,
+      "phase": "transition",
+      "target_node_id": "beat_05"
+    },
+    {
+      "time_ms": 52500.0,
+      "cx": 645.4,
+      "cy": 983.0,
+      "crop_w": 1290.8,
+      "crop_h": 657.5,
+      "zoom_relative": 1.95,
+      "phase": "focus_hold",
+      "target_node_id": "beat_06"
+    },
+    {
+      "time_ms": 65960.0,
+      "cx": 645.4,
+      "cy": 983.0,
+      "crop_w": 1290.8,
+      "crop_h": 657.5,
+      "zoom_relative": 1.95,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_06"
+    },
+    {
+      "time_ms": 66950.0,
+      "cx": 1369.5,
+      "cy": 693.0,
+      "crop_w": 2517.0,
+      "crop_h": 1282.1,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 68160.0,
+      "cx": 1369.5,
+      "cy": 693.0,
+      "crop_w": 2517.0,
+      "crop_h": 1282.1,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

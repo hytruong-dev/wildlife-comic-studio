@@ -1,0 +1,393 @@
+{
+ "episode": "tap-49-nhim-long-nhon",
+ "title_lines": [
+  "30.000 MŨI TÊN",
+  "TỰ RÚT SÂU?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 47.51,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-49-nhim-long-nhon_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  5.73,
+  11.97,
+  17.63,
+  23.69,
+  30.35,
+  34.89,
+  40.77,
+  45.47
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.8,
+     "text": "Tại sao chỉ"
+    },
+    {
+     "t": 1.28,
+     "text": "một chiếc lông"
+    },
+    {
+     "t": 1.7,
+     "text": "nhím nhỏ bé"
+    },
+    {
+     "t": 2.34,
+     "text": "cắm vào mõm"
+    },
+    {
+     "t": 3.34,
+     "text": "cũng đủ sức"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 3.93,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 8.1,
+     "side": "R",
+     "y": 540,
+     "value": "30.000 GAI",
+     "label": "VŨ KHÍ TỰ VỆ",
+     "target": [
+      350,
+      600
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 4.0,
+     "text": "hạ gục cả"
+    },
+    {
+     "t": 4.52,
+     "text": "một con báo"
+    },
+    {
+     "t": 4.96,
+     "text": "hoa mai hung"
+    },
+    {
+     "t": 5.46,
+     "text": "dữ?! Hãy nhìn"
+    },
+    {
+     "t": 7.04,
+     "text": "Pháo Đài Tự"
+    },
+    {
+     "t": 7.7,
+     "text": "Hành với 30.000"
+    },
+    {
+     "t": 8.58,
+     "text": "mũi tên chết"
+    },
+    {
+     "t": 9.18,
+     "text": "chóc này xem!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 10.17,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 10.22,
+     "text": "Nhím hoàn toàn"
+    },
+    {
+     "t": 10.9,
+     "text": "không hề bắn"
+    },
+    {
+     "t": 11.5,
+     "text": "lông từ xa"
+    },
+    {
+     "t": 12.1,
+     "text": "như trong phim"
+    },
+    {
+     "t": 12.54,
+     "text": "hoạt hình đâu"
+    },
+    {
+     "t": 13.04,
+     "text": "nhé! Dưới kính"
+    },
+    {
+     "t": 14.3,
+     "text": "hiển vi điện"
+    },
+    {
+     "t": 14.98,
+     "text": "tử quét, đầu"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 15.83,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 15.86,
+     "text": "mỗi chiếc lông"
+    },
+    {
+     "t": 16.48,
+     "text": "nhím chứa tới"
+    },
+    {
+     "t": 17.18,
+     "text": "800 chiếc ngạnh"
+    },
+    {
+     "t": 17.95,
+     "text": "ngược siêu nhỏ"
+    },
+    {
+     "t": 18.56,
+     "text": "xếp lớp như"
+    },
+    {
+     "t": 19.12,
+     "text": "lưỡi móc câu!"
+    },
+    {
+     "t": 20.38,
+     "text": "Khi đâm vào"
+    },
+    {
+     "t": 21.0,
+     "text": "thịt, các ngạnh"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 21.89,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 21.94,
+     "text": "này nép sát"
+    },
+    {
+     "t": 22.58,
+     "text": "giúp giảm 54%"
+    },
+    {
+     "t": 23.82,
+     "text": "lực đâm,"
+    },
+    {
+     "t": 24.56,
+     "text": "nhưng khi rút"
+    },
+    {
+     "t": 25.02,
+     "text": "ra thì bung"
+    },
+    {
+     "t": 25.68,
+     "text": "nở móc chặt,"
+    },
+    {
+     "t": 26.28,
+     "text": "làm tăng lực"
+    },
+    {
+     "t": 27.4,
+     "text": "rút lên gấp"
+    },
+    {
+     "t": 27.96,
+     "text": "3 lần!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 28.55,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 28.8,
+     "text": "Đáng sợ hơn"
+    },
+    {
+     "t": 29.26,
+     "text": "cả, các cử"
+    },
+    {
+     "t": 30.16,
+     "text": "động cơ bắp"
+    },
+    {
+     "t": 30.66,
+     "text": "của con thú"
+    },
+    {
+     "t": 31.1,
+     "text": "săn mồi sẽ"
+    },
+    {
+     "t": 31.64,
+     "text": "vô tình đẩy"
+    },
+    {
+     "t": 32.22,
+     "text": "chiếc lông tự rút"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 33.09,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 33.1,
+     "text": "sâu vào bên"
+    },
+    {
+     "t": 33.46,
+     "text": "trong cơ thể"
+    },
+    {
+     "t": 33.9,
+     "text": "với tốc độ"
+    },
+    {
+     "t": 34.36,
+     "text": "1mm mỗi giờ,"
+    },
+    {
+     "t": 35.72,
+     "text": "đâm thủng vòm"
+    },
+    {
+     "t": 36.28,
+     "text": "họng và tim"
+    },
+    {
+     "t": 36.82,
+     "text": "phổi kẻ địch!"
+    },
+    {
+     "t": 37.62,
+     "text": "Đã thế,"
+    },
+    {
+     "t": 38.56,
+     "text": "trên thân"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 38.97,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 39.0,
+     "text": "lông còn phủ"
+    },
+    {
+     "t": 39.7,
+     "text": "lớp mỡ kháng"
+    },
+    {
+     "t": 40.26,
+     "text": "sinh tự nhiên"
+    },
+    {
+     "t": 40.9,
+     "text": "để nhím tự"
+    },
+    {
+     "t": 41.5,
+     "text": "chữa lành khi"
+    },
+    {
+     "t": 42.34,
+     "text": "lỡ bị lông"
+    },
+    {
+     "t": 42.92,
+     "text": "đâm vào người!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 43.67,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08b.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 43.92,
+     "text": "Một cỗ máy"
+    },
+    {
+     "t": 44.6,
+     "text": "bọc thép sinh"
+    },
+    {
+     "t": 45.16,
+     "text": "học với đòn"
+    },
+    {
+     "t": 45.68,
+     "text": "phản công tàn"
+    },
+    {
+     "t": 46.3,
+     "text": "khốc bậc nhất"
+    },
+    {
+     "t": 46.82,
+     "text": "tự nhiên!"
+    }
+   ]
+  }
+ ]
+}

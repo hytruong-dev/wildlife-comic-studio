@@ -1,0 +1,612 @@
+{
+ "_doc": "Storyboard Tập 30: Hải Ly (Format F4 - 24 Giờ Theo Chân). Mỗi câu/ý thoại = 1 beat = 1 ảnh riêng.",
+ "characters": {
+  "HERO": "chú Hải Ly (Castor canadensis) hoạt hình màu nâu hạt dẻ mũm mĩm đáng yêu, đôi tai tròn nhỏ, đôi mắt to lanh lợi, bộ răng cửa màu cam đậm rực rỡ lấp lánh như kim loại sắt, chiếc đuôi dẹp hình mái chèo có vân vảy da, đội một chiếc mũ bảo hộ kỹ sư công trình màu vàng tươi trên đầu",
+  "HERO_S": "chú Hải Ly nâu mũm mĩm, răng cửa cam rực rỡ, mũ bảo hộ vàng",
+  "NO_HERO": "KHÔNG có chú hải ly đội mũ bảo hộ trong cảnh này",
+  "REPORTER": "phóng viên hiện trường cầm mic có logo 24H",
+  "WOLF": "con chó sói xám hung dữ đứng bên bờ hồ rình mò",
+  "DAM": "con đập gỗ khổng lồ đan cành cây và trát bùn đất bắc ngang dòng sông"
+ },
+ "side_characters": [
+  "REPORTER",
+  "WOLF",
+  "DAM"
+ ],
+ "shorts_side_characters": [
+  "DAM"
+ ],
+ "shorts_title_lines": [
+  "ĐẶT LOA NƯỚC CHẢY TRƯỚC MẶT",
+  "HẢI LY VÀ CÁI KẾT?!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Cánh rừng ôn đới rậm rạp hoang dã Bắc Mỹ với sương sớm giăng mờ ảo trên mặt hồ phẳng lặng, chiếc đồng hồ đếm ngược 24H nhấp nháy góc màn hình. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hôm nay, chiếc camera",
+   "layout": "Chiếc camera giấu kín trong bụi cây rình sẵn bám sát từng bước chân của một kỹ sư xây dựng thiên tài nhưng cực kỳ lầy lội, ống kính phản chiếu mặt hồ sương sớm. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Báo cáo phóng viên,",
+   "layout": "BÊN TRÁI nữ trợ lý cầm bộ đàm chỉ tay về phía bờ suối; BÊN PHẢI {REPORTER} cầm mic hướng máy quay vào mục tiêu. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hướng máy quay sang",
+   "layout": "Ở GIỮA {HERO} mũm mĩm đáng yêu đội chiếc mũ bảo hộ kỹ sư màu vàng tươi, hai chân trước ôm khúc gỗ to tướng bước đi lạch bạch.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhìn dáng đi trên",
+   "layout": "Chia đôi: BÊN TRÁI {HERO} đi lạch bạch vụng về trên bờ suối nặng 30kg; BÊN PHẢI {HERO} lặn xuống nước rẽ sóng bơi thoăn thoắt như tàu ngầm.",
+   "stickers": [
+    {
+     "at": "30kg",
+     "side": "L",
+     "y": 350,
+     "value": "NẶNG 30KG",
+     "label": "chuột khổng lồ",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhưng chỉ cần chạm",
+   "layout": "{HERO} lao xuống làn nước mát, biến thành thợ lặn cừ khôi với đôi chân màng bơi thoăn thoắt và bộ lông chống thấm nước hoàn hảo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Và điều điên rồ",
+   "layout": "Hình ảnh bản đồ chụp từ vệ tinh không gian ngoài Trái Đất: các công trình đập nước vĩ đại của loài hải ly hiện rõ mồn một giữa lục địa. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Trước khi gã bước",
+   "layout": "{HERO} đập mạnh chiếc đuôi dẹp như mái chèo xuống mặt nước bắn tung tóe bọt trắng xóa, phát ra tiếng nổ chan chát vang xa hàng trăm mét.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mỗi khi phát hiện",
+   "layout": "{HERO} đập mạnh chiếc đuôi xuống mặt nước tạo tiếng nổ chan chát vang xa hàng trăm mét báo động cho cả gia đình lặn trốn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Đồng hồ hiện 9H SÁNG; cận cảnh khuôn mặt {HERO} khoe hai chiếc răng cửa hàm trên màu cam đậm rực rỡ bóng loáng như kim loại sắt.",
+   "stickers": [
+    {
+     "at": "9h",
+     "side": "L",
+     "y": 350,
+     "value": "09:00 SÁNG",
+     "label": "hiện trường đốn gỗ",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "2015, một nghiên",
+   "layout": "Bìa tạp chí Science năm 2015 mở ra phân tích cấu trúc nano: các tinh thể oxit sắt vô định hình siêu cứng gắn chặt trong men răng hải ly. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "2015",
+     "side": "R",
+     "y": 350,
+     "value": "NĂM 2015",
+     "label": "men răng oxit sắt",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Lớp kim loại tự nhiên",
+   "layout": "Hai chiếc răng cửa cam bóng loáng cứng hơn bất kỳ loài gặm nhấm nào, kháng axit mài mòn tuyệt đối, tỏa sáng như kim loại thép. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chưa dừng lại ở",
+   "layout": "Sơ đồ vát nhọn 20 độ của răng cửa: mặt sau mềm mòn nhanh hơn mặt trước cứng, đầu răng tự động mài sắc ngọt như lưỡi đục kim cương.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Hãy bấm giờ đếm",
+   "layout": "Chiếc đồng hồ bấm giờ 30 phút: {HERO} gặm vòng quanh gốc cây bạch dương 15cm làm cả thân cây to lớn đổ rầm xuống đất; dăm gỗ bay rào rào.",
+   "stickers": [
+    {
+     "at": "15cm",
+     "side": "L",
+     "y": 350,
+     "value": "GỐC 15CM",
+     "label": "thân cây bạch dương",
+     "target": [
+      0.35,
+      0.45
+     ]
+    },
+    {
+     "at": "30 phút",
+     "side": "R",
+     "y": 350,
+     "value": "30 PHÚT",
+     "label": "đốn ngã cây to",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và điều kỳ diệu",
+   "layout": "Giải phẫu khoang miệng {HERO}: chiếc màng da sau răng cửa khép kín miệng lại giúp gã vừa gặm cành cây vừa ngụp lặn dưới nước không bị sặc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Người bản địa Bắc Mỹ",
+   "layout": "Người bản địa Bắc Mỹ thời xưa lấy hàm răng hải ly gắn vào cán gỗ làm dao đục khắc gỗ siêu bền. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chưa hết, gã kỹ",
+   "layout": "{HERO} đắp gò bùn nhỏ bên bờ suối rồi dùng đuôi quét xạ hương castoreum thơm mùi vani đóng dấu lãnh thổ; chai nước hoa cổ điển minh họa bên cạnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Gã thường đắp những",
+   "layout": "{HERO} đắp những gò bùn nhỏ dọc bờ suối rồi phun xạ hương lên đóng dấu chủ quyền lãnh thổ, bên cạnh là lọ nước hoa cổ điển.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và răng của hải",
+   "layout": "{HERO} say sưa gặm khúc gỗ tròn xoe để mài răng không bị mọc dài quá mức; bảng 09:00 Sáng bật PASS. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Đồng hồ hiện 14H CHIỀU; chiếc máy quay phóng sự giấu kín ghi lại bài kiểm tra tâm lý ám ảnh tiếng nước chảy của hải ly. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "14h",
+     "side": "L",
+     "y": 350,
+     "value": "14:00",
+     "label": "thử thách tâm lý",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thứ khiến hải ly",
+   "layout": "Chiếc loa phóng thanh đặt trên bãi cỏ khô ráo giữa rừng đang phát ra từng đợt sóng âm thanh tiếng nước chảy róc rách thật to. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Báo cáo hiện trường:",
+   "layout": "{HERO} nghe tiếng loa róc rách mắt đỏ ngầu hoảng hốt, vứt bỏ khúc gỗ đang gặm lao ngay ra bờ suối vốc bùn đất chạy lên cạn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Quý vị hãy nhìn",
+   "layout": "{HERO} hì hục trát từng nắm bùn đất và cành cây bọc kín mít chiếc loa phát thanh thành một ngọn đồi bùn khổng lồ trên nền đất khô ráo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Dù dưới chân là",
+   "layout": "Nền đất khô ráo không có lấy một giọt nước nhưng {HERO} vẫn đắp thành một ngọn đồi bùn khổng lồ quanh chiếc loa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thậm chí khi các",
+   "layout": "Chiếc loa treo lơ lửng trên cành cây: {HERO} kiên nhẫn đắp bùn quanh thân cây thành chiếc cầu thang xoắn ốc để trèo lên bịt chặt chiếc loa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Sự kiên trì và",
+   "layout": "Các nhà khoa học bật cười thán phục trước sự kiên trì và độ lầy lội đỉnh cao của gã kiến trúc sư hải ly. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đây chính là chứng",
+   "layout": "Biểu tượng hội chứng ám ảnh cưỡng chế: biển cấm nước rò rỉ; {HERO} thở phào nhẹ nhõm cạnh ngọn đồi bùn; bảng 14:00 Chiều bật PASS.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Đồng hồ hiện 18H TỐI; hoàng hôn đỏ rực buông xuống đại công trường xây đập: cả gia đình hải ly phối hợp kéo gỗ trát bùn tấp nập. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "18h",
+     "side": "L",
+     "y": 350,
+     "value": "18:00 TỐI",
+     "label": "đại công trường",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chúng kéo những",
+   "layout": "Khung dầm chữ V ngược bằng cọc gỗ cắm sâu đáy bùn; {HERO} dùng chiếc đuôi dẹp như bay thợ nề múc bùn non đầm chặt từng kẽ hở.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Để vận chuyển những",
+   "layout": "Hệ thống kênh đào nhân tạo do hải ly đào sâu vào rừng: những khúc gỗ lớn được thả trôi nổi nhẹ nhàng theo dòng kênh về con đập. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Công trình này kiên",
+   "layout": "{DAM} kiên cố chặn đứng dòng sông xiết: nước dâng lên biến thung lũng thành hồ nước mênh mông, đàn chim và cá kéo về sinh sống trù phú.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Tại Vườn quốc gia",
+   "layout": "Toàn cảnh con đập dài 850m tại Canada nhìn từ vệ tinh không gian; so sánh với hình ảnh đập thủy điện Hoover khổng lồ. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "850m",
+     "side": "R",
+     "y": 350,
+     "value": "DÀI 850M",
+     "label": "kỷ lục thế giới",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "gấp đôi chiều dài",
+   "layout": "So sánh: con đập hải ly dài gấp đôi đập thủy điện Hoover của con người, nhìn rõ mồn một từ ảnh vệ tinh không gian. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ngày nay, các nhà",
+   "layout": "Khu rừng xanh tươi hồi sinh bên cạnh đập hải ly: ranh giới chống cháy rừng tự nhiên và lọc sạch nguồn nước; bảng 18:00 Tối bật PASS. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Những con đập của chúng",
+   "layout": "Những con đập hải ly nâng cao mạch nước ngầm, ngăn thảm họa cháy rừng và thanh lọc nguồn nước ô nhiễm. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Một sinh vật không có",
+   "layout": "{HERO} đứng ngạo nghễ trên đỉnh con đập giữa dòng sông hồi sinh, vẽ lại bản đồ thủy văn của cả một lục địa không cần máy móc hiện đại.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Đồng hồ hiện 23H ĐÊM; ánh trăng lạnh buốt chiếu rọi khu rừng, {WOLF} sói xám hú dài bên bờ trong khi gia đình hải ly an toàn trong pháo đài giữa hồ. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "23h",
+     "side": "L",
+     "y": 350,
+     "value": "23:00 ĐÊM",
+     "label": "pháo đài ngầm",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Hãy quan sát mặt",
+   "layout": "Mặt cắt lâu đài lodge hình vòm giữa hồ: đắp bằng gỗ và bùn đất dày 1m đông cứng như bê tông cốt thép, sói cào rách móng không thủng. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1m",
+     "side": "R",
+     "y": 350,
+     "value": "DÀY 1 MÉT",
+     "label": "vách thành bê tông",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Và điều thiên tài",
+   "layout": "Đồ họa hai đường hầm ngập sâu dưới nước: {HERO} lặn xuống đáy bơi vào hầm bí mật, thú dữ trên bờ đứng nhìn bất lực.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "chia làm hai tầng",
+   "layout": "Bên trong lâu đài 2 tầng: tầng dưới vắt khô lông; tầng trên ấm áp lót vỏ cây khô nơi cả gia đình {HERO} quây quần ngủ say bên khe thông gió.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Vào mùa đông băng",
+   "layout": "Tủ lạnh đáy hồ dưới lớp băng dày 1m: {HERO} bơi dưới băng lấy cành cây tươi cắm dưới bùn lên ăn ấm cúng trong lâu đài.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Dưới lớp băng dày",
+   "layout": "{HERO} bơi dưới lớp băng dày ra tủ lạnh đáy nước lấy cành bạch dương tươi ngon về thưởng thức mà không cần ló đầu lên mặt băng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Một công trình phòng",
+   "layout": "Biểu tượng pháo đài 5 sao giữa hồ nước; bảng 23:00 Đêm bật PASS rực rỡ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Đồng hồ điểm 6H SÁNG HÔM SAU; ánh bình minh rạng rỡ trên mặt hồ yên ả, {REPORTER} kết thúc phóng sự 24h cạnh {HERO}.",
+   "stickers": [
+    {
+     "at": "6h",
+     "side": "L",
+     "y": 350,
+     "value": "06:00 SÁNG",
+     "label": "kết thúc 24h",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Báo cáo thực địa",
+   "layout": "Dấu mộc đỏ ĐẠT ĐIỂM 10 đóng lên tập phóng sự 24h; {HERO} nhận cúp vàng Kiến trúc sư vĩ đại nhất giới động vật.",
+   "stickers": [
+    {
+     "at": "điểm 10",
+     "side": "R",
+     "y": 350,
+     "value": "ĐIỂM 10",
+     "label": "kỹ sư vĩ đại",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Còn anh em thì",
+   "layout": "Hai bàn cân lựa chọn: BÊN TRÁI bộ răng cửa bọc sắt cam không mòn; BÊN PHẢI năng lực xây đập thay đổi cả dòng sông, khán giả bình chọn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "xin được đóng",
+   "layout": "Ống kính máy quay 24h đóng nắp lại, chuyển sang khung cảnh bầu trời xanh ngắt nơi có xưởng vũ khí khí động học tầng cao. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một cỗ tên lửa",
+   "layout": "Một sinh vật bí ẩn được vẽ hoàn toàn bằng BÓNG ĐEN ĐẶC TUYỀN (solid black silhouette) hình chú chim cắt dũng mãnh xếp cánh hình chữ V lao bổ nhào thẳng từ tầng mây với vận tốc 389 km/h xé toạc không khí; ba dấu hỏi chấm vàng to tướng; KHÔNG vẽ mắt mỏ lông vũ thật. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "389 km/h",
+     "side": "R",
+     "y": 350,
+     "value": "389 KM/H",
+     "label": "tên lửa sống",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "nhờ hai chiếc nón",
+   "layout": "Cận cảnh chiếc BÓNG ĐEN ĐẶC TUYỀN đầu chim với hai chiếc nón giảm áp xoắn ốc trong lỗ mũi chống vỡ phổi khi bổ nhào siêu thanh; ba dấu hỏi chấm to tướng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đố các bạn biết",
+   "layout": "Chiếc BÓNG ĐEN ĐẶC TUYỀN sát thủ tốc độ bổ nhào giữa ba dấu hỏi chấm vàng mời gọi khán giả đoán tên Chim Cắt Lớn tập sau. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Khung dọc: Đặt chiếc loa phát tiếng nước chảy róc rách trước mặt {HERO} trên bãi cỏ khô ráo.",
+   "stickers": []
+  },
+  {
+   "at": "Ngay lập tức, gã",
+   "layout": "{HERO} mắt đỏ ngầu hoảng hốt, vứt bỏ khúc gỗ lao ra suối vác bùn chạy thục mạng lên cạn.",
+   "stickers": []
+  },
+  {
+   "at": "vác bùn đất chạy",
+   "layout": "{HERO} vác bùn đất chạy hộc tốc lên cạn, trát kín mít chiếc loa cho đến khi tiếng nước róc rách tắt ngấm.",
+   "stickers": []
+  },
+  {
+   "at": "Hải Ly mắc chứng",
+   "layout": "{HERO} trát bùn bọc kín mít chiếc loa phát thanh cho đến khi âm thanh róc rách tắt ngấm.",
+   "stickers": []
+  },
+  {
+   "at": "Thậm chí khi các",
+   "layout": "Chiếc loa treo lơ lửng trên cành cây; {HERO} kiên nhẫn đắp chiếc cầu thang bùn xoắn ốc để trèo lên bịt chặt chiếc loa bằng được.",
+   "stickers": []
+  },
+  {
+   "at": "vì với gã tiếng",
+   "layout": "Biển cấm khổng lồ gạch chéo giọt nước rò rỉ; {HERO} khoanh tay nghiêm nghị trước chiếc loa đã bị bọc kín bùn: tiếng nước rò rỉ là tội ác không thể tha thứ.",
+   "stickers": []
+  },
+  {
+   "at": "Để phục vụ đam",
+   "layout": "Cận cảnh bộ răng cửa màu cam rực rỡ chứa oxit sắt siêu cứng lấp lánh như kim loại thép.",
+   "stickers": []
+  },
+  {
+   "at": "có khả năng tự",
+   "layout": "{HERO} gặm đốn ngã thân cây bạch dương to lớn chỉ trong 30 phút, dăm gỗ bay rào rào.",
+   "stickers": [
+    {
+     "at": "30 phút",
+     "side": "R",
+     "y": 620,
+     "value": "30 PHÚT",
+     "label": "hạ cây cổ thụ",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Những con đập do",
+   "layout": "{DAM} kiên cố dài 850m chặn đứng dòng sông lớn, nước dâng lên tạo hồ nước mênh mông.",
+   "stickers": [
+    {
+     "at": "850m",
+     "side": "L",
+     "y": 620,
+     "value": "DÀI 850M",
+     "label": "đập khổng lồ",
+     "target": [
+      0.38,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "nhìn thấy rõ mồn",
+   "layout": "Ảnh chụp từ vệ tinh không gian ngoài Trái Đất nhìn thấy rõ mồn một con đập hải ly.",
+   "stickers": []
+  },
+  {
+   "at": "Đúng là kỹ sư",
+   "layout": "Chân dung {HERO} đội mũ bảo hộ kỹ sư giơ bay trát bùn đứng trên đỉnh con đập ngạo nghễ.",
+   "stickers": []
+  }
+ ]
+}

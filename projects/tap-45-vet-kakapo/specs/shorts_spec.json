@@ -1,0 +1,347 @@
+{
+ "episode": "tap-45-vet-kakapo",
+ "title_lines": [
+  "QUÊN MÌNH KHÔNG BIẾT BAY",
+  "LEO 20M NHẢY ĐẬP BỤNG?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 40.53,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-45-vet-kakapo_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  6.91,
+  11.99,
+  17.13,
+  21.99,
+  27.07,
+  31.93,
+  37.75
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.44,
+     "text": "Quên mất mình"
+    },
+    {
+     "t": 1.36,
+     "text": "không biết bay"
+    },
+    {
+     "t": 2.16,
+     "text": "nhưng vẫn leo"
+    },
+    {
+     "t": 2.72,
+     "text": "tót lên ngọn"
+    },
+    {
+     "t": 3.22,
+     "text": "cây cao 20"
+    },
+    {
+     "t": 3.9,
+     "text": "mét rồi xòe cánh"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 5.11,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 10.3,
+     "side": "L",
+     "y": 500,
+     "value": "4 KG",
+     "label": "vẹt nặng nhất",
+     "target": [
+      0.3,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 5.08,
+     "text": "nhảy ùm xuống"
+    },
+    {
+     "t": 5.76,
+     "text": "đập bụng bẹp"
+    },
+    {
+     "t": 6.44,
+     "text": "dí! Đây là"
+    },
+    {
+     "t": 7.32,
+     "text": "Kakapo, loài vẹt"
+    },
+    {
+     "t": 8.58,
+     "text": "nặng nhất thế"
+    },
+    {
+     "t": 9.1,
+     "text": "giới với thể"
+    },
+    {
+     "t": 9.72,
+     "text": "trọng lên"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 10.19,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 10.14,
+     "text": "tới 4 kg,"
+    },
+    {
+     "t": 10.72,
+     "text": "và cũng là"
+    },
+    {
+     "t": 11.84,
+     "text": "loài vẹt duy"
+    },
+    {
+     "t": 12.56,
+     "text": "nhất trên Trái"
+    },
+    {
+     "t": 13.06,
+     "text": "Đất hoàn toàn"
+    },
+    {
+     "t": 13.74,
+     "text": "quên mất cách"
+    },
+    {
+     "t": 14.34,
+     "text": "bay! Sống hàng"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 15.33,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 15.32,
+     "text": "triệu năm ở"
+    },
+    {
+     "t": 15.84,
+     "text": "New Zealand không"
+    },
+    {
+     "t": 16.56,
+     "text": "có thú săn"
+    },
+    {
+     "t": 17.14,
+     "text": "mồi, xương ức"
+    },
+    {
+     "t": 18.14,
+     "text": "của gã thoái"
+    },
+    {
+     "t": 18.76,
+     "text": "hóa phẳng lì"
+    },
+    {
+     "t": 19.48,
+     "text": "khiến đôi cánh"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 20.19,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 20.28,
+     "text": "chỉ còn là"
+    },
+    {
+     "t": 20.78,
+     "text": "vật trang trí."
+    },
+    {
+     "t": 21.46,
+     "text": "Khi gặp nguy"
+    },
+    {
+     "t": 22.44,
+     "text": "hiểm, gã đứng"
+    },
+    {
+     "t": 23.26,
+     "text": "hình phăng phắc"
+    },
+    {
+     "t": 23.8,
+     "text": "giả làm bụi"
+    },
+    {
+     "t": 24.52,
+     "text": "rêu, nhưng cơ"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 25.27,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 25.36,
+     "text": "thể lại tỏa"
+    },
+    {
+     "t": 25.92,
+     "text": "ra mùi mật"
+    },
+    {
+     "t": 26.38,
+     "text": "ong thơm phức"
+    },
+    {
+     "t": 26.94,
+     "text": "mời gọi kẻ"
+    },
+    {
+     "t": 27.54,
+     "text": "thù! Ban đêm,"
+    },
+    {
+     "t": 28.68,
+     "text": "gã đi bộ"
+    },
+    {
+     "t": 29.14,
+     "text": "hàng chục km,"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 30.13,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 32.34,
+     "side": "R",
+     "y": 520,
+     "value": "5 KM",
+     "label": "loa phóng thanh",
+     "target": [
+      0.7,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 30.38,
+     "text": "đào hố lòng"
+    },
+    {
+     "t": 30.88,
+     "text": "chảo khuếch đại"
+    },
+    {
+     "t": 31.38,
+     "text": "tiếng kêu vang"
+    },
+    {
+     "t": 31.94,
+     "text": "xa tới 5"
+    },
+    {
+     "t": 32.5,
+     "text": "km để gọi"
+    },
+    {
+     "t": 33.18,
+     "text": "bạn tình."
+    },
+    {
+     "t": 33.54,
+     "text": "Đáng yêu và"
+    },
+    {
+     "t": 34.58,
+     "text": "ngơ ngác vô"
+    },
+    {
+     "t": 35.14,
+     "text": "số tội, hiện"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 35.95,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 36.2,
+     "text": "cả hành tinh"
+    },
+    {
+     "t": 36.78,
+     "text": "chỉ còn vỏn"
+    },
+    {
+     "t": 37.4,
+     "text": "vẹn khoảng 250"
+    },
+    {
+     "t": 38.74,
+     "text": "cá thể được"
+    },
+    {
+     "t": 39.5,
+     "text": "bảo tồn nghiêm ngặt!"
+    }
+   ]
+  }
+ ]
+}

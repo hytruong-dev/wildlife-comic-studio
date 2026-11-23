@@ -1,0 +1,580 @@
+{
+  "scene_id": "scene02",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 8,
+  "world_width": 3004,
+  "world_height": 1530,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 60,
+  "duration_ms": 95080,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-02-rai-ca-bien/assets/scenes_composed/scene02_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      301,
+      9,
+      979,
+      55
+    ],
+    "x": 313,
+    "y": 13,
+    "w": 654,
+    "h": 40,
+    "text": "BẢNG CHỈ SỐ SINH TỒN RPG — THÁNH ĂN VẠ ĐẠI DƯƠNG",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-02-rai-ca-bien/assets/scenes_composed/scene02_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 11803,
+      "has_frame": false,
+      "pill_box": [
+        667,
+        60,
+        869,
+        95
+      ],
+      "art_only_box": [
+        452,
+        96,
+        1081,
+        449
+      ],
+      "caption": {
+        "text": "Chỉ số Ngụy Trang Đáng Yêu CUTENESS 100/100: Đôi mắt tròn & ria mép rung rinh",
+        "x": 458,
+        "y": 449,
+        "w": 618,
+        "h": 28,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        450,
+        60,
+        1083,
+        479
+      ],
+      "img_region": {
+        "x": 452,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 11803,
+      "end_ms": 23607,
+      "has_frame": false,
+      "pill_box": [
+        1392,
+        60,
+        1614,
+        98
+      ],
+      "art_only_box": [
+        1187,
+        96,
+        1816,
+        449
+      ],
+      "caption": {
+        "text": "Thực chiến CUTENESS 100: Xoa má làm duyên thôi miên 99% nhân loại",
+        "x": 1197,
+        "y": 449,
+        "w": 610,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1185,
+        60,
+        1818,
+        480
+      ],
+      "img_region": {
+        "x": 1187,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 23607,
+      "end_ms": 34348,
+      "has_frame": false,
+      "pill_box": [
+        2133,
+        60,
+        2343,
+        95
+      ],
+      "art_only_box": [
+        1922,
+        96,
+        2551,
+        449
+      ],
+      "caption": {
+        "text": "Chỉ số Giáp Lông FUR ARMOR 95/100: Khiên không khí chống nước lạnh 0°C",
+        "x": 1934,
+        "y": 449,
+        "w": 605,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1920,
+        60,
+        2553,
+        480
+      ],
+      "img_region": {
+        "x": 1922,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_04",
+      "start_ms": 34348,
+      "end_ms": 45089,
+      "has_frame": false,
+      "pill_box": [
+        2114,
+        550,
+        2363,
+        589
+      ],
+      "art_only_box": [
+        1922,
+        586,
+        2551,
+        939
+      ],
+      "caption": {
+        "text": "Đối chứng giải phẫu: 0% mỡ dưới da nhưng mặc áo lông 160.000 sợi/cm²",
+        "x": 1953,
+        "y": 939,
+        "w": 568,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1920,
+        550,
+        2553,
+        971
+      ],
+      "img_region": {
+        "x": 1922,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_05",
+      "start_ms": 45089,
+      "end_ms": 56704,
+      "has_frame": false,
+      "pill_box": [
+        1408,
+        550,
+        1598,
+        590
+      ],
+      "art_only_box": [
+        1187,
+        586,
+        1816,
+        939
+      ],
+      "caption": {
+        "text": "Chỉ số Trí Tuệ Công Cụ IQ 92/100: Thợ cơ khí bậc thầy dưới đáy biển",
+        "x": 1195,
+        "y": 939,
+        "w": 613,
+        "h": 31,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1185,
+        550,
+        1818,
+        972
+      ],
+      "img_region": {
+        "x": 1187,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_06",
+      "start_ms": 56704,
+      "end_ms": 68320,
+      "has_frame": false,
+      "pill_box": [
+        665,
+        550,
+        871,
+        589
+      ],
+      "art_only_box": [
+        452,
+        586,
+        1081,
+        939
+      ],
+      "caption": {
+        "text": "Thực chiến IQ 92: Dùng búa đá đập vỡ vỏ trai & cua cứng như bê tông",
+        "x": 461,
+        "y": 939,
+        "w": 612,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        450,
+        550,
+        1083,
+        971
+      ],
+      "img_region": {
+        "x": 452,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_07",
+      "start_ms": 68320,
+      "end_ms": 80950,
+      "has_frame": false,
+      "pill_box": [
+        1030,
+        1040,
+        1240,
+        1077
+      ],
+      "art_only_box": [
+        819,
+        1076,
+        1448,
+        1429
+      ],
+      "caption": {
+        "text": "Độ Lầy Lội & Mánh Khóe TRICKERY 999/100: Phá vỡ hoàn toàn mọi thang đo!",
+        "x": 831,
+        "y": 1429,
+        "w": 606,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        817,
+        1040,
+        1450,
+        1460
+      ],
+      "img_region": {
+        "x": 819,
+        "y": 1076,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_08",
+      "start_ms": 80950,
+      "end_ms": 93580,
+      "has_frame": false,
+      "pill_box": [
+        1783,
+        1040,
+        1957,
+        1080
+      ],
+      "art_only_box": [
+        1554,
+        1076,
+        2183,
+        1429
+      ],
+      "caption": {
+        "text": "Hồ sơ 3 phi vụ: Cướp đồ ăn, bắt cóc con tin đòi hải sản & cướp ván trượt!",
+        "x": 1561,
+        "y": 1429,
+        "w": 616,
+        "h": 31,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1552,
+        1040,
+        2185,
+        1462
+      ],
+      "img_region": {
+        "x": 1554,
+        "y": 1076,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 450.0,
+    "y_min": 60.0,
+    "x_max": 2553.0,
+    "y_max": 1462.0,
+    "bbox_w": 2103.0,
+    "bbox_h": 1402.0,
+    "center_x": 1501.5,
+    "center_y": 761.0,
+    "zoom_out_scale": 0.437,
+    "crop_w": 2929.1,
+    "crop_h": 1492.0
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 766.5,
+      "cy": 269.5,
+      "crop_w": 940.4,
+      "crop_h": 479.0,
+      "zoom_relative": 3.11,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 11183.0,
+      "cx": 766.5,
+      "cy": 269.5,
+      "crop_w": 940.4,
+      "crop_h": 479.0,
+      "zoom_relative": 3.11,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 11803.0,
+      "cx": 1501.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 22987.0,
+      "cx": 1501.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 23607.0,
+      "cx": 2236.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 33728.0,
+      "cx": 2236.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "transition",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 34348.0,
+      "cx": 2236.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "focus_hold",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 44469.0,
+      "cx": 2236.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "transition",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 45089.0,
+      "cx": 1501.5,
+      "cy": 761.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 3.1,
+      "phase": "focus_hold",
+      "target_node_id": "beat_05"
+    },
+    {
+      "time_ms": 56084.0,
+      "cx": 1501.5,
+      "cy": 761.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 3.1,
+      "phase": "transition",
+      "target_node_id": "beat_05"
+    },
+    {
+      "time_ms": 56704.0,
+      "cx": 766.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "focus_hold",
+      "target_node_id": "beat_06"
+    },
+    {
+      "time_ms": 67700.0,
+      "cx": 766.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "transition",
+      "target_node_id": "beat_06"
+    },
+    {
+      "time_ms": 68320.0,
+      "cx": 1133.5,
+      "cy": 1250.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "focus_hold",
+      "target_node_id": "beat_07"
+    },
+    {
+      "time_ms": 80330.0,
+      "cx": 1133.5,
+      "cy": 1250.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "transition",
+      "target_node_id": "beat_07"
+    },
+    {
+      "time_ms": 80950.0,
+      "cx": 1868.5,
+      "cy": 1251.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 3.1,
+      "phase": "focus_hold",
+      "target_node_id": "beat_08"
+    },
+    {
+      "time_ms": 93580.0,
+      "cx": 1868.5,
+      "cy": 1251.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 3.1,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_08"
+    },
+    {
+      "time_ms": 94080.0,
+      "cx": 1501.5,
+      "cy": 761.0,
+      "crop_w": 2929.1,
+      "crop_h": 1492.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 95080.0,
+      "cx": 1501.5,
+      "cy": 761.0,
+      "crop_w": 2929.1,
+      "crop_h": 1492.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

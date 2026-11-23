@@ -1,0 +1,324 @@
+import json
+from pathlib import Path
+
+P = Path("projects/tap-46-lon-huou-babirusa")
+
+display_fix = {
+    "bốn mươi sáu": "46",
+    "Bốn mươi sáu": "46",
+    "Tập bốn mươi sáu": "Tập 46",
+    "bốn mươi lăm": "45",
+    "Bốn mươi lăm": "45",
+    "bốn mươi bảy": "47",
+    "Bốn mươi bảy": "47",
+    "số bốn mươi sáu": "số 46",
+    "Số bốn mươi sáu": "Số 46",
+    "bốn mươi xăng-ti-mét": "40 cm",
+    "Bốn mươi xăng-ti-mét": "40 cm",
+    "ba mươi xăng-ti-mét": "30 cm",
+    "Ba mươi xăng-ti-mét": "30 cm",
+    "hai mươi xăng-ti-mét": "20 cm",
+    "Hai mươi xăng-ti-mét": "20 cm",
+    "một trăm": "100",
+    "Một trăm": "100",
+    "một trăm ki-lô-gam": "100 kg",
+    "Một trăm ki-lô-gam": "100 kg",
+    "một trăm tám mươi độ": "180°",
+    "Một trăm tám mươi độ": "180°",
+    "mười lăm năm": "15 năm",
+    "Mười lăm năm": "15 năm",
+    "hai mươi tư giờ": "24 giờ",
+    "Hai mươi tư giờ": "24 giờ",
+    "hàng triệu năm": "hàng triệu năm",
+    "Hàng triệu năm": "Hàng triệu năm",
+    "triệu năm": "triệu năm",
+    "không một": "không 1",
+    "Không một": "Không 1",
+    "một cặp": "1 cặp",
+    "Một cặp": "1 cặp",
+    "một ca bệnh": "1 ca bệnh",
+    "Một ca bệnh": "1 ca bệnh",
+    "một loài": "1 loài",
+    "Một loài": "1 loài",
+    "một chú": "1 chú",
+    "Một chú": "1 chú",
+    "một con": "1 con",
+    "Một con": "1 con",
+    "một chiếc": "1 chiếc",
+    "Một chiếc": "1 chiếc",
+    "một chiếc máy": "1 chiếc máy",
+    "Một chiếc máy": "1 chiếc máy",
+    "một hòn đảo": "1 hòn đảo",
+    "Một hòn đảo": "1 hòn đảo",
+    "một mũi tên": "1 mũi tên",
+    "Một mũi tên": "1 mũi tên",
+    "một vụ án": "1 vụ án",
+    "Một vụ án": "1 vụ án",
+    "một bài học": "1 bài học",
+    "Một bài học": "1 bài học",
+    "một phần": "1 phần",
+    "Một phần": "1 phần",
+    "một vòng cung": "1 vòng cung",
+    "Một vòng cung": "1 vòng cung",
+    "một tấm phim": "1 tấm phim",
+    "Một tấm phim": "1 tấm phim",
+    "một khối": "1 khối",
+    "Một khối": "1 khối",
+    "một hệ thống": "1 hệ thống",
+    "Một hệ thống": "1 hệ thống",
+    "một điểm tựa": "1 điểm tựa",
+    "Một điểm tựa": "1 điểm tựa",
+    "Su-la-we-si": "Sulawesi"
+}
+
+ep_data = {
+  "episode_no": 46,
+  "animal": "Lợn Hươu Babirusa",
+  "slug": "tap-46-lon-huou-babirusa",
+  "format": "F1",
+  "persona": "bac_si",
+  "nickname": "Gã bệnh nhân tự sát tiến hóa",
+  "sources": [
+    "Macdonald, A. A. (1993). The Babirusa (Babyrousa babyrussa). Pigs, Peccaries, and Hippos: Status Survey and Conservation Action Plan, 161-170 (Cặp răng nanh hàm trên mọc ngược đâm xuyên da mặt và uốn cong về phía trán hộp sọ)",
+    "Groves, C. (1980). Notes on the system and distribution of Babirusa (Babyrousa babyrussa). Zoologische Mededelingen, 55(3), 29-46 (Cặp nanh có thể dài tới 40cm, nguy cơ đâm thủng hộp sọ ở những con đực già)",
+    "Leus, K. et al. (1999). Anatomy and histology of the babirusa stomach (Babyrousa babyrussa). Journal of Morphology, 239(3), 261-281 (Hệ tiêu hóa phức tạp với dạ dày nhiều ngăn lên men vi sinh vật tương tự động vật nhai lại)",
+    "Clayton, L. M. (1996). Conservation biology of the babirusa in Sulawesi, Indonesia. PhD thesis, University of Oxford (Hành vi ủi đất kiếm ăn và giao đấu bằng tư thế đứng bằng hai chân sau)"
+  ],
+  "whisper_prompt": "Lợn Hươu Babirusa, Babyrousa celebensis, Gã bệnh nhân tự sát tiến hóa, đảo Sulawesi, răng nanh mọc ngược, đâm thủng hộp sọ, 40 cm, 180 độ, Bác sĩ",
+  "display_fix": display_fix,
+  "voice": {
+    "format": "F1",
+    "persona": "bac_si",
+    "mood_weights": {
+      "hao_hung": 0.35,
+      "don_dap": 0.25,
+      "tram_bi_an": 0.22,
+      "nghiem_trang_gia": 0.12,
+      "am_ap": 0.06
+    },
+    "cameo_parts": [
+      {
+        "scene": "scene01",
+        "part_idx": 1,
+        "cast": "co_tro_ly"
+      },
+      {
+        "scene": "scene02",
+        "part_idx": 1,
+        "cast": "co_tro_ly"
+      },
+      {
+        "scene": "scene04",
+        "part_idx": 1,
+        "cast": "co_tro_ly"
+      }
+    ]
+  },
+  "art": {
+    "decor": "dark carved tribal woodcut masks, skull bone sutures, ancient Sulawesi stone carvings, anatomical curved calipers",
+    "shorts_mascot": "A cartoon babirusa boar with dramatic upward curved tusks piercing its snout and curving towards forehead, wearing funny doctor bandage",
+    "thumb_bg": "deep charcoal black tribal woodcut textures with dark dried-blood red and aged bone ivory contrasts",
+    "thumb_title": [
+      "TIẾN HÓA TỰ SÁT?!",
+      "RĂNG ĐÂM THỦNG HỘP SỌ"
+    ],
+    "thumb_scene": "chú lợn hươu babirusa hoạt hình góc cạnh bí hiểm đang trơ mắt nhìn lên cặp răng nanh uốn cong sắp cắm vào trán",
+    "thumb_gag": "bác sĩ cầm cưa y tế run rẩy đo khoảng cách giữa mũi răng và xương trán của chú lợn"
+  },
+  "longform": {
+    "scenes": [
+      {
+        "id": "scene01",
+        "badge": "HỒ SƠ BỆNH ÁN",
+        "banner_title": "CA BỆNH TỰ SÁT KỲ LẠ",
+        "chapter_title": "Bệnh Án Số 46 — Bác Sĩ Chấn Động Trước Ca Phẫu Thuật Răng Nanh Mọc Ngược",
+        "hook": "BỆNH ÁN PHÁP Y ĐẶC BIỆT TIẾP NHẬN SINH VẬT CÓ VŨ KHÍ TỰ SÁT",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "text": "Khẩn cấp mở cửa phòng phẫu thuật pháp y sinh học hoang dã! Y tá đâu, chuẩn bị ngay cho tôi bộ kẹp kim loại titan, cưa xương phẫu thuật và máy chụp cắt lớp sọ não ba chiều đa tầng lập tức! Bệnh nhân tiếp theo của chúng ta hôm nay là một ca bệnh giải phẫu chấn động bậc nhất giới động vật có vú: Một sinh vật sống tại vùng rừng nhiệt đới đảo Sulawesi của đất nước Indonesia, mang trên mình một bản án tử hình sinh học do chính tạo hóa lập trình!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Bác sĩ ơi, bệnh nhân này vừa bước vào cửa mà hai cái răng trên mặt nó đã đâm thủng cả tấm rèm phòng khám rồi ạ!",
+            "cast": "co_tro_ly"
+          },
+          {
+            "text": "[surprise-wa] Cô trợ lý chớ vội hoảng sợ! Hãy để tôi đọc to bệnh án số bốn mươi sáu: Sinh vật kỳ quặc này có tên là Babirusa, hay còn gọi là Lợn Hươu! Nhưng trong giới y khoa nghiên cứu tiến hóa, chúng tôi gọi gã bằng một biệt danh đầy rùng mình: Gã bệnh nhân tự sát tiến hóa! [laughter] Trong khi mọi loài thú có răng nanh trên Trái Đất đều dùng nanh để xé thịt con mồi hoặc tự vệ chống lại kẻ thù, thì cặp răng nanh của gã bạn này lại mọc ngược theo một quỹ đạo tự hủy diệt không thể tin nổi!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Nhìn vào khối cơ thể lực lưỡng nặng gần một trăm ki-lô-gam với đôi chân thon dài như loài hươu rừng, bạn sẽ thấy một vẻ đẹp dũng mãnh và hoang dã. Nhưng khi phóng to góc máy vào phần đầu của gã, toàn bộ bác sĩ sẽ phải rùng mình: Bốn chiếc răng nanh khổng lồ mọc tua tủa quanh miệng, trong đó hai chiếc răng hàm trên mọc xuyên thủng thịt mũi rồi uốn cong ngược trở lại, nhắm thẳng vào chính giữa hộp sọ của chủ nhân! Hãy cùng chúng tôi đặt tấm phim chẩn đoán lên bàn mổ để vén màn bí ẩn kinh hoàng này!",
+            "mood": "tram_bi_an"
+          }
+        ]
+      },
+      {
+        "id": "scene02",
+        "badge": "GIẢI PHẪU DỊ TẬT",
+        "banner_title": "RĂNG NANH MỌC XUYÊN DA MẶT",
+        "chapter_title": "Giải Phẫu Dị Tật — Cặp Răng Nanh Hàm Trên Xoay 180 Độ Đâm Xuyên Da Mõm",
+        "hook": "GIẢI MÃ CƠ CHẾ RĂNG XOAY MỘT TRĂM TÁM MƯƠI ĐỘ ĐÂM XUYÊN MÕM",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Hãy đặt tấm phim chụp cắt lớp vi tính xương sọ của Gã bệnh nhân tự sát tiến hóa lên màn hình! Điều đầu tiên khiến toàn thể hội đồng giám định y khoa phải dụi mắt bàng hoàng: Hãy nhìn vào chân răng của hàm trên! Ở tất cả các loài lợn rừng thông thường, mầm răng nanh hàm trên mọc hướng xuống dưới hoặc chếch sang hai bên mép miệng. Nhưng ở cá thể lợn đực Babirusa, toàn bộ hốc chân răng hàm trên đã bị xoay ngược một trăm tám mươi độ trong quá trình phát triển phôi thai!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Ủa bác sĩ ơi, thế cái răng mọc ngược lên trời thì nó đâm đi đâu hả bác?",
+            "cast": "co_tro_ly"
+          },
+          {
+            "text": "[surprise-oh] Câu hỏi của cô trợ lý chạm đúng vào bi kịch giải phẫu đau đớn nhất! Do chân răng hướng ngược lên đỉnh đầu, khi chiếc răng nanh bắt đầu mọc dài ra ở tuổi dậy thì, nó hoàn toàn không chui vào khoang miệng! Thay vào đó, chiếc răng nanh nhọn hoắt đâm thẳng qua vòm họng trên, chọc thủng lớp mỡ, lớp thịt dày và xé rách lớp da mõm phía trên để chồi thẳng ra ngoài không khí! Một ca phẫu thuật tự nhiên đẫm máu mà chính cơ thể gã phải gánh chịu!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Chưa dừng lại ở đó, gã còn sở hữu thêm một cặp răng nanh ở hàm dưới dài tới hai mươi xăng-ti-mét! Cặp nanh dưới này mọc chìa sang hai bên má rồi uốn cong lên trên như hai chiếc lưỡi mác sắc bén! Đây là vũ khí cận chiến lợi hại giúp gã tự vệ trước các loài thú săn mồi và húc tung đối thủ trong những trận quyết đấu tranh giành lãnh thổ giữa rừng rậm nhiệt đới!",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene03",
+        "badge": "VÒNG CUNG TỰ SÁT",
+        "banner_title": "MŨI KHOAN ĐÂM VÀO SỌ NÃO",
+        "chapter_title": "Vòng Cung Tự Sát — Chiếc Răng 40cm Uốn Cong Đâm Thủng Hộp Sọ Lợn Già",
+        "hook": "MŨI KHOAN BỐN MƯƠI XĂNG TI MÉT UỐN CONG CẮM VÀO NÃO BỘ",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Chẩn đoán triệu chứng số ba đưa chúng ta đến với nghịch lý rùng mình nhất của hồ sơ bệnh án! Sau khi đâm xuyên qua da mõm chồi lên trên trời, cặp răng nanh hàm trên của Gã bệnh nhân tự sát tiến hóa không dừng lại! Khác với răng của con người ngừng phát triển khi trưởng thành, răng nanh của lợn hươu không có chân răng đóng kín, nghĩa là chúng liên tục dài ra không ngừng trong suốt cuộc đời!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Chiều dài của cặp nanh trên có thể chạm mốc ba mươi đến bốn mươi xăng-ti-mét! Và điều điên rồ là thay vì mọc thẳng đứng lên trời, chúng bắt đầu uốn cong dần thành một vòng cung hoàn hảo hướng ngược trở lại phía sau, nhắm thẳng vào vầng trán của chính chủ nhân! Khoảng cách giữa đầu nhọn chiếc nanh và lớp xương trán cứ thế thu hẹp dần từng tháng, từng năm, tựa như một chiếc đồng hồ đếm ngược tử thần!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "[surprise-wa] Nếu một chú lợn hươu may mắn sống thọ vượt mốc mười lăm năm tuổi trong tự nhiên mà không bị mài mòn răng, thảm kịch kinh hoàng sẽ chính thức xảy ra: Đầu nhọn của chiếc răng nanh dài bốn mươi xăng-ti-mét sẽ chạm vào da trán, đâm xuyên qua lớp thịt đầu, nghiền nát lớp xương sọ cứng đặc và cắm thẳng vào mô não của chính nó! Một ca tử vong do chính chiếc răng trên mặt mình gây ra!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Các nhà tự nhiên học khi thám hiểm đảo Sulawesi đã từng tìm thấy những bộ xương sọ lợn hươu cổ xưa, nơi chiếc răng nanh mọc xuyên qua xương trán và trồi hẳn vào bên trong khoang não! Một cái chết từ từ và vô cùng đau đớn! Bất kỳ bác sĩ nào khi nhìn vào cấu trúc này cũng phải thốt lên: Tại sao tiến hóa lại có thể tạo ra một lỗi thiết kế tàn nhẫn và ngớ ngẩn đến nhường này?",
+            "mood": "nghiem_trang_gia"
+          }
+        ]
+      },
+      {
+        "id": "scene04",
+        "badge": "BÍ ẨN TIẾN HÓA",
+        "banner_title": "TẠI SAO GEN TỰ SÁT TỒN TẠI?",
+        "chapter_title": "Bí Ẩn Tiến Hóa — Chọn Lọc Giới Tính Đánh Đổi Tính Mạng Vì Bạn Tình",
+        "hook": "TẠI SAO CHỌN LỌC TỰ NHIÊN KHÔNG LOẠI BỎ CẶP NAI TỰ HỦY",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "text": "Câu hỏi lớn nhất đặt ra cho các nhà khoa học: Quy luật chọn lọc tự nhiên vốn dĩ sẽ đào thải những đột biến có hại cho sự sinh tồn. Vậy tại sao suốt hàng triệu năm qua, Gã bệnh nhân tự sát tiến hóa vẫn không bị tuyệt chủng mà vẫn ngang nhiên diễu hành khắp các hòn đảo Indonesia với cặp nanh tự sát trên mặt?",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Bác sĩ ơi, hay là do mấy con lợn cái nó mê những anh chàng có răng nanh cong vút thế ạ?",
+            "cast": "co_tro_ly"
+          },
+          {
+            "text": "[surprise-oh] Cô trợ lý lại một lần nữa đưa ra chẩn đoán chính xác tuyệt đối! Đáp án cho nghịch lý này nằm ở cán cân quyền lực của chọn lọc giới tính! Trong mắt các nàng lợn hươu cái, một chàng lợn đực sở hữu cặp răng nanh trên uốn cong dài ngoằng chạm sát trán chính là biểu tượng tối thượng của sự quyến rũ và sức mạnh sinh tồn! [laughter]",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Bởi vì sao? Một con lợn đực có thể sống sót đến tuổi già, vượt qua bao mùa khô hạn, thú dữ và bệnh tật để cặp nanh mọc dài tới mức sắp đâm vào trán chứng minh một điều rõ ràng: Gã sở hữu một bộ gen sinh tồn cực kỳ phi thường! Cặp nanh càng dài và càng nguy hiểm, gã càng dễ dàng chiếm trọn trái tim của các nàng lợn cái và truyền lại bộ gen tự sát này cho thế hệ sau trước khi chiếc nanh kịp cắm vào não gã!",
+            "mood": "tram_bi_an"
+          }
+        ]
+      },
+      {
+        "id": "scene05",
+        "badge": "CỖ MÁY SINH HỌC",
+        "banner_title": "HỆ TIÊU HÓA ĐẶC BIỆT",
+        "chapter_title": "Cỗ Máy Sinh Học — Chiếc Bụng Lên Men Như Bò Và Đôi Chân Hươu Chạy Nhanh",
+        "hook": "CHIẾC BỤNG LÊN MEN XENLULOZO VÀ ĐÔI CHÂN BẬC THẦY BƠI LỘI",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Khám nghiệm toàn diện cơ thể của Gã bệnh nhân tự sát tiến hóa còn hé lộ những bí mật sinh học phi thường khác! Quý vị có biết tại sao người bản địa lại gọi loài này là Babirusa, ghép từ hai chữ babi nghĩa là con lợn và rusa nghĩa là con hươu không? Đó là vì gã sở hữu một vóc dáng hoàn toàn khác biệt so với họ hàng lợn ủn ỉn: Đôi chân thon dài, cao ráo và gân guốc tựa như một chú hươu sao dũng mãnh!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Nhờ đôi chân hươu thần thánh này, lợn hươu có thể phi nước đại qua những đầm lầy hiểm trở và đặc biệt là khả năng bơi lội siêu đẳng! Chúng có thể bơi vượt qua các eo biển rộng hàng cây số nối liền giữa các hòn đảo hoang sơ của quần đảo Sulawesi để tìm kiếm nguồn thức ăn mới mà không sợ bị chết đuối!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "[surprise-wa] Đặt ống soi vào ổ bụng của gã, hệ tiêu hóa sẽ khiến các chuyên gia giải phẫu phải kinh ngạc: Thay vì dạ dày đơn giản như loài lợn ăn tạp, dạ dày của Babirusa phát triển thành cấu trúc nhiều ngăn phức tạp, chứa đầy các chủng vi sinh vật cộng sinh tương tự như dạ dày của loài bò nhai lại! Hệ thống này giúp gã tiêu hóa triệt để chất xơ xenlulozo thô cứng từ lá cây, rễ củ và thậm chí là những loại nấm rừng có độc tố cao!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Để tránh cho chiếc nanh trên đâm vào trán quá sớm, những chú lợn đực thông minh thường xuyên tìm đến những thân cây gỗ lim cứng hoặc đá tảng để cọ xát và mài mòn đầu răng nanh! Đó là cuộc chạy đua sinh tồn từng ngày giữa sự phát triển tự sát của chiếc răng và nỗ lực mài mòn kiên trì của chính chủ nhân!",
+            "mood": "tram_bi_an"
+          }
+        ]
+      },
+      {
+        "id": "scene06",
+        "badge": "LỜI KẾT BỆNH ÁN",
+        "banner_title": "BÀI HỌC VỀ VŨ KHÍ NỘI TẠI",
+        "chapter_title": "Đơn Thuốc Tiến Hóa — Bài Học Triết Lý Và Thử Thách Đoán Tập 47",
+        "hook": "ĐƠN THUỐC TIẾN HÓA VÀ THỬ THÁCH ĐOÁN TẬP BỐN MƯƠI BẢY",
+        "mood": "am_ap",
+        "parts": [
+          {
+            "text": "Hồ sơ bệnh án số bốn mươi sáu chính thức khép lại với kết luận chẩn đoán: Lợn Hươu Babirusa là một kiệt tác dị biệt và là lời cảnh tỉnh triết lý sâu sắc của tự nhiên! Trong cuộc sống, đôi khi những vũ khí, những hào quang hay những lợi thế mạnh mẽ nhất mà bạn dày công vun đắp, nếu không được kiểm soát và định hướng đúng đắn, lại chính là thứ quay mũi giáo lại đâm vào chính bạn! Biết tiết chế sức mạnh và kiểm soát tham vọng chính là bài học sinh tồn đắt giá nhất!",
+            "mood": "am_ap"
+          },
+          {
+            "text": "Nếu được quyền can thiệp vào quy trình tiến hóa của chú lợn hươu Babirusa, bạn sẽ chọn bẻ cong chiếc nanh ra ngoài để gã an toàn hay giữ nguyên vẻ đẹp quyến rũ chết người này? Hãy để lại bình luận chẩn đoán của bạn bên dưới nhé!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Còn bây giờ, hãy chuẩn bị cùng xưởng chế tạo vũ khí sinh học bước vào bản vẽ kỹ thuật của tập bốn mươi bảy! Một sinh vật đồ sộ trên thảo nguyên Châu Phi sở hữu chiếc cổ dài tới hai mét, một trái tim nặng mười một ki-lô-gam với huyết áp cao gấp đôi con người, và một hệ thống van thủy lực vi mô thần kỳ giúp nó cúi đầu uống nước mà không bị nổ tung mạch máu não! Bạn có biết cỗ máy thủy lực sinh học vĩ đại này là ai không?",
+            "mood": "tram_bi_an"
+          }
+        ]
+      }
+    ]
+  },
+  "shorts": {
+    "target_s": 53.0,
+    "mood": "hao_hung",
+    "text": "[surprise-oh] Khi tiến hóa chơi khăm tàn nhẫn: Loài lợn sở hữu cặp răng nanh tự đâm thủng da mặt rồi uốn cong cắm thẳng vào não của chính nó! Đây là Lợn Hươu Babirusa, loài động vật kỳ lạ đặc hữu của hòn đảo Sulawesi, Indonesia! Ở con đực, mầm răng nanh hàm trên bị xoay ngược một trăm tám mươi độ, đâm xuyên qua thịt mõm chồi lên trời. Chiếc nanh dài tới bốn mươi xăng-ti-mét uốn cong thành vòng cung hướng thẳng về trán, và ở những con già, mũi nanh nhọn hoắt sẽ đâm xuyên xương sọ cắm vào não gây tử vong! Kỳ lạ thay, gen tự sát này vẫn tồn tại hàng triệu năm vì lợn cái mê mẩn những con đực có nanh cong sát trán, coi đó là biểu tượng sống thọ và quyến rũ! Chúng phải liên tục cọ răng vào cây để mài mòn, tự cứu lấy mạng sống của mình trước món quà chết người của tạo hóa!",
+    "title_lines": [
+      "TIẾN HÓA TỰ SÁT",
+      "RĂNG ĐÂM THỦNG HỘP SỌ?!"
+    ]
+  },
+  "seo": {
+    "title": "Nghịch Lý Tiến Hóa Tự Sát: Cặp Răng Nanh Tự Đâm Thủng Hộp Sọ?! | Lợn Hươu Babirusa | Tập 46",
+    "hook_paragraph": "Khám phá bệnh án kỳ quái của Lợn Hươu Babirusa — loài lợn rừng Indonesia có cặp răng nanh trên xoay 180 độ đâm thủng da mõm, uốn cong 40cm đâm xuyên hộp sọ nhưng vẫn được con cái mê mẩn!",
+    "bullets": [
+      "Răng nanh hàm trên xoay ngược 180 độ, đâm xuyên qua da mõm chồi lên trời",
+      "Nanh dài 40cm uốn cong thành vòng cung đâm xuyên xương trán vào não lợn già",
+      "Gen tự sát tồn tại vì con cái coi nanh dài sát trán là biểu tượng sống thọ quyến rũ",
+      "Đôi chân thon dài như hươu chạy nhanh, bơi vượt biển và dạ dày lên men như bò"
+    ],
+    "question": "Nếu được quyền phẫu thuật cho chú lợn Babirusa, bạn sẽ bẻ nanh ra ngoài cứu mạng hay để nguyên cho gã tán gái?",
+    "next_teaser": "Tập 47: Hươu Cao Cổ — cỗ máy thủy lực cổ dài 2m và van tĩnh mạch chống nổ não!",
+    "hashtags": ["#LonHuouBabirusa", "#Babirusa", "#TheGioiDongVat", "#VeChuyenHoangDa", "#KhoaHoc"],
+    "tags": [
+      "lon huou babirusa",
+      "babirusa",
+      "babyrousa",
+      "rang nanh dam vao so",
+      "tien hoa tu sat",
+      "the gioi dong vat",
+      "ve chuyen hoang da",
+      "dong vat ky di",
+      "whiteboard animation"
+    ],
+    "shorts_title": "Tiến hóa chơi khăm: Răng nanh tự đâm thủng hộp sọ?! 🐗 #shorts #babirusa",
+    "shorts_desc": "Khám phá Lợn Hươu Babirusa — loài lợn có cặp răng nanh mọc ngược đâm xuyên da mặt, uốn cong 40cm đâm thủng hộp sọ chính mình!",
+    "shorts_tags": ["lon huou", "babirusa", "shorts", "the gioi dong vat", "ve chuyen hoang da"]
+  }
+}
+
+(P / "episode.json").write_text(json.dumps(ep_data, ensure_ascii=False, indent=1), encoding="utf-8")
+print("Saved episode.json for Ep 46 successfully!")
+

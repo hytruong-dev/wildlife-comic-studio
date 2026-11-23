@@ -1,0 +1,857 @@
+{
+ "episode": "tap-16-tom-sung",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 6,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "intro_mode": "full_first",
+ "output": "renders/tap-16-tom-sung_long.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 86.726,
+   "chapter_no": 1,
+   "badge": "HỒ SƠ MẬT",
+   "header_image": "assets/banners/chapter_01.png",
+   "title": "PHÁO THỦ TÍ HON 4CM BẮN TIA SÓNG ÂM 218 DB",
+   "card_hook": "SINH VẬT 4CM SỞ HỮU HỎA LỰC TO HƠN ĐỘNG CƠ PHẢN LỰC",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L01.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 4.72,
+     "image": "assets/long/L02.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 13.26,
+     "image": "assets/long/L03.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 18.87,
+     "image": "assets/long/L04.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 20.55,
+       "side": "L",
+       "y": 380,
+       "value": "MÃ SỐ 16",
+       "label": "đối tượng thử nghiệm",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 23.35,
+     "image": "assets/long/L05.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 25.21,
+       "side": "R",
+       "y": 380,
+       "value": "3-5cm",
+       "label": "chiều dài cơ thể",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 31.31,
+     "image": "assets/long/L06.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b07",
+     "start_s": 38.53,
+     "image": "assets/long/L07.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b08",
+     "start_s": 45.81,
+     "image": "assets/long/L08.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 49.77,
+       "side": "R",
+       "y": 380,
+       "value": "218 dB",
+       "label": "âm thanh cực hạn",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b09",
+     "start_s": 50.85,
+     "image": "assets/long/L09.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 55.13,
+       "side": "L",
+       "y": 380,
+       "value": "140 dB",
+       "label": "phản lực cất cánh",
+       "target": [
+        0.25,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b10",
+     "start_s": 56.29,
+     "image": "assets/long/L10.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 58.51,
+       "side": "R",
+       "y": 380,
+       "value": "160 dB",
+       "label": "tiếng súng trường",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b11",
+     "start_s": 59.87,
+     "image": "assets/long/L11.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b12",
+     "start_s": 66.77,
+     "image": "assets/long/L12.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b13",
+     "start_s": 76.06,
+     "image": "assets/long/L13.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b14",
+     "start_s": 81.9,
+     "image": "assets/long/L14.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 86.683,
+   "chapter_no": 2,
+   "badge": "BẢN VẼ CƠ KHÍ",
+   "header_image": "assets/banners/chapter_02.png",
+   "title": "CÀNG SÚNG PIT-TÔNG VÀ GIA TỐC KHỦNG 8.000G",
+   "card_hook": "BẬT MÍ CƠ CHẾ KẸP KHÔNG BẮN ĐẠN VẬT LÝ",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L15.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 12.76,
+     "image": "assets/long/L16.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 19.39,
+     "image": "assets/long/L17.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 28.7,
+     "image": "assets/long/L18.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 36.21,
+     "image": "assets/long/L19.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 40.67,
+       "side": "L",
+       "y": 380,
+       "value": "0,5 ms",
+       "label": "thời gian bung chốt",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b06",
+     "start_s": 41.43,
+     "image": "assets/long/L20.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 44.13,
+       "side": "L",
+       "y": 380,
+       "value": "100 km/h",
+       "label": "tốc độ sập càng",
+       "target": [
+        0.25,
+        0.55
+       ]
+      },
+      {
+       "t": 45.63,
+       "side": "R",
+       "y": 480,
+       "value": "28 m/s",
+       "label": "vận tốc cực đại",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b07",
+     "start_s": 47.51,
+     "image": "assets/long/L21.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 50.33,
+       "side": "L",
+       "y": 380,
+       "value": "8.000g",
+       "label": "gia tốc kỷ lục",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b08",
+     "start_s": 56.88,
+     "image": "assets/long/L22.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b09",
+     "start_s": 63.29,
+     "image": "assets/long/L23.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b10",
+     "start_s": 72.73,
+     "image": "assets/long/L24.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b11",
+     "start_s": 79.71,
+     "image": "assets/long/L25.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 89.382,
+   "chapter_no": 3,
+   "badge": "HỎA LỰC SIÊU NHIỆT",
+   "header_image": "assets/banners/chapter_03.png",
+   "title": "BỌT KHÍ 5.000°C NÓNG NGANG BỀ MẶT MẶT TRỜI",
+   "card_hook": "BỌT KHÍ VỠ NẮNG TƯƠNG ĐƯƠNG BỀ MẶT MẶT TRỜI",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L26.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 6.9,
+     "image": "assets/long/L27.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 15.24,
+     "image": "assets/long/L28.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 22.74,
+     "image": "assets/long/L29.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b05",
+     "start_s": 32.52,
+     "image": "assets/long/L30.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b06",
+     "start_s": 36.06,
+     "image": "assets/long/L31.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 40.14,
+       "side": "R",
+       "y": 380,
+       "value": "5.000°C",
+       "label": "nhiệt độ lõi nổ",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b07",
+     "start_s": 43.31,
+     "image": "assets/long/L32.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 52.57,
+       "side": "L",
+       "y": 380,
+       "value": "4.700°C",
+       "label": "công bố Science",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b08",
+     "start_s": 54.67,
+     "image": "assets/long/L33.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 56.35,
+       "side": "R",
+       "y": 380,
+       "value": "5.500°C",
+       "label": "bề mặt Mặt Trời",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b09",
+     "start_s": 59.01,
+     "image": "assets/long/L34.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b10",
+     "start_s": 68.51,
+     "image": "assets/long/L35.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 75.49,
+       "side": "R",
+       "y": 380,
+       "value": "2cm",
+       "label": "tầm bắn sóng âm",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b11",
+     "start_s": 79.53,
+     "image": "assets/long/L36.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 88.578,
+   "chapter_no": 4,
+   "badge": "HỒ SƠ TÁC CHIẾN",
+   "header_image": "assets/banners/chapter_04.png",
+   "title": "ĐÀN TÔM RANG BẮP LÀM ĐIẾC RADAR TÀU NGẦM THẾ CHIẾN II",
+   "card_hook": "HẢI QUÂN MỸ ĐIÊN ĐẦU VÌ TIẾNG BỎNG NGÔ ĐÁY BIỂN",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L37.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 2.12,
+       "side": "L",
+       "y": 380,
+       "value": "NĂM 1942",
+       "label": "Thế chiến II",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 6.82,
+     "image": "assets/long/L38.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 13.7,
+     "image": "assets/long/L39.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 19.09,
+     "image": "assets/long/L40.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b05",
+     "start_s": 29.0,
+     "image": "assets/long/L41.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b06",
+     "start_s": 38.58,
+     "image": "assets/long/L42.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b07",
+     "start_s": 44.86,
+     "image": "assets/long/L43.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b08",
+     "start_s": 56.48,
+     "image": "assets/long/L44.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b09",
+     "start_s": 70.49,
+     "image": "assets/long/L45.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b10",
+     "start_s": 82.49,
+     "image": "assets/long/L46.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 83.39,
+       "side": "R",
+       "y": 380,
+       "value": "218 dB",
+       "label": "bức tường âm thanh",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 88.894,
+   "chapter_no": 5,
+   "badge": "HỢP TÁC TÁC CHIẾN",
+   "header_image": "assets/banners/chapter_05.png",
+   "title": "LÍNH GÁC CÁ BỐNG VÀ TỬ HUYỆT RỤNG CÀNG",
+   "card_hook": "MÙ DỞ ĐÀO HẦM THUÊ VỆ SĨ CÁ BỐNG BẢO VỆ",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L47.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 9.16,
+     "image": "assets/long/L48.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 18.59,
+     "image": "assets/long/L49.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 29.81,
+       "side": "L",
+       "y": 380,
+       "value": "24/7",
+       "label": "lính gác canh cửa",
+       "target": [
+        0.25,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 30.87,
+     "image": "assets/long/L50.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b05",
+     "start_s": 37.18,
+     "image": "assets/long/L51.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b06",
+     "start_s": 45.28,
+     "image": "assets/long/L52.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b07",
+     "start_s": 54.22,
+     "image": "assets/long/L53.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b08",
+     "start_s": 60.44,
+     "image": "assets/long/L54.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b09",
+     "start_s": 73.23,
+     "image": "assets/long/L55.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b10",
+     "start_s": 77.08,
+     "image": "assets/long/L56.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 83.002,
+   "chapter_no": 6,
+   "badge": "BÁO CÁO KỸ THUẬT",
+   "header_image": "assets/banners/chapter_06.png",
+   "title": "BÀI HỌC KÍCH THƯỚC VÀ BÓNG ĐEN 860V TẬP SAU",
+   "card_hook": "BÀI HỌC VŨ KHÍ TỐI THƯỢNG VÀ THỬ THÁCH 860 VÔN",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L57.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 10.68,
+     "image": "assets/long/L58.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 17.44,
+     "image": "assets/long/L59.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b04",
+     "start_s": 31.41,
+     "image": "assets/long/L60.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 35.07,
+       "side": "L",
+       "y": 380,
+       "value": "218 dB",
+       "label": "nổ điếc tàu ngầm",
+       "target": [
+        0.25,
+        0.55
+       ]
+      },
+      {
+       "t": 38.25,
+       "side": "R",
+       "y": 480,
+       "value": "5.000°C",
+       "label": "nóng ngang Mặt Trời",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b05",
+     "start_s": 43.24,
+     "image": "assets/long/L61.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b06",
+     "start_s": 52.86,
+     "image": "assets/long/L62.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 55.22,
+       "side": "L",
+       "y": 380,
+       "value": "2m",
+       "label": "chiều dài bóng đen",
+       "target": [
+        0.25,
+        0.55
+       ]
+      },
+      {
+       "t": 61.36,
+       "side": "R",
+       "y": 480,
+       "value": "6.000 PIN",
+       "label": "tế bào phát điện",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b07",
+     "start_s": 63.54,
+     "image": "assets/long/L63.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 65.94,
+       "side": "R",
+       "y": 380,
+       "value": "860V",
+       "label": "điện áp cực hạn",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b08",
+     "start_s": 71.88,
+     "image": "assets/long/L64.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

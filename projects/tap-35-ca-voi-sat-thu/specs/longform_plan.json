@@ -1,0 +1,679 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "GIA TỘC MẪU HỆ TỐI THƯỢNG VÀ QUYỀN LỰC ĐEN TRẮNG",
+   "hook": "BỐ GIÀ ĐẠI DƯƠNG XUẤT ĐẦU LỘ DIỆN: ĐẾ CHẾ THỐNG TRỊ BIỂN KHẢI HOÀN TOÀN KHÔNG CÓ KẺ THÙ TỰ NHIÊN",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "quyền lực gia tộc tuyệt đối",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Người ta thường gọi chúng là Cá Voi Sát Thủ",
+     "image": "assets/long/L03.png",
+     "stickers": [
+      {
+       "at": "9m",
+       "side": "L",
+       "y": 280,
+       "value": "9 MÉT",
+       "label": "chiều dài cơ thể",
+       "target": [
+        0.35,
+        0.45
+       ]
+      },
+      {
+       "at": "6 tấn",
+       "side": "R",
+       "y": 280,
+       "value": "6 TẤN",
+       "label": "trọng lượng áp đảo",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "đứng đầu chuỗi thức ăn",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chú cá con ngây thơ này",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nữ Hoàng Bố Già sống thọ",
+     "image": "assets/long/L06.png",
+     "stickers": [
+      {
+       "at": "90 năm",
+       "side": "R",
+       "y": 280,
+       "value": "90 NĂM",
+       "label": "tuổi thọ Nữ Hoàng",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "bản đồ hải lưu",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "trị vì gần một thế kỷ",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "kho tàng tri thức sống còn",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ngoan ngoãn bơi bên cạnh mẹ",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vây lưng của những gã đực",
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "2m",
+       "side": "L",
+       "y": 280,
+       "value": "2 MÉT",
+       "label": "chiều cao vây lưng",
+       "target": [
+        0.45,
+        0.4
+       ]
+      },
+      {
+       "at": "55 km/h",
+       "side": "R",
+       "y": 280,
+       "value": "55 KM/H",
+       "label": "tốc độ tối đa",
+       "target": [
+        0.6,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "chiếc ca nô cao tốc",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "LỜI MỜI GIA TỘC"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "ĐÒN SÓNG THẦN ĐỒNG BỘ HẠ GỤC HẢI CẨU",
+   "hook": "PHI ĐỘI TIÊM KÍCH ĐẠI DƯƠNG: PHỐI HỢP BƠI ĐỒNG BỘ TẠO CỘT SÓNG CHÉM NỨT ĐÔI TẢNG BĂNG TRÔI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "không bao giờ lao vào húc bừa bãi",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chuẩn xác lạnh lùng của những tay sát thủ",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nước dâng tới cổ là còn may đấy",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cách tảng băng khoảng 15m",
+     "image": "assets/long/L17.png",
+     "stickers": [
+      {
+       "at": "15m",
+       "side": "R",
+       "y": 280,
+       "value": "15 MÉT",
+       "label": "cự ly tạo sóng",
+       "target": [
+        0.5,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cột sóng quét ngang làm nứt đôi tảng băng",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ngay trước hàm răng đang chờ sẵn",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "không hề có bất kỳ sự tranh giành",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chia sẻ miếng ăn sòng phẳng",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí các nhà làm phim",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "các sát thủ trưởng thành sẽ dùng mõm",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CHIẾN THUẬT SÓNG THẦN"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "CA PHẪU THUẬT CHÍNH XÁC CỦA BỘ ĐÔI PORT VÀ STARBOARD",
+   "hook": "CHÚA TỂ CÁ MẬP TRẮNG THÁO CHẠY HÀNG NĂM TRỜI TRƯỚC BỘ ĐÔI SÁT THỦ XÉ GAN TẠI NAM PHI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cá mập trắng khét tiếng chỉ là một món ăn vặt",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2022",
+     "image": "assets/long/L26.png",
+     "stickers": [
+      {
+       "at": "Gansbaai",
+       "side": "L",
+       "y": 280,
+       "value": "NĂM 2022",
+       "label": "vụ án Gansbaai",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "vụ giải phẫu tinh vi",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chỉ riêng lá gan",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tung cú húc lật ngửa",
+     "image": "assets/long/L29.png",
+     "stickers": [
+      {
+       "at": "bất động trương lực",
+       "side": "R",
+       "y": 280,
+       "value": "BẤT ĐỘNG",
+       "label": "tê liệt trương lực",
+       "target": [
+        0.5,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "rạch một đường chính xác đến từng milimét",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "quần thể cá mập trắng tại vùng biển Nam Phi khiếp vía",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "không dám bén mảng quay lại",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thủ phủ ngắm cá mập trắng nổi tiếng thế giới",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vệ tinh gắn trên mình",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lặn sâu xuống hàng trăm mét",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỒ SƠ KHÉP LẠI"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "TIẾNG LÓNG ÂM THANH VÀ THỰC ĐƠN GIA TRUYỀN",
+   "hook": "BĂNG ĐẢNG MAFIA ĐẠI DƯƠNG: MỖI GIA TỘC CÓ PHƯƠNG NGỮ RIÊNG VÀ KHÔNG BAO GIỜ ĂN CHUNG THỰC ĐƠN",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giống như các gia tộc",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "trung thành với món cá hồi béo ngậy",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "những kẻ ăn thịt man rợ",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hệ thống phương ngữ âm thanh độc nhất",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "những âm thanh lách cách và tiếng huýt sáo",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "học tập từng ngữ điệu âm thanh",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tiếp thu toàn bộ danh mục ẩm thực gia truyền",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "kéo dài hơn 30 năm tại bờ biển Bắc Mỹ",
+     "image": "assets/long/L44.png",
+     "stickers": [
+      {
+       "at": "30 năm",
+       "side": "L",
+       "y": 280,
+       "value": "30 NĂM",
+       "label": "nghiên cứu âm học",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "không bao giờ hòa lẫn tiếng gọi bầy",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đa văn hóa vô cùng phong phú",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VĂN HÓA GIA TỘC"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "TÌNH MẪU TỬ MƯỜI BẢY NGÀY LAY ĐỘNG ĐẠI DƯƠNG",
+   "hook": "KHỐI NÃO NẶNG NĂM KILOGRAM SỞ HỮU THÙY PARALIMBIC PHỨC TẠP HƠN CẢ NÃO BỘ CON NGƯỜI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khối não nặng tới 5kg",
+     "image": "assets/long/L48.png",
+     "stickers": [
+      {
+       "at": "5kg",
+       "side": "L",
+       "y": 280,
+       "value": "5 KG",
+       "label": "trọng lượng não bộ",
+       "target": [
+        0.4,
+        0.5
+       ]
+      },
+      {
+       "at": "thùy paralimbic",
+       "side": "R",
+       "y": 280,
+       "value": "CẢM XÚC",
+       "label": "thùy paralimbic",
+       "target": [
+        0.6,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "sự thấu cảm",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2018",
+     "image": "assets/long/L50.png",
+     "stickers": [
+      {
+       "at": "Tahlequah",
+       "side": "L",
+       "y": 280,
+       "value": "NĂM 2018",
+       "label": "hồ sơ Tahlequah",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "thay vì để xác con chìm xuống",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bơi ròng rã suốt 17 ngày",
+     "image": "assets/long/L52.png",
+     "stickers": [
+      {
+       "at": "17 ngày",
+       "side": "L",
+       "y": 280,
+       "value": "17 NGÀY",
+       "label": "hành trình tang tóc",
+       "target": [
+        0.35,
+        0.5
+       ]
+      },
+      {
+       "at": "1.000 dặm",
+       "side": "R",
+       "y": 280,
+       "value": "1.000 DẶM",
+       "label": "vượt biển Thái Bình",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "lặng lẽ bơi bên cạnh hộ tống",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhường thức ăn và hỗ trợ người mẹ",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sâu thẳm bên trong là một trái tim",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cực kỳ ít ỏi các loài sinh vật",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sau khi hết khả năng sinh sản",
+     "image": "assets/long/L57.png",
+     "stickers": [
+      {
+       "at": "40 tuổi",
+       "side": "L",
+       "y": 280,
+       "value": "40 TUỔI",
+       "label": "cột mốc mãn kinh",
+       "target": [
+        0.4,
+        0.5
+       ]
+      },
+      {
+       "at": "50 năm",
+       "side": "R",
+       "y": 280,
+       "value": "50 NĂM",
+       "label": "tuổi thọ bà ngoại",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "vượt qua những thời khắc bão tố hiểm nghèo",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "TRÁI TIM BỐ GIÀ"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "ĐIỀU RĂN CẤM TUYỆT ĐỐI KHÔNG CHẠM VÀO LOÀI NGƯỜI",
+   "hook": "BẢN HIỆP ƯỚC HÒA BÌNH TRIỆU NĂM: TẠI SAO CÁ VOI SÁT THỦ NGOÀI TỰ NHIÊN CHƯA TỪNG TẤN CÔNG CON NGƯỜI?",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L59.png",
+     "stickers": [
+      {
+       "at": "40 tấn",
+       "side": "L",
+       "y": 280,
+       "value": "40 TẤN",
+       "label": "hạ gục cá voi xanh",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "chưa từng ghi nhận một vụ tấn công giết người",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy nhớ lấy điều luật số một",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bể xiếc giam cầm do cá voi bị trầm cảm",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hợp tác cùng các ngư dân vịnh Eden",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tò mò bơi sát mạn thuyền",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "điều răn cấm tối cao",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nét quý tộc vương giả của những kẻ cai trị",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chiến thuật sóng thần chém nứt tảng băng",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đón xem Tập 36",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thông điệp bảo vệ các đại dương",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ngân vang tự do giữa biển khơi bao la",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "ĐIỀU RĂN CẤM TỐI CAO"
+  }
+ }
+}

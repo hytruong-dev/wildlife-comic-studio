@@ -1,0 +1,244 @@
+import json
+
+ep3 = {
+  "episode_no": 3,
+  "animal": "Cá Heo",
+  "slug": "tap-03-ca-heo",
+  "format": "F7",
+  "persona": "binh_luan_vien",
+  "nickname": "Thiên Tài Đội Lốt Diễn Viên Hài",
+  "sources": [
+    "Marino, L. et al. (2007). Cetacean brains: How novel are they? The Anatomical Record (Tỷ lệ não/cơ thể lớn thứ hai hành tinh sau con người).",
+    "Au, W. W. L. (1993). The Sonar of Dolphins. Springer-Verlag (Khối mỡ Melon và 1.000 tiếng click siêu âm/giây).",
+    "Mukhametov, L. M. (1984). Sleep in marine mammals. Experimental Brain Research (Cơ chế ngủ luân phiên từng nửa bán cầu não Unihemispheric slow-wave sleep).",
+    "Smolker, R. A. et al. (1997). Sponge carrying by dolphins in Shark Bay, Western Australia (Sử dụng bọt biển làm công cụ bảo hộ mũi).",
+    "BBC Earth & Nature (Hành vi chơi bóng chuyền cá nóc để tận hưởng độc tố tetrodotoxin liều cực nhỏ; chiến thuật lưới bùn mud-ring feeding; cú húc xương Rostrum đẩy lùi cá mập trắng; và chú cá heo Pelorus Jack dẫn đường tàu tại New Zealand 1888-1912)."
+  ],
+  "whisper_prompt": "Cá Heo, Delphinidae, Bottlenose, Melon, Rostrum, siêu âm, sonar, Shark Bay, Pelorus Jack, cá mập trắng, cá nóc, tetrodotoxin, 55 km/h, 6m, 1.000, 8 tiếng, 24 năm, New Zealand, Thú Mỏ Vịt",
+  "display_fix": {
+    "năm mươi lăm cây số một giờ": "55 km/h",
+    "năm mươi lăm kilômét một giờ": "55 km/h",
+    "sáu mét": "6m",
+    "ba trăm sáu mươi độ": "360 độ",
+    "ba trăm sáu mươi": "360",
+    "một nghìn": "1.000",
+    "một ngàn": "1.000",
+    "tám tiếng": "8 tiếng",
+    "hai mươi tư năm": "24 năm",
+    "thứ hai": "thứ 2",
+    "thứ ba": "thứ 3",
+    "chín mươi chín trên một trăm": "99/100",
+    "một trăm trên một trăm": "100/100",
+    "chín mươi lăm trên một trăm": "95/100",
+    "chín trăm chín mươi chín": "999",
+    "một trăm": "100",
+    "hai mươi tư": "24",
+    "mười tám": "18",
+    "ba chiều": "3D",
+    "số một": "số 1",
+    "số hai": "số 2",
+    "số ba": "số 3",
+    "năm một ngàn tám trăm tám mươi tám": "năm 1888",
+    "năm một ngàn chín trăm mười hai": "năm 1912",
+    "năm một ngàn chín trăm lẻ bốn": "năm 1904",
+    "thế kỷ mười tám": "thế kỷ 18"
+  },
+  "longform": {
+    "scenes": [
+      {
+        "id": "scene01",
+        "badge": "VÕ ĐÀI BIỂN KHƠI",
+        "banner_title": "BÍ MẬT NỤ CƯỜI VĨNH CỬU CỦA CÁ HEO",
+        "chapter_title": "Võ đài biển khơi: Bí mật đằng sau nụ cười hoạt hình vĩnh cửu của Cá Heo",
+        "hook": "",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "text": "Ở tập trước, chúng ta đã bật cười trước Rái Cá Biển, cục bông tròn xoe có chiếc túi thần kỳ dưới nách và tuyệt chiêu cướp ván lướt sóng siêu lầy lội. Hôm nay, hãy cùng ngòi bút của Vẽ Chuyện Hoang Dã bơi ra biển khơi xa hơn để diện kiến một tuyển thủ nổi tiếng toàn cầu: Cá Heo đại dương! Trong mọi bộ phim hoạt hình hay sách tranh thiếu nhi, chỉ cần vẽ một đường cong mềm mại và chiếc vây lưng vươn cao là ai cũng nhận ra ngay chú cá heo hiền lành, lúc nào cũng nở nụ cười rạng rỡ và sẵn sàng cõng người vượt sóng dữ!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Thế nhưng, các khán giả của võ đài sinh tồn ơi, đừng để nụ cười ngọt ngào ấy đánh lừa thị giác nhé! [laughter] Sự thật khoa học đầu tiên: Cá Heo không cười vì lúc nào nó cũng vui đâu, mà đó là một cú lừa giải phẫu của xương hàm! Khung xương hàm dưới của họ cá heo Delphinidae uốn cong cố định từ khi mới chào đời. Điều này khiến cho dù chúng đang ngủ say, đang cáu kỉnh tức giận, hay đang bày trò nghịch ngợm thì gương mặt vẫn luôn giữ nụ cười tủm tỉm! [surprise-oh]",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Thực tế, đằng sau gương mặt thiên thần ấy là một sinh vật thông minh xuất chúng được mệnh danh là Thiên Tài Đội Lốt Diễn Viên Hài của đại dương bao la! Chúng là biệt đội học sinh siêu quậy chuyên lập hội trêu chọc cá nóc phồng to như quả bóng gai, tự chế đồ chơi dưới đáy biển và hợp sức xua đuổi cả hung thần cá mập trắng phải ôm đầu tháo chạy bạt mạng! Một võ sĩ đại dương vừa có trí tuệ siêu việt, vừa sở hữu khiếu hài hước vô địch!",
+            "mood": "don_dap"
+          }
+        ]
+      },
+      {
+        "id": "scene02",
+        "badge": "CHỈ SỐ RPG",
+        "banner_title": "BẢNG CHỈ SỐ RPG CỦA THIÊN TÀI ĐẠI DƯƠNG",
+        "chapter_title": "Bảng chỉ số sinh tồn RPG: Thiên tài trí tuệ và độ ham chơi 999 điểm",
+        "hook": "",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "text": "Nếu đưa tuyển thủ Cá Heo mũi chai vào bảng xếp hạng siêu anh hùng biển cả, chúng ta sẽ trầm trồ trước bộ chỉ số sinh tồn thuộc hàng đỉnh cao tiến hóa bậc nhất của loài thú biển này. Đầu tiên là chỉ số Siêu Trí Tuệ BRAIN IQ: Chạm mốc chín mươi chín trên một trăm điểm! Tính theo tỉ lệ cơ thể, bộ não cá heo lớn chỉ đứng thứ hai trên toàn hành tinh ngay sau con người, với lớp vỏ não chằng chịt nếp nhăn thậm chí còn dày đặc hơn cả não người!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Chúng thông minh đến mức khi các nhà khoa học đặt một chiếc gương soi dưới đáy biển, cá heo bơi tới và nhận ra ngay lập tức: đó là hình ảnh phản chiếu của chính mình chứ không phải con cá heo lạ nào khác! [laughter] Rồi nó còn tự uốn éo, quay người tạo dáng trước gương như siêu mẫu đi catwalk! Chưa hết, khi các chuyên gia thử dạy ký hiệu toán học, cá heo liền hiểu ngay câu lệnh và còn biết lừa lại các nhà khoa học để vòi thêm cá tươi! Đúng là Thiên Tài Đội Lốt Diễn Viên Hài không trượt đi đâu được!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Thứ hai là chỉ số Ra-đa Siêu Âm SONAR: Đạt điểm tuyệt đối một trăm trên một trăm! Dù bơi trong làn nước đục ngầu phù sa hay giữa đêm đen thăm thẳm dưới biển sâu, cá heo vẫn nhìn thấu mọi vật thể xung quanh rõ mồn một như đeo kính chụp X-quang sinh học!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Thứ ba là chỉ số Tốc Độ Ngư Lôi SPEED: Đạt chín mươi lăm trên một trăm điểm! Nhờ làn da trơn láng giảm tối đa ma sát nước và chiếc đuôi đập dọc cực khỏe, cá heo có thể phóng đi như tên lửa với vận tốc năm mươi lăm kilômét một giờ và bật nhảy vút lên không trung cao tới sáu mét! [surprise-oh] Những cú nhào lộn xoay vòng ba trăm sáu mươi độ giữa không trung khiến ngay cả các vận động viên xiếc chuyên nghiệp cũng phải ngả mũ thán phục!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Và cuối cùng là chỉ số Độ Ham Chơi Tinh Quái PLAYFULNESS: Vượt khung đo lường với chín trăm chín mươi chín điểm! [laughter] Từ việc tự thổi những chiếc vòng bong bóng không khí lấp lánh dưới nước rồi bơi xuyên qua như làm ảo thuật, cho đến việc lướt sóng trước mũi tàu hàng giờ liền chỉ để tìm niềm vui! Thậm chí chúng còn rủ nhau bơi thi với cano cao tốc của con người, lộn nhào trêu ngươi các thủy thủ rồi phóng vút đi biến mất trong làn bọt trắng xóa!",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene03",
+        "badge": "GIẢI PHẪU KỲ DIỆU",
+        "banner_title": "KÍNH SIÊU ÂM, NGỦ 1 MẮT VÀ TÊN RIÊNG",
+        "chapter_title": "Giải phẫu kỳ diệu: Khối mỡ Melon, ngủ luân phiên nửa não và giai điệu tên riêng",
+        "hook": "",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "text": "Khi dùng bút vẽ phần đầu một chú cá heo, bạn sẽ thấy chiếc trán của nó nhô tròn phúng phính rất đáng yêu. Nhưng đó không phải xương sọ đâu, mà là một thiết bị công nghệ cao của tự nhiên mang tên khối mỡ thấu kính Melon! Từ trong hốc mũi, cá heo phát ra một nghìn tiếng lách cách siêu âm mỗi giây, đi xuyên qua chiếc trán Melon như chùm tia đèn pha hội tụ chiếu thẳng về phía trước. [surprise-oh] Khi sóng âm va vào một chú cá đang vùi mình dưới lớp cát dày, âm thanh dội ngược lại xương hàm dưới, rồi truyền thẳng lên não, vẽ ra bức tranh ba chiều chính xác từng milimet về hình dạng và nhịp tim của con mồi!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Kỳ diệu hơn nữa là cách cá heo đi ngủ! Vì là thú có vú thở bằng phổi chứ không phải cá thở bằng mang, nếu cá heo ngủ say hoàn toàn như con người, nó sẽ quên ngoi lên mặt nước lấy oxy và bị ngạt thở ngay lập tức! [surprise-wa] Để giải bài toán sinh tử này, tạo hóa đã ban cho cá heo tuyệt kỹ ngủ luân phiên từng nửa bộ não: Khi nửa não bên trái tắt đèn đi ngủ và mắt bên phải nhắm nghiền, thì nửa não bên phải vẫn thức tỉnh hoàn toàn, mở to mắt bên trái canh chừng kẻ thù và điều khiển chiếc đuôi tự động ngoi lên mặt nước hít thở đều đặn suốt tám tiếng!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Không chỉ có não bộ kỳ diệu, cá heo còn sở hữu văn hóa xã hội giống hệt con người! Ngay từ khi mới sinh vài tuần, mỗi chú cá heo con sẽ tự sáng tác cho riêng mình một giai điệu huýt sáo độc nhất vô nhị làm tên riêng! Khi đi lạc giữa đại dương mênh mông, chúng sẽ cất tiếng huýt giai điệu tên mình và gọi đúng tên bạn bè từ xa hàng cây số! Thậm chí ở vịnh Shark Bay nước Úc, cá heo mẹ còn dạy con ngậm một miếng bọt biển mềm bọc quanh đầu mũi như đeo găng tay bảo hộ để sục tìm thức ăn dưới đáy đá sắc nhọn mà không bị trầy xước! Một kỹ năng sinh tồn gia truyền được truyền qua nhiều thế hệ của loài Thiên Tài Đội Lốt Diễn Viên Hài!",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene04",
+        "badge": "CÚ BẺ LÁI HÀI HƯỚC",
+        "banner_title": "BÓNG CHUYỀN CÁ NÓC VÀ LƯỚI BÙN THẦN KỲ",
+        "chapter_title": "Cú bẻ lái hài hước: Trò chơi bóng chuyền cá nóc và ma trận lưới bùn",
+        "hook": "",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Sở hữu bộ não quá thông minh và dư thừa năng lượng, những chú cá heo thiếu niên thường xuyên nghĩ ra đủ trò chơi lầy lội khiến các nhà làm phim tài liệu đài BBC phải dụi mắt ngỡ ngàng! Nổi tiếng nhất chính là trận bóng chuyền dưới biển với sự góp mặt bất đắc dĩ của một chú cá nóc! [laughter] Khi bắt gặp chú cá nóc đang bơi lững thững, thay vì ăn thịt, nhóm cá heo tinh nghịch liền bơi vây quanh và lấy đầu mũi chạm nhẹ trêu chọc.",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Ối ối, mấy ông anh cá heo tha cho em! Em phồng to thế này mà các anh vẫn coi em là quả bóng chuyền để tâng qua tâng lại à!",
+            "cast": "chu_ngo_ngac"
+          },
+          {
+            "text": "Bị giật mình, chú cá nóc lập tức nuốt nước biển phồng căng tròn xoe như quả bóng gai! Thế là cả nhóm cá heo dùng mũi hất nhẹ quả bóng cá nóc chuyền qua chuyền lại hết sức khéo léo! [laughter] Điều buồn cười nhất là khi bị trêu chọc, cá nóc tiết ra một lượng cực nhỏ độc tố tự nhiên vào nước. Với liều lượng nhỏ xíu này, cá heo hoàn toàn không bị trúng độc nguy hiểm mà chỉ cảm thấy lâng lâng buồn cười như vừa chơi vòng quay ngựa gỗ! Ngay sau đó, cả nhóm cá heo nổi ngửa bụng sát mặt nước lim dim ngắm mây trời, còn chú cá nóc nhân cơ hội lặn mất tăm! Các nhà làm phim tài liệu đài BBC từng mất hàng tháng trời ngoài khơi để ghi lại cảnh tượng hài hước vô tiền khoáng hậu này!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Đến khi cần kiếm bữa ăn thật sự, trí thông minh đồng đội của cá heo mới phô diễn hết sức mạnh qua chiến thuật ma trận lưới bùn! Một chú cá heo đội trưởng lao xuống đáy biển nông đập đuôi thật mạnh và bơi xoay tròn khuấy tung lớp bùn cát thành bức tường hình trụ khổng lồ bao vây đàn cá mồi. Bị kẹt trong vòng vây bùn thu hẹp, đàn cá nhỏ hoảng loạn nhảy vút lên không trung thoát thân, nhưng bên ngoài bức tường bùn, cả đàn cá heo đồng đội đã xếp hàng há miệng chờ sẵn đớp gọn từng chú cá ngay trên mặt nước! Một chiến thuật săn mồi hoàn hảo không kẽ hở!",
+            "mood": "don_dap"
+          }
+        ]
+      },
+      {
+        "id": "scene05",
+        "badge": "HIỆP SĨ BIỂN CẢ",
+        "banner_title": "KHẮC TINH CÁ MẬP VÀ HUYỀN THOẠI PELORUS JACK",
+        "chapter_title": "Hiệp sĩ biển cả: Khắc tinh cá mập trắng và huyền thoại hoa tiêu Pelorus Jack",
+        "hook": "",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "text": "Nhiều người thường nghĩ cá mập trắng là ông vua bất khả chiến bại của biển cả. Nhưng sự thật là khi thấy bóng dáng một đàn cá heo, ngay cả cá mập khổng lồ cũng phải lặng lẽ quay đầu bơi sang hướng khác! Bí quyết giúp cá heo chiến thắng kẻ săn mồi đáng sợ này nằm ở hai vũ khí: Tinh thần đoàn kết tuyệt đối và chiếc mõm xương cứng như thép đúc mang tên Rostrum! Cá mập luôn đi săn đơn độc và có bộ xương cấu tạo hoàn toàn bằng sụn mềm, đặc biệt phần bụng dưới và khe mang cực kỳ nhạy cảm.",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Khi một con cá mập dám bén mảng đe dọa cá heo con, cả biệt đội cá heo lập tức dàn trận bao vây tứ phía, rồi thay phiên nhau lao vút đi với tốc độ năm mươi lăm kilômét một giờ như những quả ngư lôi sống, dùng chiếc mũi xương cứng húc thẳng vào bụng dưới cá mập khiến gã khổng lồ vỡ nội tạng phải tháo chạy trong kinh hoàng! [surprise-wa] Cá mập hung dữ đến đâu gặp phải biệt đội này cũng phải giơ cờ trắng xin hàng! Thậm chí chúng còn phân công các chú cá heo lực lưỡng bơi áp sát hai bên sườn bảo vệ cá heo mẹ và con non an toàn tuyệt đối!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Đối với con người, cá heo lại là những người bạn hiệp sĩ hào hiệp bậc nhất lịch sử hàng hải! Câu chuyện cảm động nổi tiếng nhất thế giới thuộc về chú cá heo màu trắng xám mang tên Pelorus Jack tại vùng biển New Zealand. Suốt hai mươi tư năm từ năm một ngàn tám trăm tám mươi tám đến năm một ngàn chín trăm mười hai, cứ mỗi khi có tàu thủy đi vào eo biển khúc khuỷu đầy đá ngầm nguy hiểm, Pelorus Jack lại tự nguyện bơi ra đón đầu, nhảy lướt sóng dẫn đường cho hàng trăm con tàu vượt qua vùng biển hiểm trở bình an vô sự!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Thưa thuyền trưởng, Pelorus Jack đã xuất hiện trước mũi tàu rồi! Toàn bộ chân vịt giữ nguyên tốc độ, đi theo bạn ấy là an toàn tuyệt đối!",
+            "cast": "ong_gia_ke"
+          },
+          {
+            "text": "Nhờ tấm lòng kỳ diệu ấy, năm một ngàn chín trăm lẻ bốn, chính phủ New Zealand đã ban hành đạo luật quốc gia đặc biệt để bảo vệ Pelorus Jack, biến chú thành sinh vật biển đầu tiên trong lịch sử nhân loại được luật pháp bảo vệ đích danh! Cho đến tận ngày nay, trên khắp thế giới vẫn liên tục ghi nhận những đàn cá heo tự động bơi thành vòng tròn che chắn cá mập và dùng lưng nâng đỡ người đi bơi gặp nạn trở về bờ an toàn! Xứng danh Thiên Tài Đội Lốt Diễn Viên Hài kiêm hiệp sĩ biển sâu!",
+            "mood": "am_ap"
+          }
+        ]
+      },
+      {
+        "id": "scene06",
+        "badge": "KẾT LUẬN",
+        "banner_title": "BÀI HỌC VÀ BẬT MÍ SINH VẬT KỲ QUẶC NHẤT",
+        "chapter_title": "Bài học đại dương và bật mí sinh vật kỳ quặc nhất hành tinh",
+        "hook": "",
+        "mood": "am_ap",
+        "parts": [
+          {
+            "text": "Qua những nét vẽ hôm nay, chúng ta thấy Cá Heo không chỉ là nhân vật hoạt hình có nụ cười đáng yêu, mà thực sự là một thiên tài khoa học, một nghệ sĩ ham chơi, và một hiệp sĩ dũng cảm của đại dương xanh! Hãy cùng nhau giữ gìn biển cả luôn sạch đẹp, không xả rác thải nhựa xuống nước để những chú cá heo thông thái mãi được tự do nhảy múa và thổi những chiếc vòng bong bóng kỳ diệu giữa biển khơi nhé!",
+            "mood": "am_ap"
+          },
+          {
+            "text": "Và nếu bạn nghĩ một loài thú có vú mang hình dáng giống cá như Cá Heo đã là điều bất ngờ của tự nhiên, thì ở tập tiếp theo, cây bút của chúng ta sẽ vẽ nên sinh vật kỳ quặc nhất hành tinh khiến các nhà khoa học thế kỷ mười tám từng tưởng là đồ giả khâu vá lại! [surprise-oh] Một con vật có mỏ vịt, đuôi hải ly, đẻ trứng như bò sát nhưng lại tiết sữa nuôi con qua da và giấu cựa kịch độc ở chân sau! Đó chính là Thú Mỏ Vịt! Hãy nhấn đăng ký kênh để đón xem tập tiếp theo nhé!",
+            "mood": "hao_hung"
+          }
+        ]
+      }
+    ]
+  },
+  "shorts": {
+    "target_s": 50.0,
+    "mood": "hao_hung",
+    "text": "[surprise-oh] Cá Heo không hề cười vì lúc nào nó cũng vui đâu! [laughter] Nụ cười vĩnh cửu ấy thực ra là do cấu tạo xương hàm uốn cong cố định từ khi mới sinh ra! Đằng sau nụ cười thiên thần đó là một biệt đội học sinh siêu quậy thông minh thứ hai hành tinh! [surprise-wa] Chúng biết tự soi gương tạo dáng, dùng khối mỡ Melon trên trán phát một nghìn tiếng lách cách siêu âm nhìn xuyên cát đáy biển, và sở hữu tuyệt kỹ ngủ một mắt mở một mắt nhắm để canh chừng cá mập! Đỉnh cao lầy lội là những trận bóng chuyền cá nóc kịch độc để tận hưởng cảm giác lâng lâng, và cú húc mõm thép Rostrum năm mươi lăm kilômét một giờ đập tan tác cá mập trắng! Vừa là thiên tài khoa học, vừa là diễn viên hài, đó chính là Cá Heo đại dương!"
+  },
+  "seo": {
+    "title": "Giải Mã Cá Heo: Bóng Chuyền Cá Nóc & 3 Bí Mật Điên Rồ Nhất Đại Dương!",
+    "hook_paragraph": "Cá Heo (Delphinidae) sở hữu bộ não lớn thứ 2 hành tinh nhưng ẩn sau nụ cười hoạt hình vĩnh cửu là những bí mật sinh tồn siêu hài: ngủ luân phiên từng nửa não, ra-đa siêu âm Melon phát 1.000 tiếng click/giây, trận bóng chuyền bằng cá nóc kịch độc và cú húc mõm thép Rostrum làm cá mập trắng khiếp sợ!",
+    "bullets": [
+      "Bí mật nụ cười hoạt hình vĩnh cửu: Cấu tạo xương hàm dưới uốn cong cố định từ khi mới sinh",
+      "Kính X-quang sinh học Melon: Phát 1.000 tiếng click siêu âm mỗi giây nhìn xuyên cát",
+      "Tuyệt kỹ ngủ luân phiên từng nửa não và giai điệu huýt sáo làm tên riêng",
+      "Trò chơi bóng chuyền cá nóc kịch độc và cú húc mõm xương Rostrum 55 km/h đuổi cá mập trắng"
+    ],
+    "question": "Theo bạn, siêu năng lực ngủ mở một mắt hay trò chơi bóng chuyền bằng cá nóc của Cá Heo thú vị hơn? Hãy bình luận nhé!",
+    "next_teaser": "Thú Mỏ Vịt — mỏ vịt, đuôi hải ly, đẻ trứng nhưng nuôi con bằng sữa và giấu cựa kịch độc ở chân sau!",
+    "hashtags": [
+      "#độngvật",
+      "#cáheo",
+      "#VẽChuyệnHoangDã"
+    ],
+    "tags": [
+      "cá heo",
+      "ca heo",
+      "dolphin",
+      "thế giới động vật",
+      "động vật hoang dã",
+      "vẽ chuyện hoang dã",
+      "cá heo bóng chuyền cá nóc",
+      "cá heo và cá mập",
+      "whiteboard animation"
+    ],
+    "shorts_title": "Bí Mật Đằng Sau Nụ Cười Hoạt Hình Vĩnh Cửu Của Cá Heo?! 🐬 #độngvật #cáheo",
+    "shorts_desc": "Cá Heo không cười vì vui mà do xương hàm cố định! Khám phá bí mật siêu trí tuệ, trò chơi bóng chuyền cá nóc và cú húc đuổi cá mập trắng của Thiên Tài Đội Lốt Diễn Viên Hài.\n\n#độngvật #cáheo #VẽChuyệnHoangDã",
+    "shorts_tags": [
+      "cá heo",
+      "dolphin",
+      "shorts",
+      "thế giới động vật",
+      "vẽ chuyện hoang dã"
+    ]
+  }
+}
+
+with open("projects/tap-03-ca-heo/episode.json", "w", encoding="utf-8") as f:
+    json.dump(ep3, f, ensure_ascii=False, indent=2)
+print("Updated projects/tap-03-ca-heo/episode.json")

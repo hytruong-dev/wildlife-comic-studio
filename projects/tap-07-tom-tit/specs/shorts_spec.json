@@ -1,0 +1,524 @@
+{
+ "episode": "tap-07-tom-tit",
+ "title_lines": [
+  "CÚ ĐẤM NÓNG BẰNG MẶT TRỜI",
+  "ĐẤM VỠ CẢ BỂ KÍNH?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "voice_end_s": 45.01,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-07-tom-tit_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.9,
+  4.85,
+  9.35,
+  14.17,
+  20.27,
+  23.99,
+  29.55,
+  35.43,
+  39.05,
+  40.85,
+  42.29
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "t": 0.5,
+     "side": "L",
+     "y": 800,
+     "value": "1 VIÊN ĐẠN",
+     "label": "súng trường dưới nước",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 0.56,
+     "text": "Một cú đấm"
+    },
+    {
+     "t": 1.04,
+     "text": "dưới nước mạnh"
+    },
+    {
+     "t": 1.62,
+     "text": "ngang một viên"
+    },
+    {
+     "t": 2.18,
+     "text": "đạn súng trường,"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 2.95,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 3.78,
+     "side": "R",
+     "y": 700,
+     "value": "4.700°C",
+     "label": "nóng ngang Mặt Trời",
+     "target": [
+      0.55,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 3.2,
+     "text": "sinh ra nhiệt"
+    },
+    {
+     "t": 3.62,
+     "text": "độ 4.700°C gần"
+    },
+    {
+     "t": 5.2,
+     "text": "bằng bề mặt"
+    },
+    {
+     "t": 5.74,
+     "text": "Mặt Trời!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 7.45,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 10.76,
+     "side": "L",
+     "y": 750,
+     "value": "TYSON",
+     "label": "võ sĩ đại dương",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 7.7,
+     "text": "Kẻ sở hữu"
+    },
+    {
+     "t": 8.12,
+     "text": "siêu năng lực"
+    },
+    {
+     "t": 8.7,
+     "text": "điên rồ đó"
+    },
+    {
+     "t": 9.3,
+     "text": "chính là Tôm"
+    },
+    {
+     "t": 9.84,
+     "text": "Tít, võ sĩ"
+    },
+    {
+     "t": 10.76,
+     "text": "Mike Tyson khét"
+    },
+    {
+     "t": 11.74,
+     "text": "tiếng của đại"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 12.27,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 15.3,
+     "side": "R",
+     "y": 720,
+     "value": "10.400 g",
+     "label": "gia tốc thần sầu",
+     "target": [
+      0.6,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 12.24,
+     "text": "dương! Với đôi"
+    },
+    {
+     "t": 13.2,
+     "text": "càng búa tí"
+    },
+    {
+     "t": 13.72,
+     "text": "hon, nó phóng"
+    },
+    {
+     "t": 14.74,
+     "text": "đòn với gia"
+    },
+    {
+     "t": 15.16,
+     "text": "tốc 10.400g,"
+    },
+    {
+     "t": 16.6,
+     "text": "đập vỡ nát"
+    },
+    {
+     "t": 17.08,
+     "text": "mai cua,"
+    },
+    {
+     "t": 17.96,
+     "text": "vỏ ốc xà"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 18.37,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 20.16,
+     "side": "L",
+     "y": 780,
+     "value": "NỨT KÍNH",
+     "label": "thủy cung nước Anh",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 18.44,
+     "text": "cừ và thậm"
+    },
+    {
+     "t": 18.98,
+     "text": "chí từng đấm"
+    },
+    {
+     "t": 19.48,
+     "text": "nứt toác cả"
+    },
+    {
+     "t": 20.16,
+     "text": "mặt kính bể"
+    },
+    {
+     "t": 20.66,
+     "text": "cá dày cộp"
+    },
+    {
+     "t": 21.24,
+     "text": "của một thủy"
+    },
+    {
+     "t": 21.76,
+     "text": "cung ở nước"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 22.09,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S11.png",
+   "stickers": [
+    {
+     "t": 24.1,
+     "side": "R",
+     "y": 740,
+     "value": "SÔI NƯỚC",
+     "label": "nướng chín con mồi",
+     "target": [
+      0.55,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 22.1,
+     "text": "Anh! Cú vung"
+    },
+    {
+     "t": 23.14,
+     "text": "càng nhanh đến"
+    },
+    {
+     "t": 23.7,
+     "text": "mức làm sôi"
+    },
+    {
+     "t": 24.32,
+     "text": "nước biển,"
+    },
+    {
+     "t": 25.12,
+     "text": "tạo ra vụ"
+    },
+    {
+     "t": 25.68,
+     "text": "nổ bọt khí"
+    },
+    {
+     "t": 26.22,
+     "text": "xâm thực nướng"
+    },
+    {
+     "t": 26.82,
+     "text": "chín con mồi"
+    },
+    {
+     "t": 27.4,
+     "text": "trong nháy"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 27.65,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 32.72,
+     "side": "L",
+     "y": 750,
+     "value": "MỀM NHƯ THẠCH",
+     "label": "mùa lột xác",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 27.76,
+     "text": "mắt! Thế nhưng,"
+    },
+    {
+     "t": 29.0,
+     "text": "cứ mỗi mùa"
+    },
+    {
+     "t": 29.48,
+     "text": "lột xác,"
+    },
+    {
+     "t": 30.28,
+     "text": "gã võ sĩ"
+    },
+    {
+     "t": 30.72,
+     "text": "bất khả chiến"
+    },
+    {
+     "t": 31.26,
+     "text": "bại này lại"
+    },
+    {
+     "t": 32.08,
+     "text": "biến thành một"
+    },
+    {
+     "t": 32.5,
+     "text": "miếng thạch bơ"
+    },
+    {
+     "t": 33.08,
+     "text": "mềm nhũn,"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 33.53,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 35.32,
+     "side": "R",
+     "y": 780,
+     "value": "SỢ ỐC SÊN",
+     "label": "trốn trong hang sâu",
+     "target": [
+      0.65,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 33.78,
+     "text": "phải trốn chui"
+    },
+    {
+     "t": 34.52,
+     "text": "trốn lủi sợ"
+    },
+    {
+     "t": 35.22,
+     "text": "cả một con"
+    },
+    {
+     "t": 35.52,
+     "text": "ốc sên bò"
+    },
+    {
+     "t": 36.12,
+     "text": "ngang qua!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 37.25,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 38.44,
+     "side": "L",
+     "y": 720,
+     "value": "16 MÀU",
+     "label": "thị giác siêu cấp",
+     "target": [
+      0.55,
+      0.35
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 37.5,
+     "text": "Bí mật về"
+    },
+    {
+     "t": 38.2,
+     "text": "đôi mắt 16 dải"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 39.05,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "t": 39.44,
+     "side": "R",
+     "y": 750,
+     "value": "Y HỌC",
+     "label": "tầm soát ung thư",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 39.08,
+     "text": "màu giúp phát"
+    },
+    {
+     "t": 39.58,
+     "text": "hiện ung thư"
+    },
+    {
+     "t": 40.1,
+     "text": "của gã"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 40.39,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S10.png",
+   "stickers": [
+    {
+     "t": 42.64,
+     "side": "R",
+     "y": 750,
+     "value": "XEM NGAY",
+     "label": "Tập 7 bản đầy đủ",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 40.44,
+     "text": "này đã có"
+    },
+    {
+     "t": 41.26,
+     "text": "ở video dài"
+    },
+    {
+     "t": 42.0,
+     "text": "bên dưới."
+    },
+    {
+     "t": 42.64,
+     "text": "Bấm xem ngay"
+    },
+    {
+     "t": 43.38,
+     "text": "màn đại chiến"
+    },
+    {
+     "t": 43.96,
+     "text": "siêu hài hước"
+    },
+    {
+     "t": 44.5,
+     "text": "này nhé!"
+    }
+   ]
+  }
+ ]
+}

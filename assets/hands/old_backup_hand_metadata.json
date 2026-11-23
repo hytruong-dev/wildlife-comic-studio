@@ -1,0 +1,13 @@
+{
+  "width": 1000,
+  "height": 1000,
+  "anchor": {
+    "x": 150,
+    "y": 120
+  },
+  "shadowAnchor": {
+    "x": 168,
+    "y": 144
+  },
+  "defaultScale": 0.55
+}

@@ -1,0 +1,320 @@
+{
+  "scene_id": "scene03",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 4,
+  "world_width": 2416,
+  "world_height": 1230,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 150,
+  "duration_ms": 104000,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/assets/scenes_composed/scene03_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      286,
+      8,
+      993,
+      53
+    ],
+    "x": 298,
+    "y": 12,
+    "w": 683,
+    "h": 39,
+    "text": "[PHẦN 3]  GIẢI PHẪU SINH HỌC & CỖ MÁY CHIẾN ĐẤU HOÀN HẢO",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/assets/scenes_composed/scene03_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 26280,
+      "has_frame": false,
+      "pill_box": [
+        673,
+        110,
+        886,
+        148
+      ],
+      "art_only_box": [
+        456,
+        146,
+        1099,
+        499
+      ],
+      "caption": {
+        "text": "Cơ chế 1: Lớp da dày hơn da trâu nhưng lỏng lẻo như áo khoác rộng",
+        "x": 484,
+        "y": 499,
+        "w": 587,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        454,
+        106,
+        1101,
+        531
+      ],
+      "img_region": {
+        "x": 456,
+        "y": 146,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 26280,
+      "end_ms": 51320,
+      "has_frame": false,
+      "pill_box": [
+        1527,
+        110,
+        1751,
+        145
+      ],
+      "art_only_box": [
+        1316,
+        146,
+        1959,
+        499
+      ],
+      "caption": {
+        "text": "Tuyệt kỹ xoay 180 độ: Bị tóm gáy liền xoay ngược cắn mũi báo hoa",
+        "x": 1344,
+        "y": 499,
+        "w": 588,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1314,
+        106,
+        1961,
+        534
+      ],
+      "img_region": {
+        "x": 1316,
+        "y": 146,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 51320,
+      "end_ms": 78360,
+      "has_frame": false,
+      "pill_box": [
+        1521,
+        690,
+        1757,
+        727
+      ],
+      "art_only_box": [
+        1316,
+        726,
+        1959,
+        1079
+      ],
+      "caption": {
+        "text": "Vuốt 5cm đào nhanh hơn người xúc xẻng & Hàm nghiền nát mai rùa",
+        "x": 1342,
+        "y": 1079,
+        "w": 592,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1314,
+        686,
+        1961,
+        1111
+      ],
+      "img_region": {
+        "x": 1316,
+        "y": 726,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_04",
+      "start_ms": 78360,
+      "end_ms": 104000,
+      "has_frame": false,
+      "pill_box": [
+        689,
+        690,
+        870,
+        726
+      ],
+      "art_only_box": [
+        456,
+        726,
+        1099,
+        1079
+      ],
+      "caption": {
+        "text": "Bom xạ hương: Xua đàn ong vò vẽ, sư tử & linh cẩu bịt mũi chạy",
+        "x": 499,
+        "y": 1079,
+        "w": 557,
+        "h": 31,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        454,
+        686,
+        1101,
+        1112
+      ],
+      "img_region": {
+        "x": 456,
+        "y": 726,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 454.0,
+    "y_min": 106.0,
+    "x_max": 1961.0,
+    "y_max": 1112.0,
+    "bbox_w": 1507.0,
+    "bbox_h": 1006.0,
+    "center_x": 1207.5,
+    "center_y": 609.0,
+    "zoom_out_scale": 0.564,
+    "crop_w": 2269.4,
+    "crop_h": 1156.0
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 777.5,
+      "cy": 318.5,
+      "crop_w": 1163.8,
+      "crop_h": 592.8,
+      "zoom_relative": 1.95,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 25660.0,
+      "cx": 777.5,
+      "cy": 318.5,
+      "crop_w": 1163.8,
+      "crop_h": 592.8,
+      "zoom_relative": 1.95,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 26280.0,
+      "cx": 1637.5,
+      "cy": 320.0,
+      "crop_w": 1107.0,
+      "crop_h": 563.9,
+      "zoom_relative": 2.05,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 50700.0,
+      "cx": 1637.5,
+      "cy": 320.0,
+      "crop_w": 1107.0,
+      "crop_h": 563.9,
+      "zoom_relative": 2.05,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 51320.0,
+      "cx": 1637.5,
+      "cy": 898.5,
+      "crop_w": 1134.7,
+      "crop_h": 578.0,
+      "zoom_relative": 2.0,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 77740.0,
+      "cx": 1637.5,
+      "cy": 898.5,
+      "crop_w": 1134.7,
+      "crop_h": 578.0,
+      "zoom_relative": 2.0,
+      "phase": "transition",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 78360.0,
+      "cx": 777.5,
+      "cy": 899.0,
+      "crop_w": 1163.8,
+      "crop_h": 592.8,
+      "zoom_relative": 1.95,
+      "phase": "focus_hold",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 101800.0,
+      "cx": 777.5,
+      "cy": 899.0,
+      "crop_w": 1163.8,
+      "crop_h": 592.8,
+      "zoom_relative": 1.95,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 102790.0,
+      "cx": 1207.5,
+      "cy": 609.0,
+      "crop_w": 2269.4,
+      "crop_h": 1156.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 104000.0,
+      "cx": 1207.5,
+      "cy": 609.0,
+      "crop_w": 2269.4,
+      "crop_h": 1156.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

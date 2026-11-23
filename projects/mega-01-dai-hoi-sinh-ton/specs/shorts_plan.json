@@ -1,0 +1,98 @@
+{
+ "title_lines": [
+  "10 QUÁI KIỆT THI ĐẤU",
+  "AI LÊN NGÔI?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Lửng Mật, Tôm",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "Vòng một: Thú",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "0°C",
+     "side": "R",
+     "y": 640,
+     "value": "0°C",
+     "label": "bơi 5 tiếng",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vòng hai: Chim",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "at": "13.000km",
+     "side": "L",
+     "y": 620,
+     "value": "13.000 KM",
+     "label": "mỗi năm",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vòng sáu: Cá",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "Vòng bảy: tin",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "Lửng Mật thì",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "Chung kết: ai",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "Và nhà vô",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "Bạn có đồng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  },
+  {
+   "at": "vì ở đây",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  }
+ ]
+}

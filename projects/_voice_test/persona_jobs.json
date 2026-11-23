@@ -1,0 +1,7 @@
+[
+ {"text": "Bị cáo, mời đứng lên. Tòa tuyên án... chim cánh cụt có tội trộm sỏi!", "out": "projects/_voice_test/persona_tham_phan.wav", "ref": null, "instruct": "male, elderly, very low pitch", "speed": 0.95},
+ {"text": "Mẹ ơi, con đói quá! Cho con ăn một miếng lá thôi mà!", "out": "projects/_voice_test/persona_be_con.wav", "ref": null, "instruct": "female, child, high pitch", "speed": 1.08},
+ {"text": "Nửa đêm. Rừng khuynh diệp im phăng phắc... Và rồi, một tiếng gầm vang lên từ ngọn cây.", "out": "projects/_voice_test/mood_tram_bi_an.wav", "ref": "assets/voice_refs/adam_v3_ep6.wav", "speed": 1.0},
+ {"text": "Tuyển thủ lao lên! Một cú đấm! Hai cú đấm! Con cua vỡ mai! K.O!", "out": "projects/_voice_test/mood_don_dap.wav", "speed": 1.12},
+ {"text": "Bệnh nhân số tám, mời vào. Chẩn đoán: não phẳng lì như ức gà luộc.", "out": "projects/_voice_test/persona_bac_si.wav", "ref": "assets/voice_refs/adam_v3_ep6.wav", "instruct": "male, middle-aged, low pitch", "speed": 1.02}
+]

@@ -1,0 +1,342 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "CÚ LỪA ĐÁNG YÊU NHẤT CỦA RÁI CÁ BIỂN",
+   "hook": "",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi nhắc đến Rái Cá Biển,",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thế nhưng kính thưa bồi",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vì ngủ ngửa trên mặt",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hoặc trôi thẳng vào hàm",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và khi cơn đói ập",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VỤ ÁN ĐẠI DƯƠNG"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "BẢNG CHỈ SỐ SINH TỒN RPG CỦA THÁNH ĂN VẠ",
+   "hook": "",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đầu tiên là chỉ số Ngụy Trang",
+     "image": "assets/long/L08.png",
+     "stickers": [
+      {
+       "at": "100/100",
+       "side": "R",
+       "y": 360,
+       "value": "100/100",
+       "label": "ngụy trang đáng yêu",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thứ hai là chỉ số Phòng Thủ",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "95/100",
+       "side": "L",
+       "y": 360,
+       "value": "95/100",
+       "label": "giáp lông cản lạnh",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khác với cá voi hay",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thứ ba là chỉ số Trí Thông Minh",
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "92/100",
+       "side": "R",
+       "y": 360,
+       "value": "92/100",
+       "label": "bậc thầy búa đá",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đây là loài thú biển",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và cuối cùng là chỉ số Độ Lầy",
+     "image": "assets/long/L13.png",
+     "stickers": [
+      {
+       "at": "999",
+       "side": "L",
+       "y": 360,
+       "value": "999",
+       "label": "độ lầy lội giang hồ",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Từ việc cướp trắng bữa",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #1"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "ÁO PHAO MỘT TRIỆU SỢI LÔNG VÀ CHIẾC TÚI THẦN KỲ DORAEMON",
+   "hook": "",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L15.png",
+     "stickers": [
+      {
+       "at": "1 triệu",
+       "side": "R",
+       "y": 360,
+       "value": "1 TRIỆU",
+       "label": "sợi lông cách nhiệt",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Vì thế, rái cá phải",
+     "image": "assets/long/L16.png",
+     "stickers": [
+      {
+       "at": "4 tiếng",
+       "side": "L",
+       "y": 360,
+       "value": "4 TIẾNG",
+       "label": "chăm sóc áo lông",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thiết kế thứ hai là",
+     "image": "assets/long/L17.png",
+     "stickers": [
+      {
+       "at": "30%",
+       "side": "R",
+       "y": 360,
+       "value": "30%",
+       "label": "nạp hải sản mỗi ngày",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và thiết kế thứ ba",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "45 nhát",
+       "side": "L",
+       "y": 360,
+       "value": "45 NHÁT",
+       "label": "đập vỡ vỏ sò trong 15s",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #2"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "CHIẾN THUẬT BẮT CÓC CON TIN ĐÒI TIỀN CHUỘC HẢI SẢN",
+   "hook": "",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bạn biết đấy, lông của",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ chờ có thế, gã",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thương con đứt ruột,",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #3"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "VỆ BINH RỪNG TẢO BẸ VÀ HUYỀN THOẠI HẢI TẶC CƯỚP VÁN 841",
+   "hook": "",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi không có thiên địch",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không chỉ làm bá chủ",
+     "image": "assets/long/L25.png",
+     "stickers": [
+      {
+       "at": "841",
+       "side": "R",
+       "y": 360,
+       "value": "SỐ 841",
+       "label": "hải tặc santa cruz",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Suốt cả mùa hè, cảnh",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #4"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "BÀI HỌC SINH TỒN VÀ BẬT MÍ BỘ MẶT THẬT CỦA CÁ HEO",
+   "hook": "",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thế nhưng, nếu bạn nghĩ",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chúng lập hội bắt nạt",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "PHÁN QUYẾT"
+  }
+ }
+}

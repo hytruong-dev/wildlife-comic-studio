@@ -1,0 +1,479 @@
+# -*- coding: utf-8 -*-
+import json, os
+
+chars = {
+ "HERO": "chú chim Tu Hú trưởng thành hoạt hình lông đốm hoa râm xám tro, mắt đỏ tròn tinh ranh, đeo chiếc nơ bướm màu tím than trên cổ, biểu cảm tự tin láu cá",
+ "HERO_S": "chú chim Tu Hú lông đốm xám tro nơ tím than",
+ "HERO_CHICK": "chú chim Tu Hú non sơ sinh đỏ hỏn không một cọng lông, mắt nhắm nghiền, trên lưng có vết lõm rõ rệt hình chiếc thìa",
+ "HERO_BIG": "chú chim Tu Hú non khổng lồ béo tròn lông xù to gấp 3 lần chim bố mẹ, mỏ há toang đỏ rực viền vàng như hố ga",
+ "HOST_BIRD": "đôi chim chích nhỏ xíu màu nâu vàng ngơ ngác, biểu cảm hoảng hốt còng lưng",
+ "JUDGE": "chú cú mèo già thẩm phán đội tóc giả trắng tòa án Anh, mặc áo choàng đen, tay cầm búa gỗ",
+ "NO_HERO": "KHÔNG có chim Tu Hú trưởng thành trong cảnh này"
+}
+
+# 6 scenes long-form beats
+long_beats = [
+ # --- SCENE 01: VỤ ÁN TỔ ẤM ---
+ {
+  "scene": "scene01", "at": 0,
+  "layout": "BÊN TRÁI {JUDGE} đang nghiêm nghị gõ búa gỗ xuống bàn; Ở GIỮA tấm biển lớn đề chữ 'TÒA ÁN TỐI CAO THẾ GIỚI TỰ NHIÊN' treo giữa rừng già; BÊN PHẢI hàng loạt muôn loài chim muông đang ngồi trên các cành cây theo dõi hồi hộp. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene01", "at": "Tiếng búa gõ vang",
+  "layout": "Toàn cảnh góc rộng khu rừng rậm: ánh nắng sớm rọi qua kẽ lá, các loài chim chích, chim sáo, chim quạ tụ tập đông đúc quanh cành cây cổ thụ nghe ngóng xôn xao. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene01", "at": "Trên cành cây cổ",
+  "layout": "Góc nhìn cận cảnh cành cây cổ thụ: một chiếc tổ chim nhỏ bị bỏ trống, bên cạnh là hồ sơ vụ án viền đỏ đóng dấu 'ÁP GIẢI TỘI PHẠM'. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene01", "at": "Trật tự phiên tòa",
+  "layout": "BÊN TRÁI {JUDGE} đứng nghiêm nghị giơ tay ra lệnh trật tự; Ở GIỮA bục công tố viên lót tài liệu; BÊN PHẢI cả hội đồng chim chóc im phăng phắc nín thở. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene01", "at": "Kính thưa quý tòa",
+  "layout": "BÊN TRÁI công tố viên chỉ tay đanh thép về phía vành móng ngựa; BÊN PHẢI {HERO} đang đứng ung dung trong vành móng ngựa gỗ, mắt đỏ nhếch mép huýt sáo.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene01", "at": "Vâng, đó chính là",
+  "layout": "Cận cảnh chân dung {HERO}: bộ lông đốm hoa râm xám tro, nơ tím than chỉnh tề, mỏ nhọn đang kêu 'Tu hú! Tu hú!' vang dội giữa những chùm quả vải chín đỏ mọng xung quanh.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene01", "at": "Bị cáo trông bề",
+  "layout": "So sánh hai mặt đối lập: BÊN TRÁI {HERO} trông lịch lãm như quý ông; BÊN PHẢI một cuốn sổ đen tiền án tiền sự dày cộm dán ảnh truy nã đề chữ 'SIÊU TRỘM TỔ ẤM'.",
+  "stickers": [{"at": "Siêu Trộm Tổ Ấm", "side": "R", "y": 380, "value": "LỪA ĐẢO", "label": "TIỀN ÁN ĐẦY MÌNH", "target": [0.75, 0.45]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene01", "at": "Không xây tổ, không",
+  "layout": "Hình ảnh châm biếm: Ở GIỮA {HERO} nằm đung đưa trên võng lá ngủ khò, một cánh gối đầu, một cánh phẩy quạt; xung quanh các loài chim khác đang hì hục tha rơm xây tổ toát mồ hôi.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene01", "at": "Hôm nay, công tố",
+  "layout": "BÊN TRÁI hàng trăm chú chim chích, chim sáo nhỏ bé cầm biểu ngữ 'TRẢ LẠI CON CHO TÔI!'; BÊN PHẢI công tố viên mở tập tài liệu 4 cáo trạng hình sự phát sáng đỏ rực. {NO_HERO}.",
+  "stickers": [{"at": "bốn bằng chứng", "side": "R", "y": 420, "value": "4 TỘI", "label": "BẰNG CHỨNG THÉP", "target": [0.72, 0.5]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene01", "at": "Đột nhập đẻ trộm", "id": "L69",
+  "layout": "Cận cảnh 4 tội danh được chiếu đèn pha đỏ: hình minh họa đẻ trộm 10 giây, hất vỡ trứng, con nuôi khổng lồ và đập phá tổ mafia dằn mặt. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene01", "at": "Liệu một kẻ mang",
+  "layout": "BÊN TRÁI {HERO} đứng trong bóng tối với nụ cười bí hiểm; BÊN PHẢI cán cân công lý bằng vàng rực rỡ đang nghiêng ngả trước hàng loạt bằng chứng tội trạng.",
+  "stickers": [], "impacts": []
+ },
+
+ # --- SCENE 02: BẰNG CHỨNG #1 ---
+ {
+  "scene": "scene02", "at": 0,
+  "layout": "BÊN TRÁI tấm bảng lớn ghi chữ 'BẰNG CHỨNG SỐ 1: VỤ CƯỚP TRỨNG 10 GIÂY'; BÊN PHẢI một chiếc đồng hồ bấm giờ thể thao đang điểm số 00:10 nhấp nháy phát sáng. {NO_HERO}.",
+  "stickers": [{"at": "10 giây", "side": "R", "y": 380, "value": "10 GIÂY", "label": "ĐẺ TRỨNG KỶ LỤC", "target": [0.75, 0.45]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene02", "at": "Thông thường, một cô",
+  "layout": "So sánh tốc độ sinh nở: BÊN TRÁI cô chim sẻ ngồi tĩnh tâm trên tổ với đồng hồ đếm ngược 20-30 phút; BÊN PHẢI một tên trộm bịt mặt chạy vút qua như tia chớp giật lấy quả trứng hài hước. {NO_HERO}.",
+  "stickers": [{"at": "20 phút", "side": "L", "y": 400, "value": "20-30 PHÚT", "label": "CHIM BÌNH THƯỜNG", "target": [0.28, 0.5]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene02", "at": "Để thực hiện phi",
+  "layout": "Bản vẽ chiến thuật quân sự: sơ đồ tác chiến chia làm hai mũi tấn công; mũi tên đỏ chỉ hướng chim bố nghi binh dụ địch, mũi tên xanh chỉ hướng chim mẹ đột kích lén lút vào tổ chim chích.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene02", "at": "Chim Tu Hú bố",
+  "layout": "BÊN TRÁI chim Tu Hú trống lông đen tuyền bay lượn khiêu khích nhổ lông trêu chọc; BÊN PHẢI đôi chim chủ nhà tức giận đỏ mặt xù lông bay ra khỏi tổ rượt đuổi quyết liệt.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene02", "at": "Và ngay khi chim",
+  "layout": "Cận cảnh tổ chim chích trơ trọi không ai canh giữ: từ cành cây rậm rạp phía trên, chim Tu Hú mẹ mắt đỏ lao thẳng xuống tổ nhanh như một mũi tên xé gió.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene02", "at": "Bấm đồng hồ: 1",
+  "layout": "Mốc 1 giây: chim Tu Hú mẹ đáp nhẹ nhàng xuống mép tổ chim chích; một chiếc đồng hồ bấm giờ góc trái hiển thị con số 00:01.",
+  "stickers": [{"at": "1 giây", "side": "L", "y": 360, "value": "GIÂY THỨ 1", "label": "ĐÁP XUỐNG TỔ", "target": [0.25, 0.42]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene02", "at": "2 giây cúi xuống",
+  "layout": "Mốc 2 giây: chim Tu Hú mẹ cúi mỏ ngoạm lấy một quả trứng của chim chủ nhà hất văng ra khỏi tổ rơi tự do; đồng hồ góc trái hiển thị 00:02.",
+  "stickers": [{"at": "2 giây", "side": "L", "y": 360, "value": "GIÂY THỨ 2", "label": "CƯỚP TRỨNG CHỦ", "target": [0.25, 0.42]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene02", "at": "3 giây ép sát",
+  "layout": "Mốc 3 giây: chim Tu Hú mẹ ép sát bụng xuống đáy tổ rặn đẻ quả trứng của mình thay vào đúng vị trí quả trứng vừa mất; đồng hồ hiển thị 00:03.",
+  "stickers": [{"at": "3 giây", "side": "L", "y": 360, "value": "GIÂY THỨ 3", "label": "ĐẺ TRỨNG THAY THẾ", "target": [0.25, 0.42]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene02", "at": "5 giây tiếp theo:",
+  "layout": "Mốc 5 giây tiếp theo: chim Tu Hú mẹ đập cánh bay vút đi để lại làn khói mờ ảo; chiếc lá trên mép tổ vẫn còn đung đưa chưa kịp đứng yên.",
+  "stickers": [{"at": "10 giây", "side": "R", "y": 390, "value": "10 GIÂY", "label": "CHỚP NHOÁNG HOÀN TẤT", "target": [0.75, 0.48]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene02", "at": "Nhưng tại sao chim",
+  "layout": "BÊN TRÁI đôi {HOST_BIRD} bay về tổ đứng nhìn ngơ ngác gãi đầu; Ở GIỮA tổ chim có 4 quả trứng trông giống hệt nhau không một chút khác biệt.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene02", "at": "Đây chính là đỉnh",
+  "layout": "Cận cảnh phóng đại hai quả trứng đặt cạnh nhau: BÊN TRÁI trứng chim chích; BÊN PHẢI trứng chim Tu Hú; cả hai đều có vỏ màu xanh nhạt đốm nâu giống nhau 99%.",
+  "stickers": [{"at": "99%", "side": "R", "y": 380, "value": "GIỐNG 99%", "label": "NGỤY TRANG HOÀN HẢO", "target": [0.75, 0.45]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene02", "at": "Nếu gửi mẫu trứng", "id": "L60",
+  "layout": "Phòng giám định hình sự thế giới tự nhiên: một bác chim cú đeo kính lúp soi từng chấm đốm trên hai quả trứng, toát mồ hôi vì quá khó phân biệt. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene02", "at": "Chưa dừng lại ở",
+  "layout": "Thí nghiệm đo độ cứng vỏ trứng: quả trứng Tu Hú được đặt dưới một chiếc búa nhỏ đập vào mà không vỡ, vỏ trứng dày gấp đôi vỏ trứng bình thường. {NO_HERO}.",
+  "stickers": [{"at": "gấp 2 lần", "side": "R", "y": 420, "value": "DÀY GẤP 2", "label": "VỎ CỨNG NHƯ ĐÁ", "target": [0.7, 0.52]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene02", "at": "Một là để khi", "id": "L61",
+  "layout": "Chim Tu Hú mẹ thả rơi quả trứng từ trên cao xuống đáy tổ lót đầy đá cuội mà quả trứng vẫn nguyên vẹn không sứt mẻ; chim chủ nhà mổ mỏ vào kêu 'cốp cốp' bất lực. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+
+ # --- SCENE 03: BẰNG CHỨNG #2 ---
+ {
+  "scene": "scene03", "at": 0,
+  "layout": "BÊN TRÁI tấm biển lớn đề 'BẰNG CHỨNG SỐ 2: SÁT THỦ CHƯA MỞ MẮT'; BÊN PHẢI hình bóng đen một chú chim non sơ sinh đỏ hỏn toát ra luồng khí lạnh lùng rợn người. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene03", "at": "Trứng của Tu Hú",
+  "layout": "Sơ đồ thời gian ấp trứng: quả trứng Tu Hú nứt vỏ nở trước 24-48 giờ; bên cạnh là những quả trứng chim chủ nhà vẫn còn nằm im lìm chưa kịp cựa quậy. {NO_HERO}.",
+  "stickers": [{"at": "24 giờ", "side": "L", "y": 380, "value": "NỞ SỚM", "label": "ĐẶC QUYỀN TIẾN HÓA", "target": [0.28, 0.45]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene03", "at": "Khi chui ra khỏi",
+  "layout": "Cận cảnh {HERO_CHICK} nằm trên một chiếc cân tiểu ly điện tử hiển thị con số vỏn vẹn 2g; cơ thể đỏ hỏn không cọng lông, mắt nhắm nghiền như hạt đỗ.",
+  "stickers": [{"at": "2g", "side": "R", "y": 420, "value": "NẶNG 2G", "label": "ĐỎ HỎN KHÔNG LÔNG", "target": [0.72, 0.5]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene03", "at": "Trên lưng của quái",
+  "layout": "Phóng to cận cảnh chiếc lưng của {HERO_CHICK}: một vết lõm bẩm sinh hình chiếc thìa sâu hoắm, các dây thần kinh xung quanh phát sáng màu xanh neon nhạy cảm.",
+  "stickers": [{"at": "vết lõm bẩm sinh", "side": "R", "y": 390, "value": "LƯNG LÕM", "label": "VŨ KHÍ BẨM SINH", "target": [0.7, 0.45]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene03", "at": "Chú chim non đỏ",
+  "layout": "{HERO_CHICK} lùi lũi đi lùi từng bước trong tổ, hai cánh cụt ngủn ôm ghì lấy một quả trứng chim chủ to bằng cả người nó, đặt quả trứng lọt thỏm vào chiếc lưng lõm.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene03", "at": "Nó bước lùi từng",
+  "layout": "{HERO_CHICK} dùng hai chân non nớt quắp chặt thành tổ, gồng mình đẩy quả trứng leo dần lên mép tổ; những giọt mồ hôi hoạt hình văng ra vì gắng sức.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene03", "at": "rơi thẳng từ trên",
+  "layout": "Khoảnh khắc kịch tính: {HERO_CHICK} ưỡn mạnh lưng hất tung quả trứng chim chủ văng qua mép tổ; quả trứng rơi tự do theo đường parabol xuống vực thẳm.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene03", "at": "Trời ơi",
+  "layout": "BÊN TRÁI cô {HOST_BIRD} đậu trên mép tổ ôm đầu khóc ròng ròng nước mắt tuôn như mưa; BÊN PHẢI {HERO_CHICK} nằm phơi bụng giữa tổ thở phì phò ung dung.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene03", "at": "Tiếng khóc xé lòng",
+  "layout": "Bi kịch tổ chim: toàn bộ 3 quả trứng của chủ nhà đã bị hất sạch xuống đất; trong tổ chỉ còn lại duy nhất một mình {HERO_CHICK} độc chiếm toàn bộ chiếc tổ.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene03", "at": "suốt 2-3 ngày", "id": "L62",
+  "layout": "Chú chim non {HERO_CHICK} một mình nằm thảnh thơi chiếm trọn chiếc tổ êm ấm; xung quanh là vương miện nhỏ tượng trưng cho vị vua độc tôn của chiếc tổ.",
+  "stickers": [{"at": "2-3 ngày", "side": "L", "y": 420, "value": "2-3 NGÀY", "label": "HẤT SẠCH CẢ TỔ", "target": [0.28, 0.52]}],
+  "impacts": []
+ },
+
+ # --- SCENE 04: BẰNG CHỨNG #3 ---
+ {
+  "scene": "scene04", "at": 0,
+  "layout": "BÊN TRÁI tấm biển lớn ghi 'BẰNG CHỨNG SỐ 3: CON NUÔI KHỔNG LỒ & SIÊU KÍCH THÍCH'; BÊN PHẢI chiếc gương phản chiếu đứa con nuôi to đùng ngã ngửa. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene04", "at": "Chỉ sau 2 tuần",
+  "layout": "Tốc độ lớn kinh ngạc: sau 2 tuần, {HERO_BIG} béo múp míp lông xù màu nâu xám, chiếc tổ nhỏ xíu bị nén bẹp dúm dưới thân hình hộ pháp của nó.",
+  "stickers": [{"at": "gấp 10 lần", "side": "R", "y": 380, "value": "LỚN GẤP 10", "label": "SAU 2 TUẦN BÓN MỒI", "target": [0.75, 0.45]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene04", "at": "Đến tuần thứ 3,",
+  "layout": "Nghịch lý kích thước: BÊN TRÁI {HOST_BIRD} nhỏ xíu như hạt tiêu; BÊN PHẢI {HERO_BIG} to khổng lồ gấp 3 lần chim bố mẹ, ngồi chễm chệ chiếm trọn màn hình.",
+  "stickers": [{"at": "gấp 3 lần", "side": "R", "y": 420, "value": "GẤP 3 LẦN", "label": "NGHỊCH LÝ CON NUÔI", "target": [0.72, 0.5]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene04", "at": "Tôi phản đối",
+  "layout": "Tại tòa án: {HERO_BIG} đứng trên bục nhân chứng giơ hai cánh lên cãi cùn; bồi thẩm đoàn xung quanh ai nấy ôm bụng cười nghiêng ngả.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene04", "at": "Các nhà sinh học",
+  "layout": "Cận cảnh hiện tượng Siêu Kích Thích: {HERO_BIG} há ngoác chiếc miệng to đùng, vòm họng đỏ rực như đèn pha ô tô viền vàng sáng chói chiếu thẳng vào mắt chim bố mẹ.",
+  "stickers": [{"at": "Siêu Kích Thích", "side": "R", "y": 380, "value": "KÍCH THÍCH", "label": "HỌNG ĐỎ THÔI MIÊN", "target": [0.75, 0.45]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene04", "at": "Vòm họng đỏ rực", "id": "L63",
+  "layout": "Tia sóng thị giác màu đỏ và vàng phóng ra từ vòm họng {HERO_BIG} làm hai mắt của đôi chim bố mẹ xoay tròn như bị thôi miên mê mẩn.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene04", "at": "Chưa hết, tiếng kêu",
+  "layout": "So sánh âm thanh: BÊN TRÁI sóng âm thanh của 1 con {HERO_BIG} gào thét; BÊN PHẢI bằng tổng sóng âm thanh của 4 con chim non chủ nhà cộng lại cùng lúc.",
+  "stickers": [{"at": "bốn con", "side": "L", "y": 410, "value": "BẰNG 4 CON", "label": "TIẾNG GÀO THÔI MIÊN", "target": [0.28, 0.5]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene04", "at": "bị tra tấn màng nhĩ",
+  "layout": "Cảnh tượng còng lưng phục vụ: {HOST_BIRD} mệt lử bay đi tha sâu bọ liên tục suốt 14 tiếng; mồ hôi chảy ròng ròng quanh chiếc tổ.",
+  "stickers": [{"at": "14 tiếng", "side": "L", "y": 380, "value": "14 TIẾNG", "label": "BÓN MỒI KIỆT SỨC", "target": [0.25, 0.45]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene04", "at": "Thậm chí chim mẹ", "id": "L64",
+  "layout": "Cảnh tượng bi hài: cô chim mẹ nhỏ xíu phải đậu hẳn lên đỉnh đầu con Tu Hú khổng lồ {HERO_BIG} để cúi xuống nhét con sâu béo múp vào mỏ nó.",
+  "stickers": [], "impacts": []
+ },
+
+ # --- SCENE 05: BẰNG CHỨNG #4 ---
+ {
+  "scene": "scene05", "at": 0,
+  "layout": "BÊN TRÁI tấm biển ghi 'BẰNG CHỨNG SỐ 4: CHIẾN THUẬT MAFIA RỪNG RẬM'; BÊN PHẢI hình chiếc mũ phớt đen mafia và chiếc kính râm đặt cạnh tổ chim. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene05", "at": "Nhiều loài chim chủ",
+  "layout": "BÊN TRÁI một chú chim chủ mắt đeo kính lúp phát hiện quả trứng lạ và dùng mỏ hất văng quả trứng Tu Hú ra khỏi tổ thành công. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene05", "at": "Năm 2007, hai nhà",
+  "layout": "Bìa tạp chí khoa học PNAS năm 2007: hai nhà khoa học Hoover và Robinson đang quan sát qua ống nhòm; phía xa chim Tu Hú mẹ đang đậu rình rập trên cành cây theo dõi chiếc tổ.",
+  "stickers": [{"at": "Hoover và Robinson", "side": "L", "y": 400, "value": "HOOVER 07", "label": "NGHIÊN CỨU 2007 PNAS", "target": [0.28, 0.5]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene05", "at": "Hóa ra, sau khi", "id": "L65",
+  "layout": "Cận cảnh chim Tu Hú mẹ nấp sau chùm lá rậm rạp, mắt đỏ rực nhìn chăm chú xuống chiếc tổ chim chích như trùm mafia đang giám sát mục tiêu.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene05", "at": "Nếu chim chủ nhà",
+  "layout": "So sánh hai số phận: BÊN TRÁI chiếc tổ cam chịu ấp hộ được an toàn yên ấm; BÊN PHẢI chim Tu Hú mẹ lao xuống mổ nát trứng và giật sập tổ của kẻ dám phản kháng.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene05", "at": "Nó mổ nát toàn", "id": "L66",
+  "layout": "Cảnh tượng hung bạo: chim Tu Hú mẹ đập cánh điên cuồng, dùng mỏ nhọn mổ nát trứng chim chủ và hất tung cành rơm giật sập tan tành chiếc tổ.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene05", "at": "Các số liệu nghiên",
+  "layout": "Biểu đồ cột tỷ lệ bị phá tổ: CỘT ĐỎ 56% tổ dám vứt trứng bị đập phá tan hoang; CỘT XANH dưới 10% tổ cam chịu ấp hộ bị tấn công. {NO_HERO}.",
+  "stickers": [
+   {"at": "56%", "side": "L", "y": 370, "value": "56% BỊ PHÁ", "label": "NẾU VỨT BỎ TRỨNG", "target": [0.28, 0.45]},
+   {"at": "dưới 10%", "side": "R", "y": 420, "value": "DƯỚI 10%", "label": "NẾU CHỊU ẤP HỘ", "target": [0.72, 0.52]}
+  ],
+  "impacts": []
+ },
+ {
+  "scene": "scene05", "at": "Đây chính là chiến",
+  "layout": "Hình minh họa hài hước: chim Tu Hú mẹ khoác áo măng-tô đen, đeo kính râm chìa bản hợp đồng bảo kê 'NUÔI CON TAO HOẶC MẤT TỔ' trước mặt đôi chim chích run rẩy.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene05", "at": "Đối mặt với họng", "id": "L67",
+  "layout": "Đôi chim chích ngậm đắng nuốt cay đứng canh tổ với vẻ mặt cam chịu, bên trên là bóng lưng chim Tu Hú mẹ đậu lù lù bảo kê đe dọa. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+
+ # --- SCENE 06: PHÁN QUYẾT & BÓNG ĐEN ---
+ {
+  "scene": "scene06", "at": 0,
+  "layout": "Tại tòa án: không khí im lặng căng thẳng; luật sư bào chữa bước lên bục giơ tập hồ sơ mới trước mặt {JUDGE} và hội đồng bồi thẩm đoàn. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene06", "at": "Xin các bác tòa",
+  "layout": "BÊN TRÁI bác nông dân đội nón lá đứng trước bục nhân chứng chắp tay xin tòa nương tay; BÊN PHẢI một cánh đồng lúa xanh tốt không một bóng sâu hại. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene06", "at": "Trong thế giới loài",
+  "layout": "Cận cảnh loài sâu róm độc: những con sâu róm đầy gai nhọn lông ngứa gớm ghiếc bò lổm ngổm trên cành lá, các loài chim khác nhìn thấy đều khiếp vía bay xa. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene06", "at": "Nhưng chim Tu Hú",
+  "layout": "BÊN TRÁI {HERO} đang thong thả nuốt chửng từng con sâu róm độc ngon lành; BÊN PHẢI hình vẽ dạ dày đặc biệt của Tu Hú có lớp niêm mạc tự bong tróc đẩy đống lông độc ra ngoài an toàn.",
+  "stickers": [{"at": "Dạ dày", "side": "R", "y": 400, "value": "DẠ DÀY", "label": "ĐÀO THẢI LÔNG ĐỘC", "target": [0.72, 0.5]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene06", "at": "Chính vì được giải",
+  "layout": "Bức tranh toàn cảnh hệ sinh thái: chim Tu Hú bay lượn bảo vệ cánh rừng xanh ngát khỏi đại dịch sâu bọ; bên dưới các loài chim chủ tiến hóa đôi mắt tinh tường hơn qua các thế hệ.",
+  "stickers": [{"at": "100%", "side": "L", "y": 380, "value": "100% DIỆT", "label": "DIỆT SÂU BẢO VỆ RỪNG", "target": [0.28, 0.45]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene06", "at": "Đồng thời, sự lừa", "id": "L68",
+  "layout": "Cuộc chạy đua vũ trang tiến hóa: một bên chim Tu Hú cầm bảng vẽ hoa văn trứng giả mạo ngày càng tinh xảo, một bên chim chủ nhà đeo kính viễn vọng soi xét ngày càng tinh tường.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene06", "at": "Tòa tuyên án: Bị",
+  "layout": "{JUDGE} gõ búa dứt khoát mỉm cười; {HERO} mừng rỡ vỗ cánh thở phào nhẹ nhõm; cả tòa án vỗ tay rộn rã trước phán quyết công bằng.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene06", "at": "Vụ án thế kỷ",
+  "layout": "Khung cảnh phiên tòa mờ dần về sau; ánh đèn sân khấu tập trung vào một chiếc màn hình chiếu lớn ở chính giữa sân khấu mang màu sắc bí ẩn kịch tính. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene06", "at": "Nhưng ngay lúc này,",
+  "layout": "Chiếc màn hình lớn bật sáng với hào quang màu vàng hổ phách huyền ảo: Ở GIỮA là BÓNG ĐEN BÍ ẨN (solid black silhouette) hình dáng một loài động vật gặm nhấm to tròn mũm mĩm kèm một dấu hỏi chấm '?' khổng lồ. {NO_HERO}.",
+  "stickers": [{"at": "BÓNG ĐEN BÍ ẨN", "side": "R", "y": 360, "value": "BÓNG ĐEN", "label": "BẬT MÍ QUÁI KIỆT", "target": [0.75, 0.42]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene06", "at": "Xin gửi tới quý",
+  "layout": "Manh mối số 1: BÓNG ĐEN BÍ ẨN đang nằm thảnh thơi nhắm mắt ngủ ngon lành ngay giữa bầy cá sấu ăn thịt khổng lồ đang há miệng mà không con nào thèm cắn. {NO_HERO}.",
+  "stickers": [{"at": "Thứ nhất", "side": "L", "y": 390, "value": "MANH MỐI 1", "label": "BỘ TRƯỞNG NGOẠI GIAO", "target": [0.25, 0.48]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene06", "at": "Thứ hai, đây là",
+  "layout": "Manh mối số 2: BÓNG ĐEN BÍ ẨN đứng trên bàn cân hiển thị 65kg, đang bơi lặn thong thả dưới đáy sông với đôi chân màng và đồng hồ đếm nín thở 5 phút. {NO_HERO}.",
+  "stickers": [
+   {"at": "65kg", "side": "R", "y": 370, "value": "65KG", "label": "GẶM NHẤM KHỔNG LỒ", "target": [0.75, 0.45]},
+   {"at": "5 phút", "side": "R", "y": 470, "value": "NÍN THỞ 5P", "label": "BƠI LẶN SIÊU ĐẲNG", "target": [0.75, 0.58]}
+  ],
+  "impacts": []
+ },
+ {
+  "scene": "scene06", "at": "Và thứ 3, một",
+  "layout": "Manh mối số 3: BÓNG ĐEN BÍ ẨN với biểu cảm 'tĩnh tâm khó đỡ' bên tách trà sáng sớm, góc dưới một chi tiết hài hước tái hấp thu dinh dưỡng để sinh tồn. {NO_HERO}.",
+  "stickers": [{"at": "thứ 3", "side": "L", "y": 400, "value": "MANH MỐI 3", "label": "NGHỊCH LÝ BUỔI SÁNG", "target": [0.25, 0.5]}],
+  "impacts": []
+ },
+ {
+  "scene": "scene06", "at": "có nhận ra bóng đen",
+  "layout": "BÓNG ĐEN BÍ ẨN to lớn đứng giữa màn hình với dấu hỏi chấm '?' nhấp nháy phát sáng; xung quanh là các bong bóng bình luận '? ? ?' kêu gọi khán giả trổ tài dự đoán. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ },
+ {
+  "scene": "scene06", "at": "Phóng viên phiên tòa",
+  "layout": "BÊN TRÁI thẩm phán và các nhân vật chim vẫy cánh chào tạm biệt; BÊN PHẢI tấm biển gỗ đề chữ 'HẸN GẶP LẠI Ở TẬP 15 VỚI VỊ BỘ TRƯỞNG NGOẠI GIAO!'. {NO_HERO}.",
+  "stickers": [], "impacts": []
+ }
+]
+
+# 13 Shorts beats (complete story, TASTE-66)
+shorts_beats = [
+ {
+  "at": 0,
+  "layout": "KHUNG HÌNH DỌC 9:16: {JUDGE} gõ mạnh búa gỗ xuống bàn tòa án uy nghiêm, dòng chữ lớn 'BỊ CÁO, MỜI ĐỨNG LÊN!' xuất hiện nổi bật phía trên.",
+  "stickers": []
+ },
+ {
+  "at": "Một loài chim không",
+  "layout": "KHUNG HÌNH DỌC 9:16: {HERO} đứng trên cành cây với nụ cười bí hiểm, xung quanh là những chiếc tổ chim trống trơn không ấp trứng.",
+  "stickers": []
+ },
+ {
+  "at": "nhưng lại sở hữu", "id": "S12",
+  "layout": "KHUNG HÌNH DỌC 9:16: Cận cảnh chú chim Tu Hú non sơ sinh toát ra ánh hào quang sát thủ sắc bén ngay khi vừa phá vỏ trứng.",
+  "stickers": []
+ },
+ {
+  "at": "Đó chính là Chim",
+  "layout": "KHUNG HÌNH DỌC 9:16: Chân dung {HERO} lông đốm hoa râm xám tro, mắt đỏ rực rỡ, đeo nơ tím than, bên cạnh là tấm lệnh truy nã 'SIÊU TRỘM TỔ ẤM'.",
+  "stickers": []
+ },
+ {
+  "at": "Chim mẹ chỉ mất",
+  "layout": "KHUNG HÌNH DỌC 9:16: Chim Tu Hú mẹ sà xuống tổ chim chích, một đồng hồ bấm giờ đếm ngược 10 giây phát sáng chớp nhoáng.",
+  "stickers": [{"at": "10 giây", "side": "L", "y": 620, "value": "10 GIÂY", "label": "CƯỚP VÀ ĐẺ TRỨNG", "target": [0.5, 0.45]}]
+ },
+ {
+  "at": "và đẻ thay vào",
+  "layout": "KHUNG HÌNH DỌC 9:16: So sánh hai quả trứng đặt cạnh nhau trong tổ, hoa văn đốm nâu giống nhau 99% đến mắt thường không phân biệt nổi.",
+  "stickers": [{"at": "99%", "side": "R", "y": 640, "value": "GIỐNG 99%", "label": "HOA VĂN GIẢ MẠO", "target": [0.55, 0.48]}]
+ },
+ {
+  "at": "Đáng sợ hơn cả,",
+  "layout": "KHUNG HÌNH DỌC 9:16: {HERO_CHICK} sơ sinh đỏ hỏn nặng 2g nằm trong tổ, mắt nhắm nghiền nhưng toát ra luồng khí sát thủ rùng mình.",
+  "stickers": [{"at": "2g", "side": "L", "y": 620, "value": "NẶNG 2G", "label": "MÙ MẮT KHÔNG LÔNG", "target": [0.5, 0.45]}]
+ },
+ {
+  "at": "nhưng đã dùng chiếc",
+  "layout": "KHUNG HÌNH DỌC 9:16: Cận cảnh chiếc lưng lõm hình thìa của {HERO_CHICK} đang cõng một quả trứng chim chủ to đùng leo lên thành tổ.",
+  "stickers": [{"at": "lưng lõm", "side": "R", "y": 660, "value": "LƯNG LÕM", "label": "BẢN NĂNG SÁT THỦ", "target": [0.55, 0.5]}]
+ },
+ {
+  "at": "hất tung toàn bộ",
+  "layout": "KHUNG HÌNH DỌC 9:16: {HERO_CHICK} ưỡn lưng hất văng quả trứng chim chủ rơi tự do xuống dưới vực vỡ tan tành thành từng mảnh.",
+  "stickers": []
+ },
+ {
+  "at": "Để rồi sau đó,",
+  "layout": "KHUNG HÌNH DỌC 9:16: {HERO_BIG} khổng lồ lông xù to gấp 3 lần chim bố mẹ, ngồi chật ních làm tổ chim muốn gãy đôi.",
+  "stickers": [{"at": "gấp 3 lần", "side": "L", "y": 640, "value": "GẤP 3 LẦN", "label": "CON NUÔI KHỔNG LỒ", "target": [0.5, 0.48]}]
+ },
+ {
+  "at": "há to chiếc miệng",
+  "layout": "KHUNG HÌNH DỌC 9:16: {HERO_BIG} há ngoác chiếc miệng đỏ rực viền vàng như hố ga; chim mẹ nhỏ xíu đậu trên đầu sợ hãi nhét mồi vào.",
+  "stickers": [{"at": "hố ga", "side": "R", "y": 650, "value": "HỌNG ĐỎ", "label": "THÔI MIÊN BỐ MẸ", "target": [0.55, 0.5]}]
+ },
+ {
+  "at": "Vậy là vụ án",
+  "layout": "KHUNG HÌNH DỌC 9:16: {HERO} đứng kiêu hãnh trên cành cây cổ thụ giữa rừng già xanh ngát, nhìn về phía chân trời xa xôi suy tư.",
+  "stickers": []
+ },
+ {
+  "at": "nhưng là cách sinh tồn", "id": "S13",
+  "layout": "KHUNG HÌNH DỌC 9:16: Toàn cảnh rừng già rạng ngời ánh bình minh, muôn loài chim cùng chung sống hòa hợp khép lại câu chuyện trọn vẹn.",
+  "stickers": []
+ }
+]
+
+storyboard = {
+ "_doc": "Storyboard for Episode 14 Chim Tu Hu",
+ "characters": chars,
+ "side_characters": [],
+ "shorts_title_lines": ["SÁT THỦ 10 GIÂY?!", "BẢN NĂNG KINH HOÀNG"],
+ "skip_numbers": [],
+ "long": long_beats,
+ "shorts": shorts_beats
+}
+
+with open("projects/tap-14-chim-tu-hu/specs/storyboard.json", "w", encoding="utf8") as f:
+    json.dump(storyboard, f, ensure_ascii=False, indent=1)
+
+print(f"storyboard.json generated: {len(long_beats)} long beats, {len(shorts_beats)} shorts beats.")

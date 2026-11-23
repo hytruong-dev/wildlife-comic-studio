@@ -1,0 +1,468 @@
+{
+ "episode": "tap-11-gau-truc-lon",
+ "title_lines": [
+  "RUỘT ĂN THỊT NHƯNG",
+  "NHAI TRE 14 TIẾNG?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 46.03,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-11-gau-truc-lon_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  8.63,
+  13.13,
+  18.19,
+  23.35,
+  26.87,
+  29.41,
+  34.41,
+  38.67,
+  41.33,
+  44.01
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "t": 6.08,
+     "side": "R",
+     "y": 600,
+     "value": "14 TIẾNG",
+     "label": "nhai tre mỗi ngày",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 0.74,
+     "text": "6 giờ sáng"
+    },
+    {
+     "t": 1.32,
+     "text": "ở rừng tre"
+    },
+    {
+     "t": 1.84,
+     "text": "Tứ Xuyên,"
+    },
+    {
+     "t": 2.62,
+     "text": "một con gấu"
+    },
+    {
+     "t": 3.06,
+     "text": "mang bộ ruột"
+    },
+    {
+     "t": 3.64,
+     "text": "của thú ăn"
+    },
+    {
+     "t": 4.18,
+     "text": "thịt lại bắt"
+    },
+    {
+     "t": 4.72,
+     "text": "đầu ca nhai"
+    },
+    {
+     "t": 5.3,
+     "text": "tre kéo dài"
+    },
+    {
+     "t": 6.08,
+     "text": "14 tiếng!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 6.83,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S13.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 7.08,
+     "text": "Đó là Gấu"
+    },
+    {
+     "t": 7.58,
+     "text": "Trúc Lớn,"
+    },
+    {
+     "t": 8.24,
+     "text": "họ hàng của"
+    },
+    {
+     "t": 8.64,
+     "text": "gấu xám,"
+    },
+    {
+     "t": 9.06,
+     "text": "nặng cả tạ,"
+    },
+    {
+     "t": 10.04,
+     "text": "chỉ sống ở"
+    },
+    {
+     "t": 10.5,
+     "text": "vùng núi Trung Quốc."
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 11.33,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [
+    {
+     "t": 11.58,
+     "side": "L",
+     "y": 650,
+     "value": "2 TR NĂM",
+     "label": "đổi sang ăn tre",
+     "target": [
+      0.4,
+      0.45
+     ]
+    },
+    {
+     "t": 15.66,
+     "side": "R",
+     "y": 900,
+     "value": "99%",
+     "label": "khẩu phần là tre",
+     "target": [
+      0.6,
+      0.6
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 11.58,
+     "text": "2 triệu năm"
+    },
+    {
+     "t": 12.02,
+     "text": "trước, tổ tiên"
+    },
+    {
+     "t": 13.22,
+     "text": "nó mất vị"
+    },
+    {
+     "t": 13.68,
+     "text": "giác với thịt"
+    },
+    {
+     "t": 14.44,
+     "text": "nên chuyển hẳn"
+    },
+    {
+     "t": 15.12,
+     "text": "sang ăn tre 99%!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 16.39,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 20.32,
+     "side": "R",
+     "y": 580,
+     "value": "17%",
+     "label": "hấp thụ ít ỏi",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 16.64,
+     "text": "Nhưng ruột ngắn"
+    },
+    {
+     "t": 18.9,
+     "text": "của thú ăn"
+    },
+    {
+     "t": 19.4,
+     "text": "thịt chỉ hấp"
+    },
+    {
+     "t": 19.94,
+     "text": "thụ được 17%"
+    },
+    {
+     "t": 20.96,
+     "text": "dinh dưỡng,"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 21.55,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S14.png",
+   "stickers": [
+    {
+     "t": 23.1,
+     "side": "L",
+     "y": 600,
+     "value": "38 KG",
+     "label": "tre mỗi ngày",
+     "target": [
+      0.45,
+      0.4
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 21.8,
+     "text": "nên mỗi ngày"
+    },
+    {
+     "t": 22.48,
+     "text": "nó phải nạp"
+    },
+    {
+     "t": 23.0,
+     "text": "tới 38kg tre."
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 25.07,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 26.6,
+     "side": "R",
+     "y": 820,
+     "value": "40 LẦN",
+     "label": "vệ sinh/ngày",
+     "target": [
+      0.65,
+      0.65
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 25.32,
+     "text": "Hậu quả là"
+    },
+    {
+     "t": 25.78,
+     "text": "đi vệ sinh"
+    },
+    {
+     "t": 26.28,
+     "text": "kỷ lục 40"
+    },
+    {
+     "t": 26.84,
+     "text": "lần một ngày!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 27.61,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 30.78,
+     "side": "L",
+     "y": 650,
+     "value": "NGÓN THỨ 6",
+     "label": "ngón cái giả",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 27.86,
+     "text": "Để bóc vỏ"
+    },
+    {
+     "t": 28.46,
+     "text": "tre, xương cổ"
+    },
+    {
+     "t": 29.26,
+     "text": "tay của nó"
+    },
+    {
+     "t": 29.68,
+     "text": "phình to thành"
+    },
+    {
+     "t": 30.28,
+     "text": "ngón tay cái"
+    },
+    {
+     "t": 30.78,
+     "text": "thứ 6,"
+    },
+    {
+     "t": 31.18,
+     "text": "kẹp tre chắc"
+    },
+    {
+     "t": 31.9,
+     "text": "như gọng kìm."
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 32.61,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S15.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 32.86,
+     "text": "Ăn ít năng"
+    },
+    {
+     "t": 33.46,
+     "text": "lượng thì phải"
+    },
+    {
+     "t": 34.0,
+     "text": "tiết kiệm:"
+    },
+    {
+     "t": 34.72,
+     "text": "nó lười di"
+    },
+    {
+     "t": 35.24,
+     "text": "chuyển, ngủ ngay"
+    },
+    {
+     "t": 36.18,
+     "text": "trên cây,"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 36.87,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 37.12,
+     "text": "ngã xuống thì"
+    },
+    {
+     "t": 37.84,
+     "text": "cuộn tròn lăn"
+    },
+    {
+     "t": 38.48,
+     "text": "lông lốc rồi"
+    },
+    {
+     "t": 39.0,
+     "text": "ăn tiếp."
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 39.53,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S17.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 39.78,
+     "text": "Vậy là bí"
+    },
+    {
+     "t": 40.32,
+     "text": "mật đã rõ:"
+    },
+    {
+     "t": 41.16,
+     "text": "không phải gấu"
+    },
+    {
+     "t": 41.76,
+     "text": "trúc lười,"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 42.21,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S16.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 42.46,
+     "text": "mà nó đang"
+    },
+    {
+     "t": 42.76,
+     "text": "sống đúng chế"
+    },
+    {
+     "t": 43.4,
+     "text": "độ tiết kiệm"
+    },
+    {
+     "t": 43.94,
+     "text": "pin của một"
+    },
+    {
+     "t": 44.42,
+     "text": "kẻ ăn chay"
+    },
+    {
+     "t": 45.1,
+     "text": "mang ruột ăn thịt!"
+    }
+   ]
+  }
+ ]
+}

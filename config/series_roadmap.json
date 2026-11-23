@@ -1,0 +1,650 @@
+{
+ "_doc": "Lộ trình format kể chuyện + persona giọng cho từng tập. Nguồn: docs/strategy/CAM_NANG_7_FORMAT_KE_CHUYEN_GOC.md (đã sửa: Tập 8 thực tế = Chồn Gulo nên Koala dời sang Tập 10; tách 2 tập F2 liền nhau; Kakapo đổi F4). pipeline.py check đọc file này. Tập 1-8 đã đăng theo khung cũ 6 chương + RPG (LEGACY_6CH) => Tập 9 bắt đầu xoay vòng format; Đại Hội Sinh Tồn thành Tập 61.",
+ "episodes": [
+  {
+   "ep": 1,
+   "animal": "Lửng Mật",
+   "format": "LEGACY_6CH",
+   "persona": "legacy_hao_hung",
+   "status": "published"
+  },
+  {
+   "ep": 2,
+   "animal": "Rái Cá Biển",
+   "format": "LEGACY_6CH",
+   "persona": "legacy_hao_hung",
+   "status": "published"
+  },
+  {
+   "ep": 3,
+   "animal": "Cá Heo",
+   "format": "LEGACY_6CH",
+   "persona": "legacy_hao_hung",
+   "status": "published"
+  },
+  {
+   "ep": 4,
+   "animal": "Thú Mỏ Vịt",
+   "format": "LEGACY_6CH",
+   "persona": "legacy_hao_hung",
+   "status": "published"
+  },
+  {
+   "ep": 5,
+   "animal": "Chim Bồ Nông",
+   "format": "LEGACY_6CH",
+   "persona": "legacy_hao_hung",
+   "status": "published"
+  },
+  {
+   "ep": 6,
+   "animal": "Gấu Nước",
+   "format": "LEGACY_6CH",
+   "persona": "legacy_hao_hung",
+   "status": "published"
+  },
+  {
+   "ep": 7,
+   "animal": "Tôm Tít",
+   "format": "LEGACY_6CH",
+   "persona": "legacy_hao_hung",
+   "status": "published"
+  },
+  {
+   "ep": 8,
+   "animal": "Chồn Gulo",
+   "format": "LEGACY_6CH",
+   "persona": "legacy_hao_hung",
+   "status": "published"
+  },
+  {
+   "ep": 9,
+   "animal": "Chim Cánh Cụt",
+   "format": "F3",
+   "persona": "phien_toa",
+   "angle": "Phiên tòa 4 bằng chứng: Trộm sỏi xây tổ, đẩy bạn xuống nước dò hải cẩu báo, bắn phân áp lực cao.",
+   "shorts": "Màn \"đẩy bạn xuống nước dò mìn\" vô tình nhất thế giới động vật ở Nam Cực!",
+   "status": "published"
+  },
+  {
+   "ep": 10,
+   "animal": "Gấu Koala",
+   "format": "F1",
+   "persona": "bac_si",
+   "angle": "4 Hạng mục khám: Thí nghiệm đĩa lá, X-quang não phẳng lì $40\\%$ nước, ruột thừa $2\\text{m}$ ăn cháo phân, vân tay người.",
+   "shorts": "Bày sẵn đĩa lá trước mặt nhưng Koala thà nhịn đói vì... não không nhận ra!",
+   "status": "published"
+  },
+  {
+   "ep": 11,
+   "animal": "Gấu Trúc Lớn",
+   "format": "F4",
+   "persona": "phong_vien_24h",
+   "angle": "Đồng hồ 24h: `06:00` Nhai tre bằng ruột thú ăn thịt $\\rightarrow$ `14:00` Đi vệ sinh 40 lần $\\rightarrow$ `18:00` Ngã cây lăn lộn.",
+   "shorts": "Tại sao Gấu Trúc mang bộ ruột ăn thịt nhưng lại ngồi nhai tre 14 tiếng/ngày?",
+   "status": "published"
+  },
+  {
+   "ep": 12,
+   "animal": "Hà Mã",
+   "format": "F7",
+   "persona": "binh_luan_vien",
+   "angle": "Cỗ xe tăng Châu Phi: Lực cắn $1.800\\text{ PSI}$, chạy bộ dưới đáy sông vì không biết bơi, mồ hôi kem chống nắng đỏ.",
+   "shorts": "Sự thật gây sốc: Hà Mã hoàn toàn không biết bơi dưới nước!",
+   "status": "published"
+  },
+  {
+   "ep": 13,
+   "animal": "Con Lười",
+   "format": "F4",
+   "persona": "phong_vien_24h",
+   "angle": "Hành trình xuống đất đi vệ sinh 1 tuần/lần: Tốc độ $0.2\\text{ km/h}$, hệ sinh thái bướm trên lưng, mất $1/3$ cân nặng.",
+   "shorts": "Tại sao hơn một nửa số cái chết của loài Lười đều xảy ra đúng lúc đi vệ sinh?",
+   "status": "scheduled",
+   "youtube_id": "2WQRFsxDuVc",
+   "shorts_id": "a2sc51h6sbs"
+  },
+  {
+   "ep": 14,
+   "animal": "Chim Tu Hú",
+   "format": "F3",
+   "persona": "phien_toa",
+   "angle": "Hồ sơ tội phạm lừa đảo: Đẻ trứng giả mạo trong $10\\text{ giây}$, sát thủ chưa mở mắt đẩy hết trứng chủ nhà khỏi tổ.",
+   "shorts": "Bản năng sát thủ của chim Tu Hú non ngay giây phút đầu tiên chui khỏi vỏ trứng!",
+   "status": "scheduled",
+   "youtube_id": "1Nw5IMioe84",
+   "shorts_id": "rYQNF_JiQ5U"
+  },
+  {
+   "ep": 15,
+   "animal": "Capybara",
+   "format": "F6",
+   "persona": "ong_trum",
+   "angle": "Hồ sơ Bộ trưởng Ngoại giao: Tại sao cá sấu cũng nằm cạnh, tuyến mùi hương thư giãn, thói quen ăn lại phân sáng sớm.",
+   "shorts": "Bí mật đằng sau vẻ mặt \"tĩnh tâm trước mọi biến cố\" của Capybara bên cá sấu.",
+   "status": "scheduled",
+   "youtube_id": "zmduiBy2GC0",
+   "shorts_id": "rcRu25R73ys"
+  },
+  {
+   "ep": 16,
+   "animal": "Tôm Súng",
+   "format": "F2",
+   "persona": "ky_su_vu_khi",
+   "angle": "Giải mã khẩu đại bác kẹp nước $218\\text{ dB}$ làm cá chết đứng từ xa, làm nhiễu sóng định vị tàu ngầm quân sự.",
+   "shorts": "Cú búng càng tạo ra ánh sáng và tiếng nổ làm điếc cả cảm biến tàu ngầm!",
+   "status": "scheduled",
+   "youtube_id": "9qwc5nupDYs",
+   "shorts_id": "xHDsFnZ1Bv4"
+  },
+  {
+   "ep": 17,
+   "animal": "Lươn Điện",
+   "format": "F5",
+   "persona": "nha_khoa_hoc",
+   "angle": "Thử nghiệm nguồn điện $860\\text{ Vôn}$: Bố trí 6.000 tế bào pin nối tiếp, cú nhảy dí cằm giật ngất cá sấu.",
+   "shorts": "Tại sao Lươn Điện phóng ra 860 Vôn giết cá sấu nhưng chính nó không bị giật?",
+   "status": "scheduled",
+   "youtube_id": "ubQ5nlwFwHY",
+   "shorts_id": "hJjnoVSTFpY"
+  },
+  {
+   "ep": 18,
+   "animal": "Bọ Pháo Thủ",
+   "format": "F2",
+   "persona": "ky_su_vu_khi",
+   "angle": "Sơ đồ 2 buồng trộn hóa chất nổ liên thanh $500\\text{ lần/giây}$ ở $100^\\circ\\text{C}$, thoát ra từ dạ dày cóc sau 1 tiếng bị nuốt.",
+   "shorts": "Bị cóc nuốt chửng vào bụng suốt 1 tiếng, con bọ này đã làm gì để thoát thân?",
+   "status": "scheduled",
+   "youtube_id": "m5tPGB8-Lqs",
+   "shorts_id": "y_1cEurMc7A"
+  },
+  {
+   "ep": 19,
+   "animal": "Thằn Lằn Quỷ Gai",
+   "format": "F4",
+   "persona": "phong_vien_24h",
+   "angle": "24h giữa sa mạc Úc: `05:00` Uống sương bằng bàn chân $\\rightarrow$ `12:00` Bật chiếc đầu giả $\\rightarrow$ `16:00` Bắn máu từ mắt.",
+   "shorts": "Tuyệt kỹ uống nước bằng da bàn chân và bắn tia máu độc thẳng từ khóe mắt!",
+   "status": "scheduled",
+   "youtube_id": "TOKARvgr_ps",
+   "shorts_id": "oMoDoCvuL2E"
+  },
+  {
+   "ep": 20,
+   "animal": "Cá Cung Thủ",
+   "format": "F2",
+   "persona": "ky_su_vu_khi",
+   "angle": "Giải mã thuật toán bắn tỉa: Tính độ lệch khúc xạ ánh sáng mặt nước, rãnh vòm miệng nén tia nước hạ mục tiêu cách $3\\text{m}$.",
+   "shorts": "Làm sao một con cá dưới nước giải được bài toán vật lý khúc xạ ánh sáng?",
+   "status": "scheduled",
+   "youtube_id": "uEOTKQcGiGQ",
+   "shorts_id": "Oerbka6J6so"
+  },
+  {
+   "ep": 21,
+   "animal": "Ếch Lông Wolverine",
+   "format": "F1",
+   "persona": "bac_si",
+   "angle": "Khám nghiệm cơ chế tự hủy điên rồ: Tự co cơ bẻ gãy xương ngón chân đâm thủng da thịt ra ngoài làm vuốt chiến đấu.",
+   "shorts": "Loài ếch tự bẻ gãy xương ngón tay đâm xuyên qua da để làm móng vuốt!",
+   "status": "planned"
+  },
+  {
+   "ep": 22,
+   "animal": "Kỳ Nhông Axolotl",
+   "format": "F5",
+   "persona": "nha_khoa_hoc",
+   "angle": "5 Cấp độ tái tạo: Mọc lại chân, mọc lại tủy sống, phục hồi $1/3$ trái tim và não bộ mà không để lại một vết sẹo.",
+   "shorts": "Chuyện gì xảy ra khi loài khủng long 6 sừng này bị mất một phần não bộ?",
+   "status": "planned"
+  },
+  {
+   "ep": 23,
+   "animal": "Hải Sâm",
+   "format": "F1",
+   "persona": "bac_si",
+   "angle": "Khám nghiệm cơ thể hóa lỏng và pha phòng thủ kinh dị: Bắn toàn bộ ruột gan qua đường hậu môn trói chặt kẻ thù.",
+   "shorts": "Khi bị dồn vào chân tường, Hải Sâm chọn cách bắn thẳng bộ ruột qua hậu môn!",
+   "status": "planned"
+  },
+  {
+   "ep": 24,
+   "animal": "Cá Mút Đá Hagfish",
+   "format": "F5",
+   "persona": "nha_khoa_hoc",
+   "angle": "Thử thách cỗ máy tạo đờm: Biến $20\\text{ lít}$ nước thành keo đặc trong $1\\text{ giây}$ làm cá mập nghẹt thở, tự thắt nút cơ thể.",
+   "shorts": "Vụ tai nạn xe tải làm đổ Cá Mút Đá biến cả đường cao tốc thành biển chất nhầy!",
+   "status": "planned"
+  },
+  {
+   "ep": 25,
+   "animal": "Bạch Tuộc Mimic",
+   "format": "F6",
+   "persona": "ong_trum",
+   "angle": "Hồ sơ điệp viên 9 bộ não, 3 trái tim, máu xanh lam và tuyệt kỹ hóa trang thành 15 loài sinh vật độc dưới biển.",
+   "shorts": "Khi gặp kẻ thù của rắn biển, Bạch Tuộc lập tức biến 2 xúc tu thành... rắn biển!",
+   "status": "planned"
+  },
+  {
+   "ep": 26,
+   "animal": "Gấu Túi Wombat",
+   "format": "F2",
+   "persona": "ky_su_vu_khi",
+   "angle": "Giải mã thiết kế \"Mông bọc thép\" ép nát hộp sọ chó hoang vào trần hang và dây chuyền đúc phân hình khối lập phương.",
+   "shorts": "Sinh vật duy nhất trên thế giới đi vệ sinh ra những viên phân hình vuông vức!",
+   "status": "planned"
+  },
+  {
+   "ep": 27,
+   "animal": "Chuột Chũi Sao",
+   "format": "F4",
+   "persona": "phong_vien_24h",
+   "angle": "Cuộc đua tốc độ $0.12\\text{ giây}$: Chiếc mũi 22 xúc tu chạm 12 vị trí mỗi giây và kỹ năng thổi bong bóng ngửi mùi dưới nước.",
+   "shorts": "Chiếc mũi như quái vật ngoài hành tinh giúp nó ăn tối nhanh hơn cái chớp mắt!",
+   "status": "planned"
+  },
+  {
+   "ep": 28,
+   "animal": "Kiến Nổ Cảm Tử",
+   "format": "F6",
+   "persona": "ong_trum",
+   "angle": "Quân đoàn cảm tử: Kiến thợ tự co cơ bụng nổ tung cơ thể phun keo độc vàng khóa chặt kẻ thù để bảo vệ tổ.",
+   "shorts": "Những chiến binh kiến sẵn sàng tự kích nổ tung cơ thể mình như bom cảm tử!",
+   "status": "planned"
+  },
+  {
+   "ep": 29,
+   "animal": "Sứa Bất Tử",
+   "format": "F5",
+   "persona": "nha_khoa_hoc",
+   "angle": "Thử thách đảo ngược thời gian: Cơ chế biến đổi tế bào từ sứa già quay ngược trở lại thời kỳ ấu trùng sơ sinh.",
+   "shorts": "Một sinh vật già yếu bỗng nhiên tự biến ngược thành trẻ sơ sinh để sống lại từ đầu!",
+   "status": "planned"
+  },
+  {
+   "ep": 30,
+   "animal": "Hải Ly",
+   "format": "F4",
+   "persona": "phong_vien_24h",
+   "angle": "24h của Kỹ sư cuồng đập nước: Răng cửa bằng sắt màu cam, thí nghiệm đắp bùn kín chiếc loa phát tiếng nước chảy.",
+   "shorts": "Điều gì xảy ra khi đặt chiếc loa phát tiếng nước chảy trước mặt Hải Ly?",
+   "status": "planned"
+  },
+  {
+   "ep": 31,
+   "animal": "Chim Cắt Lớn",
+   "format": "F2",
+   "persona": "ky_su_vu_khi",
+   "angle": "Giải mã tên lửa $389\\text{ km/h}$: Nón giảm áp trong lỗ mũi chống nổ phổi và kính bảo hộ mí mắt thứ ba.",
+   "shorts": "Tại sao phổi Chim Cắt không bị nổ tung khi lao xuống với tốc độ gần 400 km/h?",
+   "status": "planned"
+  },
+  {
+   "ep": 32,
+   "animal": "Chuột Chũi Trũi",
+   "format": "F5",
+   "persona": "nha_khoa_hoc",
+   "angle": "5 Thử thách cực hạn: Không biết đau trước axit, không ung thư, hóa thành \"thực vật\" sống 18 phút không cần oxy.",
+   "shorts": "Bí mật giúp loài chuột xấu xí nhất hành tinh miễn nhiễm hoàn toàn với ung thư!",
+   "status": "planned",
+   "visual_style_theme": "Bio-Lab Fallout & Underground Schematic (Tranh phác thảo phòng thí nghiệm ngầm màu tím-xanh axit neon, lưới giải phẫu tế bào kết hợp hoạt hình châm biếm)",
+   "banner_theme": "Thẻ mẫu vật phòng thí nghiệm cấp 5 (Bio-Specimen Tag) gắn mã vạch, ống nghiệm sủi bọt xanh neon & thanh thép kháng axit",
+   "expression_style": "Giáo sư phòng lab điên rồ & hài hước đen (Dark Comedy Lab Log) — thử nghiệm 5 cấp độ cực hạn bất khả thi"
+  },
+  {
+   "ep": 33,
+   "animal": "Ếch Gỗ Bắc Cực",
+   "format": "F4",
+   "persona": "phong_vien_24h",
+   "angle": "Đồng hồ sinh học 4 mùa: Mùa đông tim ngừng đập hóa viên đá lạnh, gan bơm đường chống đông và màn rã đông mùa xuân.",
+   "shorts": "Trái tim ngừng đập hoàn toàn suốt 7 tháng mùa đông rồi tự rã đông nhảy đi!",
+   "status": "planned",
+   "visual_style_theme": "Cryo-Noir Graphic Novel & Frost Woodblock (Tranh truyện tranh sinh tồn Bắc Cực nét gai góc, tinh thể băng lam ngọc và cam nhiệt kế tương phản mạnh)",
+   "banner_theme": "Đồng hồ đếm ngược sinh tồn đóng băng vĩnh cửu, viền tảng băng nứt nẻ & nhiệt kế âm độ",
+   "expression_style": "Phóng viên chiến trường vùng cực nghẹt thở từng giây, đếm ngược thời gian đóng băng và rã đông kỳ diệu"
+  },
+  {
+   "ep": 34,
+   "animal": "Quạ Đen",
+   "format": "F3",
+   "persona": "phien_toa",
+   "angle": "Hồ sơ trí tuệ IQ ngang trẻ 7 tuổi: Nhờ xe ô tô cán hộ hạt cứng lúc đèn đỏ, nhớ mặt kẻ thù truyền lại cho đời con.",
+   "shorts": "Đừng bao giờ đắc tội với một con Quạ, vì nó sẽ tả mặt bạn cho cả đàn trả thù!",
+   "status": "planned",
+   "visual_style_theme": "Sherlock Noir & Vintage Newspaper Clipping (Phong cách hồ sơ trinh thám cổ điển thập niên 1920, nét mực cọ sắc sảo, chỉ đỏ nối manh mối & kính lúp)",
+   "banner_theme": "Hồ sơ mật kẹp ghim giấy kraft nâu, dán băng keo vàng-đen hiện trường & con dấu sáp đỏ",
+   "expression_style": "Thám tử điều tra hình sự & Công tố viên châm biếm lật tẩy siêu trí tuệ tội phạm học của loài quạ"
+  },
+  {
+   "ep": 35,
+   "animal": "Cá Voi Sát Thủ",
+   "format": "F6",
+   "persona": "ong_trum",
+   "angle": "Đế chế Mafia đại dương: Chiến thuật tạo sóng đồng bộ đánh rơi hải cẩu và ca phẫu thuật lấy gan Cá Mập Trắng.",
+   "shorts": "Tại sao Cá Mập Trắng lại bỏ chạy suốt cả năm chỉ vì thấy bóng Cá Voi Sát Thủ?",
+   "status": "planned",
+   "visual_style_theme": "Oceanic Syndicate & Nautical Tattoo Art (Phong cách băng đảng Mafia đại dương kết hợp tranh khắc cổ điển hàng hải, tông đen-trắng-đỏ ruby và vàng hoàng gia)",
+   "banner_theme": "Gia huy Bố Già đại dương mạ vàng đính vương miện, con dấu sáp đỏ & cuộn giấy da cổ",
+   "expression_style": "Phim tài liệu thế giới ngầm Mafia hài kịch — mổ xẻ chiến thuật bầy đàn tinh vi của những ông trùm biển cả"
+  },
+  {
+   "ep": 36,
+   "animal": "Chim Gõ Kiến",
+   "format": "F2",
+   "persona": "ky_su_vu_khi",
+   "angle": "Bản vẽ giảm chấn hộp sọ: Đập đầu $12.000\\text{ lần/ngày}$ với lực $1.200\\text{ G}$ nhờ chiếc lưỡi dài quấn vòng quanh sọ não.",
+   "shorts": "Chiếc lưỡi của Chim Gõ Kiến dài đến mức phải quấn quanh hộp sọ làm dây an toàn!",
+   "status": "planned",
+   "visual_style_theme": "Steampunk Mechanical Blueprint & Kinetic Impact (Phong cách bản vẽ cơ khí bánh răng đồng thau, sơ đồ giảm chấn lò xo lực G và sóng xung kích)",
+   "banner_theme": "Thước kẹp kim loại bắn đinh tán, vạch chia milimét & khung bản vẽ CAD kỹ thuật",
+   "expression_style": "Kỹ sư trưởng giải mã vũ khí công nghệ cao — phân tích cơ chế chống chấn thương sọ não 1.200G"
+  },
+  {
+   "ep": 37,
+   "animal": "Lạc Đà Sa Mạc",
+   "format": "F1",
+   "persona": "bac_si",
+   "angle": "Giải phẫu cỗ máy sa mạc: Bướu chứa đầy mỡ chứ không phải nước, gai vòm miệng nhai xương rồng, tế bào máu hình bầu dục.",
+   "shorts": "Bạn từng nghĩ bướu Lạc Đà chứa nước ư? Cấu tạo bên trong miệng nó mới gây sốc!",
+   "status": "planned",
+   "visual_style_theme": "Mirage Oasis & Arabian Caravan Watercolor (Tranh màu nước sa mạc rực nắng vàng hổ phách - xanh ốc đảo kết hợp sơ đồ y khoa giải phẫu nội tạng)",
+   "banner_theme": "Bảng kẹp bệnh án y tế dã chiến sa mạc, phim chụp X-quang xanh ngọc & nhịp tim ECG",
+   "expression_style": "Bác sĩ trưởng ca trực cấp cứu sa mạc — khám nghiệm những đột biến sinh tồn kỳ quặc nhất hành tinh khô hạn"
+  },
+  {
+   "ep": 38,
+   "animal": "Dê Núi Bắc Mỹ",
+   "format": "F5",
+   "persona": "nha_khoa_hoc",
+   "angle": "Thử thách leo vách đứng $90^\\circ$: Giải mã cấu tạo móng guốc 2 lớp bám trên gờ đá $2\\text{ cm}$ để liếm muối trên đập thủy điện.",
+   "shorts": "Bí mật dưới bàn chân giúp Dê Núi đi dạo trên vách đá thẳng đứng gần 90 độ!",
+   "status": "planned",
+   "visual_style_theme": "Alpine Mountaineering & Gravity-Defying Sketchbook (Phong cách sổ tay phác thảo nhà leo núi mạo hiểm, nét vẽ vách đá dựng đứng 90 độ và góc nhìn chóng mặt)",
+   "banner_theme": "Bảng độ cao kế Altimeter leo núi móc khóa carabiner thép & dây thừng bảo hộ",
+   "expression_style": "Bình luận viên thể thao mạo hiểm X-Games — hồi hộp từng bước chân bám vách đá tử thần"
+  },
+  {
+   "ep": 39,
+   "animal": "Chim Bách Thanh",
+   "format": "F3",
+   "persona": "phien_toa",
+   "angle": "Hồ sơ \"Gã Đồ Tể\" mặt ngây thơ: Treo con mồi lên gai nhọn để xé thịt và chờ chất độc phân hủy.",
+   "shorts": "Đừng để ngoại hình chim sẻ đánh lừa, đây là gã đồ tể chuyên xiên mồi lên gai!",
+   "status": "planned",
+   "visual_style_theme": "Gothic Botanical & Medieval Bestiary (Phong cách sách cổ Trung Cổ minh họa gai nhọn thảo mộc kết hợp nét vẽ hoạt hình châm biếm sắc lạnh)",
+   "banner_theme": "Cuộn cáo trạng tòa án cổ điển buộc dây gai & chiếc cân công lý bằng đồng",
+   "expression_style": "Phiên tòa xét xử sát thủ đội lốt chim non ngây thơ — lật mở từng bằng chứng hiện trường"
+  },
+  {
+   "ep": 40,
+   "animal": "Kiến Cắt Lá",
+   "format": "F6",
+   "persona": "ong_trum",
+   "angle": "Nền văn minh nông nghiệp ngầm sâu $8\\text{m}$: Không ăn lá mà dùng lá trồng nấm, kiến y tá mang vi khuẩn kháng sinh.",
+   "shorts": "Vác lá nặng gấp 50 lần cơ thể về tổ nhưng thực chất chúng không ăn miếng lá nào!",
+   "status": "planned",
+   "visual_style_theme": "Subterranean Megacity & Isometric Strategy Game (Phong cách bản đồ chiến thuật xây dựng đế chế ngầm Isometric rực rỡ sắc xanh lá - đất nung)",
+   "banner_theme": "Bảng điều khiển đế chế nông nghiệp ngầm đính huy hiệu nữ hoàng & sơ đồ dây chuyền",
+   "expression_style": "CEO tập đoàn nông nghiệp công nghệ sinh học triệu đô dưới lòng đất"
+  },
+  {
+   "ep": 41,
+   "animal": "Nhện Lặn Chuông",
+   "format": "F2",
+   "persona": "ky_su_vu_khi",
+   "angle": "Bản vẽ kỹ thuật \"Tàu ngầm tơ nhện\": Quặp bong bóng khí dưới bụng lấp đầy quả chuông tự lọc oxy dưới đáy hồ.",
+   "shorts": "Loài nhện duy nhất tự chế tạo tàu ngầm dưỡng khí bằng tơ để sống dưới nước!",
+   "status": "done",
+   "visual_style_theme": "Deep Oceanic Bioshock & Jules Verne Retro-Futuristic Submarine Blueprint (Bản vẽ tàu ngầm viễn tưởng Jules Verne thế kỷ 19, sơ đồ khí động học & áp suất thủy tĩnh trên nền giấy can Prussian Blue viền đồng thau rỉ sét, bọt khí lấp lánh phản quang)",
+   "banner_theme": "Đồng hồ áp suất khí lặn ngầm Brass Steampunk Barometer & lưới tơ nhện thủy sinh viền ốc vít tàu ngầm",
+   "expression_style": "Kỹ sư trưởng xưởng đóng tàu ngầm viễn tưởng — mổ xẻ kỳ tích công nghệ quả chuông lặn chứa oxy độc nhất vô nhị"
+  },
+  {
+   "ep": 42,
+   "animal": "Cá Thoi Loi",
+   "format": "F1",
+   "persona": "bac_si",
+   "angle": "Khám nghiệm con cá chán biển lên bờ: Chết đuối nếu ở dưới nước quá lâu, phải thụt nhãn cầu mắt xuống họng để nuốt mồi.",
+   "shorts": "Một con cá có thể chết đuối dưới nước và phải nháy mắt tụt vào đầu mới nuốt được!",
+   "status": "done",
+   "visual_style_theme": "Mangrove Mudflat Impressionist Gouache & Satirical Field Diary (Tranh màu bột sơn dầu dã ngoại ấn tượng đầm lầy rừng ngập mặn nhiệt đới, vệt màu đất bùn xám nâu kết hợp nét chì than biếm họa phóng đại, đôi mắt lồi nháy tụt vào họng)",
+   "banner_theme": "Bìa sổ tay thám hiểm rừng ngập mặn bết bùn khô dán rễ cây đước & tiêu bản dấu vây chân cá",
+   "expression_style": "Bác sĩ trưởng phòng khám sinh vật kỳ dị — kinh ngạc trước một con cá chán biển lên cạn leo cây và thụt mắt nuốt mồi"
+  },
+  {
+   "ep": 43,
+   "animal": "Ong Bắp Cày Ngọc",
+   "format": "F3",
+   "persona": "phien_toa",
+   "angle": "Vụ án bác sĩ phẫu thuật thần kinh: Chích đúng hạch não biến gián thành Zombie ngoan ngoãn tự đi vào hang.",
+   "shorts": "Pha phẫu thuật não biến một con gián khỏe mạnh thành xác sống nghe lời răm rắp!",
+   "status": "done",
+   "visual_style_theme": "Cyberpunk Bio-Surgery & Iridescent Jewel Insectoid Art (Phẫu thuật thần kinh vi mạch sinh học tương lai, ánh kim cánh ngọc bích lấp lánh metallic neon lục bảo - lam ngọc tương phản gay gắt với màn đêm tím than, sơ đồ giải phẫu hạch não gián)",
+   "banner_theme": "Kẹp dao mổ vi phẫu mạ titan, màn hình sóng não EEG phẳng lì của gián Zombie & con dấu thụ lý án tử hình",
+   "expression_style": "Công tố viên lạnh lùng vạch trần vụ án thao túng tâm lý và cướp quyền điều khiển cơ thể tàn khốc nhất giới côn trùng"
+  },
+  {
+   "ep": 44,
+   "animal": "Cá Mặt Trăng",
+   "format": "F1",
+   "persona": "bac_si",
+   "angle": "Bệnh án gã khổng lồ $2\\text{ tấn}$ ngơ ngác: Cơ thể như cái đầu biết bơi, bị hải cẩu cắn mất vây vẫn nằm im, đẻ $300\\text{ triệu}$ trứng.",
+   "shorts": "Nặng 2 tấn nhưng hiền đến mức hải cẩu đến cắn rách vây nó cũng chỉ nằm nhìn!",
+   "status": "done",
+   "visual_style_theme": "Pastel Dreamy Oceanic Fauvism & Gentle Giant Caricature (Phong cách dã thú hoang dã gam màu pastel mộng mơ, mảng màu lam ngọc - tím nhạt êm dịu, hình họa tối giản phóng đại cái đầu cụt ngủn 2 tấn trôi nổi phơi nắng giữa biển rộng)",
+   "banner_theme": "Phao cứu sinh sọc đỏ trắng, biểu đồ calo thức ăn sứa biển 99% nước & hồ sơ bệnh nhân vô tri đỉnh cao",
+   "expression_style": "Bác sĩ điều trị bất lực và dở khóc dở cười trước gã khổng lồ nặng 2 tấn nhưng hiền khô, bị hải cẩu gặm vây vẫn nằm phơi nắng"
+  },
+  {
+   "ep": 45,
+   "animal": "Vẹt Kakapo",
+   "format": "F4",
+   "persona": "phong_vien_24h",
+   "angle": "Nhật ký 24h của loài vẹt quên cách bay: đứng đơ giả bụi cây, leo ngọn cây nhảy xuống đập mặt, ăn đêm, đi bộ cả km. (đổi từ F1 để tránh 3 tập F1 liền nhau)",
+   "shorts": "Quên mất mình không biết bay nhưng vẫn leo lên cây nhảy xuống như đúng rồi!",
+   "status": "done",
+   "visual_style_theme": "New Zealand Mossy Forest Folklore & Whimsical Children's Book Illustration (Tranh minh họa sách cổ tích thiếu nhi kinh điển kết hợp rêu phong rừng nguyên sinh New Zealand, sắc xanh rêu mộc mạc, nét chì sáp mềm mại, dáng đi lạch bạch ngơ ngác)",
+   "banner_theme": "Đồng hồ gỗ rừng New Zealand quấn rêu xanh & quả thông rừng béo tròn",
+   "expression_style": "Phóng viên theo dõi hiện trường 24/7 — cười ra nước mắt trước chú vẹt béo 4kg trèo lên ngọn cây rồi nhảy xuống đập mặt vì quên mình không biết bay"
+  },
+  {
+   "ep": 46,
+   "animal": "Lợn Rừng Babirusa",
+   "format": "F1",
+   "persona": "bac_si",
+   "angle": "Lỗi thiết kế tự sát của tạo hóa: Răng nanh mọc xuyên thủng da mõm rồi uốn cong đâm ngược vào chính hộp sọ của mình.",
+   "shorts": "Khi tiến hóa chơi khăm: Loài lợn có cặp răng nanh tự đâm thủng sọ của chính nó!",
+   "status": "done",
+   "visual_style_theme": "Dark Tribal Woodcut & Bone Anatomy Engraving (Tranh khắc gỗ bộ lạc nguyên thủy Sulawesi kết hợp giải phẫu xương sọ cổ xưa, gam màu đen mực tàu, đỏ máu khô và vàng xương mục, đường nét khắc góc cạnh ma mị)",
+   "banner_theme": "Hộp sọ lợn rừng răng nanh uốn cong đâm thủng trán, thước đo góc uốn cong & thẻ chẩn đoán tự sát tiến hóa",
+   "expression_style": "Chuyên gia giải phẫu pháp y chấn động trước cặp răng nanh tự đâm ngược vào não của chính chủ nhân"
+  },
+  {
+   "ep": 47,
+   "animal": "Hươu Cao Cổ",
+   "format": "F2",
+   "persona": "ky_su_vu_khi",
+   "angle": "Giải mã hệ thống thủy lực cổ dài $2\\text{m}$: Tim nặng $11\\text{ kg}$, van tĩnh mạch chống nổ não khi cúi đầu, tất chân bó cơ tự nhiên.",
+   "shorts": "Tại sao Hươu Cao Cổ không bị vỡ mạch máu não mỗi khi cúi cổ dài 2m uống nước?",
+   "status": "done",
+   "visual_style_theme": "Industrial Piping Schematic & African Savannah Pop-Art (Sơ đồ kỹ thuật đường ống thủy lực công nghiệp kết hợp đồ họa Pop-Art thảo nguyên Châu Phi, mạng lưới van tĩnh mạch chống nổ não màu vàng nghệ - cam hoàng hôn rực rỡ)",
+   "banner_theme": "Van khóa áp lực thủy lực bằng đồng thau, ống đo áp suất 300 mmHg & đồng hồ đo lưu lượng máu",
+   "expression_style": "Kỹ sư trưởng hệ thống thủy lực cao tầng — giải mã trái tim 11kg và đôi tất chống suy giãn tĩnh mạch thần thánh"
+  },
+  {
+   "ep": 48,
+   "animal": "Cò Mỏ Giày",
+   "format": "F4",
+   "persona": "phong_vien_24h",
+   "angle": "24h của tượng đá đầm lầy: Đứng im hàng giờ, tiếng gõ mỏ như súng máy AK, lịch sự với người nhưng tàn nhẫn với em ruột.",
+   "shorts": "Nhìn người thì cúi đầu chào lịch sự, nhưng với em ruột trong tổ thì cực kỳ tàn nhẫn!",
+   "status": "done",
+   "visual_style_theme": "Prehistoric Swamp Monolith & Gritty Graphic Novel Noir (Tiểu thuyết đồ họa thô ráp u tối kết hợp không khí đầm lầy tiền sử kỷ Phấn Trắng, tông màu xám tro đá phiến - xanh đầm lầy mù mịt, ánh mắt vàng đục bất động như tượng đá)",
+   "banner_theme": "Hộp tiếp đạn súng máy AK cổ điển, chiếc mỏ giày khổng lồ & đồng hồ bấm giây rình mồi 4 tiếng không chớp mắt",
+   "expression_style": "Phóng viên sinh tồn hồi hộp nín thở trước cỗ máy săn mồi tiền sử đứng yên như tượng rồi mổ chớp nhoáng"
+  },
+  {
+   "ep": 49,
+   "animal": "Nhím Lông Nhọn",
+   "format": "F2",
+   "persona": "ky_su_vu_khi",
+   "angle": "Giải mã 30.000 mũi tên ngạnh ngược: Không bắn từ xa nhưng đầu lông tự rút sâu vào thịt báo hoa mai kèm lớp mỡ kháng sinh.",
+   "shorts": "Tại sao chỉ một chiếc lông nhím cắm vào mõm cũng đủ hạ gục cả báo hoa mai?",
+   "status": "done",
+   "visual_style_theme": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram (Sơ đồ quân sự chiến thuật kết hợp phóng đại kính hiển vi điện tử SEM, các vẩy ngạnh ngược microscopic như mũi lao móc câu, gam màu đen carbon, trắng ngà và vàng cảnh báo Bio-hazard)",
+   "banner_theme": "Bảng cảnh báo bom mìn rải gai, sơ đồ góc cắm phi tiêu tự rút sâu & kính lúp phóng đại ngạnh móc",
+   "expression_style": "Chuyên gia vũ khí đạn đạo sinh học — bóc trần cơ chế sát thương khủng khiếp khiến báo hoa mai và sư tử cũng phải tránh xa"
+  },
+  {
+   "ep": 50,
+   "animal": "Khỉ Đột Lưng Bạc",
+   "format": "F7",
+   "persona": "binh_luan_vien",
+   "angle": "Giải mã khối cơ bắp gấp 10 lần người dù chỉ ăn chay: Lò lên men vi sinh vật trong chiếc bụng to tròn đầy khí gas.",
+   "shorts": "Tại sao Khỉ Đột chỉ ăn lá cây nhưng lại có cơ bắp nâng được vật nặng 800 kg?",
+   "status": "done",
+   "visual_style_theme": "Gladiatorial Arena Poster & Comic Hero Anatomy (Áp phích giác đấu trường La Mã kết hợp phong cách cơ bắp siêu anh hùng Comic phương Tây mạnh mẽ, cơ bắp cuồn cuộn đổ bóng đậm, lò phản ứng vi sinh vật trong bụng tỏa nhiệt rực lửa)",
+   "banner_theme": "Đai vô địch đấu trường hạng nặng mạ vàng đính đá ruby, nắm đấm thép đập ngực & máy đo lực tàn phá 2 tấn",
+   "expression_style": "Bình luận viên đài thể thao đỉnh cao WWE / UFC — cuồng nhiệt, nghẹt thở trước sức mạnh nâng 800kg chỉ nhờ nhai lá cây"
+  },
+  {
+   "ep": 51,
+   "animal": "Rắn Hổ Mang Chúa",
+   "format": "F6",
+   "persona": "ong_trum",
+   "angle": "Hồ sơ Vua của các loài rắn: thực đơn chính là RẮN KHÁC (kể cả rắn độc), con duy nhất trong họ rắn tự xây tổ bằng lá, dựng 1/3 thân nhìn thẳng mắt người, một lần cắn đủ nọc hạ một con voi. Cameo Lửng Mật (Tập 1) — kẻ thù không sợ nọc.",
+   "shorts": "Loài rắn duy nhất chuyên ĂN THỊT RẮN khác — kể cả rắn độc!",
+   "status": "planned",
+   "animal_en": "King Cobra",
+   "demand_proof": "I6pVT7QMHp0, Hmmg0t__gVs",
+   "_note": "Đổi 23/11/2026 theo nhu cầu tìm kiếm thật (docs/research/video-ideation_mega05_tap51-60_2026-11-23.md)."
+  },
+  {
+   "ep": 52,
+   "animal": "Cá Sấu Nước Mặn",
+   "format": "F2",
+   "persona": "ky_su_vu_khi",
+   "angle": "Giải mã cú cắn mạnh nhất từng đo được (≈3.700 PSI, Erickson 2012) — nhưng cơ MỞ hàm yếu tới mức một cuộn băng keo giữ được; cuộn tử thần xoay 360°, nín thở hàng giờ, bò sát lớn nhất còn sống.",
+   "shorts": "Cú cắn mạnh nhất hành tinh... nhưng một cuộn băng keo đã đủ khóa miệng nó!",
+   "status": "planned",
+   "animal_en": "Saltwater Crocodile",
+   "demand_proof": "rO_ogBuTDXY",
+   "_note": "Đổi 23/11/2026 theo nhu cầu tìm kiếm thật (docs/research/video-ideation_mega05_tap51-60_2026-11-23.md)."
+  },
+  {
+   "ep": 53,
+   "animal": "Cá Voi Xanh",
+   "format": "F1",
+   "persona": "bac_si",
+   "angle": "Khám sức khỏe sinh vật lớn nhất mọi thời đại: tim ≈180 kg đập chỉ 2 lần/phút khi lặn (Goldbogen 2019), lời đồn 'tim to bằng ô tô' và 'chui lọt động mạch' — đúng sai thế nào? Nặng 150 tấn mà sống nhờ sinh vật bé bằng đốt ngón tay.",
+   "shorts": "Trái tim 180 kg nhưng có lúc chỉ đập 2 lần mỗi phút!",
+   "status": "planned",
+   "animal_en": "Blue Whale",
+   "demand_proof": "zd2dxvjrM6A",
+   "_note": "Đổi 23/11/2026 theo nhu cầu tìm kiếm thật (docs/research/video-ideation_mega05_tap51-60_2026-11-23.md)."
+  },
+  {
+   "ep": 54,
+   "animal": "Rồng Komodo",
+   "format": "F3",
+   "persona": "phien_toa",
+   "angle": "Phiên tòa vụ án nước dãi: suốt 30 năm sách vở đổ tội cho 'vi khuẩn bẩn trong miệng' — năm 2009 phát hiện tuyến NỌC ĐỘC thật; răng phủ sắt màu cam (2024), con cái đẻ trứng không cần con đực (Flora, sở thú Chester 2006).",
+   "shorts": "Cả thế giới đổ oan cho nước dãi bẩn — thủ phạm thật là nọc độc!",
+   "status": "planned",
+   "animal_en": "Komodo Dragon",
+   "demand_proof": "vM1MAy2-vGw, RQLW_1TD0dY",
+   "_note": "Đổi 23/11/2026 theo nhu cầu tìm kiếm thật (docs/research/video-ideation_mega05_tap51-60_2026-11-23.md)."
+  },
+  {
+   "ep": 55,
+   "animal": "Cá Mập Megalodon",
+   "format": "F5",
+   "persona": "nha_khoa_hoc",
+   "angle": "Thí nghiệm pháp y hóa thạch: răng to bằng bàn tay, cơ thể ẤM hơn nước biển (PNAS 2023), và nghi phạm làm nó tuyệt chủng — chính tổ tiên cá mập trắng tranh mồi (đồng vị kẽm 2022). Tiền sử = chủ đề người Việt tìm nhiều nhất.",
+   "shorts": "Sát thủ lớn nhất đại dương bị đánh bại bởi... một con cá mập nhỏ hơn?!",
+   "status": "planned",
+   "animal_en": "Megalodon",
+   "demand_proof": "O9KYMEp_Ia8",
+   "_note": "Đổi 23/11/2026 theo nhu cầu tìm kiếm thật (docs/research/video-ideation_mega05_tap51-60_2026-11-23.md)."
+  },
+  {
+   "ep": 56,
+   "animal": "Tê Tê",
+   "format": "F4",
+   "persona": "phong_vien_24h",
+   "angle": "24h của loài thú bị buôn lậu nhiều nhất thế giới: đêm săn 70 triệu côn trùng/năm, lưỡi dài hơn cả thân gốc nằm gần xương chậu, cuộn tròn sư tử cắn không thủng — và sự thật 'thần dược' vảy tê tê chỉ là keratin như móng tay. Có ở Việt Nam (cứu hộ Cúc Phương).",
+   "shorts": "Vảy 'thần dược' giá chục triệu... thật ra giống hệt móng tay của bạn!",
+   "status": "planned",
+   "animal_en": "Pangolin",
+   "demand_proof": "VupI3FpqQ6E",
+   "_note": "Đổi 23/11/2026 theo nhu cầu tìm kiếm thật (docs/research/video-ideation_mega05_tap51-60_2026-11-23.md)."
+  },
+  {
+   "ep": 57,
+   "animal": "Cá Mập Trắng",
+   "format": "F7",
+   "persona": "binh_luan_vien",
+   "angle": "Bình luận trực tiếp trận đấu vì sao 'vua đại dương' bỏ chạy: cá mập trắng rời Farallon cả năm khi cá voi sát thủ xuất hiện (2009), cặp Port & Starboard moi gan cá mập ở Nam Phi. Callback Cá Voi Sát Thủ Tập 35.",
+   "shorts": "Kẻ săn mồi đáng sợ nhất đại dương... bỏ chạy khi thấy vây đen này!",
+   "status": "planned",
+   "animal_en": "Great White Shark",
+   "demand_proof": "WrNexQCvkic, _A5VsE7-VFw",
+   "_note": "Đổi 23/11/2026 theo nhu cầu tìm kiếm thật (docs/research/video-ideation_mega05_tap51-60_2026-11-23.md)."
+  },
+  {
+   "ep": 58,
+   "animal": "Đại Bàng Harpy",
+   "format": "F2",
+   "persona": "ky_su_vu_khi",
+   "angle": "Giải mã cặp móng vuốt dài ngang móng gấu xám (≈13 cm) và lực siết bẻ xương: cỗ máy săn khỉ, săn lười ngay trên tán rừng Amazon; mặt đĩa lông như ăng-ten thu âm.",
+   "shorts": "Móng vuốt dài bằng móng gấu xám — và nó dùng để bắt khỉ trên ngọn cây!",
+   "status": "planned",
+   "animal_en": "Harpy Eagle",
+   "demand_proof": "xarp30Yd_bI, fS1TfANV0WA",
+   "_note": "Đổi 23/11/2026 theo nhu cầu tìm kiếm thật (docs/research/video-ideation_mega05_tap51-60_2026-11-23.md)."
+  },
+  {
+   "ep": 59,
+   "animal": "Tắc Kè Hoa",
+   "format": "F3",
+   "persona": "phien_toa",
+   "angle": "Phiên tòa minh oan: tắc kè hoa KHÔNG đổi màu để ngụy trang — nó đổi màu để 'nói chuyện' và chỉnh nhiệt, bằng tinh thể nano trong da (Teyssier 2015); lưỡi phóng nhanh gấp mấy lần xe đua trong 1/100 giây, hai mắt xoay độc lập.",
+   "shorts": "Bạn đã bị lừa: tắc kè hoa KHÔNG đổi màu để ngụy trang!",
+   "status": "planned",
+   "animal_en": "Chameleon",
+   "demand_proof": "WCjoF45yVZ0",
+   "_note": "Đổi 23/11/2026 theo nhu cầu tìm kiếm thật (docs/research/video-ideation_mega05_tap51-60_2026-11-23.md)."
+  },
+  {
+   "ep": 60,
+   "animal": "Linh Cẩu Đốm",
+   "format": "F6",
+   "persona": "ong_trum",
+   "angle": "Đế chế Nữ quyền: con cái to hơn và cầm quyền, con đực xếp dưới cả con non; tự săn phần lớn thức ăn (oan danh 'chỉ ăn xác'), tiếng cười thật ra là tín hiệu căng thẳng, hàm nghiền xương và tiêu hóa luôn cả xương.",
+   "shorts": "Trong bầy linh cẩu, con đực trưởng thành còn thấp kém hơn cả con non!",
+   "status": "planned",
+   "animal_en": "Spotted Hyena",
+   "demand_proof": "WvXyasrz-0M",
+   "_note": "Đổi 23/11/2026 theo nhu cầu tìm kiếm thật (docs/research/video-ideation_mega05_tap51-60_2026-11-23.md)."
+  },
+  {
+   "ep": 61,
+   "animal": "Đại Hội Sinh Tồn",
+   "format": "F_SPECIAL",
+   "persona": "giai_dau",
+   "angle": "Vòng chung kết loại trực tiếp giữa 10 quán quân để tìm ra sinh vật bá chủ toàn diện nhất hành tinh.",
+   "shorts": "Nếu nhốt Lửng Mật, Lươn Điện và Tôm Tít vào một đấu trường, ai sẽ thắng?",
+   "status": "planned"
+  }
+ ],
+ "reserve_animals": [
+  "Chim Hồng Hạc",
+  "Chim Ruồi",
+  "Cá Cần Câu Đáy Vực",
+  "Cá Nóc Nhím",
+  "Cầy Mangut",
+  "Trăn Anaconda",
+  "Đà Điểu & Cassowary"
+ ]
+}

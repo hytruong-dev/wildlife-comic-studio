@@ -1,0 +1,455 @@
+{
+ "episode": "tap-23-hai-sam",
+ "title_lines": [
+  "BẮN CẢ BỘ RUỘT GAN",
+  "ĐỂ THOÁT THÂN?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 47.49,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-23-hai-sam_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  5.73,
+  10.21,
+  16.11,
+  19.05,
+  22.17,
+  24.53,
+  30.19,
+  35.19,
+  39.65,
+  43.01,
+  46.77
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.64,
+     "text": "Khi bị kẻ"
+    },
+    {
+     "t": 1.0,
+     "text": "săn mồi dồn"
+    },
+    {
+     "t": 1.76,
+     "text": "vào chân tường,"
+    },
+    {
+     "t": 2.72,
+     "text": "loài vật này"
+    },
+    {
+     "t": 3.24,
+     "text": "không chạy trốn,"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 3.93,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 4.18,
+     "text": "mà chọn cách..."
+    },
+    {
+     "t": 4.72,
+     "text": "bắn thẳng toàn"
+    },
+    {
+     "t": 5.76,
+     "text": "bộ ruột gan"
+    },
+    {
+     "t": 6.46,
+     "text": "của mình qua"
+    },
+    {
+     "t": 7.12,
+     "text": "đường hậu môn"
+    },
+    {
+     "t": 7.84,
+     "text": "để tẩu thoát!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 8.41,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 12.08,
+     "side": "R",
+     "y": 620,
+     "value": "30 CM",
+     "label": "xúc xích đáy biển",
+     "target": [
+      0.58,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 8.66,
+     "text": "Xin giới thiệu"
+    },
+    {
+     "t": 9.86,
+     "text": "Hải Sâm,"
+    },
+    {
+     "t": 10.84,
+     "text": "sinh vật hình"
+    },
+    {
+     "t": 11.3,
+     "text": "chiếc xúc xích"
+    },
+    {
+     "t": 11.82,
+     "text": "dài 30cm"
+    },
+    {
+     "t": 13.18,
+     "text": "sống dưới đáy"
+    },
+    {
+     "t": 13.8,
+     "text": "biển sâu."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 14.31,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 14.56,
+     "text": "Cơ thể nó"
+    },
+    {
+     "t": 15.1,
+     "text": "không hề có"
+    },
+    {
+     "t": 15.7,
+     "text": "não, không có"
+    },
+    {
+     "t": 16.38,
+     "text": "mắt, không có tim,"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 17.25,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 17.5,
+     "text": "và thở bằng"
+    },
+    {
+     "t": 17.9,
+     "text": "cách bơm nước"
+    },
+    {
+     "t": 18.48,
+     "text": "vào ra chiếc"
+    },
+    {
+     "t": 19.24,
+     "text": "lỗ hậu môn!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 20.37,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 20.62,
+     "text": "Da của nó"
+    },
+    {
+     "t": 21.16,
+     "text": "làm từ mô"
+    },
+    {
+     "t": 21.82,
+     "text": "liên kết đặc biệt,"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 22.73,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 26.46,
+     "side": "R",
+     "y": 650,
+     "value": "1 GIÂY",
+     "label": "hóa lỏng như thạch",
+     "target": [
+      0.55,
+      0.52
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 22.98,
+     "text": "có thể tự"
+    },
+    {
+     "t": 23.44,
+     "text": "chuyển từ cứng"
+    },
+    {
+     "t": 24.14,
+     "text": "ngắc như đá"
+    },
+    {
+     "t": 24.9,
+     "text": "sang mềm nhão"
+    },
+    {
+     "t": 25.58,
+     "text": "như thạch"
+    },
+    {
+     "t": 26.14,
+     "text": "chỉ trong 1"
+    },
+    {
+     "t": 26.64,
+     "text": "giây để chui"
+    },
+    {
+     "t": 27.1,
+     "text": "lọt qua khe"
+    },
+    {
+     "t": 27.68,
+     "text": "đá hẹp!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 28.39,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 31.68,
+     "side": "L",
+     "y": 680,
+     "value": "DÃN 20 LẦN",
+     "label": "tơ keo siêu dính",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 28.64,
+     "text": "Khi bị tấn"
+    },
+    {
+     "t": 29.08,
+     "text": "công, nó bắn"
+    },
+    {
+     "t": 29.92,
+     "text": "ra những ống"
+    },
+    {
+     "t": 30.52,
+     "text": "tơ trắng dãn"
+    },
+    {
+     "t": 31.2,
+     "text": "dài gấp 20"
+    },
+    {
+     "t": 31.9,
+     "text": "lần dính chặt"
+    },
+    {
+     "t": 32.54,
+     "text": "cứng lấy kẻ thù."
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 33.39,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 33.64,
+     "text": "Nếu vẫn chưa"
+    },
+    {
+     "t": 34.12,
+     "text": "thoát, nó sẵn"
+    },
+    {
+     "t": 35.02,
+     "text": "sàng nôn sạch"
+    },
+    {
+     "t": 35.62,
+     "text": "toàn bộ đường"
+    },
+    {
+     "t": 36.24,
+     "text": "ruột ra ngoài"
+    },
+    {
+     "t": 36.9,
+     "text": "để kẻ địch"
+    },
+    {
+     "t": 37.38,
+     "text": "mải ăn,"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 37.85,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [
+    {
+     "t": 41.06,
+     "side": "R",
+     "y": 680,
+     "value": "5 TUẦN",
+     "label": "tái sinh bộ ruột",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 38.1,
+     "text": "rồi lủi trốn"
+    },
+    {
+     "t": 38.76,
+     "text": "và tự mọc"
+    },
+    {
+     "t": 39.5,
+     "text": "lại nguyên vẹn"
+    },
+    {
+     "t": 40.26,
+     "text": "bộ ruột mới"
+    },
+    {
+     "t": 40.74,
+     "text": "chỉ sau 5"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 41.21,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 41.24,
+     "text": "tuần! Một quái"
+    },
+    {
+     "t": 42.3,
+     "text": "kiệt đáy biển"
+    },
+    {
+     "t": 42.98,
+     "text": "vừa biết hóa"
+    },
+    {
+     "t": 43.56,
+     "text": "lỏng, vừa thở"
+    },
+    {
+     "t": 44.26,
+     "text": "bằng hậu môn,"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 44.97,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 45.22,
+     "text": "đúng là phép"
+    },
+    {
+     "t": 45.7,
+     "text": "màu sinh học"
+    },
+    {
+     "t": 46.22,
+     "text": "điên rồ nhất"
+    },
+    {
+     "t": 46.76,
+     "text": "đại dương!"
+    }
+   ]
+  }
+ ]
+}

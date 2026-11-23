@@ -1,0 +1,410 @@
+{
+ "episode": "tap-37-lac-da-sa-mac",
+ "title_lines": [
+  "CỖ MÁY LỌC NƯỚC",
+  "SA MẠC 50°C"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 39.86,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-37-lac-da-sa-mac_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  6.71,
+  9.19,
+  13.63,
+  18.79,
+  25.15,
+  28.35,
+  32.61,
+  33.41,
+  37.71,
+  38.97,
+  40.33
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "t": 2.4,
+     "side": "R",
+     "y": 620,
+     "value": "200 LÍT",
+     "label": "dung tích uống",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 0.66,
+     "text": "Bạn có biết"
+    },
+    {
+     "t": 1.06,
+     "text": "loài động vật"
+    },
+    {
+     "t": 1.58,
+     "text": "nào có thể"
+    },
+    {
+     "t": 2.0,
+     "text": "uống cạn 200"
+    },
+    {
+     "t": 2.68,
+     "text": "lít nước"
+    },
+    {
+     "t": 3.4,
+     "text": "chỉ trong 15"
+    },
+    {
+     "t": 4.08,
+     "text": "phút mà không"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 4.91,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 5.02,
+     "text": "bị vỡ hồng"
+    },
+    {
+     "t": 5.48,
+     "text": "cầu chết ngay"
+    },
+    {
+     "t": 6.08,
+     "text": "lập tức không?"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 7.39,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 7.64,
+     "text": "Đó chính là"
+    },
+    {
+     "t": 8.4,
+     "text": "Lạc Đà Sa"
+    },
+    {
+     "t": 8.94,
+     "text": "Mạc — Cỗ"
+    },
+    {
+     "t": 9.9,
+     "text": "Máy Lọc Nước"
+    },
+    {
+     "t": 10.54,
+     "text": "siêu cấp của"
+    },
+    {
+     "t": 11.1,
+     "text": "thiên nhiên!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 11.83,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 12.08,
+     "text": "Trái ngược với"
+    },
+    {
+     "t": 12.58,
+     "text": "hiểu lầm của"
+    },
+    {
+     "t": 13.18,
+     "text": "hàng triệu người,"
+    },
+    {
+     "t": 14.2,
+     "text": "chiếc bướu trên"
+    },
+    {
+     "t": 14.6,
+     "text": "lưng nó không"
+    },
+    {
+     "t": 15.18,
+     "text": "hề chứa một"
+    },
+    {
+     "t": 15.84,
+     "text": "giọt nước nào mà"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 16.99,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 18.28,
+     "side": "R",
+     "y": 600,
+     "value": "40 KG",
+     "label": "bướu mỡ năng lượng",
+     "target": [
+      0.65,
+      0.45
+     ]
+    },
+    {
+     "t": 20.38,
+     "side": "L",
+     "y": 620,
+     "value": "50°C",
+     "label": "nhiệt độ môi trường",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 17.0,
+     "text": "là một khối"
+    },
+    {
+     "t": 17.42,
+     "text": "bướu mỡ nặng"
+    },
+    {
+     "t": 18.14,
+     "text": "tới 40 kg"
+    },
+    {
+     "t": 19.16,
+     "text": "giúp chống sốc"
+    },
+    {
+     "t": 20.18,
+     "text": "nhiệt 50°C!"
+    },
+    {
+     "t": 22.1,
+     "text": "Bí mật sinh"
+    },
+    {
+     "t": 22.68,
+     "text": "tử thực sự nằm"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 23.35,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 23.48,
+     "text": "ở tế bào"
+    },
+    {
+     "t": 23.94,
+     "text": "hồng cầu hình"
+    },
+    {
+     "t": 24.6,
+     "text": "oval độc nhất"
+    },
+    {
+     "t": 25.38,
+     "text": "vô nhị: Chúng"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 26.55,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 27.54,
+     "side": "R",
+     "y": 620,
+     "value": "240%",
+     "label": "giãn nở hồng cầu",
+     "target": [
+      0.68,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 26.54,
+     "text": "có thể phồng"
+    },
+    {
+     "t": 27.04,
+     "text": "to gấp 240%"
+    },
+    {
+     "t": 28.46,
+     "text": "thể tích để"
+    },
+    {
+     "t": 29.2,
+     "text": "nạp nước tức"
+    },
+    {
+     "t": 29.82,
+     "text": "thì, kết hợp"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 30.81,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 30.94,
+     "text": "cùng quả thận siêu"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 31.61,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 31.62,
+     "text": "lọc cô đặc"
+    },
+    {
+     "t": 32.2,
+     "text": "nước tiểu thành"
+    },
+    {
+     "t": 32.74,
+     "text": "si-rô đặc quẹt!"
+    },
+    {
+     "t": 33.96,
+     "text": "Nhờ đó,"
+    },
+    {
+     "t": 34.96,
+     "text": "sinh vật phi"
+    },
+    {
+     "t": 35.44,
+     "text": "thường này có"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 35.91,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [
+    {
+     "t": 36.9,
+     "side": "L",
+     "y": 620,
+     "value": "30 NGÀY",
+     "label": "nhịn uống tối đa",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 35.98,
+     "text": "thể nhịn uống"
+    },
+    {
+     "t": 36.66,
+     "text": "suốt 30"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 37.17,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 37.18,
+     "text": "ngày giữa chảo"
+    },
+    {
+     "t": 37.88,
+     "text": "lửa sa mạc"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 38.53,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 38.64,
+     "text": "mà vẫn sống"
+    },
+    {
+     "t": 39.2,
+     "text": "khỏe re!"
+    }
+   ]
+  }
+ ]
+}

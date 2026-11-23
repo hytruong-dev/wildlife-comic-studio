@@ -1,0 +1,3786 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "10 QUÁI KIỆT BƯỚC VÀO ĐẠI HỘI SINH TỒN",
+   "hook": "8 VÒNG THI – 1 VƯƠNG MIỆN",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đêm nay, mười",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "mà để thi",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bật đèn! Chào",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tôi là người",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hoàn toàn mới,",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Luật chơi rất",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chịu nóng và",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi vòng, giám",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo xin",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nghe rõ chưa,",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và bây giờ,",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số hai!",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số ba!",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số bốn!",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số năm,",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số tám,",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số chín,",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số mười... xin",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ủa... đến lượt",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Rồi, Gấu Koala",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cá Heo bước",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chim Bồ Nông bước",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Rái Cá Biển bước",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lửng Mật và",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chim Cánh Cụt, Koala,",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tôm Tít bước",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gấu Nước dài",
+     "image": "assets/long/L29.png",
+     "stickers": [
+      {
+       "at": "1mm",
+       "side": "R",
+       "y": 360,
+       "value": "< 1 MM",
+       "label": "Gấu Nước",
+       "target": [
+        0.5,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cân ký xong!",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Theo dự đoán,",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng các chuyên",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ có khoa",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vòng một bắt",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "LỄ KHAI MẠC"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "THỬ THÁCH NÓNG VÀ LẠNH — AI GIỮ ẤM, AI GIẢI NHIỆT GIỎI NHẤT",
+   "hook": "ĐÓNG BĂNG HAY CHÍN LUÔN?",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ban giám khảo",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phần thi nóng",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hồ sơ tuyển",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng các nhà",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2014, họ",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và họ thấy",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hình ảnh nhiệt",
+     "image": "assets/long/L42.png",
+     "stickers": [
+      {
+       "at": "5°C",
+       "side": "R",
+       "y": 360,
+       "value": "-5°C",
+       "label": "thân cây mát hơn",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và đây không",
+     "image": "assets/long/L43.png",
+     "stickers": [
+      {
+       "at": "một nửa",
+       "side": "L",
+       "y": 380,
+       "value": "1/2",
+       "label": "nước làm mát",
+       "target": [
+        0.7,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Điều buồn cười",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng chống nóng",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cho đến năm",
+     "image": "assets/long/L46.png",
+     "stickers": [
+      {
+       "at": "46 lần",
+       "side": "R",
+       "y": 380,
+       "value": "46 LẦN",
+       "label": "quan sát uống nước",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và cách uống",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Có một cô",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo ghi",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phần thi nóng tiếp",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hai bạn xin",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phần thi lạnh. Nhiệt",
+     "image": "assets/long/L52.png",
+     "stickers": [
+      {
+       "at": "0°C",
+       "side": "R",
+       "y": 380,
+       "value": "0°C",
+       "label": "nước gần đóng băng",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ đầu",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tin khẩn từ",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhiều người quên",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học đã",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một con Thú",
+     "image": "assets/long/L57.png",
+     "stickers": [
+      {
+       "at": "5 tiếng",
+       "side": "L",
+       "y": 360,
+       "value": "5 GIỜ",
+       "label": "bơi trong nước 0°C",
+       "target": [
+        0.6,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và nhiệt độ",
+     "image": "assets/long/L58.png",
+     "stickers": [
+      {
+       "at": "32°C",
+       "side": "R",
+       "y": 380,
+       "value": "32°C",
+       "label": "thân nhiệt mỏ vịt",
+       "target": [
+        0.62,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tức là Thú",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bí quyết nằm",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Theo các nhà",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thứ hai, ở",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và thứ ba:",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo xin",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Rái Cá Biển cũng",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi nghỉ ngơi",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đôi khi Rái",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ tiếp",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học đã đánh",
+     "image": "assets/long/L69.png",
+     "stickers": [
+      {
+       "at": "562",
+       "side": "R",
+       "y": 380,
+       "value": "562 HANG",
+       "label": "được đánh dấu",
+       "target": [
+        0.6,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và kết quả",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chồn mẹ đào",
+     "image": "assets/long/L71.png",
+     "stickers": [
+      {
+       "at": "1 mét",
+       "side": "L",
+       "y": 360,
+       "value": "> 1 M",
+       "label": "lớp tuyết phủ",
+       "target": [
+        0.5,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tuyết nghe thì",
+     "image": "assets/long/L72.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và cũng vì",
+     "image": "assets/long/L73.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kẻ dám cướp",
+     "image": "assets/long/L74.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và cuối cùng,",
+     "image": "assets/long/L75.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2022, các",
+     "image": "assets/long/L76.png",
+     "stickers": [
+      {
+       "at": "-30°C",
+       "side": "R",
+       "y": 360,
+       "value": "-30°C",
+       "label": "mỗi tuần đông đá",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Lặp lại như",
+     "image": "assets/long/L77.png",
+     "stickers": [
+      {
+       "at": "gấp đôi",
+       "side": "L",
+       "y": 380,
+       "value": "x2",
+       "label": "tuổi thọ",
+       "target": [
+        0.65,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng phần thú",
+     "image": "assets/long/L78.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nghĩa là khi",
+     "image": "assets/long/L79.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo xin thông",
+     "image": "assets/long/L80.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đúng vậy! Đông",
+     "image": "assets/long/L81.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và đây là",
+     "image": "assets/long/L82.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương bạc:",
+     "image": "assets/long/L83.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và huy chương",
+     "image": "assets/long/L84.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bảng điểm sau",
+     "image": "assets/long/L85.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đừng lo, vòng",
+     "image": "assets/long/L86.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÒNG 1"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "MARATHON SINH TỒN — AI ĐI XA NHẤT, DI CHUYỂN LẠ NHẤT",
+   "hook": "AI ĐI XA NHẤT HÀNH TINH?",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L87.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo sẽ",
+     "image": "assets/long/L88.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lửng Mật xuất",
+     "image": "assets/long/L89.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa",
+     "image": "assets/long/L90.png",
+     "stickers": [
+      {
+       "at": "25 con",
+       "side": "R",
+       "y": 380,
+       "value": "25 CON",
+       "label": "được theo dõi",
+       "target": [
+        0.6,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả: mỗi",
+     "image": "assets/long/L91.png",
+     "stickers": [
+      {
+       "at": "14km",
+       "side": "L",
+       "y": 360,
+       "value": "14 KM",
+       "label": "mỗi đêm",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và đi không",
+     "image": "assets/long/L92.png",
+     "stickers": [
+      {
+       "at": "50 cái hố",
+       "side": "R",
+       "y": 380,
+       "value": "50 HỐ",
+       "label": "một lần kiếm ăn",
+       "target": [
+        0.6,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và có một",
+     "image": "assets/long/L93.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đó là loài",
+     "image": "assets/long/L94.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học đã",
+     "image": "assets/long/L95.png",
+     "stickers": [
+      {
+       "at": "6 con",
+       "side": "R",
+       "y": 360,
+       "value": "6 CON",
+       "label": "chim ưng bám theo",
+       "target": [
+        0.55,
+        0.35
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Còn Lửng Mật được",
+     "image": "assets/long/L96.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một gã giang",
+     "image": "assets/long/L97.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng nếu Lửng",
+     "image": "assets/long/L98.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mùa xuân năm",
+     "image": "assets/long/L99.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó đi về",
+     "image": "assets/long/L100.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hai tháng sau,",
+     "image": "assets/long/L101.png",
+     "stickers": [
+      {
+       "at": "800km",
+       "side": "R",
+       "y": 360,
+       "value": "800 KM",
+       "label": "trong 2 tháng",
+       "target": [
+        0.55,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và đây là",
+     "image": "assets/long/L102.png",
+     "stickers": [
+      {
+       "at": "1919",
+       "side": "L",
+       "y": 360,
+       "value": "1919",
+       "label": "lần cuối thấy chồn",
+       "target": [
+        0.5,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Có một nhiếp",
+     "image": "assets/long/L103.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chuyện vui hơn",
+     "image": "assets/long/L104.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thế nhưng suốt",
+     "image": "assets/long/L105.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cho đến đầu",
+     "image": "assets/long/L106.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bang Chồn Gulo cuối",
+     "image": "assets/long/L107.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng cả Lửng",
+     "image": "assets/long/L108.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học đã gắn",
+     "image": "assets/long/L109.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả: mỗi năm,",
+     "image": "assets/long/L110.png",
+     "stickers": [
+      {
+       "at": "13.000km",
+       "side": "R",
+       "y": 360,
+       "value": "13.000 KM",
+       "label": "mỗi năm",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Để dễ hình",
+     "image": "assets/long/L111.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vì sao phải",
+     "image": "assets/long/L112.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thế là chúng",
+     "image": "assets/long/L113.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đến mùa xuân,",
+     "image": "assets/long/L114.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mà khoan, khán",
+     "image": "assets/long/L115.png",
+     "stickers": [
+      {
+       "at": "1840",
+       "side": "L",
+       "y": 360,
+       "value": "1840",
+       "label": "vùng đất A-đê-li",
+       "target": [
+        0.5,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và loài chim",
+     "image": "assets/long/L116.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong khi đó,",
+     "image": "assets/long/L117.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng ở bờ",
+     "image": "assets/long/L118.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó nằm ngửa,",
+     "image": "assets/long/L119.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "72 vòng mỗi",
+     "image": "assets/long/L120.png",
+     "stickers": [
+      {
+       "at": "72 vòng",
+       "side": "R",
+       "y": 360,
+       "value": "72 VÒNG",
+       "label": "mỗi phút",
+       "target": [
+        0.4,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Loài người mất",
+     "image": "assets/long/L121.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cuối cùng, Chim",
+     "image": "assets/long/L122.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bồ Nông rất",
+     "image": "assets/long/L123.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bồ Nông Úc",
+     "image": "assets/long/L124.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và đây là bí",
+     "image": "assets/long/L125.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng cứ vài",
+     "image": "assets/long/L126.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 1989, các",
+     "image": "assets/long/L127.png",
+     "stickers": [
+      {
+       "at": "1989",
+       "side": "L",
+       "y": 360,
+       "value": "1989",
+       "label": "100.000 chim con",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Câu hỏi: làm",
+     "image": "assets/long/L128.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Có giả thuyết",
+     "image": "assets/long/L129.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tổng kết đường",
+     "image": "assets/long/L130.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo xin",
+     "image": "assets/long/L131.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương đồng:",
+     "image": "assets/long/L132.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và huy chương",
+     "image": "assets/long/L133.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bảng điểm sau",
+     "image": "assets/long/L134.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ủa... đi bộ",
+     "image": "assets/long/L135.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu hỏi hay",
+     "image": "assets/long/L136.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÒNG 2"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "BẾP TRƯỞNG HOANG DÃ — AI ĂN KHÉO, ĂN NHIỀU, ĂN LẠ NHẤT",
+   "hook": "AI LÀ VUA ĂN UỐNG?",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L137.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mở màn là",
+     "image": "assets/long/L138.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một con Thú",
+     "image": "assets/long/L139.png",
+     "stickers": [
+      {
+       "at": "một phần năm",
+       "side": "R",
+       "y": 360,
+       "value": "1/5",
+       "label": "cân nặng mỗi ngày",
+       "target": [
+        0.7,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Có những tài",
+     "image": "assets/long/L140.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tức là nếu",
+     "image": "assets/long/L141.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mà ăn khỏe",
+     "image": "assets/long/L142.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học ở",
+     "image": "assets/long/L143.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phân tử ấy",
+     "image": "assets/long/L144.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vì sao sữa",
+     "image": "assets/long/L145.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngày nay, các",
+     "image": "assets/long/L146.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo ghi",
+     "image": "assets/long/L147.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quầy bếp tiếp",
+     "image": "assets/long/L148.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2024, các",
+     "image": "assets/long/L149.png",
+     "stickers": [
+      {
+       "at": "196 con",
+       "side": "R",
+       "y": 360,
+       "value": "196 CON",
+       "label": "được theo dõi",
+       "target": [
+        0.5,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Câu trả lời:",
+     "image": "assets/long/L150.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Điều thú vị:",
+     "image": "assets/long/L151.png",
+     "stickers": [
+      {
+       "at": "gần gấp 3 lần",
+       "side": "R",
+       "y": 360,
+       "value": "~3 LẦN",
+       "label": "vỏ cứng hơn",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bài học từ",
+     "image": "assets/long/L152.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quầy bếp số",
+     "image": "assets/long/L153.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở vùng biển",
+     "image": "assets/long/L154.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Con cá rơi",
+     "image": "assets/long/L155.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng màn trình",
+     "image": "assets/long/L156.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu chuyện này",
+     "image": "assets/long/L157.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chim Bồ Nông!",
+     "image": "assets/long/L158.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đầu tiên, các",
+     "image": "assets/long/L159.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Họ huấn luyện",
+     "image": "assets/long/L160.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả: khi",
+     "image": "assets/long/L161.png",
+     "stickers": [
+      {
+       "at": "14%",
+       "side": "R",
+       "y": 360,
+       "value": "-14%",
+       "label": "nhịp tim",
+       "target": [
+        0.7,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bí quyết là",
+     "image": "assets/long/L162.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và con bồ",
+     "image": "assets/long/L163.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quầy bếp tiếp theo... trống",
+     "image": "assets/long/L164.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lửng Mật tên",
+     "image": "assets/long/L165.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và họ phát",
+     "image": "assets/long/L166.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "4 con Lửng",
+     "image": "assets/long/L167.png",
+     "stickers": [
+      {
+       "at": "2.800 con",
+       "side": "R",
+       "y": 360,
+       "value": "2.800",
+       "label": "ấu trùng ong",
+       "target": [
+        0.5,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Vậy còn câu",
+     "image": "assets/long/L168.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 1990, ba",
+     "image": "assets/long/L169.png",
+     "stickers": [
+      {
+       "at": "1990",
+       "side": "L",
+       "y": 360,
+       "value": "1990",
+       "label": "bài báo phản bác",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí có",
+     "image": "assets/long/L170.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một nghiên cứu năm",
+     "image": "assets/long/L171.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng ở một",
+     "image": "assets/long/L172.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo kết",
+     "image": "assets/long/L173.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả vòng",
+     "image": "assets/long/L174.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và huy chương",
+     "image": "assets/long/L175.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bảng điểm sau",
+     "image": "assets/long/L176.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn Lửng Mật, ứng",
+     "image": "assets/long/L177.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng đừng vội",
+     "image": "assets/long/L178.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÒNG 3"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "CĂNG TIN ĐẠI HỘI — MỖI TUYỂN THỦ UỐNG NƯỚC VÀ CHỌN MÓN THẾ NÀO",
+   "hook": "ĂN GÌ, UỐNG GÌ GIỮA HIỆP?",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L179.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Koala đến quầy",
+     "image": "assets/long/L180.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa",
+     "image": "assets/long/L181.png",
+     "stickers": [
+      {
+       "at": "10 chú Koala",
+       "side": "R",
+       "y": 360,
+       "value": "10 CHÚ",
+       "label": "được quan sát",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Vì sao phải",
+     "image": "assets/long/L182.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một nghiên cứu",
+     "image": "assets/long/L183.png",
+     "stickers": [
+      {
+       "at": "10 năm",
+       "side": "L",
+       "y": 360,
+       "value": "10 NĂM",
+       "label": "theo dõi",
+       "target": [
+        0.5,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Có nhà khoa",
+     "image": "assets/long/L184.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cá Heo đến",
+     "image": "assets/long/L185.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu trả lời",
+     "image": "assets/long/L186.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một nghiên cứu năm",
+     "image": "assets/long/L187.png",
+     "stickers": [
+      {
+       "at": "90%",
+       "side": "R",
+       "y": 360,
+       "value": "> 90%",
+       "label": "nước từ thức ăn",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Sống giữa đại",
+     "image": "assets/long/L188.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chim Cánh Cụt",
+     "image": "assets/long/L189.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyến này lọc",
+     "image": "assets/long/L190.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và chúng không",
+     "image": "assets/long/L191.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gấu Nước đến",
+     "image": "assets/long/L192.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phần lớn các",
+     "image": "assets/long/L193.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng không phải",
+     "image": "assets/long/L194.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thú Mỏ Vịt,",
+     "image": "assets/long/L195.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để ăn được",
+     "image": "assets/long/L196.png",
+     "stickers": [
+      {
+       "at": "10-12 tiếng",
+       "side": "R",
+       "y": 360,
+       "value": "10-12 GIỜ",
+       "label": "kiếm ăn mỗi ngày",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Lửng Mật thì",
+     "image": "assets/long/L197.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo xin",
+     "image": "assets/long/L198.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cháu ăn no",
+     "image": "assets/long/L199.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hết giờ giải",
+     "image": "assets/long/L200.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "GIỜ GIẢI LAO"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "GIÁC QUAN SIÊU PHÀM — AI NHÌN, NGHE, SỜ GIỎI NHẤT",
+   "hook": "MẮT THẦN, TAI THÍNH, TAY NHẠY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L201.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ban giám khảo",
+     "image": "assets/long/L202.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Rái Cá Biển",
+     "image": "assets/long/L203.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở bang California,",
+     "image": "assets/long/L204.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả: Selka",
+     "image": "assets/long/L205.png",
+     "stickers": [
+      {
+       "at": "0,3mm",
+       "side": "R",
+       "y": 360,
+       "value": "0,3 MM",
+       "label": "rãnh chênh lệch",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và Selka quyết",
+     "image": "assets/long/L206.png",
+     "stickers": [
+      {
+       "at": "30 lần",
+       "side": "L",
+       "y": 360,
+       "value": "x30",
+       "label": "nhanh hơn người",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Vì sao Rái",
+     "image": "assets/long/L207.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo xin",
+     "image": "assets/long/L208.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ tiếp",
+     "image": "assets/long/L209.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bạn đã bao",
+     "image": "assets/long/L210.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chim cánh cụt giải",
+     "image": "assets/long/L211.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ vậy, Chim",
+     "image": "assets/long/L212.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ tiếp theo, Koala,",
+     "image": "assets/long/L213.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2011, các",
+     "image": "assets/long/L214.png",
+     "stickers": [
+      {
+       "at": "20 chú",
+       "side": "R",
+       "y": 360,
+       "value": "20 CHÚ",
+       "label": "thu âm tiếng rống",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và quan trọng",
+     "image": "assets/long/L215.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nghiên cứu",
+     "image": "assets/long/L216.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cháu biết rồi,",
+     "image": "assets/long/L217.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ tiếp theo, Cá",
+     "image": "assets/long/L218.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhiệm vụ: liên",
+     "image": "assets/long/L219.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một chú cá",
+     "image": "assets/long/L220.png",
+     "stickers": [
+      {
+       "at": "15 ngày",
+       "side": "R",
+       "y": 360,
+       "value": "15 NGÀY",
+       "label": "canh gác liên tục",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và cuộc thử",
+     "image": "assets/long/L221.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khán giả của",
+     "image": "assets/long/L222.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng Chim Cánh",
+     "image": "assets/long/L223.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và họ phát",
+     "image": "assets/long/L224.png",
+     "stickers": [
+      {
+       "at": "10.000 lần",
+       "side": "R",
+       "y": 360,
+       "value": "10.000",
+       "label": "giấc ngủ mỗi ngày",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cộng tất cả",
+     "image": "assets/long/L225.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo xin tổng",
+     "image": "assets/long/L226.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả vòng",
+     "image": "assets/long/L227.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương bạc:",
+     "image": "assets/long/L228.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thuộc về Cá",
+     "image": "assets/long/L229.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bảng điểm sau",
+     "image": "assets/long/L230.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vòng tiếp theo",
+     "image": "assets/long/L231.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÒNG 4"
+  },
+  "scene07": {
+   "chapter_no": 7,
+   "title": "ĐÊM TRƯỚC VÒNG QUYẾT ĐỊNH — AI NGỦ, AI THỨC, AI TẬP LUYỆN",
+   "hook": "ĐÊM KHÔNG NGỦ Ở ĐẠI HỘI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L232.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Máy quay hậu",
+     "image": "assets/long/L233.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phòng số một:",
+     "image": "assets/long/L234.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở công viên",
+     "image": "assets/long/L235.png",
+     "stickers": [
+      {
+       "at": "150-200km",
+       "side": "R",
+       "y": 360,
+       "value": "150-200 KM",
+       "label": "mỗi tuần",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và chúng rất",
+     "image": "assets/long/L236.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phòng số hai:",
+     "image": "assets/long/L237.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đó là giai",
+     "image": "assets/long/L238.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa",
+     "image": "assets/long/L239.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phòng số ba:",
+     "image": "assets/long/L240.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Như vòng bốn",
+     "image": "assets/long/L241.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phòng số bốn:",
+     "image": "assets/long/L242.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học cho",
+     "image": "assets/long/L243.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phòng số năm:",
+     "image": "assets/long/L244.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2020 mốt,",
+     "image": "assets/long/L245.png",
+     "stickers": [
+      {
+       "at": "500.000 lần",
+       "side": "R",
+       "y": 360,
+       "value": "x500.000",
+       "label": "côn trùng to hơn",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Lúc đi dạo,",
+     "image": "assets/long/L246.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phòng số sáu,",
+     "image": "assets/long/L247.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Máy quay chạy",
+     "image": "assets/long/L248.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hóa ra gã",
+     "image": "assets/long/L249.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Máy quay hậu trường xin",
+     "image": "assets/long/L250.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trời sáng dần.",
+     "image": "assets/long/L251.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HẬU TRƯỜNG"
+  },
+  "scene08": {
+   "chapter_no": 8,
+   "title": "CHA MẸ PHI THƯỜNG — AI NUÔI CON GIỎI NHẤT HOANG DÃ",
+   "hook": "NUÔI CON KIỂU HOANG DÃ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L252.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo sẽ",
+     "image": "assets/long/L253.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mở màn là",
+     "image": "assets/long/L254.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở sa mạc",
+     "image": "assets/long/L255.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và để giữ",
+     "image": "assets/long/L256.png",
+     "stickers": [
+      {
+       "at": "2km",
+       "side": "R",
+       "y": 360,
+       "value": "~2 KM",
+       "label": "mỗi lần chuyển hang",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Lửng con ở",
+     "image": "assets/long/L257.png",
+     "stickers": [
+      {
+       "at": "14 tháng",
+       "side": "L",
+       "y": 360,
+       "value": "14 THÁNG",
+       "label": "học cùng mẹ",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo xin",
+     "image": "assets/long/L258.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ tiếp",
+     "image": "assets/long/L259.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trước khi đẻ,",
+     "image": "assets/long/L260.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và mỗi lần",
+     "image": "assets/long/L261.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thú Mỏ Vịt mẹ đẻ",
+     "image": "assets/long/L262.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ tiếp theo, Rái",
+     "image": "assets/long/L263.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nên khi mẹ",
+     "image": "assets/long/L264.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Rái cá con phụ",
+     "image": "assets/long/L265.png",
+     "stickers": [
+      {
+       "at": "6 đến 8 tháng",
+       "side": "R",
+       "y": 360,
+       "value": "6-8 THÁNG",
+       "label": "học cùng mẹ",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ tiếp theo, Cá",
+     "image": "assets/long/L266.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học ở",
+     "image": "assets/long/L267.png",
+     "stickers": [
+      {
+       "at": "19 cá heo",
+       "side": "R",
+       "y": 360,
+       "value": "19",
+       "label": "cá heo mẹ",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tiếng huýt sáo cao",
+     "image": "assets/long/L268.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và cuối cùng,",
+     "image": "assets/long/L269.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chồn con được",
+     "image": "assets/long/L270.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ tiếp theo, Chim",
+     "image": "assets/long/L271.png",
+     "stickers": [
+      {
+       "at": "12 ngày",
+       "side": "R",
+       "y": 360,
+       "value": "~12 NGÀY",
+       "label": "mỗi ca ấp",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng ca đầu",
+     "image": "assets/long/L272.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi chim con",
+     "image": "assets/long/L273.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và một bất",
+     "image": "assets/long/L274.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cả bố và",
+     "image": "assets/long/L275.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Theo các nhà",
+     "image": "assets/long/L276.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ban giám khảo",
+     "image": "assets/long/L277.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả vòng",
+     "image": "assets/long/L278.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương bạc:",
+     "image": "assets/long/L279.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thuộc về Lửng",
+     "image": "assets/long/L280.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lửng Mật cuối",
+     "image": "assets/long/L281.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gấu Nước ngước",
+     "image": "assets/long/L282.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÒNG 5"
+  },
+  "scene09": {
+   "chapter_no": 9,
+   "title": "SỨC MẠNH ĐỒNG ĐỘI — AI BIẾT HỢP TÁC, AI NHỚ BẠN LÂU NHẤT",
+   "hook": "MỘT CÂY LÀM CHẲNG NÊN NON",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L283.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo chấm",
+     "image": "assets/long/L284.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cá Heo bước",
+     "image": "assets/long/L285.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở đây, mỗi",
+     "image": "assets/long/L286.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cá Heo dồn",
+     "image": "assets/long/L287.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Người đánh cá lập",
+     "image": "assets/long/L288.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2023, các",
+     "image": "assets/long/L289.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi có Cá",
+     "image": "assets/long/L290.png",
+     "stickers": [
+      {
+       "at": "17 lần",
+       "side": "R",
+       "y": 360,
+       "value": "x17",
+       "label": "khả năng bắt cá",
+       "target": [
+        0.7,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và Cá Heo cũng",
+     "image": "assets/long/L291.png",
+     "stickers": [
+      {
+       "at": "13%",
+       "side": "L",
+       "y": 380,
+       "value": "+13%",
+       "label": "tỷ lệ sống sót",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Điều kỳ diệu",
+     "image": "assets/long/L292.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng các nhà",
+     "image": "assets/long/L293.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng Cá Heo",
+     "image": "assets/long/L294.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2013, một",
+     "image": "assets/long/L295.png",
+     "stickers": [
+      {
+       "at": "53 chú",
+       "side": "R",
+       "y": 360,
+       "value": "53 CON",
+       "label": "được thử nghiệm",
+       "target": [
+        0.5,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Có một chú",
+     "image": "assets/long/L296.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hai bạn đã",
+     "image": "assets/long/L297.png",
+     "stickers": [
+      {
+       "at": "20 năm",
+       "side": "R",
+       "y": 360,
+       "value": "20 NĂM",
+       "label": "vẫn nhớ tên bạn",
+       "target": [
+        0.5,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo... xin",
+     "image": "assets/long/L298.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ tiếp",
+     "image": "assets/long/L299.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thông thường mỗi",
+     "image": "assets/long/L300.png",
+     "stickers": [
+      {
+       "at": "2.000 con",
+       "side": "R",
+       "y": 360,
+       "value": "2.000",
+       "label": "rái cá một bè",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và bè rái",
+     "image": "assets/long/L301.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ tiếp theo không",
+     "image": "assets/long/L302.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở mũi đất",
+     "image": "assets/long/L303.png",
+     "stickers": [
+      {
+       "at": "150.000",
+       "side": "R",
+       "y": 360,
+       "value": "150.000",
+       "label": "cặp làm tổ",
+       "target": [
+        0.5,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trong một thành",
+     "image": "assets/long/L304.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và giờ, đến",
+     "image": "assets/long/L305.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng giám khảo",
+     "image": "assets/long/L306.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu trả lời",
+     "image": "assets/long/L307.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đầu tiên, dang",
+     "image": "assets/long/L308.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng không phải",
+     "image": "assets/long/L309.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và mục đích",
+     "image": "assets/long/L310.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một võ sĩ",
+     "image": "assets/long/L311.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn Lửng Mật?",
+     "image": "assets/long/L312.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo xin trả",
+     "image": "assets/long/L313.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vừa giành huy",
+     "image": "assets/long/L314.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả vòng",
+     "image": "assets/long/L315.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương bạc:",
+     "image": "assets/long/L316.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thuộc về Cá",
+     "image": "assets/long/L317.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bảng điểm sau",
+     "image": "assets/long/L318.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng vòng bảy",
+     "image": "assets/long/L319.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và có những",
+     "image": "assets/long/L320.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÒNG 6"
+  },
+  "scene10": {
+   "chapter_no": 10,
+   "title": "PHÓNG VIÊN HỎI KHÓ — TUYỂN THỦ TRẢ LỜI BẰNG SỰ THẬT",
+   "hook": "HỎI XOÁY, ĐÁP... KHOA HỌC",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L321.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu hỏi đầu",
+     "image": "assets/long/L322.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu trả lời",
+     "image": "assets/long/L323.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa",
+     "image": "assets/long/L324.png",
+     "stickers": [
+      {
+       "at": "40 mét",
+       "side": "R",
+       "y": 360,
+       "value": "40 M",
+       "label": "đốm vẫn sáng",
+       "target": [
+        0.5,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và những đốm",
+     "image": "assets/long/L325.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tôm Tít trả",
+     "image": "assets/long/L326.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu hỏi thứ",
+     "image": "assets/long/L327.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đó là anh",
+     "image": "assets/long/L328.png",
+     "stickers": [
+      {
+       "at": "20 mét",
+       "side": "R",
+       "y": 360,
+       "value": "> 20 M",
+       "label": "độ cao bổ nhào",
+       "target": [
+        0.5,
+        0.35
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bí mật nằm",
+     "image": "assets/long/L329.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu hỏi thứ ba",
+     "image": "assets/long/L330.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đó là tên \"Ratel\".",
+     "image": "assets/long/L331.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn ở Uganda,",
+     "image": "assets/long/L332.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "\"Kẻ không nghe thấy\"... Có",
+     "image": "assets/long/L333.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu hỏi thứ tư",
+     "image": "assets/long/L334.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tên khoa học của Chồn",
+     "image": "assets/long/L335.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và cả phòng",
+     "image": "assets/long/L336.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng các nhà",
+     "image": "assets/long/L337.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu hỏi cuối",
+     "image": "assets/long/L338.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây là một",
+     "image": "assets/long/L339.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Miệng túi có",
+     "image": "assets/long/L340.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hồi nhỏ cháu",
+     "image": "assets/long/L341.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Xin cảm ơn",
+     "image": "assets/long/L342.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Buổi họp báo kết",
+     "image": "assets/long/L343.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỌP BÁO"
+  },
+  "scene11": {
+   "chapter_no": 11,
+   "title": "PHÚC KHẢO TIN ĐỒN — HUYỀN THOẠI NÀO ĐÚNG, HUYỀN THOẠI NÀO SAI",
+   "hook": "TIN ĐỒN HAY SỰ THẬT?",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L344.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hồ sơ phúc",
+     "image": "assets/long/L345.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Con số 16",
+     "image": "assets/long/L346.png",
+     "stickers": [
+      {
+       "at": "2014",
+       "side": "L",
+       "y": 360,
+       "value": "2014",
+       "label": "thí nghiệm màu",
+       "target": [
+        0.5,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả bất",
+     "image": "assets/long/L347.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hóa ra 12",
+     "image": "assets/long/L348.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học cho",
+     "image": "assets/long/L349.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phán quyết: tin",
+     "image": "assets/long/L350.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tôm Tít gật",
+     "image": "assets/long/L351.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hồ sơ phúc khảo số hai:",
+     "image": "assets/long/L352.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo hỏi",
+     "image": "assets/long/L353.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lửng Mật im",
+     "image": "assets/long/L354.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phán quyết: tin đồn chưa",
+     "image": "assets/long/L355.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hồ sơ phúc khảo số ba:",
+     "image": "assets/long/L356.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khán giả của",
+     "image": "assets/long/L357.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Họ cho Gấu",
+     "image": "assets/long/L358.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả: đến",
+     "image": "assets/long/L359.png",
+     "stickers": [
+      {
+       "at": "825m",
+       "side": "R",
+       "y": 360,
+       "value": "825 M/S",
+       "label": "giới hạn sống sót",
+       "target": [
+        0.45,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và cú va",
+     "image": "assets/long/L360.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phán quyết: tin đồn Gấu",
+     "image": "assets/long/L361.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng khoan, Gấu",
+     "image": "assets/long/L362.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hồ sơ phúc khảo số bốn:",
+     "image": "assets/long/L363.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hình ảnh này",
+     "image": "assets/long/L364.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khoa học trả",
+     "image": "assets/long/L365.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thêm nữa, đầu",
+     "image": "assets/long/L366.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phán quyết: tin đồn sai.",
+     "image": "assets/long/L367.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hồ sơ phúc khảo số năm,",
+     "image": "assets/long/L368.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vòng một đã",
+     "image": "assets/long/L369.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cháu có uống",
+     "image": "assets/long/L370.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phán quyết: tin đồn \"gần",
+     "image": "assets/long/L371.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả vòng",
+     "image": "assets/long/L372.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương bạc:",
+     "image": "assets/long/L373.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và huy chương",
+     "image": "assets/long/L374.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bảng điểm sau",
+     "image": "assets/long/L375.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ba tuyển thủ",
+     "image": "assets/long/L376.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu hỏi của",
+     "image": "assets/long/L377.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÒNG 7"
+  },
+  "scene12": {
+   "chapter_no": 12,
+   "title": "THỌ NHẤT, LẶN CHĂM NHẤT, ĂN KHỎE NHẤT, HỒI SINH NGOẠN MỤC NHẤT",
+   "hook": "NHỮNG KỶ LỤC BÊN LỀ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L378.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giải phụ thứ",
+     "image": "assets/long/L379.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nicklo là một",
+     "image": "assets/long/L380.png",
+     "stickers": [
+      {
+       "at": "820 lần",
+       "side": "R",
+       "y": 360,
+       "value": "820 LẦN",
+       "label": "được nhìn thấy",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Để biết tuổi",
+     "image": "assets/long/L381.png",
+     "stickers": [
+      {
+       "at": "67 tuổi",
+       "side": "R",
+       "y": 360,
+       "value": "67 TUỔI",
+       "label": "cá heo hoang dã",
+       "target": [
+        0.5,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nicklo là cá",
+     "image": "assets/long/L382.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo xin",
+     "image": "assets/long/L383.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giải phụ thứ hai:",
+     "image": "assets/long/L384.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chú được gắn",
+     "image": "assets/long/L385.png",
+     "stickers": [
+      {
+       "at": "24 tuổi",
+       "side": "R",
+       "y": 360,
+       "value": "24 TUỔI",
+       "label": "kỷ lục hoang dã",
+       "target": [
+        0.5,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trong khi đó,",
+     "image": "assets/long/L386.png",
+     "stickers": [
+      {
+       "at": "3-8 năm",
+       "side": "L",
+       "y": 360,
+       "value": "3-8 NĂM",
+       "label": "tuổi thọ hoang dã",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Giải phụ thứ ba:",
+     "image": "assets/long/L387.png",
+     "stickers": [
+      {
+       "at": "90.000 lần",
+       "side": "R",
+       "y": 360,
+       "value": "~90.000",
+       "label": "lần lặn",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi lần lặn",
+     "image": "assets/long/L388.png",
+     "stickers": [
+      {
+       "at": "1.600 lần",
+       "side": "R",
+       "y": 360,
+       "value": "1.600 LẦN",
+       "label": "một chuyến kiếm ăn",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Giải phụ thứ tư:",
+     "image": "assets/long/L389.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2020 mốt,",
+     "image": "assets/long/L390.png",
+     "stickers": [
+      {
+       "at": "21 chú",
+       "side": "R",
+       "y": 360,
+       "value": "21 CHÚ",
+       "label": "mẫu cơ bắp",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và họ phát",
+     "image": "assets/long/L391.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Điều bất ngờ",
+     "image": "assets/long/L392.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giải phụ thứ năm:",
+     "image": "assets/long/L393.png",
+     "stickers": [
+      {
+       "at": "30 triệu năm",
+       "side": "R",
+       "y": 360,
+       "value": "30 TRIỆU",
+       "label": "năm tuổi hóa thạch",
+       "target": [
+        0.5,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và điều khiến",
+     "image": "assets/long/L394.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học đoán",
+     "image": "assets/long/L395.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giải phụ thứ sáu:",
+     "image": "assets/long/L396.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tên khoa học của Lửng",
+     "image": "assets/long/L397.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tên của Tôm",
+     "image": "assets/long/L398.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gấu Nước được",
+     "image": "assets/long/L399.png",
+     "stickers": [
+      {
+       "at": "năm 1773",
+       "side": "R",
+       "y": 360,
+       "value": "1773",
+       "label": "lần đầu được mô tả",
+       "target": [
+        0.5,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Ba năm sau,",
+     "image": "assets/long/L400.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn Thú Mỏ",
+     "image": "assets/long/L401.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thế là Thú",
+     "image": "assets/long/L402.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giải phụ cuối",
+     "image": "assets/long/L403.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bộ lông dày",
+     "image": "assets/long/L404.png",
+     "stickers": [
+      {
+       "at": "1.000 đến 2.000 con",
+       "side": "R",
+       "y": 360,
+       "value": "~1.500",
+       "label": "còn lại năm 1911",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và cũng chính",
+     "image": "assets/long/L405.png",
+     "stickers": [
+      {
+       "at": "100.000",
+       "side": "R",
+       "y": 360,
+       "value": "> 100.000",
+       "label": "ngày nay",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Từ 1.000 con",
+     "image": "assets/long/L406.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo xin trao",
+     "image": "assets/long/L407.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ủa, vậy là",
+     "image": "assets/long/L408.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu hỏi rất",
+     "image": "assets/long/L409.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lễ trao giải phụ khép",
+     "image": "assets/long/L410.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "GIẢI PHỤ"
+  },
+  "scene13": {
+   "chapter_no": 13,
+   "title": "AI ĐÃ GIÚP ÍCH CHO LOÀI NGƯỜI NHIỀU NHẤT",
+   "hook": "ĐIỂM NHÂN ĐÔI – AI LÊN NGÔI?",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L411.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Rái Cá Biển",
+     "image": "assets/long/L412.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2016, các",
+     "image": "assets/long/L413.png",
+     "stickers": [
+      {
+       "at": "2016",
+       "side": "L",
+       "y": 360,
+       "value": "2016",
+       "label": "lông nhân tạo",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Họ phát hiện:",
+     "image": "assets/long/L414.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chim Cánh Cụt",
+     "image": "assets/long/L415.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa",
+     "image": "assets/long/L416.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Họ bắt chước",
+     "image": "assets/long/L417.png",
+     "stickers": [
+      {
+       "at": "95%",
+       "side": "R",
+       "y": 360,
+       "value": "-95%",
+       "label": "băng bám",
+       "target": [
+        0.72,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học hy",
+     "image": "assets/long/L418.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bồ Nông mở",
+     "image": "assets/long/L419.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ việc nghiên",
+     "image": "assets/long/L420.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chiếc bay sau",
+     "image": "assets/long/L421.png",
+     "stickers": [
+      {
+       "at": "6 tấn",
+       "side": "R",
+       "y": 360,
+       "value": "-6 TẤN",
+       "label": "khí thải CO2",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tôm Tít mở",
+     "image": "assets/long/L422.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một chiếc càng",
+     "image": "assets/long/L423.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Họ thấy những",
+     "image": "assets/long/L424.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cấu trúc xoắn",
+     "image": "assets/long/L425.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cá Heo xin",
+     "image": "assets/long/L426.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bến cảng ấy",
+     "image": "assets/long/L427.png",
+     "stickers": [
+      {
+       "at": "hơn 100 quả",
+       "side": "R",
+       "y": 360,
+       "value": "> 100",
+       "label": "thủy lôi và vật nổ",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đó là lúc",
+     "image": "assets/long/L428.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi phát hiện",
+     "image": "assets/long/L429.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ vậy, chỉ",
+     "image": "assets/long/L430.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo ghi nhận món",
+     "image": "assets/long/L431.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gấu Nước mở",
+     "image": "assets/long/L432.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2016, các nhà",
+     "image": "assets/long/L433.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Rồi họ làm",
+     "image": "assets/long/L434.png",
+     "stickers": [
+      {
+       "at": "40%",
+       "side": "R",
+       "y": 360,
+       "value": "-40%",
+       "label": "hư hại ADN",
+       "target": [
+        0.72,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Một chú gấu",
+     "image": "assets/long/L435.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và cuối cùng,",
+     "image": "assets/long/L436.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thú Mỏ Vịt đực",
+     "image": "assets/long/L437.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vấn đề là",
+     "image": "assets/long/L438.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và một hormone",
+     "image": "assets/long/L439.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sữa có chất",
+     "image": "assets/long/L440.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo ra",
+     "image": "assets/long/L441.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương đồng",
+     "image": "assets/long/L442.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương bạc,",
+     "image": "assets/long/L443.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và huy chương",
+     "image": "assets/long/L444.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và đây là",
+     "image": "assets/long/L445.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hạng ba: Lửng",
+     "image": "assets/long/L446.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hạng hai: Cá",
+     "image": "assets/long/L447.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và nhà vô",
+     "image": "assets/long/L448.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thú Mỏ Vịt! Tuyển",
+     "image": "assets/long/L449.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CHUNG KẾT"
+  },
+  "scene14": {
+   "chapter_no": 14,
+   "title": "NHÀ VÔ ĐỊCH BẤT NGỜ VÀ BÀI HỌC CỦA ĐẠI HỘI",
+   "hook": "KẺ BỊ CHÊ LÊN NGÔI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L450.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ủa... vậy là",
+     "image": "assets/long/L451.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhìn lại cả",
+     "image": "assets/long/L452.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vì sinh tồn",
+     "image": "assets/long/L453.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và có 1",
+     "image": "assets/long/L454.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thiên nhiên không",
+     "image": "assets/long/L455.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và cũng có",
+     "image": "assets/long/L456.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tháng 11/2023, đến",
+     "image": "assets/long/L457.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chồn Gulo cần",
+     "image": "assets/long/L458.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu những loài",
+     "image": "assets/long/L459.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trước khi chia",
+     "image": "assets/long/L460.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vô địch: Thú",
+     "image": "assets/long/L461.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Á quân: Cá",
+     "image": "assets/long/L462.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hạng ba: Lửng",
+     "image": "assets/long/L463.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hạng tư: Gấu",
+     "image": "assets/long/L464.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và cuối bảng,",
+     "image": "assets/long/L465.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và nếu phải",
+     "image": "assets/long/L466.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chim Cánh Cụt đi",
+     "image": "assets/long/L467.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và bây giờ,",
+     "image": "assets/long/L468.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy viết tên",
+     "image": "assets/long/L469.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vì Đại Hội",
+     "image": "assets/long/L470.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và lần này,",
+     "image": "assets/long/L471.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẾ MẠC"
+  }
+ }
+}

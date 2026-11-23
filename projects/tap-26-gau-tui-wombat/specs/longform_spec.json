@@ -1,0 +1,736 @@
+{
+ "episode": "tap-26-gau-tui-wombat",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 6,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "intro_mode": "full_first",
+ "output": "renders/tap-26-gau-tui-wombat_long.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 74.272,
+   "chapter_no": 1,
+   "badge": "HỒ SƠ VŨ KHÍ",
+   "header_image": "assets/banners/chapter_01.png",
+   "title": "CHIẾN XA ĐÀO HẦM NẶNG 35KG CỦA NƯỚC ÚC",
+   "card_hook": "",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L01.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 6.54,
+     "image": "assets/long/L02.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 12.38,
+     "image": "assets/long/L03.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 14.2,
+       "side": "R",
+       "y": 350,
+       "value": "25-35 KG",
+       "label": "cân nặng xe tăng",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 22.83,
+     "image": "assets/long/L04.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 29.56,
+     "image": "assets/long/L05.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 38.76,
+     "image": "assets/long/L06.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b07",
+     "start_s": 44.88,
+     "image": "assets/long/L07.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b08",
+     "start_s": 52.5,
+     "image": "assets/long/L08.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b09",
+     "start_s": 57.48,
+     "image": "assets/long/L09.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b10",
+     "start_s": 69.52,
+     "image": "assets/long/L10.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 101.695,
+   "chapter_no": 2,
+   "badge": "BẢN VẼ CƠ KHÍ",
+   "header_image": "assets/banners/chapter_02.png",
+   "title": "TẤM KHIÊN MÔNG BỌC THÉP 3CM VÀ TÚI MỞ NGƯỢC",
+   "card_hook": "TẤM KHIÊN MÔNG CHỊU MỌI CÚ CẮN CỦA DINGO",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L11.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 9.0,
+     "image": "assets/long/L12.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 19.07,
+     "image": "assets/long/L13.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 28.11,
+       "side": "R",
+       "y": 350,
+       "value": "DÀY 2-3 CM",
+       "label": "khiên sụn bọc thép",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 32.57,
+     "image": "assets/long/L14.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 38.3,
+     "image": "assets/long/L15.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b06",
+     "start_s": 46.08,
+     "image": "assets/long/L16.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b07",
+     "start_s": 55.28,
+     "image": "assets/long/L17.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b08",
+     "start_s": 67.1,
+     "image": "assets/long/L18.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 71.16,
+       "side": "L",
+       "y": 350,
+       "value": "SÂU 20-30M",
+       "label": "mạng lưới hang ngầm",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b09",
+     "start_s": 78.29,
+     "image": "assets/long/L19.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b10",
+     "start_s": 91.45,
+     "image": "assets/long/L20.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b11",
+     "start_s": 96.31,
+     "image": "assets/long/L21.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 114.201,
+   "chapter_no": 3,
+   "badge": "DÂY CHUYỀN ĐÚC",
+   "header_image": "assets/banners/chapter_03.png",
+   "title": "8% RUỘT GIÀ ĐÚC 100 KHỐI LẬP PHƯƠNG MỖI NGÀY",
+   "card_hook": "SINH VẬT DUY NHẤT ĐÚC ĐƯỢC HÌNH LẬP PHƯƠNG TỰ NHIÊN",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L22.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 7.04,
+     "image": "assets/long/L23.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 14.2,
+     "image": "assets/long/L24.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 18.7,
+       "side": "R",
+       "y": 350,
+       "value": "6 MẶT",
+       "label": "khối lập phương",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 19.54,
+     "image": "assets/long/L25.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b05",
+     "start_s": 27.19,
+     "image": "assets/long/L26.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 27.65,
+       "side": "L",
+       "y": 350,
+       "value": "IG NOBEL",
+       "label": "Patricia Yang 2019",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b06",
+     "start_s": 39.79,
+     "image": "assets/long/L27.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 41.39,
+       "side": "R",
+       "y": 350,
+       "value": "8% CUỐI",
+       "label": "ruột già đúc gạch",
+       "target": [
+        0.68,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b07",
+     "start_s": 43.54,
+     "image": "assets/long/L28.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b08",
+     "start_s": 54.46,
+     "image": "assets/long/L29.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 55.9,
+       "side": "R",
+       "y": 350,
+       "value": "2 TUẦN",
+       "label": "thời gian tiêu hóa",
+       "target": [
+        0.65,
+        0.5
+       ]
+      },
+      {
+       "t": 64.94,
+       "side": "L",
+       "y": 480,
+       "value": "4 MẶT",
+       "label": "áp lực co bóp thành",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b09",
+     "start_s": 67.11,
+     "image": "assets/long/L30.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 69.95,
+       "side": "R",
+       "y": 350,
+       "value": "80-100 V",
+       "label": "sản xuất mỗi đêm",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b10",
+     "start_s": 78.27,
+     "image": "assets/long/L31.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b11",
+     "start_s": 83.51,
+     "image": "assets/long/L32.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b12",
+     "start_s": 93.73,
+     "image": "assets/long/L33.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b13",
+     "start_s": 107.23,
+     "image": "assets/long/L34.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 79.28,
+   "chapter_no": 4,
+   "badge": "THỰC CHIẾN",
+   "header_image": "assets/banners/chapter_04.png",
+   "title": "CÚ ĐÁ LỪA NGƯỢC VÀ ÉP NÁT SỌ KẺ THÙ VÀO TRẦN HANG",
+   "card_hook": "GỒNG MÔNG BỌC THÉP NGHIỀN NÁT HỘP SỌ KẺ SĂN MỒI",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L35.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 6.94,
+     "image": "assets/long/L36.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 13.01,
+     "image": "assets/long/L37.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 25.77,
+     "image": "assets/long/L38.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b05",
+     "start_s": 28.87,
+     "image": "assets/long/L39.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 35.55,
+       "side": "R",
+       "y": 350,
+       "value": "35 KG ÉP",
+       "label": "nghiền nát hộp sọ",
+       "target": [
+        0.62,
+        0.45
+       ]
+      }
+     ],
+     "impacts": [
+      29.17
+     ]
+    },
+    {
+     "id": "scene04_b06",
+     "start_s": 39.95,
+     "image": "assets/long/L40.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b07",
+     "start_s": 47.85,
+     "image": "assets/long/L41.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b08",
+     "start_s": 52.89,
+     "image": "assets/long/L42.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b09",
+     "start_s": 65.45,
+     "image": "assets/long/L43.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 69.43,
+       "side": "L",
+       "y": 350,
+       "value": "40 KM/H",
+       "label": "nước rút trong 90s",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 69.865,
+   "chapter_no": 5,
+   "badge": "ĐIỂM YẾU KỸ THUẬT",
+   "header_image": "assets/banners/chapter_05.png",
+   "title": "BỆNH GHẺ LỞ, CẬN THỊ NẶNG VÀ TAI NẠN GIAO THÔNG",
+   "card_hook": "TỬ HUYỆT BỆNH GHẺ VÀ SỨ MỆNH ĐƯỢC CHIA SẺ HANG NGẦM",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L44.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 14.49,
+     "image": "assets/long/L45.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 29.18,
+     "image": "assets/long/L46.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 43.86,
+     "image": "assets/long/L47.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b05",
+     "start_s": 54.5,
+     "image": "assets/long/L48.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 60.64,
+       "side": "R",
+       "y": 350,
+       "value": "DÀI 30 MÉT",
+       "label": "sâu 3m mát rượi",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b06",
+     "start_s": 62.78,
+     "image": "assets/long/L49.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 69.918,
+   "chapter_no": 6,
+   "badge": "BÁO CÁO KỸ THUẬT",
+   "header_image": "assets/banners/chapter_06.png",
+   "title": "CHIẾC XE TĂNG LẦY LỘI VÀ BÓNG ĐEN 22 XÚC TU KỲ SAU",
+   "card_hook": "BÁO CÁO KỸ THUẬT VÀ BÓNG ĐEN CHIẾC MŨI 22 XÚC TU",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L50.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 8.46,
+     "image": "assets/long/L51.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 15.6,
+     "image": "assets/long/L52.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 17.96,
+       "side": "R",
+       "y": 350,
+       "value": "ĐIỂM 10",
+       "label": "nghiệm thu vũ khí",
+       "target": [
+        0.58,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b04",
+     "start_s": 25.97,
+     "image": "assets/long/L53.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b05",
+     "start_s": 40.05,
+     "image": "assets/long/L54.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b06",
+     "start_s": 49.97,
+     "image": "assets/long/L55.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 51.92,
+       "side": "L",
+       "y": 350,
+       "value": "NẶNG 50G",
+       "label": "chuột chũi sao",
+       "target": [
+        0.35,
+        0.45
+       ]
+      },
+      {
+       "t": 56.19,
+       "side": "R",
+       "y": 480,
+       "value": "22 XÚC TU",
+       "label": "mũi hình bông hoa",
+       "target": [
+        0.68,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b07",
+     "start_s": 57.51,
+     "image": "assets/long/L56.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 60.98,
+       "side": "L",
+       "y": 350,
+       "value": "0,12 GIÂY",
+       "label": "ăn nhanh nhất thế giới",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

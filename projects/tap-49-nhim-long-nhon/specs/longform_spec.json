@@ -1,0 +1,592 @@
+{
+ "episode": "tap-49-nhim-long-nhon",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 6,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "intro_mode": "full_first",
+ "output": "renders/tap-49-nhim-long-nhon_long.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 89.895,
+   "chapter_no": 1,
+   "badge": "SƠ ĐỒ VŨ KHÍ",
+   "header_image": "assets/banners/chapter_01.png",
+   "title": "BẢN VẼ PHÁO ĐÀI RẢI GAI SỐNG",
+   "card_hook": "PHÁO ĐÀI GAi TỰ ĐỘNG BỎNG MÔN",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L01.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 6.06,
+     "image": "assets/long/L02.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 16.22,
+     "image": "assets/long/L03.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 23.4,
+       "side": "right",
+       "y": 420,
+       "value": "30.000 GAI",
+       "label": "KHO VŨ KHÍ GAI",
+       "target": [
+        650,
+        400
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 26.44,
+     "image": "assets/long/L04.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 35.86,
+     "image": "assets/long/L05.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 45.16,
+     "image": "assets/long/L06.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b07",
+     "start_s": 56.11,
+     "image": "assets/long/L07.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b08",
+     "start_s": 66.29,
+     "image": "assets/long/L08.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b09",
+     "start_s": 75.63,
+     "image": "assets/long/L09.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 112.527,
+   "chapter_no": 2,
+   "badge": "VI NGẠNH NGƯỢC SEM",
+   "header_image": "assets/banners/chapter_02.png",
+   "title": "CÔNG NGHỆ NGẠNH MÓC MICROSCOPIC",
+   "card_hook": "LƯỠI LAO XUYÊN THỦNG VÀ KHÓA CHẶT",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L10.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 9.36,
+     "image": "assets/long/L11.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 23.72,
+     "image": "assets/long/L12.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 36.77,
+     "image": "assets/long/L13.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 50.2,
+     "image": "assets/long/L14.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 54.46,
+       "side": "left",
+       "y": 420,
+       "value": "-54%",
+       "label": "LỰC ĐÂM XUYÊN",
+       "target": [
+        350,
+        420
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b06",
+     "start_s": 61.42,
+     "image": "assets/long/L15.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b07",
+     "start_s": 71.66,
+     "image": "assets/long/L16.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b08",
+     "start_s": 83.83,
+     "image": "assets/long/L17.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 89.27,
+       "side": "right",
+       "y": 420,
+       "value": "+300%",
+       "label": "LỰC CẢN NHỔ",
+       "target": [
+        700,
+        450
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b09",
+     "start_s": 98.14,
+     "image": "assets/long/L18.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 110.232,
+   "chapter_no": 3,
+   "badge": "CƠ CHẾ TỰ RÚT SÂU",
+   "header_image": "assets/banners/chapter_03.png",
+   "title": "MŨI KHOAN SINH HỌC DI ĐỘNG",
+   "card_hook": "ĐI XUYÊN TIM PHỔI BÁO HOA MAI",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L19.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 6.96,
+     "image": "assets/long/L20.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 18.7,
+     "image": "assets/long/L21.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 24.78,
+       "side": "left",
+       "y": 420,
+       "value": "1 mm/h",
+       "label": "TỰ KHOAN SÂU",
+       "target": [
+        400,
+        380
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 30.6,
+     "image": "assets/long/L22.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b05",
+     "start_s": 43.99,
+     "image": "assets/long/L23.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b06",
+     "start_s": 56.39,
+     "image": "assets/long/L24.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b07",
+     "start_s": 69.81,
+     "image": "assets/long/L25.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b08",
+     "start_s": 82.44,
+     "image": "assets/long/L26.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b09",
+     "start_s": 96.14,
+     "image": "assets/long/L27.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 104.429,
+   "chapter_no": 4,
+   "badge": "LỚP MỠ KHÁNG SINH",
+   "header_image": "assets/banners/chapter_04.png",
+   "title": "THUỐC KHÁNG SINH QUÉT TRÊN MŨI TÊN",
+   "card_hook": "TỰ CHỮA LÀNH KHI NGÃ CÂY",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L28.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 7.16,
+     "image": "assets/long/L29.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 17.74,
+     "image": "assets/long/L30.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 28.88,
+     "image": "assets/long/L31.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b05",
+     "start_s": 40.53,
+     "image": "assets/long/L32.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b06",
+     "start_s": 52.89,
+     "image": "assets/long/L33.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b07",
+     "start_s": 64.93,
+     "image": "assets/long/L34.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b08",
+     "start_s": 77.18,
+     "image": "assets/long/L35.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b09",
+     "start_s": 90.76,
+     "image": "assets/long/L36.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 99.66,
+       "side": "right",
+       "y": 420,
+       "value": "10 MÉT",
+       "label": "ĐỘ CAO TRÈO",
+       "target": [
+        680,
+        420
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 89.614,
+   "chapter_no": 5,
+   "badge": "LÕI XỐP BỌC THÉP",
+   "header_image": "assets/banners/chapter_05.png",
+   "title": "KIẾN TRÚC VẬT LIỆU COMPOSITE",
+   "card_hook": "BẬP BỀNH NHƯ PHAO CỨU SINH",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L37.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 8.02,
+     "image": "assets/long/L38.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 17.76,
+     "image": "assets/long/L39.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 28.1,
+     "image": "assets/long/L40.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b05",
+     "start_s": 37.67,
+     "image": "assets/long/L41.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b06",
+     "start_s": 46.79,
+     "image": "assets/long/L42.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b07",
+     "start_s": 56.35,
+     "image": "assets/long/L43.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 57.59,
+       "side": "left",
+       "y": 420,
+       "value": "0.3 GAM",
+       "label": "TRỌNG LƯỢNG GAI",
+       "target": [
+        380,
+        430
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b08",
+     "start_s": 66.02,
+     "image": "assets/long/L44.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b09",
+     "start_s": 75.7,
+     "image": "assets/long/L45.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 78.324,
+   "chapter_no": 6,
+   "badge": "KẾT LUẬN",
+   "header_image": "assets/banners/chapter_06.png",
+   "title": "BÀI HỌC TỪ PHÁO ĐÀI RẢI GAI",
+   "card_hook": "SỨC MẠNH TỪ SỰ TỰ VỆ CHỦ ĐỘNG",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L46.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 7.62,
+     "image": "assets/long/L47.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 16.72,
+     "image": "assets/long/L48.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b04",
+     "start_s": 26.28,
+     "image": "assets/long/L49.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b05",
+     "start_s": 34.96,
+     "image": "assets/long/L50.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b06",
+     "start_s": 44.85,
+     "image": "assets/long/L51.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b07",
+     "start_s": 54.39,
+     "image": "assets/long/L52.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b08",
+     "start_s": 64.19,
+     "image": "assets/long/L53.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

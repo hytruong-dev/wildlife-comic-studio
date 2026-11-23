@@ -1,0 +1,567 @@
+{
+ "_doc": "Storyboard Tập 29: Sứa Bất Tử (Format F5 - Phòng thí nghiệm 5 cấp độ sinh tử). Mỗi câu/ý thoại = 1 beat = 1 ảnh riêng.",
+ "characters": {
+  "HERO": "chú Sứa Bất Tử (Turritopsis dohrnii) hoạt hình màu xanh ngọc trong suốt lấp lánh, chiếc chuông sứa hình bán cầu căng tròn mềm mại, bên trong lộ rõ dạ dày màu đỏ cam ấm áp, xung quanh mép chuông xòe ra các xúc tu mảnh mai uốn lượn uyển chuyển, đeo một cặp kính bảo hộ phòng thí nghiệm tí hon trên đỉnh chuông sứa",
+  "HERO_S": "chú Sứa Bất Tử xanh ngọc trong suốt, dạ dày đỏ cam, kính bảo hộ tí hon",
+  "NO_HERO": "KHÔNG có chú sứa đeo kính bảo hộ trong cảnh này",
+  "PROFESSOR": "ông giáo sư già tóc bạc đeo kính lão cầm kính hiển vi",
+  "POLYP": "thảm polyp san hô non nớt màu cam nhạt đâm chồi dưới đáy biển",
+  "CYST": "khối kén tròn cyst màu cam nhạt bám trên vỏ ốc rỗng"
+ },
+ "side_characters": [
+  "PROFESSOR",
+  "POLYP",
+  "CYST"
+ ],
+ "shorts_side_characters": [
+  "POLYP"
+ ],
+ "shorts_title_lines": [
+  "TỰ BIẾN NGƯỢC THÀNH SƠ SINH",
+  "ĐỂ BẤT TỬ MÃI MÃI?!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Căn phòng thí nghiệm sinh học cực hạn hiện đại với các dàn ống nghiệm phát sáng huỳnh quang xanh ngọc, máy quét phân tử và màn hình biểu đồ nhiệt động lực học. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Thưa giáo sư,",
+   "layout": "BÊN TRÁI nữ trợ lý phòng lab đeo kính bảo hộ cầm khay kính đựng mẫu vật số 29 phát sáng; BÊN PHẢI {PROFESSOR} chăm chú quan sát. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bật toàn bộ kính",
+   "layout": "Kính hiển vi điện tử quét công suất lớn chiếu chùm tia laser xanh vào mẫu vật, màn hình hiện 5 CẤP ĐỘ THỬ NGHIỆM SINH TỬ. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "5 cấp độ",
+     "side": "R",
+     "y": 350,
+     "value": "5 CẤP ĐỘ",
+     "label": "thử nghiệm sinh tử",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Xin trân trọng",
+   "layout": "{HERO} bơi lơ lửng giữa làn nước biển trong suốt, chuông sứa lấp lánh ánh hào quang xanh ngọc rực rỡ mang danh hiệu Sinh Vật Bất Tử.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Loài sứa này",
+   "layout": "BÀN TAY người xòe ra so sánh: {HERO} nhỏ xíu chỉ 4,5mm nằm lọt thỏm trên đầu ngón tay út con người.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Với kích thước trưởng",
+   "layout": "Bàn tay người xòe ra so sánh: {HERO} nhỏ xíu chỉ 4,5mm nằm lọt thỏm trên đầu ngón tay út, bên trong khối thạch trong suốt phát sáng như chiếc chìa khóa của tự nhiên.",
+   "stickers": [
+    {
+     "at": "4,5mm",
+     "side": "L",
+     "y": 350,
+     "value": "CỠ 4,5MM",
+     "label": "kích thước tí hon",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nếu bạn nghĩ",
+   "layout": "Chiếc đồng hồ cát ma thuật bị bẻ cong trong không gian vũ trụ, những hạt cát thời gian phát sáng chảy ngược từ dưới lên trên. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hãy quan sát thật",
+   "layout": "Cận cảnh giải phẫu {HERO}: chuông sứa trong suốt như pha lê để lộ dạ dày màu đỏ tươi rực rỡ và 80-90 chiếc xúc tu mảnh mai như sợi tơ nhện.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "bên trong lộ rõ",
+   "layout": "Cận cảnh dạ dày màu đỏ tươi rực rỡ nằm giữa chiếc chuông sứa trong suốt như thủy tinh pha lê, xung quanh mép chuông tỏa ra những xúc tu mảnh như sợi tơ nhện. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "80-90",
+     "side": "R",
+     "y": 350,
+     "value": "80-90 TU",
+     "label": "xúc tu tơ nhện",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Bảng hồ sơ hiện CẤP ĐỘ 1: STRESS MÔI TRƯỜNG CỰC HẠN; một chú sứa bị bỏ đói nhiều ngày chìm xuống đáy đĩa thí nghiệm. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "1992, tại một",
+   "layout": "Phòng thí nghiệm ven biển ở Ý năm 1992: đĩa petri đựng sứa già yếu bị bỏ quên trên bàn đá dưới ánh trăng. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1992",
+     "side": "L",
+     "y": 350,
+     "value": "NĂM 1992",
+     "label": "phát hiện tại Ý",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Thay vào đó, dưới",
+   "layout": "Đáy đĩa thủy tinh đâm chồi những mầm polyp non nớt màu cam rực rỡ nảy mầm như vườn hoa sau mưa; các nhà khoa học trợn tròn mắt. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khi đối mặt với",
+   "layout": "{HERO} phát đi làn sóng tín hiệu sinh học màu vàng chỉ huy khắp cơ thể: lập tức dừng lão hóa và chuẩn bị đảo ngược chu kỳ sống.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Toàn bộ chiếc chuông",
+   "layout": "Chiếc chuông sứa của {HERO} co thắt mạnh mẽ, toàn bộ xúc tu tự thu gọn vào trong rồi từ từ chìm xuống đáy nước xanh thẳm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhóm nghiên cứu tại",
+   "layout": "Hàng loạt thí nghiệm cực đoan tại vịnh Genoa: cắt đôi sứa, hạ nhiệt độ đóng băng, khối tế bào vẫn tự gom lại tái sinh; bảng Cấp độ 1 bật PASS. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Kết quả kinh ngạc là",
+   "layout": "Khối tế bào sống sót của sứa tự gom lại thành một cụm tròn lấp lánh và bắt đầu quá trình tái sinh ngoạn mục dưới ánh đèn phòng lab. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Bảng hồ sơ hiện CẤP ĐỘ 2: CHUYỂN BIỆT HÓA TRANSDIFFERENTIATION; đồ họa tế bào cơ tim và tế bào da người cố định vĩnh viễn không thể đổi vai. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Trong cơ thể người",
+   "layout": "So sánh: tế bào cơ tim người luôn là tế bào cơ tim, tế bào da luôn là tế bào da, không thể đổi vai cho nhau; {PROFESSOR} lắc đầu giải thích. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Báo cáo kính hiển",
+   "layout": "Hình ảnh kính hiển vi huỳnh quang: tế bào cơ bắp của sứa tự tẩy sạch màu sắc ban đầu, biến ngược thành những tế bào gốc phôi thai non nớt. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chính xác là như",
+   "layout": "{HERO} được bao bọc trong vầng sáng tế bào gốc lấp lánh, các tế bào cơ bắp trưởng thành tự do biến đổi thành bất kỳ tế bào nào khác cần thiết.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Các nhà khoa học",
+   "layout": "Hình ảnh ẩn dụ kỳ diệu: BÊN TRÁI một chú bướm thu cánh lại chui vào kén tằm; BÊN PHẢI từ kén chui ra chú sâu bướm non nớt. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Một quy trình đảo ngược",
+   "layout": "Đồng hồ cát thời gian xoay ngược: quy trình đảo ngược hoàn chỉnh chỉ diễn ra trong vòng 3-4 ngày, chú sâu bướm non nớt chui ra khỏi chiếc kén. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "3-4 ngày",
+     "side": "R",
+     "y": 350,
+     "value": "3-4 NGÀY",
+     "label": "đảo ngược hoàn toàn",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Hàng triệu tế bào",
+   "layout": "Hàng triệu tế bào khắp cơ thể sứa xếp hàng phối hợp tái tổ chức lại trong một vũ điệu sinh học hoàn mỹ, xóa sạch dấu vết già nua. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Ở động vật có",
+   "layout": "So sánh: BÊN TRÁI vết sẹo xơ cứng của động vật có xương; BÊN PHẢI {HERO} tái sinh hoàn mỹ không để lại vết sẹo; bảng Cấp độ 2 bật PASS.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Bảng hồ sơ hiện CẤP ĐỘ 3: TÁI TẠO CẤU TRÚC SỐNG TỪ CON SỐ KHÔNG; khối cơ thể thạch của sứa chìm xuống đáy biển bám vào vỏ ốc rỗng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Từ chiếc kén non",
+   "layout": "{CYST} kén tròn màu cam nhạt mọc rễ vươn nhánh lên thành quần thể {POLYP} rực rỡ như cây san hô tí hon nuôi dưỡng hàng chục chồi sứa non. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Khi đến thời điểm",
+   "layout": "Từng chiếc chuông sứa con trong suốt tách mình ra khỏi polyp bay vút lên mặt nước; hàng trăm bản sao giống hệt sứa mẹ ban đầu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Hãy chú ý kỹ",
+   "layout": "Từ một chú sứa già nua duy nhất ban đầu nhân bản ra hàng trăm bản sao giống hệt nhau về mặt di truyền, xếp thành hàng dài lấp lánh. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "hàng trăm",
+     "side": "L",
+     "y": 350,
+     "value": "100 BẢN",
+     "label": "nhân bản di truyền",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Giáo sư Shin Kubota",
+   "layout": "Giáo sư Shin Kubota tại Đại học Kyoto mỉm cười nâng niu bể nuôi sứa lặp lại chu kỳ đảo ngược lão hóa tới 12 lần liên tiếp. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ông đã chứng kiến",
+   "layout": "{PROFESSOR} ghi nhật ký quan sát một chú sứa lặp lại chu kỳ đảo ngược lão hóa 12 lần liên tiếp mà sức sống vẫn tràn trề. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "12 lần",
+     "side": "R",
+     "y": 350,
+     "value": "12 LẦN",
+     "label": "chu kỳ trẻ hóa",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Về mặt lý thuyết",
+   "layout": "Vòng tròn vô cực biểu tượng bất tử: {HERO} bơi lượn trong chu kỳ tuần hoàn vĩnh cửu không bao giờ chết vì tuổi già.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Mỗi nhánh polyp dưới",
+   "layout": "Nhà máy sinh học tự động dưới đáy biển: các chồi sứa nhấp nháy phát sáng rồi bung nở xúc tu bơi đi đón mùa xuân; bảng Cấp độ 3 bật PASS. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Bảng hồ sơ hiện CẤP ĐỘ 4 & 5: GIẢI MÃ BẢN THIẾT KẾ HỆ GEN; chuỗi xoắn kép ADN phát sáng rực rỡ trong phòng lab. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "2022, một công trình",
+   "layout": "Bìa tạp chí PNAS năm 2022 mở ra bản đồ giải trình tự toàn bộ bộ gen của Turritopsis dohrnii do tiến sĩ Maria Pascual-Torner dẫn đầu. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Kết quả phân tích",
+   "layout": "Cận cảnh phân tử: enzym telomerase gắn dài thêm đoạn mũ telomere ở đầu sợi nhiễm sắc thể, đồng hồ tuổi tác tế bào không bị điểm giờ chết. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "telomere",
+     "side": "L",
+     "y": 350,
+     "value": "TELOMERE",
+     "label": "mũ bảo vệ ADN",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Ở người, mỗi lần",
+   "layout": "So sánh: ở người telomere ngắn dần mỗi lần tế bào phân chia; ở {HERO} enzym telomerase liên tục kéo dài telomere nên đồng hồ tuổi tác không bao giờ điểm giờ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Vũ khí thứ 2",
+   "layout": "Đội quân enzym phân tử tí hon cầm mỏ lết đi dọc chuỗi ADN sửa chữa lỗi sai sót và đột biến nhanh gấp đôi bình thường. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Bất kỳ tổn hại",
+   "layout": "Đội quân enzym tí hon quét sạch mọi tổn hại và đột biến phát sinh trên chuỗi ADN rồi khắc phục ngay lập tức. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Các nhà khoa học đã",
+   "layout": "So sánh hai chuỗi gen: BÊN TRÁI loài sứa họ hàng không bất tử; BÊN PHẢI {HERO} sở hữu gần 1.000 gen đặc hữu tái sinh mở ra tương lai y học.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Sự so sánh này",
+   "layout": "Hai chuỗi gen đối chiếu nhau, hiện ra gần 1.000 gen đặc hữu chịu trách nhiệm cho khả năng bất tử, mở ra chân trời mới cho y học tái tạo. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1.000",
+     "side": "R",
+     "y": 350,
+     "value": "1.000 GEN",
+     "label": "đặc hữu bất tử",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Tuy nhiên, cần phải",
+   "layout": "Một con rùa biển khổng lồ há miệng đớp sứa: bất tử sinh học nhưng không bất khả chiến bại trước kẻ săn mồi. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhưng miễn là không",
+   "layout": "{HERO} kiêu hãnh bơi lên giữa làn nước xanh thẳm, vương miện thời gian phát sáng trên đầu; bảng Cấp độ 4 & 5 bật PASS rực rỡ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Bàn tổng kết phòng thí nghiệm số 29: {HERO} đứng cạnh bản đồ giải mã gen bất tử với huy chương khoa học vàng óng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hội đồng khoa học",
+   "layout": "Dấu mộc đỏ ĐẠT ĐIỂM 10 đóng lên tập hồ sơ đảo ngược lão hóa; cả hội đồng khoa học vỗ tay chúc mừng.",
+   "stickers": [
+    {
+     "at": "điểm 10",
+     "side": "R",
+     "y": 350,
+     "value": "ĐIỂM 10",
+     "label": "đảo ngược lão hóa",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Còn quý vị khán",
+   "layout": "Hai bàn cân lựa chọn: BÊN TRÁI biểu tượng bất tử quay về tuổi 18; BÊN PHẢI biểu tượng vòng đời hữu hạn quý giá, khán giả giơ thẻ bình chọn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hay vòng đời hữu hạn",
+   "layout": "Cán cân suy ngẫm: một bên là bất tử quay về tuổi 18, một bên là vòng đời hữu hạn đẹp đẽ quý giá của cuộc sống. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Cánh cửa phòng thí",
+   "layout": "Cánh cửa phòng lab số 29 khép lại, chuyển sang ống kính máy quay chương trình thực địa rừng ôn đới Bắc Mỹ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chúng ta sẽ theo",
+   "layout": "Một sinh vật bí ẩn được vẽ hoàn toàn bằng BÓNG ĐEN ĐẶC TUYỀN (solid black silhouette) hình chú chuột mập mạp béo ú có chiếc đuôi dẹp như mái chèo đang dùng hai chiếc răng cửa dài cắm vào thân cây gỗ lớn bên bờ suối; ba dấu hỏi chấm vàng to tướng; KHÔNG vẽ mắt mũi lông lá thật. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một sinh vật có",
+   "layout": "Cũng chiếc BÓNG ĐEN ĐẶC TUYỀN đó đang vác từng tảng bùn đất đắp kín mít một chiếc loa phát thanh đang phát sóng âm nhạc róc rách; ba dấu hỏi chấm to tướng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đố các bạn biết",
+   "layout": "Chiếc BÓNG ĐEN ĐẶC TUYỀN kỹ sư đắp đập đứng cạnh con đập gỗ khổng lồ chặn dòng sông, mời gọi khán giả đoán tên Hải Ly tập sau. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Khung dọc: {HERO} từ một sinh vật già nua tự xoay ngược bánh xe thời gian biến ngược thành trẻ sơ sinh.",
+   "stickers": []
+  },
+  {
+   "at": "Xin giới thiệu Sứa",
+   "layout": "{HERO} bơi lơ lửng trong một giọt nước biển, chiếc thước đo mini hiện kích thước chỉ 4,5mm.",
+   "stickers": [
+    {
+     "at": "4,5mm",
+     "side": "R",
+     "y": 620,
+     "value": "CHỈ 4,5MM",
+     "label": "kích thước siêu nhỏ",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Khi bị đói, bị",
+   "layout": "Sứa bị thương nặng và đói khát chìm xuống đáy biển nhưng không hề chết đi.",
+   "stickers": []
+  },
+  {
+   "at": "Thay vào đó, nó",
+   "layout": "Đồ họa phân tử huỳnh quang: tế bào cơ bắp tự tẩy trắng danh tính biến ngược thành tế bào gốc phôi thai.",
+   "stickers": []
+  },
+  {
+   "at": "toàn bộ tế bào cơ bắp",
+   "layout": "Đồ họa phân tử khung dọc: toàn bộ tế bào cơ bắp và biểu bì của {HERO} tự trẻ hóa thành những tế bào mầm non nớt lấp lánh.",
+   "stickers": []
+  },
+  {
+   "at": "Khối cơ thể sứa",
+   "layout": "Khối thạch sứa chìm xuống đáy biển biến thành búp kén cyst non nớt màu cam bám vào vỏ ốc.",
+   "stickers": []
+  },
+  {
+   "at": "rồi từ đó nhân",
+   "layout": "{POLYP} đâm chồi nở rộ dưới đáy biển sinh ra hàng trăm bản sao sứa con bơi lên mặt nước.",
+   "stickers": [
+    {
+     "at": "hàng trăm",
+     "side": "L",
+     "y": 620,
+     "value": "100 BẢN",
+     "label": "nhân bản vô tính",
+     "target": [
+      0.38,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Miễn là không bị",
+   "layout": "Vòng tuần hoàn vô cực phát sáng ma thuật: chu kỳ đảo ngược lão hóa lặp đi lặp lại mãi mãi.",
+   "stickers": []
+  },
+  {
+   "at": "trở thành sinh vật",
+   "layout": "Chân dung {HERO} kiêu hãnh đội vương miện bất tử giữa đại dương sâu thẳm, ánh hào quang rực rỡ.",
+   "stickers": []
+  }
+ ]
+}

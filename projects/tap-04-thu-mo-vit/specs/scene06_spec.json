@@ -1,0 +1,324 @@
+{
+  "scene_id": "scene06",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 4,
+  "world_width": 2042,
+  "world_height": 1040,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 60,
+  "duration_ms": 57449,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-04-thu-mo-vit/assets/scenes_composed/scene06_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      0,
+      8,
+      1280,
+      52
+    ],
+    "x": 10,
+    "y": 12,
+    "w": 1260,
+    "h": 38,
+    "text": "[PHẦN 6: THÔNG ĐIỆP BẢO TỒN & OUTRO]  BẢO TỒN DÒNG SUỐI NƯỚC NGỌT & BẬT MÍ TẬP 5: CHIM BỒ NÔNG THAM LAM",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-04-thu-mo-vit/assets/scenes_composed/scene06_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 12786,
+      "has_frame": false,
+      "pill_box": [
+        553,
+        60,
+        755,
+        100
+      ],
+      "art_only_box": [
+        338,
+        96,
+        967,
+        449
+      ],
+      "caption": {
+        "text": "Nguy cơ biến đổi khí hậu: Dòng suối cạn kiệt đe dọa mái nhà của loài hóa thạch sống",
+        "x": 345,
+        "y": 449,
+        "w": 616,
+        "h": 27,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        336,
+        60,
+        969,
+        478
+      ],
+      "img_region": {
+        "x": 338,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 12786,
+      "end_ms": 25571,
+      "has_frame": false,
+      "pill_box": [
+        1268,
+        60,
+        1510,
+        97
+      ],
+      "art_only_box": [
+        1073,
+        96,
+        1702,
+        449
+      ],
+      "caption": {
+        "text": "Bảo vệ dòng suối trong: Hãy chung tay giữ gìn nguồn nước sạch cho mái nhà thú mỏ vịt",
+        "x": 1087,
+        "y": 449,
+        "w": 602,
+        "h": 26,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1071,
+        60,
+        1704,
+        477
+      ],
+      "img_region": {
+        "x": 1073,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 25571,
+      "end_ms": 39241,
+      "has_frame": false,
+      "pill_box": [
+        1226,
+        550,
+        1553,
+        588
+      ],
+      "art_only_box": [
+        1073,
+        586,
+        1702,
+        939
+      ],
+      "caption": {
+        "text": "Cùng vẽ thú mỏ vịt: Tự tay phác thảo chú thú mỏ vịt ngộ nghĩnh và chia sẻ cùng cộng đồng!",
+        "x": 1093,
+        "y": 939,
+        "w": 589,
+        "h": 24,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1071,
+        550,
+        1704,
+        965
+      ],
+      "img_region": {
+        "x": 1073,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_04",
+      "start_ms": 39241,
+      "end_ms": 55949,
+      "has_frame": false,
+      "pill_box": [
+        508,
+        550,
+        801,
+        590
+      ],
+      "art_only_box": [
+        338,
+        586,
+        967,
+        939
+      ],
+      "caption": {
+        "text": "Bật mí Tập 5: Chim Bồ Nông — Kẻ mỏ túi rác không đáy nuốt chửng cả thế giới!",
+        "x": 343,
+        "y": 939,
+        "w": 619,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        336,
+        550,
+        969,
+        970
+      ],
+      "img_region": {
+        "x": 338,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 336.0,
+    "y_min": 60.0,
+    "x_max": 1704.0,
+    "y_max": 970.0,
+    "bbox_w": 1368.0,
+    "bbox_h": 910.0,
+    "center_x": 1020.0,
+    "center_y": 515.0,
+    "zoom_out_scale": 0.652,
+    "crop_w": 1963.2,
+    "crop_h": 1000.0
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 652.5,
+      "cy": 269.0,
+      "crop_w": 938.4,
+      "crop_h": 478.0,
+      "zoom_relative": 2.09,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 12166.0,
+      "cx": 652.5,
+      "cy": 269.0,
+      "crop_w": 938.4,
+      "crop_h": 478.0,
+      "zoom_relative": 2.09,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 12786.0,
+      "cx": 1387.5,
+      "cy": 268.5,
+      "crop_w": 936.4,
+      "crop_h": 477.0,
+      "zoom_relative": 2.1,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 24951.0,
+      "cx": 1387.5,
+      "cy": 268.5,
+      "crop_w": 936.4,
+      "crop_h": 477.0,
+      "zoom_relative": 2.1,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 25571.0,
+      "cx": 1387.5,
+      "cy": 757.5,
+      "crop_w": 932.5,
+      "crop_h": 475.0,
+      "zoom_relative": 2.11,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 38621.0,
+      "cx": 1387.5,
+      "cy": 757.5,
+      "crop_w": 932.5,
+      "crop_h": 475.0,
+      "zoom_relative": 2.11,
+      "phase": "transition",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 39241.0,
+      "cx": 652.5,
+      "cy": 760.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.08,
+      "phase": "focus_hold",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 55949.0,
+      "cx": 652.5,
+      "cy": 760.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.08,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 56449.0,
+      "cx": 1020.0,
+      "cy": 515.0,
+      "crop_w": 1963.2,
+      "crop_h": 1000.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 57449.0,
+      "cx": 1020.0,
+      "cy": 515.0,
+      "crop_w": 1963.2,
+      "crop_h": 1000.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

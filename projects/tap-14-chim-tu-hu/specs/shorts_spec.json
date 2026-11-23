@@ -1,0 +1,509 @@
+{
+ "episode": "tap-14-chim-tu-hu",
+ "title_lines": [
+  "SÁT THỦ 10 GIÂY?!",
+  "BẢN NĂNG KINH HOÀNG"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 51.05,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-14-chim-tu-hu_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  3.65,
+  7.27,
+  11.09,
+  15.23,
+  19.67,
+  25.31,
+  29.87,
+  31.97,
+  35.01,
+  39.93,
+  45.43,
+  48.87
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.46,
+     "text": "Bị cáo,"
+    },
+    {
+     "t": 1.14,
+     "text": "mời đứng lên!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 1.85,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 2.1,
+     "text": "Một loài chim"
+    },
+    {
+     "t": 2.6,
+     "text": "không bao giờ"
+    },
+    {
+     "t": 3.24,
+     "text": "xây tổ,"
+    },
+    {
+     "t": 3.84,
+     "text": "không ấp trứng,"
+    },
+    {
+     "t": 4.7,
+     "text": "không nuôi con,"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 5.47,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 5.72,
+     "text": "nhưng lại sở"
+    },
+    {
+     "t": 6.28,
+     "text": "hữu bản năng"
+    },
+    {
+     "t": 6.82,
+     "text": "sát thủ ngay"
+    },
+    {
+     "t": 7.42,
+     "text": "từ giây phút"
+    },
+    {
+     "t": 7.9,
+     "text": "đầu tiên chui"
+    },
+    {
+     "t": 8.56,
+     "text": "ra khỏi vỏ!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 9.29,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 9.54,
+     "text": "Đó chính là"
+    },
+    {
+     "t": 10.14,
+     "text": "Chim Tu Hú,"
+    },
+    {
+     "t": 11.1,
+     "text": "kẻ lừa đảo"
+    },
+    {
+     "t": 11.62,
+     "text": "khét tiếng bậc"
+    },
+    {
+     "t": 12.1,
+     "text": "nhất thế giới"
+    },
+    {
+     "t": 12.66,
+     "text": "tự nhiên."
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 13.43,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 14.66,
+     "side": "L",
+     "y": 620,
+     "value": "10 GIÂY",
+     "label": "CƯỚP VÀ ĐẺ TRỨNG",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 13.68,
+     "text": "Chim mẹ chỉ"
+    },
+    {
+     "t": 14.26,
+     "text": "mất đúng 10"
+    },
+    {
+     "t": 14.9,
+     "text": "giây để đột"
+    },
+    {
+     "t": 15.44,
+     "text": "nhập tổ chim"
+    },
+    {
+     "t": 16.06,
+     "text": "chích, nuốt chửng"
+    },
+    {
+     "t": 17.02,
+     "text": "một quả trứng"
+    },
+    {
+     "t": 17.58,
+     "text": "của chủ"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 17.87,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 21.7,
+     "side": "R",
+     "y": 640,
+     "value": "GIỐNG 99%",
+     "label": "HOA VĂN GIẢ MẠO",
+     "target": [
+      0.55,
+      0.48
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 17.88,
+     "text": "nhà và đẻ"
+    },
+    {
+     "t": 18.68,
+     "text": "thay vào đó"
+    },
+    {
+     "t": 19.26,
+     "text": "quả trứng của"
+    },
+    {
+     "t": 19.84,
+     "text": "mình với hoa"
+    },
+    {
+     "t": 20.66,
+     "text": "văn giả mạo"
+    },
+    {
+     "t": 21.3,
+     "text": "giống tới 99%!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 23.51,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 25.96,
+     "side": "L",
+     "y": 620,
+     "value": "NẶNG 2G",
+     "label": "MÙ MẮT KHÔNG LÔNG",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 23.76,
+     "text": "Đáng sợ hơn"
+    },
+    {
+     "t": 24.26,
+     "text": "cả, con non"
+    },
+    {
+     "t": 25.2,
+     "text": "vừa nở chỉ"
+    },
+    {
+     "t": 25.78,
+     "text": "nặng 2g,"
+    },
+    {
+     "t": 26.44,
+     "text": "mắt còn nhắm"
+    },
+    {
+     "t": 27.44,
+     "text": "nghiền chưa mở,"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 28.07,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 29.14,
+     "side": "R",
+     "y": 660,
+     "value": "LƯNG LÕM",
+     "label": "BẢN NĂNG SÁT THỦ",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 28.32,
+     "text": "nhưng đã dùng"
+    },
+    {
+     "t": 28.9,
+     "text": "chiếc lưng lõm"
+    },
+    {
+     "t": 29.58,
+     "text": "bẩm sinh gồng"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 30.17,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 30.22,
+     "text": "mình hất tung"
+    },
+    {
+     "t": 30.82,
+     "text": "toàn bộ trứng"
+    },
+    {
+     "t": 31.6,
+     "text": "của chim chủ"
+    },
+    {
+     "t": 31.9,
+     "text": "nhà rơi xuống"
+    },
+    {
+     "t": 32.5,
+     "text": "đất vỡ nát!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 33.21,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "t": 36.68,
+     "side": "L",
+     "y": 640,
+     "value": "GẤP 3 LẦN",
+     "label": "CON NUÔI KHỔNG LỒ",
+     "target": [
+      0.5,
+      0.48
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 33.46,
+     "text": "Để rồi sau"
+    },
+    {
+     "t": 33.96,
+     "text": "đó, đứa con"
+    },
+    {
+     "t": 34.78,
+     "text": "nuôi khổng lồ"
+    },
+    {
+     "t": 35.36,
+     "text": "lớn nhanh như"
+    },
+    {
+     "t": 35.92,
+     "text": "thổi, to gấp"
+    },
+    {
+     "t": 36.92,
+     "text": "3 lần chim"
+    },
+    {
+     "t": 37.5,
+     "text": "bố mẹ,"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 38.13,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [
+    {
+     "t": 39.64,
+     "side": "R",
+     "y": 650,
+     "value": "HỌNG ĐỎ",
+     "label": "THÔI MIÊN BỐ MẸ",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 38.38,
+     "text": "há to chiếc"
+    },
+    {
+     "t": 38.94,
+     "text": "miệng đỏ lòm"
+    },
+    {
+     "t": 39.52,
+     "text": "như hố ga"
+    },
+    {
+     "t": 40.22,
+     "text": "thôi miên cha"
+    },
+    {
+     "t": 40.76,
+     "text": "mẹ nuôi phải"
+    },
+    {
+     "t": 41.36,
+     "text": "hầu hạ mớm"
+    },
+    {
+     "t": 42.06,
+     "text": "mồi suốt ngày đêm!"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 43.63,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 43.88,
+     "text": "Vậy là vụ"
+    },
+    {
+     "t": 44.56,
+     "text": "án đã sáng"
+    },
+    {
+     "t": 45.02,
+     "text": "tỏ: một chiến"
+    },
+    {
+     "t": 46.04,
+     "text": "thuật ký sinh"
+    },
+    {
+     "t": 46.64,
+     "text": "tàn nhẫn"
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "start_s": 47.07,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S13.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 47.32,
+     "text": "nhưng là cách"
+    },
+    {
+     "t": 47.74,
+     "text": "sinh tồn hoàn"
+    },
+    {
+     "t": 48.44,
+     "text": "hảo giúp loài"
+    },
+    {
+     "t": 49.2,
+     "text": "chim này trường"
+    },
+    {
+     "t": 49.72,
+     "text": "tồn qua hàng"
+    },
+    {
+     "t": 50.24,
+     "text": "triệu năm qua!"
+    }
+   ]
+  }
+ ]
+}

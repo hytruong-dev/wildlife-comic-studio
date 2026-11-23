@@ -1,0 +1,161 @@
+{
+ "title_lines": [
+  "CỖ XE TĂNG 3 TẤN",
+  "NHƯNG KHÔNG BIẾT BƠI?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "at": "3 tấn",
+     "side": "L",
+     "y": 560,
+     "value": "3 TẤN",
+     "label": "cỗ xe tăng",
+     "target": [
+      0.35,
+      0.4
+     ]
+    },
+    {
+     "at": "16 tiếng",
+     "side": "R",
+     "y": 820,
+     "value": "16 TIẾNG",
+     "label": "ngâm nước/ngày",
+     "target": [
+      0.65,
+      0.65
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Đó chính là Hà",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "Xương của nó đặc",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "nên thay vì bơi",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "at": "8km/h",
+     "side": "L",
+     "y": 650,
+     "value": "8 KM/H",
+     "label": "chạy bộ đáy sông",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Trên bờ, nó có",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "at": "30km/h",
+     "side": "R",
+     "y": 580,
+     "value": "30 KM/H",
+     "label": "tốc độ trên cạn",
+     "target": [
+      0.65,
+      0.45
+     ]
+    },
+    {
+     "at": "5cm",
+     "side": "L",
+     "y": 880,
+     "value": "5 CM",
+     "label": "da dày chống đạn",
+     "target": [
+      0.35,
+      0.7
+     ]
+    }
+   ]
+  },
+  {
+   "at": "và tự tiết ra",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "Đáng sợ nhất là",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "at": "1.800",
+     "side": "L",
+     "y": 600,
+     "value": "1.800 PSI",
+     "label": "lực cắn cực hạn",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "kết hợp cặp răng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "at": "50cm",
+     "side": "L",
+     "y": 650,
+     "value": "50 CM",
+     "label": "răng nanh giáo thép",
+     "target": [
+      0.4,
+      0.5
+     ]
+    },
+    {
+     "at": "3m",
+     "side": "R",
+     "y": 900,
+     "value": "3 MÉT",
+     "label": "cắn đôi cá sấu",
+     "target": [
+      0.65,
+      0.7
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vậy là bí mật",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "vì dưới đáy sông",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  }
+ ]
+}

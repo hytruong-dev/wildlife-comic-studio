@@ -1,0 +1,337 @@
+{
+  "title": "Tập 39: Chim Bách Thanh — Hồ Sơ Sát Thủ Ngây Thơ Giấu Mặt",
+  "animal": "Chim Bách Thanh",
+  "format": "F4",
+  "persona": "chuyen_gia_hinh_su",
+  "nickname": "Sát Thủ Đồ Tể Lừng Danh",
+  "episode_no": 39,
+  "sources": [
+    "Behavioral Ecology and Sociobiology - Impaling Behavior and Caching Dynamics in Shrikes (Laniidae)",
+    "The Wilson Journal of Ornithology - Tomial Tooth Morphology and Predatory Mechanics of Loggerhead Shrikes",
+    "Journal of Chemical Ecology - Degradation of Ingested Toxic Cardenolides in Cached Prey by Shrikes"
+  ],
+  "voice": {
+    "tempo_long": 1.11,
+    "tempo_shorts_min": 1.06,
+    "min_long_s": 510,
+    "max_long_s": 900
+  },
+  "whisper_prompt": "Chim Bách Thanh, Laniidae, Lanius, Sát Thủ Đồ Tể Lừng Danh, gai nhọn, bẻ cổ, mấu răng mỏ chim, cào cào độc, 48 giờ, trinh thám hình sự",
+  "display_fix": {
+    "Tập ba mươi chín": "Tập 39",
+    "Tập bốn mươi": "Tập 40",
+    "bốn mươi tám giờ": "48 giờ",
+    "bảy mươi hai giờ": "72 giờ",
+    "hai mươi bốn giờ": "24 giờ",
+    "hai mươi xăng-ti-mét": "20cm",
+    "mười lăm xăng-ti-mét": "15cm",
+    "ba mươi xăng-ti-mét": "30cm",
+    "năm xăng-ti-mét": "5cm",
+    "năm mươi gam": "50g",
+    "bảy mươi gam": "70g",
+    "một trăm phần trăm": "100%",
+    "năm mươi phần trăm": "50%",
+    "hai lần": "2 lần",
+    "ba lần": "3 lần",
+    "mười lần": "10 lần",
+    "thế kỷ hai mươi mốt": "thế kỷ 21",
+    "hàng triệu năm": "hàng triệu năm",
+    "triệu năm": "triệu năm",
+    "Sát Thủ Đồ Tể Lừng Danh": "Sát Thủ Đồ Tể Lừng Danh",
+    "Laniidae": "Laniidae",
+    "Lanius": "Lanius",
+    "tomial tooth": "tomial tooth",
+    "Sherlock Holmes": "Sherlock Holmes"
+  },
+  "longform": {
+    "scenes": [
+      {
+        "id": "scene01",
+        "badge": "HIỆN TRƯỜNG VỤ ÁN",
+        "banner_title": "BÍ ẨN CÀNH GAI XUYÊN THÂM",
+        "chapter_title": "Vụ án số một: Khám nghiệm hiện trường cành gai cắm xác kỳ bí giữa rừng sâu",
+        "hook": "Bức màn trinh thám về kẻ săn mồi đội lốt chim ca hót",
+        "mood": "tram_bi_an",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Chào mừng các thám tử tư, các chuyên gia giám định pháp y và những bộ óc đam mê suy luận phá án bước vào hồ sơ hình sự kỳ lạ bậc nhất của thế giới tự nhiên! [laughter] Hôm nay, phòng điều tra trọng án sinh thái của chúng tôi xin mời quý vị lật mở một tập tài liệu tuyệt mật, giải mã hiện trường của một bóng ma tội phạm có vẻ ngoài ngây thơ tựa thiên thần nhưng lại mang phong cách hành động của một đồ tể tàn nhẫn! Một vụ án hóc búa thách thức mọi định kiến thông thường của chúng ta về giới loài chim ca hót!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Hãy nhìn vào cành cây mận gai cằn cỗi ven bìa rừng: Một hiện trường rùng rợn và quái đản đang phơi bày trước mắt chúng ta! Trên những chiếc gai nhọn hoắt dài năm xăng-ti-mét, hàng loạt con mồi từ thằn lằn, chuột đồng, ếch nhái cho đến những chú chim sẻ nhỏ bé đều bị xiên thủng qua cổ hoặc ức, treo lơ lửng giữa không trung như những xâu thịt nướng trong lò mổ!"
+          },
+          {
+            "speaker": "cameo",
+            "cast": "co_tro_ly",
+            "mood": "tram_bi_an",
+            "text": "[surprise-oh] Thưa Thanh tra trưởng, dấu vết khám nghiệm xác nhận tất cả các nạn nhân đều bị gãy đốt sống cổ chỉ bằng một nhát cắn cực kỳ hiểm hóc, không hề có dấu vết giằng co hay móng vuốt đại bàng cào xé!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Một quan sát hiện trường vô cùng sắc bén thưa trợ lý pháp y! Thủ phạm của vụ án liên hoàn này không phải là một con mãnh thú khổng lồ hay một con chim ưng dũng mãnh, mà lại là một chú chim sẻ nhỏ nhắn chỉ nặng vỏn vẹn năm mươi gam, mang bộ lông xám trắng thanh lịch và một dải lông đen tuyền vắt ngang mắt trông hệt như chiếc mặt nạ của hiệp sĩ Zorro! Sinh vật này mang tên khoa học thuộc họ Laniidae, nhưng giới điều tra tự nhiên gọi nó bằng danh xưng rợn gáy: Sát Thủ Đồ Tể Lừng Danh!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Tại sao một loài chim ca hót nhỏ bé lại sở hữu thói quen treo xác con mồi lên gai nhọn rùng rợn đến như vậy? Phải chăng đây là một hành vi tàn bạo bản năng, hay đằng sau đó là một chiến lược cơ học và hóa học sinh tồn thiên tài? Ngay sau đây, xin mời các bạn cùng tôi mở cánh cửa phòng giải phẫu để vạch trần vũ khí bí mật đầu tiên!"
+          }
+        ]
+      },
+      {
+        "id": "scene02",
+        "badge": "VŨ KHÍ SỐ 1",
+        "banner_title": "CÚ CẮN BẺ GÃY ĐỐT SỐNG",
+        "chapter_title": "Bí kíp số một: Mấu răng mỏ chim ưng thu nhỏ bẻ gãy đốt sống cổ",
+        "hook": "Cấu trúc mỏ sát thủ tomial tooth độc nhất vô nhị",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Xin mời các giám định viên cơ học hãy đặt chiếc mỏ của nghi phạm dưới kính hiển vi điện tử: Đây chính là vũ khí đoạt mạng then chốt! Mặc dù thuộc bộ Sẻ vốn chỉ quen ăn hạt và sâu bọ nhỏ, mỏ của Sát Thủ Đồ Tể Lừng Danh lại tiến hóa theo hướng của các loài chim săn mồi đỉnh cao như chim ưng hay chim cắt!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Đầu mỏ trên uốn cong quặp xuống sắc lẹm như một chiếc móc câu sắt. Nhưng chi tiết kinh hoàng nhất nằm ở hai bên rìa mỏ trên: Hai mấu răng xương nhọn hoắt mọc chìa ra ngoài, giới giải phẫu học gọi là cấu trúc mấu răng tomial tooth!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Khi lao xuống tấn công con mồi từ trên cành cây cao, nó không cắn bừa bãi vào thân xác mà nhắm thẳng chuẩn xác vào gáy hoặc sau hộp sọ nạn nhân. Hai chiếc mấu răng tomial tooth sẽ cắm phập vào khoảng hở giữa các đốt sống cổ, sau đó hàm dưới khép chặt lại tạo lực đòn bẩy bẻ gãy tủy sống con mồi chỉ trong một phần mười giây!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Con mồi lập tức bị liệt toàn thân và chết lâm sàng trước cả khi kịp nhận ra điều gì vừa xảy ra. Một cú cắn kết liễu hoàn hảo, không lãng phí một mi-li-giun năng lượng nào, biến chú chim sẻ nhỏ bé thành một cỗ máy hành quyết chuẩn xác không thua kém gì đại bàng dũng mãnh!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Thế nhưng, sau khi hạ gục con mồi nặng gần bằng chính cơ thể mình, một vấn đề nan giải mới lại xuất hiện đối với sát thủ nhỏ con này. Đó là gì? Xin mời quý vị cùng tôi bước sang hiện trường tiếp theo!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Lực cắn đo được từ cơ hàm của chim bách thanh mạnh gấp ba lần so với bất kỳ loài chim nào có cùng kích cỡ cơ thể! Thậm chí khi săn bắt những con chuột đồng nặng gấp đôi cơ thể nó, cú bẻ cổ bằng mấu răng tomial tooth vẫn diễn ra chớp nhoáng đến mức con mồi không hề có cơ hội phản kháng dù chỉ là một cú cào xước!"
+          }
+        ]
+      },
+      {
+        "id": "scene03",
+        "badge": "VŨ KHÍ SỐ 2",
+        "banner_title": "CÁC CHIẾC MÓC TREO ĐỒ TỂ",
+        "chapter_title": "Bí kíp số hai: Chiếc đinh gai thiên nhiên thay thế bàn chân quắp mồi",
+        "hook": "Khắc phục nhược điểm bàn chân sẻ bằng đòn bẩy ngoại vi",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Đây chính là nút thắt logic thú vị nhất trong toàn bộ hồ sơ vụ án: Tại sao chim bách thanh phải xiên con mồi lên cành gai? Các loài chim săn mồi thực thụ như đại bàng hay cú mèo sở hữu đôi bàn chân có cơ bắp khổng lồ cùng bộ móng vuốt sắc nhọn hình lưỡi liềm để ghim chặt con mồi xuống đất trong khi mỏ xé thịt."
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Thế nhưng nghi phạm của chúng ta, dù sở hữu chiếc mỏ đại bàng, bàn chân của nó lại chỉ là bàn chân chim sẻ thông thường: Các ngón chân mảnh khảnh chỉ đủ lực để đậu bám trên cành cây chứ tuyệt đối không thể giữ chặt một con chuột đồng hay một chú thằn lằn to lớn đang giãy giụa!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Để giải quyết nghịch lý cơ học này, Sát Thủ Đồ Tể Lừng Danh đã phát minh ra một giải pháp phỏng sinh học đỉnh cao: Sử dụng công cụ môi trường làm bàn kẹp trợ lực! Nó tha xác con mồi đến những bụi cây có gai nhọn dài như gai bồ kết, gai mận rừng, hoặc thậm chí là các hàng rào dây thép gai do con người dựng lên!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Nó dùng toàn lực cắm phập xác nạn nhân vào chiếc gai nhọn, biến chiếc gai thành một chiếc kẹp cố định vĩnh cửu. Khi con mồi đã bị khóa cứng tại chỗ, chú chim có thể thong thả dùng chiếc mỏ móc câu của mình để xé nhỏ từng thớ thịt một cách nhàn nhã mà không cần tốn chút sức lực nào để ghì giữ!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Một bằng chứng hùng hồn cho thấy trí thông minh sử dụng ngoại vật phi thường của loài chim! Nhưng hiện trường cành gai không chỉ đơn thuần là bàn ăn dã chiến, nó còn là một kho dự trữ hóa học cực kỳ tinh vi!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Đáng kinh ngạc hơn nữa, mỗi chú chim bách thanh sở hữu một bản đồ trí nhớ không gian hoàn hảo về hàng trăm chiếc gai nhọn trong phạm vi lãnh thổ rộng hàng chục héc-ta của nó! Nó ghi nhớ chính xác vị trí nào có cành gai phù hợp với kích thước từng con mồi: Gai mảnh cho thằn lằn và cào cào, gai chạc ba dày dặn cho chuột đồng và chim sẻ, tạo thành một hệ thống kho tàng thực phẩm dã ngoại quy củ và bài bản!"
+          }
+        ]
+      },
+      {
+        "id": "scene04",
+        "badge": "VŨ KHÍ SỐ 3",
+        "banner_title": "KHO LỌC ĐỘC TỐ 48 GIỜ",
+        "chapter_title": "Bí kíp số ba: Kho bảo quản và giải trừ độc tố con mồi suốt bốn mươi tám giờ",
+        "hook": "Chiến lược hóa sinh biến thức ăn độc hại thành bữa tiệc an toàn",
+        "mood": "tram_bi_an",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Xin mời các nhà hóa nghiệm pháp y cùng phân tích mẫu vật kỳ lạ nhất tìm thấy trên giá treo gai: Đó là những chú cào cào lubber khổng lồ màu vàng đen rực rỡ! Trong tự nhiên, loài cào cào này tích tụ hàm lượng chất độc cardenolide cực mạnh trong cơ thể, có thể làm tê liệt tim và gây nôn mửa dữ dội cho bất kỳ loài chim nào dại dột nuốt phải. Mỗi cành gai nhọn hoắt trong lãnh địa của nó không chỉ đơn thuần là bàn ăn dã chiến, mà còn là một kho tàng bí mật ẩn chứa những bất ngờ hóa học vượt ngoài sức tưởng tượng của các nhà khoa học đương đại!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Mọi loài chim săn mồi khác đều phải tránh xa món ăn chết chóc này. Thế nhưng Sát Thủ Đồ Tể Lừng Danh lại thản nhiên bắt sống những con cào cào độc và xiên chúng lên cành gai nhọn hoắt phơi nắng! Tại sao nó không ăn ngay mà lại treo ở đó?"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Bí mật nằm ở chỗ: Độc tố cardenolide trong cơ thể cào cào sẽ bị phân hủy sinh học và bay hơi hoàn toàn dưới tác động của ánh nắng mặt trời và gió sau khoảng bốn mươi tám giờ đến bảy mươi hai giờ phơi khô!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Chú chim bách thanh kiên nhẫn chờ đợi đúng hai ngày đêm cho đến khi các phản ứng hóa học tự nhiên biến con mồi độc hại thành một miếng mồi khô thơm ngon và hoàn toàn vô hại rồi mới quay lại thưởng thức! [laughter] Đây chẳng khác nào quy trình ủ thực phẩm lên men hoặc phơi khô thịt bò của các đầu bếp ẩm thực hàng đầu!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Vừa là kho lương thực chống đói trong mùa đông khan hiếm, vừa là nhà máy xử lý chất độc tự nhiên. Khả năng tính toán thời gian và hóa sinh của loài chim này thực sự khiến con người phải ngả mũ thán phục!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Trong mùa sinh sản vào mùa xuân, số lượng con mồi được xiên trên các cành gai nhọn xung quanh tổ chính là thước đo độ giàu có và tài năng săn mồi của con đực! Những chú chim mái sẽ bay đi kiểm tra từng cây gai, và con đực nào sở hữu một hàng rào gai treo đầy chuột đồng, thằn lằn và cào cào béo ngậy sẽ lập tức chiếm trọn trái tim của bạn tình để cùng xây tổ ấm!"
+          }
+        ]
+      },
+      {
+        "id": "scene05",
+        "badge": "VŨ KHÍ SỐ 4",
+        "banner_title": "GIỌNG HÓT DỤ MỒI GIẢ TẠO",
+        "chapter_title": "Bí kíp số bốn: Bậc thầy nhại giọng hót dụ dỗ con mồi vào bẫy phục kích",
+        "hook": "Nghệ thuật cải trang âm thanh đánh lừa cả khu rừng",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Và để khép lại bản cáo trạng điều tra, chúng ta không thể bỏ qua ngón đòn lừa đảo tâm lý đỉnh cao nhất của kẻ thủ ác: Nghệ thuật cải trang giọng hót dụ mồi! Là một thành viên xuất sắc của bộ Sẻ biết ca hót, chim bách thanh sở hữu thanh quản cực kỳ linh hoạt có thể bắt chước tiếng kêu của hàng chục loài chim khác nhau!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Khi đi săn, nó sẽ nấp kín trong tán lá rậm rạp và cất lên tiếng hót lảnh lót giả dạng tiếng chim sẻ non đang đòi ăn hoặc tiếng chim bạn tình đang gọi đàn. Những chú chim nhỏ ngây thơ nghe thấy tiếng đồng loại liền mất cảnh giác bay lại gần bụi cây để tìm kiếm bạn đồng hành."
+          },
+          {
+            "speaker": "cameo",
+            "cast": "co_tro_ly",
+            "mood": "tram_bi_an",
+            "text": "[surprise-oh] Thưa Thanh tra, nghĩa là nó dùng chính giọng hót thánh thót ngọt ngào để dẫn dụ nạn nhân vào tầm ngắm tử thần mà không cần tốn công đuổi bắt?"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Chính xác một trăm phần trăm! Ngay khi con mồi bay vào cự ly phục kích chưa đầy hai mét, Sát Thủ Đồ Tể Lừng Danh sẽ lao ra như một mũi tên xé gió, tung cú cắn bẻ cổ thần tốc trước khi nạn nhân kịp nhận ra kẻ vừa cất tiếng hát ngọt ngào lại chính là thần chết!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Từ chiếc mặt nạ đen ngụy trang, giọng hót quyến rũ chết người, chiếc mỏ bẻ cổ siêu tốc cho đến giá treo gai nhọn đa năng, toàn bộ kế hoạch săn mồi tạo thành một chuỗi mắt xích hoàn mỹ không tì vết!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Cơ quan phát âm syrinx của chim bách thanh sở hữu các bó cơ độc lập có thể kiểm soát hai luồng âm thanh cùng lúc! Điều này cho phép nó tạo ra những âm điệu phức tạp, từ tiếng chích chòe líu lo cho đến tiếng chim sẻ non nỉ non cầu cứu, khiến ngay cả những kẻ quan sát dày dạn kinh nghiệm nhất cũng dễ dàng bị mắc lừa nếu chỉ lắng nghe bằng tai!"
+          }
+        ]
+      },
+      {
+        "id": "scene06",
+        "badge": "KẾT LUẬN ĐIỀU TRA",
+        "banner_title": "TUYỆT TÁC TIẾN HÓA TỰ NHIÊN",
+        "chapter_title": "Kết luận hồ sơ: Tôn vinh kiệt tác sinh tồn và cân bằng sinh thái",
+        "hook": "Khép lại vụ án với góc nhìn tôn trọng quy luật tự nhiên",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Kính thưa toàn thể ban chuyên án và quý khán giả theo dõi hồ sơ vụ án, sau khi làm rõ toàn bộ bốn bằng chứng từ mỏ móc câu bẻ cổ, bàn kẹp gai nhọn trợ lực, kho phân hủy độc tố bốn mươi tám giờ cho đến giọng hót phục kích thiên tài, chúng tôi xin tuyên bố khép lại tập tài liệu điều tra về Chim Bách Thanh!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Dù thói quen xiên mồi lên cành gai có phần đáng sợ trong mắt con người, nhưng đối với hệ sinh thái đồng cỏ và bìa rừng, Sát Thủ Đồ Tể Lừng Danh chính là một mắt xích kiểm soát số lượng côn trùng gây hại và các loài gặm nhấm cực kỳ hữu ích, giữ cho cán cân tự nhiên luôn ở trạng thái cân bằng hoàn hảo."
+          },
+          {
+            "speaker": "host",
+            "mood": "am_ap",
+            "text": "Bài học phá án hôm nay nhắc nhở chúng ta rằng: Đừng bao giờ đánh giá một sinh vật chỉ qua vẻ bề ngoài dễ thương hay giọng hót ngọt ngào! Sự sinh tồn trong thế giới hoang dã luôn đòi hỏi những chiến lược thích nghi thông minh và kiên cường vượt qua mọi giới hạn của cơ thể! Trong cuộc sống cũng vậy, sự nhạy bén và năng lực tận dụng tối đa những nguồn lực sẵn có xung quanh sẽ là chìa khóa mở ra cánh cửa thành công cho mỗi chúng ta!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Giữa kỹ thuật bẻ cổ bằng mấu răng tomial tooth và chiếc bẫy gai nhọn giải độc, tuyệt chiêu nào của chú chim bách thanh khiến bạn rùng mình và thán phục nhất? Hãy chia sẻ suy luận phá án của bạn ngay trong phần bình luận bên dưới nhé!"
+          },
+          {
+            "speaker": "host",
+            "mood": "am_ap",
+            "text": "Và đừng quên nhấn nút Đăng Ký Kênh cùng chiếc chuông thông báo để không bỏ lỡ Tập bốn mươi: Khám phá siêu kiến trúc quân sự của Kiến Cắt Lá! Xin chào tạm biệt và hẹn gặp lại toàn thể các thám tử trong những vụ án tự nhiên kỳ thú tiếp theo!"
+          }
+        ]
+      }
+    ]
+  },
+  "shorts": {
+    "text": "[surprise-oh] Bạn có tin một chú chim nhỏ nặng chỉ năm mươi gam với vẻ ngoài ngây thơ lại mang danh hiệu Sát Thủ Đồ Tể khét tiếng nhất thế giới tự nhiên không? [laughter] Đó chính là Chim Bách Thanh! Bí mật rợn người nằm ở chiếc mỏ móc câu có hai mấu răng xương sắc bén có thể bẻ gãy đốt sống cổ con mồi chỉ trong chớp mắt! [dissatisfaction-hnn] Vì đôi chân chim sẻ quá yếu không thể giữ chặt mồi, nó đã sáng tạo ra một tuyệt chiêu độc nhất vô nhị: Xiên thủng xác con mồi lên những chiếc gai cây nhọn hoắt hoặc hàng rào dây thép gai để làm điểm tựa xé thịt! Thậm chí những con cào cào cực độc cũng bị nó treo gai phơi nắng suốt bốn mươi tám giờ cho bay hết chất độc rồi mới ăn! [laughter] Một kho lương thực rùng rợn biến nó thành thám tử sát thủ thiên tài của bụi rậm!"
+  },
+  "seo": {
+    "title": "Hồ Sơ Sát Thủ Bụi Rậm: Chim Bách Thanh Xiên Cọc Con Mồi Tẩm Độc Để Dự Trữ Lương Thực?! | Tập 39",
+    "hook_paragraph": "Chim Bách Thanh (Laniidae) được mệnh danh là Đồ tể Shrike của thế giới loài chim. Không có móng vuốt đại bàng sắc nhọn, loài chim nhỏ bé này dùng mỏ bẻ gãy đốt sống cổ con mồi rồi xiên cọc lên hàng rào gai nhọn để làm kho lương thực và phân giải chất độc. Cùng Chuyên gia hình sự giải mã hồ sơ vụ án chấn động thế giới tự nhiên!",
+    "bullets": [
+      "Chiếc mỏ có mấu răng Tomial: Cú mổ bẻ gãy tủy sống con mồi trong chớp mắt 0,1 giây",
+      "Chiến thuật xiên cọc gai nhọn: Dùng gai xương rồng và dây thép gai thay cho đôi chân giữ mồi",
+      "Kho thịt dự trữ giải độc: Chờ chất độc cào cào Lubber phân hủy tự nhiên trong 3 ngày rồi mới ăn",
+      "Kỹ thuật ngụy trang âm thanh: Bắt chước tiếng hót chim non để dụ con mồi vào bẫy phục kích",
+      "Lãnh địa ma quái: Những hàng rào gai treo đầy xác thằn lằn, chuột và côn trùng rùng rợn",
+      "Ứng dụng sinh thái học: Bậc thầy kiểm soát sâu bệnh tự nhiên bảo vệ đồng ruộng không cần hóa chất"
+    ],
+    "question": "Giữa mấu răng mỏ Tomial bẻ gãy đốt sống và chiến thuật xiên cọc chờ phân giải độc tố, phương thức săn mồi nào của Chim Bách Thanh làm bạn ấn tượng nhất?",
+    "next_teaser": "đế chế kiến thợ tí hon canh tác nông nghiệp nấm ngầm 50 triệu năm",
+    "hashtag_broad": "#thếgiớiđộngvật",
+    "hashtag_animal": "#chimbáchthanh",
+    "tags": [
+      "chim bách thanh",
+      "laniidae",
+      "chim đồ tể",
+      "hồ sơ sinh vật",
+      "vẽ chuyện hoang dã",
+      "whiteboard animation"
+    ],
+    "shorts_title": "Bí mật loài chim xiên cọc con mồi như ma cà rồng?!",
+    "shorts_desc": "Chim Bách Thanh xiên con mồi lên gai nhọn để treo kho lương thực và chờ độc tố phân hủy!",
+    "shorts_tags": [
+      "chim bách thanh",
+      "khoa học",
+      "vẽ chuyện hoang dã",
+      "shorts"
+    ],
+    "en_title": "Shrike: The Butcherbird That Impales Prey on Thorns! | EP39",
+    "en_hook": "Discover how the butcherbird hunts, breaks spines, and impales prey on thorns to detoxify food!",
+    "en_shorts_title": "The Butcherbird That Impales Its Prey on Sharp Thorns?!"
+  },
+  "art": {
+    "style_label": "phong cách phác thảo khám nghiệm hiện trường pháp y & truyện tranh trinh thám Noir (Forensic Crime Scene Sketch)",
+    "visual_style": "tỉ lệ {AR}; phong cách bản vẽ phác thảo khám nghiệm hiện trường pháp y kết hợp truyện tranh điện ảnh trinh thám Noir (Forensic Crime Scene Sketch & Noir Pen-and-Ink): nét vẽ bút kim kỹ thuật đen trắng sắc sảo lạnh lùng, chi tiết thước đo tỉ lệ hiện trường màu vàng dạ quang neon, bảng manh mối ghim chỉ đỏ kết nối chứng cứ, vòng phấn đánh dấu hiện trường, kính lúp quang học soi vết cành gai nhọn, độ tương phản thị giác cực cao giàu tính điều tra phá án; NỀN TRẮNG TINH hoàn toàn, không watermark, không logo; chủ thể nằm gọn trong khung, chừa lề trắng",
+    "decor": "yellow forensic measurement scale, red pin connection threads, magnifying glass, thorn branches, evidence tags, chalk circle outlines",
+    "shorts_mascot": "A clever cartoon butcher bird wearing a black Zorro mask and detective trench coat, perched proudly on a thorny branch",
+    "thumb_bg": "moody dark forest edge with moonlight filtering through thorny trees and yellow police crime scene tape",
+    "thumb_title": [
+      "SÁT THỦ 50G?!",
+      "TREO XÁC CÀNH GAI"
+    ],
+    "thumb_scene": "a sleek cartoon butcher bird with a black eye-mask and sharp hooked beak perched over a thorn bush pantry, smirking like a mastermind",
+    "thumb_gag": "a giant grasshopper trembling behind a twig holding a white surrender flag",
+    "shorts_banner_lines": [
+      "SÁT THỦ ĐỒ TỂ:",
+      "CHIM BÁCH THANH!"
+    ]
+  }
+}

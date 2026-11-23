@@ -1,0 +1,622 @@
+{
+  "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+  "targets": {},
+  "scenes": {
+    "scene01": {
+      "chapter_no": 1,
+      "title": "VỤ ÁN THAO TÚNG TÂM TRÍ CHẤN ĐỘNG GIỚI CÔN TRÙNG",
+      "hook": "BẢN CÁO TRẠNG THAO TÚNG NÃO BỘ VÀ TƯỚC ĐOẠT Ý CHÍ TỰ DO",
+      "card": false,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L01.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Không dùng sức mạnh cơ",
+          "image": "assets/long/L02.png",
+          "stickers": [],
+          "impacts": [
+            "xác sống Zombie"
+          ]
+        },
+        {
+          "at": "biến một chiến binh gián",
+          "image": "assets/long/L03b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Thưa Hội đồng xét xử!",
+          "image": "assets/long/L03.png",
+          "stickers": [
+            {
+              "at": "43",
+              "side": "R",
+              "y": 360,
+              "value": "SỐ 43",
+              "label": "hồ sơ hình sự",
+              "target": [
+                0.75,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Nhưng trong giới giang hồ",
+          "image": "assets/long/L04.png",
+          "stickers": [],
+          "impacts": [
+            "Bác sĩ phẫu thuật thần kinh"
+          ]
+        },
+        {
+          "at": "Chiều dài cơ thể của",
+          "image": "assets/long/L05.png",
+          "stickers": [
+            {
+              "at": "20mm",
+              "side": "R",
+              "y": 380,
+              "value": "20 MM",
+              "label": "chiều dài cơ thể",
+              "target": [
+                0.5,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "đừng để vẻ ngoài kiều diễm",
+          "image": "assets/long/L06b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Trước khi đi vào hiện",
+          "image": "assets/long/L06.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Một loài côn trùng có",
+          "image": "assets/long/L07.png",
+          "stickers": [
+            {
+              "at": "1.5 mét",
+              "side": "L",
+              "y": 360,
+              "value": "1.5 M/S",
+              "label": "tốc độ tẩu thoát",
+              "target": [
+                0.25,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Nhưng khi đối đầu với",
+          "image": "assets/long/L08.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "toàn bộ sức mạnh kiên",
+          "image": "assets/long/L09.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "CÁO TRẠNG VỤ ÁN"
+    },
+    "scene02": {
+      "chapter_no": 2,
+      "title": "MŨI TIÊM SỐ 1 KHÓA CHẶT KHỚP NGỰC NẠN NHÂN",
+      "hook": "PHÁT SÚNG GÂY MÊ TẠM THỜI VÀO HẠCH THẦN KINH NGỰC",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L10.png",
+          "stickers": [
+            {
+              "at": "6 lần",
+              "side": "R",
+              "y": 360,
+              "value": "GẤP 6 LẦN",
+              "label": "thể trọng nạn nhân",
+              "target": [
+                0.75,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Gián sở hữu hệ thống",
+          "image": "assets/long/L11.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nếu lao vào một cuộc",
+          "image": "assets/long/L12.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Đây chính là điểm khởi",
+          "image": "assets/long/L13.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Gã phục kích từ trên",
+          "image": "assets/long/L14.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Ngay trong tích tắc đối",
+          "image": "assets/long/L15.png",
+          "stickers": [],
+          "impacts": [
+            "phát 1"
+          ]
+        },
+        {
+          "at": "Độc tố của phát 1",
+          "image": "assets/long/L16.png",
+          "stickers": [
+            {
+              "at": "2-3 phút",
+              "side": "L",
+              "y": 360,
+              "value": "2-3 PHÚT",
+              "label": "liệt chân trước",
+              "target": [
+                0.25,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Con gián dù vẫn còn",
+          "image": "assets/long/L17.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nhóm nghiên cứu của giáo",
+          "image": "assets/long/L18.png",
+          "stickers": [
+            {
+              "at": "1.000",
+              "side": "R",
+              "y": 360,
+              "value": "1.000 FPS",
+              "label": "máy quay siêu chậm",
+              "target": [
+                0.75,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Khi gián phát hiện bị ong",
+          "image": "assets/long/L19b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Gã lượn vòng từ góc",
+          "image": "assets/long/L19.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Cú châm kim số một",
+          "image": "assets/long/L20.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "ĐÒN TẤN CÔNG #1"
+    },
+    "scene03": {
+      "chapter_no": 3,
+      "title": "KỸ THUẬT CHÂM KIM NÃO BỘ TƯỚC ĐOẠT Ý CHÍ TỰ DO",
+      "hook": "VI PHẪU ĐỘC TỐ ỨC CHẾ NÃO BỘ BIẾN THÀNH XÁC SỐNG",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L21.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Gã dùng hàm giữ chặt",
+          "image": "assets/long/L22.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Các nghiên cứu của giáo",
+          "image": "assets/long/L23.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Mũi kim vi phẫu luồn",
+          "image": "assets/long/L24.png",
+          "stickers": [],
+          "impacts": [
+            "hạch não"
+          ]
+        },
+        {
+          "at": "Tại đây, gã bơm vào",
+          "image": "assets/long/L25.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nhưng thụ thể octopamine chính",
+          "image": "assets/long/L26.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nếu bạn thả con gián",
+          "image": "assets/long/L27.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Một xác sống Zombie thực",
+          "image": "assets/long/L28.png",
+          "stickers": [],
+          "impacts": [
+            "xác sống Zombie"
+          ]
+        },
+        {
+          "at": "Điều kỳ dị hơn nữa",
+          "image": "assets/long/L29.png",
+          "stickers": [
+            {
+              "at": "30 phút",
+              "side": "L",
+              "y": 360,
+              "value": "30 PHÚT",
+              "label": "chải chuốt vô thức",
+              "target": [
+                0.25,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Con gián không hề bỏ chạy",
+          "image": "assets/long/L29b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Trong lúc nạn nhân đang",
+          "image": "assets/long/L30.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "VI PHẪU THẦN KINH"
+    },
+    "scene04": {
+      "chapter_no": 4,
+      "title": "MÀN DẮT GIÁN NHƯ THÚ CƯNG ĐI VÀO NẤM MỒ NGẦM",
+      "hook": "CẮT TỈA CẶP ĂNG-TEN VÀ DẮT XÁC SỐNG TỰ BƯỚC ĐI",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L31.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "lúc này tiến hành bước",
+          "image": "assets/long/L32.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Thay vì tốn sức kéo",
+          "image": "assets/long/L33.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Thật hoang đường, chuyện này",
+          "image": "assets/long/L33b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Gã ghé miệng vào vết",
+          "image": "assets/long/L34.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Sau đó, gã ngậm chặt",
+          "image": "assets/long/L35.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Gã lùi từng bước về",
+          "image": "assets/long/L36.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nạn nhân thong thả bước",
+          "image": "assets/long/L37.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nhà tự nhiên học Francis",
+          "image": "assets/long/L38.png",
+          "stickers": [
+            {
+              "at": "năm 1942",
+              "side": "L",
+              "y": 360,
+              "value": "NĂM 1942",
+              "label": "ghi nhận tại Hawaii",
+              "target": [
+                0.25,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Con gián bước đi thảnh",
+          "image": "assets/long/L39.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Toàn bộ hệ thống cơ",
+          "image": "assets/long/L40.png",
+          "stickers": [
+            {
+              "at": "100%",
+              "side": "R",
+              "y": 360,
+              "value": "100%",
+              "label": "cơ bắp bình thường",
+              "target": [
+                0.75,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        }
+      ],
+      "badge": "HIỆN TRƯỜNG DẮT MỒI"
+    },
+    "scene05": {
+      "chapter_no": 5,
+      "title": "CHIẾN LƯỢC BẢO QUẢN THỊT TƯƠI SỐNG ĐỈNH CAO CỦA ẤU TRÙNG",
+      "hook": "BẢO QUẢN THỰC PHẨM SỐNG SUỐT 8 NGÀY KHÔNG ÔI THIU",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L41.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Gã đẻ cẩn thận đúng",
+          "image": "assets/long/L42.png",
+          "stickers": [
+            {
+              "at": "1 quả trứng",
+              "side": "R",
+              "y": 360,
+              "value": "1 TRỨNG",
+              "label": "dán vào chân gián",
+              "target": [
+                0.75,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Sau đó, ong mẹ chui",
+          "image": "assets/long/L43.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Sau 2-3 ngày, quả",
+          "image": "assets/long/L44.png",
+          "stickers": [
+            {
+              "at": "2-3 ngày",
+              "side": "L",
+              "y": 360,
+              "value": "2-3 NGÀY",
+              "label": "trứng nở ấu trùng",
+              "target": [
+                0.25,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Khi lớn hơn, nó chui",
+          "image": "assets/long/L45.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Hãy lắng nghe nguyên tắc",
+          "image": "assets/long/L46.png",
+          "stickers": [
+            {
+              "at": "24 giờ",
+              "side": "R",
+              "y": 360,
+              "value": "24 GIỜ",
+              "label": "nguy cơ thối rữa",
+              "target": [
+                0.75,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Do đó, ấu trùng ong",
+          "image": "assets/long/L47.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Con gián vẫn sống, tim",
+          "image": "assets/long/L48.png",
+          "stickers": [
+            {
+              "at": "8-10 ngày",
+              "side": "L",
+              "y": 360,
+              "value": "8-10 NGÀY",
+              "label": "thịt tươi sống",
+              "target": [
+                0.25,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Cho đến khi ăn sạch",
+          "image": "assets/long/L49.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Chưa dừng lại ở đó,",
+          "image": "assets/long/L50.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nói cách khác, con gián",
+          "image": "assets/long/L50b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Một quy trình bảo quản",
+          "image": "assets/long/L51.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "TỦ LẠNH SINH HỌC"
+    },
+    "scene06": {
+      "chapter_no": 6,
+      "title": "KHÉP LẠI VỤ ÁN THAO TÚNG NÃO BỘ KỲ VĨ CỦA TỰ NHIÊN",
+      "hook": "BẢN ÁN TIẾN HÓA VÀ LỜI GIẢI MÃ BÍ ẨN HỒ SƠ 44",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L52.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nhưng dưới góc nhìn của",
+          "image": "assets/long/L53.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Bác sĩ phẫu thuật thần",
+          "image": "assets/long/L54.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nếu trong cuộc sống bạn",
+          "image": "assets/long/L55.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nếu được sở hữu một",
+          "image": "assets/long/L56.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Còn bây giờ, hãy chuẩn",
+          "image": "assets/long/L57.png",
+          "stickers": [
+            {
+              "at": "2 tấn",
+              "side": "R",
+              "y": 360,
+              "value": "2 TẤN",
+              "label": "gã khổng lồ vô tri",
+              "target": [
+                0.75,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Bạn có biết gã khổng",
+          "image": "assets/long/L58.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "BẢN ÁN CUỐI CÙNG"
+    }
+  }
+}

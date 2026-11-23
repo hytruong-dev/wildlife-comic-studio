@@ -1,0 +1,3994 @@
+{
+ "_doc": "SINH BỞI src/mega/build_from_content.py từ content/*.md — sửa content rồi chạy lại, KHÔNG sửa file này.",
+ "characters": {
+  "HERO": "anh MC dẫn chương trình hoạt hình vui tính: tóc vuốt dựng, mặc bộ vest đỏ tươi, thắt nơ bướm vàng, cầm chiếc micro vàng, nụ cười rộng",
+  "HERO_S": "anh MC vest đỏ nơ bướm vàng cầm micro vàng và 10 tuyển thủ động vật hoạt hình của Đại Hội Sinh Tồn Mùa 3",
+  "MC": "anh MC hoạt hình vest đỏ nơ bướm vàng cầm micro vàng",
+  "JUDGE": "bà cú mèo giám khảo hoạt hình đeo kính tròn gọng vàng, khoác áo choàng tím, cầm búa gỗ nhỏ",
+  "BOARD": "tấm bảng điểm khổng lồ hình chiếc khiên dựng giữa sân vận động, có 10 cột đèn màu bên cạnh 10 hình đầu con vật nhỏ (không có chữ, không có số)",
+  "NO_HERO": "KHÔNG có anh MC trong cảnh này",
+  "WOLVERINE_FROG": "chú Ếch Lông Wolverine hoạt hình màu nâu sần sùi có lông tơ ở hai bên sườn, móng vuốt xương nhọn hoắt đâm ra từ đầu ngón chân sau, vẻ mặt ngầu lạnh lùng",
+  "AXOLOTL": "chú Kỳ Nhông Axolotl hoạt hình màu hồng phấn dễ thương, 6 nhánh mang ngoài xòe lông vũ màu đỏ hồng như chiếc vương miện, nụ cười ngây thơ tươi rói",
+  "SEA_CUCUMBER": "chú Hải Sâm hoạt hình mập mạp màu nâu cam sần sùi không xương, vẻ mặt lầy lội bi hài, luôn cầm chiếc quạt giấy mini xua đuổi kẻ thù",
+  "HAGFISH": "chú Cá Mút Đá Hagfish hoạt hình trơn tuột màu xám tím nhạt, miệng tròn có râu xúc giác, toàn thân quấn bọt nhớt lấp lánh, thắt nút thân điêu luyện",
+  "MIMIC_OCTOPUS": "chú Bạch Tuộc Mimic hoạt hình sọc vằn nâu trắng nghệ sĩ, 8 xúc tu uốn lượn biến ảo thành đủ hình dáng kỳ lạ, cầm chiếc mặt nạ biến hình",
+  "WOMBAT": "chú Gấu Túi Wombat hoạt hình mập tròn 35kg màu nâu xám, chiếc mông bọc thép titan chống cắn, cầm xẻng đào hầm mini, vẻ mặt lì lợm kiên cường",
+  "STAR_MOLE": "chú Chuột Chũi Mũi Sao hoạt hình lông đen nhung mượt mà, mũi xòe ra 22 xúc tu đỏ hồng như bông hoa sao biển, đeo kính râm mù lòa nhưng phản xạ siêu thanh",
+  "EXPLODING_ANT": "chú Kiến Nổ Cảm Tử hoạt hình màu đỏ cam, đeo ba lô chứa chất lỏng vàng phát sáng, đội mũ bảo hộ chống độc, ánh mắt quả cảm kiên cường",
+  "IMMORTAL_JELLYFISH": "chú Sứa Bất Tử hoạt hình trong suốt hình chuông nhỏ xíu 4.5mm phát ánh sáng ma thuật hồng tím, đeo bùa hộ mệnh vòng lặp vô cực",
+  "BEAVER": "chú Hải Ly hoạt hình lông nâu hạt dẻ, chiếc đuôi dẹt như mái chèo, răng cửa màu cam phủ sắt sắc bén, đội mũ bảo hộ công trình màu vàng cầm thước đo"
+ },
+ "side_characters": [
+  "JUDGE"
+ ],
+ "shorts_side_characters": [
+  "JUDGE"
+ ],
+ "shorts_title_lines": [
+  "ĐẠI HỘI SINH TỒN #3",
+  "10 DỊ NHÂN ĐẠI CHIẾN!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Toàn cảnh đấu trường hoạt hình khổng lồ nửa trên cạn nửa dưới nước chìm trong màn sương đêm kỳ bí, mười chiếc bục tròn phát sáng bao quanh một bục vinh quang trung tâm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Ở chính giữa",
+   "layout": "Cận cảnh chiếc vương miện nạm ngọc lấp lánh xoay tròn trên bệ đá cẩm thạch giữa sân khấu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đêm nay, mười",
+   "layout": "Mười chiếc bóng đen bí ẩn của 10 con vật (Ếch Wolverine, Axolotl, Hải Sâm, Cá Mút Đá, Bạch Tuộc Mimic, Wombat, Chuột Chũi Mũi Sao, Kiến Nổ, Sứa Bất Tử, Hải Ly) xuất hiện tại cửa hầm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Họ không đến",
+   "layout": "Mười đôi mắt hoạt hình rực sáng trong bóng tối với đủ phong thái: ngầu lạnh lùng, ngây thơ, lầy lội, bí hiểm và kiên cường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mỗi loài mang",
+   "layout": "Những biểu tượng siêu năng lực phát sáng lơ lửng quanh cửa hầm: vuốt xương bọc thép, nhánh tái sinh, tơ nhớt siêu bền, vòng lặp vô cực và con đập gỗ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Từ khả năng",
+   "layout": "Hình vẽ minh họa 4 siêu năng lực tỏa sáng trên màn hình lớn: trái tim tự liền sẹo, mông bọc giáp titan, tơ nhớt bẫy cá mập và vòng lặp vô cực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bật toàn bộ",
+   "layout": "Dàn đèn pha công suất lớn rọi sáng rực rỡ toàn bộ đấu trường, pháo hoa nổ tung trên bầu trời đêm; {MC} vest đỏ tươi giơ micro vàng nở nụ cười rạng rỡ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tôi là người",
+   "layout": "{MC} đặt tay lên ngực cam kết, phía sau là màn hình lớn chiếu biểu tượng các tạp chí khoa học uy tín Nature, Science và PNAS (không chữ).",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Từ việc tơ",
+   "layout": "{MC} nháy mắt hóm hỉnh, tay kia giơ tập tài liệu dày cộm có hình chuỗi xoắn DNA và bánh răng cơ khí; khán đài thú rừng reo hò náo nhiệt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đại hội không",
+   "layout": "{MC} giơ micro lên cao, pháo sáng hình vương miện lấp lánh trên không trung; khán giả muôn loài vẫy cờ hoa rộn ràng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Luật thi đấu",
+   "layout": "{BOARD} hiện lên giữa sân với 8 ô thử thách: vũ khí tự thân, tái sinh thoát hiểm, phản xạ giác quan, công trình địa hình, bộ gen đột biến, bảo vệ sinh thái, cụ tổ cổ đại và món quà nhân loại.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mỗi vòng thi,",
+   "layout": "{JUDGE} ngồi ở bàn giám khảo trên cao gõ búa gỗ, trước mặt là khay nhung đỏ bày ba chiếc huy chương vàng, bạc, đồng sáng loáng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Khắp các khán",
+   "layout": "Khán đài hoạt hình rực rỡ cờ hoa, đàn gấu trúc vác băng rôn vẽ hình chiếc vương miện, bầy chim cánh cụt mặc áo phông cổ vũ nhiệt tình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đội cổ động",
+   "layout": "Đàn rái cá biển gõ hai vỏ sò vào nhau kêu canh cách vui nhộn, các chú chồn Gulo đeo kính râm vỗ tay phấn khích; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hải Ly thậm",
+   "layout": "{BEAVER} đang định há miệng gặm góc bàn cẩm thạch, {JUDGE} cầm thước gỗ gõ nhẹ lên trán Hải Ly làm chú ta rụt cổ cười trừ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Còn anh chàng",
+   "layout": "{WOMBAT} đứng dựa mông vào cột thép ngáy khò khò ngon lành, miệng mỉm cười như đang mơ thấy cánh đồng cỏ tươi xanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Giám khảo xin",
+   "layout": "Cận cảnh {JUDGE} cúi đầu nhìn qua gọng kính tròn, vẻ mặt nghiêm nghị đưa cánh ra lệnh chỉ đạo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Các tuyển thủ",
+   "layout": "{MC} liếc nhìn sang {SEA_CUCUMBER} và {EXPLODING_ANT} đang giả vờ gãi đầu cười trừ ngây thơ vô số tội.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Và bây giờ,",
+   "layout": "Cửa hầm mở toang, ánh đèn flash chớp sáng liên hồi, khói lạnh cuồn cuộn thổi qua lối đi chính; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số",
+   "layout": "{WOLVERINE_FROG} bước ra thảm đỏ, hai bên sườn phủ lớp lông tơ nâu sậm, đầu ngón chân sau xòe ra những móng vuốt xương nhọn hoắt cực ngầu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số hai!",
+   "layout": "{AXOLOTL} bơi lượn trong bồn nước ngọt trong suốt, sáu nhánh mang hồng xòe rộng như cánh hoa, nụ cười ngây thơ đốn tim khán giả; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số ba!",
+   "layout": "{SEA_CUCUMBER} mập mạp màu cam sần sùi trườn ra sân khấu, tay phe phẩy chiếc quạt giấy mini trông vô cùng hài hước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số bốn!",
+   "layout": "{HAGFISH} thân trơn tuột màu xám tím quấn quanh cột thủy tinh, toàn thân phủ các vệt bọt nhớt lấp lánh, thắt nút thân số 8 điêu luyện; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "20 lít",
+     "side": "R",
+     "y": 390,
+     "value": "20 LÍT",
+     "label": "Khóa chặt mang kẻ thù",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số năm!",
+   "layout": "{MIMIC_OCTOPUS} sọc vằn nâu trắng uốn lượn biến ảo thành hình dáng rắn biển rồi lại hóa thành cá sư tử đầy gai góc; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "9 bộ não",
+     "side": "L",
+     "y": 400,
+     "value": "9 BỘ NÃO",
+     "label": "Trí tuệ phân tán",
+     "target": [
+      0.35,
+      0.72
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số sáu!",
+   "layout": "{WOMBAT} mập mạp bệ vệ bước ra, quay chiếc mông bọc thép titan chống cắn về phía khán giả khoe sức mạnh, tay cầm xẻng xúc đất mini; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số bảy!",
+   "layout": "{STAR_MOLE} đeo kính râm ngầu, chiếc mũi sao biển đỏ hồng nhấp nháy liên hồi quét tín hiệu không gian; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "22 xúc tu",
+     "side": "R",
+     "y": 410,
+     "value": "22 XÚC TU",
+     "label": "Cơ quan Eimer nhạy",
+     "target": [
+      0.62,
+      0.52
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số tám!",
+   "layout": "{EXPLODING_ANT} đội mũ bảo hộ chống độc, đeo ba lô chứa chất lỏng vàng phát quang, bước đi đầy quả cảm kiên định; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số chín!",
+   "layout": "{BEAVER} đội mũ bảo hộ công trình vàng, vác khúc gỗ lớn trên vai, chiếc đuôi dẹt đập bôm bốp xuống sàn chào khán giả; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Và tuyển thủ",
+   "layout": "{MC} cúi người nhìn chăm chú vào chiếc ly thủy tinh nhỏ trên bàn giám khảo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Dạ em ở",
+   "layout": "Cận cảnh phóng to qua kính hiển vi: {IMMORTAL_JELLYFISH} trong suốt hình chuông nhỏ xíu phát ánh sáng hồng tím ma thuật, đeo bùa hộ mệnh vô cực vẫy xúc tu tí hon; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Một tràng pháo",
+   "layout": "Chiếc bàn cân điện tử khổng lồ giữa đấu trường sáng đèn, các kỹ thuật viên đeo găng tay chuẩn bị ghi nhận số liệu; {MC} cầm micro đứng bên cạnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mười tuyển thủ",
+   "layout": "Nhân viên kỹ thuật cầm bảng kẹp tài liệu kiểm tra trọng lượng từng đấu sĩ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chiến xa Wombat",
+   "layout": "{WOMBAT} đứng lên bàn cân, kim đồng hồ điện tử nhảy vọt lên con số 35kg; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "35kg",
+     "side": "R",
+     "y": 380,
+     "value": "35KG",
+     "label": "Wombat nặng nhất",
+     "target": [
+      0.72,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tiếp theo là",
+   "layout": "{BEAVER} ngồi nghiêm túc lên cân, màn hình điện tử hiện số 25kg, tay vẫn cầm chắc thanh gỗ đo đạc; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "25kg",
+     "side": "L",
+     "y": 380,
+     "value": "25KG",
+     "label": "Hải Ly công trình",
+     "target": [
+      0.38,
+      0.78
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhóm hạng trung",
+   "layout": "Ba chiếc cân đặt cạnh nhau: {HAGFISH} trườn trên cân 1kg, {SEA_CUCUMBER} nằm ườn 500g, {MIMIC_OCTOPUS} cuộn 8 xúc tu 300g; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Ếch Wolverine nặng",
+   "layout": "Ba tuyển thủ tí hon đứng trên cân phân tích chính xác: {WOLVERINE_FROG}, {AXOLOTL} và {STAR_MOLE} nhìn nhau đầy thách thức; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Và đỉnh điểm",
+   "layout": "Bảng so sánh đồ họa: một bên là {WOMBAT} khổng lồ như xe bọc thép, một bên là {IMMORTAL_JELLYFISH} chỉ là chấm sáng li ti; nhân viên kỹ thuật há hốc mồm kinh ngạc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Gấu Wombat nặng",
+   "layout": "Kỹ thuật viên ôm đầu trước màn hình máy tính hoạt hình hiện biểu tượng bốc khói quá tải dữ liệu; {MC} cười lớn vỗ tay.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Sự chênh lệch",
+   "layout": "Khán giả chia thành hai phe cãi nhau chí chóe: phe ủng hộ cơ bắp khổng lồ và phe đặt cược vào siêu năng lực vi mô; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Sau lễ cân",
+   "layout": "Màn hình chiếu cột dự đoán: các cột cao vút gắn hình đầu {WOMBAT}, {BEAVER}, {WOLVERINE_FROG} sáng rực trên bục hạt giống vô địch; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Còn Sứa Bất Tử 1",
+   "layout": "Cột dự đoán thấp tè gắn hình {IMMORTAL_JELLYFISH} và {SEA_CUCUMBER}; {SEA_CUCUMBER} lắc đầu ngán ngẩm còn {IMMORTAL_JELLYFISH} nhấp nháy phát sáng kiêu hãnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhưng lịch sử",
+   "layout": "Bức ảnh hồi tưởng Thú Mỏ Vịt Mùa một và Bọ Pháo Thủ Mùa hai giơ cao cúp vô địch trong sự ngỡ ngàng của giới chuyên gia; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mỗi ứng viên",
+   "layout": "Mô hình chuỗi xoắn kép D-N-A khổng lồ xoay tròn giữa sàn đấu, từng đoạn gen phát quang rực rỡ mang tên mười loài sinh vật; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Không có sàn",
+   "layout": "Toàn cảnh đấu trường tràn ngập ánh sáng laser và màn hình holographic phân tích chỉ số sinh học của các tuyển thủ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Trong thế giới",
+   "layout": "Cận cảnh ánh mắt rực lửa của mười tuyển thủ trong ánh sáng laser huyền ảo, sẵn sàng bước vào vòng đấu súng đầu tiên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "{MC} giơ tay phất cờ hiệu màu đỏ, pháo hoa bắn sáng rực hai bên sân khấu; {BOARD} nhấp nháy sáng ô thử thách số một.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tại vòng đấu",
+   "layout": "Màn hình lớn chiếu đồ họa các loại giáp và vũ khí sinh học: móng vuốt xương, tấm khiên sụn, răng sắt và màng keo chống đạn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Không có súng",
+   "layout": "Hình ảnh minh họa áo giáp sắt của con người bị rỉ sét nứt vỡ so sánh với bộ giáp sinh học tự phục hồi nguyên vẹn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Ứng cử viên",
+   "layout": "{WOMBAT} chui đầu vào cửa hang đất mô phỏng, quay trọn vẹn phần mông bọc thép dày cộm ra ngoài đối diện kẻ thù; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Các nhà khoa",
+   "layout": "Sơ đồ giải phẫu cắt lớp hoạt hình: lớp da dày, lớp sụn đàn hồi và dải collagen đan chéo chịu lực va đập cực đại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Độ dày của",
+   "layout": "Mô hình chó hoang Dingo cắn ngập răng vào mông {WOMBAT} nhưng răng trượt kêu ken két, {WOMBAT} vẫn thản nhiên nhai cỏ; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "3cm",
+     "side": "R",
+     "y": 420,
+     "value": "DÀY 3CM",
+     "label": "Khiên sụn mô mạc sợi",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chưa dừng lại",
+   "layout": "{WOMBAT} dùng hai chân sau đạp mạnh đẩy tấm khiên mông dập mạnh lên trần hang, tiếng sọ kẻ thù nứt toác trong mô phỏng hoạt hình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Cơ chế đập",
+   "layout": "Mô phỏng chiếc máy ép thủy lực hoạt hình kẹp nát tảng đá cứng để minh họa sức mạnh cú thúc mông của {WOMBAT}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tuyệt chiêu phòng",
+   "layout": "Khán đài thú rừng đồng loạt giơ bảng chấm điểm chín và mười reo hò; {MC} giơ micro thán phục.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng đối thủ",
+   "layout": "{BEAVER} bước lên bục gỗ, ngoác miệng khoe hai chiếc răng cửa trên dưới màu cam sáng chói như thanh kim loại nung nóng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tại sao răng",
+   "layout": "Phóng to hình ảnh hiển vi điện tử: các hạt nano hợp chất sắt vô định hình xen kẽ giữa các trụ khoáng men răng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Men răng của",
+   "layout": "Hình vẽ minh họa so sánh: axit nhỏ vào răng thường bị xủi bọt, còn nhỏ vào răng của {BEAVER} thì trôi tuột như nước trên lá sen; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhờ vũ khí",
+   "layout": "{BEAVER} ngoạm răng vào thân cây cổ thụ dày cộp, dăm gỗ bay tung tóe, thân cây đổ rầm trong sự kinh ngạc của khán giả; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "40cm",
+     "side": "L",
+     "y": 400,
+     "value": "40CM",
+     "label": "Đốn ngã thân cây cứng",
+     "target": [
+      0.45,
+      0.72
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Hơn thế nữa,",
+   "layout": "Hai chiếc răng trên và dưới cọ xát vào nhau tóe ra những tia lửa hoạt hình sắc lẹm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nếu con người",
+   "layout": "Hình ảnh bác sĩ nha khoa hoạt hình ngồi ngáp dài đóng cửa phòng khám vì ai nấy đều có hàm răng sắt cam lấp lánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đến lượt sát",
+   "layout": "{WOLVERINE_FROG} ngồi thu mình trên bệ đá rêu phong, ánh mắt sắc lẹm nhìn thẳng vào ống kính; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khi bị đe",
+   "layout": "Đồ họa X-quang hoạt hình: khớp xương ngón chân tách rời khỏi đốt sụn, cơ co rút kéo xương dịch chuyển; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Mũi xương nhọn",
+   "layout": "Cận cảnh bàn chân sau: ba chiếc vuốt xương trắng muốt nhọn hoắt đâm xuyên qua da thịt phóng ra ngoài kêu cách cách; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và điều kỳ",
+   "layout": "Móng xương từ từ rút lui vào trong lớp thịt đệm bàn chân; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chỉ sau 48",
+   "layout": "Vết rách trên da liền lại trơn tru chỉ sau 48 giờ, {WOLVERINE_FROG} nhếch mép cười đắc thắng; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "48 giờ",
+     "side": "R",
+     "y": 390,
+     "value": "48 GIỜ",
+     "label": "Mô da tự lành",
+     "target": [
+      0.68,
+      0.52
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Một cơ chế",
+   "layout": "{WOLVERINE_FROG} đứng thẳng vươn vai khoe bộ vuốt xương lấp lánh như chiến binh dũng mãnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Không chỉ có",
+   "layout": "{EXPLODING_ANT} bước lên bục kính bọc thép, cơ thể màu đỏ cam ánh lên dưới đèn pha; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nghiên cứu của",
+   "layout": "Đồ họa giải phẫu kiến thợ: hai dải tuyến độc màu vàng óng phình to chiếm trọn khoang bụng phát sáng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khi đối mặt",
+   "layout": "Vỏ bụng nứt toác phóng ra dòng keo dính màu vàng bao trùm con bọ hung xâm lược, con bọ ngã gục dính chặt vào mặt sàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Một sự hy",
+   "layout": "Khán đài im lặng xúc động trước tinh thần hy sinh của {EXPLODING_ANT}, bà Cú gật đầu chấm điểm danh dự; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và Bạch Tuộc",
+   "layout": "{MIMIC_OCTOPUS} giơ xúc tu siết chặt con cua biển mô phỏng, dòng độc tố phát sáng xanh lam làm con cua đông cứng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bên cạnh đó,",
+   "layout": "{AXOLOTL} bơi lượn trong làn nước mát, toàn thân phát ra ánh sáng dịu nhẹ của lớp màng gel bảo vệ tự nhiên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Lớp chất nhầy",
+   "layout": "Kính hiển vi soi vào bề mặt da: các phân tử enzym lysozyme phá vỡ màng tế bào vi khuẩn có hại một cách chớp nhoáng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhờ vậy, ngay",
+   "layout": "Vết thương rách trên thân {AXOLOTL} được lớp gel kháng khuẩn bảo vệ kín mít, không hề bị sưng tấy hay nhiễm trùng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Thậm chí khi",
+   "layout": "Mô hình đồ họa 3D mô phỏng xung lực va chạm bị tiêu tán qua mạng lưới vi sợi sụn của {WOMBAT}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Lực cắn chết người từ kẻ",
+   "layout": "Các đường phản lực màu đỏ phân tán thành làn sóng xanh êm dịu chạy dọc khung xương {WOMBAT}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Còn chiếc càng",
+   "layout": "Lớp vỏ càng tôm bóng loáng chống chịu sóng xung kích nổ rực rỡ dưới đáy nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Ban giám khảo tròn",
+   "layout": "{HAGFISH} trườn vào bể nước kính cường lực trước ánh mắt tò mò của toàn bộ khán đài; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khi một mô",
+   "layout": "Mô hình cá mập ngậm trúng {HAGFISH}, nhưng chỉ trong một phần mười giây, một khối keo nhớt khổng lồ bung ra bít kín mang cá mập; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Viện nghiên cứu",
+   "layout": "Hình ảnh hiển vi: các cuộn sợi protein bung ra như những sợi dây thừng nano đan kết chặt chẽ vào nhau; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khi gặp nước",
+   "layout": "Bảng so sánh hoạt hình: sợi tơ Hagfish kéo căng chịu lực kéo gấp 10 lần tơ nhện và vượt xa độ bền của sợi Kevlar quân sự; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "15cm",
+     "side": "L",
+     "y": 410,
+     "value": "15CM",
+     "label": "Sợi tơ protein bung nở",
+     "target": [
+      0.35,
+      0.65
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Để không bị",
+   "layout": "{HAGFISH} thắt nút thân hình số 8 trượt dọc thân gạt sạch bọt nhớt ra ngoài cực kỳ điêu luyện; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Một vòng đọ",
+   "layout": "{MC} vung tay hào hứng, màn hình hiển thị hàng loạt điểm số chín và mười rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Các nhà khoa học tại đại học Guelph",
+   "layout": "Kính hiển vi lực nguyên tử kéo giãn sợi protein {HAGFISH} đàn hồi uốn lượn không hề đứt đoạn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Cấu trúc xoắn",
+   "layout": "Mô hình các cuộn protein xoắn lò xo co giãn linh hoạt trong làn nước biển cuộn xoáy; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Ban giám khảo đã",
+   "layout": "{JUDGE} gõ búa gỗ công bố, khay huy chương phát sáng bay về phía các tuyển thủ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và Huy chương",
+   "layout": "{WOMBAT} tươi cười đeo chiếc huy chương vàng lấp lánh vào cổ, giơ tay chào khán giả trong tiếng reo hò rền vang.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Một vòng đấu",
+   "layout": "{BOARD} sáng đèn: cột điểm của Wombat vươn lên 3 điểm, Hagfish 2 điểm, Hải Ly 1 điểm; các tuyển thủ khác quyết tâm lội ngược dòng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "{MC} vung micro chỉ tay về phía sàn đấu, pháo hoa nước bắn tóe rực rỡ; {BOARD} sáng ô thử thách số hai mang biểu tượng vòng lặp vô cực.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nếu như Vòng",
+   "layout": "Màn hình chiếu biểu tượng tái sinh: tế bào phân chia, các nhánh mô mọc dài, và chuông sứa biến ngược thành mầm phôi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đối với đa",
+   "layout": "Hình ảnh trái tim hoạt hình bị rách rồi tự đan dệt lại nguyên vẹn phát ra ánh sáng kỳ diệu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Tuyển thủ đầu",
+   "layout": "{AXOLOTL} bơi nhẹ nhàng trong bể nước ngọt, sáu nhánh mang hồng xòe rộng rung rinh như cánh quạt, đôi mắt đen láy nhìn khán giả; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khán giả đều",
+   "layout": "Mô hình hiển vi phóng to chồi tái sinh mầm chi: các tế bào màu sắc khác nhau phát sáng di chuyển có trật tự; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Các tế bào",
+   "layout": "Tế bào cơ màu đỏ chỉ phân chia tạo thành cơ mới, tế bào sụn màu xanh chỉ đúc thành sụn mới, không hề bị nhầm lẫn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhờ cơ chế",
+   "layout": "Hình ảnh đồ họa trái tim bị rách tự khép kín cơ tim đập nhịp nhàng, tủy sống nối liền các xung thần kinh phát sáng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đặc biệt hơn,",
+   "layout": "Hai cá thể {AXOLOTL} bơi cạnh nhau, cấy ghép mang hồng sang nhau phát triển tự nhiên hoàn hảo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bạn có thể",
+   "layout": "Hình ảnh chú kỳ nhông lắp ráp các bộ phận phát sáng hoạt động trơn tru không hề bị xung đột phần mềm sinh học; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Cả khán đài",
+   "layout": "Dưới bàn giám khảo, chiếc ly phát ra ánh sáng hồng tím lung linh huyền ảo; {MC} cúi xuống quan sát thích thú.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Xin mời nữ",
+   "layout": "Hình ảnh phóng đại cực đại trên màn hình lớn: {IMMORTAL_JELLYFISH} trôi lơ lửng, các xúc tu mềm mại buông rủ như tơ trời; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "4,5mm",
+     "side": "L",
+     "y": 430,
+     "value": "4,5MM",
+     "label": "Kích thước nhỏ bé",
+     "target": [
+      0.38,
+      0.72
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Điều gì sẽ",
+   "layout": "Hình ảnh đồng hồ cát chảy xuống giọt cát cuối cùng tượng trưng cho vòng đời sinh học hữu hạn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng với Sứa",
+   "layout": "Chuông sứa co rút lại thành một khối mô tròn nhỏ màu hồng tím không biệt hóa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khối mô này",
+   "layout": "Từ khối mô mọc lên các chồi polyp như rễ cây non, rồi bung nở thành đàn sứa con bơi lượn tự do; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chu trình này",
+   "layout": "Biểu tượng vòng lặp vô cực phát sáng rực rỡ lồng vào hình dáng của {IMMORTAL_JELLYFISH}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Giống như một",
+   "layout": "Hình minh họa hài hước: ông cụ râu tóc bạc phơ bước vào cánh cửa ma thuật biến ra thành em bé bụ bẫm cười toe toét; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đến lượt bậc",
+   "layout": "{SEA_CUCUMBER} trườn tới mép bể thi đấu, toàn thân da cam bóng lưỡng không hề có một mẩu xương cứng nào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khi bị một",
+   "layout": "Mô hình cua biển lao vào cắn, {SEA_CUCUMBER} quay đuôi lại phóng ra một chùm sợi trắng xóa dính nhớt như mạng nhện bủa vây cua; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đó là chùm",
+   "layout": "Con cua bị dính chặt hai càng không cử động được, {SEA_CUCUMBER} thong thả trườn đi với chiếc quạt giấy xua đuổi ruồi muỗi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và điều không",
+   "layout": "Bên trong cơ thể {SEA_CUCUMBER}, bộ ruột mới mọc dần từ thành mô và hoạt động trơn tru sau 5 tuần lễ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chưa hết, các",
+   "layout": "Chú cá ngọc trai nhỏ bơi lượn chui đầu vào hậu môn {SEA_CUCUMBER} như chui vào khách sạn ngầm, {SEA_CUCUMBER} chỉ biết thở dài cam chịu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Một chiếc khách",
+   "layout": "Khán giả ôm bụng cười ngặt nghẽo trước cảnh tượng bi hài của {SEA_CUCUMBER}; {MC} lau nước mắt vì cười quá nhiều.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và cuối cùng",
+   "layout": "{MIMIC_OCTOPUS} bơi ra giữa sân cát đáy biển, toàn thân sọc nâu trắng chuyển động nhịp nhàng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Không cần ẩn",
+   "layout": "Cận cảnh lớp da của {MIMIC_OCTOPUS}: từ trơn nhẵn biến thành sần sùi gai nhọn chỉ trong chớp mắt 200 mili-giây; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "200 mili-giây",
+     "side": "R",
+     "y": 400,
+     "value": "200MS",
+     "label": "Biến đổi da thần tốc",
+     "target": [
+      0.62,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Tùy theo kẻ",
+   "layout": "Bốn khung hình biến hóa liên tiếp: {MIMIC_OCTOPUS} hóa thành rắn biển đầu đen, cá sư tử gai góc, cá bơn dẹt và sứa biển bơi lượn; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "15 loài",
+     "side": "L",
+     "y": 410,
+     "value": "15 LOÀI",
+     "label": "Giả dạng kịch độc",
+     "target": [
+      0.38,
+      0.68
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Một năng lực",
+   "layout": "{MIMIC_OCTOPUS} nháy mắt hóm hỉnh khoe tài biến hình khiến con cá săn mồi hoảng sợ bơi lui; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nói về khả",
+   "layout": "{WOLVERINE_FROG} ngồi trên bệ đá, các khớp ngón chân sau được chiếu tia laser phóng đại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khác với các",
+   "layout": "Phóng to đầu ngón chân: khối mô collagen ôm trọn lấy đốt xương nhọn như chiếc bao da tự nhiên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khi áp lực",
+   "layout": "Xương ngón chân phóng ra ngoài trong khi các mạch máu lớn uốn lượn né sang hai bên an toàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Điều này giải",
+   "layout": "Đồ họa dòng máu lưu thông êm ả nuôi dưỡng vết rách mau lành; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và tại sao",
+   "layout": "Hình ảnh hiển vi soi vào buồng phổi nước bên trong hậu môn của {SEA_CUCUMBER}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bởi vì Hải",
+   "layout": "Dòng nước biển trong vắt giàu oxy liên tục tuần hoàn qua cơ thể {SEA_CUCUMBER}, chú cá nhỏ ngửa bụng bơi lội sảng khoái; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và ngay cả",
+   "layout": "Sa bàn mặt đất với dòng nước lũ tràn vào miệng hang ngầm sâu của {WOMBAT}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khi nước lũ",
+   "layout": "Mặt cắt hang ngầm: ngách hang chữ U giữ lại một túi khí oxy khổng lồ giúp {WOMBAT} ngồi khô ráo an toàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Những túi khí",
+   "layout": "{WOMBAT} ung dung ngồi trong túi khí hang ngầm nhai cỏ khô dự trữ, bên ngoài dòng nước lũ chảy xiết vô hại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Không chỉ có",
+   "layout": "Nhãn cầu của {AXOLOTL} phát sáng trong suốt, các tế bào thụ cảm thị giác tự sắp xếp ngay ngắn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khi bị tổn",
+   "layout": "Thấu kính mắt trong veo như giọt pha lê phản chiếu ánh sáng rực rỡ, {AXOLOTL} chớp mắt nhìn rõ mồn một; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Còn Hải Sâm",
+   "layout": "Các cơ quan sinh học bên trong {SEA_CUCUMBER} tự nảy mầm và hoàn thiện trơn tru như một phép màu tự nhiên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Điều kinh ngạc",
+   "layout": "Kính hiển vi hiển thị các chuỗi phân tử peptide tín hiệu tỏa ra từ mô tổn thương của {SEA_CUCUMBER} kích thích tế bào gốc phân chia; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chỉ trong vòng 24",
+   "layout": "Mô phỏng mầm ruột non màu hồng nhạt hình thành dọc theo khoang cơ thể {SEA_CUCUMBER}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Kết quả Vòng",
+   "layout": "{JUDGE} gõ búa, trao huy chương đồng phát sáng cho {MIMIC_OCTOPUS}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Huy chương Bạc",
+   "layout": "{AXOLOTL} mỉm cười nhận tấm huy chương bạc đeo quanh cổ rạng rỡ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và Huy chương",
+   "layout": "{IMMORTAL_JELLYFISH} nhận huy chương vàng lơ lửng, cả đấu trường reo hò rực rỡ pháo hoa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bảng điểm sau",
+   "layout": "{BOARD} cập nhật điểm số: Wombat 3, Sứa Bất Tử 3, Hagfish 2, Axolotl 2, Hải Ly 1, Bạch Tuộc Mimic 1; cuộc đua vương miện ngày càng nóng bỏng!",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "{MC} vung tay kích hoạt hệ thống đồng hồ bấm giờ kỹ thuật số tốc độ cao trên trần nhà; {BOARD} sáng ô thử thách số ba mang hình tia chớp và xúc tu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nếu bạn nghĩ",
+   "layout": "Màn hình chiếu biểu tượng sóng âm, xung xúc giác và các bong bóng khí dò tìm mục tiêu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ở thế giới",
+   "layout": "Đồ họa bóng tối bao trùm, các tia quét rada sinh học tỏa ra từ mũi và xúc tu của các tuyển thủ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Tiến vào đường",
+   "layout": "{STAR_MOLE} đeo kính râm đen ngầu, bước vào căn phòng tối tăm phủ đầy bùn ẩm, hai mươi hai chiếc xúc tu đỏ hồng trên mũi xòe rộng rung rinh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Mặc dù đôi",
+   "layout": "Hình ảnh giải phẫu hiển vi chiếc mũi: hai mươi hai xúc tu hồng chứa hai mươi lăm ngàn cơ quan Eimer siêu nhỏ; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "25.000",
+     "side": "R",
+     "y": 410,
+     "value": "25.000 DÂY",
+     "label": "Cơ quan Eimer",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "25.000 cơ quan Eimer",
+   "layout": "Đồ họa bán cầu não bộ hoạt hình: một nửa bán cầu não phát sáng màu vàng rực rỡ tương ứng với hình dạng chiếc mũi sao 22 cánh; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "50%",
+     "side": "L",
+     "y": 400,
+     "value": "50% NÃO",
+     "label": "Dành riêng cho mũi sao",
+     "target": [
+      0.35,
+      0.72
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và khi một",
+   "layout": "Một chú ấu trùng nhỏ rơi xuống mặt bùn phát ra tín hiệu rung động vi mô; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chạm! Nhận diện!",
+   "layout": "Chuột Chũi {STAR_MOLE} lao tới đớp gọn ấu trùng, đồng hồ dừng ở con số 0,12 giây, đạt kỷ lục Guiness thế giới hoạt hình; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "0,12 giây",
+     "side": "R",
+     "y": 420,
+     "value": "0,12 GIÂY",
+     "label": "Ăn nhanh nhất",
+     "target": [
+      0.62,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chưa hết, giáo",
+   "layout": "{STAR_MOLE} lặn dưới làn nước trong, chiếc mũi thổi ra hai quả bong bóng khí tròn xoe chạm vào con mồi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bằng cách liên",
+   "layout": "Bong bóng khí hút ngược lại mũi, các thụ thể khứu giác phát sáng tín hiệu thức ăn ngon lành; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Động vật có",
+   "layout": "{STAR_MOLE} giơ ngón tay cái tự tin dưới nước, bọt khí lấp lánh quanh mũi sao rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Động vật có vú đầu",
+   "layout": "Khán đài vỗ tay rào rào kinh ngạc trước pha trình diễn ảo diệu; {MC} giơ micro tròn mắt ngỡ ngàng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nhưng đối thủ",
+   "layout": "{MIMIC_OCTOPUS} bơi lượn trong bể kính, tám chiếc xúc tu múa lượn tự do theo các quỹ đạo độc lập hoàn toàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Các nhà khoa",
+   "layout": "Sơ đồ thần kinh phát sáng: não trung tâm nhỏ, trong khi 8 xúc tu tỏa sáng rực rỡ với hàng triệu nơ-ron hoạt động độc lập; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Điều này có",
+   "layout": "Một xúc tu mở nắp chai, một xúc tu thò vào hốc đá bắt cua, một xúc tu khác tự uốn éo xua đuổi cá nhỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Khi bị săn",
+   "layout": "{MIMIC_OCTOPUS} uốn 8 xúc tu thoăn thoắt vượt qua mê cung đá ngầm cực kỳ mượt mà; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Mỗi xúc tu vừa",
+   "layout": "Đồ họa phóng to giác hút trên xúc tu chứa các thụ thể hóa học phát sáng khi nếm chất hữu cơ trong nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đến lượt Ếch",
+   "layout": "{WOLVERINE_FROG} ngồi dưới dòng thác nước nhân tạo đổ ào ào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Lớp lông tơ",
+   "layout": "Phóng to các sợi lông tơ bên hông: các mao mạch máu đỏ li ti đan xen với các sợi thần kinh thụ cảm dòng chảy; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Khi ngồi dưới",
+   "layout": "Dòng nước cuộn sóng mang các đường xung áp suất chạm vào lông tơ, {WOLVERINE_FROG} né tránh cú đớp của cá dữ trong gang tấc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và kỹ sư",
+   "layout": "Cận cảnh mắt của {BEAVER}: mí mắt thứ ba khép lại như màng kính bảo hộ trong suốt, van tai và mũi tự động đóng kín; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Cá Mút Đá",
+   "layout": "{HAGFISH} bơi trong làn nước đen thẳm, một lỗ mũi duy nhất trên đỉnh đầu mở rộng hút nước biển; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Khác với mọi",
+   "layout": "Cắt lớp đầu Hagfish: luồng nước biển mang phân tử mùi đi thẳng vào túi khứu giác phát sáng tín hiệu thần kinh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chúng có thể",
+   "layout": "Các đường sóng khứu giác dẫn đường cho đàn {HAGFISH} bơi xuyên qua bóng đêm đại dương tìm tới xác cá voi chính xác tuyệt đối; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Còn Kiến Nổ",
+   "layout": "Cặp râu của {EXPLODING_ANT} rung rinh bắt trọn từng phân tử mùi lạ trong không khí báo động toàn tổ kiến; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chẳng có một",
+   "layout": "Chú kiến gác cửa lập tức vào vị trí sẵn sàng chiến đấu trước khi kẻ thù kịp nhìn thấy lối vào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Không chỉ có",
+   "layout": "{BEAVER} nổi trên mặt hồ phẳng lặng, chiếc đuôi dẹt to bản giơ cao chuẩn bị đập nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Mỗi khi phát",
+   "layout": "Chiếc đuôi đập mạnh xuống nước tung bọt trắng xóa, âm thanh phát ra to như tiếng súng nổ vang xa cả cây số; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Âm thanh đập",
+   "layout": "Đàn hải ly con lập tức lặn ngụp biến mất dưới dòng nước sâu mát lạnh an toàn tuyệt đối; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Để phối hợp",
+   "layout": "Các tia sáng xung thần kinh chạy dọc từ 22 xúc tu về trung tâm vỏ não với tốc độ ánh sáng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Mỗi khi xúc",
+   "layout": "Màn hình hiển thị bảng phân tích phổ vật liệu chi tiết hiện ra trong nháy mắt khi chiếc mũi chạm nhẹ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đó là lý",
+   "layout": "{STAR_MOLE} nhổ hạt sỏi ra ngoài và nuốt trọn chú giun đất béo ngậy một cách điêu luyện; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Các nhà khoa học tại",
+   "layout": "Đồ họa bản đồ não bộ hiển thị một nửa bán cầu não phát sáng rực rỡ để giải mã xúc giác của 22 xúc tu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Độ phân giải",
+   "layout": "Hình ảnh so sánh chiếc mũi sao phóng to như một ống kính hiển vi điện tử siêu phân giải dò tìm từng hạt phân tử; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nhờ đó, dù",
+   "layout": "Mô hình 3D đường hầm tối đen bỗng bừng sáng các đường vân địa hình khi {STAR_MOLE} quét nhẹ xúc tu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ban giám khảo",
+   "layout": "{JUDGE} gõ búa, trao huy chương đồng phát sáng cho {WOLVERINE_FROG}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Huy chương Bạc",
+   "layout": "{MIMIC_OCTOPUS} dùng một xúc tu đón lấy tấm huy chương bạc lấp lánh rồi đeo lên cổ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và Huy chương",
+   "layout": "{STAR_MOLE} đứng trên bục vinh quang nhận huy chương vàng, 22 xúc tu đỏ hồng nhấp nháy ăn mừng kiêu hãnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Cục diện bảng",
+   "layout": "{BOARD} cập nhật: Wombat 3, Sứa Bất Tử 3, Chuột Chũi Sao 3, Bạch Tuộc Mimic 2, Hagfish 2, Axolotl 2, Hải Ly 1, Ếch Wolverine 1; khoảng cách điểm số sít sao chưa từng thấy!",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "{MC} lau mồ hôi trên trán, đưa tay ra hiệu tiếng chuông nghỉ giải lao ngân vang rộn rã; {BOARD} hiện chữ giải lao hoạt hình.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Các tuyển thủ",
+   "layout": "Hành lang phòng thay đồ hoạt hình với mười cánh cửa gắn bảng tên mười con vật; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhưng ngay lúc",
+   "layout": "Màn hình hậu trường sáng lên, {JUDGE} đeo kính tròn cầm đèn pin đi kiểm tra an ninh từng phòng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Ở phòng nghỉ",
+   "layout": "Vòi nước trong phòng rửa tay chảy róc rách từng giọt xuống bồn sứ trắng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Một nghiên cứu",
+   "layout": "{BEAVER} đang ôm đầu bứt tai, đôi mắt mở to hoảng hốt trước âm thanh nước chảy; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chúng không hề",
+   "layout": "{BEAVER} vớ lấy thảm lau chân, xà phòng, khăn tắm và bùn đất trát kín mít chiếc bồn rửa mặt thành một con đập cao ngất ngưởng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thậm chí khi",
+   "layout": "{BEAVER} nhét khúc gỗ vào loa phóng thanh trần nhà, {MC} đứng dưới ngơ ngác không nói nên lời; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Các nhân viên",
+   "layout": "Hai kỹ thuật viên toát mồ hôi hì hục dọn bùn đất và cành cây khỏi bồn rửa mặt trong sự bất lực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Trong khi đó,",
+   "layout": "{WOLVERINE_FROG} và {AXOLOTL} ngồi đối diện nhau qua chiếc bàn kính, hai bên vung tay vung chân tranh cãi sôi nổi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Ếch Wolverine khoe",
+   "layout": "{WOLVERINE_FROG} giơ ngón chân có vuốt xương trắng muốt nhọn hoắt khoe dáng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Kỳ Nhông Axolotl mỉm",
+   "layout": "{AXOLOTL} xòe nhánh mang hồng rung rinh cười tít mắt, khiến Ếch Wolverine gãi đầu cạn lời; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Còn ở góc",
+   "layout": "Chiếc ghế sofa phòng khách bỗng có một chiếc gối ôm mềm mại sọc vằn nâu trắng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Bà Cú giám khảo bước",
+   "layout": "{JUDGE} giật bắn mình nhảy dựng lên trần nhà, {MIMIC_OCTOPUS} hiện nguyên hình cười khanh khách xin lỗi rối rít; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Dạ em chỉ",
+   "layout": "{MIMIC_OCTOPUS} gãi đầu bối rối thu xúc tu lại ngoan ngoãn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Ở một góc",
+   "layout": "{AXOLOTL} ngâm mình trong bồn bùn khoáng sủi bọt ấm áp, hai tay nhỏ đặt lên mép bồn thư giãn tuyệt đối; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chú kỳ nhông",
+   "layout": "{AXOLOTL} đắp hai lát dưa leo lên mắt thư giãn, xung quanh là bong bóng xà phòng bay lơ lửng ngộ nghĩnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Trong khi đó, anh",
+   "layout": "{WOLVERINE_FROG} ngồi co chân sau tỉ mỉ mài sắc từng chiếc vuốt xương trắng muốt, ánh mắt lóe lên tia sáng quyết tâm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thậm chí chú",
+   "layout": "Ba chú cá ngọc trai nhỏ đeo kính râm cầm nhạc cụ mini chơi nhạc trong bụng {SEA_CUCUMBER}, làm chú ta run rẩy lắc lư cười ra nước mắt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Hải Sâm bèn",
+   "layout": "{SEA_CUCUMBER} thở dài ngao ngán phẩy quạt giấy, mặt biểu cảm bất lực tột cùng khiến cả hội trường cười nghiêng ngả; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thí sinh Hải",
+   "layout": "Cận cảnh {JUDGE} chống hai cánh ngang hông, mặt đỏ bừng gắt gỏng chỉ vào bãi chiến trường đắp đập.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Bà Cú giám khảo vừa",
+   "layout": "{JUDGE} hé cửa nhìn vào phòng số hai, ánh mắt mở to đầy nghi hoặc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Anh chàng Wombat",
+   "layout": "{WOMBAT} ngồi nghiêm túc xếp từng viên phân hình khối lập phương sắc cạnh như những viên gạch xếp hình Lego; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Tại sao phân",
+   "layout": "Sơ đồ giải phẫu đường ruột hoạt hình: phần ruột già dài dằng dặc, đoạn cuối cùng sáng lên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chỉ có 8%",
+   "layout": "Đồ họa ruột già ép phân: các vách cơ co bóp nén chất thải thành các cạnh góc vuông chín mươi độ hoàn hảo; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "8%",
+     "side": "R",
+     "y": 410,
+     "value": "8% RUỘT",
+     "label": "Co giãn đàn hồi",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Mỗi ngày, Wombat",
+   "layout": "{WOMBAT} giơ ngón tay cái tự hào chỉ vào kim tự tháp 100 viên gạch vuông vức không hề lăn lóc; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "100 viên",
+     "side": "L",
+     "y": 430,
+     "value": "100 VIÊN",
+     "label": "Phân hình lập phương",
+     "target": [
+      0.35,
+      0.72
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Khả năng đúc",
+   "layout": "Kỹ sư xây dựng hoạt hình cầm thước đo góc 90 độ của viên phân vuông vức thán phục; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Dạ thưa cô",
+   "layout": "{WOMBAT} bê khay phân vuông vức chìa ra mời mọc với vẻ mặt chân chất thật thà; {JUDGE} bịt mũi lùi lại ba bước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Sang đến phòng",
+   "layout": "{EXPLODING_ANT} ngồi thiền trên chiếc nệm bông mềm, hai tay chắp trước ngực hít thở sâu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chú kiến nhỏ",
+   "layout": "Đồ họa tia sét cảnh báo quanh ba lô keo dính của {EXPLODING_ANT}, mỗi cử động nhỏ đều phải thật nhẹ nhàng rón rén; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Còn ở góc bể",
+   "layout": "Chú cá ngọc trai thò đầu ra khỏi đuôi {SEA_CUCUMBER} ngáp ngủ, {SEA_CUCUMBER} cầm quạt giấy phẩy lia lịa mặt méo xệch; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chú cá này",
+   "layout": "Ba chú cá ngọc trai nhỏ thò đầu ra vẫy đuôi trong sự ngao ngán của {SEA_CUCUMBER}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Cứu em với",
+   "layout": "Cận cảnh {SEA_CUCUMBER} giơ quạt giấy khóc mếu máo kêu cứu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Và đỉnh điểm",
+   "layout": "{MC} há hốc miệng dừng ly nước chanh ngay trước môi, bên trong ly chú sứa {IMMORTAL_JELLYFISH} nhỏ xíu đang nháy mắt cười toe toét; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "May mà chưa",
+   "layout": "{MC} thở phào nhẹ nhõm dùng thìa vớt chú sứa cẩn thận thả lại vào bể thi đấu an toàn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Dưới kính hiển",
+   "layout": "Phóng to bề mặt da {MIMIC_OCTOPUS}: hàng triệu tế bào sắc tố co giãn nhịp nhàng như các điểm ảnh O-L-E-D siêu nét; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Mỗi tế bào",
+   "layout": "Đồ họa các xung thần kinh kích hoạt tế bào sắc tố đổi từ màu cát vàng sang vân vằn rắn biển trong chớp mắt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Trong khi đó, Sứa",
+   "layout": "{IMMORTAL_JELLYFISH} phát quang lung linh trong bể nước, các tế bào gốc phân chia và tái cấu trúc mạng lưới thần kinh non trẻ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Cơ thể sứa",
+   "layout": "Đồ họa đồng hồ sinh học của {IMMORTAL_JELLYFISH} quay ngược về vạch số 0, cơ thể trong veo không tì vết; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Không khí phòng",
+   "layout": "{WOLVERINE_FROG} hít đất bằng hai chi trước, gân cốt cơ bắp nổi rõ từng múi dưới lớp lông tơ rậm rạp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chú ếch liên",
+   "layout": "Cận cảnh bàn chân {WOLVERINE_FROG}: các móng xương thu gọn vào rãnh gân collagen đàn hồi an toàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Giờ giải lao",
+   "layout": "Dàn đèn pha rọi sáng trở lại sàn đấu, mười tuyển thủ bước ra vị trí thi đấu trong tiếng cổ vũ náo nhiệt của khán giả; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "{MC} giơ micro hướng về một sa bàn địa hình rộng lớn được dựng giữa sân vận động; {BOARD} sáng ô thử thách số bốn mang biểu tượng con đập và mạng lưới hang ngầm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Tại vòng đấu",
+   "layout": "Mô hình sa bàn chiếu dòng sông uốn lượn, rừng cây nguyên sinh và lòng đất sâu nhiều tầng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Không phải máy",
+   "layout": "Hình ảnh so sánh máy ủi khổng lồ gầm rú với các kỹ sư động vật nhỏ bé đang miệt mài kiến tạo thiên nhiên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Không ai xứng",
+   "layout": "{BEAVER} vác thước đo gỗ và xẻng nhỏ tiến vào sa bàn sông suối, ánh mắt tràn đầy nhiệt huyết công trình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Khán giả thường",
+   "layout": "Đồ họa từ vệ tinh nhìn xuống: con đập ngăn nước tạo thành một vùng đất ngập nước xanh mướt rộng hàng chục héc-ta; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Khi những trận",
+   "layout": "Bão lửa đỏ rực thiêu rụi rừng cây khô xung quanh, nhưng vùng đầm lầy của {BEAVER} vẫn xanh rì, muông thú tụ tập trú ẩn an toàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Độ ẩm cao",
+   "layout": "Ranh giới rõ rệt: một bên tro tàn đen ngòm, một bên là ốc đảo nước trong xanh mát rượi do {BEAVER} kiến tạo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hơn thế nữa,",
+   "layout": "Dòng nước đục ngầu chảy qua đập gỗ lắng cặn lại, dòng nước chảy ra hạ lưu trong vắt như gương; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "80%",
+     "side": "R",
+     "y": 410,
+     "value": "80% BÙN",
+     "label": "Lọc sạch trầm tích",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Những con đập của Hải Ly có",
+   "layout": "Ảnh vệ tinh không gian hiển thị con đập Hải Ly vắt ngang thung lũng dài 800m khổng lồ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một cỗ máy",
+   "layout": "Khán giả và ban giám khảo đồng loạt vỗ tay tán thưởng; {BEAVER} mỉm cười gật đầu tự hào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Tiếp theo, hãy",
+   "layout": "Sa bàn mặt đất lật mở để lộ mạng lưới đường hầm ngầm phức tạp của {WOMBAT} sâu hai mét dưới lòng đất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Mỗi hệ thống",
+   "layout": "Sơ đồ kiến trúc hang ngầm dài 30m với các phòng ngủ lót cỏ khô và hệ thống thông gió tự nhiên; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "30m",
+     "side": "L",
+     "y": 400,
+     "value": "DÀI 30M",
+     "label": "Hang ngầm kiên cố",
+     "target": [
+      0.35,
+      0.72
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Trong các trận hỏa",
+   "layout": "Đồng hồ nhiệt độ so sánh: mặt đất nóng rực 100°C đỏ lửa, dưới hang {WOMBAT} mát mẻ 20°C dịu nhẹ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Camera của các",
+   "layout": "Các loài động vật chạy trốn ngọn lửa cùng chui xuống cửa hang của {WOMBAT}, ngồi hòa bình bên cạnh chú gấu túi hiền lành; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Wombat không hề",
+   "layout": "{WOMBAT} ngồi gặm cỏ ở cửa hang, xung quanh là bạn bè muông thú được cứu sống vẫy tay cảm ơn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hệ thống hang ngầm",
+   "layout": "Mặt cắt lòng đất: hang ngầm kiên cố chở che cho muông thú bình yên vượt qua thảm họa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và cuối cùng",
+   "layout": "Cành cây cổ thụ với lối vào tổ kiến chỉ nhỏ bằng đầu que tăm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Tiến sĩ Alice",
+   "layout": "Phóng to chú kiến gác cửa: đầu hình đĩa tròn phẳng lì vừa khít tuyệt đối với miệng lỗ tổ tròn xoe; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chúng dùng chính",
+   "layout": "Một con nhện độc hung dữ cắn vào cửa tổ nhưng chỉ cắn trúng bề mặt sọ phẳng cứng như đá của kiến lính gác; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chiếc cửa sống",
+   "layout": "Chú kiến thợ dùng hai chiếc râu chạm nhẹ vào đầu kiến gác cửa theo nhịp điệu mật mã, chiếc đầu thụt vào mở lối đi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một hệ thống",
+   "layout": "{EXPLODING_ANT} đứng nghiêm trang gác cửa như một người lính bảo vệ tổ quốc quả cảm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Để xây dựng",
+   "layout": "Sa bàn rừng rậm hiện lên các con kênh đào thẳng tắp sâu một mét do {BEAVER} đào bới; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chúng tự đào",
+   "layout": "Khúc gỗ to trôi nhẹ nhàng trên dòng kênh đào nhân tạo về phía con đập chính, {BEAVER} bơi theo đẩy lái chuyên nghiệp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đặc biệt, thân",
+   "layout": "Con đập gỗ uốn cong cánh cung cản phá sức ép khủng khiếp của dòng nước lũ mùa xuân một cách ngoạn mục; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hệ thống kiến",
+   "layout": "Hình ảnh vệ tinh so sánh công trình thành phố của con người và hệ thống đầm lầy do {BEAVER} kiến tạo hài hòa tuyệt mỹ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Để chuẩn bị",
+   "layout": "Đáy hồ nước mùa đông: lớp băng dày phủ trên mặt hồ, bên dưới {BEAVER} bơi lội trong làn nước mát; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chúng cắm chặt",
+   "layout": "Các cành cây tươi được cắm ngay ngắn thành từng hàng dưới đáy bùn như một kho thực phẩm đông lạnh tự nhiên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Khi mặt hồ đóng băng kín",
+   "layout": "{BEAVER} ngồi trong hang ấm áp gặm cành cây tươi ngon lành, bên ngoài gió tuyết gầm rú dữ dội; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một công trình",
+   "layout": "Sơ đồ địa chất cắt lớp: mực nước ngầm dưới rễ cây rừng dâng cao màu xanh ngọc bích màu mỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhờ nguồn nước",
+   "layout": "Đàn hươu rừng và thỏ tuyết tìm đến mép hồ của {BEAVER} uống nước và gặm cỏ tươi tốt thanh bình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hải Ly thực",
+   "layout": "{BEAVER} đứng tự hào bên con đập gỗ vững chãi ngắm nhìn thung lũng xanh tươi bạt ngàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Không dừng lại",
+   "layout": "Sa bàn đồ họa hiển thị mạng lưới kênh đào chằng chịt của {BEAVER} tỏa sâu vào rừng già như hệ thống giao thông thủy lợi hoàn hảo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Những con kênh này",
+   "layout": "{BEAVER} đẩy khúc gỗ trôi êm ả trên dòng kênh đào mát rượi, thảnh thơi bơi về tổ ấm an toàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Còn tấm khiên",
+   "layout": "Chó rừng Dingo cắn mạnh vào mông {WOMBAT} nhưng bị gãy răng nhe nanh đau đớn, tấm khiên sụn không hề suy chuyển; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hải Ly còn sở hữu lớp",
+   "layout": "Kính hiển vi phóng to lớp lông dày mượt mà của {BEAVER}: các bọt khí bị bẫy lại giữ ấm cơ thể trong làn nước băng giá; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhờ đó, ngay",
+   "layout": "{BEAVER} lặn ngụp dưới tảng băng trôi mà không hề run rẩy, cơ thể tỏa nhiệt hồng ấm áp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Ban giám khảo",
+   "layout": "{JUDGE} gõ búa, trao huy chương đồng phát sáng cho {EXPLODING_ANT}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Huy chương Bạc",
+   "layout": "{WOMBAT} vui vẻ đón nhận tấm huy chương bạc lấp lánh thứ hai của mình.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và Huy chương",
+   "layout": "{BEAVER} đứng trên bục số một giơ cao huy chương vàng, khán đài tung hoa giấy rực rỡ chúc mừng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bảng điểm sau",
+   "layout": "{BOARD} cập nhật điểm số: Wombat 5 điểm, Hải Ly 4 điểm, Sứa Bất Tử 3 điểm, Chuột Chũi Sao 3 điểm, Hagfish 2 điểm, Axolotl 2 điểm, Bạch Tuộc Mimic 2 điểm, Ếch Wolverine 1 điểm, Kiến Nổ 1 điểm; cuộc rượt đuổi điểm số vô cùng nghẹt thở!",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": 0,
+   "layout": "{MC} bước lên bục chỉ tay vào màn hình hiển thị đồ họa chuỗi xoắn kép DNA ba chiều rực rỡ; {BOARD} sáng ô thử thách số năm mang biểu tượng phân tử gen.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Ở vòng đấu",
+   "layout": "Mô hình kính hiển vi điện tử chiếu rọi vào nhân tế bào phát sáng lung linh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Những bí mật",
+   "layout": "Các chuỗi mã hóa di truyền ACGT chạy rực rỡ như dòng thác ma trận số học sinh học; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Tuyển thủ đầu",
+   "layout": "{AXOLOTL} bơi đến trước màn hình chiếu bộ gen, nụ cười rạng rỡ và sáu mang lông vũ đỏ đung đưa uyển chuyển; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Một công trình",
+   "layout": "Hình ảnh chuỗi DNA khổng lồ kéo dài vô tận qua hàng trăm trang màn hình dữ liệu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Kết quả khiến",
+   "layout": "Đồ họa so sánh hai chuỗi DNA: chuỗi gen người 3,2 tỷ base ngắn bằng một gang tay, chuỗi gen của {AXOLOTL} dài 32 tỷ base cuộn thành nhiều vòng khổng lồ; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "32 tỷ",
+     "side": "R",
+     "y": 410,
+     "value": "32 TỶ BASE",
+     "label": "Gấp 10 lần gen người",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Ẩn sâu trong",
+   "layout": "Các tế bào phân chia nhanh chóng nhưng xếp hàng ngay ngắn trật tự dưới sự kiểm soát của gen ức chế ung thư; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Axolotl sở hữu",
+   "layout": "Chú kỳ nhông {AXOLOTL} khoác áo choàng bác sĩ nhỏ, cầm ống nghiệm tỏa sáng lấp lánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Cơ chế kiểm",
+   "layout": "Khối u thí nghiệm vừa manh nha lập tức bị các đại thực bào và enzym của {AXOLOTL} tiêu diệt sạch sẽ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Mười điểm cho",
+   "layout": "{IMMORTAL_JELLYFISH} trôi dạt vào buồng soi gen, vương miện nhỏ xíu lấp lánh ánh hào quang hồng tím; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "2022, một nhóm",
+   "layout": "Bìa bài báo PNAS 2022 hiện lên với biểu đồ so sánh giữa Sứa Bất Tử và các loài sứa thông thường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Họ phát hiện",
+   "layout": "Cận cảnh đầu mút nhiễm sắc thể: nắp telomere của sinh vật thường ngắn dần theo tuổi tác, còn của {IMMORTAL_JELLYFISH} liên tục được đắp dài thêm nguyên vẹn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Mỗi khi cơ",
+   "layout": "Chiếc đồng hồ sinh học quay ngược kim thời gian về vạch xuất phát, chuỗi DNA sáng bóng như mới xuất xưởng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Một bộ gen",
+   "layout": "{IMMORTAL_JELLYFISH} xoay tròn giữa các phân tử DNA phát sáng lung linh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Chúng không chỉ",
+   "layout": "Mô hình tế bào chuông sứa trẻ hóa phát sáng như những viên ngọc bích lung linh dưới đáy biển; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Và không thể",
+   "layout": "{WOLVERINE_FROG} ngồi trong dòng nước đục ngầu chứa đầy vi khuẩn và nấm mốc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Sau khi tự",
+   "layout": "Vết thương hở trên ngón chân tiếp xúc với dòng nước bùn đầy vi khuẩn hoạt hình hung dữ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Các tuyến da",
+   "layout": "Lớp gel kháng khuẩn từ da tiết ra tạo thành màng bảo vệ vô hình, các vi khuẩn chạm vào liền tan rã biến mất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Nhờ vậy, vết",
+   "layout": "{WOLVERINE_FROG} nhấc bàn chân lành lặn lên khoe trước ống kính với nụ cười tự tin; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Bên cạnh bộ",
+   "layout": "Mô hình chuỗi thông tin di truyền ARN thông tin phát sáng lung linh bên trong nhân tế bào thần kinh bạch tuộc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Nghiên cứu công",
+   "layout": "Các enzym biên tập hoạt hình cắt dán và thay thế các mã base trên chuỗi ARN một cách linh hoạt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Hơn 60 phần",
+   "layout": "Khi nước biển lạnh đi hoặc ấm lên, các kênh ion thần kinh tự động thích nghi tối ưu mà không cần chờ đợi hàng ngàn năm tiến hóa gen; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Một khả năng",
+   "layout": "Hình ảnh {MIMIC_OCTOPUS} phát sáng các vi mạch sinh học tự động cập nhật phần mềm thích nghi đại dương; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Và điều kỳ",
+   "layout": "Sơ đồ nhân tế bào của Hagfish: các đoạn nhiễm sắc thể tự động phân cắt và đào thải một cách có trật tự; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Khi Hagfish phát",
+   "layout": "Chiếc kéo sinh học hoạt hình cắt tỉa các đoạn gen thừa thãi vứt bỏ ra ngoài, giúp bộ gen cơ thể gọn nhẹ tối đa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Chúng chỉ giữ",
+   "layout": "Tế bào sinh dục phát sáng trọn vẹn, còn tế bào cơ thể chạy ở phiên bản tinh giản siêu tiết kiệm năng lượng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Trong khi đó,",
+   "layout": "Robot phân tử enzym kiểm tra chuỗi DNA phát hiện lỗi và dán bản vá hoàn hảo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Nhờ khả năng",
+   "layout": "Chuỗi xoắn kép DNA của {IMMORTAL_JELLYFISH} luôn sáng bóng và thẳng tắp như vừa mới được tạo tác; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Một bí mật",
+   "layout": "Nhà khoa học mỉm cười nâng niu chuỗi DNA mô phỏng của sứa dưới ánh đèn phòng thí nghiệm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Bí mật đằng",
+   "layout": "Kính hiển vi soi các tế bào gốc blastema của {AXOLOTL} phân chia tạo thành cơ xương, mạch máu và dây thần kinh hoàn hảo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Khi bị tổn",
+   "layout": "Đồ họa đại thực bào quét sạch tế bào chết và kích hoạt tái sinh mô nguyên bản không tì vết; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Còn enzyme telomerase",
+   "layout": "Chuỗi xoắn kép D-N-A của {IMMORTAL_JELLYFISH} được enzyme telomerase gắn thêm các đoạn mũ bảo vệ phát sáng rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Ban giám khảo",
+   "layout": "{JUDGE} gõ búa, trao huy chương đồng phát sáng cho {WOLVERINE_FROG}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Huy chương Bạc",
+   "layout": "{IMMORTAL_JELLYFISH} đón nhận thêm tấm huy chương bạc lấp lánh thứ hai.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Và Huy chương",
+   "layout": "{AXOLOTL} đội vòng nguyệt quế nhận huy chương vàng rực rỡ trong tiếng pháo hoa nổ vang.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Bảng tổng sắp",
+   "layout": "{BOARD} cập nhật điểm số: Wombat 5 điểm, Sứa Bất Tử 5 điểm, Axolotl 5 điểm, Hải Ly 4 điểm, Chuột Chũi Sao 3 điểm, Hagfish 2 điểm, Bạch Tuộc Mimic 2 điểm, Ếch Wolverine 2 điểm, Kiến Nổ 1 điểm; cuộc tranh đua ngôi vương tam mã nghẹt thở!",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": 0,
+   "layout": "{MC} vung micro kích hoạt sa bàn mô phỏng hệ sinh thái rạn san hô và đầm lầy rực rỡ sắc màu; {BOARD} sáng ô thử thách số sáu mang biểu tượng giọt nước và mầm cây xanh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Ở vòng thi",
+   "layout": "Mô hình Trái Đất quay tròn, các luồng oxy và khoáng chất tuần hoàn lấp lánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Mỗi sinh vật",
+   "layout": "Hình ảnh mạng nhện sinh thái khổng lồ kết nối hàng triệu loài sinh vật, các điểm nút phát sáng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Tuyển thủ bước",
+   "layout": "{SEA_CUCUMBER} trườn ra giữa sa bàn rạn san hô ngập tràn sắc màu cá bơi lượn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Các nhà hải",
+   "layout": "{SEA_CUCUMBER} dùng các xúc tu quanh miệng quét sạch từng lớp cát bẩn dưới đáy biển nuốt vào bụng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Mỗi năm, quần",
+   "layout": "Mô hình đồ họa 130 tấn cát bẩn đi qua đường ruột của Hải Sâm được phân giải sạch sẽ vi khuẩn có hại; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "130 tấn",
+     "side": "R",
+     "y": 410,
+     "value": "130 TẤN",
+     "label": "Hút bụi rạn san hô",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Quan trọng hơn",
+   "layout": "Các tinh thể Canxi Cacbonat màu trắng sáng phát quang tỏa ra từ chất thải nuôi dưỡng các nhánh san hô lớn nhanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Dòng chất kiềm",
+   "layout": "Môi trường nước axit bị trung hòa trở lại màu xanh ngọc bích trong lành, rạn san hô phát triển rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Các nhà khoa",
+   "layout": "Hình ảnh rạn san hô không có {SEA_CUCUMBER} bị phủ đầy bùn đen và rêu tảo độc hại chết dần mòn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Không có Hải",
+   "layout": "Khán đài đồng loạt đứng dậy vỗ tay vang dội; {SEA_CUCUMBER} mỉm cười sung sướng phẩy quạt giấy tít mù; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Tiếp theo, hãy",
+   "layout": "Sa bàn rừng ôn đới Bắc Mỹ hiện lên với hệ thống đầm lầy ngập nước của {BEAVER}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Các nhà sinh",
+   "layout": "Đồ họa mũi tên khí nhà kính bị giữ chặt dưới lớp bùn sâu mát lạnh của đáy hồ nước {BEAVER}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Nhờ có vùng",
+   "layout": "Đàn vịt trời, cá hồi và ếch nhái bơi lội rộn ràng xung quanh hang của {BEAVER}; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "33%",
+     "side": "L",
+     "y": 400,
+     "value": "33% TĂNG",
+     "label": "Làm giàu sinh thái",
+     "target": [
+      0.35,
+      0.72
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Hải Ly không",
+   "layout": "{BEAVER} vẫy chiếc đuôi dẹt chào các bạn động vật thân thiện; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Những vùng đất",
+   "layout": "Mô hình dòng nước lũ cuồn cuộn đổ về bị con đập {BEAVER} hãm chậm lại, dòng nước chảy ra hạ lưu hiền hòa êm ả; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Và cuối cùng",
+   "layout": "Đáy đại dương tăm tối nơi một xác cá voi khổng lồ chìm xuống đáy biển (whale fall); {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Khi xác cá",
+   "layout": "Đàn {HAGFISH} quấn quanh xác cá voi dọn dẹp sạch sẽ trong làn nước sâu thẳm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Họ phân giải",
+   "layout": "Các dưỡng chất tỏa sáng phân tán nuôi sống tôm cua biển sâu và vi khuẩn hóa dưỡng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Nếu không có",
+   "layout": "Đồ họa dòng hải lưu mang chất dinh dưỡng từ đáy sâu dâng lên bề mặt nuôi sống các tầng sinh vật phù du; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Không chỉ có",
+   "layout": "Sa bàn rừng cây Tây Phi và thảo nguyên cằn cỗi nước Úc hiện lên rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Những viên phân",
+   "layout": "Cận cảnh viên phân lập phương vùi trong đất: hạt giống cỏ xanh nảy mầm tươi tốt nhờ nguồn dinh dưỡng hữu cơ màu mỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Khi phân rã,",
+   "layout": "Thảo nguyên khô cằn mọc lên những mảng cỏ xanh tươi mơn mởn xung quanh các tổ hang Wombat; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Còn Ếch Lông",
+   "layout": "{WOLVERINE_FROG} đớp gọn đàn muỗi vằn truyền bệnh, bảo vệ sức khỏe cho các cộng đồng dân cư ven rừng nguyên sinh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Ở trên các",
+   "layout": "Cành cây rừng nhiệt đới xum xuê lá xanh mướt, đàn {EXPLODING_ANT} diễu hành tuần tra trật tự; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Chúng tiêu diệt",
+   "layout": "Đàn kiến phối hợp xua đuổi các loài sâu bọ gây hại khỏi cành lá, giúp cây cổ thụ phát triển khỏe mạnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Sự hy sinh",
+   "layout": "Toàn cảnh tán rừng nhiệt đới xanh bạt ngàn dưới ánh nắng ban mai rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Các nhà khoa học ước",
+   "layout": "Các phân tử Canxi Cacbonat lấp lánh kết tinh hàn gắn lại các nhánh san hô bị gãy vụn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Chúng hoạt động",
+   "layout": "{SEA_CUCUMBER} trườn qua các khối san hô để lại những vệt kiềm trắng sáng nuôi dưỡng rạn san hô xanh tốt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Trong các trận",
+   "layout": "Đồ họa mặt cắt lòng đất: ngọn lửa cháy dữ dội trên mặt đất nhưng dưới đường hầm của {WOMBAT}, nhiệt độ mát mẻ an toàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Chim chóc, thú",
+   "layout": "Các loài thú nhỏ nép mình trong ngách hầm của {WOMBAT}, bình yên thoát khỏi biển lửa thiêu rụi trên mặt đất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Wombat không hề",
+   "layout": "{WOMBAT} gật đầu thân thiện chia sẻ đường hầm cho các bạn nhỏ tị nạn, ánh mắt ấm áp tình đồng loại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Ban giám khảo",
+   "layout": "{JUDGE} gõ búa, trao huy chương đồng phát sáng cho {HAGFISH}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Huy chương Bạc",
+   "layout": "{BEAVER} vui mừng đón nhận tấm huy chương bạc lấp lánh thứ hai.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Và Huy chương",
+   "layout": "{SEA_CUCUMBER} xúc động đeo chiếc huy chương vàng đầu tiên của mình, cả đấu trường reo hò chúc mừng nồng nhiệt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Bảng điểm sau",
+   "layout": "{BOARD} cập nhật: Hải Ly 6 điểm, Wombat 5 điểm, Sứa Bất Tử 5 điểm, Axolotl 5 điểm, Chuột Chũi Sao 3 điểm, Hải Sâm 3 điểm, Hagfish 3 điểm, Bạch Tuộc Mimic 2 điểm, Ếch Wolverine 2 điểm, Kiến Nổ 1 điểm; bảng tổng sắp sít sao chưa từng thấy!",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": 0,
+   "layout": "{MC} bước lên thảm đỏ nhung, hai bên là các tượng đài đá hóa thạch cổ đại sừng sững; {BOARD} hiện chữ giải thưởng danh dự hoạt hình.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Để có mặt",
+   "layout": "Màn hình chiếu cảnh Trái Đất kỷ Than Đá và kỷ Băng Hà với các quái thú cổ đại khổng lồ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Những mẫu hóa",
+   "layout": "Nhà cổ sinh vật học hoạt hình cầm búa địa chất gõ vào vách đá lộ ra các bộ xương hóa thạch phát sáng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Tấm cúp danh",
+   "layout": "{HAGFISH} bơi lên bục danh dự, bên cạnh là một phiến đá hóa thạch ba trăm triệu năm tuổi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "2019, các nhà",
+   "layout": "Cận cảnh phiến đá hóa thạch Tethymyxine ba trăm triệu năm tuổi hiện rõ từng đường nét thân trơn và tuyến chất nhầy; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "300 triệu năm",
+     "side": "R",
+     "y": 410,
+     "value": "300 TR NĂM",
+     "label": "Cổ vật sống cổ đại",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Điều kinh ngạc",
+   "layout": "Hình ảnh so sánh hóa thạch 300 triệu năm và {HAGFISH} hiện đại: không hề có sự thay đổi lớn nào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Chúng đã sống",
+   "layout": "Khủng long T-Rex gầm rú rồi hóa thạch dưới lòng đất, còn {HAGFISH} bơi tung tăng dưới đáy biển sâu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Chưa hết, Hagfish",
+   "layout": "Sơ đồ giải phẫu 4 quả tim hoạt hình phát sáng nhịp nhàng dọc thân mình; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "4 quả tim",
+     "side": "L",
+     "y": 400,
+     "value": "4 QUẢ TIM",
+     "label": "Đập không cần oxy",
+     "target": [
+      0.35,
+      0.72
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Hệ tuần hoàn",
+   "layout": "Đàn cá thông thường nổi bụng vì thiếu oxy, trong khi {HAGFISH} vẫn khoan thai bơi lượn nhờ 4 quả tim độc lập; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Một cỗ máy",
+   "layout": "Khán giả và {MC} cùng cúi mình chào kính phục; {HAGFISH} ngoe nguẩy chiếc đuôi đáp lễ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nhưng hãy nhìn",
+   "layout": "Bức màn nhung kéo lên để lộ hai bộ xương hóa thạch khổng lồ cao sừng sững; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Trong kỷ băng",
+   "layout": "Hình vẽ phục dựng Castoroides to lớn sừng sững, hai chiếc răng cửa cong vút dài mười lăm xăng-ti-mét; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "100kg",
+     "side": "R",
+     "y": 420,
+     "value": "100KG",
+     "label": "Hải ly kỷ băng hà",
+     "target": [
+      0.62,
+      0.52
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Tuy nhiên, điều",
+   "layout": "Chú hải ly 100kg ngồi ngơ ngác ăn cỏ, trong khi {BEAVER} hiện đại thông minh biết đắp đập gỗ sinh tồn mãnh liệt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Còn ở nước",
+   "layout": "Phục dựng quái thú Diprotodon to như chiếc xe tải quân sự, bước đi rung chuyển mặt đất cổ đại Úc; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "3m",
+     "side": "L",
+     "y": 400,
+     "value": "DÀI 3M",
+     "label": "Quái thú Diprotodon Úc",
+     "target": [
+      0.35,
+      0.72
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Chiếc mông bọc",
+   "layout": "{WOMBAT} đứng cạnh chiếc bóng khổng lồ của Diprotodon vỗ mông đầy tự hào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Và giải thưởng",
+   "layout": "Đồ họa biển kỷ Cambri 500 triệu năm trước rực rỡ sắc màu sinh vật cổ sơ; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "500 triệu năm",
+     "side": "R",
+     "y": 410,
+     "value": "500 TR NĂM",
+     "label": "Kỷ Cambri cổ đại",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "500 triệu năm trước,",
+   "layout": "{SEA_CUCUMBER} đứng trên bục danh dự nhận chiếc cúp vàng vinh quang hình hóa thạch cổ đại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Họ đã chứng",
+   "layout": "Hình ảnh Trái Đất xoay vần qua các kỷ địa chất, {SEA_CUCUMBER} vẫn ung dung trườn dưới đáy biển xanh mát; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Và nhìn vào",
+   "layout": "Đồ họa biển kỷ Ediacara nguyên thủy 600 triệu năm trước với các sinh vật thân mềm phát quang ma thuật; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "600 triệu năm trước,",
+   "layout": "Đàn sứa cổ xưa bơi lội dưới mái vòm băng tuyết nguyên thủy của Trái Đất cổ đại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Họ đã vượt",
+   "layout": "Biển cả ngập tràn tro bụi núi lửa và axit, nhưng dòng dõi sứa vẫn bền bỉ hồi sinh và trường tồn tới tận ngày nay; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Sự trường sinh",
+   "layout": "{IMMORTAL_JELLYFISH} trôi lơ lửng trên bục danh dự, ánh sáng hào quang tỏa ra như ngôi sao cổ đại lấp lánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Còn nhìn về",
+   "layout": "Phục dựng quái thú lưỡng cư cổ đại Temnospondyli dài hai mét với chiếc đầu dẹt to bản và hàm răng sắc bén; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Vào thời kỳ",
+   "layout": "Chú lưỡng cư khổng lồ bơi lội săn cá trong đầm lầy kỷ Than Đá nguyên sơ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Trải qua hàng trăm triệu năm tiến",
+   "layout": "Chú kỳ nhông {AXOLOTL} nhỏ bé đứng cạnh chiếc bóng vĩ đại của cụ tổ Temnospondyli mỉm cười tự hào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Thậm chí trong",
+   "layout": "Phiến đá cổ đại hiển thị vệt hóa thạch của sợi tơ nhớt protein nguyên thủy phát sáng huỳnh quang; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Điều này chứng",
+   "layout": "Hình ảnh cụ tổ {HAGFISH} bơi qua thời gian từ quá khứ đến hiện tại với vẹn nguyên sức mạnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Không chỉ vậy,",
+   "layout": "Mô hình {HAGFISH} vùi sâu trong lớp bùn đen kịt thiếu oxy nhưng tim vẫn đập chậm rãi bền bỉ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Chúng chuyển hóa",
+   "layout": "Đồ họa chu trình đường phân kỵ khí thắp sáng bốn quả tim của {HAGFISH} dưới đáy vực sâu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Đó là minh",
+   "layout": "Mô hình dòng thời gian năm đại tuyệt chủng lướt qua, {HAGFISH} vẫn ung dung bơi lội từ thời kỷ Cambri đến nay; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Ban tổ chức xin trao",
+   "layout": "{JUDGE} trao hai chiếc cúp đá cẩm thạch phát sáng cho {HAGFISH} và {SEA_CUCUMBER} trong tiếng vỗ tay rền vang.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Lễ trao giải phụ khép",
+   "layout": "Đèn sân khấu chuyển sang màu xanh neon bí ẩn, chuẩn bị cho những màn bẻ lái sự thật ngoạn mục; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": 0,
+   "layout": "{MC} bước ra giữa sàn đấu, phía sau là màn hình lớn chiếu biểu tượng chiếc kính lúp vạch trần tin giả; {BOARD} sáng ô thử thách số bảy.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Đây là vòng",
+   "layout": "Màn hình hiện lên các bài báo mạng giật gân hoạt hình với dấu chấm hỏi to đùng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Trong thời đại",
+   "layout": "Hình ảnh biểu tượng tin giả mạng xã hội bị một chiếc búa công lý gõ vỡ tan tành; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Tin đồn số",
+   "layout": "Hình ảnh một chú sứa phát hào quang bất tử lơ lửng giữa vũ trụ như vị thần bất khả chiến bại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Sự thật khoa",
+   "layout": "{JUDGE} gõ búa, hình ảnh thần thánh biến mất, thay bằng thực tế đại dương khắc nghiệt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Trong môi trường",
+   "layout": "Một chú rùa biển hoạt hình bơi qua hả miệng đớp trọn cả đàn sứa nhỏ như nuốt kẹo thạch ngon lành; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Hơn nữa, nếu",
+   "layout": "Chú sứa nằm trên bãi cát nắng gắt rên rỉ, {MC} vội cầm bình xịt tưới nước giải cứu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Khái niệm bất",
+   "layout": "{IMMORTAL_JELLYFISH} cười trừ gãi đầu công nhận sự thật trần trụi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Nếu không có",
+   "layout": "Đồ họa biển ngập tràn sứa nhỏ lấp lánh để minh họa tầm quan trọng của rùa biển trong việc cân bằng sinh thái; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Một pha bẻ",
+   "layout": "Hình ảnh {BEAVER} ngồi gặm một khúc gỗ khô cứng ngắc như nhai bánh quy giòn tan; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Đây là một",
+   "layout": "Sơ đồ đường ruột của {BEAVER}: khúc gỗ lõi cứng bị chặn lại ở dạ dày không tiêu hóa được; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Khẩu phần ăn",
+   "layout": "{BEAVER} khéo léo dùng răng bóc tách lớp vỏ xanh non mềm mại ăn ngon lành, bỏ lại phần lõi gỗ cứng sang một bên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Những khúc gỗ",
+   "layout": "{BEAVER} vác khúc gỗ cứng xếp vào thân đập, tay kia cầm cành lá xanh nhai nhóp nhép khoái chí; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Chúng ta đã",
+   "layout": "{BEAVER} ôm bụng cười, tay giơ đĩa thức ăn gồm chồi non và lá cây xanh mướt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Đến tin đồn",
+   "layout": "{WOLVERINE_FROG} giơ ngón chân có vuốt xương lên, biểu cảm suy tư bí hiểm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Các nhà thần",
+   "layout": "Đồ họa xung thần kinh cảm giác đau chạy dọc từ ngón chân lên não bộ của ếch; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Tuy nhiên, trong",
+   "layout": "Dòng hormone phát sáng tràn ngập cơ thể, khóa chặt các cổng tiếp nhận tín hiệu đau ở tủy sống; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Cơ chế này",
+   "layout": "{WOLVERINE_FROG} tung cú đá vuốt xương uy lực hạ gục con rắn săn mồi trong sự thán phục của khán giả; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Và sau khi",
+   "layout": "Vết thương khép miệng, chú ếch ngồi nghỉ ngơi dưới bóng râm dòng suối bình yên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Thêm một tin",
+   "layout": "{MIMIC_OCTOPUS} đứng trước màn hình đối chất, xung quanh là các nhà khoa học đang theo dõi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Các thí nghiệm",
+   "layout": "Phòng thí nghiệm đại dương: khi thả một con cá bơn săn mồi vào, {MIMIC_OCTOPUS} không đổi màu ngẫu nhiên mà lập tức biến hình thành rắn biển đầu đen chuyên ăn thịt cá bơn! {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Chúng quan sát",
+   "layout": "Sơ đồ tư duy logic của bạch tuộc: nhận diện đối thủ -> tra cứu hồ sơ khắc tinh -> kích hoạt hệ cơ biến hình chuẩn xác; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Một sự tính",
+   "layout": "{MIMIC_OCTOPUS} giơ một xúc tu nháy mắt chào khán giả đầy tinh tế; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Và một tin",
+   "layout": "Hình ảnh hoạt hình hài hước: {WOMBAT} ngồi nặn phân như nặn bánh bột lọc bằng hai tay; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Bà Cú giám khảo cười",
+   "layout": "{JUDGE} giơ biểu đồ động lực học chất lưu giải thích cơ chế ép góc 90 độ của các múi cơ ruột già; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Phân của Wombat",
+   "layout": "Đồ họa ruột co bóp nén ép tự động nhả ra từng viên gạch phân lập phương vuông chằn chặn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Và sự thật",
+   "layout": "Đồ họa bàn chân sau của ếch: bao xơ collagen co giãn nhẹ nhàng ôm lấy đầu xương nhọn bảo vệ tế bào mô; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Khi móng vuốt",
+   "layout": "Vết rách khép miệng nhanh như một chiếc khóa kéo tự động kéo lại mượt mà; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Viện nghiên cứu",
+   "layout": "Cuộn tơ dệt từ protein chất nhầy {HAGFISH} sáng bóng, mảnh mai nhưng bền chắc nâng được vật nặng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Sợi tơ sinh",
+   "layout": "Sợi vải sinh thái tan biến nhẹ nhàng trong đất bón cho cây non xanh tốt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Thiên nhiên đã",
+   "layout": "{MC} vung tay chỉ lên màn hình so sánh giữa công nghệ hiện đại và cấu trúc sinh học tuyệt mỹ của các sinh vật; {BOARD} sáng rực các dữ liệu khoa học.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Ban giám khảo xin",
+   "layout": "{JUDGE} gõ búa trao huy chương đồng cho {AXOLOTL}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Huy chương Bạc",
+   "layout": "{BEAVER} nhận tấm huy chương bạc thứ ba của mình trong tiếng reo hò.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Và Huy chương",
+   "layout": "{IMMORTAL_JELLYFISH} bay lượn đón nhận chiếc huy chương vàng thứ hai, tỏa ánh hào quang hồng tím rực rỡ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Bảng tổng sắp",
+   "layout": "{BOARD} cập nhật điểm số: Sứa Bất Tử 8 điểm, Hải Ly 8 điểm, Axolotl 6 điểm, Wombat 5 điểm, Hải Sâm 3 điểm, Chuột Chũi Sao 3 điểm, Hagfish 3 điểm, Bạch Tuộc Mimic 2 điểm, Ếch Wolverine 2 điểm, Kiến Nổ 1 điểm; cuộc soán ngôi vương đang đến hồi nghẹt thở nhất!",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": 0,
+   "layout": "{MC} khoác áo blouse trắng của nhà khoa học, dẫn đầu đoàn giám khảo bước vào phòng thí nghiệm tối tân với các máy móc lượng tử phát sáng; {BOARD} sáng ô bán kết mang hình kính hiển vi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Đây là vòng",
+   "layout": "Màn hình lớn kết nối trực tiếp với kính hiển vi điện tử quét và máy quét synchrotron; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Những bí mật",
+   "layout": "Đồ họa mạng lưới tinh thể phân tử chuyển động quay ba chiều sắc nét; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Mẫu thử nghiệm",
+   "layout": "Kỹ thuật viên dùng kẹp gắp một sợi tơ trong suốt của {HAGFISH} đặt lên đĩa soi điện tử; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Dưới chùm tia",
+   "layout": "Đồ họa nguyên tử phóng to: các chuỗi protein cuộn xoắn thành các tấm gấp beta đan kết chéo vô cùng chặt chẽ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Bên trong mỗi",
+   "layout": "Cuộn tơ mở ra như chiếc lò xo nén cực đại bung ra thành mạng lưới sợi dày đặc trong nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Khi bung ra",
+   "layout": "Cánh tay robot kéo giãn sợi tơ ra gấp ba lần độ dài ban đầu rồi thả ra, sợi tơ co lại đàn hồi hoàn hảo; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "gấp 3 lần",
+     "side": "R",
+     "y": 410,
+     "value": "GẤP 3 LẦN",
+     "label": "Độ đàn hồi cực cao",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Độ bền kéo",
+   "layout": "Đồ thị đo lực kéo đứt: đường cong của tơ Hagfish vượt xa sợi nylon và tiệm cận độ dai của hợp kim nhẹ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Một kỳ quan",
+   "layout": "Các nhà khoa học hoạt hình giơ ngón tay cái tán thưởng trước số liệu hiển thị trên màn hình; {MC} mỉm cười thán phục.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Tiếp theo, hãy",
+   "layout": "Một mẩu mô da của {SEA_CUCUMBER} được đặt vào máy đo lực nén và độ đàn hồi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Các nhà sinh",
+   "layout": "Cấu trúc sợi collagen hoạt hình liên kết với nhau bằng các cầu nối hóa học màu xanh lá cây; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Hải Sâm không",
+   "layout": "Đồ họa các hạt truyền tín hiệu thần kinh phóng thích vào mô liên kết; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Thay vào đó,",
+   "layout": "Khi cần cứng, các cầu nối khóa chặt, mẩu da biến thành tảng đá cứng ngắc đập búa vào kêu keng keng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Và khi cần",
+   "layout": "Cơ thể {SEA_CUCUMBER} mềm nhũn như giọt nước chảy luồn qua khe đá hẹp chỉ rộng một xăng-ti-mét rồi đông cứng trở lại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Các kỹ sư",
+   "layout": "Mô hình điện cực nano lấy cảm hứng từ da Hải Sâm cấy vào mô thần kinh một cách an toàn hoàn hảo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Và cuối cùng",
+   "layout": "Đầu xúc tu hồng của {STAR_MOLE} được phóng đại mười ngàn lần trên kính hiển vi điện tử quét; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Mỗi chiếc nhú",
+   "layout": "Mô hình nguyên tử: một hạt bụi nhỏ xíu chạm vào bề mặt nhú nấm làm phát ra xung điện thần kinh cực nhạy; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Một nanomet nhỏ",
+   "layout": "{STAR_MOLE} đeo kính râm nhếch mép ngầu, chiếc mũi sao biển phát ra các vòng sóng quét laser chính xác tuyệt đối; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Để kiểm tra",
+   "layout": "Một chiếc búa đập thủy lực khổng lồ giáng thẳng xuống tấm giáp mẫu của {WOMBAT} với lực ép lên tới hai tấn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Rầm! Chiếc búa",
+   "layout": "Máy đo áp lực hiển thị chỉ số triệt tiêu lực đạt chín mươi lăm phần trăm, bảo vệ hoàn toàn nội tạng bên trong khỏi chấn thương; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Các kỹ sư chế",
+   "layout": "Bản thiết kế mũ bảo hiểm công nghệ cao lấy cảm hứng từ cấu trúc mông bọc thép của {WOMBAT}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Tại phòng thí",
+   "layout": "Kính hiển vi huỳnh quang rọi vào mầm tái sinh của {AXOLOTL}: từng tế bào phát sáng xanh neon di chuyển dệt nên mô cơ mới; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Họ phát hiện",
+   "layout": "Dòng xung điện xanh lam chạy dọc sợi thần kinh chỉ đường cho các tế bào ghép nối hoàn hảo không một sai sót; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Công nghệ lập",
+   "layout": "Cánh tay robot công nghệ cao cử động nhịp nhàng theo ý nghĩ của con người trong phòng thử nghiệm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Máy đo phổ",
+   "layout": "Đồ thị phổ tán xạ tia X: các liên kết hydro tự sắp xếp lại hấp thụ trọn vẹn năng lượng va đập; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Khả năng hấp",
+   "layout": "Con cá mập giãy giụa dữ dội trong khối keo nhớt nhưng màng tơ càng siết chặt đàn hồi không thể phá vỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Cuộc chạm trán",
+   "layout": "{AXOLOTL} và {IMMORTAL_JELLYFISH} cùng tỏa sáng trên hai cột năng lượng mô phỏng của phòng thí nghiệm tương lai; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Một bên là",
+   "layout": "Đồ họa phân đôi màn hình: cánh tay {AXOLOTL} tái tạo cơ bắp hoàn chỉnh bên cạnh chu trình trẻ hóa không hồi kết của {IMMORTAL_JELLYFISH}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Các nhà khoa học trên",
+   "layout": "Các nhà khoa học vỗ tay nồng nhiệt, màn hình máy tính nhảy hàng triệu chuỗi mã gen quý giá; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Ban giám khảo xin",
+   "layout": "{JUDGE} gõ búa, trao huy chương đồng phát sáng cho {STAR_MOLE}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Huy chương Bạc",
+   "layout": "{SEA_CUCUMBER} vui mừng đón nhận tấm huy chương bạc quý giá thứ hai của mình.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Và Huy chương",
+   "layout": "{HAGFISH} đứng trên bục vinh quang nhận huy chương vàng, toàn thân phát sáng lấp lánh giữa tiếng reo hò rền vang.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Bảng điểm sau",
+   "layout": "{BOARD} cập nhật điểm số: Sứa Bất Tử 8 điểm, Hải Ly 8 điểm, Axolotl 6 điểm, Hagfish 6 điểm, Wombat 5 điểm, Hải Sâm 5 điểm, Chuột Chũi Sao 4 điểm, Bạch Tuộc Mimic 2 điểm, Ếch Wolverine 2 điểm, Kiến Nổ 1 điểm; mọi ánh mắt đang hướng về Vòng Chung Kết Điểm Nhân Đôi!",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": 0,
+   "layout": "Dàn pháo sáng rực rỡ bùng nổ quanh đấu trường, âm nhạc giao hưởng hào hùng vang lên; {BOARD} nhấp nháy sáng rực ô Chung Kết mang chữ Điểm Nhân Đôi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Đây là vòng",
+   "layout": "{JUDGE} giơ cao ba chiếc huy chương đại hội khổng lồ phát ánh hào quang chói lọi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Ở vòng đấu",
+   "layout": "Màn hình lớn chiếu các mô hình bệnh viện tương lai, tàu không gian và robot sinh học; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Không phải danh",
+   "layout": "Hình ảnh bàn tay con người nâng niu địa cầu, các nhánh công nghệ sinh học tỏa sáng rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Ứng cử viên",
+   "layout": "{HAGFISH} bơi trong buồng thí nghiệm, bên cạnh là các kỹ sư vật liệu của Hải quân Hoa Kỳ đang thử nghiệm sợi tơ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Hiện nay, sợi",
+   "layout": "Áo giáp chống đạn thông thường bị bắn vào để lại vết rách và tỏa khói đen ô nhiễm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Nhưng tơ của",
+   "layout": "Mô hình áo giáp dệt từ tơ Hagfish siêu mỏng nhẹ nhưng chặn đứng viên đạn bay tới kêu cái keng, không hề thủng rách; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Hơn thế nữa,",
+   "layout": "Bọt gel trắng xóa từ nhớt {HAGFISH} dập tắt ngọn lửa bùng cháy dữ dội trên mô hình giàn khoan biển; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Một giải pháp",
+   "layout": "{AXOLOTL} bơi đến trước các bác sĩ phẫu thuật đang nghiên cứu mô tim và tủy sống; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Mỗi năm trên",
+   "layout": "Hình ảnh bệnh nhân ngồi xe lăn nhìn về phía trước với ánh mắt hy vọng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Các nhà nghiên",
+   "layout": "Ống nghiệm phát sáng màu xanh lam chứa các phân tử protein kích hoạt mầm tái sinh tế bào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Khi ứng dụng",
+   "layout": "Vùng mô tim hoại tử màu xám sẫm dần hồng hào trở lại, các mạch máu mới mọc ra nuôi tim đập khỏe mạnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Axolotl đang thắp",
+   "layout": "Chú kỳ nhông {AXOLOTL} mỉm cười giơ bàn tay nhỏ bé chạm vào bàn tay một em bé đang bình phục; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Đây không còn",
+   "layout": "Đồ họa cánh tay robot kết hợp tế bào sinh học mọc da thịt mềm mại tự nhiên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Và cuối cùng,",
+   "layout": "{IMMORTAL_JELLYFISH} trôi lơ lửng giữa một quả cầu ánh sáng ba chiều mô phỏng tế bào gốc người; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Căn bệnh đáng",
+   "layout": "Hình ảnh các tế bào thần kinh não người bị teo tóp và đứt gãy kết nối theo tuổi tác; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Nhưng cơ chế",
+   "layout": "Các tế bào thần kinh già nua được kích hoạt enzym sứa, tự hồi sinh và nối lại các khớp thần kinh phát sáng rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Giải mã cơ",
+   "layout": "Một cụ già hoạt hình uống giọt nước tinh chất sứa bỗng trẻ trung yêu đời, nụ cười rạng rỡ hạnh phúc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Một giấc mơ",
+   "layout": "Ánh sáng hồng tím của {IMMORTAL_JELLYFISH} lan tỏa bao bọc lấy toàn bộ sân vận động trong sự trầm trồ nghẹn ngào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Và một món",
+   "layout": "Bác sĩ phẫu thuật dùng một giọt gel sinh học lấy cảm hứng từ keo của {EXPLODING_ANT} để dán vết rách mạch máu tim; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Loại keo này",
+   "layout": "Vết mổ được dán kín hoàn hảo chỉ trong ba giây, không cần dùng chỉ khâu thông thường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Từ một hành",
+   "layout": "Hình ảnh bàn tay bác sĩ bắt tay với chú kiến {EXPLODING_ANT} nhỏ bé đầy lòng tri ân; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Chiếc mũi sao",
+   "layout": "Mô hình robot cứu hộ mini trang bị 22 cánh xúc tu cảm biến cơ học tiến vào đống đổ nát cứu hộ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Trong môi trường khói",
+   "layout": "Robot phát hiện tín hiệu sự sống của nạn nhân dưới đống gạch đá và phát tín hiệu cấp cứu giải cứu kịp thời; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Một phát minh",
+   "layout": "Hình ảnh chú chuột chũi {STAR_MOLE} đeo kính râm bắt tay với người lính cứu hộ trong sự ấm áp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Hơn thế nữa, các",
+   "layout": "Tấm da nhân tạo thông minh đổi từ mềm mại sang cứng cáp khi có dòng điện nhỏ chạy qua; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Vật liệu này",
+   "layout": "Robot thám hiểm vũ trụ hoạt hình luồn qua khe đá hẹp rồi khoan sâu lấy mẫu đất phát sáng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Trận chung kết",
+   "layout": "Cả khán đài nín thở theo dõi ánh đèn rọi vào {IMMORTAL_JELLYFISH}, {AXOLOTL} và {BEAVER} trên ba bục danh dự; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Hải Ly đại",
+   "layout": "Hình ảnh đại ngàn xanh biếc với những hồ nước trong veo do {BEAVER} tạo dựng hiện lên hùng vĩ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Axolotl đại diện",
+   "layout": "Ba vầng hào quang vàng, xanh lam và hồng phấn tỏa sáng rực rỡ quanh ba tuyển thủ vĩ đại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Ban giám khảo",
+   "layout": "{JUDGE} trao huy chương đồng hai điểm cho {HAGFISH}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Huy chương Bạc bốn điểm thuộc",
+   "layout": "{AXOLOTL} nhận tấm huy chương bạc bốn điểm, đưa tổng điểm của mình chạm mốc mười điểm tròn!",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Và Huy chương Vàng sáu",
+   "layout": "{IMMORTAL_JELLYFISH} bay lên bục cao nhất đón nhận huy chương vàng sáu điểm khổng lồ trong ánh pháo hoa rực rỡ ngập trời!",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Một màn lội",
+   "layout": "{BOARD} bùng nổ hiệu ứng ánh sáng: Sứa Bất Tử 14 điểm, Axolotl 10 điểm, Hải Ly 8 điểm, Hagfish 8 điểm, Wombat 5 điểm, Hải Sâm 5 điểm, Chuột Chũi Sao 4 điểm, Bạch Tuộc Mimic 2 điểm, Ếch Wolverine 2 điểm, Kiến Nổ 1 điểm; toàn bộ khán trường vỡ òa sung sướng!",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": 0,
+   "layout": "{MC} vest đỏ tươi đứng trên bục danh dự giữa sân, tay cầm chiếc micro vàng lấp lánh; xung quanh là dàn pháo hoa kim tuyến bay rợp trời; {BOARD} sáng rực bảng tổng sắp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Sau tám vòng",
+   "layout": "Màn hình lớn hiện bảng tổng sắp mười bậc thang vinh quang từ hạng mười đến ngôi vô địch; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Mỗi tuyển thủ",
+   "layout": "Hình ảnh mười chiếc cúp lưu niệm phát sáng lấp lánh trên khay nhung đỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Đồng hạng ba",
+   "layout": "{BEAVER} và {HAGFISH} cùng bước lên bục số ba, đeo tấm huy chương đồng chung cuộc nặng trĩu và mỉm cười bắt tay nhau; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Ngôi vị Á",
+   "layout": "{AXOLOTL} bước lên bục số hai, sáu nhánh mang hồng rung rinh xúc động, nụ cười ngây thơ đón nhận tấm huy chương bạc quý phái; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Và chiếc vương",
+   "layout": "Một chùm ánh sáng laser vàng rực rọi thẳng vào chiếc vương miện đang hạ dần từ trên không trung; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Kẻ từng bị",
+   "layout": "Hình ảnh hồi tưởng lúc cân ký: chiếc ly thủy tinh nhỏ bé bị lãng quên bên cạnh cỗ xe tăng Wombat 35kg; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Nhưng bằng năng",
+   "layout": "{IMMORTAL_JELLYFISH} bay lơ lửng bước lên bục cao nhất số một, phát ra ánh hào quang hồng tím lung linh huyền ảo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Một thắng lợi",
+   "layout": "Toàn cảnh chú sứa nhỏ phát sáng giữa vòng vây của các đấu sĩ khổng lồ đang ngước nhìn thán phục; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Xin nhiệt liệt",
+   "layout": "Chiếc vương miện vàng nhỏ xíu vừa vặn được đặt nhẹ nhàng lên đỉnh chuông trong suốt của {IMMORTAL_JELLYFISH}, pháo hoa bùng nổ rực sáng cả bầu trời đêm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Khán đài hàng",
+   "layout": "Toàn thể khán giả rừng già và đại dương cùng reo hò, ném mũ và hoa giấy chúc mừng; {MC} và {JUDGE} vỗ tay chúc mừng nồng nhiệt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Dạ em cảm",
+   "layout": "Cận cảnh {IMMORTAL_JELLYFISH} đội vương miện vàng, nhấp nháy phát sáng xúc động phát biểu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Tất cả các",
+   "layout": "Toàn cảnh lễ trao giải rực rỡ, khay huy chương vàng bạc đồng lấp lánh trên bục vinh quang; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Anh chàng Wombat",
+   "layout": "{WOMBAT}, {BEAVER} và {HAGFISH} đứng cạnh nhau khoe huy chương trong tiếng nhạc rộn rã; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Nhưng đỉnh cao",
+   "layout": "Chiếc vương miện vàng nạm đá quý phát ánh hào quang lung linh trên đỉnh chuông trong suốt của {IMMORTAL_JELLYFISH}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Toàn thể mười",
+   "layout": "Mười tuyển thủ ôm vai nhau tươi cười rạng rỡ, pháo hoa nổ vang trời, khán đài tung hoa giấy rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Chiếc máy ảnh",
+   "layout": "Bức ảnh chụp chung toàn đoàn phát sáng khung vàng lưu niệm tuyệt đẹp giữa sân khấu tràn ngập niềm vui; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Những tiếng hò",
+   "layout": "Pháo hoa hình vòng lặp vô cực nổ tung trên bầu trời đêm rực rỡ, toàn thể muông thú vẫy cờ hoa chúc mừng tân vương; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Đó là một",
+   "layout": "Chú sứa {IMMORTAL_JELLYFISH} phát sáng dịu dàng soi sáng nụ cười hạnh phúc của toàn bộ mười tuyển thủ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Mỗi chiếc huy",
+   "layout": "Các tuyển thủ cùng bước lên bục danh dự, ôm nhau ăn mừng thắm thiết dưới mưa pháo hoa rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Dù mang vẻ",
+   "layout": "Toàn cảnh mười dị nhân cùng nâng cúp và vẫy tay chào khán giả trong ánh sáng hoàng kim lộng lẫy; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Mười tuyển thủ cùng bước lên sàn",
+   "layout": "Mười tuyển thủ (Ếch Wolverine, Axolotl, Hải Sâm, Hagfish, Bạch Tuộc Mimic, Wombat, Chuột Chũi Mũi Sao, Kiến Nổ, Sứa Bất Tử, Hải Ly) đứng quây quần bên nhau giơ cúp vinh quang; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Chiếc cúp Mùa",
+   "layout": "{MC} giơ micro nở nụ cười rạng rỡ, toàn cảnh sân vận động bế mạc tràn ngập niềm vui và hạnh phúc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": 0,
+   "layout": "Toàn cảnh đấu trường chuyển sang ánh sáng hoàng hôn ấm áp dịu nhẹ, mười tuyển thủ ngồi bên nhau ngắm nhìn bầu trời đêm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Mỗi loài sinh",
+   "layout": "Hình ảnh cây phả hệ tiến hóa phát sáng tỏa ra muôn nhánh sinh mệnh rực rỡ từ cội nguồn Trái Đất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Nhưng dù sở",
+   "layout": "Bức tranh tương phản: một bên là dòng suối trong xanh của Axolotl, một bên là cống nước ô nhiễm và rác thải nhựa đe dọa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Kỳ Nhông Axolotl",
+   "layout": "Chú kỳ nhông {AXOLOTL} ngồi buồn bã nhìn vào vũng nước cạn dần giữa lòng thành phố; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Sứa Bất Tử",
+   "layout": "{IMMORTAL_JELLYFISH} trôi dạt giữa những túi nilon và hạt vi nhựa lơ lửng trong làn nước biển sẫm màu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Bảo vệ những",
+   "layout": "Bàn tay con người nhẹ nhàng nâng niu giọt nước chứa chú sứa nhỏ và nhành cây xanh của {BEAVER}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Chúng ta không",
+   "layout": "Hình ảnh Trái Đất xanh tươi được bao bọc trong vòng tay bảo vệ của con người và muôn thú; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Và trước khi",
+   "layout": "{MC} vest đỏ tươi bước ra phía trước màn hình, nở nụ cười ấm áp giơ micro về phía người xem; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Nếu được chọn",
+   "layout": "Bốn khung hình hoạt hình vui nhộn hiện lên quanh {MC} tượng trưng cho 4 siêu năng lực dị nhân; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Hãy chia sẻ",
+   "layout": "Biểu tượng khung bình luận hoạt hình nhấp nháy phát sáng rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Và đừng quên",
+   "layout": "Cửa hầm mở ra hé lộ bóng đen chú chim cắt lao vút xuống như tên lửa siêu thanh trên bầu trời mây trắng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Cùng với đó",
+   "layout": "Các bóng đen dũng mãnh của Cá Voi Sát Thủ Orca, Quạ Đen đội mũ thám tử và Chó Sói hú dưới trăng hiện lên đầy uy lực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Hành trình Mùa",
+   "layout": "Bầu trời đêm trên đấu trường bừng sáng bởi muôn vì sao lấp lánh, mười tuyển thủ cùng ngước nhìn về tương lai xanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Mỗi dòng suối",
+   "layout": "Bức tranh Trái Đất xanh ngắt tươi đẹp, biển cả trong lành và rừng xanh bát ngát trải dài vô tận; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Chúng ta hãy",
+   "layout": "Biểu tượng bàn tay con người kết nối với dấu chân muông thú tạo thành vòng tròn bảo vệ bền vững; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Mỗi hành động",
+   "layout": "Hình ảnh em bé tưới mầm cây non xanh tốt, dòng suối mát lành chảy uốn lượn qua khu rừng bình yên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Hãy cùng kênh",
+   "layout": "Biểu tượng trái tim xanh phát sáng kết nối hàng triệu người xem trên toàn cầu cùng chung tay bảo vệ môi trường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Những thông điệp",
+   "layout": "Toàn cảnh Trái Đất quay chậm rãi trong không gian, được bao bọc bởi tình yêu thương và sự chở che của con người và muôn loài; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Một cuộc chạm",
+   "layout": "Dòng chữ hẹn gặp lại ở Mùa bốn bừng sáng trên nền trời đầy sao; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Bảo vệ những loài",
+   "layout": "Bàn tay con người nâng niu giọt nước trong vắt chứa {IMMORTAL_JELLYFISH} và mầm cây xanh của {BEAVER}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Nếu để mất",
+   "layout": "Mạng lưới sự sống tỏa sáng bao bọc lấy hành tinh xanh, biểu tượng của sự hòa hợp vĩnh cửu giữa con người và thiên nhiên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Xin chào tạm",
+   "layout": "Toàn thể mười tuyển thủ cùng {MC} và {JUDGE} vẫy tay chào tạm biệt khán giả trong tiếng pháo hoa rực rỡ bế mạc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "{BOARD} dựng giữa sân vận động rực lửa ban đêm, phía trên lơ lửng chiếc vương miện vàng phát sáng, mười chiếc bóng tuyển thủ đứng bên dưới.",
+   "stickers": []
+  },
+  {
+   "at": "Gấu Wombat 35kg",
+   "layout": "{WOMBAT} và {BEAVER} đứng oai vệ trên hai cột điểm cao vút rực lửa, bên dưới {IMMORTAL_JELLYFISH} và {SEA_CUCUMBER} đứng cạnh cột điểm thấp lè tè.",
+   "stickers": []
+  },
+  {
+   "at": "Vòng một: Cá",
+   "layout": "{HAGFISH} thắt nút thân số 8 phun ra luồng bọt nhớt phát sáng lấp lánh ngăn chặn kẻ thù dưới đáy biển.",
+   "stickers": [
+    {
+     "at": "gấp 10 lần",
+     "side": "R",
+     "y": 640,
+     "value": "GẤP 10 LẦN",
+     "label": "Bền hơn tơ nhện",
+     "target": [
+      0.54,
+      0.52
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vòng hai: Chuột",
+   "layout": "{STAR_MOLE} đeo kính râm xòe 22 xúc tu đỏ hồng hớp trọn ấu trùng trong nháy mắt.",
+   "stickers": [
+    {
+     "at": "0,12 giây",
+     "side": "L",
+     "y": 620,
+     "value": "0,12 GIÂY",
+     "label": "Ăn nhanh nhất quả đất",
+     "target": [
+      0.58,
+      0.28
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vòng ba: Kỳ",
+   "layout": "{AXOLOTL} mỉm cười ngây thơ tỏa ánh hào quang hồng phấn, trái tim nhỏ lấp lánh phục hồi nguyên vẹn.",
+   "stickers": [
+    {
+     "at": "32 tỷ",
+     "side": "R",
+     "y": 600,
+     "value": "32 TỶ BASE",
+     "label": "Gen tái sinh không sẹo",
+     "target": [
+      0.48,
+      0.72
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vòng bốn: Đập",
+   "layout": "{BEAVER} đội mũ bảo hộ vàng tự hào đứng trên con đập gỗ vững chãi giữ dòng nước trong xanh.",
+   "stickers": []
+  },
+  {
+   "at": "Vòng năm: Hải",
+   "layout": "{SEA_CUCUMBER} ung dung hút cát lọc sạch đáy biển rực rỡ sắc màu san hô.",
+   "stickers": [
+    {
+     "at": "130 tấn",
+     "side": "L",
+     "y": 610,
+     "value": "130 TẤN",
+     "label": "Lọc sạch trầm tích",
+     "target": [
+      0.52,
+      0.35
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vòng sáu: Bạch",
+   "layout": "{MIMIC_OCTOPUS} uốn 8 xúc tu chuyển đổi từ rắn biển sang cá sư tử gai góc trong tích tắc.",
+   "stickers": []
+  },
+  {
+   "at": "Chung kết: ai",
+   "layout": "Nhà khoa học hoạt hình soi kính hiển vi chiêm ngưỡng chuỗi DNA phát sáng của {AXOLOTL} và {IMMORTAL_JELLYFISH}.",
+   "stickers": []
+  },
+  {
+   "at": "Và tân vương",
+   "layout": "{IMMORTAL_JELLYFISH} bay lơ lửng trên bục cao nhất đội chiếc vương miện vàng rực rỡ giữa pháo hoa nổ vang trời.",
+   "stickers": []
+  },
+  {
+   "at": "Bạn có đồng",
+   "layout": "{JUDGE} và mười tuyển thủ cùng quay sang nhìn thẳng ra người xem, {IMMORTAL_JELLYFISH} ở giữa giơ cúp vô địch lên.",
+   "stickers": []
+  },
+  {
+   "at": "vì ở đây",
+   "layout": "{BOARD} dựng giữa sân vận động rực lửa ban đêm, phía trên lơ lửng chiếc vương miện vàng phát sáng, mười chiếc bóng tuyển thủ đứng bên dưới.",
+   "stickers": []
+  }
+ ]
+}

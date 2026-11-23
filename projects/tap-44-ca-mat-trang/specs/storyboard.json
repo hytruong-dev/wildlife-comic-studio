@@ -1,0 +1,648 @@
+{
+  "_doc": "Kịch bản phân cảnh chi tiết cho Tập 44: Cá Mặt Trăng. Phong cách Pastel Dreamy Oceanic Fauvism & Gentle Giant Caricature. 58 beats dài, 8 beats shorts.",
+  "characters": {
+    "HERO": "chú cá mặt trăng hoạt hình khổng lồ hình đĩa tròn dẹt màu lam ngọc pastel mềm mại, cụt đuôi với thùy clavus lượn sóng, hai mắt tròn xoe ngơ ngác vô hồn, chiếc miệng tròn vo há hốc ngốc nghếch, hai cánh vây lưng và vây hậu môn cao vút quạt nhịp nhàng như cánh chim",
+    "HERO_S": "chú cá mặt trăng hoạt hình khổng lồ tròn vo cụt đuôi, mắt tròn xoe ngơ ngác há mỏ vô tri",
+    "NO_HERO": "KHÔNG có cá mặt trăng trong cảnh này",
+    "DOC": "bác sĩ cá heo đeo ống nghe và kính viễn vọng, mặc áo blouse trắng hài hước",
+    "NURSE": "cô trợ lý hải cẩu đeo tạp dề chữ thập đỏ bưng khay kim tiêm",
+    "JELLYFISH": "đàn sứa biển hoạt hình trong suốt phát sáng màu hồng pastel và tím nhạt trôi bồng bềnh",
+    "SEAGULL": "chú chim mòng biển hoạt hình trắng muốt mỏ vàng tinh quái đậu rỉa spa",
+    "CRANE": "chiếc cần cẩu công nghiệp màu vàng cam rực rỡ với dây cáp thép to bản",
+    "SEAL": "chú hải cẩu xám béo tròn đang ngoạm cắn đuôi cá mặt trăng",
+    "BABY_MOLA": "chú ấu trùng cá mặt trăng tí hon tròn xoe như quả cầu gai phi thuyền ngoài hành tinh",
+    "SEAL_S": "chú hải cẩu tinh nghịch bơi lại cắn vây cá",
+    "SEAGULL_S": "chú chim mòng biển đậu trên lưng cá rỉa spa"
+  },
+  "side_characters": {
+    "CRANE": "chiếc cần cẩu công nghiệp màu vàng cam rực rỡ với dây cáp thép to bản",
+    "SEAL": "chú hải cẩu xám béo tròn đang ngoạm cắn đuôi cá mặt trăng",
+    "BABY_MOLA": "chú ấu trùng cá mặt trăng tí hon tròn xoe như quả cầu gai phi thuyền ngoài hành tinh"
+  },
+  "shorts_side_characters": {
+    "SEAL_S": "chú hải cẩu tinh nghịch bơi lại cắn vây cá",
+    "SEAGULL_S": "chú chim mòng biển đậu trên lưng cá rỉa spa"
+  },
+  "shorts_title_lines": [
+    "NẶNG 2 TẤN VÔ TRI",
+    "BỊ CẮN VẪN PHƠI NẮNG?!"
+  ],
+  "skip_numbers": [],
+  "long": [
+    {
+      "scene": "scene01",
+      "at": 0,
+      "layout": "Phòng cấp cứu đa khoa sinh vật biển: {DOC} đang sốt sắng chỉ huy hiện trường, bên cạnh là một bể nước mặn khổng lồ bằng kính trong suốt phát sáng bọt khí pastel turquoise.",
+      "stickers": [
+        {
+          "at": "10 tấn",
+          "side": "R",
+          "y": 360,
+          "value": "10 TẤN",
+          "label": "cần cẩu công nghiệp",
+          "target": [
+            0.75,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "tích 100 m³",
+      "layout": "Cận cảnh hiện trường: {CRANE} đang từ từ hạ dây cáp cẩu xuống để chuẩn bị đón nhận một ca bệnh thể trọng khổng lồ; {NURSE} bên cạnh hốt hoảng ôm sổ bệnh án.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "bọc thép, nhưng",
+      "layout": "{HERO} lừng lững xuất hiện trên móc cẩu: Một thân hình tròn dẹt khổng lồ, hai mắt tròn xoe đờ đẫn nhìn vào hư không không chớp mắt.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "ạ! Con cá",
+      "layout": "Chiếc bàn cân điện tử công nghiệp bị đè sập gãy đôi xịt khói; {NURSE} ôm đầu kinh hãi; {HERO} vẫn giữ nguyên nụ cười ngây ngô vô số tội.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "Nhưng tôi thường",
+      "layout": "{DOC} cầm tấm bảng chẩn đoán phóng to hồ sơ bệnh án Mola mola; nền là bản đồ đại dương màu lam ngọc pastel với dòng chữ GÃ KHỔNG LỒ VÔ TRI.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "mồi chớp nhoáng,",
+      "layout": "So sánh hài hước: BÊN TRÁI là các loài thủy quái biển sâu cơ bắp răng nhọn hoắt khí động học; BÊN PHẢI là {HERO} tròn lẳn cụt lủn như cái đầu cá bị cắt rời lềnh bềnh trôi nước.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "nghiệm thể trọng",
+      "layout": "Sơ đồ giải phẫu thể trọng: {HERO} với các mũi tên đo kích thước chiều dài 3 mét và sải vây từ trên xuống dưới 4 mét trên nền giấy can đại dương pastel.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "cân nặng vượt",
+      "layout": "Cận cảnh gương mặt vô tri: Đôi mắt tròn xoe trống rỗng và chiếc miệng tròn vo há hốc ngơ ngác của {HERO}; vài bong bóng nước lững lờ bay ra.",
+      "stickers": [
+        {
+          "at": "2 tấn",
+          "side": "R",
+          "y": 380,
+          "value": "2 TẤN",
+          "label": "thể trọng kỷ lục",
+          "target": [
+            0.72,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "há hốc ra",
+      "layout": "{HERO} thong dong trôi giữa đại dương bao la thời tiền sử, đàn cá cổ đại vây quanh tò mò; {DOC} giơ kính lúp nghiên cứu thắc mắc.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": 0,
+      "layout": "Màn hình chẩn đoán chụp cắt lớp CT toàn thân của {HERO}: Khung xương cá lộ rõ nhưng phần đuôi sau hoàn toàn biến mất; {DOC} chỉ tay phân tích.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "đuôi cá thật",
+      "layout": "Mô phỏng 3D cơ sinh học: Con cá ngừ rẽ sóng vùn vụt nhờ vây đuôi cơ bắp; đối diện là {HERO} không có đuôi chỉ bơi bằng cách lắc lư hai vây đứng.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "trình tiến hóa!",
+      "layout": "{NURSE} cúi người soi kính lúp vào phần rìa thịt lượn sóng phía sau mông của {HERO}; biểu cảm hoang mang tột độ.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "sau đuôi gã",
+      "layout": "Phóng to cấu tạo giải phẫu thùy clavus: Phần vây lưng và vây hậu môn hợp nhất thành chiếc bánh lái thịt nhăn nheo như diềm váy búp bê.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "không có lực",
+      "layout": "Minh họa bánh lái tàu thủy cổ điển gắn sau mông {HERO}, xoay nhẹ để rẽ hướng lờ đờ giữa làn nước xanh pastel.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "chép hay cá",
+      "layout": "Cắt lớp vi thể xương sụn: Bộ xương của {HERO} không phải xương cứng mà là những thớ sụn xốp chứa đầy nước; {DOC} dùng ngón tay ấn thử thấy đàn hồi như thạch.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "này đồng nghĩa",
+      "layout": "Sơ đồ động lực học: {HERO} không có bong bóng cá nhưng sở hữu hai cánh vây lưng và vây bụng khổng lồ đang quạt nhịp nhàng từ trái qua phải như cánh chim cánh cụt bay lượn.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "vây hậu môn dài",
+      "layout": "Thiết bị định vị GPS gắn trên vây lưng {HERO}: Đồng hồ đo tốc độ hiển thị kim chỉ vạch ba chấm hai ki-lô-mét một giờ; {HERO} lướt đi nhẹ nhàng thanh thoát.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "điện tử và",
+      "layout": "Tấm kính sinh thiết biểu bì da cá: Lớp da collagen dày cộp bảy chấm năm xăng-ti-mét như lốp xe tăng; {DOC} dùng thước kẹp đo độ dày.",
+      "stickers": [
+        {
+          "at": "3.2 km/h",
+          "side": "L",
+          "y": 360,
+          "value": "3.2 KM/H",
+          "label": "vận tốc bơi thực tế",
+          "target": [
+            0.28,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "sinh thiết lớp",
+      "layout": "Kính hiển vi điện tử soi bề mặt da: Những chiếc gai vi thể li ti tiết ra màng chất nhờn trong suốt bao bọc cơ thể {HERO}.",
+      "stickers": [
+        {
+          "at": "7.5 cm",
+          "side": "R",
+          "y": 380,
+          "value": "7.5 CM",
+          "label": "độ dày da đệm",
+          "target": [
+            0.75,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "trên bề mặt",
+      "layout": "{HERO} bơi va vào tảng đá ngầm nhưng lớp da đệm đàn hồi bật nảy ra êm ru; {HERO} vẫn giữ nguyên ánh mắt vô tri cười toe toét.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": 0,
+      "layout": "Nhà bếp hải dương: Bàn ăn ngập tràn các đĩa cá ngừ béo ngậy và mực ống thơm lừng, nhưng {HERO} lắc đầu chê bai; {DOC} đứng cạnh ngạc nhiên.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "đàn cá ngừ",
+      "layout": "Cận cảnh chiếc miệng nhỏ xíu của {HERO}: Các răng hợp nhất thành chiếc mỏ vẹt cứng nhắc; phía trước là đàn {JELLYFISH} trôi lững lờ.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "nghiền con mồi",
+      "layout": "Thực đơn phân tích dinh dưỡng: Chiếc đĩa bày một con sứa trong suốt với nhãn dán thành phần gồm chín mươi chín phần trăm nước muối và một phần trăm thạch gelatin.",
+      "stickers": [
+        {
+          "at": "99%",
+          "side": "R",
+          "y": 360,
+          "value": "99%",
+          "label": "thực đơn sứa biển",
+          "target": [
+            0.75,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "tới 99% là",
+      "layout": "{HERO} hóa thân thành chiếc máy hút bụi đại dương, há to mỏ hút trọn từng đàn sứa biển trôi nổi như mì sợi vào bụng.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "lực như một",
+      "layout": "{DOC} cầm đèn pin soi sâu vào khoang miệng của {HERO}: Cụm răng họng nhọn hoắt xếp tầng tầng lớp lớp hướng cong vào trong như chiếc bẫy gai.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "đèn pin soi",
+      "layout": "Mô phỏng máy ép ly tâm: Chiếc cuống họng cá co bóp ép kiệt nước biển phun ra hai bên nắp mang, giữ lại mảng thạch sứa đậm đặc đẩy xuống dạ dày.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "sứa vào, chiếc",
+      "layout": "{HERO} lặn thẳng xuống vực sâu thẳm: Ánh sáng mặt trời tắt lịm, đại dương chuyển sang màu tím than sâu thẳm, đồng hồ đo độ sâu chỉ tám trăm mét.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "nước biển thừa",
+      "layout": "Vùng nước sâu băng giá: Nhiệt kế cắm xuống hiển thị mức nhiệt độ buốt giá bốn độ C; {HERO} vẫn ung dung đớp những con sứa khổng lồ phát quang sinh học.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "lặn thám hiểm",
+      "layout": "Lớp mỡ trắng ngà dày dưới da {HERO} phát sáng hào quang bảo vệ, giữ ấm cho các cơ quan nội tạng khỏi bị đóng băng.",
+      "stickers": [
+        {
+          "at": "800 mét",
+          "side": "L",
+          "y": 380,
+          "value": "800 M",
+          "label": "độ sâu lặn săn",
+          "target": [
+            0.3,
+            0.5
+          ]
+        },
+        {
+          "at": "4°C",
+          "side": "R",
+          "y": 360,
+          "value": "4°C",
+          "label": "nhiệt độ biển sâu",
+          "target": [
+            0.75,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "Nhờ lớp mỡ",
+      "layout": "{HERO} no nê vỗ bụng dưới đáy sâu, bắt đầu quạt vây hướng mũi bơi thẳng lên mặt nước tìm kiếm ánh mặt trời.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": 0,
+      "layout": "Mặt biển lấp lánh ánh nắng vàng: {HERO} ngoi lên mặt nước, lật nghiêng thân mình dẹt hai tấn nằm ngửa phơi bụng đón nắng như đang đi nghỉ dưỡng ở resort.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "bộ cơ thể",
+      "layout": "Cơ thể {HERO} biến thành tấm pin năng lượng mặt trời thu nhỏ, hấp thụ từng luồng nhiệt ấm áp từ mặt trời để sưởi ấm dòng máu lạnh giá.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "hấp thụ nhiệt",
+      "layout": "{NURSE} hoảng hốt chỉ tay vào kính phóng đại: Trên lưng và mang {HERO} là đàn ký sinh trùng nhiều chân lúc nhúc bò lổm ngổm.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "bác ơi! Đây",
+      "layout": "Bảng tổng kết da liễu: Hình ảnh bốn mươi loài ký sinh trùng khác nhau từ rận biển, giun tròn đến giáp xác bám đầy thân {HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "năm sao di",
+      "layout": "Ký sinh lồng ký sinh: Một con rận biển to bám trên da cá, trên lưng con rận lại có một cụm giun biển nhỏ xíu đẻ trứng; {DOC} lắc đầu cười trừ.",
+      "stickers": [
+        {
+          "at": "40 loài",
+          "side": "R",
+          "y": 360,
+          "value": "40 LOÀI",
+          "label": "ký sinh trùng bám da",
+          "target": [
+            0.75,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "mình! Nhưng Gã",
+      "layout": "Dịch vụ spa bãi biển mở màn: Đàn cá bướm và cá thiên thần sọc màu pastel rực rỡ bơi quanh {HERO}, chăm chỉ rỉa từng con rận biển.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "làm đẹp tự",
+      "layout": "{SEAGULL} thản nhiên hạ cánh đậu ngay trên má của {HERO} đang nổi ngửa, dùng mỏ mổ từng con ký sinh trùng béo mầm; {HERO} lim dim tận hưởng.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "nổi bồng bềnh, cần",
+      "layout": "Bức tranh toàn cảnh spa đại dương cộng sinh hài hòa giữa chim mòng biển trên trời, cá rỉa dưới nước và {HERO} phơi nắng hưởng thụ.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "vẫn chưa giải",
+      "layout": "{HERO} lặn xuống lấy đà dưới làn nước xanh ngắt, quạt vây hết tốc lực chuẩn bị cho một cú nhảy vọt thể thao chấn động.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "tốc lực rồi",
+      "layout": "Cú phóng vọt ngoạn mục: Khối thân hai tấn của {HERO} bay thẳng lên khỏi mặt biển cao ba mét giữa bầu trời nắng rực; bọt nước bắn tung tóe.",
+      "stickers": [
+        {
+          "at": "3 mét",
+          "side": "L",
+          "y": 380,
+          "value": "3 MÉT",
+          "label": "cú phóng vọt mặt nước",
+          "target": [
+            0.28,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "một tiếng vang",
+      "layout": "{HERO} rơi tự do đập bẹp cả tấm thân dẹt xuống mặt biển tạo làn sóng cuộn trào; lũ ký sinh trùng bị chấn động văng tứ tung ra ngoài.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": 0,
+      "layout": "{SEAL} hung hăng lao tới cắn rách một mảng vây của {HERO}; {HERO} bị cắn nhưng gương mặt vẫn đờ đẫn mỉm cười nhìn lên bầu trời không chút phản xạ sợ hãi.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "thường xuyên chứng",
+      "layout": "{DOC} và {NURSE} ôm mặt xót xa trước cảnh tượng; trên màn hình hiển thị biểu đồ chỉ số tự vệ và phản xạ trốn chạy của {HERO} ở mức số không tròn trĩnh.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "vẫn chỉ trơ",
+      "layout": "Đại dương mênh mông bừng sáng: {HERO} mẹ phóng thích một đám mây trứng khổng lồ phát sáng lấp lánh như dải ngân hà dưới làn nước biển.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "một trong số",
+      "layout": "Bảng kỷ lục Guinness đại dương: Dòng chữ ba trăm triệu quả trứng vàng son rực rỡ; chiếc cúp vô địch sinh sản động vật có xương sống đặt cạnh {HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "con cá mặt",
+      "layout": "Bức ảnh siêu âm ấu trùng: {BABY_MOLA} bé tí xíu chỉ dài hai mi-li-mét, nhỏ hơn hạt vừng đặt cạnh chiếc kim may áo của {DOC}.",
+      "stickers": [
+        {
+          "at": "300 triệu",
+          "side": "R",
+          "y": 360,
+          "value": "300 TRIỆU",
+          "label": "kỷ lục sinh sản trứng",
+          "target": [
+            0.75,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "thể so bì!",
+      "layout": "Phóng to {BABY_MOLA}: Tròn ung ủng với hàng chục chiếc gai nhọn hoắt chìa ra xung quanh như một phi thuyền ngoài hành tinh mini dễ thương.",
+      "stickers": [
+        {
+          "at": "2 mm",
+          "side": "L",
+          "y": 380,
+          "value": "2 MM",
+          "label": "kích thước ấu trùng",
+          "target": [
+            0.28,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "hình cực kỳ",
+      "layout": "Đàn ấu trùng phi thuyền tí hon bơi lăng quăng giữa các loài sinh vật phù du, những chiếc gai nhọn giúp xua đuổi các loài tôm tép ăn thịt.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "hon! Chiếc áo",
+      "layout": "Biểu đồ tiến hóa tăng trưởng thể trọng: Từ ấu trùng 2mm rụng dần gai, lớn dần thành cá nhỏ rồi hóa thành gã khổng lồ hai tấn; mũi tên tăng trưởng gấp sáu mươi triệu lần.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "trăng sơ sinh",
+      "layout": "{HERO} trưởng thành bơi bên cạnh đàn con tí hon; sự tương phản kích thước vĩ đại và kỳ diệu nhất của giới sinh vật biển.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "tí xíu ấy,",
+      "layout": "{DOC} đặt bút ký con dấu ĐÃ KIỂM ĐỊNH vào hồ sơ sinh sản của bệnh nhân với nụ cười khâm phục.",
+      "stickers": [
+        {
+          "at": "60 triệu",
+          "side": "R",
+          "y": 360,
+          "value": "X60 TRIỆU",
+          "label": "tăng trưởng thể trọng",
+          "target": [
+            0.75,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": 0,
+      "layout": "{DOC} đóng hồ sơ bệnh án số bốn mươi tư, mỉm cười gật gù; phía sau là bức tranh phong cảnh đại dương pastel tuyệt đẹp với {HERO} đang bình thản bơi lượn.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "thiên nhiên! Đôi",
+      "layout": "Triết lý sống vô tri: {HERO} trôi nhẹ nhàng giữa biển cả sóng gió, ánh nắng ấm áp chiếu rọi gương mặt an yên không màng danh lợi.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "tri dạy chúng",
+      "layout": "Màn hình tương tác người xem: Hai chiếc nút lựa chọn đồ họa pastel hài hước: Nút 1 là đầu cá hai tấn vô tư phơi nắng, Nút 2 là cỗ máy đẻ 300 triệu trứng.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "bạn một chỗ",
+      "layout": "{NURSE} giơ biển chỉ dẫn mời người xem để lại bình luận chẩn đoán bên dưới video.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "sinh sản 300",
+      "layout": "Hồ sơ mật tập 45 hé lộ: Một chú vẹt béo múp lông xanh rêu đang đứng đơ như bụi cây giữa khu rừng rậm New Zealand sương mù huyền ảo.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "số 45! Một",
+      "layout": "Chú vẹt béo trèo lên cành cây cao rồi nhảy ùm xuống đất đập mặt ngơ ngác hài hước; các dấu hỏi chấm xoay quanh đầu chú vẹt.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "thỉnh thoảng lại",
+      "layout": "Màn hình kết thúc: Dòng chữ HẸN GẶP LẠI Ở TẬP 45 VẸT KAKAPO lung linh với lời kêu gọi đăng ký kênh và ấn chuông theo dõi.",
+      "stickers": [],
+      "impacts": []
+    }
+  ],
+  "shorts": [
+    {
+      "at": 0,
+      "layout": "Cận cảnh mở đầu: {SEAL_S} bơi lại cắn xé vây của {HERO_S}; {HERO_S} nặng hai tấn vẫn nằm ngửa nhìn trời ngơ ngác vô cảm.",
+      "stickers": [
+        {
+          "at": "2 tấn",
+          "side": "L",
+          "y": 500,
+          "value": "2 TẤN",
+          "label": "gã khổng lồ",
+          "target": [
+            0.3,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "nằm ngửa nhìn",
+      "layout": "{HERO_S} to lớn như một chiếc xe tải bọc thép trôi dạt giữa đại dương; cơ thể cụt lủn không có đuôi cá thật.",
+      "stickers": []
+    },
+    {
+      "at": "cá có xương!",
+      "layout": "{HERO_S} bơi bằng hai cánh vây khổng lồ quạt nhịp nhàng; chiếc miệng tròn vo há hốc hút trọn những con sứa trong suốt.",
+      "stickers": []
+    },
+    {
+      "at": "thể cụt lủn",
+      "layout": "{HERO_S} lặn xuống vực biển sâu thẳm đen ngòm tám trăm mét, xung quanh nhiệt kế chỉ vạch buốt giá bốn độ C.",
+      "stickers": []
+    },
+    {
+      "at": "là sứa biển",
+      "layout": "{HERO_S} ngoi lên mặt biển thoáng nằm nghiêng phơi bụng đón nắng vàng sưởi ấm thân nhiệt.",
+      "stickers": []
+    },
+    {
+      "at": "cái lạnh 4°C.",
+      "layout": "{SEAGULL_S} đáp xuống đậu trên thân {HERO_S}, cần mẫn mổ rỉa sạch những con ký sinh trùng bám trên da.",
+      "stickers": []
+    },
+    {
+      "at": "dòng máu lạnh",
+      "layout": "{HERO_S} mẹ phóng thích hàng triệu quả trứng vàng phát sáng lấp lánh như dải ngân hà dưới làn nước biển xanh.",
+      "stickers": []
+    },
+    {
+      "at": "đẻ tới 300",
+      "layout": "Kỷ lục vô địch tuyệt đối: {HERO_S} cười toe toét bên chiếc cúp vàng sinh sản ba trăm triệu quả trứng; mời gọi đăng ký kênh xem trọn bộ tập 44.",
+      "stickers": [
+        {
+          "at": "300 triệu",
+          "side": "R",
+          "y": 520,
+          "value": "300 TRIỆU",
+          "label": "kỷ lục sinh sản",
+          "target": [
+            0.7,
+            0.5
+          ]
+        }
+      ]
+    }
+  ]
+}

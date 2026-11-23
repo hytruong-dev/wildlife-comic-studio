@@ -1,0 +1,30 @@
+# Python của PIPELINE (không phải VoiceStudio — VoiceStudio có venv riêng, xem SETUP_MAY_MOI.md).
+# Phiên bản khóa đúng như máy sản xuất gốc (23/11/2026, Python 3.14.4) để video ra giống hệt.
+# Cài: python -m pip install -r requirements.txt
+
+# Căn thời gian lời đọc (align) — model "small" tự tải lần đầu (~464MB)
+faster-whisper==1.2.1
+ctranslate2==4.8.4
+av==19.0.2
+tokenizers==0.23.3
+huggingface_hub==1.31.0
+onnxruntime==1.31.1
+
+# Render ảnh/video (longform_v2_renderer.py, shorts_v4_renderer.py, theme_effects.py)
+opencv-python==5.0.0.93
+numpy==2.5.1
+scipy==1.18.1
+scikit-image==0.26.0
+pillow==12.3.0
+soundfile==0.14.0
+ImageIO==2.38.1
+
+# SEO / nghiên cứu kênh (seo_research.py, episode_research.py, topic_demand.py, channel_outliers.py)
+yt-dlp==2026.10.26
+requests==2.34.2
+beautifulsoup4==4.15.0
+soupsieve==3.0.4
+
+# Công cụ cũ (Tập 1-5, whiteboard-director) — không cần cho tập mới nhưng vài script vẫn import
+edge-tts==7.3.1
+gTTS==2.5.4

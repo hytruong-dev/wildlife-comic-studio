@@ -1,0 +1,133 @@
+{
+ "title_lines": [
+  "ĐẨY BẠN XUỐNG BIỂN",
+  "ĐỂ THỬ HẢI CẨU?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Chú chim cánh cụt mặc",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "Bị cáo chỉ cao",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "70cm",
+     "side": "L",
+     "y": 620,
+     "value": "70 CM",
+     "label": "chiều cao bị cáo",
+     "target": [
+      0.45,
+      0.4
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Hiện trường: mép băng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "Vì dưới nước là",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "at": "3,5m",
+     "side": "R",
+     "y": 560,
+     "value": "3,5 M",
+     "label": "hải cẩu báo",
+     "target": [
+      0.5,
+      0.7
+     ]
+    },
+    {
+     "at": "500kg",
+     "side": "L",
+     "y": 900,
+     "value": "500 KG",
+     "label": "nặng như con bò",
+     "target": [
+      0.45,
+      0.75
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Thế là chen lên",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "Cả bầy nín thở",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "Bạn ấy bơi đi",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "Chưa hết, bị cáo",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "và bắn phân xa",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [
+    {
+     "at": "1,34m",
+     "side": "R",
+     "y": 620,
+     "value": "1,34 M",
+     "label": "tầm bắn",
+     "target": [
+      0.7,
+      0.62
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Nhưng khoan, nhiều nhà",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S13.png",
+   "stickers": []
+  },
+  {
+   "at": "chỉ là chen lấn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  },
+  {
+   "at": "Vậy bị cáo có",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": []
+  }
+ ]
+}

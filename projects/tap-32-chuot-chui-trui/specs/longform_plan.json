@@ -1,0 +1,912 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "CHÂN DUNG CỦ KHOAI TÂY BIẾT ĐI VÀ BỘ HÀM XUYÊN MÔI ĐÀO BÊ TÔNG",
+   "hook": "PHÒNG THÍ NGHIỆM CẤP 5: GIẢI MÃ MẪU VẬT XẤU XÍ NHẤT HÀNH TINH",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hôm nay, nằm trong",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chuột Chũi Trũi Đông Phi",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhìn thoáng qua",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trợ lý phòng lab",
+     "image": "assets/long/L06.png",
+     "stickers": [
+      {
+       "at": "8-10cm",
+       "side": "L",
+       "y": 340,
+       "value": "8-10cm",
+       "label": "chiều dài cơ thể",
+       "target": [
+        0.45,
+        0.55
+       ]
+      },
+      {
+       "at": "35g",
+       "side": "R",
+       "y": 400,
+       "value": "35g",
+       "label": "cân nặng tí hon",
+       "target": [
+        0.65,
+        0.65
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đừng để vẻ ngoài",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Dù cơ thể chỉ",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cơ thể nó lại",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy nhìn vào hai",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thiết kế kỳ quặc",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ vậy, khi nó",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đỉnh cao hơn nữa",
+     "image": "assets/long/L13.png",
+     "stickers": [
+      {
+       "at": "25%",
+       "side": "R",
+       "y": 360,
+       "value": "25% CƠ BẮP",
+       "label": "dồn vào bộ hàm",
+       "target": [
+        0.55,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "và hai chiếc răng",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa dừng lại ở đó",
+     "image": "assets/long/L15.png",
+     "stickers": [
+      {
+       "at": "40",
+       "side": "L",
+       "y": 360,
+       "value": "40 SỢI RÂU",
+       "label": "radar cảm biến 360°",
+       "target": [
+        0.5,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ dàn cảm biến này",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "MẪU VẬT #32"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "VÔ CẢM TRƯỚC AXIT ĂN MÒN VÀ CHẤT CAY ỚT HIỂM NHỜ KHÓA KÊNH THẦN KINH",
+   "hook": "THỬ NGHIỆM CẤP ĐỘ 1: TẠT AXIT VÀ ỚT HIỂM — PHẢN ỨNG BẰNG KHÔNG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2008",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "Năm 2008",
+       "side": "L",
+       "y": 350,
+       "value": "NĂM 2008",
+       "label": "phát hiện chấn động",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi nhỏ dung dịch",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ủa các bác sĩ",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chẳng hề nhăn mặt",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi mổ xẻ hệ thần kinh",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hoàn toàn thiếu vắng",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Độc đáo hơn nữa",
+     "image": "assets/long/L24.png",
+     "stickers": [
+      {
+       "at": "năm 2011",
+       "side": "R",
+       "y": 350,
+       "value": "NĂM 2011",
+       "label": "giải mã kênh NaV1.7",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Ở con người, khi",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng ở Chuột Chũi Trũi",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tức là axit đối với",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "giúp nó sống khỏe re",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "THỬ NGHIỆM CẤP 1"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "HÓA THÀNH THỰC VẬT ĐỐT ĐƯỜNG FRUCTOSE SỐNG 18 PHÚT Ở MỨC 0% OXY",
+   "hook": "THỬ NGHIỆM CẤP ĐỘ 2: RÚT CẠN 100% OXY TRONG BUỒNG KÍN SUỐT 18 PHÚT",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy tưởng tượng dưới",
+     "image": "assets/long/L30.png",
+     "stickers": [
+      {
+       "at": "2m",
+       "side": "L",
+       "y": 340,
+       "value": "SÂU 2M",
+       "label": "hầm kín dưới đất",
+       "target": [
+        0.35,
+        0.5
+       ]
+      },
+      {
+       "at": "300 con",
+       "side": "R",
+       "y": 420,
+       "value": "300 CÁ THỂ",
+       "label": "chen chúc thiếu khí",
+       "target": [
+        0.65,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nồng độ oxy ở đó",
+     "image": "assets/long/L31.png",
+     "stickers": [
+      {
+       "at": "60 giây",
+       "side": "R",
+       "y": 360,
+       "value": "60 GIÂY",
+       "label": "giới hạn chuột thường",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cảnh báo đỏ",
+     "image": "assets/long/L32.png",
+     "stickers": [
+      {
+       "at": "0%",
+       "side": "L",
+       "y": 330,
+       "value": "0% OXY",
+       "label": "môi trường chân không",
+       "target": [
+        0.3,
+        0.45
+       ]
+      },
+      {
+       "at": "50 nhịp/phút",
+       "side": "R",
+       "y": 410,
+       "value": "50 NHỊP/P",
+       "label": "nhịp tim tiết kiệm",
+       "target": [
+        0.7,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "1 phút trôi qua",
+     "image": "assets/long/L33.png",
+     "stickers": [
+      {
+       "at": "18 phút",
+       "side": "R",
+       "y": 360,
+       "value": "18 PHÚT",
+       "label": "sống sót ở 0% oxy",
+       "target": [
+        0.5,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thế nhưng ngay khoảnh khắc",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bí mật nằm ở",
+     "image": "assets/long/L35.png",
+     "stickers": [
+      {
+       "at": "năm 2017",
+       "side": "L",
+       "y": 360,
+       "value": "NĂM 2017",
+       "label": "giải mã trên Science",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi thiếu oxy",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng Chuột Chũi Trũi",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thông qua các bơm",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây vốn là cơ chế",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nói cách khác, khi",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "THỬ NGHIỆM CẤP 2"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "SIÊU KEO HYALURONIC ACID HMW-HA VÀ KHÓA KÉP CHỐNG UNG THƯ TUYỆT ĐỐI",
+   "hook": "THỬ NGHIỆM CẤP ĐỘ 3: KHIÊN CHẮN PHÂN TỬ BÓP NGHẸT MỌI KHỐI U",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thông thường, tới hơn",
+     "image": "assets/long/L42.png",
+     "stickers": [
+      {
+       "at": "70%",
+       "side": "L",
+       "y": 360,
+       "value": "70%",
+       "label": "tỷ lệ u ở chuột thường",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thế nhưng khi giáo sư",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "họ phát hiện một",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi kiểm tra dịch",
+     "image": "assets/long/L45.png",
+     "stickers": [
+      {
+       "at": "năm 2013",
+       "side": "R",
+       "y": 350,
+       "value": "NĂM 2013",
+       "label": "phát hiện siêu keo",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thủ phạm chính là",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở con người, hợp chất",
+     "image": "assets/long/L47.png",
+     "stickers": [
+      {
+       "at": "5 lần",
+       "side": "R",
+       "y": 360,
+       "value": "GẤP 5 LẦN",
+       "label": "siêu keo HMW-HA",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Lớp siêu keo",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ lớp đệm siêu",
+     "image": "assets/long/L49.png",
+     "stickers": [
+      {
+       "at": "180°",
+       "side": "L",
+       "y": 360,
+       "value": "QUAY 180°",
+       "label": "nhờ lớp da siêu giãn",
+       "target": [
+        0.5,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Quan trọng hơn cả",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở cơ thể người",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn ở Chuột Chũi Trũi",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ra lệnh đóng băng",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "THỬ NGHIỆM CẤP 3"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "ĐẾ CHẾ NỮ HOÀNG ĐỘC TÀI, NHÀ VỆ SINH CHUNG VÀ TỬ HUYỆT MÁU LẠNH",
+   "hook": "THỬ NGHIỆM CẤP ĐỘ 4: BÍ MẬT XÃ HỘI CÔN TRÙNG & TỬ HUYỆT TRỜI ĐÁNH",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 1981",
+     "image": "assets/long/L55.png",
+     "stickers": [
+      {
+       "at": "Năm 1981",
+       "side": "L",
+       "y": 350,
+       "value": "NĂM 1981",
+       "label": "xã hội côn trùng",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Một vương quốc ngầm",
+     "image": "assets/long/L56.png",
+     "stickers": [
+      {
+       "at": "3-5km",
+       "side": "L",
+       "y": 340,
+       "value": "DÀI 3-5KM",
+       "label": "mạng lưới địa đạo",
+       "target": [
+        0.35,
+        0.5
+       ]
+      },
+      {
+       "at": "300 cá thể",
+       "side": "R",
+       "y": 410,
+       "value": "300 CON",
+       "label": "1 Nữ Hoàng duy nhất",
+       "target": [
+        0.65,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tất cả nghe lệnh ta",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nữ Hoàng cai trị",
+     "image": "assets/long/L58.png",
+     "stickers": [
+      {
+       "at": "gần 30",
+       "side": "R",
+       "y": 360,
+       "value": "~30 CON",
+       "label": "cột sống tự kéo dài",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trong khi đó, hàng trăm",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đội công nhân phải",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và chi tiết lầy lội",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ tắm chung mùi",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thế nhưng vị hoàng đế",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở trong hang sâu",
+     "image": "assets/long/L64.png",
+     "stickers": [
+      {
+       "at": "30°C",
+       "side": "L",
+       "y": 350,
+       "value": "30°C ẤM ÁP",
+       "label": "nhiệt độ trong hang",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "nhưng nếu bị lôi",
+     "image": "assets/long/L65.png",
+     "stickers": [
+      {
+       "at": "15°C",
+       "side": "L",
+       "y": 350,
+       "value": "< 15°C",
+       "label": "lạnh cóng đơ người",
+       "target": [
+        0.3,
+        0.55
+       ]
+      },
+      {
+       "at": "35°C",
+       "side": "R",
+       "y": 410,
+       "value": "> 35°C",
+       "label": "sốc nhiệt ngay lập tức",
+       "target": [
+        0.7,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Để giữ ấm, cả đàn",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "THỬ NGHIỆM CẤP 4"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "TUỔI THỌ 37 NĂM PHÁ VỠ ĐỊNH LUẬT LÃO HÓA GOMPERTZ VÀ HÉ LỘ TẬP 33",
+   "hook": "BÁO CÁO NGHIỆM THU CẤP 5: BÍ MẬT TRƯỜNG THỌ BẤT TỬ & CÂU ĐỐ TẬP 33",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một con chuột nhắt",
+     "image": "assets/long/L68.png",
+     "stickers": [
+      {
+       "at": "2-3 năm",
+       "side": "L",
+       "y": 350,
+       "value": "2-3 NĂM",
+       "label": "tuổi thọ chuột thường",
+       "target": [
+        0.4,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thế nhưng Chuột Chũi Trũi",
+     "image": "assets/long/L69.png",
+     "stickers": [
+      {
+       "at": "37 năm",
+       "side": "R",
+       "y": 340,
+       "value": "37 NĂM!",
+       "label": "kỷ lục Chuột Chũi",
+       "target": [
+        0.6,
+        0.5
+       ]
+      },
+      {
+       "at": "12 lần",
+       "side": "L",
+       "y": 410,
+       "value": "X12 TUỔI",
+       "label": "tuổi thọ họ gặm nhấm",
+       "target": [
+        0.35,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nếu quy đổi sang",
+     "image": "assets/long/L70.png",
+     "stickers": [
+      {
+       "at": "800 tuổi",
+       "side": "R",
+       "y": 360,
+       "value": "~800 TUỔI",
+       "label": "quy đổi sang người",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2018",
+     "image": "assets/long/L71.png",
+     "stickers": [
+      {
+       "at": "3.000",
+       "side": "L",
+       "y": 360,
+       "value": "3.000 CON",
+       "label": "kiểm chứng 30 năm",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Ở mọi sinh vật khác",
+     "image": "assets/long/L72.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng ở loài chuột này",
+     "image": "assets/long/L73.png",
+     "stickers": [
+      {
+       "at": "30 tuổi",
+       "side": "R",
+       "y": 360,
+       "value": "30 TUỔI",
+       "label": "trẻ khỏe như 2 tuổi",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nó chính là chìa khóa",
+     "image": "assets/long/L74.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hội đồng khoa học thân mến",
+     "image": "assets/long/L75.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vô cảm trước axit",
+     "image": "assets/long/L80.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy ghi ngay đánh giá",
+     "image": "assets/long/L76.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và ngay trong hồ sơ",
+     "image": "assets/long/L77.png",
+     "stickers": [
+      {
+       "at": "-20°C",
+       "side": "L",
+       "y": 350,
+       "value": "-20°C",
+       "label": "băng giá Bắc Cực",
+       "target": [
+        0.45,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tại đó có một",
+     "image": "assets/long/L78.png",
+     "stickers": [
+      {
+       "at": "8 tháng",
+       "side": "R",
+       "y": 360,
+       "value": "8 THÁNG",
+       "label": "đóng băng thành đá",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tim ngừng đập hoàn toàn",
+     "image": "assets/long/L79.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "THỬ NGHIỆM CẤP 5"
+  }
+ }
+}

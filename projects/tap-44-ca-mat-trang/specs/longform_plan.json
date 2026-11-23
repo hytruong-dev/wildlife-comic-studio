@@ -1,0 +1,551 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "BỆNH ÁN GÃ KHỔNG LỒ 2 TẤN NGƠ NGÁC NHẤT ĐẠI DƯƠNG",
+   "hook": "BỆNH ÁN GÃ KHỔNG LỒ HAI TẤN CỤT ĐUÔI VÔ TRI NHẤT ĐẠI DƯƠNG",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [
+      {
+       "at": "10 tấn",
+       "side": "R",
+       "y": 360,
+       "value": "10 TẤN",
+       "label": "cần cẩu công nghiệp",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "tích 100 m³",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bọc thép, nhưng",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ạ! Con cá",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng tôi thường",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "mồi chớp nhoáng,",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nghiệm thể trọng",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cân nặng vượt",
+     "image": "assets/long/L08.png",
+     "stickers": [
+      {
+       "at": "2 tấn",
+       "side": "R",
+       "y": 380,
+       "value": "2 TẤN",
+       "label": "thể trọng kỷ lục",
+       "target": [
+        0.72,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "há hốc ra",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỒ SƠ BỆNH ÁN"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "CẤU TẠO XƯƠNG SỤN KỲ LẠ VÀ THÙY ĐUÔI CLAVUS CỤT NGỦN",
+   "hook": "CỖ MÁY SINH HỌC CỤT ĐUÔI BƠI BẰNG HAI CÁNH VÂY KHỔNG LỒ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đuôi cá thật",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "trình tiến hóa!",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sau đuôi gã",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "không có lực",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chép hay cá",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "này đồng nghĩa",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vây hậu môn dài",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "điện tử và",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "3.2 km/h",
+       "side": "L",
+       "y": 360,
+       "value": "3.2 KM/H",
+       "label": "vận tốc bơi thực tế",
+       "target": [
+        0.28,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "sinh thiết lớp",
+     "image": "assets/long/L19.png",
+     "stickers": [
+      {
+       "at": "7.5 cm",
+       "side": "R",
+       "y": 380,
+       "value": "7.5 CM",
+       "label": "độ dày da đệm",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "trên bề mặt",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "GIẢI PHẪU DỊ TẬT"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "CHẾ ĐỘ ĂN 99% NƯỚC VÀ CHUYẾN LẶN SÂU 800 MÉT",
+   "hook": "LẶN SÂU TÁM TRĂM MÉT SĂN SỨA DƯỚI CÁI LẠNH BỐN ĐỘ C",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đàn cá ngừ",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nghiền con mồi",
+     "image": "assets/long/L23.png",
+     "stickers": [
+      {
+       "at": "99%",
+       "side": "R",
+       "y": 360,
+       "value": "99%",
+       "label": "thực đơn sứa biển",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "tới 99% là",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lực như một",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đèn pin soi",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sứa vào, chiếc",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nước biển thừa",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lặn thám hiểm",
+     "image": "assets/long/L29.png",
+     "stickers": [
+      {
+       "at": "800 mét",
+       "side": "L",
+       "y": 380,
+       "value": "800 M",
+       "label": "độ sâu lặn săn",
+       "target": [
+        0.3,
+        0.5
+       ]
+      },
+      {
+       "at": "4°C",
+       "side": "R",
+       "y": 360,
+       "value": "4°C",
+       "label": "nhiệt độ biển sâu",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ lớp mỡ",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "THỰC ĐƠN KỲ LẶC"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "HÀNH VI NẰM NGHIÊNG PHƠI NẮNG VÀ KHÁCH SẠN KÝ SINH TRÙNG",
+   "hook": "NẰM PHƠI NẮNG BỂ BƠI ĐỂ HỒI PHỤC THÂN NHIỆT VÀ TRỊ LIỆU",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bộ cơ thể",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hấp thụ nhiệt",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bác ơi! Đây",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "năm sao di",
+     "image": "assets/long/L35.png",
+     "stickers": [
+      {
+       "at": "40 loài",
+       "side": "R",
+       "y": 360,
+       "value": "40 LOÀI",
+       "label": "ký sinh trùng bám da",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "mình! Nhưng Gã",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "làm đẹp tự",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nổi bồng bềnh, cần",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vẫn chưa giải",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tốc lực rồi",
+     "image": "assets/long/L40.png",
+     "stickers": [
+      {
+       "at": "3 mét",
+       "side": "L",
+       "y": 380,
+       "value": "3 MÉT",
+       "label": "cú phóng vọt mặt nước",
+       "target": [
+        0.28,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "một tiếng vang",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "SPA ĐẠI DƯƠNG"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "KỶ LỤC SINH SẢN ĐỈNH CAO BÙ ĐẮP CHỈ SỐ SINH TỒN CỰC THẤP",
+   "hook": "KỶ LỤC VÔ ĐỊCH ĐẺ BA TRĂM TRIỆU TRỨNG TRONG MỘT LẦN",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thường xuyên chứng",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vẫn chỉ trơ",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "một trong số",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "con cá mặt",
+     "image": "assets/long/L46.png",
+     "stickers": [
+      {
+       "at": "300 triệu",
+       "side": "R",
+       "y": 360,
+       "value": "300 TRIỆU",
+       "label": "kỷ lục sinh sản trứng",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "thể so bì!",
+     "image": "assets/long/L47.png",
+     "stickers": [
+      {
+       "at": "2 mm",
+       "side": "L",
+       "y": 380,
+       "value": "2 MM",
+       "label": "kích thước ấu trùng",
+       "target": [
+        0.28,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "hình cực kỳ",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hon! Chiếc áo",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "trăng sơ sinh",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tí xíu ấy,",
+     "image": "assets/long/L51.png",
+     "stickers": [
+      {
+       "at": "60 triệu",
+       "side": "R",
+       "y": 360,
+       "value": "X60 TRIỆU",
+       "label": "tăng trưởng thể trọng",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "CỖ MÁY SINH SẢN"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "ĐƠN THUỐC TIẾN HÓA VÀ THỬ THÁCH ĐOÁN TẬP 45",
+   "hook": "ĐƠN THUỐC TIẾN HÓA VÀ THỬ THÁCH ĐOÁN TẬP BỐN MƯƠI LĂM",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thiên nhiên! Đôi",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tri dạy chúng",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bạn một chỗ",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sinh sản 300",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "số 45! Một",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thỉnh thoảng lại",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "LỜI KẾT BỆNH ÁN"
+  }
+ }
+}

@@ -1,0 +1,585 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "ĐẠI HỘI SINH TỒN XẾP HẠNG 10 QUÁI KIỆT",
+   "hook": "10 QUÁI KIỆT – 1 NGÔI VƯƠNG",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và chỉ có một",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chào mừng toàn thể",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một bên là những",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một bên là băng",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn góc kia là",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Luật chơi rất đơn",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy chuẩn bị đồ",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và người mở màn",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "ĐẠI HỘI SINH TỒN"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "KOALA NHẬN HẠNG 10, GỌI TÊN HẠNG 9",
+   "hook": "HỌC GIẢ TƯỞNG LÀ ĐỒ GIẢ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không cần bàn cãi",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ủa hạng 10 là",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng đừng buồn, vì",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỏ vịt, đuôi hải",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HẠNG 9"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "THÚ MỎ VỊT LÊN BẢNG, GỌI TÊN HẠNG 8",
+   "hook": "THẤY GÌ CŨNG HÁ MỎ KẸP THỬ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thú Mỏ Vịt dán",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng nếu xét về",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chiếc mỏ chứa 13",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "13 lít",
+       "side": "L",
+       "y": 360,
+       "value": "13 LÍT",
+       "label": "túi mỏ chứa nước",
+       "target": [
+        0.66,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "từ chim bồ câu",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HẠNG 8"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "BỒ NÔNG CHỐT TẦNG LỖI TẠO HÓA, MỞ TẦNG TỘI PHẠM",
+   "hook": "BƯỚC VÀO THẾ GIỚI NGẦM",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chim Bồ Nông khép",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và bây giờ đèn",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kẻ mở màn mặc",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hồ sơ ghi rõ:",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "và bắn phân xa",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HẠNG 7"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "CÁNH CỤT VÀO TẦNG TỘI PHẠM, GỌI TÊN HẠNG 6",
+   "hook": "NẮM TAY NGỦ NHƯNG BẮT CÓC CON TIN",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa trả sỏi thì",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng nếu chú cánh",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thì bị cáo hạng 6",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tan chảy hàng triệu",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đòi tiền chuộc bằng",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HẠNG 6"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "RÁI CÁ VÀO TẦNG TỘI PHẠM, GỌI TÊN HẠNG 5",
+   "hook": "NỤ CƯỜI KHÔNG BAO GIỜ TẮT",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giấu búa đá dưới",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng dù ranh mãnh",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hạng 5... tổ chức",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chuyền cá nóc làm",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "không bao giờ tắt.",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HẠNG 5"
+  },
+  "scene07": {
+   "chapter_no": 7,
+   "title": "CÁ HEO CHỐT TẦNG TỘI PHẠM, MỞ HẠNG A",
+   "hook": "15KG DÁM CƯỚP MỒI GẤU XÁM",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ đây trở lên",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "những chiến binh đánh",
+     "image": "assets/long/L40.png",
+     "stickers": [
+      {
+       "at": "15kg",
+       "side": "L",
+       "y": 360,
+       "value": "15 KG",
+       "label": "gã liều mạng",
+       "target": [
+        0.55,
+        0.62
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Dám cướp mồi của",
+     "image": "assets/long/L41.png",
+     "stickers": [
+      {
+       "at": "300kg",
+       "side": "R",
+       "y": 330,
+       "value": "300 KG",
+       "label": "gấu xám bị cướp",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "để nhai cả xương",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "khiến cả bầy sói",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HẠNG 4"
+  },
+  "scene08": {
+   "chapter_no": 8,
+   "title": "CHỒN GULO GIỮ HẠNG A, MỞ KHÓA TOP 3",
+   "hook": "CÚ ĐẤM NÓNG NGANG MẶT TRỜI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo động đỏ Báo",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ba cái tên cuối",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mở màn Top 3",
+     "image": "assets/long/L47.png",
+     "stickers": [
+      {
+       "at": "20cm",
+       "side": "L",
+       "y": 380,
+       "value": "< 20 CM",
+       "label": "võ sĩ tí hon",
+       "target": [
+        0.55,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "nhưng cú đấm tạo",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hạng 3, Mike Tyson",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "TOP 3 HẠNG S"
+  },
+  "scene09": {
+   "chapter_no": 9,
+   "title": "TÔM TÍT NHẬN HẠNG S, GỌI TÊN Á QUÂN",
+   "hook": "BỊ RẮN HỔ MANG CẮN VẪN ĂN NỐT CON RẮN",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tôm Tít nhận huy",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng nếu Tôm Tít",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "gã giang hồ lưng",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bị rắn hổ mang",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tỉnh dậy... ăn nốt",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bằng cả cái chổi",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HẠNG 2"
+  },
+  "scene10": {
+   "chapter_no": 10,
+   "title": "LỬNG MẬT Á QUÂN, LỘ DIỆN NHÀ VÔ ĐỊCH",
+   "hook": "SỐNG SÓT CẢ NGOÀI VŨ TRỤ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng nếu một quả",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ còn đúng một",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kẻ ngồi trên đó",
+     "image": "assets/long/L60.png",
+     "stickers": [
+      {
+       "at": "1mm",
+       "side": "L",
+       "y": 360,
+       "value": "< 1 MM",
+       "label": "nhà vô địch tí hon",
+       "target": [
+        0.6,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "từng bị thả trần",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhưng có thể chết",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhà vô địch Đại",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HẠNG S+"
+  },
+  "scene11": {
+   "chapter_no": 11,
+   "title": "BẢNG PHONG THẦN CUỐI CÙNG & LỄ TRAO VƯƠNG MIỆN",
+   "hook": "BẠN XẾP AI LÊN NGÔI VƯƠNG?",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tầng Lỗi Tạo Hóa",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tầng Tội Phạm Cánh",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hạng A: Chồn Gulo",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và trên đỉnh tháp",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn bạn thì sao",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đại hội lần sau",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "TRAO VƯƠNG MIỆN"
+  }
+ }
+}

@@ -1,0 +1,1260 @@
+{
+ "_doc": "Meta của episode.json — TẬP ĐẶC BIỆT nội dung MỚI HOÀN TOÀN (không cắt ghép tập lẻ, render như tập thường, KHÔNG dùng assemble.py). Lời + ảnh ở content/sNN.md, shorts.md. Sinh lại: python src/mega/build_from_content.py projects/mega-02-dai-hoi-sinh-ton",
+ "episode_no": 0,
+ "animal": "10 quái kiệt — Đại Hội Sinh Tồn Mùa 2",
+ "slug": "mega-02-dai-hoi-sinh-ton",
+ "format": "F_SPECIAL",
+ "persona": "giai_dau",
+ "nickname": "Đại Hội Sinh Tồn",
+ "sources": [
+  "Tôm Súng: Versluis et al. (2000), Science — Bong bóng cavitation 5.000 K và hiện tượng sonoluminescence",
+  "Tôm Súng: Lohse et al. (2001), Nature — Vận tốc nước 100 km/h và áp suất nổ 218 dB",
+  "Tôm Súng: Johnson et al. (1947), US Navy Reports — Âm thanh tôm súng làm nhiễu sóng sonar tàu ngầm Thế chiến II",
+  "Lươn Điện: de Santana et al. (2019), Nature Communications — Kỷ lục phóng điện 860V ở loài Electrophorus voltai",
+  "Lươn Điện: Catania, K. C. (2014), Science — Xung kép 2ms điều khiển cơ bắp con mồi từ xa",
+  "Lươn Điện: Catania, K. C. (2016), PNAS — Cú nhảy dí cằm trực tiếp truyền trọn nguồn điện vào tim kẻ săn mồi",
+  "Bọ Pháo Thủ: Arndt et al. (2015), Science — Cấu trúc 2 buồng đốt và van điều khiển phun nổ 500 lần/giây ở 100°C",
+  "Bọ Pháo Thủ: Sugiura, S. (2018), Biology Letters — 64.3% bọ pháo thủ sống sót thoát khỏi dạ dày cóc sau 1 giờ",
+  "Cá Cung Thủ: Schuster et al. (2006), Current Biology — Tính toán độ lệch khúc xạ ánh sáng theo định luật Snell",
+  "Cá Cung Thủ: Gerullis & Schuster (2014), Current Biology — Điều chỉnh hình dạng tia nước nén để đạt lực va chạm cực đại",
+  "Thằn Lằn Quỷ Gai: Comanns et al. (2017), J. Exp. Biol. — Rãnh mao dẫn 5-150 μm hút nước ngược trọng lực lên khóe miệng",
+  "Thằn Lằn Quỷ Gai: Pianka, E. R. (1986), Princeton University Press — Khẩu phần ăn 1.000 đến 2.500 con kiến Iridomyrmex mỗi ngày",
+  "Hà Mã: Eltringham, S. K. (1999), Academic Press — Lực cắn 1.800 PSI, mật độ xương cao không thể nổi trên nước",
+  "Hà Mã: Saikawa et al. (2004), Nature — Mồ hôi đỏ chứa axit hipposudoric kháng khuẩn và chống nắng phổ rộng",
+  "Con Lười: Foley et al. (1995), Physiological Zoology — Thời gian tiêu hóa 30 ngày/lá và giảm 30-33% cân nặng khi đi vệ sinh",
+  "Con Lười: Pauli et al. (2014), Proc. R. Soc. B — Mối quan hệ cộng sinh tam giác giữa lười, bướm đêm và tảo xanh",
+  "Chim Tu Hú: Brooke & Davies (1988), Nature — Đẻ trộm trứng trong 10 giây và ngụy trang hoa văn 99%",
+  "Chim Tu Hú: Hoover & Robinson (2007), PNAS — Chiến thuật mafia trả thù 56% tổ dám vứt trứng ký sinh",
+  "Capybara: Herrera & Macdonald (1993), J. Zoology — Tuyến morillo trên mũi và tập tính xã hội bầy đàn",
+  "Capybara: Borges et al. (1996), J. Mammalogy — Tập tính cecotrophy ăn lại phân sáng sớm để hấp thụ protein",
+  "Gấu Trúc Lớn: Nie et al. (2015), Science — Tỷ lệ trao đổi chất cực thấp ngang con lười để thích nghi với chế độ ăn tre",
+  "Gấu Trúc Lớn: Endo et al. (1999), Nature — Cấu trúc ngón tay giả thứ sáu từ xương cổ tay để kẹp cành trúc",
+  "Ứng dụng sinh học Tôm Súng: NASA JPL & ĐH Harvard — Thiết bị siêu âm y tế phá sỏi thận bằng sóng cavitation",
+  "Ứng dụng sinh học Lươn Điện: Schroeder et al. (2017), Nature — Pin sinh học nano tự sạc bên trong cơ thể người",
+  "Ứng dụng sinh học Bọ Pháo Thủ: Beheshti & McIntosh (2007), Biomimetics — Vòi phun sương vi mô cho động cơ tên lửa và máy dập lửa",
+  "Gấu Trúc Lớn: Wei, F. et al. (2020), PNAS — Tắm phân ngựa chứa BCP/BCPO ức chế thụ thể lạnh TRPM8",
+  "Gấu Trúc Lớn: Nokelainen, O. et al. (2021), Scientific Reports — Ngụy trang màu trắng đen trong rừng",
+  "Gấu Trúc Lớn: Nie, Y. et al. (2015), Science — Đột biến gen DUOX2 giảm hormone tuyến giáp T4",
+  "Gấu Trúc Lớn: Xue, Z. et al. (2015), mBio — Hệ vi sinh đường ruột ăn thịt (Escherichia/Streptococcus)",
+  "Gấu Trúc Lớn: Yan, X. et al. (2012), Gene — Peptit kháng khuẩn cathelicidin-AM diệt khuẩn dưới 1 giờ",
+  "Gấu Trúc Lớn: Swaisgood, R. et al. — Hành vi trồng cây chuối đánh dấu mùi trên thân cây cao",
+  "Hà Mã: Schoelynck, J. et al. (2019), Science Advances — Bơm 0,4 tấn Silicon/ngày (76% dòng chảy sông Mara)",
+  "Hà Mã: Barklow, W. E. (2004) — Thính giác lưỡng cư dẫn truyền âm thanh dưới nước qua xương hàm dưới",
+  "Hà Mã: Saikawa, Y. et al. (2004), Nature — Dịch tiết trong suốt chuyển đỏ-nâu hấp thụ tia UV 200-600nm",
+  "Con Lười: Higginbotham, S. et al. (2014), PLOS ONE — 84 chủng nấm trên lông diệt sốt rét và ung thư vú MCF-7",
+  "Con Lười: Cliffe, R. N. et al. (2014), Biology Letters — Dây chằng xơ treo nội tạng giảm 13% năng lượng thở",
+  "Chim Tu Hú: Welbergen, J. & Davies, N. B. (2011), Behavioral Ecology — Cải trang chim ưng sẻ giảm đánh đuổi",
+  "Chim Tu Hú: Willemoes, M. et al. (2014), PLOS ONE — Định vị vệ tinh bay vòng khép kín 16.000 km/năm",
+  "Capybara: Nogueira, S. S. C. et al. (2000) — Nuôi con tập thể alloparenting không phân biệt con mình con bạn",
+  "Tôm Súng: Duffy, J. E. (1996), Nature — Loài tôm Synalpheus regalis sống xã hội bậc cao 300 con/1 Tôm Chúa",
+  "Tôm Súng: Staack, D. & Tang, X. (2019), Science Advances / Texas A&M — Súng plasma 3D hiệu suất gấp 10 lần laser",
+  "Lươn Điện: Bastos, D. A. et al. (2021), Ecology & Evolution — Đàn >100 con săn mồi tập thể tại sông Iriri Brazil",
+  "Lươn Điện: Schroeder, T. B. H. et al. (2017), Nature — Pin sinh học mềm hydrogel 110V mô phỏng tế bào điện",
+  "Bọ Pháo Thủ: McIntosh, A. C. & Beheshti, N. (2007), Bioinspiration & Biomimetics — Công nghệ phun sương µMist cứu hỏa 10m",
+  "Thằn Lằn Quỷ Gai: Comanns, P. et al. (2016), J. Exp. Biol. — Nhấp nháy 2.500 lần/giờ & hắt cát ẩm lên lưng",
+  "Cá Cung Thủ: Newport, C. et al. (2016), Scientific Reports — Nhận diện 44 khuôn mặt người chính xác 81-86%"
+ ],
+ "whisper_prompt": "Đại Hội Sinh Tồn, Mùa 2, Vẽ Chuyện Hoang Dã, Gấu Trúc, Hà Mã, Con Lười, Chim Tu Hú, Capybara, Tôm Súng, Lươn Điện, Bọ Pháo Thủ, Thằn Lằn Quỷ Gai, Cá Cung Thủ, Tứ Xuyên, Amazon, Pantanal, Alice Springs, 218 dB, 5.000°C, 860V, 100°C, 500 lần/giây, 1.800 PSI, 2.500 con kiến, cavitation, sonoluminescence, electrocytes, hydroquinone, Snell, morillo, cecotrophy",
+ "display_fix": {
+  "hai mươi tư giờ": "24 giờ",
+  "Hai mươi tư giờ": "24 giờ",
+  "hai trăm mười tám đề-xi-ben": "218 dB",
+  "Hai trăm mười tám đề-xi-ben": "218 dB",
+  "tám trăm sáu mươi Vôn": "860V",
+  "Tám trăm sáu mươi Vôn": "860V",
+  "sáu trăm Vôn": "600V",
+  "bốn trăm Vôn": "400V",
+  "mười Vôn": "10V",
+  "năm ngàn độ C": "5.000°C",
+  "Năm ngàn độ C": "5.000°C",
+  "một trăm độ C": "100°C",
+  "Một trăm độ C": "100°C",
+  "bốn mươi lăm độ C": "45°C",
+  "năm mươi độ C": "50°C",
+  "dưới mười độ C": "dưới 10°C",
+  "một ngàn tám trăm P-S-I": "1.800 PSI",
+  "Một ngàn tám trăm P-S-I": "1.800 PSI",
+  "năm trăm lần mỗi giây": "500 lần/giây",
+  "Năm trăm lần mỗi giây": "500 lần/giây",
+  "năm trăm phát": "500 phát",
+  "hai ngàn năm trăm": "2.500",
+  "Hai ngàn năm trăm": "2.500",
+  "một ngàn": "1.000",
+  "Một ngàn": "1.000",
+  "sáu ngàn": "6.000",
+  "Sáu ngàn": "6.000",
+  "hai trăm bảy mươi độ": "270°",
+  "chín mươi độ": "90°",
+  "ba mét": "3m",
+  "Ba mét": "3m",
+  "hai mét": "2m",
+  "Hai mét": "2m",
+  "ba tấn": "3 tấn",
+  "Ba tấn": "3 tấn",
+  "sáu mươi lăm ki-lô-gam": "65kg",
+  "Sáu mươi lăm ki-lô-gam": "65kg",
+  "hai mươi ki-lô-gam": "20kg",
+  "hai mươi xăng-ti-mét": "20cm",
+  "mười xăng-ti-mét": "10cm",
+  "năm xăng-ti-mét": "5cm",
+  "bốn xăng-ti-mét": "4cm",
+  "ba xăng-ti-mét": "3cm",
+  "hai xăng-ti-mét": "2cm",
+  "mười giây": "10 giây",
+  "Mười giây": "10 giây",
+  "ba mươi giây": "30 giây",
+  "hai mili-giây": "2 mili-giây",
+  "một phần mười giây": "1/10 giây",
+  "ba mươi ngày": "30 ngày",
+  "Ba mươi ngày": "30 ngày",
+  "mười bốn tiếng": "14 tiếng",
+  "Mười bốn tiếng": "14 tiếng",
+  "năm phút": "5 phút",
+  "mười lăm phút": "15 phút",
+  "một tiếng": "1 tiếng",
+  "Một tiếng": "1 tiếng",
+  "tám cây số một giờ": "8 km/h",
+  "ba mươi lăm cây số một giờ": "35 km/h",
+  "một trăm cây số một giờ": "100 km/h",
+  "tám mươi phần trăm": "80%",
+  "Tám mươi phần trăm": "80%",
+  "năm mươi sáu phần trăm": "56%",
+  "chín mươi chín phần trăm": "99%",
+  "một trăm phần trăm": "100%",
+  "Một trăm phần trăm": "100%",
+  "một phần ba": "1/3",
+  "Một phần ba": "1/3",
+  "năm mươi phần trăm": "50%",
+  "Năm mươi phần trăm": "50%",
+  "hai mươi phần trăm": "20%",
+  "gấp ba lần": "gấp 3 lần",
+  "Gấp ba lần": "gấp 3 lần",
+  "gấp bốn lần": "gấp 4 lần",
+  "gấp hai lần": "gấp 2 lần",
+  "gấp mười lần": "gấp 10 lần",
+  "gấp đôi": "gấp đôi",
+  "Mùa hai": "Mùa 2",
+  "mùa hai": "mùa 2",
+  "Tập mười tám": "Tập 18",
+  "Tập hai mươi": "Tập 20",
+  "Năm hai ngàn mười chín": "Năm 2019",
+  "năm hai ngàn mười chín": "năm 2019",
+  "Năm hai ngàn mười tám": "Năm 2018",
+  "năm hai ngàn mười tám": "năm 2018",
+  "Năm hai ngàn mười sáu": "Năm 2016",
+  "Năm hai ngàn mười lăm": "Năm 2015",
+  "Năm hai ngàn mười bốn": "Năm 2014",
+  "năm hai ngàn mười bốn": "năm 2014",
+  "Năm hai ngàn lẻ bảy": "Năm 2007",
+  "năm hai ngàn lẻ một": "năm 2001",
+  "Năm hai ngàn": "Năm 2000",
+  "Năm một ngàn chín trăm bốn mươi bảy": "Năm 1947",
+  "A-ma-dôn": "Amazon",
+  "Pan-ta-nan": "Pantanal",
+  "Tứ Xuyên": "Tứ Xuyên",
+  "Xen-xi-út": "Celsius",
+  "Kê-vin": "Kelvin",
+  "Xo-nar": "Sonar",
+  "Na-sa": "NASA",
+  "Xơ-nen": "Snell",
+  "mười bảy phần trăm": "17%",
+  "Mười bảy phần trăm": "17%",
+  "tám mươi ba phần trăm": "83%",
+  "Tám mươi ba phần trăm": "83%",
+  "ba mươi tám ký": "38kg",
+  "bốn mươi lần": "40 lần",
+  "ba mươi phần trăm": "30%",
+  "Ba mươi phần trăm": "30%",
+  "chông sắt": "chông sắt",
+  "100 km/h": "100 km/h",
+  "218 dB": "218 dB",
+  "5.000°C": "5.000°C",
+  "860V": "860V",
+  "500 phát": "500 phát",
+  "100°C": "100°C",
+  "1.800 PSI": "1.800 PSI",
+  "3m": "3m",
+  "2 mili-giây": "2 mili-giây",
+  "5cm": "5cm",
+  "10cm": "10cm",
+  "270°": "270°",
+  "30 ngày": "30 ngày",
+  "1/3": "1/3",
+  "56%": "56%",
+  "1 tiếng": "1 tiếng",
+  "30 giây": "30 giây",
+  "8 km/h": "8 km/h",
+  "15 phút": "15 phút",
+  "bốn mươi bốn": "44",
+  "tám mươi mốt": "81",
+  "tám mươi sáu phần trăm": "86%",
+  "hai mươi phẩy sáu phần trăm": "20,6%",
+  "tám mươi bốn": "84",
+  "bảy mươi tư": "74",
+  "mười lăm phần tỷ giây": "15 phần tỷ giây",
+  "một trăm mười Vôn": "110V",
+  "một trăm mười ki-lô-gam": "110kg",
+  "một trăm ki-lô-gam": "100kg",
+  "bốn ki-lô-gam": "4kg",
+  "năm ki-lô-gam": "5kg",
+  "một trăm mười gam": "110g",
+  "bốn mươi gam": "40g",
+  "hai trăm gam": "200g",
+  "mười hai đến ba mươi lăm mét": "12-35m",
+  "ba mươi lăm mét": "35m",
+  "một đến năm trăm mi-crô-mét": "1-500 μm",
+  "một trăm mili-ba": "100 mbar",
+  "chín mươi phần trăm": "90%",
+  "bốn mươi lăm phần trăm": "45%",
+  "bốn mươi sáu phẩy chín phần trăm": "46,9%",
+  "năm mươi lăm phần trăm": "55%",
+  "năm phần trăm": "5%",
+  "mười một phần trăm": "11%",
+  "mười lăm độ C": "15°C",
+  "âm năm độ C": "-5°C",
+  "âm năm": "-5",
+  "hai mươi hai độ C": "22°C",
+  "hai mươi độ": "20 độ",
+  "bảy mươi sáu phần trăm": "76%",
+  "hai mươi bốn phần trăm": "24%",
+  "không phẩy bốn tấn": "0,4 tấn",
+  "bốn trăm ký": "400kg",
+  "một phẩy năm phần trăm": "1,5%",
+  "ba đến bốn ki-lô-gam": "3-4kg",
+  "mười sáu ngàn cây số": "16.000km",
+  "năm ngàn cây số": "5.000km",
+  "một trăm sáu mươi bốn cây số": "164km",
+  "năm gam": "5g",
+  "một mét hai đến một mét tám": "1,2-1,8m",
+  "hai đến mười con": "2-10 con",
+  "mười ngàn năm": "10.000 năm",
+  "sáu mét": "6m",
+  "bốn tấn": "4 tấn",
+  "tám triệu năm": "8 triệu năm",
+  "năm mươi chín phần trăm": "59%",
+  "hai mươi hai phần trăm": "22%",
+  "một phẩy hai mươi tám gam": "1,28g",
+  "một phẩy ba mươi hai gam": "1,32g",
+  "không phẩy bảy mi-crô-lít": "0,7 μl",
+  "bảy giờ ba mươi": "07:30",
+  "năm giờ chiều": "17:00",
+  "hai ngàn khung hình": "2.000 fps",
+  "năm trăm đến một ngàn lần": "500-1.000 lần",
+  "mười mét": "10m",
+  "mười hai điểm": "12 điểm",
+  "tám điểm": "8 điểm",
+  "bảy điểm": "7 điểm",
+  "sáu điểm": "6 điểm",
+  "năm điểm": "5 điểm",
+  "bốn điểm": "4 điểm",
+  "ba điểm": "3 điểm",
+  "hai điểm": "2 điểm",
+  "một điểm": "1 điểm",
+  "mười lăm điểm": "15 điểm",
+  "Tám mươi bốn": "84",
+  "Hai mươi phẩy sáu": "20,6",
+  "Bảy mươi bốn": "74",
+  "Bốn mươi bốn": "44",
+  "Mười sáu ngàn": "16.000",
+  "Ba trăm": "300",
+  "ba trăm": "300",
+  "Một trăm": "100",
+  "một trăm": "100",
+  "tám trăm Oát": "800W",
+  "một Am-pe": "1A",
+  "một cây số": "1km",
+  "một phần tỷ giây": "1 phần tỷ giây",
+  "hai phân": "2cm",
+  "chỉ dưới ba mươi xăng-ti-mét": "<30cm",
+  "chỉ bốn": "4",
+  "số 44": "44",
+  "44 khuôn mặt": "44 khuôn mặt",
+  "16.000km": "16.000km",
+  "bốn mươi tám": "48",
+  "bốn mươi lăm": "45",
+  "hai mươi": "20",
+  "mười hai": "12",
+  "mười một": "11",
+  "tám mươi": "80",
+  "một trăm mười lăm": "115",
+  "mười lăm": "15",
+  "hai mươi hai": "22",
+  "bốn mươi": "40",
+  "sáu triệu lần": "6.000.000 lần",
+  "mười phút": "10 phút",
+  "năm giây": "5 giây",
+  "một phút": "1 phút",
+  "bốn năm con": "4-5 con",
+  "tám đến mười": "8-10",
+  "hai ba vòng": "2-3 vòng",
+  "38 đoạn": "38 đoạn",
+  "ba mươi tám": "38",
+  "tám chú": "8 chú",
+  "chín chú": "9 chú",
+  "bảy chú": "7 chú",
+  "một trăm năm mươi": "150",
+  "bốn mươi mili-giây": "40ms",
+  "ba mươi tám mét": "38m",
+  "hai trăm đến sáu trăm na-nô-mét": "200-600nm",
+  "hai mươi bốn độ C": "24°C",
+  "ba mươi ba độ C": "33°C",
+  "mười bốn phần trăm": "14%",
+  "mười bốn": "14",
+  "một ngàn vôn": "1.000V",
+  "ba mươi xăng-ti-mét": "30cm",
+  "ba trăm tám mươi chín cây số một giờ": "389 km/h",
+  "ba tháng": "3 tháng",
+  "một giờ đồng hồ": "1 giờ",
+  "sáu giờ": "6 giờ",
+  "chín trăm lần": "900 lần",
+  "một trăm gam": "100g",
+  "chín trăm con": "900 con",
+  "bảy mươi": "70",
+  "hai triệu năm": "2 triệu năm",
+  "một trăm năm mươi độ": "150 độ",
+  "năm mươi chín": "59",
+  "một trăm bốn mươi": "140",
+  "năm mươi chú": "50 chú",
+  "ba đến bốn tháng": "3-4 tháng",
+  "tám mươi loài": "80 loài",
+  "Tập mười một": "Tập 11",
+  "Tập mười chín": "Tập 19",
+  "Mùa ba": "Mùa 3",
+  "Đu-ốc hai": "DUOX2",
+  "Tê-rờ-pê-mờ tám": "TRPM8",
+  "Mờ-xê-ép bảy": "MCF-7",
+  "Tê bốn": "T4",
+  "mười ba phần trăm": "13%",
+  "Mười sáu": "16",
+  "mười sáu": "16",
+  "mười tám": "18",
+  "hàng trăm năm": "hàng trăm năm",
+  "triệu năm": "triệu năm",
+  "ngàn năm": "ngàn năm",
+  "Không một": "Không một",
+  "ba chiều": "3D",
+  "mười giờ": "10:00",
+  "một giờ": "1 giờ",
+  "bảy lần": "7 lần",
+  "gấp bảy lần": "gấp 7 lần",
+  "mười sáu tiếng": "16 tiếng",
+  "ba mươi độ": "30 độ",
+  "bốn mươi hai": "42",
+  "ba mươi ba": "33",
+  "hai mươi tư": "24",
+  "hai mươi mốt": "21",
+  "tám trăm": "800",
+  "năm trăm": "500",
+  "bốn trăm": "400",
+  "hai trăm": "200",
+  "sáu mươi": "60",
+  "năm mươi": "50",
+  "ba mươi": "30",
+  "hai mươi lăm": "25",
+  "mười bảy": "17",
+  "mười ba": "13",
+  "năm hai ngàn hai mươi mốt": "năm 2021",
+  "năm hai ngàn hai mươi": "năm 2020",
+  "năm hai ngàn mười bảy": "năm 2017",
+  "năm hai ngàn mười sáu": "năm 2016",
+  "năm hai ngàn mười lăm": "năm 2015",
+  "năm hai ngàn mười hai": "năm 2012",
+  "năm hai ngàn mười một": "năm 2011",
+  "năm hai ngàn lẻ bốn": "năm 2004",
+  "một ngàn chín trăm chín mươi sáu": "1996",
+  "năm hai ngàn": "năm 2000",
+  "chín trăm chín mươi sáu": "996",
+  "mười ngày": "10 ngày",
+  "sáu lần": "6 lần",
+  "năm lần": "5 lần",
+  "một giây": "1 giây",
+  "một con": "1 con",
+  "hàng trăm mét": "hàng trăm mét",
+  "hàng triệu con": "hàng triệu con",
+  "hàng ngàn con": "hàng ngàn con",
+  "vài phần nghìn giây": "vài phần nghìn giây",
+  "vài phần nghìn xăng-ti-mét": "vài phần nghìn cm"
+ },
+ "voice": {
+  "min_long_s": 3600
+ },
+ "art": {
+  "decor": "golden arena trophies, tournament brackets, neon lightning sparks, high-pressure steam, gear cogs, golden stars",
+  "shorts_mascot": "A spirited cartoon host wearing a red tuxedo and golden bow tie holding a microphone and a golden trophy, surrounded by 10 animal champions",
+  "thumb_bg": "đấu trường La Mã hoạt hình khổng lồ rực lửa đêm sa mạc với các luồng sét và pháo hoa vàng rực rỡ tỏa ra từ chiếc cúp vàng",
+  "thumb_title": [
+   "ĐẠI HỘI SINH TỒN #2",
+   "10 VŨ KHÍ HỦY DIỆT"
+  ],
+  "thumb_badge": "TẬP ĐẶC BIỆT",
+  "thumb_scene": "chiếc bục vô địch cao nhất ở giữa đang để một chiếc vương miện vàng phát sáng dưới ánh đèn spotlight kèm một BÓNG ĐEN BÍ ẨN và dấu hỏi chấm '?' màu đỏ rực (không lộ người thắng), xung quanh là Tôm Súng giơ càng, Lươn Điện phóng sét xanh, Hà Mã há miệng và Gấu Trúc nhìn nhau gườm gườm thách đấu cực căng",
+  "thumb_prop": "",
+  "thumb_gag": "chú Chuột Lang Nước Capybara đội mũ phớt ngồi uống trà điềm tĩnh và chú Con Lười treo ngược ngủ khò ở góc dưới phải"
+ },
+ "seo": {
+  "title": "[TẬP ĐẶC BIỆT] 10 Quái Kiệt Tranh Đoạt Vương Miện Vũ Khí Sinh Học: Ai Lên Ngôi Vô Địch?",
+  "hook_paragraph": "Mười cỗ máy sinh học kỳ dị nhất từ Tập 11 đến Tập 20 trên kênh Vẽ Chuyện Hoang Dã — Gấu Trúc Lớn, Hà Mã, Con Lười, Chim Tu Hú, Capybara, Tôm Súng, Lươn Điện, Bọ Pháo Thủ, Thằn Lằn Quỷ Gai và Cá Cung Thủ — bước vào ĐẠI HỘI SINH TỒN MÙA 2 với 8 vòng đấu kịch tính và các giải phụ: đọ hỏa lực hủy diệt, xạ thủ bắn tỉa, giáp bọc thép, trao đổi chất dị thường, thao túng tâm lý ngoại giao, kỹ năng đào tẩu thần tốc, phúc khảo tin đồn và chung kết món quà cho nhân loại. Toàn bộ 100% sự thật khoa học MỚI chưa từng kể trong các tập lẻ: Tôm Súng búng nước 5.000°C làm nhiễu sóng sonar hải quân, Lươn Điện 860V dí cằm ngất cá sấu, Bọ Pháo Thủ nổ 500 phát/s thoát khỏi dạ dày cóc, Thằn Lằn Quỷ Gai hút nước từ bàn chân, Hà Mã chạy đáy sông, Con Lười tiêu hóa 30 ngày… và một nhà vô địch không ai ngờ tới!",
+  "bullets": [
+   "Vòng 1 – Hỏa lực hủy diệt: Cú búng cavitation 218 dB / 5.000°C, điện 860V, đại bác 100°C, lực cắn 1.800 PSI",
+   "Vòng 2 – Xạ thủ bắn tỉa: Cá Cung Thủ tính khúc xạ ánh sáng Snell, Bọ Pháo Thủ xoay nòng 270°, Lươn Điện hack não xung kép",
+   "Vòng 3 – Giáp phòng thủ: Quỷ Gai phồng cầu gai 90° & đầu giả, Hà Mã mồ hôi đỏ kháng khuẩn, Con Lười áo giáp rêu xanh",
+   "Vòng 4 – Tiêu hóa dị thường: Gấu Trúc nhai tre 14h, Con Lười 30 ngày/lá, Capybara cecotrophy, Quỷ Gai 2.500 kiến độc",
+   "Vòng 5 – Ngoại giao & Thao túng: Capybara làm bạn cá sấu, Tu Hú siêu kích thích họng đỏ & mafia bảo kê, Lươn Điện radar bùn",
+   "Vòng 6 – Đào tẩu thần tốc: Bọ Pháo Thủ thoát bụng cóc sau 1h, Quỷ Gai lặn cát 30s & dáng đi robot lá khô, Con Lười bơi vượt sông",
+   "Vòng 7 – Phúc khảo tin đồn: Hà Mã chạy đáy sông không bơi, Quỷ Gai không bắn máu từ mắt, Lươn Điện không phải lươn",
+   "Chung kết – Món quà nhân loại: Sóng siêu âm Tôm Súng phá sỏi thận, pin nano Lươn Điện, vòi phun tên lửa Bọ Pháo Thủ"
+  ],
+  "question": "Nếu bạn là giám khảo, bạn sẽ trao chiếc vương miện Mùa 2 cho quái kiệt nào? Hãy viết tên nhà vô địch của bạn ở phần bình luận nhé!",
+  "next_teaser": "Đại Hội Sinh Tồn Mùa 3 — 10 dị nhân tái sinh và siêu năng lực (Ếch Lông Wolverine, Kỳ Nhông Axolotl, Hải Sâm...)",
+  "hashtags": [
+   "#VeChuyenHoangDa",
+   "#TheGioiDongVat",
+   "#DaiHoiSinhTon",
+   "#MegaCompilation",
+   "#DongVatKyLa",
+   "#KhoaHoc"
+  ],
+  "tags": [
+   "vẽ chuyện hoang dã",
+   "đại hội sinh tồn",
+   "đại hội sinh tồn mùa 2",
+   "thế giới động vật",
+   "động vật kỳ lạ",
+   "tôm súng",
+   "lươn điện",
+   "bọ pháo thủ",
+   "thằn lằn quỷ gai",
+   "cá cung thủ",
+   "capybara",
+   "hà mã",
+   "con lười",
+   "gấu trúc lớn",
+   "chim tu hú",
+   "vũ khí động vật",
+   "khoa học thú vị",
+   "whiteboard animation",
+   "nghe trước khi ngủ"
+  ],
+  "shorts_title": "Đại Hội Sinh Tồn Mùa 2: 10 Siêu Quái Kiệt – Ai Vô Địch?! 👑 #shorts #dongvat",
+  "shorts_desc": "Tôm Súng 5.000°C, Lươn Điện 860V, Bọ Pháo Thủ hay Thằn Lằn Quỷ Gai? Trận chiến vũ khí sinh học điên rồ nhất thế giới tự nhiên — nhà vô địch sẽ khiến bạn ngã ngửa! 👑\n👉 Xem trọn bộ Đại Hội Sinh Tồn Mùa 2 trên kênh Vẽ Chuyện Hoang Dã.",
+  "shorts_tags": [
+   "đại hội sinh tồn",
+   "đại hội sinh tồn mùa 2",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã",
+   "động vật kỳ lạ"
+  ],
+  "en_title": "[SPECIAL] 10 Ultimate Bio-Weapon Animal Champions: Who Wins Season 2?!",
+  "en_hook": "Ten extraordinary biological machines from Episodes 11 to 20 of Wild Tales Sketch — Giant Panda, Hippo, Three-Toed Sloth, Cuckoo, Capybara, Pistol Shrimp, Electric Eel, Bombardier Beetle, Thorny Devil, and Archerfish — enter SURVIVAL TOURNAMENT SEASON 2 across 8 brutal rounds and special awards! 100% brand-new peer-reviewed science never told in the solo episodes: Pistol Shrimp plasma 10x more efficient than lasers, Electric Eel 100-member pack hunting, Archerfish recognizing 44 human faces without a neocortex, Panda horse-dung cold therapy, Hippos pumping 400kg of Silicon daily, Sloth-fur anti-cancer fungi, and an unexpected 0.5-gram champion!",
+  "en_chapters": [
+   "Opening: 10 New Champions Enter the Bio-Weapon Arena",
+   "Round 1: Extreme Anatomy & Secret Internal Energy",
+   "Round 2: Long-Range Snipers & Impossible Visual IQ",
+   "Round 3: Weather Endurance — Horse-Dung Baths, Wet Sand & Hanging Organs",
+   "Halftime: Backstage Interviews & Hilarious Moments",
+   "Round 4: Bizarre Diets & Ecosystem Mineral Pumps",
+   "Round 5: Swarm Tactics & Secret Animal Societies",
+   "Round 6: Epic Journeys & Spatial Super-Navigation",
+   "Special Awards: 4-Ton Prehistoric Ancestors & Weird Relatives",
+   "Round 7: Myth-Busting — Science Debunks Famous Legends",
+   "Semifinals: Synchrotron X-Rays & Sloth-Fur Medicine",
+   "Grand Finale: Gifts to Humanity — Future Bio-Tech",
+   "Medal Ceremony & Season 2 Final Scoreboard",
+   "Closing Ceremony: Lessons, Conservation & Season 3 Teaser"
+  ],
+  "en_shorts_title": "10 Bio-Weapon Champions Battle — Who Wins Season 2?! 👑 #shorts #animals"
+ },
+ "special": "mega-original",
+ "series_label": "Tập đặc biệt Đại Hội Sinh Tồn #2 (sau 10 tập tiếp theo: Tập 11-20)",
+ "next_label": "tập 21 (Ếch Lông Wolverine)",
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "KHAI MẠC MÙA 2",
+    "banner_title": "ĐẠI HỘI SINH TỒN MÙA 2",
+    "chapter_title": "Khai mạc: 10 Quái Kiệt Mới Bước Vào Đấu Trường Vũ Khí",
+    "hook": "ĐẤU TRƯỜNG VŨ KHÍ MÙA 2",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Bóng tối bao trùm lấy một đấu trường La Mã khổng lồ giữa lòng rừng già đại ngàn... Mười chiếc bục thi đấu bọc thép đứng im lìm trong màn sương đêm kỳ bí. Và ở chính giữa đấu trường, một chiếc vương miện vàng nạm đá quý lấp lánh đang xoay tròn trên bệ đá cẩm thạch, chờ đợi chủ nhân xứng đáng nhất. Đêm nay, mười sinh vật kỳ dị từ Tập mười một đến Tập hai mươi của kênh Vẽ Chuyện Hoang Dã sẽ chính thức hội tụ trên cùng một sàn đấu sinh tử! Không phải để kể lại những gì khán giả đã xem, mà để đọ sức trực tiếp bằng hàng loạt phát hiện khoa học mới toanh chưa từng tiết lộ! Mỗi loài mang theo một bí mật tiến hóa dị thường mà ngay cả những nhà sinh vật học lão luyện nhất cũng phải ngỡ ngàng bật ngửa.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "[surprise-oh] Bật toàn bộ đèn pha! Chào mừng toàn thể muôn loài muôn thú đã đến với Đại Hội Sinh Tồn Mùa hai! Tôi là người dẫn chương trình đêm nay, và tôi xin cam kết danh dự: tất cả những gì bạn sắp nghe đều là những công trình nghiên cứu mới hoàn toàn! Từ việc Gấu Trúc tắm phân ngựa để chống rét, cho tới Cá Cung Thủ nhớ được bốn mươi bốn khuôn mặt người hay Tôm Súng bắn ra dòng plasma dưới đáy biển! [laughter] Luật chơi Mùa hai vô cùng khốc liệt: tám vòng thi đấu chính thức, xen kẽ giờ giải lao hậu trường, lễ trao giải phụ và vòng phúc khảo tin đồn thế kỷ. Mỗi vòng thi, ban giám khảo trao ba tấm huy chương: Vàng được ba điểm, Bạc hai điểm, và Đồng một điểm. Riêng Vòng Chung Kết sẽ được nhân đôi điểm số!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Giám khảo xin nhắc nhở: cấm nã đạn vào bảng điểm, cấm phóng điện vào ghế ban tổ chức và cấm đi vệ sinh giữa sân đấu!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Nghe rõ chưa các đấu sĩ? Nhất là anh chàng Hà Mã và cô nàng Bọ Pháo Thủ đang cười tủm tỉm đằng kia! [laughter] Bây giờ, xin mời toàn thể khán đài cùng chào đón sự xuất hiện của mười tuyển thủ tinh nhuệ nhất Mùa hai trên thảm đỏ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tuyển thủ số một! Thiện xạ đầm lầy sở hữu bộ não tính toán quang học không cần vỏ não! Cá Cung Thủ! Tuyển thủ số hai! Chiến binh sa mạc Úc mặc áo giáp chông sắt và hút ẩm từ cát khô! Thằn Lằn Quỷ Gai! Tuyển thủ số ba! Siêu pháo thủ tí hon chỉ dài bằng đốt ngón tay nhưng truyền cảm hứng cho động cơ tên lửa! Bọ Pháo Thủ! Tuyển thủ số bốn! Cỗ máy phát điện sống biết hợp tác săn mồi theo bầy đàn hơn một trăm con! Lươn Điện! Tuyển thủ số năm! Thủ lĩnh đội quân tôm lính sống trong tổ bọt biển dưới quyền một Tôm Chúa! Tôm Súng!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Tuyển thủ số sáu! Quý ngài ngoại giao Pantanal nuôi con chung bình đẳng và ngủ ngâm mình dưới lòng sông! Capybara! Tuyển thủ số bảy! Kẻ cải trang thành chim ưng để đánh lừa hàng xóm và bay vòng tròn mười sáu ngàn cây số mỗi năm! Chim Tu Hú! Tuyển thủ số tám! Chú gấu lười rừng mưa mang cả vườn nấm tiêu diệt tế bào ung thư trên từng sợi lông! Con Lười! Tuyển thủ số chín! Người vận chuyển hàng tạ nguyên tố Silicon cho các dòng sông lớn tại châu Phi! Hà Mã!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và tuyển thủ số mười... xin mời quý vị nhìn lên màn hình vì bạn ấy đang bận trồng cây chuối bên ngoài sân vận động!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Ơ... tới lượt em đi vào rồi hả? Đợi em tụt xuống nhặt nốt nhánh trúc đã nha anh MC ơi!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Rồi, đủ mười thành viên tinh anh! Và theo nghi thức truyền thống của Đại Hội Sinh Tồn, mời cả mười đấu sĩ tiến vào khu vực Lễ Cân Ký Đo Đạc!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hà Mã bước lên đầu tiên! Rầm! Mặt sàn rung bần bật! Hơn ba tấn trọng lượng đè nặng xuống bàn cân thép chịu lực! Tuyển thủ nặng ký nhất giải đấu! Tiếp theo là Gấu Trúc Lớn: một trăm mười ki-lô-gam cơ bắp và mỡ dự phòng, dù nhìn bề ngoài trông chỉ toàn bông gòn! Bố Già Capybara bước lên với phong thái điềm đạm tuyệt đối: sáu mươi lăm ki-lô-gam! Chuột gặm nhấm lớn nhất hành tinh hiện nay! Lươn Điện dài hai mét nặng hai mươi ki-lô-gam trườn lên bàn cân thủy tinh; kế bên là Con Lười nặng bốn ki-lô-gam nhưng một phần ba trọng lượng nằm ở bụng lá cây chưa tiêu hóa!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Nhóm hạng lông tiếp tục lên sàn: Chim Tu Hú nặng chỉ một trăm mười gam, Thằn Lằn Quỷ Gai vỏn vẹn bốn mươi gam, và Cá Cung Thủ hai trăm gam! Cuối cùng là hai gã tí hon Tôm Súng và Bọ Pháo Thủ! Cân thông thường không thể đo nổi, ban tổ chức phải dùng cân phân tích hóa học trong lồng kính kín gió! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bọ Pháo Thủ chỉ nặng chưa đầy nửa gam! Tức là Hà Mã nặng gấp... sáu triệu lần Bọ Pháo Thủ! Sự chênh lệch này khiến máy tính của ban tổ chức suýt bốc khói! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Sau lễ cân ký, giới cá cược và chuyên gia phân tích đồng loạt đặt cửa vô địch cho ba gã khổng lồ hỏa lực: Tôm Súng, Lươn Điện và Hà Mã! Còn Bọ Pháo Thủ nửa gam và Con Lười chậm chạp? Các chuyên gia ghi một dòng ngắn gọn: chỉ mong hai bạn đi hết được vòng gửi xe! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng đừng bao giờ coi thường sức mạnh ẩn giấu của những kẻ nhỏ bé! Đêm nay, từng định kiến sẽ bị lật tung bằng những dữ liệu khoa học xác thực nhất! Tám vòng thi đấu! Một trăm phần trăm dữ liệu mới! Chỉ có trí tuệ tiến hóa thực sự mới đủ sức chạm tay vào chiếc vương miện Mùa hai!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Khoan đã, trước khi vào vòng một, hãy cùng nghe nhận xét nhanh từ tổ trọng tài kỹ thuật về dàn đấu sĩ năm nay!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Báo cáo MC: toàn bộ các cảm biến áp suất, đồng hồ đo vôn kế một ngàn vôn và máy chụp CT đều đã được hiệu chuẩn ở mức an toàn tuyệt đối!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "Tuyệt vời! Còn các tuyển thủ thì sao? Tôm Súng đang khởi động khớp lò xo càng súng lách tách, trong khi Hà Mã đang há miệng kiểm tra lại cặp răng nanh! Không chần chừ thêm một giây nào nữa! Chúng ta hãy cùng tiến vào Vòng một ngay bây giờ: Năng lượng và cấu tạo kỳ dị!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "VÒNG 1",
+    "banner_title": "CẤU TẠO VÀ NĂNG LƯỢNG",
+    "chapter_title": "Vòng 1: Cấu tạo kỳ dị và nguồn năng lượng bí mật bên trong cơ thể",
+    "hook": "BÍ MẬT NĂNG LƯỢNG SINH HỌC",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Chào mừng toàn thể khán đài bước vào Vòng một: Giải mã cấu tạo ẩn giấu và nguồn năng lượng sinh học! Ở vòng mở màn này, chúng ta không thi chạy hay cắn nhau, mà đưa các tuyển thủ vào máy quét công nghệ cao! Ban giám khảo muốn biết: bộ máy bên trong cơ thể loài nào được thiết kế tinh vi, tiết kiệm hoặc tạo ra công suất năng lượng điên rồ nhất? Thí sinh đầu tiên bước vào máy quét ba chiều là pháo thủ đại dương Tôm Súng! Khán giả đều đã biết cú búng càng tạo sóng âm của nó, nhưng cấu tạo tạo ra plasma mới là điều làm các kỹ sư choáng váng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Năm hai ngàn mười chín, nhóm kỹ sư cơ khí tại Đại học Texas A&M đã dùng tia X siêu nhỏ quét lớp vỏ lột xác của Tôm Súng để in ba chiều phóng đại gấp năm lần! Họ gắn một lò xo bẫy chuột để mô phỏng cơ bắp tôm búng càng! Kết quả thu được khiến cả giới vật lý plasma phải sững sờ kinh ngạc!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Chỉ bằng lực cơ học đơn thuần không cần dùng điện hay tia laser, thiết bị mô phỏng càng Tôm Súng đã tạo ra dòng plasma dưới nước với hiệu suất cao gấp mười lần máy móc nhân tạo hiện đại! Nhưng điều thú vị hơn nằm ở chức năng dự phòng thiên tài của Tôm Súng! Điều gì xảy ra nếu trong một cuộc giao tranh nảy lửa, nó bị kẻ thù cắn gãy mất chiếc càng súng khổng lồ?",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Câu trả lời là: nó không hề bị tàn phế! Ngay sau khi mất chiếc càng súng bên phải, bộ gen của Tôm Súng lập tức kích hoạt cơ chế đảo ngược bất đối xứng! Chiếc càng nhỏ vốn chỉ dùng để gắp thức ăn bên tay trái sẽ phình to thần tốc sau vài lần lột xác, biến hình thành một khẩu đại bác súng nước mới toanh! Còn bên cụt cũ sẽ mọc lại một chiếc càng nhỏ thay thế! [surprise-oh] Một dây chuyền tự đổi tay thuận và tái tạo vũ khí vĩnh cửu! Dù gãy súng bao nhiêu lần, Tôm Súng vẫn luôn có một khẩu đại bác dự phòng trong tay! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và để kiểm tra thêm độ hiệu quả của cấu trúc cơ thể, các nhà nghiên cứu còn đưa thêm một thí sinh hạng trung vào buồng kiểm tra cấu trúc xương đặc biệt: Capybara! Mặc dù sống quanh năm tại vùng đầm lầy nóng ẩm Nam Mỹ, Capybara lại sở hữu rất ít tuyến mồ hôi trên da nên không thể đổ mồ hôi làm mát như con người hay ngựa!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Thay vì tốn nước đổ mồ hôi, cấu trúc bộ lông thưa cứng và lớp mỡ mỏng cho phép nhiệt lượng thoát ra cực nhanh ngay khi nó bước xuống ngâm mình trong làn nước mát! Một thiết kế làm mát bằng nước hoàn hảo cho gã khổng lồ gặm nhấm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Giám khảo ghi nhận: cấu trúc cơ khí tạo plasma siêu việt và khả năng đổi tay vũ khí cực kỳ thông minh!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Tuyển thủ thứ hai bước vào buồng đo công suất năng lượng là Nhà Máy Điện Sống: Lươn Điện! Chúng ta đều biết con số đỉnh tám trăm sáu mươi Vôn, nhưng công suất điện thực tế và cơ chế bơm ion mới là kỳ quan sinh học!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Trong khoảnh khắc săn mồi, nguồn điện của Lươn Điện có thể đạt cường độ dòng điện xấp xỉ một Ampe, tức là công suất tức thời đạt mức tương đương hơn tám trăm Oát! Làm thế nào sáu ngàn tế bào pin sinh học có thể xả hàng chục phát liên tiếp mà không bị cạn kiệt ngay lập tức? Bí mật nằm ở hệ thống bơm ion Natri và Kali siêu tốc! Ngay sau mỗi lần phóng điện, các bơm sinh hóa tiêu thụ phân tử năng lượng ATP lập tức vận chuyển ngược dòng hàng tỷ ion qua màng tế bào, tái nạp điện thế sẵn sàng chiến đấu chỉ trong tích tắc!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Không cần dây cắm sạc, không cần pin lithium độc hại, toàn bộ quá trình sản xuất và tái nạp điện diễn ra bằng muối khoáng và nước ngọt ngay trong thớ thịt mềm mại của con cá! [surprise-wa]",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Và bây giờ là bất ngờ gây sốc nhất Vòng một! Tuyển thủ thứ ba bước lên máy đo năng lượng là chú gấu tròn xoe suốt ngày chỉ biết ôm tre: Gấu Trúc Lớn! Trong suốt nhiều thập kỷ, giới sinh học đau đầu tự hỏi: ăn một thứ thức ăn nghèo dinh dưỡng như tre với đường ruột ngắn ngủn của thú ăn thịt, tại sao Gấu Trúc không chết đói? Năm hai ngàn mười lăm, nghiên cứu đột phá công bố trên tạp chí Science của nhóm tiến sĩ Yonggang Nie đã giải mã bí mật động trời ẩn sâu trong bộ gen của Gấu Trúc!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Các nhà khoa học phát hiện Gấu Trúc sở hữu một đột biến độc nhất vô nhị trên gen Đu-ốc hai — loại gen chịu trách nhiệm tổng hợp hormone tuyến giáp kiểm soát tốc độ đốt cháy năng lượng! Kết quả là mức độ hormone tuyến giáp Tê bốn trong máu Gấu Trúc chỉ bằng bốn mươi sáu phẩy chín phần trăm so với các loài thú có vú cùng kích thước!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Không chỉ giảm hormone, tiến hóa còn thu nhỏ kích thước não bộ của Gấu Trúc đi năm phần trăm và kích thước quả thận đi mười một phần trăm để cắt giảm tối đa chi phí vận hành cơ thể! Tính tổng thể, mức tiêu hao năng lượng hàng ngày của Gấu Trúc hoang dã chỉ bằng bốn mươi lăm phần trăm so với một con thú bình thường nặng bằng nó! Tức là nó sống bằng chưa tới một nửa bình xăng của loài khác! [surprise-oh] Để kiểm chứng, các nhà khoa học đã cấy đúng đoạn đột biến gen này vào chuột thí nghiệm, và lũ chuột lập tức trở nên ít vận động hơn hẳn năm mươi lăm phần trăm y hệt phong thái của gấu trúc! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Vòng một kết thúc với kết quả thuyết phục tuyệt đối! Ban giám khảo xin công bố huy chương đồng thuộc về Gấu Trúc Lớn với đột biến gen Đu-ốc hai tiết kiệm năng lượng thiên tài! Huy chương bạc thuộc về Lươn Điện với hệ thống tái nạp ion siêu tốc! Và Huy chương vàng gọi tên Tôm Súng với công nghệ plasma vượt trội cùng cơ chế đổi tay súng dự phòng!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Bảng tổng sắp sau Vòng một: Tôm Súng dẫn đầu với ba điểm, Lươn Điện hai điểm, và Gấu Trúc Lớn xuất sắc ghi điểm đồng đầu tiên! Vòng hai ngay sau đây sẽ thử thách khả năng bắn tỉa tầm xa và trí tuệ quang học siêu phàm! Mời quý vị cùng hướng mắt về trường bắn!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "VÒNG 2",
+    "banner_title": "XẠ THỦ VÀ TRÍ TUỆ THỊ GIÁC",
+    "chapter_title": "Vòng 2: Xạ thủ tầm xa và trí tuệ thị giác không tưởng",
+    "hook": "BẮN TỈA VÀ NHẬN DIỆN KHUÔN MẶT",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Chào mừng toàn thể quý vị đến với Vòng hai: Đấu trường xạ thủ tầm xa và trí tuệ thị giác siêu phàm! Ở vòng này, ban giám khảo không chỉ đo tầm bắn mà còn kiểm tra bộ não xử lý hình ảnh của các tuyển thủ! Đấu sĩ mở màn là tay súng thiện xạ nổi tiếng nhất thế giới cá: Cá Cung Thủ! Khán giả đều đã nghe tài bắn tia nước tính khúc xạ ánh sáng của nó, nhưng thí nghiệm tại Đại học Oxford mới thực sự gây chấn động thế giới!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Lâu nay giới khoa học thần kinh tin rằng chỉ những loài có vỏ não mới phát triển cao như con người, khỉ hay chim mới có khả năng phân biệt được khuôn mặt phức tạp của con người! Cá hoàn toàn không có cấu trúc vỏ não mới này! Vậy liệu một con cá nhỏ bé ở đầm lầy có thể phân biệt được mặt người này với mặt người khác hay không?",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Năm hai ngàn mười sáu, tiến sĩ Cait Newport tại Đại học Oxford và Đại học Queensland đã công bố nghiên cứu chấn động trên tạp chí Scientific Reports! Nhóm nghiên cứu huấn luyện Cá Cung Thủ nhận diện một khuôn mặt người mục tiêu để nhận thưởng thức ăn, sau đó trộn lẫn khuôn mặt đó vào giữa bốn mươi bốn khuôn mặt người lạ hoàn toàn khác nhau! Kết quả làm toàn bộ giới khoa học thần kinh sững sờ: Cá Cung Thủ phun tia nước trúng phóc bức ảnh khuôn mặt quen thuộc với độ chính xác trung bình từ tám mươi mốt đến tám mươi sáu phần trăm! [surprise-oh] Thậm chí khi các nhà khoa học chuyển toàn bộ ảnh sang màu đen trắng, đồng bộ độ sáng và cắt bỏ hết kiểu tóc lẫn đường viền đầu, chú cá vẫn nhận ra gương mặt đó không chút sai sót!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Quý vị thử tưởng tượng xem: một con cá dài một gang tay không có vỏ não nhận dạng lại nhớ mặt người giỏi hơn cả nhiều ứng dụng camera an ninh cũ kỹ! [laughter] Chưa dừng lại ở đó, khi bắn mồi thật trên cành cây, Cá Cung Thủ còn tự động đo trọng lượng của con mồi để điều chỉnh thể tích tia nước bắn ra! Nó kiểm soát sự bất ổn định thủy động lực học khi nén dòng nước, tụ toàn bộ năng lượng vào mũi đạn tạo ra lực va chạm lớn hơn lực bám chân của côn trùng tới mười lần!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Không chỉ nhớ được bốn mươi bốn khuôn mặt ở góc nhìn thẳng, thí nghiệm nâng cao của Đại học Oxford còn thử xoay nghiêng các bức ảnh khuôn mặt theo nhiều góc độ khác nhau! Kết quả đáng kinh ngạc: Cá Cung Thủ vẫn nhận diện chính xác người quen qua từng góc nghiêng mà không hề bị đánh lừa! Điều này chứng tỏ thị giác của loài cá này giải mã không gian ba chiều phức tạp hơn ta tưởng rất nhiều! [surprise-oh]",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Giám khảo ghi nhận: bộ não xử lý thị giác của Cá Cung Thủ là một kiệt tác vượt xa mọi giới hạn kích thước não bộ!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Tuyển thủ thứ hai bước vào bài thi bắn tỉa là pháo thủ tí hon: Bọ Pháo Thủ! Nếu Cá Cung Thủ bắn tỉa bằng tia nước lạnh, thì Bọ Pháo Thủ là chuyên gia điều áp và nổ xung phản lực vi mô! Quý vị đã biết nhiệt độ tia hóa chất của nó sôi một trăm độ C, nhưng điều gì tạo ra lực đẩy mạnh mẽ mà không làm vỡ nòng súng chỉ rộng vài phần nghìn xăng-ti-mét? Theo nghiên cứu mô phỏng thủy động lực học tại Đại học Leeds, bí mật nằm ở quá trình sôi chớp nhoáng bên trong buồng đốt nhỏ xíu: hơi nước chiếm tới hơn chín mươi phần trăm thể tích khí thoát ra! Áp suất chỉ cần tăng nhẹ khoảng một trăm mili-ba là đủ tống toàn bộ hỗn hợp hóa chất sôi ra ngoài với vận tốc từ mười hai đến ba mươi lăm mét mỗi giây, xé nhỏ thành hàng tỷ hạt sương đường kính chỉ từ một đến năm trăm mi-crô-mét! Nhờ tháp pháo đuôi có khớp xoay linh hoạt hai trăm bảy mươi độ, chú bọ tí hon có thể vừa chạy trốn vừa bắn chuẩn xác vào mắt những kẻ săn mồi đang truy đuổi phía sau lưng mà không cần ngoái đầu nhìn lại! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và tuyển thủ thứ ba của vòng hai mang đến một tuyệt kỹ đánh lừa thị giác đỉnh cao không cần dùng đến một giọt đạn nào: Chim Tu Hú! Khán giả đều đã nghe chuyện Tu Hú đẻ trộm trứng trong mười giây, nhưng tại sao một con chim to xác như Tu Hú lại có thể bình yên bay lượn sát tổ chim chủ mà không bị bầy chim nhỏ xúm vào mổ đuổi đi? Năm hai ngàn mười một, giáo sư Welbergen và Davies công bố phát hiện thú vị trên tạp chí Behavioral Ecology về chiến thuật ngụy trang Batesian kép của Chim Tu Hú!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Từ hình dáng cánh nhọn, kiểu bay lướt gió cho đến những dải lông vằn ngang màu nâu xám trước ngực và chân vàng, Chim Tu Hú trưởng thành đã tiến hóa ngoại hình giống hệt... Chim Ưng Sẻ ăn thịt! Khi chim chủ nhà nhìn thấy bộ ngực vằn ngang đó lướt qua, chúng lập tức hoảng loạn tưởng là kẻ săn mồi hung tợn nên bay đi trốn giữ mạng thay vì ở lại tấn công kẻ lạ mặt! [laughter] Thậm chí các nhà khoa học thử dùng sơn che đi các vạch vằn trên ngực mô hình Tu Hú, lập tức đàn chim chích trở nên hung hãn lao vào đánh đuổi túi bụi! Một màn cải trang cảnh sát chìm ngoạn mục của giới loài chim!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Thêm một màn đọ tài gay cấn nữa ở bài kiểm tra thị giác mà anh MC xin bổ sung giữa hai sát thủ bắn tỉa dưới nước: Cá Cung Thủ và Lươn Điện! Trong tự nhiên, mặt nước đâu phải lúc nào cũng phẳng lặng như gương! Các thí nghiệm chứng minh Cá Cung Thủ vẫn bắn trúng đích ngay cả khi mặt nước đang gợn sóng liên tục nhờ khả năng cập nhật góc lệch theo thời gian thực! Còn Lươn Điện thì dùng trường điện áp thấp mười Vôn để phân biệt rạch ròi đâu là một thanh nhựa cách điện vô tri, đâu là một con cá thật đang thở thoi thóp dưới lớp bùn đặc!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Kết quả Vòng hai đã được chốt! Huy chương đồng thuộc về Chim Tu Hú với màn cải trang thành Chim Ưng Sẻ đánh lừa cả xóm chim chủ! Huy chương bạc thuộc về Bọ Pháo Thủ với vòi phun sương tốc độ ba mươi lăm mét mỗi giây! Và Huy chương vàng thuộc về Cá Cung Thủ với siêu năng lực nhận diện bốn mươi bốn khuôn mặt người!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Bảng tổng sắp cập nhật điểm số sau hai vòng: Tôm Súng và Cá Cung Thủ đồng dẫn đầu với ba điểm! Bọ Pháo Thủ bám sát với hai điểm! Lươn Điện hai điểm, Gấu Trúc một điểm, Tu Hú một điểm! Vòng ba ngay sau đây sẽ thử thách khả năng sinh tồn trước thời tiết khắc nghiệt và những giải pháp chống chọi thiên nhiên kỳ quặc nhất!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "VÒNG 3",
+    "banner_title": "CHỐNG CHỊU THỜI TIẾT",
+    "chapter_title": "Vòng 3: Chống chịu thời tiết khắc nghiệt — tắm phân ngựa, hút cát ẩm và treo nội tạng",
+    "hook": "BÍ KÍP CHỐNG RÉT VÀ NẮNG CHÁY",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Chào mừng quý vị đến với Vòng ba: Thử thách chống chịu thời tiết cực hạn! Sân vận động lúc này được chia thành hai nửa đối lập: một bên là núi tuyết mùa đông lạnh buốt và một bên là sa mạc nắng cháy bỏng rát! Ở vòng này, ban giám khảo muốn tìm ra những bộ óc sinh tồn sáng tạo nhất: khi thiên nhiên nổi giận với cái rét cắt da hay cái nóng thiêu đốt, bạn dùng chiêu gì để sống sót? Đấu sĩ bước vào nửa sân băng tuyết đầu tiên là chú gấu mũm mĩm đến từ dãy núi Tứ Xuyên: Gấu Trúc Lớn! Một loài gấu nhưng hoàn toàn không biết ngủ đông như họ hàng gấu nâu hay gấu Bắc Cực!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Không ngủ đông, ăn thực đơn tre nghèo nàn calo nên không tích trữ được nhiều lớp mỡ dày, làm thế nào Gấu Trúc hoang dã có thể chịu nổi những đêm đông tuyết rơi trắng xóa trên đỉnh núi cao? Năm hai ngàn hai mươi, nhóm nghiên cứu của giáo sư Fuwen Wei công bố phát hiện trên tạp chí PNAS khiến cả thế giới phải... bịt mũi ngỡ ngàng!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Khi trời trở lạnh giữa tiết trời từ âm năm đến mười lăm độ C, Gấu Trúc hoang dã đi tìm những đống phân ngựa tươi mới thải ra dưới mười ngày tuổi! Nó không ngửi cho vui... mà nó cúi xuống chà xát phân ngựa lên má, lên cổ, rồi lăn lộn toàn thân mình vào giữa đống phân ngựa cho đến khi phủ kín khắp bộ lông trắng đen! [laughter] Tại sao một loài vật đáng yêu lại đi tắm phân ngựa giữa mùa đông giá rét? Các nhà sinh vật học phát hiện trong phân ngựa tươi chứa nồng độ cao hai hợp chất hóa học gọi là BCP và BCPO!",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Khi thấm qua da, hai hợp chất này bám thẳng vào kênh cảm biến nhiệt lạnh Tê-rờ-pê-mờ tám trên tế bào thần kinh, khóa chặt công tắc báo lạnh khiến não bộ mất cảm giác rét buốt! [surprise-oh] Nhờ lớp kem ủ phân ngựa chống rét tự nhiên này, Gấu Trúc bình thản bước qua tuyết giá mà không bị co ro! Một cách dùng dược liệu tự nhiên từ môi trường đỉnh cao nhất thế giới động vật! [laughter] Chưa hết, năm hai ngàn hai mươi mốt, nghiên cứu trên Scientific Reports còn giải mã thêm: bộ lông trắng đen nổi tiếng của Gấu Trúc thực chất là áo tàng hình hoàn hảo trong rừng núi! Phần lông đen hòa vào bóng râm sâu thẳm và gốc cây ẩm ướt, còn phần lông trắng hòa lẫn vào mảng tuyết và tán lá sáng! Nhờ đó mắt của báo hoa mai và chó sói hoàn toàn không nhận ra đường viền cơ thể gấu!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Bây giờ chúng ta chuyển sang nửa sân sa mạc nắng cháy với sự góp mặt của Thằn Lằn Quỷ Gai! Ở Tập mười chín, khán giả đã biết nó uống nước bằng bàn chân qua rãnh mao dẫn. Nhưng nghiên cứu mới năm hai ngàn mười sáu còn tiết lộ chi tiết sâu hơn nữa! Tiến sĩ Philipp Comanns từ Đại học RWTH Aachen Đức đã cân đo từng mi-li-gam nước trong một giờ uống nước của chú thằn lằn chỉ nặng bốn mươi gam này! Trong một giờ ngâm chân vào vũng nước nhỏ, chú Quỷ Gai đóng mở hàm nhấp nháy gần hai ngàn năm trăm lần, mỗi ngụm hút vào miệng chỉ nhỏ đúng không phẩy bảy mi-crô-lít, nhưng tổng lượng nước uống được đạt một phẩy hai mươi tám gam! Đồng thời, mạng lưới rãnh trên bề mặt da của nó còn giữ trữ lại được thêm một phẩy ba mươi hai gam nước nữa giống như một chiếc bình giữ ẩm di động đeo quanh người!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và đây là cú bẻ lái quan trọng của khoa học: thực tế sương đọng buổi sáng trên sa mạc không đủ để làm đầy các rãnh mao dẫn này! Vậy làm sao nó gom đủ nước giữa cát khô? Các nhà khoa học quan sát thấy một hành động siêu thông minh: nó dùng chân trước hất tung cát ẩm lên phủ kín lưng mình, sau đó ép chặt bụng xuống cát để các rãnh mao dẫn hút sạch từng giọt hơi ẩm từ lớp cát phủ hai mặt! [surprise-wa]",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Tuyển thủ thứ ba bước vào thử thách sinh tồn khắc nghiệt của Vòng ba là Con Lười! Sống cả đời treo ngược trên ngọn cây rừng mưa nhiệt đới, cơ thể Con Lười làm sao để không bị... nghẹt thở bởi chính sức nặng của ruột gan mình? Ở hầu hết các loài động vật có vú, nếu bạn treo ngược đầu quá lâu, toàn bộ trọng lượng của gan, dạ dày đầy thức ăn sẽ đè bẹp xuống cơ hoành và hai lá phổi khiến việc hít thở trở nên cực kỳ mệt nhọc! Nhưng năm hai ngàn mười bốn, nghiên cứu của Rebecca Cliffe công bố trên tạp chí Biology Letters đã khám phá ra một cấu trúc giải phẫu độc quyền của Con Lười: các dây chằng xơ neo nội tạng! Những sợi dây chằng xơ đặc biệt này đóng vai trò như hệ thống dây cáp treo cầu giữ chặt gan và dạ dày cố định vào khung xương sườn, ngăn tuyệt đối không cho chúng đè lên phổi khi Con Lười treo ngược! Nhờ hệ thống dây cáp treo nội tạng này, Con Lười tiết kiệm được tới mười ba phần trăm năng lượng hô hấp mỗi khi treo ngược, giúp nó sống thong dong với chế độ ăn lá cây ít calo suốt cả cuộc đời! [surprise-oh]",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Và trong nửa sân nắng nóng thiêu đốt, cỗ xe tăng ba tấn Hà Mã cũng bước vào kiểm tra khả năng chống tia cực tím dưới ánh nắng gay gắt! Theo nghiên cứu hóa sinh nổi tiếng trên tạp chí Nature năm hai ngàn lẻ bốn của giáo sư Yoko Saikawa, chất lỏng chống nắng trên da Hà Mã lúc mới tiết ra hoàn toàn... trong suốt không màu! Chỉ sau vài phút tiếp xúc với không khí, hai sắc tố axit hipposudoric và norhipposudoric tự động phản ứng biến dịch tiết thành màu đỏ tươi rực rỡ, rồi chuyển sang màu nâu sẫm bám chặt nhiều giờ liền để hấp thụ trọn dải tia UV từ hai trăm đến sáu trăm na-nô-mét! [surprise-oh]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Kết quả Vòng ba cực kỳ xứng đáng! Huy chương đồng thuộc về Con Lười với hệ thống dây chằng treo nội tạng tiết kiệm mười ba phần trăm năng lượng thở! Huy chương bạc thuộc về Thằn Lằn Quỷ Gai với kỹ thuật hắt cát ẩm thu gom nước qua rãnh da! Và Huy chương vàng thuộc về Gấu Trúc Lớn với bí kíp tắm phân ngựa chống rét độc nhất vô nhị!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Bảng tổng sắp sau Vòng ba chứng kiến màn bứt phá ngoạn mục: Gấu Trúc Lớn vươn lên dẫn đầu với bốn điểm! Tôm Súng ba điểm! Cá Cung Thủ ba điểm! Thằn Lằn Quỷ Gai, Lươn Điện và Bọ Pháo Thủ đồng hai điểm! Con Lười và Tu Hú ghi một điểm! Bây giờ, đấu trường tạm nghỉ giải lao giữa hiệp để MC đột kích phòng thay đồ xem các đấu sĩ đang làm gì phía sau hậu trường!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "NGHỈ GIỮA HIỆP",
+    "banner_title": "PHỎNG VẤN HẬU TRƯỜNG",
+    "chapter_title": "Nghỉ giữa hiệp: Phỏng vấn hậu trường và những pha khó đỡ",
+    "hook": "HẬU TRƯỜNG BẤT ỔN MÙA 2",
+    "mood": "bi_hai",
+    "parts": [
+     {
+      "text": "[surprise-oh] Xin chào toàn thể khán giả! Chúng ta đang có mặt trực tiếp tại khu vực phòng thay đồ của Đại Hội Sinh Tồn Mùa hai! Trong lúc ban tổ chức chuẩn bị sân khấu cho hiệp hai, hãy xem các đấu sĩ đang làm gì phía sau hậu trường! Vừa mới giành huy chương vàng Vòng ba, ngôi sao đang dẫn đầu bảng tổng sắp là Gấu Trúc Lớn! Nhưng khoan... cái mùi gì nồng nặc bốc ra từ phòng số mười một thế này?!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Trời đất ơi! Gấu Trúc Lớn vừa mang nguyên một xô... phân ngựa tươi từ vùng núi Tứ Xuyên vào phòng nghỉ để bôi lên mặt giữ ấm giữa máy lạnh phòng chờ! [laughter]",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Anh MC vào làm một miếng cho ấm người nè! Ở phòng chờ mở điều hòa hai mươi độ lạnh muốn đóng băng, bôi cái này vào ấm cực luôn á!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Thôi thôi cảm ơn em, anh MC xin phép từ chối vì anh mặc vest đỏ đi dẫn chương trình chứ không phải đi leo núi tuyết! [laughter] Chúc mừng em giữ vững phong độ nhé! Điểm dừng chân tiếp theo là khu vực hồ bơi thư giãn của Bố Già Capybara! Hãy xem vị Bộ trưởng Ngoại giao đang nghỉ ngơi kiểu gì sau ba vòng chưa có điểm nào!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ủa? Bố Già Capybara trốn đi đâu mất tiêu rồi? Trong bồn nước chẳng thấy ai ngoài mấy ngọn rong bèo lững lờ trôi... Khoan đã, nhìn kỹ mặt nước kia kìa!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "[surprise-oh] Hóa ra vị trí mắt, tai và hai lỗ mũi của Capybara nằm xếp thẳng hàng trên đỉnh đầu giống hệt cấu tạo của Hà Mã! Nó đang ngủ say giấc nồng ngay dưới lòng hồ chỉ để hở đúng mắt mũi tai lên mặt nước! Một tư thế ngủ vừa giữ mát làn da, vừa dễ dàng thở không khí và quan sát động tĩnh xung quanh mà không kẻ thù nào phát hiện được! Chào Bố Già! Nằm ngâm nước thế này thì chút nữa thi Vòng bốn có bị lạnh bụng không ạ?",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Khò... khò... Nước ấm thế này ngủ sướng lắm anh bạn... Để tôi ngủ thêm mười phút nữa rồi ra cân hết Vòng bốn cho anh xem!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Thần thái của người đàn ông chưa có điểm nào mà vẫn ngủ ngon lành như đang nắm chắc chiếc cúp vô địch trong tay! Bây giờ chúng ta ghé thăm phòng của Chim Tu Hú! Chào Chim Tu Hú! Sao trong phòng nghỉ mà bạn lại chuẩn bị hành lý bay đi đâu thế này? Chúng ta vẫn còn năm vòng thi nữa cơ mà!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Anh MC không biết rồi! Sau giải đấu này, tôi phải bay ngay chuyến bay đường dài mười sáu ngàn cây số từ châu Âu sang tận Trung Phi để tránh rét mùa đông đấy! Tôi chỉ tranh thủ ghé đây kiếm ít huy chương thôi! [laughter]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Chà, đúng là phi công hạng nặng! Và căn phòng cuối cùng trong giờ giải lao là phòng của cô nàng Con Lười! Không biết bạn ấy đã tiêu hóa xong chiếc lá từ hồi khai mạc chưa?",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ban tổ chức trang bị một chiếc đồng hồ bấm giờ treo ngay cạnh mặt Con Lười! MC đặt một câu hỏi ngắn: bạn cảm thấy đấu trường Mùa hai thế nào? Con Lười nhướng mày... mở hé miệng... mất năm giây để hít hơi... mất mười giây để cong môi... và mất cả một phút mới phát âm được chữ đầu tiên!",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Tôi... cảm... thấy... đại... hội... năm... nay... rất... là... vui... luôn... ạ...",
+      "cast": "be_con"
+     },
+     {
+      "text": "Chưa hết đâu quý vị! Ghé ngang phòng số mười sáu của Tôm Súng, chúng ta bắt gặp chú tôm đang ngồi đánh bóng khẩu đại bác cùng người bạn thân thiết là một chú cá bống mắt lồi! Chú cá bống làm nhiệm vụ canh cửa bảo vệ còn Tôm Súng dùng càng đào cát làm phòng ở chung sang trọng! Một cặp đôi bạn thân gắn bó keo sơn nhất thế giới biển cả! Còn trong phòng bên cạnh, nhà máy điện Lươn Điện đang vừa bơi lội thư giãn vừa thưởng thức bữa ăn nhẹ bằng thịt cá nhỏ để nạp đầy năng lượng cho bộ bơm ion Natri Kali!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Còn tại góc phòng sa mạc nhân tạo, Thằn Lằn Quỷ Gai đang tận hưởng bồn tắm cát ẩm mát rượi, chuẩn bị tinh thần đối đầu với gã khổng lồ Hà Mã ở vòng bốn! Bước sang phòng số hai mươi của Cá Cung Thủ, chúng ta bắt gặp chú cá đang nhìn chằm chằm vào một cuốn an-bum ảnh chân dung dán đầy mặt các thành viên ban tổ chức! Chú cá đang luyện tập ghi nhớ từng nếp nhăn trên khuôn mặt của giám khảo để phòng trường hợp giám khảo chấm điểm thiếu công bằng là... phun nước thẳng vào kính! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Sang tới phòng số mười tám của Bọ Pháo Thủ, ban tổ chức thấy một cái bàn đầy ắp các loại lá cây và xác côn trùng giàu dưỡng chất giúp chú bọ nạp lại kho nguyên liệu hóa học! Còn trong bồn tắm bùn khổng lồ ở cuối hành lang, gã khổng lồ Hà Mã đang ngâm mình thư giãn, làn da tiết ra lớp dịch nhờn trong suốt dần chuyển màu đỏ hồng lấp lánh dưới ánh đèn phòng thay đồ!",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Này anh MC, chút nữa thi vòng dinh dưỡng nhớ chuẩn bị thật nhiều cỏ non nhé, chứ tôi đang đói cồn cào cả ba ngăn dạ dày rồi đấy!",
+      "cast": "ga_khong_lo"
+     },
+     {
+      "text": "Vâng vâng, ban tổ chức đã chuẩn bị sẵn cả một xe tải cỏ tươi ngoài sân rồi ạ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Trên đường quay lại sân chính, MC còn bắt gặp Gấu Trúc Lớn đang tập động tác trồng cây chuối khởi động cơ tay trước khi bước vào vòng thi tiêu hóa! Còn anh chàng Cá Cung Thủ và Tôm Súng thì đang thi xem ai bắn trúng bia nhanh hơn ở hành lang làm ướt sũng cả chiếc áo vest đỏ của MC! [laughter] Giờ nghỉ giải lao đầy ắp tiếng cười đã kết thúc! Chuông báo động hiệp hai vang lên dồn dập đưa toàn thể đấu sĩ quay trở lại sàn đấu chính! Vòng bốn ngay sau đây sẽ giải mã những bí mật động trời về dinh dưỡng và sức ảnh hưởng sinh thái của các đấu sĩ! Hãy sẵn sàng đón xem!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "VÒNG 4",
+    "banner_title": "DINH DƯỠNG VÀ SINH THÁI",
+    "chapter_title": "Vòng 4: Dinh dưỡng dị thường và vai trò bơm khoáng chất sinh thái",
+    "hook": "BƠM SILICON VÀ RĂNG MÀI VĨNH CỬU",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Chào mừng toàn thể quý vị trở lại với hiệp hai của Đại Hội Sinh Tồn Mùa hai: Vòng bốn — Dinh dưỡng dị thường và chuỗi cung ứng sinh thái! Ở vòng thi này, ban giám khảo không chỉ nhìn vào việc con vật ăn cái gì, mà còn đánh giá xem hệ tiêu hóa của nó mang lại tác động kinh thiên động địa nào cho thiên nhiên xung quanh! Thí sinh đầu tiên bước vào vòng cân đo sinh thái là cỗ xe tăng ba tấn châu Phi: Hà Mã! Khán giả đều biết Hà Mã thích quạt đuôi văng phân đánh dấu lãnh thổ, nhưng nghiên cứu năm hai ngàn mười chín đã phát hiện một bí mật vĩ đại ẩn trong đống phân đó!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Năm hai ngàn mười chín, nhà sinh thái học Jonas Schoelynck tại Đại học Antwerp Bỉ công bố một nghiên cứu chấn động trên tạp chí uy tín Science Advances! Vào ban đêm, mỗi con Hà Mã rời mặt nước lên đồng cỏ gặm hàng chục ký cỏ giàu chất khoáng Silicon thực vật. Đến ban ngày, chúng quay về ngâm mình dưới sông và bài tiết toàn bộ số khoáng chất đó xuống dòng nước!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Các nhà khoa học đo được con số kinh hoàng: đàn Hà Mã dọc theo sông Mara ở Kenya bơm trực tiếp khoảng không phẩy bốn tấn nguyên tố Silicon nguyên chất xuống lòng sông mỗi ngày! Số Silicon do Hà Mã vận chuyển chiếm tới bảy mươi sáu phần trăm tổng lượng dòng chảy Silicon của toàn bộ con sông lớn! Không có Hà Mã, con sông gần như mất đi ba phần tư nguồn cung Silicon tự nhiên! [surprise-oh] Tại sao Silicon lại quan trọng đến thế? Bởi vì nó là vật liệu thiết yếu để loài tảo khuê cực nhỏ dưới hồ Victoria xây dựng lớp vỏ thủy tinh và quang hợp tạo oxy nuôi sống hàng triệu con cá thương phẩm! Chưa hết, dù trông giống lợn, Hà Mã thực chất tiến hóa một chiếc dạ dày ba ngăn lên men vi sinh cực kỳ phức tạp gọi là hệ tiêu hóa giả nhai lại! Nhờ hệ thống lên men ba ngăn tiết kiệm năng lượng này, một cỗ xe tăng nặng ba tấn chỉ cần ăn lượng cỏ bằng khoảng một phẩy năm phần trăm trọng lượng cơ thể mỗi ngày là đủ sinh tồn!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và nhân tiện nhắc tới đường ruột kỳ lạ trong vòng dinh dưỡng này, khoa học năm hai ngàn mười lăm còn phát hiện thêm một sự thật sốc nữa về hệ vi sinh vật trong bụng Gấu Trúc Lớn! Theo nghiên cứu công bố trên tạp chí mBio khi phân tích hàng loạt mẫu phân của Gấu Trúc qua các mùa, đường ruột của chúng vẫn... không hề tiến hóa ra nhóm vi khuẩn tiêu hóa xen-lu-lô như loài bò hay cừu! Tức là suốt hai triệu năm chuyển sang ăn chay, ngay cả đội quân vi khuẩn trong bụng Gấu Trúc vẫn giữ nguyên cấu trúc của thú ăn thịt! Một màn bảo thủ di truyền cứng đầu nhất lịch sử tiến hóa! [laughter]",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Còn chú Con Lười thì sao? Bên cạnh tốc độ tiêu hóa siêu chậm, Con Lười còn điều chỉnh thân nhiệt biến thiên linh hoạt từ hai mươi bốn độ C vào ban đêm lên ba mươi ba độ C lúc phơi nắng giống như loài bò sát!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Giám khảo kinh ngạc: phân của Hà Mã hóa ra lại là nguồn phân bón khoáng chất vàng nuôi sống cả một hệ sinh thái hồ khổng lồ châu Phi!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Tuyển thủ thứ hai bước lên sàn đo dinh dưỡng là Bố Già đầm lầy: Capybara! Ngoài tập tính ăn lại phân mềm buổi sáng đã nổi tiếng, Bố Già còn có một bí mật về bộ răng cửa đáng kinh ngạc!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Giống như họ hàng nhà hải ly và sóc, cặp răng cửa hình chiếc đục sắc bén ở hàm trước của Capybara... mọc dài ra không bao giờ ngừng suốt cả cuộc đời! Nếu một chú Capybara lười biếng không chịu nhai, cặp răng cửa sẽ mọc dài đâm xuyên qua cả hàm làm nó không thể đóng miệng lại được! Để giữ cho hàm răng luôn ngắn gọn và sắc bén, mỗi ngày Bố Già phải tiêu thụ đều đặn từ ba đến bốn ki-lô-gam cỏ xơ cứng chứa đầy tinh thể cát và gặm cả vỏ cây gỗ cứng để mài mòn men răng tự nhiên! Đồng thời, men răng của nó có cấu trúc tự mài sắc: mặt ngoài cứng hơn mặt trong, khiến càng nhai đồ cứng thì lưỡi răng lại càng trở nên bén ngọt hơn như dao gọt hoa quả! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và tuyển thủ thứ ba mang đến bài thi dinh dưỡng cực kỳ dị biệt: Thằn Lằn Quỷ Gai! Ở Tập mười chín chúng ta đã biết thực đơn độc nhất của nó là kiến đen, nhưng chiến thuật bẫy kiến của nó mới thực sự là bậc thầy kiên nhẫn! Nghiên cứu sinh thái học tại Tây Úc cho thấy Thằn Lằn Quỷ Gai không bao giờ đuổi theo đàn kiến tốn sức! Nó chọn ngồi lì đúng tại ngã tư đường mòn giao nhau vào lúc sáng sớm hoặc chiều mát khi đàn kiến đi kiếm ăn đông nhất! Mỗi cú phóng lưỡi dính diễn ra trong chớp mắt, tiêu thụ hàng ngàn con kiến chứa axit formic nhưng lại giữ cho độ pH dạ dày cân bằng hoàn hảo nhờ dịch đệm kiềm tính đặc biệt! Đặc biệt, chiếc gù mỡ sau cổ và phần đuôi mập của nó đóng vai trò như một kho pin thực phẩm dự trữ, giúp nó nhịn ăn hoàn toàn suốt mùa đông khắc nghiệt khi đàn kiến chui sâu xuống lòng đất!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chưa dừng lại ở đó, ban giám khảo còn chấm thêm điểm cộng cho khả năng giữ gìn và sử dụng răng hàm của Gấu Trúc Lớn! Khác với răng nhọn xé thịt của hổ hay sư tử, răng hàm của Gấu Trúc đã tiến hóa to gấp bảy lần bình thường với lớp men răng cực dày có khả năng tự phục hồi các vết nứt siêu nhỏ khi nhai tre cứng suốt mười bốn tiếng mỗi ngày! Còn gã khổng lồ Hà Mã nhờ có dạ dày ba ngăn lên men hiệu quả mà có thể ung dung dành tới mười sáu tiếng mỗi ngày ngâm mình nghỉ ngơi dưới sông mà chẳng cần ăn suốt cả ban ngày!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ban giám khảo công bố kết quả Vòng bốn! Huy chương đồng thuộc về Thằn Lằn Quỷ Gai với chiến thuật phục kích ngã tư và kho mỡ đuôi dự trữ năng lượng! Huy chương bạc thuộc về Capybara với cặp răng cửa tự mài sắc mọc vĩnh cửu! Và Huy chương vàng thuộc về Hà Mã với công trạng bơm bốn trăm ký Silicon mỗi ngày nuôi sống dòng sông!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Bảng tổng sắp cập nhật điểm số mới nhất: Gấu Trúc dẫn đầu bốn điểm! Tôm Súng ba điểm! Cá Cung Thủ, Thằn Lằn Quỷ Gai và Hà Mã cùng chạm mốc ba điểm! Lươn Điện, Bọ Pháo Thủ, Capybara đồng hai điểm! Tu Hú và Con Lười một điểm! Vòng năm ngay sau đây sẽ lật mở những xã hội bí mật và sức mạnh bầy đàn gây sốc nhất thế giới động vật! Đừng bỏ lỡ!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene07",
+    "badge": "VÒNG 5",
+    "banner_title": "XÃ HỘI BÍ MẬT",
+    "chapter_title": "Vòng 5: Sức mạnh bầy đàn và những xã hội bí mật chưa từng biết",
+    "hook": "TÔM CHÚA VÀ BẦY LƯƠN SĂN MỒI",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Chào mừng toàn thể khán đài bước vào Vòng năm: Sức mạnh bầy đàn và những xã hội bí mật! Lâu nay chúng ta thường nghĩ những sát thủ mang vũ khí hạng nặng đều thích hành động đơn độc như sói hoang. Nhưng trong thế giới khoa học hiện đại, những phát hiện mới nhất đã lật nhào hoàn toàn định kiến đó! Hãy chuẩn bị tinh thần chứng kiến màn lột xác của ba tuyển thủ đêm nay! Ứng cử viên đầu tiên bước lên bục là pháo thủ đại dương: Tôm Súng! Ai cũng biết nó sống cộng sinh với cá bống gác hang, nhưng ít ai biết một nhánh họ hàng của Tôm Súng lại thiết lập hẳn một... vương quốc ong kiến dưới đáy biển!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Năm một ngàn chín trăm chín mươi sáu, nhà sinh vật học biển Emmett Duffy công bố một phát hiện làm chấn động giới động vật học trên tạp chí Nature danh tiếng! Cho đến trước năm một ngàn chín trăm chín mươi sáu, khái niệm xã hội bậc cao eusociality — tức là có một con chúa duy nhất đẻ trứng, còn hàng trăm con khác hy sinh quyền sinh sản để đi làm lính bảo vệ tổ — chỉ được tìm thấy ở côn trùng như ong, kiến, mối và chuột dũi trần trên cạn!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Và loài tôm súng Synalpheus regalis chính là loài sinh vật biển đầu tiên trên hành tinh được xác nhận sở hữu cấu trúc xã hội bậc cao eusociality giống hệt như kiến và ong! [surprise-oh] Trong một tổ bọt biển chứa hơn ba trăm thành viên đó, chỉ có duy nhất một Tôm Chúa cái khổng lồ làm nhiệm vụ sinh sản! Toàn bộ hàng trăm con tôm lính còn lại — vốn là anh chị em ruột thịt của nhau — hoàn toàn không bao giờ sinh sản! Chúng sở hữu chiếc càng súng lớn hơn hẳn để làm lính gác bảo vệ các lối vào tổ bọt biển trước kẻ thù xâm lược! Khi có cua hoặc cá lạ mon men tới gần, cả đội quân tôm lính đồng loạt búng càng tạo thành dàn pháo thanh âm đẩy lùi kẻ thù bảo vệ Tôm Chúa và đàn em nhỏ an toàn tuyệt đối! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Một đế chế quân sự thu nhỏ có nữ hoàng và binh lính ngay trong lòng đại dương! Một phát hiện thay đổi cả sách giáo khoa sinh học biển! Tiếp theo là một cú sốc thứ hai đến từ rừng rậm Amazon, làm đảo lộn hàng trăm năm hiểu biết của loài người về tuyển thủ Lươn Điện! Suốt hơn hai thế kỷ kể từ thời nhà thám hiểm Alexander von Humboldt, cả thế giới khoa học đều khẳng định Lươn Điện là loài sát thủ cô độc tuyệt đối, đi săn một mình vào ban đêm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Cho đến tháng giêng năm hai ngàn hai mươi mốt, nhóm nghiên cứu của giáo sư Douglas Bastos và tiến sĩ David de Santana công bố phát hiện kinh hoàng trên tạp chí Ecology and Evolution! Họ phát hiện một bầy đàn khổng lồ gồm hơn một trăm con Lươn Điện trưởng thành — dài từ một mét hai đến một mét tám — đang tụ họp và phối hợp săn mồi tập thể giống hệt như bầy sói hay đàn cá voi sát thủ! [surprise-oh] Mỗi khi bình minh và hoàng hôn buông xuống, hơn một trăm con lươn này cùng bơi vòng tròn lùa hàng ngàn con cá nhỏ dồn chặt lại thành một quả cầu mồi khổng lồ sát bờ nước nông! Sau đó, từng tốp từ hai đến mười con Lươn Điện tách đội hình áp sát quả cầu mồi, và cùng lúc phát động một loạt xung điện đồng loạt với tổng điện áp cộng hưởng cực đại! Cú phóng điện tập thể mạnh đến nỗi khiến hàng trăm con cá nhỏ bị giật văng bắn tung lên không trung rồi rơi xuống mặt nước bất tỉnh nhân sự, trở thành bữa tiệc thịnh soạn cho cả trăm thành viên trong bầy! [laughter]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Tuyển thủ thứ ba bước vào vòng đấu xã hội không dùng đến vũ khí giật điện hay búng càng, mà chinh phục khán đài bằng tình mẫu tử vĩ đại của đại gia đình: Capybara! Nghiên cứu về hành vi nuôi con hộ alloparenting do các nhà khoa học Brazil thực hiện đã hé lộ một nét văn hóa cộng đồng cực kỳ nhân văn của Bố Già đầm lầy! Trong một bầy Capybara, tất cả các con cái thường là chị em họ hàng gần gũi. Khi sinh con vào cùng thời điểm, các bà mẹ sẵn sàng cho bất kỳ đứa trẻ nào trong đàn đến bú sữa mà hoàn toàn không phân biệt đâu là con ruột của mình, đâu là con của hàng xóm! Thậm chí ngay từ khi mới sinh ra vài ngày tuổi, chuột con đã mở mắt, mọc đủ lông, biết đi lại và bơi lội theo cả đại gia đình, được tất cả các bác các chú trong bầy cùng đứng gác sủa báo động bảo vệ trước báo đốm và trăn gấm! [surprise-oh]",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Không chịu thua trước các xã hội đoàn kết của Tôm Súng, Lươn Điện hay Capybara, Chim Tu Hú bước lên bục để trình diễn cuộc chạy đua vũ trang tâm lý căng thẳng với chính các chim chủ nhà! Các nhà điểu học phát hiện rằng: một số loài chim chủ thông minh đã tiến hóa khả năng nhận diện hoa văn trứng lạ tinh tường đến mức tự mình kiểm tra từng quả trứng trong tổ! Vì thế, Chim Tu Hú mẹ phải phát triển bộ nhớ không gian siêu việt để ghi nhớ vị trí và lịch đẻ trứng của hàng chục tổ chim hàng xóm cùng lúc, căn đúng khung giờ chiều vắng mặt để đánh tráo trứng hoàn hảo!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Ban giám khảo xin công bố kết quả Vòng năm! Huy chương đồng thuộc về Capybara với văn hóa nuôi con tập thể không phân biệt vô cùng nhân văn! Huy chương bạc thuộc về Lươn Điện với chiến thuật săn mồi bầy đàn hơn một trăm con! Và Huy chương vàng thuộc về Tôm Súng với xã hội ong kiến ba trăm tôm lính dưới đáy biển!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Bảng tổng sắp sau Vòng năm thay đổi vị trí dẫn đầu: Tôm Súng vọt lên ngôi đầu với sáu điểm! Lươn Điện và Gấu Trúc Lớn bám sát phía sau với bốn điểm! Cá Cung Thủ, Quỷ Gai, Hà Mã và Capybara đồng ba điểm! Vòng sáu ngay sau đây sẽ đưa chúng ta bay qua nửa vòng Trái Đất và lặn xuống đáy sông châu Phi trong thử thách Hành trình vĩ đại và định vị không gian!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene08",
+    "badge": "VÒNG 6",
+    "banner_title": "HÀNH TRÌNH VÀ ĐỊNH VỊ",
+    "chapter_title": "Vòng 6: Hành trình vĩ đại và siêu giác quan định vị không gian",
+    "hook": "BAY 16000KM VÀ NGHE BẰNG XƯƠNG HÀM",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Chào mừng toàn thể khán đài bước vào Vòng sáu: Hành trình vĩ đại và siêu giác quan định vị không gian! Ở vòng thi này, ban giám khảo sẽ kiểm tra khả năng vượt không gian và cách các tuyển thủ giao tiếp bằng những giác quan mà con người không hề có! Từ bầu trời Bắc Âu băng giá cho tới lòng sông đục ngầu châu Phi, đấu sĩ nào xứng đáng nhận danh hiệu bậc thầy định vị tối thượng? Tuyển thủ mở màn vòng thi di chuyển khiến tất cả mọi người phải ngước nhìn lên bầu trời: Siêu Trộm Tổ Ấm Chim Tu Hú! Khán giả quen thấy nó loanh quanh bên tổ chim chích, nhưng khả năng bay đường dài của nó mới thực sự là huyền thoại!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Năm hai ngàn mười bốn, nhóm nghiên cứu của nhà điểu học Mikkel Willemoes công bố trên tạp chí PLOS ONE kết quả theo dõi vệ tinh đột phá nhất từng thực hiện trên loài Chim Tu Hú! Thông thường, những loài chim di cư đi đơn độc ban đêm như Tu Hú được cho là bay tản mát theo hướng ngẫu nhiên. Nhưng dữ liệu vệ tinh từ Đan Mạch và Thụy Điển đã cho thấy một sự thật kinh ngạc!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Mỗi năm, một chú Chim Tu Hú nhỏ bé nặng khoảng một trăm gam tự mình bay đơn độc vào ban đêm một hành trình khép kín theo chiều kim đồng hồ dài tới mười sáu ngàn cây số! [surprise-oh] Điều khó tin hơn cả: sau khi vượt hơn năm ngàn cây số xuyên qua sa mạc Sahara chết chóc để tới vùng Sahel phía Đông, khoảng cách sai lệch giữa những con chim bay riêng lẻ này trung bình chỉ cách nhau đúng một trăm sáu mươi bốn cây số! Từ Bắc Âu xuống Đông Nam Âu, sang Trung Phi trú đông, rồi vòng qua Tây Phi bay ngược về châu Âu vào mùa xuân! Một hệ thống định vị GPS sinh học bẩm sinh với sáu trạm dừng chân cố định qua hàng triệu năm không sai một nhịp! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Rời khỏi bầu trời mười sáu ngàn cây số, chúng ta lặn sâu xuống lòng sông đục ngầu châu Phi để kiểm tra siêu giác quan dưới nước của cỗ xe tăng ba tấn: Hà Mã! Câu hỏi đặt ra cho ban giám khảo là: khi lặn hoàn toàn dưới nước tối tăm với đôi tai đã gập kín để ngăn nước vào, làm sao Hà Mã vẫn nghe được âm thanh và xác định chính xác hướng gọi của đồng loại từ dưới đáy sông?",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nghiên cứu âm học dưới nước của tiến sĩ William Barklow đã giải mã khả năng thính giác lưỡng cư độc nhất vô nhị này: Hà Mã nghe âm thanh dưới nước bằng... xương hàm dưới! Khi âm thanh dưới nước truyền tới, rung động đập vào xương hàm dưới, truyền qua dải mô mỡ dẫn âm thẳng vào tai trong bên trái và bên phải, giúp Hà Mã xác định chính xác phương hướng âm thanh giống hệt như người anh em họ xa Cá Heo và Cá Voi! [surprise-oh] Đặc biệt hơn, Hà Mã còn phát ra các xung âm thanh lưỡng cư đồng thời vào cả không khí phía trên lẫn dòng nước phía dưới! Nhờ cơ chế truyền rung động qua hàm dưới, tiếng gọi bầy đàn trầm đục của nó vang xa hàng cây số xuyên thấu mọi lớp bùn đục!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và tuyển thủ thứ ba bước vào bài thi định vị không gian sẽ mang lại cho quý vị một màn trình diễn vừa hài hước vừa khôn ngoan: Gấu Trúc Lớn! Vì sống cô độc giữa rừng tre rậm rạp mênh mông, Gấu Trúc giao tiếp với đồng loại qua những 'bảng tin mùi hương' tiết ra từ tuyến mùi dưới đuôi và nước tiểu quệt lên thân cây!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng ở đây có một quy luật cạnh tranh ngầm cực kỳ khốc liệt: vết mùi càng nằm ở vị trí cao trên thân cây thì chủ nhân của nó càng được coi là to lớn, khỏe mạnh và đáng gờm nhất! Vậy một chú Gấu Trúc đực lùn mũm mĩm phải làm sao? Nghiên cứu của tiến sĩ Ron Swaisgood tại vườn thú San Diego và khu bảo tồn Ngọa Long ghi nhận một pha xiếc thú không tưởng: Gấu Trúc đực chống hai tay trước xuống đất, lộn ngược người... trồng cây chuối đẩy hai chân sau bò ngược lên thân cây! [laughter] Ở tư thế trồng cây chuối thẳng đứng đó, chú gấu xịt nước tiểu và bôi mùi hương lên cao chót vót trên thân cây! Một chiêu 'khai gian chiều cao' cực kỳ thông minh khiến các tình địch trẻ tuổi đi ngang qua ngửi thấy liền khiếp sợ bỏ đi không dám gây sự! [laughter]",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Cũng trong bài thi di chuyển không gian, hãy nhìn qua đồng hồ đo quãng đường của hai tuyển thủ sống tại ranh giới nước và cây cối: Con Lười và Cá Cung Thủ! Trên những ngọn cây cao, trung bình mỗi ngày Con Lười chỉ di chuyển được vỏn vẹn khoảng ba mươi tám mét — tức là chưa bằng một nửa chiều dài sân bóng đá! Nhưng điều kỳ diệu là dù sống ở vùng cửa sông nơi độ mặn thay đổi chóng mặt theo thủy triều mỗi ngày, Cá Cung Thủ vẫn điều chỉnh được áp suất thẩm thấu trong máu một cách hoàn hảo để sống khỏe ở cả nước ngọt lẫn nước lợ!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Và đừng quên khả năng tăng tốc tẩu thoát bất ngờ trên cạn của Bố Già Capybara khi phát hiện kẻ săn mồi nguy hiểm tiếp cận bất ngờ! Nhờ cấu tạo bốn ngón có màng ở hai chân trước và ba ngón có màng ở hai chân sau, Bố Già đầm lầy phóng mình lao thẳng xuống dòng sông sâu chỉ trong nháy mắt, đồng thời chuyển hẳn đồng hồ sinh học sang kiếm ăn hoàn toàn vào ban đêm khi khu vực có nhiều mối đe dọa rình rập! Còn anh chàng Tôm Súng dưới rạn san hô lại có một chiến thuật giữ liên lạc đặc biệt: mỗi khi bầy tôm lính búng càng đồng loạt, sóng âm thanh vang xa hàng trăm mét dưới đáy biển để cảnh báo lãnh thổ cho các rạn lân cận!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Kết quả Vòng sáu tuyệt vời đã có! Huy chương đồng thuộc về Gấu Trúc Lớn với tuyệt chiêu trồng cây chuối đánh dấu lãnh thổ lừa tình địch! Huy chương bạc thuộc về Hà Mã với công nghệ nghe âm thanh dưới nước qua xương hàm dưới! Và Huy chương vàng thuộc về Chim Tu Hú với đường bay vệ tinh mười sáu ngàn cây số!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Bảng điểm sau Vòng sáu trở nên cực kỳ sít sao: Tôm Súng dẫn đầu với sáu điểm! Hà Mã và Gấu Trúc Lớn đồng hạng nhì với năm điểm! Lươn Điện và Chim Tu Hú bám sát với bốn điểm! Cá Cung Thủ, Quỷ Gai và Capybara đồng ba điểm! Bọ Pháo Thủ hai điểm và Con Lười một điểm! Bây giờ, trước khi bước vào ba chặng đua nước rút cuối cùng, mời toàn thể quý vị đến với Lễ Trao Giải Phụ: Di sản tiền sử và những họ hàng quái đản nhất!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene09",
+    "badge": "GIẢI PHỤ",
+    "banner_title": "DI SẢN TIỀN SỬ",
+    "chapter_title": "Lễ trao giải phụ: Các cụ tổ khổng lồ 4 tấn và những họ hàng dị biệt",
+    "hook": "LƯỜI KHỔNG LỒ VÀ BỌ KÝ SINH TỔ KIẾN",
+    "mood": "bi_hai",
+    "parts": [
+     {
+      "text": "[surprise-oh] Chào mừng toàn thể quý vị khán giả đến với sự kiện đặc biệt giữa hiệp hai của Mùa hai: Bảo Tàng Di Sản Tiến Hóa và Lễ Trao Giải Phụ! Không tính vào điểm vô địch, nhưng lễ trao giải phụ đêm nay sẽ bật mí những bí mật chấn động về cụ tổ tiền sử và những người anh em họ hàng kỳ quái nhất của các tuyển thủ! Danh hiệu phụ đầu tiên — Giải thưởng 'Cụ Tổ Khổng Lồ Đáng Sợ Nhất Tiền Sử' — xin được xướng tên họ hàng cổ đại của chú Con Lười bé nhỏ đang ngồi ngủ gật kia!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nếu ngày nay Con Lười chỉ nặng khoảng bốn đến năm ki-lô-gam và treo lơ lửng trên ngọn cây, thì chỉ khoảng mười ngàn năm trước, cụ tổ của nó mang tên Lười Đất Khổng Lồ Megatherium là một quái vật ngang ngửa voi ma mút! Với chiều cao khi đứng thẳng lên tới sáu mét và nặng tới bốn tấn, Lười Đất Khổng Lồ sở hữu bộ móng vuốt dài ngang thanh kiếm để đào những đường hầm ngầm khổng lồ xuyên qua lớp đất đá cứng ở Nam Mỹ! Những đường hầm cổ đại mang tên Paleoburrows tại Brazil dài hàng trăm mét và cao tới hai mét vẫn còn nguyên vẹn vết cào khổng lồ trên vách đá, khiến các nhà địa chất từng lầm tưởng là công trình của người cổ đại! Thậm chí từng tồn tại một nhánh họ hàng mang tên Lười Biển Thalassocnus sống dọc bờ biển Peru, tiến hóa bộ xương nặng trĩu để lặn xuống đáy Thái Bình Dương gặm rong biển hệt như loài bò biển! [surprise-oh] Một cúp lưu niệm hóa thạch xứng đáng được trao tặng cho dòng họ Lười vĩ đại!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Danh hiệu phụ thứ hai — Giải thưởng 'Cuộc Đào Tẩu Hóa Thạch Lâu Đời Nhất' — thuộc về Gấu Trúc Lớn với hóa thạch cụ tổ Ailurarctos tám triệu năm tuổi tại tỉnh Vân Nam! Phát hiện hóa thạch này chứng minh rằng ngay từ tám triệu năm trước, tổ tiên của Gấu Trúc đã có chiếc xương cổ tay mọc dài ra thành ngón tay giả thứ sáu để cầm nắm thân tre ăn uống! [surprise-wa]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Danh hiệu phụ thứ ba — Giải thưởng 'Điệp Viên Nằm Vùng Bất Tử' — khiến cả hội đồng khoa học phải bật cười nghiêng ngả, thuộc về họ hàng nhà Bọ Pháo Thủ mang tên Paussinae! Khác với Bọ Pháo Thủ của chúng ta dùng súng một trăm độ C bắn nhau tóe lửa, nhánh họ hàng Paussinae lại cất súng đi và tiến hóa tuyến tiết ra đúng hợp chất hóa học mùi hương của... Kiến Chúa! Chui vào tận phòng ngủ hoàng gia của đàn kiến, chú bọ này sống êm ấm như một vị hoàng đế, được kiến thợ chăm sóc hầu hạ lau chùi, và thỉnh thoảng lén ăn thịt luôn cả ấu trùng kiến con mà đàn kiến không hề hay biết! [laughter]",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Và danh hiệu phụ cuối cùng — Giải thưởng 'Dòng Họ Điệp Viên Bí Ẩn Nhất' — dành tặng cho các cô nàng Chim Tu Hú với bí mật di truyền mang tên Gentes! Làm sao một loài chim Tu Hú có thể làm giả trứng giống hệt của hàng chục loài chim chủ khác nhau mà không bị lai tạp màu sắc lẫn lộn? Các nhà di truyền học giải mã được rằng: bộ gen quy định màu sắc và hoa văn vỏ trứng của Tu Hú nằm trọn trên nhiễm sắc thể W — thứ chỉ truyền thẳng từ chim mẹ sang con gái! Nhờ vậy, trong cùng một loài chia thành hàng chục dòng họ bí mật truyền nghề gia truyền suốt hàng ngàn năm mà không bao giờ bị mất bí kíp! [surprise-oh]",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Và giải thưởng phụ thứ năm — danh hiệu 'Khu Vườn Sinh Thái Di Động Đông Đúc Nhất' — tiếp tục gọi tên Con Lười với hơn chín trăm con bọ cánh cứng, bướm đêm và hàng triệu vi sinh vật chung sống hòa bình trên cùng một bộ lông! Trên thực tế, mỗi sợi lông thô bên ngoài của Con Lười có các vết nứt siêu nhỏ chạy dọc theo chiều dài, đóng vai trò như những căn hộ chung cư lý tưởng giữ nước mưa để cả hệ sinh thái tí hon cùng phát triển! Tiếp theo là giải thưởng 'Sinh Con Khắc Nghiệt Nhất Thế Giới Thú' dành cho Gấu Trúc Lớn! Trong khoảng gần một nửa số ca sinh nở, gấu trúc mẹ đẻ ra hai chú gấu con sinh đôi tí hon yếu ớt! Trong suốt tuần đầu tiên sau khi sinh, gấu mẹ khổng lồ phải ôm chặt đứa con bé bằng ngón tay cái vào lòng liên tục không rời nửa bước để truyền hơi ấm! Tuy nhiên trong tự nhiên, nguồn sữa ít ỏi từ khẩu phần ăn tre chỉ đủ cho mẹ nuôi đúng một đứa con khỏe mạnh hơn, đồng thời gấu con sinh ra điếc đặc và phải mất tới bốn mươi lăm ngày sau mới mở mắt nhìn thế giới lần đầu tiên!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Cuối cùng là giải 'Bậc Thầy Hợp Tác Không Cần Ngôn Ngữ' dành cho cặp bạn thân Tôm Súng và Cá Bống! Dù Tôm Súng mắt cực kém, chỉ cần một cái chạm râu nhẹ lên đuôi Cá Bống là cả hai phối hợp tác chiến ăn ý hàng chục năm liền! Tôm Súng cặm cụi dọn dẹp xây sửa căn hầm dưới cát mỗi ngày, còn Cá Bống kiên nhẫn đứng gác cửa và thậm chí chia sẻ luôn cả những mẩu thức ăn thừa cho người bạn thợ xây mù lòa! Những giải thưởng phụ tuyệt vời đã giúp chúng ta hiểu sâu sắc hơn về cội nguồn của muôn loài! Bây giờ, hãy siết chặt dây an toàn vì trước mắt chúng ta là ba vòng thi quyết định vận mệnh ngôi vương!",
+      "mood": "am_ap"
+     }
+    ]
+   },
+   {
+    "id": "scene10",
+    "badge": "VÒNG 7",
+    "banner_title": "PHÚC KHẢO TIN ĐỒN",
+    "chapter_title": "Vòng 7: Phúc khảo tin đồn — đập tan những lầm tưởng thế kỷ bằng thực nghiệm",
+    "hook": "KHOA HỌC ĐÍNH CHÍNH LẦM TƯỞNG",
+    "mood": "nghiem_trang_gia",
+    "parts": [
+     {
+      "text": "Chào mừng toàn thể khán đài bước vào Vòng bảy: Đấu trường phúc khảo tin đồn và đập tan những hiểu lầm thế kỷ! Trong thế giới tự nhiên, có rất nhiều lời đồn thổi nghe rất lọt tai nhưng thực chất lại sai hoàn toàn về mặt khoa học! Ở vòng đấu này, ban giám khảo sẽ đưa ra bốn lời đồn đại phổ biến nhất về các thí sinh, sau đó dùng bằng chứng thực nghiệm để lật tẩy sự thật! Lời đồn số một nhắm thẳng vào Thằn Lằn Quỷ Gai: rất nhiều bài viết trên mạng khẳng định loài thằn lằn sa mạc Úc chỉ cần ngồi yên buổi sáng là sương đêm tự động ngưng tụ chảy đầy rãnh da để uống!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Liệu sương sớm có thực sự đủ làm đầy mạng lưới rãnh mao dẫn trên cơ thể Quỷ Gai hay không? Tiến sĩ Philipp Comanns đã tiến hành một thí nghiệm cân đo lạnh lùng trong phòng thí nghiệm!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Kết quả cân đo chứng minh lời đồn đó... sai bét! Lượng hơi nước ngưng tụ từ không khí chỉ đủ làm ướt nhẹ bề mặt lớp gai ngoài cùng, hoàn toàn không đủ tạo thành giọt để chảy vào hệ thống rãnh mao dẫn! Thậm chí khi đứng trên cát có độ ẩm lên tới hai mươi hai phần trăm, lượng nước hút từ cát chỉ làm đầy được năm mươi chín phần trăm các rãnh da! Để giải khát triệt để giữa sa mạc khô cằn, Quỷ Gai phải chủ động hất cát ẩm phủ lên khắp lưng mình, ép hai mặt da hút lấy từng phân tử nước từ đất! Một phát hiện dập tắt hoàn toàn huyền thoại 'chỉ ngồi chờ sương rơi'! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Lời đồn số hai gọi tên Nhà Máy Điện Sống: Lươn Điện! Suốt hàng trăm năm, mọi cuốn sách giáo khoa đều dạy rằng Lươn Điện là loài cá săn mồi cô độc tuyệt đối, ghét giao du với đồng loại! Nhưng như chúng ta đã chứng kiến ở Vòng năm từ báo cáo tại lưu vực sông Iriri Brazil năm hai ngàn hai mươi mốt: hơn một trăm con Lươn Điện trưởng thành tụ họp và săn mồi tập thể hai lần mỗi ngày! Từ bảy giờ ba mươi sáng đến năm giờ chiều chúng nghỉ ngơi yên ả dưới đáy bùn, nhưng cứ đúng bình minh và hoàng hôn là cả trăm con hợp sức tạo thành đội quân săn mồi không đối thủ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Lời đồn số ba nhắm vào chú gấu mũm mĩm: Gấu Trúc Lớn! Nhiều người chế giễu rằng Gấu Trúc là một lỗi tiến hóa ngớ ngẩn, dễ bị tuyệt chủng vì lười biếng và vụng về! Khoa học xin phản biện dứt khoát: Gấu Trúc chẳng hề ngớ ngẩn chút nào! Bộ lông trắng đen của nó được tính toán chính xác để ngụy trang hoàn hảo trước mắt thú ăn thịt trong rừng tuyết! Ngoài ra, đột biến gen Đu-ốc hai giúp nó sống khỏe bằng nguồn thức ăn ít ai thèm tranh giành, và nó còn biết dùng hợp chất phân ngựa làm thuốc giảm cảm giác lạnh mùa đông! Nếu không bị con người thu hẹp rừng tre, Gấu Trúc hoàn toàn dư sức ngự trị vùng núi Tứ Xuyên thêm hàng triệu năm nữa!",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Và lời đồn số bốn nhắm vào Bọ Pháo Thủ: Nhiều người thắc mắc tại sao phản ứng sinh nhiệt một trăm độ C lại không làm Bọ Pháo Thủ tự thiêu rụi bụng mình ngay từ phát bắn đầu tiên? Các nhà hóa học hữu cơ giải mã bí mật cực kỳ tinh vi: hai hóa chất hydroquinone và oxy già được chứa tách biệt hoàn toàn trong một túi dự trữ an toàn không hề có chất xúc tác! Phản ứng chỉ xảy ra bên trong buồng phản ứng bọc vỏ chitin cứng như gốm chịu nhiệt trong khoảnh khắc vài phần nghìn giây ngay trước khi bị tống thẳng ra ngoài! Nhờ đó chú bọ luôn an toàn tuyệt đối! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Lời đồn số năm nhắm vào Bố Già Capybara: trên mạng xã hội, nhiều người tin rằng Capybara hiền lành tuyệt đối đến mức không bao giờ cắn bất kỳ ai dù bị chọc ghẹo ra sao! Sự thật đính chính: dù tính tình cực kỳ điềm đạm, nhưng khi bị dồn ép vào góc tường hoặc khi bảo vệ đàn con nhỏ, cặp răng cửa sắc như dao đục của Capybara có thể tung ra cú cắn chí mạng rách toạc thịt kẻ xâm phạm! [surprise-oh]",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Và lời đồn số sáu gọi tên Cá Cung Thủ: nhiều khán giả lầm tưởng loài cá này sống hoàn toàn bằng việc bắn rơi côn trùng đậu trên lá cây! Thực tế nghiên cứu dạ dày cho thấy: phần lớn khẩu phần ăn hàng ngày của Cá Cung Thủ là tôm tép, giáp xác và cá con bơi ngay dưới mặt nước! Kỹ năng bắn tia nước hạ côn trùng là tuyệt chiêu săn mồi bổ sung khi thức ăn dưới nước trở nên khan hiếm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và lời đồn cuối cùng trong vòng phúc khảo nhắm vào Chim Tu Hú: nhiều khán giả cứ nghe thấy tên họ nhà Tu Hú là mặc định rằng một trăm phần trăm các loài chim tu hú trên Trái Đất đều đi đẻ nhờ và hất trứng hàng xóm! Sự thật minh oan từ cuốn chuyên khảo nổi tiếng của Đại học Oxford: trong số khoảng một trăm bốn mươi loài thuộc họ Cu cu trên toàn thế giới, thực chất chỉ có khoảng năm mươi chín loài sống ký sinh đẻ nhờ! Hơn một nửa gia tộc họ hàng của Tu Hú — với hơn tám mươi loài khác nhau — vẫn tự mình chăm chỉ tha rơm xây tổ, tự ấp trứng và mớm mồi nuôi con khôn lớn như những ông bố bà mẹ mẫu mực nhất! [laughter]",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Kết quả Vòng bảy phúc khảo tin đồn: Huy chương vàng thuộc về Thằn Lằn Quỷ Gai với thí nghiệm lật tẩy huyền thoại uống sương đêm! Huy chương bạc thuộc về Lươn Điện với bằng chứng lật đổ định kiến săn mồi cô độc! Huy chương đồng thuộc về Bọ Pháo Thủ với cơ chế van cách ly chống tự nổ!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Bảng điểm sau Vòng bảy trở nên căng thẳng đến nghẹt thở: Ba tuyển thủ đồng dẫn đầu với sáu điểm là Tôm Súng, Lươn Điện và Thằn Lằn Quỷ Gai! Gấu Trúc và Hà Mã bám sát phía sau với năm điểm! Bọ Pháo Thủ và Chim Tu Hú bốn điểm, Cá Cung Thủ và Capybara ba điểm, Con Lười một điểm! Trước mắt chúng ta chỉ còn Vòng Bán Kết và Vòng Chung Kết điểm nhân đôi! Ai sẽ bứt tốc vào phút chót? Xin mời theo dõi ngay sau đây!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene11",
+    "badge": "BÁN KẾT",
+    "banner_title": "ÁP SUẤT VÀ Y HỌC",
+    "chapter_title": "Bán kết: Tia X đồng bộ xuyên bụng bọ và kho báu thuốc trong lông lười",
+    "hook": "CÚ LỘI NGƯỢC DÒNG NGOẠN MỤC",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Chào mừng toàn thể quý vị khán đài bước vào Vòng Bán Kết sinh tử của Đại Hội Sinh Tồn Mùa hai! Chỉ còn một bước chân nữa thôi là chúng ta sẽ bước vào Vòng Chung Kết nhân đôi điểm số! Và đúng như tinh thần của giải đấu, Vòng Bán Kết sẽ chứng kiến những công nghệ nghiên cứu tối tân nhất thế kỷ hai mươi mốt được chiếu trực tiếp lên sàn đấu! Đấu sĩ mở màn Bán Kết là chú bọ tí hon từng bị đánh giá thấp nhất lúc khai mạc: Bọ Pháo Thủ! Lần này chúng ta không nhìn từ bên ngoài mà nhìn xuyên thấu vào bên trong bụng chú bọ khi nó đang nhả đạn!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Năm hai ngàn mười lăm, một nhóm khoa học gia tại Viện Công Nghệ Massachusetts MIT và Đại học Arizona đã thực hiện một kỳ tích chưa từng có: đưa Bọ Pháo Thủ vào máy gia tốc hạt synchrotron quay phim tia X tốc độ hai ngàn khung hình mỗi giây!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Đoạn phim tia X đã vén bức màn bí mật về cơ chế van tự động thiên tài bên trong cơ thể dài chưa đầy hai phân này! Ngay khi tia hơi nóng được tống ra ngoài qua nòng pháo, áp suất trong buồng phản ứng tụt xuống, cánh van lại tự động bật mở cho một giọt nhiên liệu mới chảy xuống! Đây chính là cơ chế tự điều áp bằng chính vụ nổ của mình mà không cần tiêu tốn năng lượng não bộ để điều khiển từng phát bắn! Một cỗ máy cơ khí sinh học hoàn mỹ tuyệt đối! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Tuyển thủ thứ hai bước lên sàn Bán Kết khiến cả hội trường phải lặng người vì ngạc nhiên: Thánh sống chậm Con Lười! Kẻ đang đứng cuối bảng tổng sắp với chỉ một điểm duy nhất! Nhiều người nghĩ Con Lười chẳng làm được gì ngoài việc treo ngược ngủ gật. Nhưng năm hai ngàn mười bốn, tiến sĩ Sarah Higginbotham tại Viện Nghiên cứu Nhiệt đới Smithsonian đã phát hiện một kho báu y học nằm ngay trên bộ lông thô ráp của nó! Từ mẫu lông của chỉ chín chú Con Lười ba ngón hoang dã, các nhà khoa học đã phân lập nuôi cấy thành công tới tám mươi bốn chủng nấm độc đáo thuộc ngành nấm túi, trong đó có những loài chưa từng được nhân loại biết tới!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Và khi đưa chiết xuất từ những chủng nấm lông lười này đi thử nghiệm sinh học, kết quả thu được làm rung chuyển cả ngành dược học thế giới! Bảy mươi bốn chủng nấm được chiết xuất thử nghiệm: hai mươi phẩy sáu phần trăm số mẫu đã tiêu diệt và ức chế cực mạnh tế bào ung thư vú Mờ-xê-ép bảy ở người! Chưa hết, nhiều chủng nấm khác trên lông Con Lười còn tỏ ra cực kỳ hiệu quả trong việc tiêu diệt ký sinh trùng gây bệnh sốt rét ác tính Plasmodium falciparum, bệnh Chagas nhiệt đới và hai mươi chủng nấm có khả năng kháng vi khuẩn gây bệnh kháng thuốc! [surprise-oh] Một hiệu thuốc di động sống treo lơ lửng trên ngọn cây rừng nhiệt đới! Ai dám bảo Thánh sống chậm là vô dụng nào? [laughter]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Tuyển thủ thứ ba mang đến bài thi cuối cùng của Bán Kết: Cá Cung Thủ! Bên cạnh trí tuệ nhớ bốn mươi bốn khuôn mặt người, nghiên cứu của Wöhl và Schuster còn giải mã tốc độ phản xạ thần tốc của loài cá này! Ngay khi con mồi trên cành vừa bị bắn rơi và chạm mặt nước hoặc rơi tự do trong không trung, bộ não cá chỉ mất vỏn vẹn bốn mươi mili-giây để tính toán lại toàn bộ góc quay cơ thể! Hơn nữa, mắt của Cá Cung Thủ tiến hóa hai vùng võng mạc chuyên biệt: vùng dưới nhìn sắc nét dưới nước tối và vùng trên chuyên nhìn xuyên qua mặt nước để phóng đại hình ảnh côn trùng giữa không trung!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Không chỉ dừng lại ở đó, ban giám khảo còn kiểm tra khả năng chịu đựng và duy trì nòi giống trong điều kiện khắc nghiệt của Hà Mã và Thằn Lằn Quỷ Gai! Trong cơ bắp đồ sộ của Hà Mã chứa mật độ myoglobin dự trữ oxy cực cao tương tự các loài cá voi đại dương! Nhờ kho oxy dự trữ trong từng thớ thịt đó, nó dễ dàng chạy bộ phi nước đại dưới đáy sông suốt năm phút mà không hề mỏi cơ! Còn Thằn Lằn Quỷ Gai mái đến mùa sinh sản lại tự mình đào một đường hầm sâu tới ba mươi xăng-ti-mét dưới cát cứng sa mạc, đẻ từ ba đến mười quả trứng rồi lấp kín xóa sạch mọi dấu vết! Khoảng ba đến bốn tháng sau, những chú quỷ gai con nở ra từ dưới lòng đất, tự mình đội cát chui lên với bộ giáp gai mini sắc nhọn sẵn sàng chiến đấu ngay từ ngày đầu tiên! Còn Bố Già Capybara thì sao? Để bảo toàn mạng sống trong mùa khô khắc nghiệt khi đầm lầy cạn kiệt, hàng trăm cá thể tụ họp thành đại liên minh rộng lớn cùng canh gác cho nhau trước móng vuốt báo đốm Jaguar!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Kết quả Vòng Bán Kết lịch sử đã có! Huy chương đồng thuộc về Cá Cung Thủ với phản xạ bốn mươi mili-giây và cấu trúc mắt kép nhìn xuyên mặt nước! Huy chương bạc thuộc về Con Lười với vườn nấm tám mươi bốn chủng diệt sốt rét và tế bào ung thư! Và Huy chương vàng thuộc về Bọ Pháo Thủ với phát hiện tia X đồng bộ van nổ tự điều áp!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Hãy nhìn lên Bảng Tổng Sắp ngay trước giờ bước vào Vòng Chung Kết! Cuộc đua kịch tính chưa từng thấy trong lịch sử: Bốn tuyển thủ đồng hạng nhất với sáu điểm là Tôm Súng, Lươn Điện, Thằn Lằn Quỷ Gai và Bọ Pháo Thủ! Gấu Trúc Lớn và Hà Mã bám ngay phía sau với năm điểm! Chim Tu Hú và Cá Cung Thủ bốn điểm! Capybara và Con Lười ba điểm! Thời khắc quyết định vận mệnh Mùa hai đã điểm! Xin mời toàn thể khán đài tiến vào Vòng Chung Kết: Món Quà Cho Nhân Loại!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene12",
+    "badge": "CHUNG KẾT",
+    "banner_title": "MÓN QUÀ CHO NHÂN LOẠI",
+    "chapter_title": "Chung kết: Món quà cho nhân loại — công nghệ đột phá tương lai",
+    "hook": "ĐIỂM NHÂN ĐÔI ĐỊNH ĐOẠT VƯƠNG MIỆN",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Giờ phút thiêng liêng nhất của Đại Hội Sinh Tồn Mùa hai đã đến: Vòng Chung Kết Tối Thượng! Như đã công bố từ đầu giải, mọi huy chương tại vòng chung kết này sẽ được nhân đôi điểm số! Huy chương vàng trị giá sáu điểm! Huy chương bạc bốn điểm! Và huy chương đồng hai điểm! Với bốn ứng cử viên đang hòa nhau ở mốc sáu điểm và sáu ứng cử viên bám sát ngay phía sau, bất kỳ điều điên rồ nào cũng có thể xảy ra! Chủ đề thi đấu cao quý nhất của đêm chung kết là: Món Quà Cho Nhân Loại! Khoa học và kỹ thuật loài người đã học hỏi được những công nghệ thay đổi thế giới nào từ mười quái kiệt này?",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ứng cử viên mở màn Chung Kết là Tôm Súng! Ngoài khả năng tạo plasma dưới nước hiệu suất cao gấp mười lần máy laser tại Đại học Texas A&M, sóng xung kích cavitation của nó còn đang được nghiên cứu ứng dụng trong xử lý nước thải và khoan đá ngầm không gây ô nhiễm! Bằng cách hội tụ năng lượng cơ học vào một điểm sụp đổ bong bóng khí siêu nhỏ, các kỹ sư có thể tạo ra phản ứng hóa học nhiệt độ cao để phân hủy chất độc công nghiệp dưới nước mà không cần hóa chất tẩy rửa độc hại!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ứng cử viên thứ hai bước lên bục trình diễn công nghệ là Thằn Lằn Quỷ Gai! Dựa trên thí nghiệm cân đo rãnh da năm hai ngàn mười sáu và nghiên cứu tổng hợp năm hai ngàn mười bảy của tiến sĩ Philipp Comanns, các kỹ sư vật liệu đã phát minh ra tấm màng thu ẩm sa mạc thụ động! Lấy cảm hứng từ cấu trúc rãnh hình nêm dẫn nước một chiều chống bay hơi của chú thằn lằn sa mạc Úc, những tấm màng kim loại khắc laser vi mô này có khả năng hút ẩm từ sương đêm và đất ẩm dẫn về bể chứa mà không tốn một Oát điện năng nào!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ứng cử viên thứ ba: Lươn Điện! Một phát minh công nghệ y sinh từng lên trang bìa tạp chí Nature cuối năm hai ngàn mười bảy của giáo sư Michael Mayer và tiến sĩ Thomas Schroeder! Thay vì dùng pin kim loại cứng chứa hóa chất độc hại có nguy cơ rò rỉ trong cơ thể bệnh nhân, nhóm nghiên cứu đã xếp hàng ngàn giọt gel nước hydrogel chứa muối ion xen kẽ qua màng chọn lọc! Khi tiếp xúc đồng thời, hàng ngàn ngăn gel mềm tạo ra hiệu điện thế lên tới một trăm mười Vôn hoàn toàn tương thích sinh học với cơ thể người! Mở ra kỷ nguyên cung cấp năng lượng vĩnh cửu cho máy tạo nhịp tim, kính áp tròng thông minh và robot mềm y tế! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ứng cử viên thứ tư khiến cả khán đài xúc động nghẹn ngào: Thánh sống chậm Con Lười! Kẻ bị chế giễu suốt từ đầu giải đấu lại đang nắm giữ chìa khóa cứu sống hàng triệu bệnh nhân! Hơn hai mươi phần trăm số chủng nấm phân lập từ bộ lông rêu xanh của Con Lười có khả năng tiêu diệt tế bào ung thư vú Mờ-xê-ép bảy, bên cạnh những hoạt chất cực mạnh chống lại ký sinh trùng sốt rét và vi khuẩn kháng kháng sinh đang đe dọa nhân loại! Một loài vật đi chậm nhất hành tinh nhưng lại đi trước ngành dược học hiện đại cả một bước tiến dài! [surprise-wa]",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Và ứng cử viên cuối cùng bước lên sân khấu Chung Kết là pháo thủ tí hon nửa gam: Bọ Pháo Thủ! Công trình khoa học của giáo sư Andy McIntosh tại Đại học Leeds nước Anh đã làm thay đổi ngành công nghệ phun đốt toàn cầu! Công nghệ phun sương chớp nhoáng mang thương hiệu µMist mô phỏng chính xác van cơ học buồng phản ứng của Bọ Pháo Thủ: không cần máy bơm áp suất cao cồng kềnh hay khí nén độc hại, chỉ dùng nhiệt năng nhỏ tạo vụ nổ hơi giãn nở! Công nghệ này giúp tăng hiệu suất đốt cháy nhiên liệu của động cơ tên lửa và tua-bin khí, tạo ra các ống hít thuốc hen suyễn chính xác tới từng mi-crô-mét, và đặc biệt là chế tạo ra súng chữa cháy rừng thế hệ mới! Chỉ từ một buồng nén nhỏ dài năm xăng-ti-mét, thiết bị mô phỏng Bọ Pháo Thủ bắn luồng sương dập lửa xa tới mười mét với lượng nước tiết kiệm gấp nhiều lần! Một phát minh cứu rừng và cứu người vô cùng vĩ đại! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và trước khi trao giải, ban giám khảo còn tôn vinh hai món quà y học đầy bất ngờ từ hai chú gấu và hà mã! Thứ nhất, năm hai ngàn mười hai các nhà khoa học đã giải mã bộ gen của Gấu Trúc Lớn và phát hiện ra một chuỗi peptit kháng khuẩn cực mạnh mang tên cathelicidin-AM! Trong thử nghiệm diệt vi khuẩn Staphylococcus kháng thuốc, hợp chất từ Gấu Trúc tiêu diệt sạch vi khuẩn chỉ trong chưa đầy một giờ đồng hồ, nhanh gấp sáu lần so với thuốc kháng sinh clindamycin thông thường mất tới sáu giờ! [surprise-oh] Còn sắc tố axit hipposudoric từ mồ hôi đỏ của Hà Mã chặn đứng toàn bộ dải tia cực tím từ hai trăm đến sáu trăm na-nô-mét mà lại không hòa tan trôi tuột trong nước và thân thiện với rạn san hô — mở đường chế tạo kem chống nắng sinh học thế hệ mới bảo vệ đại dương!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Thời khắc công bố kết quả Chung Kết điểm nhân đôi đã điểm! Sau khi cân nhắc giá trị khoa học, tính ứng dụng thực tiễn và sức lan tỏa nhân văn, hội đồng giám khảo xin tuyên bố: Huy chương đồng Chung Kết và hai điểm thuộc về Lươn Điện với phát minh pin sinh học mềm hydrogel nuôi máy tạo nhịp tim tương lai! Huy chương bạc Chung Kết và bốn điểm thuộc về... Con Lười! Với vườn nấm kỳ diệu trên bộ lông giúp con người chống lại bệnh sốt rét và tế bào ung thư! [surprise-wa] Và Huy chương vàng Chung Kết cùng sáu điểm quyết định của Đại Hội Sinh Tồn Mùa hai chính thức thuộc về... Bọ Pháo Thủ! Với công nghệ phun sương vi mô cứu hỏa và động cơ tên lửa vũ trụ!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Từ vị trí bị đánh giá chỉ vào thi cho đủ đội hình, chú bọ dài hai phân đã làm nên cú lội ngược dòng vĩ đại nhất mọi thời đại! Mời toàn thể quý vị cùng hướng mắt lên Bảng Tổng Sắp Chung Cuộc ngay sau đây!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene13",
+    "badge": "TỔNG SẮP",
+    "banner_title": "BẢNG VÀNG MÙA 2",
+    "chapter_title": "Lễ trao huy chương và bảng tổng sắp điểm số Mùa 2",
+    "hook": "TÂN VƯƠNG NỬA GAM ĐĂNG QUANG",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "[surprise-oh] Khoảnh khắc lịch sử của Đại Hội Sinh Tồn Mùa hai đã chính thức khép lại mọi dự đoán! Xin mời toàn thể mười tuyển thủ và hàng vạn khán giả cùng hướng mắt lên Bảng Tổng Sắp Cuối Cùng! Trải qua tám vòng đấu khốc liệt với một trăm phần trăm dữ liệu khoa học mới hoàn toàn, bảng vàng danh dự Mùa hai đã ghi tên những nhà chinh phục xứng đáng nhất!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và Tân Vương của Đại Hội Sinh Tồn Mùa hai chính thức gọi tên: Bọ Pháo Thủ với tổng điểm mười hai điểm! Hai huy chương vàng, một huy chương bạc và một huy chương đồng! [surprise-wa] Nặng chưa đầy nửa gam và từng bị các chuyên gia gạch tên ngay từ vòng cân ký! Nhưng với buồng phản ứng tia X đồng bộ, cơ chế van nổ tự điều áp không cần khí đẩy và bằng sáng chế công nghệ cứu hỏa bắn xa mười mét, Bọ Pháo Thủ đã chinh phục trọn vẹn cả thế giới!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ngôi vị Á Quân thuộc về: Lươn Điện với tám điểm! Ba huy chương bạc và hai huy chương đồng! Đập tan định kiến sống cô độc bằng màn săn mồi bầy đàn hơn một trăm con tại sông Iriri, cùng phát minh pin mềm hydrogel một trăm mười Vôn nuôi sống trái tim nhân loại! Xứng danh chiến thần đầm lầy Nam Mỹ! Và cú lội ngược dòng ngoạn mục nhất đêm nay gọi tên: Con Lười ở vị trí Hạng Ba chung cuộc với bảy điểm! Hai huy chương bạc và một huy chương đồng! [laughter] Từ một thí sinh bị trêu chọc vì mất mười phút mới trả lời xong một câu hỏi, Con Lười đã chứng minh sức mạnh phi thường với hệ thống dây chằng treo nội tạng, cụ tổ khổng lồ bốn tấn và tám mươi bốn chủng nấm chống ung thư sốt rét trên bộ lông!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Xếp ngay sát nút phía sau là hai chiến binh sáu điểm: Tôm Súng với hai huy chương vàng nhờ công nghệ tạo plasma gấp mười lần laser và đế chế xã hội ba trăm tôm lính; cùng Thằn Lằn Quỷ Gai với một vàng, một bạc, một đồng nhờ kỹ thuật hắt cát ẩm và màng thu nước sa mạc! Nhóm năm điểm gọi tên hai gã khổng lồ đáng mến: Hà Mã với danh hiệu cỗ máy bơm bốn trăm ký Silicon mỗi ngày và thính giác xương hàm dưới; cùng Gấu Trúc Lớn với đột biến gen Đu-ốc hai, áo ngụy trang và liệu pháp phân ngựa chống rét! Nhóm bốn điểm vinh danh hai bậc thầy bầu trời và mặt nước: Chim Tu Hú với đường bay vệ tinh mười sáu ngàn cây số và màn cải trang chim ưng; cùng Cá Cung Thủ với bộ não nhận diện bốn mươi bốn khuôn mặt người chính xác tám mươi sáu phần trăm! Và cuối cùng, Bố Già Capybara đạt ba điểm danh dự với một huy chương bạc và một huy chương đồng nhờ cặp răng cửa tự mài sắc và văn hóa nuôi con chung cực kỳ nhân văn!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Khoan đã! Trước khi bước vào lễ bế mạc, anh MC xin phép điểm lại hành trình đáng kinh ngạc của cả mười đấu sĩ và phỏng vấn nhanh bộ ba quán quân đêm nay! Từ những giây phút đầu tiên bị giới chuyên gia chê bai là tí hon và chậm chạp, Bọ Pháo Thủ và Con Lười đã chứng minh rằng giá trị thực sự của sự sống không nằm ở vẻ bề ngoài! Xin chúc mừng Tân Vương Bọ Pháo Thủ! Từ vị trí bị gạch tên ở vòng cân ký cho tới ngôi vương mười hai điểm, cảm xúc của bạn lúc này thế nào?",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Thưa anh MC và toàn thể khán đài, kích thước chưa đầy nửa gam chưa bao giờ là giới hạn! Chỉ cần bạn có áp suất nội tại vững vàng và không bao giờ bỏ cuộc dù có bị nuốt vào bụng cóc, bạn sẽ luôn bùng nổ tỏa sáng!",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "Một phát biểu cực kỳ bùng nổ! Còn Á Quân Lươn Điện thì sao? Từ một sinh vật bị gán mác cô độc, bạn đã cho cả thế giới thấy sức mạnh đoàn kết của bầy đàn hơn một trăm chiến binh! Còn Hạng Ba Con Lười — chủ nhân của cú lội ngược dòng giàu cảm xúc nhất lịch sử Đại Hội Sinh Tồn! Hãy giơ cao hai tấm huy chương bạc và chiếc cúp hiệu thuốc rừng mưa của bạn lên đi nào!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Cảm ơn... tất cả... mọi người... Nhớ bảo vệ... rừng cây... cho tụi mình... treo ngược... ngủ ngon... nha!",
+      "cast": "be_con"
+     },
+     {
+      "text": "Và chúng ta cũng đừng quên bảy người anh hùng còn lại đã chiến đấu hết mình suốt tám vòng thi đấu nghẹt thở đêm nay!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tôm Súng và Thằn Lằn Quỷ Gai đã chứng minh rằng dù nhỏ bé nhưng hỏa lực plasma và kỹ thuật thu hoạch ẩm sa mạc đủ sức khuất phục bất kỳ đối thủ to xác nào! Hà Mã và Gấu Trúc Lớn đã lật đổ mọi định kiến sai lầm bấy lâu nay bằng nguồn khoáng chất Silicon nuôi sống dòng sông và bộ gen tiết kiệm năng lượng thiên tài! Còn bộ ba Chim Tu Hú, Cá Cung Thủ và Bố Già Capybara thì mãi mãi là biểu tượng của trí tuệ định vị không gian, thị giác nhận diện khuôn mặt và tinh thần ngoại giao hòa bình bất diệt! Mười đấu sĩ, mười tuyệt tác tiến hóa độc bản! Không một ai ra về tay trắng, và từng con số đêm nay đều là một lời tri ân sâu sắc gửi tới trí tuệ vĩ đại của mẹ thiên nhiên!",
+      "mood": "don_dap"
+     }
+    ]
+   },
+   {
+    "id": "scene14",
+    "badge": "BẾ MẠC",
+    "banner_title": "BÀI HỌC VÀ HÉ LỘ MÙA 3",
+    "chapter_title": "Bế mạc: Bài học Mùa 2, bảo tồn thiên nhiên và hé lộ dị nhân Mùa 3",
+    "hook": "THÔNG ĐIỆP BẢO TỒN VÀ MÙA 3",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Bọ Pháo Thủ đứng trên đỉnh bục cao nhất, chiếc vương miện vàng bé xíu nằm vừa vặn trên chiếc đầu màu cam ánh kim. Một sinh vật nặng chưa tới nửa gam đã chiến thắng ngoạn mục giữa những cỗ xe tăng nặng tới ba tấn!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Chúc mừng bạn Bọ Pháo Thủ nha! Đợi mình xuống khỏi cái cây chuối này rồi tụi mình cùng đi ăn tiệc tre với cá sấu Caiman nhé!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Nhìn lại toàn bộ tám vòng thi đấu vừa qua, Mùa hai đã dạy cho chúng ta một bài học tuyệt đẹp: trong tự nhiên không hề có sinh vật nào là 'lỗi tiến hóa' hay 'vô dụng'! Mỗi đặc điểm kỳ quặc mà thoạt nhìn ta tưởng là ngớ ngẩn — như việc Con Lười treo ngược, Gấu Trúc lăn phân ngựa hay Hà Mã thải phân xuống nước — thực chất đều là những mắt xích hoàn hảo giữ cho cỗ máy Trái Đất vận hành trơn tru qua hàng triệu năm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và giống như thư viện sống khổng lồ của thiên nhiên, mười loài vật đêm nay đã mở ra cho nhân loại những công nghệ thay đổi cả tương lai: từ pin mềm nuôi trái tim nhân tạo, màng thu nước không tốn điện, vòi phun cứu hỏa xuyên rừng đến thuốc chống ung thư và sốt rét!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "[sigh] Nhưng ngay ngoài cánh cửa đấu trường này, những trang sách quý giá đó đang đối mặt với nguy cơ bị xé rách mãi mãi bởi chính tác động của con người! Rừng mưa nhiệt đới Panama và Amazon bị tàn phá đe dọa ngôi nhà của Con Lười và Lươn Điện — khiến chúng ta có thể mất đi những chủng nấm kháng sinh chưa kịp khám phá! Khu bảo tồn rừng tre Tứ Xuyên cũng cần được gìn giữ từng mét vuông để Gấu Trúc Lớn có đủ nguồn thức ăn quanh năm và giữ lại peptit kháng khuẩn quý giá trong máu của chúng! Đầm lầy Pantanal Nam Mỹ đang đối mặt với những trận cháy rừng lịch sử và hạn hán kéo dài, đe dọa không gian sống bình yên của hàng ngàn Bố Già Capybara và muôn loài chung sống xung quanh! Sự suy giảm quần thể Hà Mã làm đứt gãy nguồn cung bốn trăm ký Silicon mỗi ngày cho các dòng sông châu Phi; còn biến đổi khí hậu khắc nghiệt khiến hành trình di cư mười sáu ngàn cây số của Chim Tu Hú ngày càng gian nan hơn! Tại những rạn san hô Caribe nơi Tôm Súng sinh sống, hiện tượng axit hóa đại dương và tẩy trắng san hô đang phá hủy những ngôi nhà bọt biển của cả đế chế ba trăm tôm lính! Và tại vùng rừng ngập mặn Đông Nam Á, nạn chặt phá rừng ven biển đang thu hẹp môi trường săn mồi độc đáo của những xạ thủ Cá Cung Thủ thông minh!",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Nhưng tin vui cũng đã đến khi nỗ lực bảo tồn toàn cầu phát huy tác dụng! Nhờ việc phục hồi hàng ngàn héc-ta hành lang rừng tre kết nối tại Trung Quốc, Liên minh Bảo tồn Thiên nhiên Quốc tế IUCN đã chính thức hạ cấp Gấu Trúc Lớn từ mức Nguy Cấp xuống mức Sắp Nguy Cấp! Đó là minh chứng hùng hồn nhất cho thấy: khi con người chung tay hành động, thiên nhiên luôn có cơ hội hồi sinh mạnh mẽ! Bởi vì bảo vệ một loài vật bé nhỏ cũng chính là giữ lại cơ hội sống cho chính nhân loại mai sau!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Và bây giờ, lá phiếu quyền lực nhất nằm trong tay của chính bạn! Bạn có đồng ý với ngôi vương của Bọ Pháo Thủ không? Hay trong trái tim bạn, Lươn Điện, Con Lười, Tôm Súng hay Hà Mã mới là nhà vô địch thực thụ? Và trước khi khép lại cánh cửa đấu trường Mùa hai, anh MC có một thử thách nhỏ dành cho các nhà thông thái nhí và khán giả đang theo dõi màn hình: Trong suốt hơn một tiếng vừa qua, chi tiết khoa học mới nào làm bạn bất ngờ nhất: Gấu Trúc tắm phân ngựa chống rét, Cá Cung Thủ nhớ mặt người hay Bọ Pháo Thủ tạo ra súng cứu hỏa? Hãy bình luận tên nhà vô địch của bạn và chia sẻ xem bạn ấn tượng nhất với phát hiện khoa học mới nào dưới phần bình luận nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Mười tập phim lẻ, một đêm đại hội lịch sử với hàng trăm sự thật khoa học kỳ thú! Hy vọng hành trình hơn một giờ đồng hồ cùng Vẽ Chuyện Hoang Dã đã mang đến cho bạn thật nhiều tiếng cười sảng khoái và tình yêu sâu sắc dành cho thế giới tự nhiên! Nếu bạn thích phong cách đại hội tranh tài mới toanh này, đừng ngần ngại chia sẻ video này cho bạn bè và người thân cùng chiêm ngưỡng những kiệt tác tuyệt vời của tạo hóa nhé!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Và xin đừng vội tắt màn hình... bởi vì cánh cửa đường hầm bí mật của Đại Hội Sinh Tồn Mùa ba vừa hé mở những hồ sơ rùng mình nhất!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Một biệt đội dị nhân sở hữu những năng lực tự hủy và tái sinh điên rồ chưa từng thấy chuẩn bị đổ bộ! Một chú ếch tự co cơ bẻ gãy xương ngón chân đâm thủng da thịt làm móng vuốt chiến đấu! Một chú kỳ nhông sáu sừng mọc lại nguyên vẹn cả chi, tủy sống, một phần ba trái tim và não bộ mà không để lại một vết sẹo! Và một sinh vật đáy biển tự bắn toàn bộ ruột gan qua hậu môn trói chặt kẻ thù! Thậm chí còn có sự góp mặt của loài chim cắt lao xuống với vận tốc ba trăm tám mươi chín cây số một giờ, và loài cá mặt trăng nặng hai tấn ngơ ngác bậc nhất đại dương! Cộng thêm những cao thủ tí hon biết biến hóa thành thây ma và loài bò sát có sừng mọc xuyên qua hộp sọ! Mười dị nhân tiếp theo đang nóng lòng chờ ngày ra mắt! Hẹn gặp lại toàn thể quý vị khán giả tại Đại Hội Sinh Tồn Mùa ba! Phóng viên và MC xin chào tạm biệt và hẹn gặp lại!",
+      "mood": "hao_hung"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "don_dap",
+  "text": "[surprise-oh] Mười quái kiệt mới. Tám vòng đấu sinh tử. Một chiếc vương miện! Tôm Súng và Lươn Điện được đặt cược sẽ thắng. Còn Bọ Pháo Thủ nửa gam... chuyên gia bảo tham gia cho vui! [laughter] Vòng một: Tôm Súng tạo dòng plasma dưới nước hiệu suất gấp mười lần máy laser! Vòng hai: Cá Cung Thủ nhận diện được bốn mươi bốn khuôn mặt người dù không có vỏ não! Vòng ba: Gấu Trúc tắm phân ngựa tươi để khóa thụ thể lạnh, còn Quỷ Gai hất cát ẩm lên lưng giải khát! Vòng bốn: Hà Mã bơm bốn trăm ký Silicon mỗi ngày xuống sông nuôi cả hệ sinh thái hồ châu Phi! Vòng năm: Lươn Điện bỏ lối sống cô độc, hợp tác săn mồi theo bầy đàn hơn một trăm con! Chung kết: ai mang lại công nghệ đỉnh cao nhất cho loài người? Nấm lông lười diệt ung thư hay vòi phun tên lửa Bọ Pháo Thủ? [surprise-wa] Và tân vương Mùa hai là... chú bọ nửa gam từng bị gạch tên ngay từ vòng cân ký! [question-ah] Bạn có đồng ý không? Xem trọn tám vòng đấu trong video dài nhé, vì ở đây có mười quái kiệt mới, tám vòng đấu sinh tử, và một chiếc vương miện!"
+ }
+}

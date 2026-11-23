@@ -1,0 +1,10 @@
+{
+  "total_duration": 102.182,
+  "lead_in_sec": 0.4,
+  "gap_sec": 0.35,
+  "parts": {
+    "part0": 70.612,
+    "part1": 30.82
+  },
+  "model": "eleven_v3"
+}

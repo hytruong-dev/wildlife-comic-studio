@@ -1,0 +1,121 @@
+{
+ "title_lines": [
+  "CHUỘT XẤU XÍ NHẤT:",
+  "MIỄN NHIỄM 100% UNG THƯ?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Tại sao loài chuột",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "lại miễn nhiễm hoàn toàn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  },
+  {
+   "at": "Đây là Chuột Chũi Trũi",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "Khi các nhà khoa học",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "at": "37 năm",
+     "side": "R",
+     "y": 820,
+     "value": "37 NĂM",
+     "label": "không mắc ung thư",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Bí mật nằm ở chỗ",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "at": "5 lần",
+     "side": "L",
+     "y": 820,
+     "value": "GẤP 5 LẦN",
+     "label": "siêu keo phân tử",
+     "target": [
+      0.45,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Lớp siêu keo này",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "tạo thành chiếc lồng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "Chưa hết, khi bị nhốt",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "at": "0%",
+     "side": "L",
+     "y": 780,
+     "value": "0% OXY",
+     "label": "buồng kín khí",
+     "target": [
+      0.35,
+      0.5
+     ]
+    },
+    {
+     "at": "18 phút",
+     "side": "R",
+     "y": 880,
+     "value": "18 PHÚT",
+     "label": "vẫn sống khỏe",
+     "target": [
+      0.65,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "nó lập tức biến hình",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "Một kiệt tác y sinh",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  }
+ ]
+}

@@ -1,0 +1,450 @@
+{
+  "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+  "targets": {},
+  "scenes": {
+    "scene01": {
+      "chapter_no": 1,
+      "title": "BẢN VẼ PHÁO ĐÀI RẢI GAI SỐNG",
+      "hook": "PHÁO ĐÀI GAi TỰ ĐỘNG BỎNG MÔN",
+      "card": false,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L01.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "nhiên! Hãy nhìn vào",
+          "image": "assets/long/L02.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "dữ, cũng chẳng cần",
+          "image": "assets/long/L03.png",
+          "stickers": [
+            {
+              "at": "30.000",
+              "side": "right",
+              "y": 420,
+              "value": "30.000 GAI",
+              "label": "KHO VŨ KHÍ GAI",
+              "target": [
+                650,
+                400
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "nhưng trên bàn thiết",
+          "image": "assets/long/L04.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "ung dung và điềm",
+          "image": "assets/long/L05.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "thể bắn lông vèo",
+          "image": "assets/long/L06.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "nào để phóng lông",
+          "image": "assets/long/L07.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "chạm khẽ là tự",
+          "image": "assets/long/L08.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "hiển vi điện tử",
+          "image": "assets/long/L09.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "SƠ ĐỒ VŨ KHÍ"
+    },
+    "scene02": {
+      "chapter_no": 2,
+      "title": "CÔNG NGHỆ NGẠNH MÓC MICROSCOPIC",
+      "hook": "LƯỠI LAO XUYÊN THỦNG VÀ KHÓA CHẶT",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L10.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Ở khoảng 4mm ngoài",
+          "image": "assets/long/L11.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "điều kỳ diệu làm",
+          "image": "assets/long/L12.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "phóng to nhìn gai",
+          "image": "assets/long/L13.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "minh này, lực cần",
+          "image": "assets/long/L14.png",
+          "stickers": [
+            {
+              "at": "54%",
+              "side": "left",
+              "y": 420,
+              "value": "-54%",
+              "label": "LỰC ĐÂM XUYÊN",
+              "target": [
+                350,
+                420
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "sâu xuyên qua da",
+          "image": "assets/long/L15.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "bên trong sâu thẳm",
+          "image": "assets/long/L16.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "ra và móc chặt",
+          "image": "assets/long/L17.png",
+          "stickers": [
+            {
+              "at": "3 lần",
+              "side": "right",
+              "y": 420,
+              "value": "+300%",
+              "label": "LỰC CẢN NHỔ",
+              "target": [
+                700,
+                450
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "khóa chặt bên trong",
+          "image": "assets/long/L18.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "VI NGẠNH NGƯỢC SEM"
+    },
+    "scene03": {
+      "chapter_no": 3,
+      "title": "MŨI KHOAN SINH HỌC DI ĐỘNG",
+      "hook": "ĐI XUYÊN TIM PHỔI BÁO HOA MAI",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L19.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "gốc, nó không hề",
+          "image": "assets/long/L20.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "không thể tụt lùi,",
+          "image": "assets/long/L21.png",
+          "stickers": [
+            {
+              "at": "1mm",
+              "side": "left",
+              "y": 420,
+              "value": "1 mm/h",
+              "label": "TỰ KHOAN SÂU",
+              "target": [
+                400,
+                380
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "chính năng lượng cử",
+          "image": "assets/long/L22.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Chiếc lông nhọn sẽ",
+          "image": "assets/long/L23.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "đói thảm khốc chỉ",
+          "image": "assets/long/L24.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "kẻ săn mồi khát",
+          "image": "assets/long/L25.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "nang lông rất lỏng",
+          "image": "assets/long/L26.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "gánh nặng vũ khí",
+          "image": "assets/long/L27.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "CƠ CHẾ TỰ RÚT SÂU"
+    },
+    "scene04": {
+      "chapter_no": 4,
+      "title": "THUỐC KHÁNG SINH QUÉT TRÊN MŨI TÊN",
+      "hook": "TỰ CHỮA LÀNH KHI NGÃ CÂY",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L28.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "vậy, làm thế nào",
+          "image": "assets/long/L29.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "kẻ vụng về, thường",
+          "image": "assets/long/L30.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "té ngã cực kỳ",
+          "image": "assets/long/L31.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "bao giờ bị nhiễm",
+          "image": "assets/long/L32.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "loại vi khuẩn gram",
+          "image": "assets/long/L33.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "tế bào của các",
+          "image": "assets/long/L34.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "phục hồi nhanh chóng",
+          "image": "assets/long/L35.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "trong mọi tình huống",
+          "image": "assets/long/L36.png",
+          "stickers": [
+            {
+              "at": "10m",
+              "side": "right",
+              "y": 420,
+              "value": "10 MÉT",
+              "label": "ĐỘ CAO TRÈO",
+              "target": [
+                680,
+                420
+              ]
+            }
+          ],
+          "impacts": []
+        }
+      ],
+      "badge": "LỚP MỠ KHÁNG SINH"
+    },
+    "scene05": {
+      "chapter_no": 5,
+      "title": "KIẾN TRÚC VẬT LIỆU COMPOSITE",
+      "hook": "BẬP BỀNH NHƯ PHAO CỨU SINH",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L37.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "khối lượng của chúng",
+          "image": "assets/long/L38.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "thể nào nhấc nổi",
+          "image": "assets/long/L39.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "khao khát đạt được",
+          "image": "assets/long/L40.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "nắn tuyệt vời. Nhưng",
+          "image": "assets/long/L41.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "va đập, vừa biến",
+          "image": "assets/long/L42.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "mỗi chiếc lông chỉ",
+          "image": "assets/long/L43.png",
+          "stickers": [
+            {
+              "at": "0.3g",
+              "side": "left",
+              "y": 420,
+              "value": "0.3 GAM",
+              "label": "TRỌNG LƯỢNG GAI",
+              "target": [
+                380,
+                430
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "con sông lớn mà",
+          "image": "assets/long/L44.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "tiến nhất mà con",
+          "image": "assets/long/L45.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "LÕI XỐP BỌC THÉP"
+    },
+    "scene06": {
+      "chapter_no": 6,
+      "title": "BÀI HỌC TỪ PHÁO ĐÀI RẢI GAI",
+      "hook": "SỨC MẠNH TỪ SỰ TỰ VỆ CHỦ ĐỘNG",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L46.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "lành vết thương khi",
+          "image": "assets/long/L47.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "bao giờ chủ động",
+          "image": "assets/long/L48.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "mình. Nó không cần",
+          "image": "assets/long/L49.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "phạm. Trong cuộc sống",
+          "image": "assets/long/L50.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "xâm phạm! Hãy trang",
+          "image": "assets/long/L51.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Tự Hành tinh vi",
+          "image": "assets/long/L52.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "để giải mã một",
+          "image": "assets/long/L53.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "KẾT LUẬN"
+    }
+  }
+}

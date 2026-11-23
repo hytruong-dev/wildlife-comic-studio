@@ -1,0 +1,351 @@
+{
+ "episode": "tap-39-chim-bach-thanh",
+ "title_lines": [
+  "SÁT THỦ NGÂY THƠ",
+  "BÍ ẨN CÀNH GAI XUYÊN THÂM?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 42.01,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-39-chim-bach-thanh_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  7.45,
+  12.99,
+  15.47,
+  17.53,
+  20.71,
+  23.71,
+  25.81,
+  30.59,
+  32.15,
+  34.73,
+  39.23
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.88,
+     "text": "Bạn có tin"
+    },
+    {
+     "t": 1.32,
+     "text": "một chú chim"
+    },
+    {
+     "t": 2.0,
+     "text": "nhỏ nặng"
+    },
+    {
+     "t": 2.7,
+     "text": "chỉ 50g với"
+    },
+    {
+     "t": 3.94,
+     "text": "vẻ ngoài ngây"
+    },
+    {
+     "t": 4.58,
+     "text": "thơ lại mang danh"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 5.65,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 5.66,
+     "text": "hiệu Sát Thủ"
+    },
+    {
+     "t": 6.36,
+     "text": "Đồ Tể khét"
+    },
+    {
+     "t": 7.04,
+     "text": "tiếng nhất thế"
+    },
+    {
+     "t": 7.54,
+     "text": "giới tự nhiên"
+    },
+    {
+     "t": 8.02,
+     "text": "không? Đó chính"
+    },
+    {
+     "t": 9.9,
+     "text": "là Chim Bách Thanh!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 11.19,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 11.44,
+     "text": "Bí mật rợn"
+    },
+    {
+     "t": 12.08,
+     "text": "người nằm ở"
+    },
+    {
+     "t": 12.84,
+     "text": "chiếc mỏ móc câu"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 13.67,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 13.82,
+     "text": "có hai mấu"
+    },
+    {
+     "t": 14.3,
+     "text": "răng xương sắc"
+    },
+    {
+     "t": 14.94,
+     "text": "bén có"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 15.73,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 15.8,
+     "text": "thể bẻ gãy"
+    },
+    {
+     "t": 16.5,
+     "text": "đốt sống cổ"
+    },
+    {
+     "t": 17.16,
+     "text": "con mồi chỉ"
+    },
+    {
+     "t": 17.78,
+     "text": "trong chớp mắt!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 18.91,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 19.16,
+     "text": "Vì đôi chân"
+    },
+    {
+     "t": 19.54,
+     "text": "chim sẻ quá"
+    },
+    {
+     "t": 20.28,
+     "text": "yếu không thể"
+    },
+    {
+     "t": 20.94,
+     "text": "giữ chặt mồi,"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 21.91,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 21.94,
+     "text": "nó đã sáng"
+    },
+    {
+     "t": 22.38,
+     "text": "tạo ra một"
+    },
+    {
+     "t": 23.0,
+     "text": "tuyệt chiêu độc"
+    },
+    {
+     "t": 23.66,
+     "text": "nhất vô"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 24.01,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 24.02,
+     "text": "nhị: Xiên thủng"
+    },
+    {
+     "t": 25.26,
+     "text": "xác con mồi"
+    },
+    {
+     "t": 25.92,
+     "text": "lên những chiếc"
+    },
+    {
+     "t": 26.5,
+     "text": "gai cây nhọn"
+    },
+    {
+     "t": 27.08,
+     "text": "hoắt hoặc hàng"
+    },
+    {
+     "t": 27.96,
+     "text": "rào dây thép gai"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 28.79,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 28.94,
+     "text": "để làm điểm"
+    },
+    {
+     "t": 29.4,
+     "text": "tựa xé thịt!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 30.35,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 30.6,
+     "text": "Thậm chí những"
+    },
+    {
+     "t": 31.26,
+     "text": "con cào cào"
+    },
+    {
+     "t": 32.04,
+     "text": "cực độc cũng bị"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 32.93,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 33.02,
+     "text": "nó treo gai"
+    },
+    {
+     "t": 33.68,
+     "text": "phơi nắng suốt"
+    },
+    {
+     "t": 34.56,
+     "text": "48 giờ cho"
+    },
+    {
+     "t": 35.48,
+     "text": "bay hết chất"
+    },
+    {
+     "t": 35.98,
+     "text": "độc rồi mới ăn!"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 37.43,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 37.68,
+     "text": "Một kho lương"
+    },
+    {
+     "t": 38.38,
+     "text": "thực rùng rợn"
+    },
+    {
+     "t": 39.06,
+     "text": "biến nó thành"
+    },
+    {
+     "t": 39.96,
+     "text": "thám tử sát"
+    },
+    {
+     "t": 40.76,
+     "text": "thủ thiên tài"
+    },
+    {
+     "t": 41.28,
+     "text": "của bụi rậm!"
+    }
+   ]
+  }
+ ]
+}

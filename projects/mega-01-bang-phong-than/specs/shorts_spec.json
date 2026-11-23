@@ -1,0 +1,445 @@
+{
+ "episode": "mega-01-bang-phong-than",
+ "title_lines": [
+  "10 QUÁI KIỆT",
+  "AI GIỮ NGÔI VƯƠNG?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 46.42,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/mega-01-bang-phong-than_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  4.73,
+  8.57,
+  11.81,
+  17.33,
+  22.85,
+  26.43,
+  27.49,
+  29.43,
+  32.23,
+  34.91,
+  40.35,
+  42.31
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.58,
+     "text": "10 quái kiệt."
+    },
+    {
+     "t": 1.38,
+     "text": "Một chiếc vương"
+    },
+    {
+     "t": 1.86,
+     "text": "miện. Không có hòa!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 2.93,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 3.18,
+     "text": "Hạng 10:"
+    },
+    {
+     "t": 3.46,
+     "text": "Gấu Koala,"
+    },
+    {
+     "t": 4.04,
+     "text": "thà chết đói"
+    },
+    {
+     "t": 4.74,
+     "text": "trước đĩa lá"
+    },
+    {
+     "t": 5.16,
+     "text": "vì não không"
+    },
+    {
+     "t": 5.7,
+     "text": "nhận ra đó"
+    },
+    {
+     "t": 6.2,
+     "text": "là đồ ăn!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 6.77,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 7.02,
+     "text": "Hạng 9:"
+    },
+    {
+     "t": 7.82,
+     "text": "Thú Mỏ Vịt,"
+    },
+    {
+     "t": 8.58,
+     "text": "không dạ dày,"
+    },
+    {
+     "t": 9.02,
+     "text": "ăn cơm với sỏi."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 10.01,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 10.26,
+     "text": "Hạng 8:"
+    },
+    {
+     "t": 10.56,
+     "text": "Bồ Nông,"
+    },
+    {
+     "t": 11.24,
+     "text": "thấy gì cũng"
+    },
+    {
+     "t": 11.68,
+     "text": "há mỏ kẹp"
+    },
+    {
+     "t": 12.28,
+     "text": "thử, từ bồ"
+    },
+    {
+     "t": 13.18,
+     "text": "câu cho tới"
+    },
+    {
+     "t": 13.8,
+     "text": "cả chú Capybara"
+    },
+    {
+     "t": 14.76,
+     "text": "đang ngồi thiền!"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 15.53,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 15.78,
+     "text": "Hạng 7,"
+    },
+    {
+     "t": 16.16,
+     "text": "6 và 5"
+    },
+    {
+     "t": 16.64,
+     "text": "là băng tội"
+    },
+    {
+     "t": 17.06,
+     "text": "phạm: Cánh Cụt"
+    },
+    {
+     "t": 17.98,
+     "text": "trộm sỏi,"
+    },
+    {
+     "t": 18.7,
+     "text": "Rái Cá bắt"
+    },
+    {
+     "t": 19.16,
+     "text": "cóc con tin,"
+    },
+    {
+     "t": 19.86,
+     "text": "Cá Heo chuyền"
+    },
+    {
+     "t": 20.5,
+     "text": "cá nóc làm bóng"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 21.05,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 22.48,
+     "side": "L",
+     "y": 620,
+     "value": "15 KG",
+     "label": "dám cướp mồi gấu",
+     "target": [
+      0.35,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 21.02,
+     "text": "chuyền! Hạng 4:"
+    },
+    {
+     "t": 21.9,
+     "text": "Chồn Gulo"
+    },
+    {
+     "t": 22.48,
+     "text": "15kg dám cướp"
+    },
+    {
+     "t": 23.68,
+     "text": "mồi của gấu xám!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 24.63,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 24.88,
+     "text": "Top 3 Hạng S:"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 25.69,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 25.94,
+     "text": "Tôm Tít có"
+    },
+    {
+     "t": 26.34,
+     "text": "cú đấm nóng"
+    },
+    {
+     "t": 26.88,
+     "text": "ngang Mặt Trời,"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 27.63,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 27.88,
+     "text": "Lửng Mật bị"
+    },
+    {
+     "t": 28.28,
+     "text": "rắn hổ mang"
+    },
+    {
+     "t": 28.8,
+     "text": "cắn vẫn tỉnh"
+    },
+    {
+     "t": 29.48,
+     "text": "dậy ăn nốt"
+    },
+    {
+     "t": 29.92,
+     "text": "con rắn!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 30.43,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 30.68,
+     "text": "Nhưng cả hai"
+    },
+    {
+     "t": 31.16,
+     "text": "vẫn phải ngước"
+    },
+    {
+     "t": 31.64,
+     "text": "nhìn lên một"
+    },
+    {
+     "t": 32.12,
+     "text": "chiếc ngai bé xíu..."
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 33.11,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [
+    {
+     "t": 35.4,
+     "side": "R",
+     "y": 600,
+     "value": "< 1 MM",
+     "label": "nhà vô địch",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 33.36,
+     "text": "Và ngôi vương"
+    },
+    {
+     "t": 33.98,
+     "text": "thuộc về một"
+    },
+    {
+     "t": 34.44,
+     "text": "sinh vật dài"
+    },
+    {
+     "t": 35.06,
+     "text": "chưa tới 1mm,"
+    },
+    {
+     "t": 36.36,
+     "text": "sống sót cả"
+    },
+    {
+     "t": 36.8,
+     "text": "ngoài vũ trụ:"
+    },
+    {
+     "t": 37.6,
+     "text": "Gấu Nước!"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 38.55,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 38.8,
+     "text": "Bạn có đồng"
+    },
+    {
+     "t": 39.18,
+     "text": "ý với bảng"
+    },
+    {
+     "t": 39.64,
+     "text": "xếp hạng này không?"
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "start_s": 40.51,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S13.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 40.76,
+     "text": "Xem trọn bộ"
+    },
+    {
+     "t": 41.26,
+     "text": "đại hội trong"
+    },
+    {
+     "t": 41.74,
+     "text": "video dài,"
+    },
+    {
+     "t": 42.38,
+     "text": "vì ở đây"
+    },
+    {
+     "t": 43.16,
+     "text": "chỉ có..."
+    },
+    {
+     "t": 43.46,
+     "text": "10 quái kiệt,"
+    },
+    {
+     "t": 44.48,
+     "text": "một chiếc vương"
+    },
+    {
+     "t": 45.04,
+     "text": "miện, và không"
+    },
+    {
+     "t": 45.8,
+     "text": "có hòa!"
+    }
+   ]
+  }
+ ]
+}

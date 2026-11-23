@@ -1,0 +1,453 @@
+{
+ "episode": "tap-24-ca-mut-da-hagfish",
+ "title_lines": [
+  "BIẾN 20 LÍT NƯỚC",
+  "THÀNH KEO NHỚT?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 48.91,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-24-ca-mut-da-hagfish_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  4.65,
+  9.13,
+  12.97,
+  18.01,
+  23.73,
+  29.43,
+  33.01,
+  39.33,
+  43.33,
+  48.07
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.8,
+     "text": "Chỉ cần một"
+    },
+    {
+     "t": 1.26,
+     "text": "con cá mập"
+    },
+    {
+     "t": 1.86,
+     "text": "vừa cắn vào thân,"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 2.85,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 4.34,
+     "side": "R",
+     "y": 560,
+     "value": "20 LÍT KEO",
+     "label": "trong 0,4 giây",
+     "target": [
+      0.58,
+      0.48
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 3.1,
+     "text": "loài vật này"
+    },
+    {
+     "t": 3.72,
+     "text": "có thể biến"
+    },
+    {
+     "t": 4.34,
+     "text": "20 lít nước"
+    },
+    {
+     "t": 5.0,
+     "text": "biển xung quanh"
+    },
+    {
+     "t": 5.78,
+     "text": "thành một khối"
+    },
+    {
+     "t": 6.28,
+     "text": "keo nhớt đặc quánh"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 7.33,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 7.58,
+     "text": "chỉ trong 0,4"
+    },
+    {
+     "t": 8.5,
+     "text": "giây làm kẻ"
+    },
+    {
+     "t": 9.14,
+     "text": "săn mồi suýt"
+    },
+    {
+     "t": 9.82,
+     "text": "chết ngạt!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 11.17,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 13.84,
+     "side": "L",
+     "y": 720,
+     "value": "300 TR NĂM",
+     "label": "cổ đại không xương",
+     "target": [
+      0.42,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 11.42,
+     "text": "Đây là Cá"
+    },
+    {
+     "t": 11.94,
+     "text": "Mút Đá Hagfish,"
+    },
+    {
+     "t": 13.24,
+     "text": "sinh vật cổ"
+    },
+    {
+     "t": 13.7,
+     "text": "đại 300 triệu"
+    },
+    {
+     "t": 14.4,
+     "text": "năm dài 0,5m"
+    },
+    {
+     "t": 15.08,
+     "text": "sống dưới đáy"
+    },
+    {
+     "t": 15.64,
+     "text": "biển sâu."
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 16.21,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 18.42,
+     "side": "R",
+     "y": 620,
+     "value": "4 QUẢ TIM",
+     "label": "bơm máu độc lập",
+     "target": [
+      0.62,
+      0.52
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 16.46,
+     "text": "Cơ thể nó"
+    },
+    {
+     "t": 16.9,
+     "text": "không có xương"
+    },
+    {
+     "t": 17.44,
+     "text": "sống, có tới"
+    },
+    {
+     "t": 18.42,
+     "text": "4 quả tim"
+    },
+    {
+     "t": 19.06,
+     "text": "độc lập,"
+    },
+    {
+     "t": 19.9,
+     "text": "và sở hữu"
+    },
+    {
+     "t": 20.34,
+     "text": "hàng trăm lỗ"
+    },
+    {
+     "t": 20.76,
+     "text": "xả chất nhầy"
+    },
+    {
+     "t": 21.18,
+     "text": "hai bên sườn!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 21.93,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 24.84,
+     "side": "L",
+     "y": 650,
+     "value": "10.000 LẦN",
+     "label": "dãn nở bít mang",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 22.18,
+     "text": "Khi bị tấn"
+    },
+    {
+     "t": 22.62,
+     "text": "công, các sợi"
+    },
+    {
+     "t": 23.68,
+     "text": "tơ protein dãn"
+    },
+    {
+     "t": 24.6,
+     "text": "nở gấp 10.000"
+    },
+    {
+     "t": 25.32,
+     "text": "lần bít kín"
+    },
+    {
+     "t": 25.82,
+     "text": "hoàn toàn các"
+    },
+    {
+     "t": 26.5,
+     "text": "khe mang thở"
+    },
+    {
+     "t": 27.18,
+     "text": "của cá mập"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 27.63,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 27.88,
+     "text": "khiến kẻ đi"
+    },
+    {
+     "t": 28.52,
+     "text": "săn ho sặc"
+    },
+    {
+     "t": 29.08,
+     "text": "sụa phải nhả"
+    },
+    {
+     "t": 29.78,
+     "text": "vội ra tẩu thoát!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 31.21,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 31.46,
+     "text": "Để gạt sạch"
+    },
+    {
+     "t": 32.08,
+     "text": "đờm khỏi người"
+    },
+    {
+     "t": 32.66,
+     "text": "mình, nó tự"
+    },
+    {
+     "t": 33.7,
+     "text": "thắt cơ thể"
+    },
+    {
+     "t": 34.22,
+     "text": "thành nút thòng"
+    },
+    {
+     "t": 34.84,
+     "text": "lọng hình số"
+    },
+    {
+     "t": 35.36,
+     "text": "tám từ đầu"
+    },
+    {
+     "t": 35.94,
+     "text": "đến đuôi như"
+    },
+    {
+     "t": 36.46,
+     "text": "ảo thuật gia!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 37.53,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 39.65,
+     "side": "R",
+     "y": 650,
+     "value": "3.400 KG",
+     "label": "lật xe Oregon 2017",
+     "target": [
+      0.58,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 37.78,
+     "text": "2017, một xe"
+    },
+    {
+     "t": 39.0,
+     "text": "tải chở 3.400kg"
+    },
+    {
+     "t": 40.46,
+     "text": "cá mút đá"
+    },
+    {
+     "t": 41.3,
+     "text": "lật nhào"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 41.53,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 41.78,
+     "text": "đã biến cả"
+    },
+    {
+     "t": 42.52,
+     "text": "đường cao tốc"
+    },
+    {
+     "t": 43.02,
+     "text": "ở Mỹ thành"
+    },
+    {
+     "t": 43.78,
+     "text": "một biển chất"
+    },
+    {
+     "t": 44.38,
+     "text": "nhầy nhớt trượt"
+    },
+    {
+     "t": 45.0,
+     "text": "ngã cả xe"
+    },
+    {
+     "t": 45.68,
+     "text": "cứu hỏa!"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 46.27,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 46.52,
+     "text": "Một cỗ máy"
+    },
+    {
+     "t": 47.04,
+     "text": "tạo đờm độc"
+    },
+    {
+     "t": 47.58,
+     "text": "nhất vô nhị"
+    },
+    {
+     "t": 48.14,
+     "text": "của đại dương!"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,792 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "CA CẤP CỨU TỰ BẺ XƯƠNG ĐÂM THỦNG DA",
+   "hook": "",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bệnh nhân tự bước",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không phải do thú",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mà là do chính",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": [
+      "đâm xuyên"
+     ]
+    },
+    {
+     "at": "Bác sĩ ơi, em",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các đồng nghiệp nhìn",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây là Ếch Lông",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Con đực trưởng thành",
+     "image": "assets/long/L08.png",
+     "stickers": [
+      {
+       "at": "13cm",
+       "side": "R",
+       "y": 350,
+       "value": "10-13 CM",
+       "label": "dài cỡ nắm tay",
+       "target": [
+        0.79,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trông ngoài mặt thì",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Điều khiến tôi bất",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Riêng nhà Dị Nhân",
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "9cm",
+       "side": "L",
+       "y": 380,
+       "value": "9 CM",
+       "label": "ếch cái nhỏ hơn",
+       "target": [
+        0.32,
+        0.58
+       ]
+      },
+      {
+       "at": "13cm",
+       "side": "R",
+       "y": 350,
+       "value": "13 CM",
+       "label": "ếch đực to vượt trội",
+       "target": [
+        0.7,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết, mùa thường",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hôm nay, tôi mời",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BỆNH ÁN #21"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "CƠ CHẾ XƯƠNG TRẦN TỰ ĐÂM THỦNG DA LÀM VUỐT",
+   "hook": "VUỐT XƯƠNG TRẦN ĐÂM THỦNG DA THỊT",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng khi đặt chân",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": [
+      "rơi"
+     ]
+    },
+    {
+     "at": "Ẩn sâu bên dưới",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở mèo, chó hay",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn vuốt của Dị",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "100%",
+       "side": "R",
+       "y": 350,
+       "value": "100% XƯƠNG",
+       "label": "không có vỏ sừng",
+       "target": [
+        0.56,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cơ chế khai hỏa",
+     "image": "assets/long/L19.png",
+     "stickers": [
+      {
+       "at": "2008",
+       "side": "L",
+       "y": 360,
+       "value": "2008",
+       "label": "nghiên cứu Harvard",
+       "target": [
+        0.58,
+        0.42
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Lúc bình thường, đầu",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ chốt an toàn",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng chỉ cần một",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lập tức co cực",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": [
+      "co cực mạnh"
+     ]
+    },
+    {
+     "at": "Lực kéo giật đứt",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": [
+      "giật đứt"
+     ]
+    },
+    {
+     "at": "Đầu xương nhọn lập",
+     "image": "assets/long/L25.png",
+     "stickers": [
+      {
+       "at": "8 ngón chân sau",
+       "side": "R",
+       "y": 380,
+       "value": "8 NGÓN",
+       "label": "phóng vuốt xương",
+       "target": [
+        0.52,
+        0.38
+       ]
+      }
+     ],
+     "impacts": [
+      "chọc thủng"
+     ]
+    },
+    {
+     "at": "Các bác sĩ đo",
+     "image": "assets/long/L26.png",
+     "stickers": [
+      {
+       "at": "0,02mm",
+       "side": "L",
+       "y": 350,
+       "value": "0,02 MM",
+       "label": "vỏ xương ở gốc",
+       "target": [
+        0.34,
+        0.55
+       ]
+      },
+      {
+       "at": "0,13mm",
+       "side": "R",
+       "y": 350,
+       "value": "0,13 MM",
+       "label": "dày gấp 6 lần ở mũi",
+       "target": [
+        0.68,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nghe tới đây chắc",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu trả lời còn",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn vết thương rách",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đúng là siêu anh",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CHỤP X-QUANG"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "BỘ LÔNG MẠCH MÁU GIÚP THỞ VÀ LÁ PHỔI TEO TÓP",
+   "hook": "LÔNG MẠCH MÁU HÚT OXY DƯỚI SUỐI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thú thật với các",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trời đất ơi, đi",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chú ếch hàng xóm",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đó là hàng trăm",
+     "image": "assets/long/L36.png",
+     "stickers": [
+      {
+       "at": "0,45mm",
+       "side": "R",
+       "y": 350,
+       "value": "0,35-0,45",
+       "label": "đường kính sợi (mm)",
+       "target": [
+        0.62,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bên trong mỗi sợi",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và kỳ lạ nhất",
+     "image": "assets/long/L38.png",
+     "stickers": [
+      {
+       "at": "tháng 4",
+       "side": "R",
+       "y": 350,
+       "value": "THÁNG 4-6",
+       "label": "mùa sinh sản mọc lông",
+       "target": [
+        0.74,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tại sao tạo hóa",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu trả lời được",
+     "image": "assets/long/L40.png",
+     "stickers": [
+      {
+       "at": "1925",
+       "side": "L",
+       "y": 350,
+       "value": "1925",
+       "label": "phát hiện giải phẫu",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hóa ra phổi của",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi con cái đẻ",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngồi lì dưới nước",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thế là cơ thể",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": [
+      "kích hoạt"
+     ]
+    },
+    {
+     "at": "Những sợi lông giả",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết, lúc ẩn",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hết mùa giữ trứng",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "NỘI SOI DA"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "SO SÁNH HỘI TỰ HỦY VÀ GAI BÁM SUỐI XIẾT",
+   "hook": "ĐÂM XƯƠNG SƯỜN & VẾT CÀO CHẢY MÁU",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L48.png",
+     "stickers": [
+      {
+       "at": "63 loài",
+       "side": "L",
+       "y": 350,
+       "value": "63 LOÀI",
+       "label": "khảo sát bảo tàng",
+       "target": [
+        0.32,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tổng cộng có tới",
+     "image": "assets/long/L49.png",
+     "stickers": [
+      {
+       "at": "11 loài",
+       "side": "R",
+       "y": 350,
+       "value": "11 LOÀI",
+       "label": "có vuốt giấu kín",
+       "target": [
+        0.65,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nếu mở rộng hồ",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "khi bị tấn công",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuy vậy, cơ chế",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết đâu các",
+     "image": "assets/long/L53.png",
+     "stickers": [
+      {
+       "at": "3 hàng gai",
+       "side": "R",
+       "y": 350,
+       "value": "3 HÀNG GAI",
+       "label": "ngón cái tay trước",
+       "target": [
+        0.56,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bộ gai nhám này",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng đừng thấy nó",
+     "image": "assets/long/L55.png",
+     "stickers": [
+      {
+       "at": "1954",
+       "side": "L",
+       "y": 350,
+       "value": "1954",
+       "label": "sách Gerald Durrell",
+       "target": [
+        0.3,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi ông dùng tay",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": [
+      "cào thẳng"
+     ]
+    },
+    {
+     "at": "Đúng là nhìn mặt",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bác sĩ ơi, thế",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu hỏi rất hay",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuổi nhỏ tài cao",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "GIÁM ĐỊNH TIẾN HÓA"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "THỢ SĂN PHẢI DÙNG GIÁO BA MŨI TRÁNH VUỐT",
+   "hook": "THỢ SĂN PHẢI CHẾ GIÁO BA LƯỠI ĐỂ BẮT",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thì người dân bản",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tại nhiều làng ở",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng có một quy",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vậy nên các thợ",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và đây là cú",
+     "image": "assets/long/L66.png",
+     "stickers": [
+      {
+       "at": "3 lưỡi nhọn",
+       "side": "R",
+       "y": 350,
+       "value": "3 LƯỠI",
+       "label": "giáo săn giống vuốt",
+       "target": [
+        0.56,
+        0.46
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "trông chẳng khác nào",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Muốn săn Người Sói",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí người dân",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhiều cặp vợ chồng",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đến nay, khoa học",
+     "image": "assets/long/L71.png",
+     "stickers": [
+      {
+       "at": "3,5%",
+       "side": "R",
+       "y": 350,
+       "value": "TOP 3,5%",
+       "label": "độc đáo nhất hành tinh",
+       "target": [
+        0.52,
+        0.42
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "THỰC ĐỊA CAMEROON"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "ĐƠN THUỐC BẤT LỰC VÀ BÓNG ĐEN BÍ ẨN TẬP SAU",
+   "hook": "SẴN SÀNG CHỊU ĐAU ĐỂ BẢO VỆ SỰ SỐNG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L72.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để sinh tồn giữa",
+     "image": "assets/long/L73.png",
+     "stickers": [
+      {
+       "at": "13cm",
+       "side": "L",
+       "y": 370,
+       "value": "13 CM",
+       "label": "nhỏ bé nhưng gan lì",
+       "target": [
+        0.48,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và ẩn sau vẻ",
+     "image": "assets/long/L82.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sẵn sàng mọc cả",
+     "image": "assets/long/L74.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kê đơn cuối cùng",
+     "image": "assets/long/L75.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn các đồng nghiệp",
+     "image": "assets/long/L76.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hay mọc lông kín",
+     "image": "assets/long/L77.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hồ sơ phòng khám",
+     "image": "assets/long/L78.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một sinh vật nhỏ",
+     "image": "assets/long/L79.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Điều khiến các nhà",
+     "image": "assets/long/L80.png",
+     "stickers": [
+      {
+       "at": "1/3 trái tim",
+       "side": "L",
+       "y": 350,
+       "value": "1/3 TIM",
+       "label": "tái sinh không sẹo",
+       "target": [
+        0.35,
+        0.32
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đố các bạn biết",
+     "image": "assets/long/L81.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "KẾT LUẬN Y KHOA"
+  }
+ }
+}

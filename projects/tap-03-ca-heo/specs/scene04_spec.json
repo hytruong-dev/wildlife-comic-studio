@@ -1,0 +1,324 @@
+{
+  "scene_id": "scene04",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 4,
+  "world_width": 2042,
+  "world_height": 1040,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 60,
+  "duration_ms": 92780,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-03-ca-heo/assets/scenes_composed/scene04_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      243,
+      8,
+      1036,
+      52
+    ],
+    "x": 255,
+    "y": 12,
+    "w": 769,
+    "h": 38,
+    "text": "[PHẦN 4]  TRÒ CHƠI BÓNG CHUYỀN CÁ NÓC & VÒNG LƯỚI BÙN MA THUẬT",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-03-ca-heo/assets/scenes_composed/scene04_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 37200,
+      "has_frame": false,
+      "pill_box": [
+        540,
+        60,
+        769,
+        97
+      ],
+      "art_only_box": [
+        338,
+        96,
+        967,
+        449
+      ],
+      "caption": {
+        "text": "Bóng chuyền cá nóc: Dùng mõm chuyền qua lại chú cá nóc phồng tròn!",
+        "x": 349,
+        "y": 449,
+        "w": 608,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        336,
+        60,
+        969,
+        481
+      ],
+      "img_region": {
+        "x": 338,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 37200,
+      "end_ms": 62240,
+      "has_frame": false,
+      "pill_box": [
+        1268,
+        60,
+        1511,
+        98
+      ],
+      "art_only_box": [
+        1073,
+        96,
+        1702,
+        449
+      ],
+      "caption": {
+        "text": "Lâng lâng ngắm bóng: Nổi ngửa bụng thư giãn trên mặt nước phẳng lặng!",
+        "x": 1101,
+        "y": 449,
+        "w": 574,
+        "h": 32,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1071,
+        60,
+        1704,
+        483
+      ],
+      "img_region": {
+        "x": 1073,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 62240,
+      "end_ms": 77340,
+      "has_frame": false,
+      "pill_box": [
+        1282,
+        550,
+        1496,
+        585
+      ],
+      "art_only_box": [
+        1073,
+        586,
+        1702,
+        939
+      ],
+      "caption": {
+        "text": "Vòng vây lưới bùn: Quẫy đuôi xoay tròn dựng tường cát nhốt đàn cá!",
+        "x": 1089,
+        "y": 939,
+        "w": 597,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1071,
+        550,
+        1704,
+        974
+      ],
+      "img_region": {
+        "x": 1073,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_04",
+      "start_ms": 77340,
+      "end_ms": 91280,
+      "has_frame": false,
+      "pill_box": [
+        543,
+        550,
+        765,
+        585
+      ],
+      "art_only_box": [
+        338,
+        586,
+        967,
+        939
+      ],
+      "caption": {
+        "text": "Đón cá trên không: Xếp hàng chờ sẵn đón cá hoảng sợ nhảy ra ngoài!",
+        "x": 353,
+        "y": 939,
+        "w": 599,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        336,
+        550,
+        969,
+        974
+      ],
+      "img_region": {
+        "x": 338,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 336.0,
+    "y_min": 60.0,
+    "x_max": 1704.0,
+    "y_max": 974.0,
+    "bbox_w": 1368.0,
+    "bbox_h": 914.0,
+    "center_x": 1020.0,
+    "center_y": 517.0,
+    "zoom_out_scale": 0.6494,
+    "crop_w": 1971.0,
+    "crop_h": 1004.0
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 652.5,
+      "cy": 270.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.09,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 36580.0,
+      "cx": 652.5,
+      "cy": 270.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.09,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 37200.0,
+      "cx": 1387.5,
+      "cy": 271.5,
+      "crop_w": 948.2,
+      "crop_h": 483.0,
+      "zoom_relative": 2.08,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 61620.0,
+      "cx": 1387.5,
+      "cy": 271.5,
+      "crop_w": 948.2,
+      "crop_h": 483.0,
+      "zoom_relative": 2.08,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 62240.0,
+      "cx": 1387.5,
+      "cy": 762.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 2.07,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 76720.0,
+      "cx": 1387.5,
+      "cy": 762.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 2.07,
+      "phase": "transition",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 77340.0,
+      "cx": 652.5,
+      "cy": 762.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 2.07,
+      "phase": "focus_hold",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 91280.0,
+      "cx": 652.5,
+      "cy": 762.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 2.07,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 91780.0,
+      "cx": 1020.0,
+      "cy": 517.0,
+      "crop_w": 1971.0,
+      "crop_h": 1004.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 92780.0,
+      "cx": 1020.0,
+      "cy": 517.0,
+      "crop_w": 1971.0,
+      "crop_h": 1004.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

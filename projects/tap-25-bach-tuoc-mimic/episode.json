@@ -1,0 +1,317 @@
+{
+ "episode_no": 25,
+ "animal": "Bạch Tuộc Mimic",
+ "slug": "tap-25-bach-tuoc-mimic",
+ "format": "F6",
+ "persona": "ong_trum",
+ "_angle_from_roadmap": "Hồ sơ điệp viên 9 bộ não, 3 trái tim, máu xanh lam và tuyệt kỹ hóa trang thành 15 loài sinh vật độc dưới biển.",
+ "_shorts_idea_from_roadmap": "Khi gặp kẻ thù của rắn biển, Bạch Tuộc lập tức biến 2 xúc tu thành... rắn biển!",
+ "nickname": "Điệp Viên Đại Dương",
+ "sources": [
+  "Norman, Finn & Tregenza (2001), Proceedings of the Royal Society B 268: 1755-1758 — Khám phá hiện tượng bắt chước linh hoạt (dynamic mimicry) ở Sulawesi và Bali, Indonesia",
+  "Hanlon et al. (2008), Biological Journal of the Linnean Society 93: 23-38 — Ghi nhận 15 hình thái hóa trang và cơ chế chủ động lựa chọn đối tượng bắt chước theo kẻ thù",
+  "Hochner et al. (2006) & Nature Reviews Neuroscience — Hệ thần kinh phân tán của bạch tuộc với 500 triệu nơ-ron, 2/3 nằm trong 8 xúc tu hoạt động độc lập",
+  "Ghiradella & Fox (2000) & Scientific American — Cấu tạo hệ thống sắc tố ba tầng: chromatophores (đổi màu cơ học), iridophores và leucophores",
+  "AmphibiaWeb / MarineBio — Kích thước sải tay tới 60cm, máu chứa protein hemocyanin gốc đồng màu xanh lam, 3 quả tim (2 tim mang + 1 tim chính)"
+ ],
+ "whisper_prompt": "Bạch Tuộc Mimic, Điệp Viên Đại Dương, Thaumoctopus mimicus, Xu-la-wê-xi, Sulawesi, In-đô-nê-xi-a, Indonesia, rạn san hô, rắn biển cạp nong, cá sư tử, cá bơn, đĩa lưỡi, 9 bộ não, 3 trái tim, máu xanh lam, hemocyanin, sắc tố chromatophores, 60cm, 15 loài, 500 triệu, 0,2 giây, 1998, 2001",
+ "display_fix": {
+  "hai mươi lăm": "25",
+  "hai mươi sáu": "26",
+  "Mười lăm khuôn mặt": "15 khuôn mặt",
+  "Mười lăm danh tính": "15 danh tính",
+  "Mười lăm": "15",
+  "mười lăm loài": "15 loài",
+  "mười lăm khuôn mặt": "15 khuôn mặt",
+  "mười lăm danh tính": "15 danh tính",
+  "mười lăm hình thái": "15 hình thái",
+  "mười lăm": "15",
+  "chín bộ não": "9 bộ não",
+  "chín não": "9 não",
+  "ba trái tim": "3 trái tim",
+  "ba quả tim": "3 quả tim",
+  "tám xúc tu": "8 xúc tu",
+  "sáu xúc tu": "6 xúc tu",
+  "hai xúc tu": "2 xúc tu",
+  "hai chiếc xúc tu": "2 chiếc xúc tu",
+  "sáu mươi xăng-ti-mét": "60cm",
+  "hai mươi xăng-ti-mét": "20cm",
+  "cả chục mét": "10m",
+  "mười mét": "10m",
+  "hai phần ba": "2/3",
+  "năm trăm triệu": "500 triệu",
+  "không phẩy hai giây": "0,2 giây",
+  "một giây": "1 giây",
+  "hai giây": "2 giây",
+  "ba mươi": "30",
+  "năm hai ngàn lẻ một": "2001",
+  "năm một ngàn chín trăm chín mươi tám": "1998",
+  "hàng triệu": "hàng triệu",
+  "hàng ngàn": "hàng ngàn",
+  "một trăm phần trăm": "100%",
+  "mười lần": "10 lần",
+  "bốn mươi": "40",
+  "bốn mươi loài": "40 loài",
+  "bốn hạng mục": "4 hạng mục",
+  "năm cấp độ": "5 cấp độ",
+  "thứ nhất": "thứ 1",
+  "thứ hai": "thứ 2",
+  "thứ ba": "thứ 3",
+  "thứ tư": "thứ 4",
+  "thứ năm": "thứ 5",
+  "ba đê": "3D",
+  "Xu-la-wê-xi": "Sulawesi",
+  "In-đô-nê-xi-a": "Indonesia",
+  "Hê-mô-xy-a-nin": "Hemocyanin",
+  "hê-mô-xy-a-nin": "hemocyanin",
+  "Crô-ma-tô-pho": "Chromatophores"
+ },
+ "voice": {},
+ "art": {
+  "decor": "shadow silhouettes, fedora hats, trench coats, secret agent badges, magnifying glass",
+  "shorts_mascot": "A clever cute cartoon brown-and-white striped Mimic Octopus wearing a fedora hat and dark sunglasses while holding a spy magnifying glass with one tentacle",
+  "thumb_bg": "đáy cát biển nhiệt đới mờ ảo ánh đèn chiếu rọi thế giới ngầm",
+  "thumb_title": [
+   "9 NÃO VÀ 15 KHUÔN MẶT?!",
+   "BẠCH TUỘC MIMIC"
+  ],
+  "thumb_scene": "một chú Bạch Tuộc Mimic hoạt hình màu nâu vằn trắng to rõ, đội mũ phớt thám tử, hai xúc tu uốn éo biến hình thành hai con rắn biển vằn vàng đen le lưỡi cực ngầu",
+  "thumb_gag": "một chú cá dữ há hốc mồm sợ hãi ôm đầu bỏ chạy phía sau"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "HỒ SƠ ĐIỆP BÁO",
+    "banner_title": "BẬC THẦY HÓA TRANG THẾ GIỚI NGẦM",
+    "chapter_title": "Hồ sơ điệp báo: Bậc thầy hóa trang thế giới ngầm đáy cát",
+    "hook": "",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Trong thế giới ngầm của đại dương bao la, có những luật lệ sinh tồn khắc nghiệt... không bao giờ được viết thành văn. Kẻ yếu thì phải biết ẩn mình trong bóng tối, kẻ mạnh thì phô trương nanh vuốt săn lùng. Nhưng gia đình này thì chọn một con đường hoàn toàn khác: không có vỏ bọc cứng, không có nanh vuốt nhọn, không có độc tố chết người, nhưng bất kỳ ai trong thế giới ngầm cũng phải ngả mũ kính sợ!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Chào đại ca, hôm nay có mục tiêu nào cần đội tình báo chúng em đi điều tra không ạ?",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-oh] Bật màn hình máy quét bảo mật lên, hôm nay chúng ta giải mã hồ sơ của một siêu điệp viên thực thụ! [laughter] Xin giới thiệu với toàn thể anh em: đây là Bạch Tuộc Mimic, tên khoa học là Thaumoctopus mimicus. Loài sinh vật bí ẩn này chỉ mới được các thợ lặn phát hiện lần đầu tiên vào năm một ngàn chín trăm chín mươi tám ngoài khơi đảo Xu-la-wê-xi thuộc In-đô-nê-xi-a. Chiều dài sải tay khi bung rộng khoảng sáu mươi xăng-ti-mét. Nhìn bề ngoài nó giống hệt những chú bạch tuộc thân mềm thông thường, nhưng trong thế giới ngầm đại dương, chúng tôi gọi thẳng tên nó bằng biệt danh: Điệp Viên Đại Dương!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Điều khiến mọi cơ quan tình báo biển sâu phải kinh ngạc là gã không chọn cách lẩn trốn trong hang hốc tối tăm như các loài bạch tuộc khác! Điệp Viên Đại Dương chọn lộ diện ban ngày ngay giữa những bãi cát ngầm trống trải, nơi đầy rẫy những con cá săn mồi đói khát lượn lờ. Và vũ khí sinh tồn tối thượng của gã chính là tài năng hóa trang vô tiền khoáng hậu: có thể biến hình mượt mà thành mười lăm loài sinh vật kịch độc khác nhau! Đêm nay, tôi mời anh em cùng lật mở từng trang hồ sơ tuyệt mật của gã điệp viên đại tài này!",
+      "mood": "nghiem_trang_gia"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "DANH TÍNH GIẢ #1",
+    "banner_title": "HÓA THÂN RẮN BIỂN VÀ CÁ SƯ TỬ",
+    "chapter_title": "Danh tính giả #1: Hóa thân rắn biển cạp nong và cá sư tử gai độc",
+    "hook": "BIẾN 2 XÚC TU THÀNH RẮN BIỂN KỊCH ĐỘC",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Lật mở trang hồ sơ đầu tiên: Tuyệt kỹ hóa thân thành sát thủ kịch độc! Hãy quan sát một hiện trường thực tế dưới đáy cát: một đàn cá thia hung hăng phát hiện ra Điệp Viên Đại Dương và bắt đầu bao vây lao tới định tấn công rỉa thịt. Ở một góc ngách không có đường lui, gã điệp viên làm gì? Chạy trốn ư? Không hề!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Gã lập tức thụt sáu chiếc xúc tu và toàn bộ phần thân đầu chui tọt vào trong một chiếc hang cát hẹp! Chỉ chừa lại đúng hai chiếc xúc tu thò ra ngoài, uốn éo theo hai hướng đối diện nhau. Đồng thời, làn da chuyển đổi sang họa tiết khoang đen trắng xen kẽ nổi bật... Trong vòng chưa đầy một giây, trước mắt đàn cá thia không còn là một con bạch tuộc mềm yếu nữa, mà là một con Rắn Biển Cạp Nong kịch độc đang le lưỡi săn mồi! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Cá thia nhìn thấy tử thần rắn biển thì hồn xiêu phách lạc, lập tức quay đầu tháo chạy bạt mạng! Điều chấn động giới khoa học được tiến sĩ Norman công bố năm hai ngàn lẻ một: Điệp Viên Đại Dương không bắt chước ngẫu nhiên! Khi bị loài cá nào đe dọa, gã lập tức phân tích và chọn đúng loài thiên địch kịch độc của chính kẻ tấn công đó để hóa trang dọa lại! [surprise-oh]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và nếu kẻ thù lần này là một con cá nhồng hung dữ bơi lượn ở tầng nước lơ lửng thì sao? Gã liền kích hoạt danh tính giả số hai: bơi nhấc mình lên khỏi đáy cát, xòe rộng cả tám chiếc xúc tu tỏa ra xung quanh như những chiếc gai nhọn phấp phới, đổi màu da sang vệt nâu sọc trắng! Bùm! Trước mắt kẻ săn mồi bỗng xuất hiện một chú Cá Sư Tử gai độc đầy gai nhọn chết người! Kẻ địch nhìn thấy gai độc liền ngán ngẩm bỏ đi ngay lập tức! [laughter]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Các thợ lặn chuyên nghiệp từng quay được khoảnh khắc gã điệp viên này đang ung dung bơi thì chạm trán một con cá đuối lớn. Trong tích tắc không cần suy nghĩ, gã lập tức gập các xúc tu lại, phè thân mình ra phẳng lì và uốn lượn hệt như một con cá đuối gai độc con! Con cá đuối lớn nhìn thấy tưởng đồng loại đang đi dạo liền bơi lướt qua luôn mà không hề nghi ngờ! Nghệ thuật đánh lừa thị giác đã đạt tới cảnh giới thượng thừa!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "DANH TÍNH GIẢ #2",
+    "banner_title": "TÀNG HÌNH THÀNH CÁ BƠN VÀ SỨA",
+    "chapter_title": "Danh tính giả #2: Giả dạng cá bơn lướt cát và sứa biển bồng bềnh",
+    "hook": "ÉP TOÀN BỘ CƠ THỂ THÀNH CHIẾC LÁ CÁ BƠN",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Chuyển sang trang hồ sơ thứ hai: Tuyệt chiêu tàng hình khi di chuyển đường dài! Trong thế giới ngầm, việc di chuyển băng qua những bãi cát trống trải mênh mông là nhiệm vụ nguy hiểm nhất, vì bóng dáng bạch tuộc bơi lội rất dễ thu hút ánh nhìn của lũ cá mập từ xa. Nhưng Điệp Viên Đại Dương của chúng ta lại có một bộ trang phục ngụy trang đường trường đỉnh cao!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Gã ép sát toàn bộ thân mình xuống sát mặt cát, chụm cả tám chiếc xúc tu kéo dài ra phía sau thành hình giọt nước dẹt như một chiếc lá cây. Làn da chuyển sang màu nâu cát lốm đốm, và dùng chiếc phễu đẩy nước lướt nhẹ nhàng là là trên mặt đáy biển... Trông gã lúc này chẳng khác nào một con Cá Bơn độc đang bơi lướt sóng cát! [surprise-oh] Kẻ săn mồi từ trên cao nhìn xuống chỉ thấy một con cá bơn nhạt nhẽo chán ngấy liền lướt qua luôn!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Đại ca ơi, thế nếu đang bơi giữa dòng nước mà gặp nguy hiểm không có cát để bám thì anh em tẩu thoát kiểu gì ạ?",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[laughter] Yên tâm đi trợ lý! Nếu bị đẩy lên tầng nước giữa, gã lập tức cuộn tròn các xúc tu lại, phồng to phần đầu như một chiếc ô dù trong suốt rồi bập bùng co bóp bơi giật lùi... Biến hình ngay thành một chú Sứa Biển trôi dạt lững lờ! Kẻ thù thấy sứa đầy nọc châm thì tránh xa cả chục mét! Chưa hết, gã còn có thể giả thành cá đuối gai độc, hải quỳ khổng lồ, thậm chí cả tôm tít gập càng! Mười lăm khuôn mặt, mười lăm danh tính giả hoàn hảo cho mọi tình huống hiểm nghèo!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Thậm chí khi cần đi săn những chú cua nhỏ nhút nhát nấp trong hang đá, Điệp Viên Đại Dương còn dùng chiêu hóa trang ngược: biến hình thành một chú cua biển thân thiện giơ hai càng vẫy chào mời gọi bạn ra chơi! Con mồi vừa tò mò bước ra khỏi hang liền bị tám chiếc xúc tu thò ra tóm gọn sạch sẽ! Đúng là gã giang hồ vừa đóng vai cảnh sát, vừa đóng vai cướp biển, không ai lường trước được nước đi tiếp theo!",
+      "mood": "don_dap"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "ĐẾ CHẾ 9 BỘ NÃO",
+    "banner_title": "HỆ THẦN KINH 500 TRIỆU NƠ-RON",
+    "chapter_title": "Đế chế 9 bộ não: Mạng lưới thần kinh phi tập trung siêu đẳng",
+    "hook": "8 XÚC TU HOẠT ĐỘNG NHƯ 8 BỘ NÃO RIÊNG BIỆT",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Bước vào trang hồ sơ tối mật thứ ba: Bí mật phần cứng siêu máy tính sinh học! Làm thế nào mà một sinh vật thân mềm không xương lại có thể nhớ và điều khiển trơn tru tới mười lăm hình thái biến hình phức tạp đến từng chuyển động gợn sóng cơ bắp như vậy? [question-oh]",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Câu trả lời nằm ở cấu tạo hệ thần kinh kỳ dị bậc nhất hành tinh: Điệp Viên Đại Dương sở hữu tới chín bộ não độc lập! Một bộ não trung tâm hình bánh vòng nằm quanh thực quản ở phần đầu, và tám cụm hạch thần kinh khổng lồ nằm dọc suốt chiều dài của tám chiếc xúc tu! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Trong tổng số hơn năm trăm triệu tế bào nơ-ron thần kinh của cơ thể — tương đương số lượng nơ-ron của một chú chó thông minh — thì có tới hai phần ba số nơ-ron nằm rải rác bên trong tám chiếc xúc tu! Điều này có nghĩa là mỗi xúc tu của gã hoạt động như một thực thể độc lập có ý thức riêng: tự nếm vị giác bằng các giác hút, tự cảm nhận nhiệt độ, tự quyết định luồn lách vào khe đá săn mồi mà không cần chờ lệnh từ não bộ trung tâm! [surprise-oh]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Não trung tâm chỉ đưa ra mệnh lệnh chiến lược tối cao: Giả thành rắn biển! Ngay lập tức, hai xúc tu nhận lệnh tự động phối hợp màu sắc và cử động uốn lượn nhịp nhàng, trong khi sáu xúc tu còn lại tự tìm khe cát giấu mình! Sự phân quyền chỉ huy thần kinh tuyệt đỉnh này giúp gã phản xạ biến hình chỉ trong vòng chưa đầy không phẩy hai giây! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Các nhà khoa học thần kinh từng làm thí nghiệm thử thách trí tuệ của loài bạch tuộc: đặt thức ăn bên trong một chiếc lọ thủy tinh có nắp vặn ren kín mít. Không cần ai dạy bảo, các xúc tu của gã tự phối hợp vặn mở nắp lọ chỉ trong vài chục giây để lấy thức ăn! Trí thông minh phân tán này đang là nguồn cảm hứng số một cho các kỹ sư chế tạo robot mềm và hệ thống trí tuệ nhân tạo thế hệ mới!",
+      "mood": "nghiem_trang_gia"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "MÀN HÌNH NANO",
+    "banner_title": "MÁU XANH LAM VÀ HỆ THỐNG ĐỔI MÀU",
+    "chapter_title": "Màn hình nano: Máu xanh lam gốc đồng và 3 tầng tế bào đổi màu",
+    "hook": "ĐỔI MÀU CƠ HỌC BẰNG HÀNG TRIỆU TÚI SẮC TỐ TRONG 0,2 GIÂY",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Lật sang trang hồ sơ thứ tư: Công nghệ màn hình hiển thị nano trên da và dòng máu quý tộc! Khác với tắc kè hoa đổi màu chậm chạp nhờ hoóc-môn trong máu mất hàng phút, da của Điệp Viên Đại Dương là một chiếc màn hình tinh thể lỏng sinh học độ phân giải siêu nét! Làn da của gã chứa ba tầng tế bào đổi màu đặc biệt: tầng trên cùng là hàng triệu túi sắc tố Crô-ma-tô-pho màu nâu, đen, vàng, đỏ được bao quanh bởi các sợi cơ li ti.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Chỉ cần sợi thần kinh giật nhẹ một xung điện, các sợi cơ lập tức co lại, kéo căng túi sắc tố to ra gấp mười lần để hiện màu! Cơ thả lỏng thì túi co lại biến mất! Quá trình đổi màu diễn ra hoàn toàn bằng cơ học thuần túy trong chưa đầy không phẩy hai giây! Phía dưới còn có tầng tế bào khúc xạ ánh sáng và phản chiếu ánh sáng trắng, giúp gã pha trộn mọi dải màu và tạo vân da sần sùi hệt như hạt cát hay rạn san hô! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và dòng máu chảy bên trong cơ thể gã điệp viên này cũng mang sắc màu huyền thoại: Máu có màu xanh lam óng ánh! [surprise-wa] Vì sống dưới đáy biển sâu lạnh giá nghèo oxy, cơ thể gã không dùng chất sắt hemoglobin màu đỏ như con người, mà sử dụng phân tử protein Hê-mô-xy-a-nin chứa nguyên tử đồng để vận chuyển oxy hiệu quả gấp bội trong nước lạnh!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Để bơm dòng máu xanh lam này đi khắp chín bộ não và tám xúc tu, gã trang bị tới ba quả tim độc lập: hai quả tim mang chuyên hút máu đẩy qua hai bên mang để nạp oxy, và một quả tim chính khỏe khoắn bơm máu đi nuôi toàn bộ cơ thể! Nhưng khi gã bơi nước rút với tốc độ cao, quả tim chính sẽ tạm thời ngừng đập để dồn toàn lực cho cơ bắp, khiến gã nhanh kiệt sức và chỉ bơi từng đoạn ngắn rồi lại tàng hình ẩn nấp! Đúng là phong cách điệp viên hành động chớp nhoáng!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Không chỉ đổi màu sắc, làn da của gã còn có thể thay đổi kết cấu vật lý ba đê trong nháy mắt! Bằng cách co thắt các bó cơ biểu bì dưới da, gã có thể làm nổi lên những chiếc gai nhọn sần sùi như rạn san hô đá, hoặc làm phẳng lì trơn láng như hạt cát mịn. Mắt người nhìn vào không tài nào phân biệt nổi đâu là rạn đá tự nhiên và đâu là gã điệp viên đang nằm rình mồi!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "KẾT LUẬN ĐIỆP BÁO",
+    "banner_title": "BÁO CÁO CUỐI & BÓNG ĐEN KỲ SAU",
+    "chapter_title": "Báo cáo điệp báo: Trí tuệ mềm và bóng đen mông bọc thép kỳ sau",
+    "hook": "BÁO CÁO CUỐI CÙNG VÀ BÓNG ĐEN MÔNG BỌC THÉP TẬP 26",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Tổng kết hồ sơ điệp báo số hai mươi lăm. Giữa đại dương khắc nghiệt nơi mọi sinh vật đều chạy đua trang bị giáp dày gai nhọn, Điệp Viên Đại Dương đã chọn một con đường tiến hóa phi thường: lấy sự mềm mại linh hoạt làm vũ khí, lấy trí thông minh của chín bộ não làm khiên chắn, và dùng mười lăm danh tính giả để làm chủ hoàn toàn thế giới ngầm đáy cát!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Một sinh vật không hề có xương sống, nhưng lại sở hữu trí tuệ khiến con người phải kinh ngạc và tôn trọng sâu sắc! Đơn báo cáo cuối cùng: Cho phép điệp viên tiếp tục hoạt động ngầm tại vùng biển In-đô-nê-xi-a và tuyệt đối bảo mật danh tính! Ký tên: trùm điệp báo thế giới ngầm! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Còn anh em thì sao? Nếu được sở hữu một trong hai năng lực của Điệp Viên Đại Dương: có chín bộ não để làm nhiều việc cùng lúc không lo quá tải, hay tài hóa trang biến hình thành người khác chỉ trong không phẩy hai giây, anh em chọn cái nào? Hãy để lại bình luận bên dưới nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hồ sơ điệp viên số hai mươi lăm xin được niêm phong tại đây. Nhưng tập sau, chúng ta sẽ chuyển thẳng sang hồ sơ vũ khí tối mật trên đất liền để giải mã một chiến binh xe bọc thép lùn tịt cực kỳ lầy lội! Một sinh vật mũm mĩm đào hang ở nước Úc, nhưng sở hữu chiếc mông bọc thép dày cứng như bê tông cốt thép, chuyên lừa kẻ thù đuổi vào hang rồi gồng mông dập nát hộp sọ đối thủ vào trần hang đá! Chưa hết, nó là sinh vật duy nhất trên thế giới có dây chuyền cơ học thải ra những viên phân hình khối lập phương vuông vức như viên xúc xắc! Đố các bạn biết bóng đen bí ẩn kỳ sau là loài vật nào? Hãy đoán ngay ở phần bình luận nhé!",
+      "mood": "am_ap"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Khi bị kẻ thù bao vây, con vật này không chạy trốn, mà lập tức biến hai chiếc xúc tu của mình thành một con rắn biển kịch độc le lưỡi dọa lại kẻ đi săn! [laughter] Xin giới thiệu Bạch Tuộc Mimic, siêu điệp viên sải tay sáu mươi xăng-ti-mét sống dưới đáy cát ở In-đô-nê-xi-a. Nó sở hữu tới chín bộ não độc lập, ba trái tim bơm dòng máu màu xanh lam óng ánh, và tài năng hóa trang vô tiền khoáng hậu: có thể biến hình mượt mà thành mười lăm loài sinh vật kịch độc khác nhau! [surprise-wa] Bị cá thia tấn công? Thụt thân vào hang, biến hai xúc tu thành rắn biển cạp nong! Gặp cá nhồng hung dữ? Xòe tám xúc tu bơi lơ lửng thành cá sư tử đầy gai độc! Cần di chuyển qua bãi cát trống? Ép dẹt toàn thân thành chiếc lá lướt sóng giả dạng cá bơn độc! [surprise-oh] Làn da của nó chứa hàng triệu túi sắc tố đổi màu cơ học chỉ trong không phẩy hai giây! Một bậc thầy tình báo thế giới ngầm không cần nanh vuốt vẫn khiến cả đại dương phải ngả mũ kính sợ!"
+ },
+ "seo": {
+  "title": "Sinh Vật 9 Bộ Não Biến Hình Thành 15 Loài Kịch Độc Dưới Đáy Biển?!",
+  "hook_paragraph": "Bạch Tuộc Mimic (Thaumoctopus mimicus) sở hữu 9 bộ não độc lập, 3 trái tim, máu xanh lam và tài hóa trang đỉnh cao: tự biến hình thành 15 loài sinh vật kịch độc (rắn biển, cá sư tử, cá bơn...) trong 0,2 giây để khắc chế kẻ thù!",
+  "bullets": [
+   "Danh tính giả #1: Hóa thân rắn biển cạp nong và cá sư tử gai độc để dọa kẻ săn mồi",
+   "Danh tính giả #2: Ép toàn bộ cơ thể dẹt thành cá bơn lướt cát và sứa biển bồng bềnh",
+   "Đế chế 9 não: 500 triệu nơ-ron với 2/3 nằm trong 8 xúc tu hoạt động độc lập",
+   "Màn hình nano: Máu xanh lam chứa hemocyanin gốc đồng và hàng triệu túi sắc tố đổi màu trong 0,2s"
+  ],
+  "question": "Nếu được sở hữu 1 siêu năng lực của Bạch Tuộc Mimic: 9 bộ não hoạt động độc lập hay tài hóa trang biến hình trong 0,2 giây, bạn chọn cái nào? Và đoán xem bóng đen tập sau là loài nào?",
+  "next_teaser": "Bóng đen bí ẩn nước Úc: mông bọc thép nghiền nát hộp sọ kẻ thù và thải ra những viên phân hình lập phương vuông vức!",
+  "hashtags": [
+   "#độngvật",
+   "#bạchtuộcmimic",
+   "#VẽChuyệnHoangDã"
+  ],
+  "tags": [
+   "bạch tuộc mimic",
+   "bach tuoc mimic",
+   "mimic octopus",
+   "thaumoctopus mimicus",
+   "bạch tuộc biến hình",
+   "bạch tuộc 9 não",
+   "động vật kỳ lạ",
+   "thế giới động vật",
+   "động vật hài hước",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị",
+   "bạch tuộc",
+   "bạch tuộc khổng lồ",
+   "bạch tuộc sống",
+   "bạch tuộc khổng lồ có nguy hiểm không"
+  ],
+  "shorts_title": "Sinh Vật 9 Bộ Não Biến Hình Thành 15 Loài Kịch Độc?! 🐙 #độngvật #bạchtuộcmimic",
+  "shorts_desc": "Bạch Tuộc Mimic sở hữu 9 bộ não, 3 tim, máu xanh lam và khả năng biến hình thành 15 loài kịch độc (rắn biển, cá sư tử...) chỉ trong 0,2 giây! Khám phá bí mật siêu điệp viên đại dương.",
+  "shorts_tags": [
+   "bạch tuộc mimic",
+   "mimic octopus",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ],
+  "en_title": "The 9-Brained Creature That Shapeshifts Into 15 Deadly Animals?! | Ep 25",
+  "en_hook": "Meet the Mimic Octopus (Thaumoctopus mimicus): equipped with 9 brains, 3 hearts, and blue copper blood, it can dynamically shapeshift into 15 different venomous creatures (sea snakes, lionfish, flatfish) in under 0.2 seconds to counter specific predators!",
+  "en_chapters": [
+   "Spy File: The Master Impersonator of the Ocean Underworld",
+   "False Identity #1: Banded Sea Snake & Spiny Lionfish",
+   "False Identity #2: Sand-Gliding Flatfish & Drifting Jellyfish",
+   "The 9-Brain Empire: Decentralized 500-Million-Neuron Network",
+   "Nano Display Skin: Blue Hemocyanin Blood & Millisecond Color Shifting",
+   "Intelligence Report: Soft Body Mastermind & Next Armored Teaser"
+  ],
+  "en_shorts_title": "The 9-Brained Animal That Mimics 15 Deadly Species?! 🐙 #animals #mimicoctopus"
+ }
+}

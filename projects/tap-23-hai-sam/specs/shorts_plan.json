@@ -1,0 +1,128 @@
+{
+ "title_lines": [
+  "BẮN CẢ BỘ RUỘT GAN",
+  "ĐỂ THOÁT THÂN?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "mà chọn cách... bắn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "Xin giới thiệu Hải",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "30cm",
+     "side": "R",
+     "y": 620,
+     "value": "30 CM",
+     "label": "xúc xích đáy biển",
+     "target": [
+      0.58,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Cơ thể nó không",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "và thở bằng cách",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "Da của nó làm",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "có thể tự chuyển",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "at": "1 giây",
+     "side": "R",
+     "y": 650,
+     "value": "1 GIÂY",
+     "label": "hóa lỏng như thạch",
+     "target": [
+      0.55,
+      0.52
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Khi bị tấn công,",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "at": "20 lần",
+     "side": "L",
+     "y": 680,
+     "value": "DÃN 20 LẦN",
+     "label": "tơ keo siêu dính",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Nếu vẫn chưa thoát,",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "rồi lủi trốn và",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [
+    {
+     "at": "5 tuần",
+     "side": "R",
+     "y": 680,
+     "value": "5 TUẦN",
+     "label": "tái sinh bộ ruột",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Một quái kiệt đáy",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  },
+  {
+   "at": "đúng là phép màu",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": []
+  }
+ ]
+}

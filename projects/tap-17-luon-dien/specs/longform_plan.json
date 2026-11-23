@@ -1,0 +1,770 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "MẪU VẬT PIN SỐNG 860 VÔN",
+   "hook": "BẬT CÔNG TẮC THỬ NGHIỆM 5 CẤP ĐỘ",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tiếng hồ quang điện",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đằng sau tấm kính",
+     "image": "assets/long/L03.png",
+     "stickers": [
+      {
+       "at": "10cm",
+       "side": "L",
+       "y": 380,
+       "value": "KÍNH 10CM",
+       "label": "CHỐNG ĐIỆN CAO THẾ",
+       "target": [
+        0.25,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo giáo sư",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bình tĩnh nào cô",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng tôi xin tiết",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng tại sao chúng",
+     "image": "assets/long/L07.png",
+     "stickers": [
+      {
+       "at": "Nhà Máy Điện Sống",
+       "side": "R",
+       "y": 380,
+       "value": "PIN SỐNG",
+       "label": "NHÀ MÁY ĐIỆN SỐNG",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hơn 80% chiều dài",
+     "image": "assets/long/L08.png",
+     "stickers": [
+      {
+       "at": "80%",
+       "side": "L",
+       "y": 420,
+       "value": "80% PIN",
+       "label": "THÂN CHỨA ĐIỆN",
+       "target": [
+        0.28,
+        0.5
+       ]
+      },
+      {
+       "at": "860V",
+       "side": "R",
+       "y": 370,
+       "value": "860V",
+       "label": "GẤP 4 LẦN 220V",
+       "target": [
+        0.72,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hôm nay, tôi sẽ",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "5 cấp độ",
+       "side": "R",
+       "y": 390,
+       "value": "5 CẤP ĐỘ",
+       "label": "QUY TRÌNH THÍ NGHIỆM",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hãy siết chặt dây",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "KHỞI ĐỘNG THỬ THÁCH"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "6.000 TẾ BÀO PIN VÀ RADAR ĐỊNH VỊ BÙN LẦY",
+   "hook": "MÁY ĐO ĐIỆN VÀ RADAR DÒ TÌM CON MỒI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "2m",
+       "side": "R",
+       "y": 360,
+       "value": "DÀI 2M",
+       "label": "KÍCH THƯỚC KHỦNG",
+       "target": [
+        0.75,
+        0.42
+       ]
+      },
+      {
+       "at": "20kg",
+       "side": "R",
+       "y": 460,
+       "value": "NẶNG 20KG",
+       "label": "THỂ TRỌNG KHỔNG LỒ",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tất cả các cơ",
+     "image": "assets/long/L12.png",
+     "stickers": [
+      {
+       "at": "20%",
+       "side": "L",
+       "y": 380,
+       "value": "20% ĐẦU",
+       "label": "DỒN MỌI NỘI TẠNG",
+       "target": [
+        0.28,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cơ quan phát điện",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bên trong ba khối",
+     "image": "assets/long/L14.png",
+     "stickers": [
+      {
+       "at": "6.000",
+       "side": "L",
+       "y": 380,
+       "value": "6.000 PIN",
+       "label": "TẾ BÀO ELECTROCYTE",
+       "target": [
+        0.28,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi tế bào này",
+     "image": "assets/long/L15.png",
+     "stickers": [
+      {
+       "at": "0,15V",
+       "side": "R",
+       "y": 420,
+       "value": "0,15V/PIN",
+       "label": "CỘNG DỒN NỐI TIẾP",
+       "target": [
+        0.72,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng ở chế độ",
+     "image": "assets/long/L16.png",
+     "stickers": [
+      {
+       "at": "10V",
+       "side": "L",
+       "y": 380,
+       "value": "10V RADAR",
+       "label": "ĐỊNH VỊ ĐIỆN ÁP THẤP",
+       "target": [
+        0.25,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Vùng nước sông Amazon",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giáo sư ơi",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "30cm",
+       "side": "R",
+       "y": 390,
+       "value": "SÂU 30CM",
+       "label": "DƯỚI BÙN ĐẶC",
+       "target": [
+        0.75,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đã đến lúc chuyển",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 1"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "XUNG ĐIỆN KÉP THAO TÚNG CƠ BẮP CON MỒI TỪ XA",
+   "hook": "HACK HỆ THẦN KINH VÀ ÉP CƠ BẮP CO GIẬT",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2014, nhà sinh",
+     "image": "assets/long/L21.png",
+     "stickers": [
+      {
+       "at": "Kenneth Catania",
+       "side": "L",
+       "y": 400,
+       "value": "CATANIA 14",
+       "label": "KHOA HỌC SCIENCE",
+       "target": [
+        0.28,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi nghi ngờ có",
+     "image": "assets/long/L22.png",
+     "stickers": [
+      {
+       "at": "2-3 phần nghìn giây",
+       "side": "R",
+       "y": 380,
+       "value": "XUNG KÉP",
+       "label": "CÁCH NHAU 2MS",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tín hiệu này xâm",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ối giời ơi",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Con cá nhỏ vừa",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhà Máy Điện Sống lập tức",
+     "image": "assets/long/L26.png",
+     "stickers": [
+      {
+       "at": "400V",
+       "side": "L",
+       "y": 370,
+       "value": "400V",
+       "label": "ĐÒN ĐIỆN TÊ LIỆT",
+       "target": [
+        0.25,
+        0.45
+       ]
+      },
+      {
+       "at": "400 nhịp",
+       "side": "R",
+       "y": 420,
+       "value": "400 NHỊP/S",
+       "label": "TẦN SỐ TỬ THẦN",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Toàn bộ cơ bắp",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và trước khi con",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một cơ chế săn",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 2"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "CÚ NHẢY DÍ CẰM ĐIỆN GIẬT NGẤT CÁ SẤU 2 MÉT",
+   "hook": "CÚ PHÓNG LÊN KHỎI NƯỚC DÍ THẲNG VÀO TIM",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hơn 200 năm trước,",
+     "image": "assets/long/L31.png",
+     "stickers": [
+      {
+       "at": "200 năm",
+       "side": "L",
+       "y": 390,
+       "value": "200 NĂM",
+       "label": "BÍ ẨN VON HUMBOLDT",
+       "target": [
+        0.28,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cho đến tận năm",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng khi bị một",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó không nằm dưới",
+     "image": "assets/long/L34.png",
+     "stickers": [
+      {
+       "at": "0,5m",
+       "side": "L",
+       "y": 370,
+       "value": "NHẢY 0,5M",
+       "label": "CÚ NHẢY DÍ CẰM",
+       "target": [
+        0.25,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Toàn bộ nguồn điện",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Này con lươn trơn",
+     "image": "assets/long/L36.png",
+     "stickers": [
+      {
+       "at": "2m",
+       "side": "R",
+       "y": 420,
+       "value": "CÁ SẤU 2M",
+       "label": "GIẬT TÉ KHÓI",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cú nhảy dí cằm trực",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết, khi gặp",
+     "image": "assets/long/L38.png",
+     "stickers": [
+      {
+       "at": "hình chữ U",
+       "side": "L",
+       "y": 380,
+       "value": "CHỮ U",
+       "label": "NHÂN ĐÔI ĐIỆN TRƯỜNG",
+       "target": [
+        0.25,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Một chiến thuật chiến",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 3"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "TẠI SAO LƯƠN ĐIỆN KHÔNG BỊ ĐIỆN GIẬT CHẾT?",
+   "hook": "LỚP CÁCH ĐIỆN SINH HỌC VÀ NGHỊCH LÝ CHẾT ĐUỐI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu trả lời nằm ở ba",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lá chắn thứ nhất",
+     "image": "assets/long/L42.png",
+     "stickers": [
+      {
+       "at": "điện trở",
+       "side": "L",
+       "y": 390,
+       "value": "ĐIỆN TRỞ",
+       "label": "MỠ CÁCH ĐIỆN",
+       "target": [
+        0.28,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trong khi đó, dòng",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lá chắn thứ hai",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Dòng điện đi từ",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và lá chắn thứ",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "trong khi những con cá nhỏ",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "80% lượng oxy của",
+     "image": "assets/long/L48.png",
+     "stickers": [
+      {
+       "at": "80%",
+       "side": "R",
+       "y": 380,
+       "value": "80% OXY",
+       "label": "THỞ BẰNG MIỆNG",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cứ mười đến 15",
+     "image": "assets/long/L49.png",
+     "stickers": [
+      {
+       "at": "15 phút",
+       "side": "L",
+       "y": 410,
+       "value": "10-15 PHÚT",
+       "label": "PHẢI NGOI LÊN THỞ",
+       "target": [
+        0.25,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nếu bạn giữ chặt",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 4"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "SỨC MẠNH 860V VÀ BÓNG ĐEN BÍ ẨN TẬP 18",
+   "hook": "ĐỈNH CAO 860 VÔN VÀ BẬT MÍ QUÁI KIỆT TẬP 18",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng vào năm 2019,",
+     "image": "assets/long/L52.png",
+     "stickers": [
+      {
+       "at": "2019",
+       "side": "R",
+       "y": 380,
+       "value": "2019",
+       "label": "DE SANTANA NATURE",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi gắn thiết bị",
+     "image": "assets/long/L53.png",
+     "stickers": [
+      {
+       "at": "860V",
+       "side": "L",
+       "y": 370,
+       "value": "KỶ LỤC",
+       "label": "MẠNH NHẤT HÀNH TINH",
+       "target": [
+        0.25,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tiến hóa không chỉ",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo giáo sư",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyệt vời lắm cô",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Xin gửi tới các",
+     "image": "assets/long/L57.png",
+     "stickers": [
+      {
+       "at": "BÓNG ĐEN BÍ ẨN",
+       "side": "R",
+       "y": 360,
+       "value": "BÓNG ĐEN",
+       "label": "QUÁI KIỆT TẬP 18",
+       "target": [
+        0.75,
+        0.42
+       ]
+      },
+      {
+       "at": "500 lần/giây",
+       "side": "L",
+       "y": 420,
+       "value": "500 PHÁT/S",
+       "label": "NÃ ĐẠN LIÊN THANH",
+       "target": [
+        0.25,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thứ hai, phản ứng",
+     "image": "assets/long/L58.png",
+     "stickers": [
+      {
+       "at": "hai buồng đốt",
+       "side": "R",
+       "y": 400,
+       "value": "2 BUỒNG",
+       "label": "ĐỘNG CƠ TÊN LỬA MINI",
+       "target": [
+        0.75,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và thứ ba, kỷ",
+     "image": "assets/long/L59.png",
+     "stickers": [
+      {
+       "at": "1 tiếng",
+       "side": "L",
+       "y": 400,
+       "value": "SỐNG 1 GIỜ",
+       "label": "XẢ ĐỘC THOÁT CHẾT",
+       "target": [
+        0.25,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Các trợ lý khoa",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giáo sư phòng thí",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ TỐI THƯỢNG"
+  }
+ }
+}

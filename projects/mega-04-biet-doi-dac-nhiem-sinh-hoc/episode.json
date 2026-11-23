@@ -1,0 +1,908 @@
+{
+  "_doc": "Meta của episode.json — TẬP ĐẶC BIỆT nội dung MỚI HOÀN TOÀN (Mega 04: Biệt Đội Đặc Nhiệm Sinh Học, thể loại Spy Thriller Comedy theo TASTE-76). Sinh lại: python src/mega/build_from_content.py projects/mega-04-biet-doi-dac-nhiem-sinh-hoc",
+  "episode_no": 0,
+  "animal": "10 đặc vụ — Biệt Đội Đặc Nhiệm Sinh Học",
+  "slug": "mega-04-biet-doi-dac-nhiem-sinh-hoc",
+  "format": "F_SPECIAL",
+  "persona": "chi_huy_mat_vu",
+  "nickname": "Biệt Đội Đặc Nhiệm Sinh Học",
+  "sources": [
+    "Chim Cắt Lớn: Ponitz et al. (2014), J. Comp. Physiol. A — Cấu trúc hình nón tubercle trong lỗ mũi chuyển hướng dòng khí sốc siêu thanh",
+    "Chim Cắt Lớn: Franklin, K. (2005), National Geographic — Đo đạc tốc độ bổ nhào thực tế 389 km/h bằng chip gia tốc",
+    "Chim Cắt Lớn: Tucker, V. A. (1998), J. Exp. Biol. — Màng nháy mắt chớp 120 lần/phút bôi trơn mắt ở áp suất cực cao",
+    "Chuột Chũi Trũi: Park et al. (2017), Science — Chuyển hóa đường fructose vào tim và não sống sót 18 phút ở 0% oxy",
+    "Chuột Chũi Trũi: Smith et al. (2011), Cell Reports — Mất tín hiệu chất P và đột biến TrkA giúp miễn nhiễm cảm giác đau do axit",
+    "Chuột Chũi Trũi: Tian et al. (2013), Nature — Phân tử axit hyaluronic siêu cao phân tử HMM-HA chống hình thành khối u ung thư",
+    "Ếch Gỗ Bắc Cực: Storey & Storey (1984, 2017), Cryobiology — 65% dịch cơ thể đóng băng thành tinh thể đá ngoại bào ở âm hai mươi độ C",
+    "Ếch Gỗ Bắc Cực: Costanzo et al. (2013), J. Exp. Biol. — Gan phình to gấp 3 lần giải phóng glucose và urea bảo vệ nội bào",
+    "Ếch Gỗ Bắc Cực: Larson et al. (2014), J. Exp. Biol. — Tim ngừng đập 7 tháng mùa đông và tự khởi động lại sau 1 giờ tan băng",
+    "Quạ Đen: Taylor et al. (2010), Proc. R. Soc. B — Giải câu đố cơ học liên hoàn 8 bước không cần thử sai",
+    "Quạ Đen: Marzluff et al. (2010), Anim. Behav. — Nhận diện khuôn mặt con người và ghi nhớ mối đe dọa suốt 5 năm",
+    "Quạ Đen: Bird & Emery (2009), Curr. Biol. — Hiểu quy luật thể tích chất lỏng Aesop's Fable, chọn sỏi đặc thay vì xốp nổi",
+    "Cá Voi Sát Thủ: Au et al. (2004), J. Acoust. Soc. Am. — Xung sonar định vị công suất 225 dB re 1 µPa quét xuyên tường đá",
+    "Cá Voi Sát Thủ: Visser et al. (2008), Mar. Mamm. Sci. — Chiến thuật bơi đồng bộ tạo sóng thần mini hất văng mục tiêu",
+    "Cá Voi Sát Thủ: Ford, J. K. (1991), Can. J. Zool. & Deecke et al. (2000), Nature — Phương ngữ âm thanh riêng biệt giữa các thị tộc",
+    "Chim Gõ Kiến: Wang et al. (2011), PLoS ONE — Chịu lực gia tốc va chạm 1200G ở tần số mổ 20 lần/giây mà không tổn thương não",
+    "Chim Gõ Kiến: Jung et al. (2016), Bioinspir. Biomim. — Xương móng hyoid quấn quanh hộp sọ như dây an toàn hấp thụ xung lực",
+    "Chim Gõ Kiến: Yoon & Park (2011), Bioinspir. Biomim. — Cấu trúc mỏ trên dài hơn mỏ dưới 1mm phân tán sóng ứng suất trượt",
+    "Lạc Đà Sa Mạc: Yagil et al. (1974), Am. J. Physiol. — Hồng cầu hình oval giãn nở 240% thể tích khi nạp 100 lít nước",
+    "Lạc Đà Sa Mạc: Schmidt-Nielsen et al. (1981), PNAS — Xương cuốn mũi xoắn ốc tái hấp thu 60% hơi ẩm từ hơi thở ra",
+    "Lạc Đà Sa Mạc: Bouaïcha et al. (2021), J. Therm. Biol. — Thân nhiệt dao động tự nhiên 34 đến 41 độ C để tiết kiệm nước làm mát",
+    "Dê Núi Bắc Mỹ: Geist, V. (1971), Mountain Sheep & Chadwick (1983) — Đệm móng cao su đàn hồi bám dính góc nghiêng trên 60-80 độ",
+    "Dê Núi Bắc Mỹ: Brandborg, G. (1955), Idaho Dept. Fish Game — Cơ khớp vai kéo toàn bộ trọng lượng cơ thể lên vách đá 90 độ",
+    "Dê Núi Bắc Mỹ: Cote & Festa-Bianchet (2003), Mountain Goats — Tầm nhìn lập thể 320 độ và cảm nhận lực bám vi mô",
+    "Chim Bách Thanh: Yosef & Whitman (1992), The Auk — Xiên côn trùng độc lên gai nhọn 3 ngày để độc tố tự nhiên phân hủy trước khi ăn",
+    "Chim Bách Thanh: Sustaita & Hertel (2010), J. Zool. — Mấu răng giả tomium trên mỏ bẻ gãy đốt sống con mồi",
+    "Chim Bách Thanh: Yosef, R. (1996), Condor — Trí nhớ không gian định vị hàng chục chốt gai trong bán kính 500 mét",
+    "Kiến Cắt Lá: Schofield et al. (2021), Sci. Rep. — Hàm răng chitin tẩm kẽm và mangan kim loại nặng bền vững như lưỡi thép",
+    "Kiến Cắt Lá: Kleineidam & Roces (2000), Insectes Sociaux — Hệ thống giếng đối lưu ngầm sâu 8 mét tự điều hòa CO2 và độ ẩm",
+    "Kiến Cắt Lá: Schultz & Brady (2008), PNAS — Nông nghiệp trồng nấm cộng sinh 50 triệu năm trước con người"
+  ],
+  "whisper_prompt": "Vẽ Chuyện Hoang Dã, Pháo Đài Tự Nhiên",
+  "display_fix": {
+    "ba trăm tám mươi chín cây số một giờ": "389 km/h",
+    "ba trăm tám mươi chín ki-lô-mét một giờ": "389 km/h",
+    "ba trăm tám mươi chín": "389",
+    "một ngàn hai trăm G": "1200G",
+    "một ngàn hai trăm": "1200",
+    "hai mươi lần một giây": "20 lần/giây",
+    "hai mươi lần": "20 lần",
+    "hai trăm hai mươi lăm đê-xi-ben": "225 dB",
+    "hai trăm hai mươi lăm": "225",
+    "âm hai mươi độ C": "-20°C",
+    "âm hai mươi độ": "-20°",
+    "năm mươi độ C": "50°C",
+    "năm mươi độ": "50°",
+    "ba mươi tư độ C": "34°C",
+    "bốn mươi mốt độ C": "41°C",
+    "không phần trăm oxy": "0% oxy",
+    "không phần trăm": "0%",
+    "sáu mươi lăm phần trăm": "65%",
+    "bảy mươi phần trăm": "70%",
+    "hai trăm bốn mươi phần trăm": "240%",
+    "sáu mươi phần trăm": "60%",
+    "chín mươi độ": "90°",
+    "tám mươi độ": "80°",
+    "ba trăm hai mươi độ": "320°",
+    "một trăm hai mươi lần một phút": "120 lần/phút",
+    "mười tám phút": "18 phút",
+    "bảy tháng": "7 tháng",
+    "tám bước": "8 bước",
+    "năm năm": "5 năm",
+    "hai mét": "2 mét",
+    "tám mét": "8 mét",
+    "năm trăm mét": "500 mét",
+    "một trăm lít nước": "100 lít nước",
+    "ba ngày": "3 ngày",
+    "năm mươi triệu năm": "50 triệu năm",
+    "bảy cửa ải": "7 cửa ải",
+    "mười đặc vụ": "10 đặc vụ",
+    "Cửa Ải Một": "Cửa Ải 1",
+    "Cửa Ải Hai": "Cửa Ải 2",
+    "Cửa Ải Ba": "Cửa Ải 3",
+    "Cửa Ải Bốn": "Cửa Ải 4",
+    "Cửa Ải Năm": "Cửa Ải 5",
+    "Cửa Ải Sáu": "Cửa Ải 6",
+    "Cửa Ải Bảy": "Cửa Ải 7",
+    "Đặc vụ số một": "Đặc vụ 01",
+    "Đặc vụ số hai": "Đặc vụ 02",
+    "Đặc vụ số ba": "Đặc vụ 03",
+    "Đặc vụ số bốn": "Đặc vụ 04",
+    "Đặc vụ số năm": "Đặc vụ 05",
+    "Đặc vụ số sáu": "Đặc vụ 06",
+    "Đặc vụ số bảy": "Đặc vụ 07",
+    "Đặc vụ số tám": "Đặc vụ 08",
+    "Đặc vụ số chín": "Đặc vụ 09",
+    "Đặc vụ số mười": "Đặc vụ 10",
+    "năm trăm triệu năm": "500 triệu năm",
+    "trăm triệu năm": "trăm triệu năm",
+    "Không một": "Không một",
+    "không một": "không một",
+    "Một trăm": "100",
+    "một trăm": "100",
+    "Hai trăm": "200",
+    "hai trăm": "200",
+    "Ba trăm": "300",
+    "ba trăm": "300",
+    "Năm Mươi": "50",
+    "năm mươi": "50",
+    "Chín Mươi": "90",
+    "chín mươi": "90",
+    "ba ngàn mét": "3.000m",
+    "ba ngàn": "3.000",
+    "ba mươi ngàn": "30.000",
+    "ba mươi mét": "30m",
+    "ba mươi giây": "30 giây",
+    "ba mươi": "30",
+    "bốn mươi lăm giây": "45 giây",
+    "bốn mươi lăm": "45",
+    "bốn mươi mét": "40m",
+    "bốn mươi xăng-ti-mét": "40cm",
+    "bốn mươi": "40",
+    "năm mươi sáu cây số một giờ": "56 km/h",
+    "năm mươi sáu": "56",
+    "hai mươi bốn ca-ra": "24K",
+    "hai mươi bốn": "24",
+    "hai mươi lăm phần trăm": "25%",
+    "hai mươi lăm": "25",
+    "hai mươi phân": "20cm",
+    "hai mươi mét": "20m",
+    "hai mươi": "20",
+    "mười lăm phút": "15 phút",
+    "mười lăm": "15",
+    "sáu mươi phút": "60 phút",
+    "sáu mươi giây": "60 giây",
+    "sáu mươi chiếc": "60 chiếc",
+    "sáu mươi nhịp": "60 nhịp",
+    "sáu mươi": "60",
+    "Năm hai ngàn mười bảy": "Năm 2017",
+    "năm hai ngàn mười bảy": "năm 2017",
+    "ba trăm sáu mươi độ": "360°",
+    "ba trăm sáu mươi": "360",
+    "một triệu tấn": "1 triệu tấn",
+    "một triệu": "1 triệu",
+    "năm trăm mét vuông": "500m²",
+    "năm trăm": "500",
+    "ba mét": "3 mét",
+    "năm mét": "5 mét",
+    "mười mét": "10 mét",
+    "năm phân": "5cm",
+    "mười phân": "10cm",
+    "năm xăng-ti-mét": "5cm",
+    "ba tấc": "3 tấc",
+    "nửa mét": "0,5m",
+    "ba phút": "3 phút",
+    "hai phút": "2 phút",
+    "hai giây": "2 giây",
+    "ba giây": "3 giây",
+    "một phần mười giây": "0,1 giây",
+    "một phần nghìn giây": "0,001 giây",
+    "một phần mười": "0,1",
+    "sáu tấn": "6 tấn",
+    "mười tấn": "10 tấn",
+    "hàng tạ": "hàng tạ",
+    "năm ki-lô-gam": "5kg",
+    "hai mươi nhịp": "20 nhịp",
+    "năm mươi nhịp": "50 nhịp",
+    "Gờ-lút năm": "GLUT5",
+    "khí các-bon-nic": "CO₂",
+    "Khí các-bon-nic": "CO₂",
+    "ba năm ròng": "3 năm ròng",
+    "ba năm": "3 năm"
+  },
+  "voice": {
+    "min_long_s": 3600,
+    "gap_breathing_s": 0.98,
+    "gap_leadin_s": 0.5
+  },
+  "art": {
+    "decor": "top secret stamps, red confidential ink seals, radar grid overlays, classified dossier kraft paper texture, neon green tactical night vision HUD",
+    "thumb_badge": "TẬP ĐẶC BIỆT",
+    "shorts_banner_lines": [
+      "BIỆT ĐỘI ĐẶC NHIỆM",
+      "PHI VỤ THẾ KỶ"
+    ],
+    "shorts_mascot": "a sleek cartoon peregrine falcon with pilot goggles and high-tech jetpack, winking and flashing a secret agent badge",
+    "thumb_bg": "hầm ngầm mật vụ tối tân phong cách Cold War 1960s với tường bê tông, đèn huỳnh quang xanh lục và lưới tia laser đỏ giăng kín",
+    "thumb_title": [
+      "PHI VỤ THẾ KỶ",
+      "ĐẶC NHIỆM SINH HỌC"
+    ],
+    "thumb_scene": "Cú mèo Chỉ Huy Mật Vụ đeo kính râm đứng giữa phòng điều khiển chỉ tay vào bản đồ hologram phát sáng; bao quanh là 10 đặc vụ động vật (Chim Cắt Lớn lao qua tia laser, Chuột Chũi Trũi trồi lên từ sàn hầm, Cá Voi Sát Thủ phun sóng nước, Quạ Đen cầm kìm cắt dây điện) trong không khí nghẹt thở của một vụ đột nhập bất khả thi",
+    "thumb_prop": "",
+    "thumb_gag": "chú Chuột Chũi Trũi không lông đeo kính nhìn đêm to đùng đi lùi húc thẳng mông vào chân Chỉ Huy khiến Chỉ Huy giật nảy mình"
+  },
+  "seo": {
+    "title": "[TẬP ĐẶC BIỆT] Phi Vụ Thế Kỷ: Biệt Đội Đặc Nhiệm Sinh Học Đột Nhập Pháo Đài Tự Nhiên",
+    "hook_paragraph": "Mười đặc vụ quái kiệt nhất hành tinh — Chim Cắt Lớn, Chuột Chũi Trũi, Ếch Gỗ Bắc Cực, Quạ Đen, Cá Voi Sát Thủ, Chim Gõ Kiến, Lạc Đà Sa Mạc, Dê Núi Bắc Mỹ, Chim Bách Thanh và Kiến Cắt Lá — được Tổng Cục Mật Vụ triệu tập vào phi vụ thế kỷ: Đột nhập Pháo Đài Tự Nhiên qua 7 Cửa Ải An Ninh sinh tử! Toàn bộ đều dựa trên các công trình nghiên cứu khoa học MỚI 100%: Chim Cắt có vòi xoáy nén khí 389 km/h, Chuột Chũi thở bằng đường ăn fructose khi cạn oxy, Ếch Gỗ đóng băng tim ngừng đập 7 tháng, Quạ Đen giải mã câu đố 8 bước, Cá Voi Sát Thủ bắn sóng sonar 225 dB, Chim Gõ Kiến chịu lực xung chấn 1200G, và Dê Núi phi thân vách đá 90 độ... Liệu biệt đội có phá khóa thành công kho báu tiến hóa tối thượng?",
+    "bullets": [
+      "Hồ sơ mật: Triệu tập 10 đặc vụ sinh học bất hảo nhất vào phòng tác chiến tối mật",
+      "Cửa Ải 1 – Không phận tử thần: Chim Cắt Lớn bổ nhào 389 km/h xé toạc luồng khí nén",
+      "Cửa Ải 2 – Địa đạo yếm khí: Chuột Chũi Trũi kích hoạt chuyển hóa fructose sống sót 0% oxy",
+      "Hậu trường 1: Chuột Chũi đào nhầm vào kho thức ăn và Quạ Đen đòi tăng lương bộ đàm",
+      "Cửa Ải 3 – Kho lạnh âm hai mươi độ C: Ếch Gỗ Bắc Cực đông đá cơ thể qua mặt cảm biến tầm nhiệt",
+      "Cửa Ải 4 – Mê cung bẫy giải mã: Quạ Đen bẻ khóa cơ học 8 bước và đọc vị bẫy camera",
+      "Hậu trường 2: Lạc Đà nhai xương rồng rộp rộp làm nhiễu sóng và Bách Thanh cắm gai nhầm chìa khóa",
+      "Cửa Ải 5 – Hào nước áp lực: Cá Voi Sát Thủ dùng sonar 225 dB định vị và quất sóng thần phá đập",
+      "Cửa Ải 6 – Boong-ke xung chấn: Chim Gõ Kiến triệt tiêu 1200G cùng Đại đội Kiến Cắt Lá khoét móng đá",
+      "Cửa Ải 7 – Bức tường dựng đứng 90 độ: Dê Núi đệm móng cao su bám đá cùng Lạc Đà vượt lò nhiệt 50 độ C",
+      "Trạm gác ngoại vi: Sát thủ Bách Thanh vô hiệu hóa lính gác bằng kỹ thuật cắm gai nhọn",
+      "Phòng châu báu: Cú lật kèo chấn động — kho báu thật sự của Pháo Đài Tự Nhiên",
+      "Tháo chạy nghẹt thở: Pháo đài đếm ngược tự hủy 3 phút và màn phối hợp đào tẩu ngoạn mục",
+      "Hồ sơ mật kết thúc: Giải tán biệt đội, chia thù lao và hé lộ hồ sơ mật Mùa sau"
+    ],
+    "question": "Nếu được chọn một đặc vụ đồng hành trong phi vụ thế kỷ này, bạn sẽ chọn quái kiệt nào? Bình luận mật mã của bạn bên dưới nhé!",
+    "next_teaser": "Mega 05 — Phòng Cấp Cứu Tạo Hóa: Ca Trực Đêm Kinh Hoàng của 10 Bệnh Nhân Tiến Hóa",
+    "hashtags": [
+      "#VeChuyenHoangDa",
+      "#TheGioiDongVat",
+      "#BietDoiDacNhiem",
+      "#DongVatKyLa",
+      "#KhoaHoc"
+    ],
+    "tags": [
+      "vẽ chuyện hoang dã",
+      "biệt đội đặc nhiệm sinh học",
+      "phi vụ thế kỷ",
+      "thế giới động vật",
+      "động vật kỳ lạ",
+      "chim cắt lớn",
+      "chuột chũi trũi",
+      "ếch gỗ bắc cực",
+      "quạ đen",
+      "cá voi sát thủ",
+      "chim gõ kiến",
+      "lạc đà sa mạc",
+      "dê núi bắc mỹ",
+      "chim bách thanh",
+      "kiến cắt lá",
+      "khoa học thú vị",
+      "whiteboard animation",
+      "nghe trước khi ngủ"
+    ],
+    "shorts_title": "Biệt Đội Điệp Viên Động Vật Đột Nhập Pháo Đài Tối Mật! 🕶️💥 #shorts #dongvat",
+    "shorts_desc": "Chim Cắt bổ nhào 389 km/h, Chuột Chũi sống 0% oxy, Quạ Đen bẻ khóa 8 bước... Biệt đội đặc nhiệm sinh học thực hiện phi vụ thế kỷ đột nhập Pháo Đài Tự Nhiên! 🕶️🔥\n👉 Xem trọn bộ Mega 04 — tập đặc biệt trên kênh Vẽ Chuyện Hoang Dã.",
+    "shorts_tags": [
+      "biệt đội đặc nhiệm",
+      "phi vụ thế kỷ",
+      "shorts",
+      "thế giới động vật",
+      "vẽ chuyện hoang dã",
+      "động vật kỳ lạ"
+    ],
+    "en_title": "[SPECIAL] Biological Black-Ops: 10 Elite Animal Agents In The Ultimate Fortress Heist!"
+  },
+  "special": "mega-original",
+  "series_label": "Tập đặc biệt Biệt Đội Đặc Nhiệm Sinh Học #4 (sau 40 tập)",
+  "next_label": "tập 41 (Nhện Lặn Chuông)",
+  "longform": {
+    "scenes": [
+      {
+        "id": "scene01",
+        "badge": "HỒ SƠ TỐI MẬT",
+        "banner_title": "PHI VỤ THẾ KỶ",
+        "chapter_title": "Khởi động: Triệu tập Biệt Đội Đặc Nhiệm Sinh Học",
+        "hook": "BẢN MẬT LỆNH ĐỘT NHẬP",
+        "mood": "tram_bi_an",
+        "parts": [
+          {
+            "text": "Một căn hầm ngầm bê tông tối om dưới lòng đất sâu một trăm mét. Chỉ có ánh sáng xanh lục từ chiếc máy chiếu hologram quét chầm chậm qua các góc phòng. Chào mừng toàn thể các điệp viên đến với Tổng Cục Tiến Hóa Tối Mật. Nếu các bạn nghe được tín hiệu này, có nghĩa là phi vụ thế kỷ đã chính thức bắt đầu. Trước mặt chúng ta là mục tiêu tối thượng chưa từng có sinh vật nào xuyên thủng được suốt năm trăm triệu năm qua: Pháo Đài Tự Nhiên. Nơi đây giấu kín Bản Thiết Kế Tiến Hóa Tối Thượng, cội nguồn sức mạnh của toàn bộ giới sinh vật trên Trái Đất. Nhưng để chạm tới chiếc két sắt trung tâm, Biệt Đội Đặc Nhiệm Sinh Học phải vượt qua bảy cửa ải an ninh sinh tử kiên cố nhất. Và để giải mã bảy cánh cửa bất khả thi này, tôi đã đích thân tuyển chọn mười đặc vụ bất hảo và quái kiệt nhất hành tinh. Không một ai trong số họ là kẻ tầm thường.",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Đặc vụ số một! Mật danh Tia Chớp Bầu Trời, kẻ sở hữu vũ khí xuyên phá hàng rào laser trên không: Chim Cắt Lớn! Hồ sơ tác chiến ghi rõ: anh chàng này từng đạt tốc độ bổ nhào xé gió ba trăm tám mươi chín cây số một giờ, nhanh hơn cả một chiếc siêu xe đua Công Thức Một! Đặc vụ số hai! Mật danh Bóng Ma Hầm Ngầm, chuyên gia thâm nhập các địa đạo không có không khí và đầy sương axit: Chuột Chũi Trũi! Sinh vật không lông này có thể sống phây phây mười tám phút không cần oxy, và hoàn toàn miễn nhiễm với mọi cảm giác đau đớn do axit gây ra! Đặc vụ số ba! Mật danh Điệp Viên Băng Giá, sinh vật duy nhất có khả năng tự biến mình thành tảng băng để đánh lừa cảm biến tầm nhiệt: Ếch Gỗ Bắc Cực! Anh chàng có thể để sáu mươi lăm phần trăm cơ thể đóng băng cứng ngắc suốt bảy tháng mùa đông, tim ngừng đập hoàn toàn mà vẫn hồi sinh nguyên vẹn!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Đặc vụ số bốn! Mật danh Bộ Não Cơ Học, bậc thầy giải mã các chuỗi khóa bẫy đa bước phức tạp nhất: Quạ Đen! Tài liệu của viện nghiên cứu khẳng định: bộ não của quạ đen có thể tự giải các câu đố logic cơ học tám bước liên hoàn trong vòng ba mươi giây mà không cần dạy trước! Đặc vụ số năm! Mật danh Thủy Thần Đại Dương, chỉ huy phân đội tác chiến đường nước với sóng âm phá hủy công sự: Cá Voi Sát Thủ! Cỗ máy săn mồi sáu tấn này sở hữu chùm sóng sonar công suất hai trăm hai mươi lăm đê-xi-ben, đủ sức quét xuyên lòng đá và tạo nên những cơn sóng thần dập tắt mọi chốt chặn! Đặc vụ số sáu! Mật danh Búa Khoan Thần Tốc, kẻ có thể đập nát cửa boong-ke dày cộp bằng chính hộp sọ của mình: Chim Gõ Kiến! Cơ chế đai an toàn xương móng quấn quanh đầu cho phép anh chàng chịu đựng lực gia tốc va đập lên tới một ngàn hai trăm G mà không hề choáng váng!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Đặc vụ số bảy! Mật danh Cỗ Xe Tăng Sa Mạc, pháo đài di động vượt qua vùng bẫy nhiệt độ năm mươi độ C mà không cần tiếp tế một giọt nước: Lạc Đà Sa Mạc! Hồng cầu hình oval độc nhất vô nhị giãn nở hai trăm bốn mươi phần trăm thể tích giúp anh chàng trữ một trăm lít nước và hành quân qua chảo lửa sa mạc dễ dàng! Đặc vụ số tám! Mật danh Thánh Leo Vách Đứng, kẻ thách thức mọi định luật vật lý trên những bức tường dựng đứng chín mươi độ: Dê Núi Bắc Mỹ! Bốn chiếc móng guốc cao su đàn hồi kép giúp anh chàng phi thân ngược vách đá thẳng đứng ba mươi mét trong nháy mắt! Đặc vụ số chín! Mật danh Sát Thủ Gai Nhọn, tay súng bắn tỉa và phục kích cắm chốt tầm xa: Chim Bách Thanh! Mấu răng tomium sắc bén và kỹ thuật găm gai nhọn cho phép anh chàng hạ gục đối thủ to gấp đôi và cất giữ chiến lợi phẩm an toàn suốt ba ngày! Và lực lượng công binh bí mật cuối cùng! Đặc vụ số mười: Đại Đội Công Binh Kiến Cắt Lá, hàng triệu chiến sĩ tí hon sở hữu hàm răng thép tẩm kim loại nặng có thể khoét rỗng chân móng pháo đài! Lớp kim loại kẽm và mangan nguyên chất tẩm vào đầu răng biến bầy kiến này thành những chiếc máy cắt kim cương di động dưới lòng đất!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Đủ mười đặc vụ. Bảy cửa ải. Và đúng sáu mươi phút trước khi hệ thống phòng thủ của pháo đài khóa vĩnh viễn lối vào.",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Thông báo khẩn từ trung tâm giám sát vệ tinh: pháo đài vừa kích hoạt toàn bộ lưới phòng vệ cấp độ đỏ! Toàn đội vào vị trí tác chiến!",
+            "cast": "phat_thanh_vien"
+          },
+          {
+            "text": "Các đặc vụ nghe rõ: phi vụ này tuyệt đối không có chỗ cho sự sai sót. Không có thử lại. Không có cứu viện. Mọi chi tiết trong kế hoạch này đều dựa trên những báo cáo sinh học tối tân nhất vừa được giải mã từ các phòng thí nghiệm hàng đầu thế giới.",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Chúng ta không dùng súng đạn. Vũ khí tối thượng của biệt đội chính là những tuyệt kỹ tiến hóa hàng trăm triệu năm của tạo hóa! Cửa Ải Một đã hiện ra trên màn hình radar: Không phận tử thần với áp suất gió kinh hoàng và lưới quét quang học. Mật danh Tia Chớp, đến lượt cậu cất cánh! Biệt Đội Đặc Nhiệm Sinh Học chính thức xuất kích! Không một kẻ thù nào có thể cản bước mười quái kiệt của tự nhiên! Mục tiêu là chiếc chìa khóa tối thượng. Thời gian đang đếm ngược từng giây một!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Pháo Đài Tự Nhiên được xây dựng dựa trên những định luật khắc nghiệt nhất của hành tinh, nơi những kẻ yếu đuối sẽ bị đào thải không thương tiếc. Mỗi một cửa ải đại diện cho một thảm họa sinh học tự nhiên: từ áp suất chân không đến cực hạn giá rét, từ sa mạc lửa cháy đến hào nước áp lực cao. Chỉ có sức mạnh thích nghi tối thượng của muôn loài mới có thể tìm ra kẽ hở giữa những công sự kiên cố này! Các kỹ sư của Tổng Cục đã phân tích dữ liệu địa tầng suốt ba năm ròng để vẽ nên sơ đồ tiến công chuẩn xác nhất cho biệt đội! Mọi thiết bị hỗ trợ và vũ khí ngụy trang đều đã được kiểm tra nghiêm ngặt, sẵn sàng cho giờ xuất kích!",
+            "mood": "tram_bi_an"
+          }
+        ]
+      },
+      {
+        "id": "scene02",
+        "badge": "CỬA ẢI 1",
+        "banner_title": "KHÔNG PHẬN TỬ THẦN",
+        "chapter_title": "Cửa Ải 1: Không phận siêu thanh & Chim Cắt Lớn",
+        "hook": "BỔ NHÀO XÉ GIÓ 389 KM/H",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Bầu trời đêm phía trên Pháo Đài Tự Nhiên không hề yên bình như vẻ bề ngoài. Đây là vành đai phòng không khắc nghiệt nhất hành tinh. Hàng ngàn cảm biến gió áp suất cao đang quét liên tục ở tầng đối lưu. Bất kỳ vật thể bay nào lao vào đây với tốc độ cao đều sẽ bị luồng khí nén cực mạnh xé nát phổi ngay lập tức. Đặc vụ Chim Cắt Lớn đang lượn vòng ở độ cao hơn ba ngàn mét. Gió rít gào bên tai, nhưng nhịp tim của anh chàng vẫn ổn định như một cỗ máy đếm giờ. Đôi mắt của chim cắt sở hữu hai hố thị giác riêng biệt trên mỗi võng mạc, cho phép anh chàng vừa phóng to mục tiêu như kính viễn vọng vừa quan sát toàn cảnh ba trăm sáu mươi độ!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Bộ đàm trung tâm rè lên giọng Chỉ Huy Mật Vụ: \"Mật danh Tia Chớp, mục tiêu là chiếc rơ-le nguồn laser đặt ngay trên đỉnh vòm kính. Cậu chỉ có đúng một cơ hội duy nhất.\"",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Nhắc nhở nhẹ nhàng từ bộ phận giám sát: nếu cậu bay thẳng, áp lực gió sẽ thổi bung cả mắt lẫn mũi cậu đấy! Cẩn thận kẻo biến thành món chim nướng siêu thanh!",
+            "cast": "ba_trum"
+          },
+          {
+            "text": "Chim Cắt Lớn chỉ nhếch mép cười khẩy qua bộ đàm. Những kẻ nghiệp dư luôn nghĩ bay nhanh chỉ cần đôi cánh khỏe, nhưng họ đâu biết bí mật nằm ở chính chiếc mũi của anh chàng! Hãy nhìn sâu vào lỗ mũi của Chim Cắt Lớn. Các nhà khoa học tại đại học công nghệ vừa giải mã một kỳ quan kỹ thuật sinh học: một mấu lồi hình nón nhỏ bằng xương nằm ngay chính giữa khoang mũi! Khi lao xuống với tốc độ xé gió, mấu xương này đóng vai trò như chiếc van điều áp của động cơ máy bay phản lực, làm chậm và đổi hướng luồng gió xoáy cực mạnh, giúp anh chàng hít thở nhẹ nhàng như đang ngồi uống trà! Không chỉ có mũi, cấu trúc lông cánh của chim cắt còn có những khe rãnh vi mô tự động nâng lên khi gặp áp lực lớn, triệt tiêu toàn bộ lực cản xoáy không khí!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Tọa độ đã khóa! Chim Cắt Lớn thu gọn hai cánh sát vào thân, biến toàn bộ cơ thể thành một đầu đạn khí động học hoàn hảo! Gia tốc tăng vọt! Một trăm cây số một giờ... Hai trăm cây số một giờ... Ba trăm cây số một giờ! Kim đo tốc độ radar bên dưới phòng chỉ huy quay tít mù! Và đây là con số kỷ lục từng được các nhà khoa học gắn chip đo đạc thực tế trên cơ thể một chú chim cắt: ba trăm tám mươi chín cây số một giờ! Vận tốc nhanh nhất trong toàn bộ thế giới động vật! Tiếng rít xé rách không khí vang lên như một tiếng nổ siêu thanh trầm đục, làm rung chuyển cả những vách kính trên đỉnh tháp pháo đài!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Ở tốc độ ba trăm tám mươi chín cây số một giờ, chỉ một hạt bụi nhỏ bay vào mắt cũng đủ làm nổ tung giác mạc. Nhưng Chim Cắt Lớn vẫn mở to mắt nhìn rõ từng chi tiết của mục tiêu! Bí quyết là chiếc màng nháy trong suốt che phủ mắt, nhấp nháy với tần số chóng mặt: một trăm hai mươi lần một phút! Chiếc màng này vừa bôi trơn liên tục vừa lọc bụi bẩn, cho phép Chim Cắt Lớn duy trì tầm nhìn sắc như kính hiển vi điện tử giữa cơn bão gió! Tuyến lệ của chim cắt liên tục tiết ra một chất dịch nhầy đặc biệt có sức căng bề mặt cực lớn, không hề bị gió cuốn bay dù ở vận tốc xé rách âm thanh!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Khoảng cách còn một trăm mét! Cột laser phòng vệ phát hiện mục tiêu và quét chéo qua! Chim Cắt Lớn khẽ nghiêng một góc bốn mươi lăm độ theo đường xoắn ốc toán học, lượn né tia laser chỉ trong một phần mười giây! Đường bay xoắn ốc này được lập trình tự nhiên theo quy luật đường cong lô-ga-rít, giúp mắt chim luôn hướng thẳng vào mục tiêu trong khi toàn thân nghiêng né đạn! Khoảng cách còn mười mét! Anh chàng duỗi thẳng cặp móng vuốt vàng sắc nhọn, bọc mạ lớp thép bảo hộ, đạp thẳng vào công tắc nguồn điện tử! Xoẹt! Tiếng điện nổ râm ran, toàn bộ mạng lưới laser bảo vệ trên không vụt tắt đen ngòm! Vòm kính pháo đài từ từ hé mở!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Chim Cắt Lớn dang rộng đôi cánh phanh gấp giữa không trung, nhẹ nhàng hạ cánh xuống mép thành đá, giơ một ngón cánh làm dấu hiệu thắng lợi qua camera ngực. Thanh tiến độ Cửa Ải Một trên bản đồ chuyển sang màu xanh ngọc bích! Không phận tử thần đã bị vô hiệu hóa hoàn toàn trong vòng chưa đầy hai phút! Nhưng niềm vui chưa kịp trọn vẹn thì dưới chân tháp, một tiếng còi báo động trầm đục vang lên từ lòng đất. Hệ thống phòng thủ tự động vừa đóng sập toàn bộ cửa thông gió!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Lối vào duy nhất lúc này là hệ thống đường ống xả ngầm sâu dưới lòng đất, nơi không hề có dưỡng khí và ngập tràn sương axit. Chỉ Huy Mật Vụ bấm nút gọi nội bộ: \"Đặc vụ Chuột Chũi Trũi, khoang yếm khí đã sẵn sàng cho cậu. Đừng có mải ngủ gật đấy nhé!\" Từ dưới đáy một đường ống kim loại gỉ sét, một cái mũi màu hồng nhăn nheo khẽ thò ra, hắt xì một cái rõ to. Cuộc đột nhập tầng hầm bắt đầu! Đặc vụ Chuột Chũi xoa hai chân trước, chuẩn bị kích hoạt vũ khí sinh học chống ngạt thở vô song của mình!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Các phi công lái máy bay siêu thanh của quân đội từng thử nghiệm mô phỏng đường bay của chim cắt trên máy tính và đều phải lắc đầu chịu thua! Ở góc bổ nhào bốn mươi lăm độ, gia tốc trọng trường kéo chú chim lao đi nhanh hơn bất kỳ mũi tên bắn tỉa nào từng được phóng ra! Đôi mắt chim cắt với lớp màng nháy siêu việt vẫn liên tục truyền về trung tâm chỉ huy những hình ảnh tĩnh nét đến từng con ốc vít của trạm phát laser! Nhịp đập của đôi cánh chim cắt khi lấy thăng bằng sau cú bổ nhào phát ra tiếng rít xé gió khiến cả đàn chim đêm xung quanh phải nể sợ! Bộ cảm biến gia tốc trên ngực áo truyền về trung tâm chỉ huy xác nhận: cấu trúc xương đòn của chim cắt đã hấp thụ hoàn hảo mọi xung chấn của không khí!",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene03",
+        "badge": "CỬA ẢI 2",
+        "banner_title": "ĐỊA ĐẠO YẾM KHÍ",
+        "chapter_title": "Cửa Ải 2: Hầm ngầm 0% oxy & Chuột Chũi Trũi",
+        "hook": "SỐNG SÓT 18 PHÚT KHÔNG DƯỠNG KHÍ",
+        "mood": "tram_bi_an",
+        "parts": [
+          {
+            "text": "Địa đạo ngầm dưới chân Pháo Đài Tự Nhiên là một cái bẫy chết chóc được thiết kế để tiêu diệt bất kỳ sinh vật hiếu khí nào dám bén mảng tới. Cửa thép phía sau vừa sập xuống, máy hút chân không lập tức khởi động rên rỉ ầm ầm. Nồng độ dưỡng khí trong ống tụt dốc không phanh: hai mươi phần trăm... mười phần trăm... năm phần trăm... rồi chạm đáy số không tròn trĩnh! Không có lấy một phân tử khí thở. Bất kỳ loài thú nào, kể cả con người hay sư tử, chỉ cần hít thở trong môi trường này bốn mươi lăm giây là sẽ bất tỉnh nhân sự, tế bào não chết vĩnh viễn sau ba phút. Khí các-bon-nic và nồng độ axit trong hầm tăng vọt lên mức kịch độc, đủ sức làm bỏng cháy niêm mạc phổi của bất kỳ kẻ xâm nhập nào trong tích tắc!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Nhưng kẻ đang bò trong đường ống này lại là một sinh vật coi việc thiếu dưỡng khí... chỉ là một buổi dạo chơi nhẹ nhàng sau bữa trưa! [laughter] Đặc vụ Chuột Chũi Trũi thong dong bước đi, không hề tỏ ra hoảng loạn hay ngột ngạt. Bí mật sinh học chấn động gì đã giúp anh chàng này thách thức quy luật hô hấp của muôn loài? Cơ thể không lông của anh chàng được bao bọc bởi một lớp da siêu đàn hồi chứa đầy phân tử axit hyaluronic trọng lượng cực cao, giúp da trơn tuột không hề trầy xước khi cọ xát vào mép ống kim loại sắc nhọn!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Năm hai ngàn mười bảy, một nghiên cứu đột phá đăng trên tạp chí Khoa Học danh giá đã vén màn bí mật: khi hết sạch dưỡng khí, cơ thể Chuột Chũi Trũi tự động chuyển sang chế độ hoạt động của... thực vật! Đúng vậy, bạn không nghe nhầm đâu! Bộ não và trái tim của các loài động vật có vú thông thường chỉ có thể đốt đường glucose bằng dưỡng khí để tạo năng lượng. Không có dưỡng khí, cỗ máy ngừng chạy ngay lập tức. Nhưng Chuột Chũi Trũi lại sở hữu những thụ thể vận chuyển đường đặc biệt có tên gọi là phân tử vận chuyển đường hoa quả Gờ-lút năm, giúp chúng kích hoạt việc đốt trực tiếp đường fructose mà không cần đến một phân tử dưỡng khí nào! Đường fructose đi thẳng vào chu trình đường phân ở cơ tim và vỏ não, sản sinh năng lượng duy trì sự sống bền bỉ ngay giữa vùng chân không!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Thử nghiệm khoa học chấn động tại phòng thí nghiệm đã chứng minh: Chuột Chũi Trũi có thể sống sót khỏe mạnh suốt mười tám phút trong môi trường hoàn toàn không phần trăm oxy! Khi có dưỡng khí trở lại, chúng đứng dậy phủi bụi và đi lại bình thường như chưa từng có chuyện gì xảy ra, không hề tổn thương dù chỉ một tế bào thần kinh! Nhịp tim của chuột chũi tự động hạ từ hai trăm nhịp một phút xuống còn năm mươi nhịp một phút để tiết kiệm tối đa năng lượng, đưa cơ thể vào trạng thái ngủ đông cục bộ cực kỳ thông minh!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Nhưng thử thách của Cửa Ải Hai chưa dừng lại ở đó. Hệ thống phòng thủ tự động phát hiện kẻ xâm nhập vẫn còn sống, liền kích hoạt tầng bẫy thứ hai: vòi phun axit! Làn sương axit có độ pH ba cực kỳ ăn mòn và bỏng rát, đủ sức làm phồng rộp làn da của bất kỳ kẻ đột nhập nào trong nháy mắt. Sương axit bắn thẳng vào thân mình không một sợi lông của Chuột Chũi Trũi. Bộ đàm phòng chỉ huy nín thở! Chỉ Huy Mật Vụ siết chặt tay!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Nhưng Chuột Chũi Trũi... chỉ khẽ gãi gãi nách rồi tiếp tục bò! Anh chàng thậm chí còn không thèm chớp mắt! [laughter] Bởi vì tạo hóa đã tặng cho loài vật này một món quà vô giá: chúng hoàn toàn mất tín hiệu dẫn truyền cơn đau của chất hóa học P và thụ thể thần kinh cảm giác! Axit hay ớt cay hay lửa rát chạm vào da chuột chũi trũi cũng chẳng khác gì nước lã gội đầu! Chúng không hề biết đau là cái gì trên cõi đời này! Các nhà thần kinh học tại đại học Cambridge phát hiện ra rằng thụ thể kênh ion TrkA của chuột chũi đã bị đột biến, biến chúng thành loài động vật có vú duy nhất trơ lì trước axit!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Lối đi phía trước đột ngột bị một tảng đá cản đường, và đường ống quá hẹp khiến chuột chũi không thể xoay người quay đầu lại! Không cần quay đầu! Chuột Chũi Trũi cài số lùi, chạy lùi với tốc độ nhanh y hệt như chạy tiến nhờ chiếc đuôi nhạy bén như chiếc ăng-ten cảm biến lùi ô tô! Anh chàng đổi hướng bò sang một nhánh rẽ thông hơi, tiếp cận chiếc van khóa áp lực chính của pháo đài! Cặp răng cửa khổng lồ dài ngoằng thò ra ngoài môi bắt đầu phát huy tác dụng. Chuột chũi có thể cử động hai chiếc răng cửa độc lập như một đôi đũa gắp thức ăn! Rắc! Chiếc chốt khóa bằng đồng thau bị cắn đứt đôi! Chuột chũi không hề nuốt phải một hạt bụi kim loại nào vì môi của anh chàng khép kín phía sau răng!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Đèn báo động đỏ chuyển sang màu xanh lá dịu mát! Hệ thống hút chân không bị vô hiệu hóa! Cửa Ải Hai đã được dọn sạch hoàn toàn! Chuột Chũi Trũi ngoi đầu lên từ một lỗ thông gió ở sàn tầng trệt, giơ hai chân trước phủi mũi, phát ra một tiếng rít vui tai qua bộ đàm. Nhưng ngay khi cửa mở ra, một luồng khí lạnh buốt xương tủy bất ngờ ùa tới từ cánh cửa hành lang tiếp theo, làm đóng băng ngay lập tức những giọt nước đọng trên sàn đá!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Cửa Ải Ba: Kho Lạnh Cực Hạn với nhiệt độ âm hai mươi độ C và hệ thống cảm biến hồng ngoại tầm nhiệt tinh vi nhất thế giới! Mọi cơ thể ấm áp bước vào đây sẽ bị phát hiện trong vòng nửa giây. Chỉ có một sinh vật có thể biến mình thành một tảng băng vô tri vô giác để vượt qua cửa ải này. \"Đặc vụ Ếch Gỗ Bắc Cực, đã đến lúc cho cả pháo đài thấy thế nào là nghệ thuật ngủ đông bất tử!\" Và phía sau lưng, tiếng cãi cọ qua kênh bộ đàm bắt đầu bùng nổ, báo hiệu một sự cố hài hước không thể lường trước!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Kỳ tích chuyển hóa đường fructose của Chuột Chũi Trũi đang mở ra một cuộc cách mạng y học lớn trong việc điều trị các bệnh nhân bị nhồi máu cơ tim và đột quỵ do thiếu oxy! Khi oxy cạn kiệt, các tế bào tim của chuột chũi không hề bị co thắt hay hoại tử, mà vẫn đập êm ả nhờ dòng năng lượng fructose ngọt ngào! Cơ thể không lông của chúng còn chứa một loại gen đặc biệt giúp sửa chữa tế bào thần kinh với tốc độ nhanh gấp năm lần các loài chuột thông thường! Nhờ tốc độ tiêu thụ đường fructose cực kỳ chậm rãi, chuột chũi có thể duy trì hoạt động của các cơ quan nội tạng mà không hề tạo ra độc tố axit lactic gây mỏi cơ! Đặc vụ Chuột Chũi Trũi quệt mồ hôi trên mũi, nở một nụ cười rạng rỡ của một nhà quán quân sinh tồn không biết mệt mỏi!",
+            "mood": "tram_bi_an"
+          }
+        ]
+      },
+      {
+        "id": "scene04",
+        "badge": "HẬU TRƯỜNG 1",
+        "banner_title": "SỰ CỐ BỘ ĐÀM",
+        "chapter_title": "Hậu trường 1: Chuột Chũi đào nhầm kho bánh & Quạ Đen đòi tăng lương",
+        "hook": "TÌNH HUỐNG DỞ KHÓC DỞ CƯỜI",
+        "mood": "bi_hai",
+        "parts": [
+          {
+            "text": "[sigh] Điệp vụ thế kỷ tưởng chừng như đang diễn ra hoàn hảo đến từng tích tắc... thì kênh bộ đàm nội bộ bắt đầu phát ra những âm thanh cực kỳ bất thường. Tiếng nhai chóp chép giòn tan vang lên rành rọt qua chiếc loa điều khiển trung tâm, to đến mức át cả tiếng còi báo động của pháo đài! \"Báo cáo Chỉ Huy! Tôi vừa đột nhập thành công vào phòng chứa tài liệu bí mật! Nhưng ở đây không có tài liệu... chỉ có toàn là khoai tây sấy bơ thơm lừng!\"",
+            "mood": "bi_hai"
+          },
+          {
+            "text": "Khoai tây này ngọt lắm sếp ơi! Có cần tôi vận chuyển về phòng chỉ huy năm bao làm quà lưu niệm cho Biệt Đội Đặc Nhiệm Sinh Học không ạ? Sau phi vụ này tôi định mở một chuỗi nhà hàng khoai nướng yếm khí dưới lòng đất, sếp nhớ đến cắt băng khánh thành nhé!",
+            "cast": "chu_ngo_ngac"
+          },
+          {
+            "text": "Chỉ Huy Mật Vụ hít một hơi thật sâu, giọng lạnh như băng truyền qua mic: \"Đặc vụ Chuột Chũi... cậu vừa đào nhầm vào kho bếp của bảo vệ pháo đài rồi đấy.\" \"Nếu trong vòng ba mươi giây nữa cậu không kéo cái thân nhăn nheo của mình ra khỏi kho khoai tây, tôi sẽ ghi tên cậu vào danh sách cắt khẩu phần ăn ba tháng!\" \"Và đừng bao giờ mơ đến chuyện mở nhà hàng khoai nướng khi đang trong giờ làm việc của Tổng Cục!\"",
+            "mood": "nghiem_trang_gia"
+          },
+          {
+            "text": "Ối sếp ơi! Tôi đi ngay đây! Nhưng cho tôi xin nhét thêm một củ nhỏ vào túi áo khoác nhé!",
+            "cast": "chu_ngo_ngac"
+          },
+          {
+            "text": "Chưa kịp thở phào thì một tiếng rít chói tai khác lại chèn ngang vào tần số liên lạc tối mật. Lần này là giọng nói đanh đá và đậm chất con buôn của Quạ Đen!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "A lô Chỉ Huy nghe rõ không? Kênh mã hóa này tín hiệu tốt đấy! Tiện thể tôi xin gửi báo cáo tài chính cập nhật trước khi bước vào Cửa Ải Ba và Cửa Ải Bốn! Hợp đồng ban đầu chỉ ghi giải mã ba cái ổ khóa cơ học đơn giản. Đằng này toàn là bẫy gương tâm lý với khóa liên hoàn tám bước của các kỹ sư thiên tài! Tôi yêu cầu tăng lương gấp đôi! Cộng thêm điều khoản bảo hiểm gãy mỏ khi tác chiến và một thùng hạt dẻ thượng hạng! Nếu không thì tự đi mà giải mã mê cung nhé! [laughter]",
+            "cast": "cong_to_vien"
+          },
+          {
+            "text": "Toàn bộ phòng chỉ huy rơi vào im lặng sượng sùng. Chỉ Huy Cú Mèo từ từ với tay lấy một tập hồ sơ có dán nhãn đỏ: \"Hồ sơ quậy phá nơi công cộng của Quạ Đen\". \"Đặc vụ Quạ Đen, cậu có muốn tôi nhắc lại vụ án trộm mất sáu mươi chiếc thìa bạc tại dinh thự thị trưởng năm ngoái không?\" \"Bằng chứng vẫn còn nằm nguyên trong két sắt của tôi đấy. Nếu phi vụ này thành công, hồ sơ đó sẽ biến mất trong lò thiêu hủy. Cậu thấy mức lương đó đã đủ hấp dẫn chưa?\"",
+            "mood": "nghiem_trang_gia"
+          },
+          {
+            "text": "Ấy ấy Chỉ Huy bình tĩnh! Đùa tí cho không khí bớt căng thẳng thôi mà! Làm gì mà nóng tính thế! [laughter] Tôi đang chuẩn bị sẵn bộ đồ nghề phá khóa rồi đây!",
+            "cast": "cong_to_vien"
+          },
+          {
+            "text": "Đúng lúc đó, Chim Cắt Lớn cũng chêm vào một câu qua sóng vô tuyến: \"Đề nghị mọi người nói nhỏ giùm! Gió trên đỉnh tháp vừa làm bay mất một sợi lông đuôi quý giá của tôi rồi đây này!\" \"Đồng đội gì mà người thì mê ăn khoai, kẻ thì đòi tăng lương, làm mất hết cả hình tượng điệp viên ngầu lòi của tôi!\" Chim Cắt phụng phịu lắc đầu. Dưới bể nước dã chiến, Cá Voi Sát Thủ phun lên một cột nước cao ba mét qua lỗ thở, phát ra tiếng cười khùng khục qua mic: \"Mấy đứa trên cạn ồn ào quá! Bao giờ mới đến lượt đại ca biển cả ra tay đây?\" Dê Núi và Lạc Đà cũng tranh thủ nhảy vào kênh chat tổng bàn tán về việc loại cỏ sa mạc nào ngọt hơn cỏ trên núi tuyết!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Chỉ Huy Mật Vụ gõ ngón tay xuống bàn ba tiếng cộc cộc cộc để lập lại trật tự: \"Đủ rồi! Tất cả chuyển sang kênh tác chiến im lặng!\" Sự hài hước chấm dứt ngay khi cánh cửa ngăn cách Cửa Ải Ba từ từ nâng lên. Hơi lạnh âm hai mươi độ C tràn ra ngoài làm ngưng đọng toàn bộ hơi nước thành những bông hoa tuyết rơi lả tả. Đây không phải là chỗ để đùa giỡn nữa. Bất kỳ một bước chân sai lầm nào cũng sẽ biến cơ thể thành một bức tượng đá vĩnh cửu. Đặc vụ Ếch Gỗ Bắc Cực đã bước vào phòng lạnh. Chiếc khăn quàng đỏ tung bay trong gió tuyết, ánh mắt anh chàng kiên định nhìn thẳng vào tâm điểm bẫy nhiệt độ. Sinh mệnh của cả biệt đội đang nằm trong bàn tay của chú ếch nhỏ bé này!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "[sigh] \"Báo cáo Chỉ Huy, tôi vừa phát hiện thêm một bao hạt dẻ rang muối ở góc bếp! Tôi có thể mang theo để phòng khi đói bụng không ạ?\" Quạ Đen lập tức nhảy vào can thiệp: \"Chia đôi! Nếu không tôi sẽ báo cáo lên Tổng Cục về tội danh ăn vụng quân lương của cậu!\" [laughter] Dê Núi Bắc Mỹ thở dài qua mic: \"Mấy người suốt ngày chỉ nghĩ đến ăn uống! Nhìn tôi đây này, chỉ cần gặm một mẩu rêu đá là đủ leo vách chín mươi độ cả ngày rồi!\" Chỉ Huy Cú Mèo lắc đầu ngao ngán: \"Giá như tinh thần đòi tăng lương của Quạ Đen được chuyển hóa thành tốc độ giải mã thì chúng ta đã xong nhiệm vụ từ lâu rồi!\" [laughter] Toàn đội cười òa lên qua kênh bộ đàm, xua tan đi bầu không khí ngột ngạt của những căn hầm ngầm pháo đài!",
+            "mood": "bi_hai"
+          }
+        ]
+      },
+      {
+        "id": "scene05",
+        "badge": "CỬA ẢI 3",
+        "banner_title": "KHO LẠNH CỰC HẠN",
+        "chapter_title": "Cửa Ải 3: Kho đông lạnh -20°C & Ếch Gỗ Bắc Cực",
+        "hook": "ĐÓNG BĂNG 65% CƠ THỂ HỒI SINH",
+        "mood": "tram_bi_an",
+        "parts": [
+          {
+            "text": "Căn hầm Kho Lạnh Cực Hạn là nơi giam giữ những bí mật được bảo quản nghiêm ngặt nhất của Pháo Đài Tự Nhiên. Nhiệt độ bên trong duy trì ổn định ở mức âm hai mươi độ C. Mọi thiết bị điện tử thông thường mang vào đây đều sẽ bị cạn pin trong vòng năm phút, các khớp kim loại co rút lại và kẹt cứng. Và điều nguy hiểm nhất là mạng lưới máy quét quang phổ hồng ngoại tầm nhiệt giăng kín mọi ngóc ngách. Chỉ cần phát hiện một điểm nhiệt trên không độ, súng đông lạnh tự động sẽ bắn nát mục tiêu! Hệ thống cảm biến nhạy đến mức có thể phát hiện thân nhiệt của một chú ruồi nhỏ bay qua ở khoảng cách hai mươi mét!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Đặc vụ Ếch Gỗ Bắc Cực bước từng bước chậm rãi trên mặt băng trơn trượt. Làn da nâu vàng điểm vệt đen ngang mắt của anh chàng trông như một hiệp sĩ đeo mặt nạ kiên cường. Bộ đàm phòng chỉ huy vang lên giọng Chỉ Huy Cú Mèo: \"Đặc vụ Ếch Gỗ, khoảng cách tới bàn điều khiển là ba mươi mét. Cậu chỉ có thể vượt qua nếu cơ thể hoàn toàn nguội lạnh như một tảng đá.\" Ếch Gỗ gật đầu nhẹ nhàng. Anh chàng ngồi xổm xuống giữa sàn băng, thu hai chân sau sát vào bụng, nhắm nghiền hai mắt lại và bắt đầu kích hoạt cơ chế sinh học kỳ diệu nhất của mình!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Hãy quan sát kỳ quan sinh học đang diễn ra bên trong từng tế bào của chú ếch nhỏ bé này. Các nhà khoa học nghiên cứu sinh học vùng cực đã phải kinh ngạc thốt lên: đây là thuật giả kim đỉnh cao của tự nhiên! Ngay khi tinh thể băng đầu tiên chạm vào da, gan của ếch gỗ lập tức hoạt động hết công suất, bơm một lượng khổng lồ đường glucose và chất urea vào toàn bộ hệ tuần hoàn! Nồng độ đường bên trong tế bào tăng vọt gấp năm mươi đến một trăm lần so với bình thường, biến dịch nội bào thành một loại si-rô đậm đặc không thể bị đông cứng! Chất urea đóng vai trò như chiếc phao cứu sinh thứ hai, giữ nước bên trong tế bào không bị hút cạn ra ngoài khi các tinh thể đá hình thành xung quanh!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Trong khi đó, ở khoảng không gian bên ngoài tế bào, điều kỳ diệu xảy ra: sáu mươi lăm phần trăm toàn bộ lượng nước trong cơ thể ếch gỗ bắt đầu đông cứng thành băng! Toàn bộ cơ thể Ếch Gỗ Bắc Cực cứng đờ lại như một viên sỏi đá. Đôi mắt đục ngầu như ngọc bích, các chi bất động, làn da phủ kín một lớp băng tuyết dày! Trái tim của anh chàng từ từ chậm lại: sáu mươi nhịp một phút... ba mươi nhịp một phút... mười nhịp một phút... rồi dừng hẳn lại! Phổi ngừng thở! Dòng máu ngừng chảy! Não bộ ngừng phát sóng điện từ! Ở góc độ y học thông thường, chú ếch này đã chết lâm sàng hoàn toàn!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Nhưng chính trạng thái chết giả thần kỳ này đã cứu sống anh chàng! Nhiệt độ cơ thể của Ếch Gỗ lúc này tụt xuống đúng âm hai mươi độ C, bằng chằn chặn với nhiệt độ của căn phòng băng! Hệ thống máy quét tầm nhiệt coi khối băng hình chú ếch chỉ là một tảng nhũ đá rơi xuống từ trần nhà, và thản nhiên bỏ qua không kích hoạt súng laser! Một cơn gió lốc của hệ thống điều hòa thổi mạnh qua sàn nhà, làm khối băng chứa Ếch Gỗ trượt ro ro trên mặt sàn băng nhẵn thín, lăn thẳng về phía chân bàn điều khiển nhiệt độ!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Đã tiếp cận mục tiêu! Bây giờ là giai đoạn hai: nghệ thuật hồi sinh sau giấc ngủ đông dài bảy tháng ở vùng cực bắc! Khi nhiệt độ môi trường nhích nhẹ lên trên mức đóng băng, các phân tử đường glucose bắt đầu hấp thụ nhiệt lượng. Lớp băng ngoại bào tan chảy dần dần! Kỳ tích xuất hiện: quả tim tí hon của Ếch Gỗ tự động phát ra một xung điện sinh học bí ẩn và bắt đầu co bóp trở lại! Thình thịch... thình thịch... thình thịch! Dòng máu ấm rã đông các tế bào thần kinh, đánh thức não bộ chỉ trong vòng vài phút ngắn ngủi! Các nhà khoa học ghi nhận: chỉ trong vòng chưa đầy một giờ đồng hồ sau khi tan băng, ếch gỗ có thể hồi phục toàn bộ chức năng sống và nhảy nhót như chưa từng bị đông cứng! Bẹp! Bàn chân có màng của Ếch Gỗ đạp trúng nút xả đông khẩn cấp màu đỏ!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Hơi nóng bắt đầu ùa ra từ các họng thông gió, các cột băng khổng lồ tan chảy ầm ầm thành những dòng suối nhỏ chảy dọc sàn đá! Cửa Ải Ba chính thức bị bẻ khóa! Biểu tượng hoa tuyết trên bảng điều khiển {BOARD} vụt sáng chuyển sang màu xanh ngọc bích! Ếch Gỗ Bắc Cực đứng trên bàn điều khiển, khẽ hất chiếc khăn quàng len đỏ ra sau vai, nở một nụ cười đắc thắng về phía ống kính camera.",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Nhưng tiếng vỗ tay vừa dứt thì cánh cửa tiếp theo mở toang ra một căn phòng kỳ dị chưa từng thấy: Mê Cung Bẫy Giải Mã của Cửa Ải Bốn! Đây không phải là bài toán về cơ bắp hay tốc độ. Đây là cuộc đấu trí cân não với các bẫy cơ học liên hoàn và mê cung gương quang học! Đã đến lúc cho các kỹ sư của pháo đài biết thế nào là chỉ số thông minh của loài quạ!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Nghiên cứu của giáo sư Storey tại đại học Carleton đã chứng minh: ếch gỗ Bắc Cực là bậc thầy số một thế giới về công nghệ bảo quản lạnh sinh học! Khi dịch cơ thể đông cứng, các tế bào của ếch gỗ mất đi bốn mươi phần trăm thể tích nước nhưng không hề bị vỡ màng tế bào nhờ lớp đệm phân tử glucose siêu đậm đặc! Chất urea tái hấp thu từ nước tiểu được giữ lại trong cơ bắp, đóng vai trò như chiếc phanh hãm tốc độ đóng băng, ngăn các tinh thể đá phát triển quá nhanh! Sau khi rã đông hoàn toàn, các tế bào của ếch gỗ lập tức kích hoạt chu trình thanh lọc lượng đường dư thừa, đưa nồng độ đường trong máu trở lại mức bình thường! Khả năng điều hòa trao đổi chất linh hoạt này khiến các nhà khoa học vũ trụ phải trầm trồ nghiên cứu để ứng dụng cho các chuyến bay liên hành tinh!",
+            "mood": "tram_bi_an"
+          }
+        ]
+      },
+      {
+        "id": "scene06",
+        "badge": "CỬA ẢI 4",
+        "banner_title": "MÊ CUNG BẪY GIẢI MÃ",
+        "chapter_title": "Cửa Ải 4: Câu đố 8 bước, bẫy nước & Quạ Đen",
+        "hook": "BẬC THẦY CHẾ TẠO CÔNG CỤ",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Cửa Ải Bốn không dùng áp suất gió, không dùng khí độc, cũng chẳng cần đến nhiệt độ băng giá. Đây là một mê cung cơ học được thiết kế để giam cầm những bộ não thông minh nhất! Ở trung tâm căn phòng là chiếc hộp điều khiển chính khóa chặt cánh cổng bước vào nửa sau pháo đài. Muốn mở được nó, kẻ đột nhập phải giải một chuỗi câu đố liên hoàn tám bước cực kỳ hóc búa! Các kỹ sư an ninh của pháo đài từng tự hào tuyên bố: nếu không có sách hướng dẫn sử dụng, một người trưởng thành cũng phải mất ít nhất hai ngày mới mò ra được quy luật! Bất kỳ một sai sót nào trong trình tự các bước cũng sẽ kích hoạt cơ chế khóa vĩnh viễn, chôn vùi chiếc chìa khóa xuống đáy hầm sâu!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Nhưng họ đã quên mất một điều: loài người không phải là sinh vật duy nhất biết tư duy logic trên hành tinh này! [laughter] Đặc vụ Quạ Đen chỉ mất đúng ba mươi giây để quan sát. Não bộ của loài quạ sở hữu mật độ tế bào thần kinh dày đặc ngang ngửa với các loài linh trưởng cấp cao, cho phép chúng hiểu rõ quy luật nhân quả trong chớp mắt! Nghiên cứu khoa học kinh điển của các nhà động vật học tại đại học Oxford và Cambridge đã chứng minh: quạ có thể tự mình giải câu đố cơ học tám bước liên hoàn ngay trong lần thử đầu tiên mà không cần bất kỳ sự huấn luyện nào! Chúng hiểu rõ khái niệm về công cụ gián tiếp: dùng công cụ A để lấy công cụ B, rồi dùng công cụ B để lấy mục tiêu C một cách hoàn toàn tự nhiên!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Bước một: Quạ Đen nhặt một que gỗ ngắn trên sàn, thò mỏ khều chiếc que sắt dài hơn bị giấu sâu trong khe đá hẹp! Bước hai: chiếc que thép dài quá thẳng không móc được chốt? Không thành vấn đề! Quạ Đen kẹp đầu que vào kẽ nứt sàn đá, dùng mỏ uốn cong nó thành một chiếc lưỡi câu hoàn hảo! Bước ba: anh chàng dùng chiếc móc câu vừa chế tạo câu một túi sỏi đá nặng trĩu đặt trên giá cao xuống sàn! Bước bốn: tháo túi lấy sỏi, bay vút tới bên cạnh chiếc ống thủy tinh hẹp chứa chiếc chìa khóa nổi trên mặt nước!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Đây là bài kiểm tra trí tuệ ngụ ngôn Ê-dốp trứ danh trong giới khoa học sinh học! Quạ Đen có hiểu được quy luật dâng mực nước theo định luật thể tích hay không? Nếu thả xốp vào, xốp sẽ nổi lềnh bềnh và không làm dâng nước. Chỉ có sỏi đá đặc mới chiếm chỗ chất lỏng và đẩy chiếc chìa khóa lên miệng ống! Quạ Đen thậm chí còn không thèm liếc nhìn đĩa xốp nhựa! Anh chàng chỉ chọn đúng những viên sỏi đá đặc màu xám nặng nhất! Khả năng ước lượng thể tích chất lỏng của quạ chuẩn xác đến mức kinh ngạc, anh chàng dừng thả sỏi ngay khi chiếc chìa khóa vừa chạm miệng ống!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Mực nước dâng lên! Chiếc chìa khóa đồng từ từ nổi lên sát miệng ống! Quạ Đen chỉ việc thò mỏ cắp lấy chìa khóa một cách ngon ơ! Bước năm: cắm chìa khóa vào ổ khóa số một, mở ngăn kéo chứa quả tạ sắt! Bước sáu và bước bảy: đẩy quả tạ sắt lăn qua máng trượt nghiêng, đè sập chiếc bẫy kẹp và nhả chốt hãm của ròng rọc trung tâm! Và bước tám cuối cùng: Quạ Đen bay lên ấn mạnh cần gạt tổng lực! Răng rắc... ầm! Cánh cổng sắt nặng hai tấn từ từ cuốn lên trần nhà!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Nhưng ngay khi cổng vừa mở, hệ thống camera nhận diện khuôn mặt của mê cung gương bắt đầu nhấp nháy đèn đỏ, cố gắng quét chân dung kẻ đột nhập để phát lệnh truy nã toàn cầu! Loài quạ có khả năng nhận diện và ghi nhớ khuôn mặt con người suốt hơn năm năm trời, và chúng cũng thừa biết camera hoạt động theo nguyên lý nào! Quạ Đen thò mỏ kẹp lấy một tấm gương nhỏ trên sàn, xoay ngược góc phản chiếu ánh sáng đèn pha chiếu thẳng vào ống kính camera giám sát! Chưa hết, anh chàng còn dùng mỏ cạy tung tấm ốp bảo vệ phía sau, làm ngắn mạch dây nguồn điều khiển khiến toàn bộ hệ thống camera nổ lách tách! Xèo xèo! Cảm biến camera bị lóa sáng chập mạch bốc khói đen! Toàn bộ hệ thống mê cung gương sụp đổ tín hiệu hoàn toàn!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Biểu tượng câu đố cơ học trên {BOARD} chuyển sang màu xanh ngọc bích rực rỡ! Bốn trên bảy cửa ải đã bị biệt đội đặc nhiệm chinh phục thành công! Quạ Đen bay sà xuống vai tượng đá, mỏ huýt sáo một điệu nhạc điệp viên vui nhộn, không quên vẫy cánh chào khán giả theo dõi qua màn hình. Nhưng từ sâu bên trong đường dẫn tới Cửa Ải Năm, tiếng nước chảy xiết ầm ầm như thác đổ bắt đầu vọng lại, làm rung chuyển cả sàn đá hoa cương. Hào nước ngầm áp lực cao của pháo đài đã mở van xả lũ! Lần này, chỉ có một bá chủ thực sự của đại dương mới có thể đối đầu với cơn thịnh nộ của thủy triều! Đại ca biển cả chuẩn bị xuất chiêu với những đợt sóng thần áp lực kinh hoàng!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Trí tuệ của loài quạ đã vượt xa những gì con người từng tưởng tượng về thế giới loài chim! Chúng có thể nhớ mặt từng kẻ thù và truyền lại mối đe dọa này cho các thế hệ con cháu suốt nhiều năm trời! Khi đối đầu với mê cung gương, quạ đen hoàn toàn hiểu rằng hình ảnh trong gương chỉ là sự phản chiếu quang học chứ không phải là một con quạ đối thủ! Khả năng tư duy trừu tượng này cho phép chúng giải quyết các bài toán hóc búa một cách bình tĩnh, không hề mắc bẫy tâm lý của các kỹ sư pháo đài! Mỗi một bước đi trong mê cung giải đố của Quạ Đen đều được tính toán chuẩn xác như một đại kiện tướng cờ vua quốc tế! Anh chàng không chỉ mở được cổng mà còn thu gom luôn một mẩu dây đồng sáng loáng nhét vào túi áo làm kỷ niệm cho bộ sưu tập cá nhân! [laughter]",
+            "mood": "don_dap"
+          }
+        ]
+      },
+      {
+        "id": "scene07",
+        "badge": "HẬU TRƯỜNG 2",
+        "banner_title": "NHIỄU SÓNG VÀ CẮM GAI",
+        "chapter_title": "Hậu trường 2: Lạc Đà nhai xương rồng & Bách Thanh cắm gai nhầm chìa khóa",
+        "hook": "TAI NẠN KỸ THUẬT CƯỜI RA NƯỚC MẮT",
+        "mood": "bi_hai",
+        "parts": [
+          {
+            "text": "[sigh] Nếu bạn nghĩ một biệt đội đặc nhiệm gồm mười loài động vật hoang dã có thể phối hợp ăn ý như quân đội hoàng gia... thì bạn đã đánh giá quá cao tính kỷ luật của giới tự nhiên rồi! [laughter] Ngay giữa thời khắc căng thẳng chuẩn bị bước vào trận chiến đường thủy của Cửa Ải Năm, một chuỗi âm thanh rùng rợn bỗng nhiên nổ ra trên kênh liên lạc tần số cao. Rộp! Rộp! Xoàn xoạt! Rộp! Tiếng động kinh hoàng đến mức Chim Cắt Lớn giật thót mình suýt ngã khỏi thành đá, còn Quạ Đen thì vội vàng ôm đầu tưởng pháo đài sập! \"Báo động đỏ! Kẻ địch đang dùng súng máy nghiền nát công sự của chúng ta! Yêu cầu hỗ trợ khẩn cấp!\"",
+            "mood": "bi_hai"
+          },
+          {
+            "text": "Chỉ Huy Mật Vụ vội vàng điều chỉnh tần số thu âm, phóng to nguồn phát tín hiệu trên radar định vị vệ tinh. Và hình ảnh hiện lên trên màn hình chính khiến tất cả ngã ngửa! Chiếc micro dã chiến gắn trên cổ áo của Lạc Đà Sa Mạc đang thu trọn từng tiếng nhai giòn rụm của những chiếc gai xương rồng dài năm phân bị nghiền nát thành bã! Bên trong vòm miệng và má của lạc đà có hàng trăm mấu thịt hình nón bằng chất sừng cứng ngắc, hướng thẳng vào phía cuống họng giúp bẻ gãy mọi mũi gai nhọn mà không làm xước niêm mạc miệng! \"Đặc vụ Lạc Đà! Cậu có biết chiếc micro đó có giá bằng cả năm tiền trợ cấp đi lại của cậu không hả? Tắt mic ngay trước khi tôi biến cậu thành chiếc thảm trải sàn!\"",
+            "mood": "nghiem_trang_gia"
+          },
+          {
+            "text": "Dạ... cháu xin lỗi Chỉ Huy! Tại nhai xương rồng đỡ khát nước quá nên cháu quên mất là mic vẫn đang bật ạ! Cháu xin hứa nhai khẽ lại ạ! [laughter] Xương rồng này ngọt lắm sếp ơi, có nhiều nước chuyển hóa giúp tế bào máu oval của cháu căng tràn sức sống luôn ạ!",
+            "cast": "chu_ngo_ngac"
+          },
+          {
+            "text": "Cơn giận của Chỉ Huy còn chưa kịp hạ nhiệt thì tai họa thứ hai ập đến từ vị trí cảnh giới trên cây cổ thụ ngoài sân pháo đài. Lần này là từ Đặc vụ Chim Bách Thanh! Bách Thanh có một bản năng nghề nghiệp ăn sâu vào máu: hễ nhìn thấy bất kỳ vật thể nào có giá trị hoặc con mồi nào, anh chàng đều phải mang đi cắm chặt lên một chiếc gai nhọn để cất giữ làm kho lương thực dự trữ! Và bi kịch là chiếc thẻ từ màu đỏ đó chính là chiếc chìa khóa dự phòng duy nhất của Tổng Cục Trưởng Mật Vụ để kích hoạt cửa thoát hiểm khẩn cấp!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Báo cáo Chỉ Huy: tôi vừa phát hiện một vật thể hình chữ nhật có nguy cơ rơi vào tay kẻ địch! Tôi đã thực hiện biện pháp nghiệp vụ tiêu chuẩn: xiên nó lên chiếc gai cao mười mét để bảo quản an toàn suốt ba ngày tới! Đây là kỹ thuật lưu trữ an toàn cấp độ năm sao của dòng họ nhà tôi, bảo đảm chim ưng hay cáo hoang cũng không thể nào lấy trộm được!",
+            "cast": "tham_phan"
+          },
+          {
+            "text": "[sigh] \"Bách Thanh ơi là Bách Thanh! Đó là chiếc thẻ từ mở cửa thoát hiểm của cả đội đấy! Cậu xiên thủng nó thế kia thì lát nữa chúng ta thoát bằng niềm tin à?\" Chưa hết, thảm kịch hậu trường thứ ba lại xuất hiện ngay dưới chân bàn làm việc của phòng tác chiến ngầm. Lực lượng Kiến Cắt Lá vừa hoàn thành một chiến dịch bất ngờ! Chim Cắt Lớn vừa bay về nghỉ chân, cúi xuống nhìn chiếc áo khoác điệp viên sang trọng của mình thì phát hiện: toàn bộ phần vạt áo và chiếc cà vạt lụa đắt tiền đã bị xẻo nham nhở không còn một manh giáp!",
+            "mood": "bi_hai"
+          },
+          {
+            "text": "Báo cáo: đơn vị công binh chúng em phát hiện loại vải này có hàm lượng xen-lu-lô-zơ siêu cao, rất thích hợp để mang về hầm làm phân bón trồng vườn nấm cộng sinh ạ! Cảm ơn bác chim cắt đã tài trợ! Vườn nấm Leucocoprinus của chúng em được bón lụa thượng hạng này sẽ cho ra những mẻ nấm ngon nhất lịch sử năm mươi triệu năm nông nghiệp kiến!",
+            "cast": "be_con"
+          },
+          {
+            "text": "Chim Cắt tức đến nỗi lông đầu dựng đứng, xòe cánh đòi lao vào mổ kiến, trong khi bầy kiến tí hon thì giơ hàm răng kim loại lên thách thức! \"Trật tự ngay! Tất cả lập tức về vị trí chiến đấu trước khi tôi trừ toàn bộ lương thưởng của cả mười đứa!\" Tiếng quát uy lực của Chỉ Huy Mật Vụ vang dội làm rung chuyển cả căn hầm.",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Toàn đội lập tức nín thở, đứng nghiêm như những bức tượng. Trò đùa chấm dứt khi màn hình theo dõi hào nước ngầm chuyển sang màu đỏ báo động lũ quét! Cửa Ải Năm: Hào Nước Áp Lực Cao đang đón chờ. Bể nước dã chiến từ từ hạ xuống mép đập nước ngầm. Cá Voi Sát Thủ lặn sâu xuống làn nước lạnh, vây lưng nhô cao rẽ sóng, chiếc ăng-ten phát sóng sonar bắt đầu phát ra những tiếng nhấp chuột đanh gọn xuyên qua lòng đá. Trận hải chiến dưới lòng đất chính thức khai hỏa! Đại ca biển cả chuẩn bị thể hiện sức mạnh của sóng âm sonar và cú quất đuôi sóng thần kinh hoàng!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "[sigh] \"Chỉ Huy ơi, nhai xương rồng này đã lắm, hay là Tổng Cục nhập khẩu cho cháu một tấn về để ở căng-tin dã chiến đi ạ!\" Chim Bách Thanh thì nghiêm túc giải thích: \"Xiên đồ lên gai là biện pháp bảo mật sinh học tối tân nhất! Không một tên trộm nào dám leo lên bụi gai bồ kết cao mười mét để lấy trộm thẻ từ đâu ạ!\" [laughter] Đại Đội Kiến Cắt Lá cũng gửi báo cáo phụ: \"Mảnh vải áo lụa của bác chim cắt đã được đưa vào khoang ủ nấm số một, dự kiến sẽ thu hoạch được mẻ nấm siêu to khổng lồ vào sáng mai ạ!\" Lạc Đà Sa Mạc hứa chắc nịch: \"Lần sau cháu sẽ nhai cỏ khô êm dịu như nhung, bảo đảm không làm rè sóng bộ đàm của cả đội nữa đâu ạ!\" Chỉ Huy Cú Mèo chỉ biết thở dài bật cười: \"Thôi được rồi, nhớ giữ lời hứa đấy, anh chàng xe tăng sa mạc của tôi!\"",
+            "mood": "bi_hai"
+          }
+        ]
+      },
+      {
+        "id": "scene08",
+        "badge": "CỬA ẢI 5",
+        "banner_title": "HÀO NƯỚC ÁP LỰC CAO",
+        "chapter_title": "Cửa Ải 5: Chiến hào thủy quân & Cá Voi Sát Thủ",
+        "hook": "XUNG SONAR 225 DB VÀ SÓNG THẦN MINI",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Hào nước ngầm của Pháo Đài Tự Nhiên là một mê cung thủy lực tối tăm và hung hãn. Dòng nước đen kịt cuộn xoáy với vận tốc kinh hoàng, tạo nên những dòng xoáy ngầm có thể xé toạc bất kỳ tàu ngầm quân sự nào! Độ sâu hơn bốn mươi mét dưới mặt đất, ánh sáng mặt trời không bao giờ rọi tới được đây. Tầm nhìn quang học bằng không tròn trĩnh. Các camera thủy văn chỉ thu về một màu đen đặc quánh như mực! Nhưng trong bóng tối vĩnh cửu ấy, một bóng đen khổng lồ nặng sáu tấn mang hai màu đen trắng tương phản đang lướt đi nhẹ nhàng như một chiếc bóng ma đại dương! Cơ thể thủy động lực học hình thoi giúp cá voi sát thủ giảm thiểu tối đa lực ma sát nhớt của nước, lướt đi êm ái như một quả ngư lôi tàng hình!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Cản đường phía trước là một cánh cửa van ngăn lũ bằng thép tôi dày nửa mét, khóa chặt bởi ba chiếc chốt thủy lực áp suất cao. Không có chìa khóa, cũng không có chỗ để gài thuốc nổ. \"Đặc vụ Cá Voi Sát Thủ, chúng ta không nhìn thấy điểm yếu của cánh cửa đập. Cậu phải tự tìm đường phá chốt trong bóng tối!\" Giọng Chỉ Huy vang lên qua bộ đàm chống nước. Cá Voi Sát Thủ không cần mắt để nhìn. Anh chàng sở hữu cỗ máy radar âm thanh sinh học tối tân nhất từng được tạo hóa tạo ra! Khối mỡ dưa hấu đặc biệt trên trán cá voi hoạt động như một thấu kính quang học âm thanh, hội tụ các sóng siêu âm phân tán thành một chùm tia hẹp có độ phân giải siêu nét!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Tách! Tách! Tách! Những chùm xung âm thanh định vị cực ngắn bắt đầu được bắn ra liên hồi từ khối dầu trán của cá voi sát thủ! Cường độ âm thanh tăng vọt lên mức cực đại: hai trăm hai mươi lăm đê-xi-ben! Đây là mức áp suất âm thanh dưới nước khủng khiếp nhất trong thế giới sinh vật! Các chùm sóng âm thanh hai trăm hai mươi lăm đê-xi-ben chạm vào cánh cửa đập bằng thép, dội ngược trở lại hàm dưới của cá voi và truyền thẳng vào tai trong với độ phân giải siêu nét! Phát hiện mục tiêu! Điểm yếu nằm ở chiếc then cài thủy lực số hai bên dưới góc phải, nơi các bu-lông kim loại đã bị nước xói mòn tạo ra một kẽ hở đúng năm mi-li-mét! Âm thanh dội về chi tiết đến mức cá voi có thể phân biệt được độ dày của lớp rỉ sét và hướng ứng suất của từng chiếc đinh tán kim loại!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Cá Voi Sát Thủ lùi lại năm mươi mét để lấy đà. Không cần súng phóng lựu, vũ khí của đại ca đại dương chính là kỹ thuật tạo sóng thần đồng bộ trứ danh từng khiến các nhà khoa học biển kinh ngạc! Các nghiên cứu tại vùng biển Nam Cực ghi nhận: loài cá voi sát thủ có thể phối hợp bơi nước rút và quất mạnh chiếc vây đuôi để tạo nên những bức tường sóng thần cao hơn một mét rưỡi, thổi bay mục tiêu trên các tảng băng trôi! Và hôm nay, trong không gian khép kín của hào ngầm, uy lực của con sóng này sẽ bị nén lại thành một cú đấm thủy lực có sức tàn phá gấp mười lần!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Tăng tốc! Cá Voi Sát Thủ phóng vút đi với vận tốc nước rút kinh hoàng: năm mươi sáu cây số một giờ! Thân hình sáu tấn lao đi như một quả ngư lôi sống! Cách cánh cửa đập đúng năm mét, anh chàng bất ngờ thực hiện một cú quay ngoắt một trăm tám mươi độ điệu nghệ, quất toàn bộ sức mạnh của cơ đuôi khổng lồ xuống mặt nước! Ầm! Một bức tường sóng thủy lực cao vút bị ép chặt trong khe đá, lao thẳng vào chiếc then cài bị nứt với áp suất hàng trăm tấn trên một mét vuông! Răng rắc... rầm! Chiếc then cài thủy lực bị uốn cong rồi gãy vụn! Cánh cửa van thép khổng lồ bị sức nước xô ngã ngửa ra sau, mở toang một lỗ hổng đường kính ba mét! Áp suất nước giải phóng tạo nên một cơn lốc xoáy nước xoáy tròn cuốn phăng toàn bộ rác rưởi và chướng ngại vật dưới lòng hào ngầm!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Mực nước trong hào ngầm tụt dốc không phanh! Lòng hào trơ ra những phiến đá cuội trơn nhẵn, mở ra một lối đi bộ khô ráo cho toàn bộ biệt đội đặc nhiệm! Cá Voi Sát Thủ nhô nửa thân mình lên mặt nước ở đoạn kênh thông thoáng, phun một cột nước trắng xóa lên trần hang, cất tiếng kêu éc éc đắc thắng qua micro! Biểu tượng sóng nước của Cửa Ải Năm trên {BOARD} nhấp nháy rồi chuyển sang màu xanh ngọc bích rực rỡ! Năm trên bảy cửa ải đã bị biệt đội hạ gục gọn gàng!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Nhưng thử thách phía trước mới thực sự là bài kiểm tra độ cứng của hộp sọ và tinh thần đồng đội: Boong-ke Bê Tông Cốt Thép của Cửa Ải Sáu! Đạn pháo thông thường bắn vào đây chỉ để lại một vết xước nhỏ. Muốn phá vỡ bức tường này, chúng ta cần sự kết hợp giữa một chiếc búa khoan sinh học có lực gia tốc hàng ngàn G và một đại đội công binh tí hon có hàm răng thép! Cặp đôi búa khoan và máy đào đất chuẩn bị thực hiện màn công phá ngoạn mục chưa từng có!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Sóng âm sonar của cá voi sát thủ mạnh đến mức có thể làm choáng váng các loài cá nhỏ xung quanh chỉ bằng một tiếng nhấp chuột âm thanh đanh thép! Hệ thống não bộ khổng lồ nặng tới năm ki-lô-gam của cá voi sát thủ có thể phân tích hàng triệu tín hiệu âm thanh dội về trong một phần nghìn giây, tái hiện lại cấu trúc không gian ba chiều hoàn hảo! Cú quất đuôi sóng thần của đại ca biển cả đã chứng minh sức mạnh cơ học vô song của loài động vật có vú thống trị toàn bộ chuỗi thức ăn đại dương! Sức mạnh của bầy cá voi sát thủ không chỉ nằm ở cơ bắp mà còn nằm ở sự truyền thừa tri thức săn mồi qua hàng trăm thế hệ gia tộc mẫu hệ! Cánh cửa van đập nước ngầm bị đánh sập là minh chứng hùng hồn cho thấy không một công trình nhân tạo nào có thể ngăn cản được sức mạnh của đại dương bao la!",
+            "mood": "don_dap"
+          }
+        ]
+      },
+      {
+        "id": "scene09",
+        "badge": "CỬA ẢI 6",
+        "banner_title": "BOONG-KE BÊ TÔNG XUNG CHẤN",
+        "chapter_title": "Cửa Ải 6: Boong-ke đá granite, Chim Gõ Kiến & Kiến Cắt Lá",
+        "hook": "TRIỆT TIÊU 1200G VÀ CÔNG BINH RĂNG THÉP",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Bức tường Boong-ke của Cửa Ải Sáu là chướng ngại vật vật lý kiên cố nhất trong toàn bộ Pháo Đài Tự Nhiên. Các khối đá granite đen dày hai mét được ghép khít khao đến mức một lưỡi dao cạo cũng không thể lách qua! Độ cứng của đá granite nằm ở thang điểm bảy trên thang độ cứng khoáng vật, chỉ đứng sau ngọc bích và kim cương. Mọi nỗ lực dùng búa tạ của con người đập vào đây sẽ chỉ làm mẻ búa và gãy tay kẻ đập! Nhưng đêm nay, pháo đài phải đối đầu với một cỗ máy khoan sinh học sở hữu chiếc đầu có khả năng triệt tiêu xung chấn thần kỳ nhất vũ trụ: Đặc vụ Chim Gõ Kiến! Cơ bắp cổ của chim gõ kiến được cấu tạo từ các bó cơ xoắn siêu dày, có thể phát ra lực đẩy tương đương với một chiếc búa tạ mini bổ xuống bề mặt mục tiêu!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Hãy tưởng tượng lực va chạm khủng khiếp mà đầu chim gõ kiến phải chịu đựng trong mỗi cú mổ. Các nhà cơ sinh học tại đại học Bắc Kinh đã gắn các cảm biến siêu vi để đo đạc và thu về những con số rùng mình! Khi gõ vào thân cây gỗ hay đá cứng, đầu của chim gõ kiến phải chịu một lực gia tốc va đập lên tới một ngàn hai trăm G! Và anh chàng không chỉ gõ một lần rồi nghỉ. Tần số mổ của chim gõ kiến đạt tới hai mươi lần một giây, với vận tốc đầu mỏ lao tới sáu mét một giây! Với lực đập một ngàn hai trăm G lặp lại hai mươi lần một giây, bất kỳ bộ não sinh vật nào cũng sẽ bị dập nát thành cháo. Nhưng Chim Gõ Kiến vẫn tỉnh táo, minh mẫn và mắt sáng như sao! Màng nháy mắt của chim gõ kiến tự động đóng sập lại một phần nghìn giây trước mỗi cú va chạm, giữ cho nhãn cầu không bị văng ra khỏi hốc mắt!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Bí mật nằm ở bộ giáp chống rung chấn ba lớp tinh vi mà tạo hóa đã ban tặng cho loài chim này! Thứ nhất, chiếc xương móng hyoid của chim gõ kiến không nằm ở cuống họng như người, mà dài ngoằng, quấn một vòng từ đáy hàm vòng qua sau gáy lên tận đỉnh đầu rồi chui vào lỗ mũi! Thứ hai, mỏ trên dài hơn mỏ dưới đúng một mi-li-mét, giúp chuyển hướng các sóng xung kích gây hại thành sóng trượt vô hại đi xuống thân mình! Và thứ ba, xương sọ của chim gõ kiến là một cấu trúc xốp vi mô chứa vô số lỗ rỗng chứa không khí, đóng vai trò như chiếc đệm khí lò xo đàn hồi triệt tiêu toàn bộ chấn động trước khi chạm tới màng não!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Tọa độ điểm yếu của bức tường đã được quét xong! Đó là ba điểm nứt ứng suất ngầm nơi ba khối đá granite giao nhau! Khai hỏa! Chim Gõ Kiến bám chặt bốn móng vuốt vào vách đá, đuôi tì làm điểm tựa kiên cố, bắt đầu chuỗi khoan phá thần tốc! Cốc cốc cốc cốc cốc cốc cốc! Tiếng mỏ va chạm vào đá granite rít lên như tiếng súng máy liên thanh, các tia lửa điện nổ lách tách chói lòa trong bóng tối! Chỉ trong vòng bốn mươi lăm giây, ba lỗ khoan tròn sâu mười phân đã xuất hiện ngay trên tim của các khối đá! Các vết nứt chân chim bắt đầu lan rộng ra xung quanh như mạng nhện!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Đến lượt lực lượng công binh bí mật vào sân! Chim Gõ Kiến lùi lại nhường đường cho Đại Đội Kiến Cắt Lá xuất kích! Đừng coi thường những chú kiến nhỏ bé này! Nghiên cứu mới nhất đăng trên tạp chí Báo Cáo Khoa Học của Nature đã phát hiện: hàm răng của kiến cắt lá được tẩm một lớp kim loại nặng gồm kẽm và mangan nguyên chất! Lớp kim loại nặng này biến chiếc hàm răng chitin của kiến cắt lá thành những lưỡi cưa tẩm thép không gỉ, sắc bén và bền bỉ gấp ba lần răng của côn trùng thông thường! Hàng ngàn chú kiến cắt lá cùng lúc thò hàm răng thép vào các kẽ nứt do chim gõ kiến vừa tạo ra, bắt đầu nghiền nát và bốc dỡ từng hạt bụi đá granite ra ngoài! Khả năng khuân vác gấp năm mươi lần trọng lượng cơ thể giúp bầy kiến dọn sạch hàng tạ đá vụn chỉ trong vòng chưa đầy hai phút!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Khoét móng! Đục rãnh! Bẩy then! Đại đội công binh kiến cắt lá đào khoét chân tường đá với tốc độ của một cỗ máy xúc công nghiệp hiện đại! Toàn bộ khối đá granite nặng mười tấn bắt đầu nghiêng dần về phía trước. Chim Gõ Kiến bay lên, tung cú mổ quyết định cuối cùng vào chiếc chốt bản lề trên đỉnh! Rầm! Khối đá granite khổng lồ đổ sập xuống sàn đá, vỡ tan thành những mảnh đá vụn vô hại, mở toang một cửa vòm rộng thênh thang dẫn thẳng vào Cửa Ải Bảy!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Biểu tượng boong-ke đá trên {BOARD} chuyển sang màu xanh ngọc bích rực rỡ! Sáu trên bảy cửa ải đã bị biệt đội đặc nhiệm đánh sập không còn một dấu vết! Chim Gõ Kiến đậu trên đống đá vụn, giơ chiếc mỏ nhọn hoắt lên trời làm động tác gõ tạ ơn khán giả, bên cạnh là đàn kiến cắt lá đang vẫy những mảnh lá xanh ăn mừng chiến thắng vang dội!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Nhưng cánh cửa cuối cùng ngăn cách biệt đội với kho báu trung tâm đang hiện ra trước mắt: Cửa Ải Bảy — Bức Tường Vách Đứng Chín Mươi Độ và Lò Lửa Sa Mạc Năm Mươi Độ C! Không thể bay qua vì bão nhiệt cuốn phăng mọi luồng khí, cũng không thể đào hầm vì nền cát lún di động. Chỉ có sự phối hợp giữa một cỗ xe tăng chịu nhiệt và một bậc thầy leo vách đá mới có thể giải mã cánh cửa tối thượng này! Cặp đôi sa mạc và vách đá chuẩn bị bước vào cuộc chinh phục đỉnh cao nhất của pháo đài!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Để bảo vệ đôi mắt khỏi bụi đá và chấn động cực mạnh, mi mắt của chim gõ kiến có thể tự động co thắt các mạch máu quanh võng mạc để duy trì huyết áp ổn định trong từng cú mổ! Trong khi đó, lớp kim loại kẽm và mangan trên răng của kiến cắt lá được phân bố đồng đều đến mức độ nguyên tử, giúp chiếc răng không bao giờ bị mẻ dù cắn vào đá granite cứng nhất! Sự kết hợp giữa công nghệ khoan va đập của loài chim và công nghệ cưa cắt kim loại của loài kiến đã tạo nên một kỳ tích công binh chưa từng có trong lịch sử điệp viên! Nhịp gõ búa thần tốc hai mươi lần một giây của chim gõ kiến tạo nên một bản hòa âm cơ học rộn rã làm bừng tỉnh cả góc pháo đài tối tăm! Hàng ngàn chú kiến cắt lá đồng loạt vác đá diễu hành dưới ánh đèn pin thợ mỏ, tạo nên một cảnh tượng công binh hoành tráng chưa từng thấy!",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene10",
+        "badge": "CỬA ẢI 7",
+        "banner_title": "VÁCH ĐỨNG 90° & LÒ NHIỆT 50°C",
+        "chapter_title": "Cửa Ải 7: Dê Núi leo vách 90° & Lạc Đà vượt sa mạc 50°C",
+        "hook": "MÓNG CAO SU GIÁC HÚT VÀ MÁU OVAL GIÃN NỞ",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Cửa Ải Bảy là phòng tuyến cuối cùng và khắc nghiệt nhất của Pháo Đài Tự Nhiên: Lò Lửa Sa Mạc kết hợp với Bức Tường Vách Đứng Chín Mươi Độ! Nhiệt độ trên mặt cát sa mạc lúc này đo được là năm mươi độ C! Không khí khô khốc như lò nung có thể hút cạn từng giọt nước trong cơ thể của bất kỳ sinh vật nào chỉ trong vòng chưa đầy mười lăm phút! Mọi phương tiện cơ giới mang vào đây đều sẽ bị cát lún nuốt chửng bánh xe, động cơ quá nhiệt và bốc cháy. Gió sa mạc cuốn theo những cơn bão bụi silic sắc nhọn có thể làm xước rách giác mạc và phá hủy hệ hô hấp của người thường!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Nhưng kẻ đang ung dung sải bước trên chảo cát nóng rẫy này lại chính là cỗ xe tăng sinh học tối thượng của hoang mạc: Đặc vụ Lạc Đà Sa Mạc! Trên lưng Lạc Đà không chở súng đạn, mà đang cõng theo người đồng đội leo núi cừ khôi nhất: Đặc vụ Dê Núi Bắc Mỹ! Cặp bài trùng này chuẩn bị thực hiện màn phối hợp ngoạn mục nhất lịch sử điệp viên! Bí mật nào giúp Lạc Đà Sa Mạc thản nhiên vượt qua vùng nhiệt độ năm mươi độ C mà không hề nhỏ một giọt mồ hôi? Hãy nhìn sâu vào hệ tuần hoàn kỳ diệu của anh chàng này!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Tất cả các loài động vật có vú trên Trái Đất, bao gồm cả con người, đều có tế bào hồng cầu hình tròn dẹt. Khi cơ thể mất nước, hồng cầu tròn sẽ dính bết lại làm tắc nghẽn mạch máu, dẫn đến đột quỵ. Nhưng hồng cầu của Lạc Đà lại có hình bầu dục thuôn dài! Cấu trúc oval đặc biệt này cho phép chúng tiếp tục lưu thông trơn tru ngay cả khi máu trở nên đặc quánh do cơ thể mất tới hai mươi lăm phần trăm lượng nước! Và khi gặp nguồn nước, hồng cầu hình bầu dục của lạc đà có thể giãn nở tới hai trăm bốn mươi phần trăm thể tích mà không hề bị vỡ! Anh chàng có thể nạp một trăm lít nước chỉ trong mười phút ngắn ngủi! Chưa hết, thân nhiệt của Lạc Đà Sa Mạc là một cỗ máy điều hòa nhiệt độ sinh học tự động: ban đêm hạ xuống ba mươi tư độ C để tích trữ khí lạnh, ban ngày tăng dần lên bốn mươi mốt độ C mà không cần đổ mồ hôi làm mát! Cộng thêm chiếc mũi xoắn ốc khổng lồ tái hấp thu tới sáu mươi phần trăm hơi ẩm từ hơi thở ra, Lạc Đà có thể đi bộ xuyên qua chảo lửa sa mạc mà chẳng tốn lấy một giọt mồ hôi! Bướu mỡ trên lưng khi bị oxy hóa còn sản sinh ra hơn một trăm gam nước chuyển hóa cho mỗi một trăm gam chất béo bị tiêu hao!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Lạc Đà sải những bước chân thần tốc, đưa Dê Núi tiếp cận sát chân ngọn tháp đá granite nguyên khối trong tiếng reo hò của phòng chỉ huy! Trước mặt họ là bức tường thành dựng đứng chín mươi độ cao ba mươi mét! Bề mặt đá nhẵn thín như gương, không một kẽ nứt, không một mấu gờ nhô ra quá ba mi-li-mét! Bất kỳ một vận động viên leo núi chuyên nghiệp nào nhìn vào vách đá này cũng phải lắc đầu bỏ cuộc. Nhưng đối với Dê Núi Bắc Mỹ, đây chỉ là một cầu thang quen thuộc hàng ngày! [laughter]",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Vũ khí bí mật của Đặc vụ Dê Núi nằm ở bốn chiếc móng guốc thách thức mọi định luật vật lý! Viền ngoài của móng là lớp sừng cứng sắc nhọn có thể găm chặt vào những vi gờ đá chỉ dày một mi-li-mét. Trong khi phần lòng móng là lớp đệm cao su dẻo ma sát cực cao, hoạt động như những chiếc giác hút chân không bám dính vào mặt đá! Cộng thêm tầm nhìn bao quát ba trăm hai mươi độ và cấu trúc khớp vai lực lưỡng, dê núi có thể kéo toàn bộ trọng lượng cơ thể lên chỉ bằng hai chiếc móng trước! Trọng tâm cơ thể đặt cực thấp cùng xương sườn hẹp giúp dê núi ép sát ngực vào vách đá, triệt tiêu hoàn toàn mô-men quay làm lật ngửa cơ thể!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Xuất kích! Dê Núi Bắc Mỹ nhún mình bật nhảy một cú ngoạn mục lên vách đá dựng đứng chín mươi độ! Một bước... hai bước... ba bước! Dê Núi leo ngược lên vách đá thẳng đứng với tốc độ thoăn thoắt như đang chạy trên mặt đất bằng phẳng! Gió lốc sa mạc thổi giật từng cơn dữ dội, nhưng bốn chiếc móng giác hút cao su của anh chàng vẫn bám dính chặt chẽ không hề lung lay dù chỉ một ly! Cách đỉnh tháp năm mét! Mỏm đá cuối cùng bị gãy vụn dưới chân! Dê Núi treo lơ lửng trên không trung chỉ bằng hai chiếc móng trước! Cả phòng chỉ huy nín thở! Gồng cơ vai! Dê Núi vung một chân sau lên mỏm đá, tung cú bật nhảy tối thượng cuối cùng phi thẳng lên sàn đỉnh tháp!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Đến lượt hạ cầu! Dê Núi đạp mạnh vào chiếc cần gạt tời cáp khổng lồ đặt trên đỉnh tháp! Rầm! Chiếc cầu treo rút khổng lồ bắc ngang qua thung lũng sa mạc hạ xuống, nối liền lối vào thẳng vào cổng chính của Phòng Châu Báu Trung Tâm! Toàn bộ bảy biểu tượng cửa ải trên {BOARD} đồng loạt chuyển sang màu xanh ngọc bích rực rỡ! Một trăm phần trăm hệ thống an ninh của Pháo Đài Tự Nhiên đã bị vô hiệu hóa hoàn toàn!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Cả mười đặc vụ tập hợp trước cánh cổng sắt mạ vàng của Phòng Châu Báu. Nhưng đúng lúc này, từ trong bóng tối của hành lang ngoại vi, một đội tuần tra người máy tự động bất ngờ xuất hiện bao vây lối thoát! Chỉ Huy Mật Vụ khẽ nhếch mép: \"Đừng lo. Chúng ta vẫn còn một tay súng bắn tỉa đang ẩn nấp trên cao chưa từng lộ diện!\" Tay súng bắn tỉa bí mật chuẩn bị khai hỏa dọn sạch hậu phương trong chớp mắt!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Lạc Đà Sa Mạc có thể mất tới ba mươi phần trăm trọng lượng cơ thể do mất nước mà vẫn đi bộ bình thường, trong khi các loài thú khác sẽ chết vì trụy tim nếu mất mười lăm phần trăm nước! Dê Núi Bắc Mỹ thì sở hữu cặp sừng đen rỗng bên trong giúp phân tán nhiệt lượng cơ thể khi vận động mạnh trên vách đá cheo leo! Bộ đôi sa mạc và vách đá đã chứng minh rằng không có địa hình nào trên Trái Đất có thể ngăn cản bước chân của những kẻ nắm vững nghệ thuật thích nghi! Bức tường đá dựng đứng chín mươi độ từng là nỗi khiếp sợ của muôn loài nay đã in dấu bốn móng guốc cao su kiêu hãnh của Dê Núi Bắc Mỹ! Lạc Đà Sa Mạc đứng dưới chân tháp ngước nhìn người đồng đội trên cao, cất tiếng kêu hò reo cổ vũ nồng nhiệt vang vọng khắp lòng chảo sa mạc!",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene11",
+        "badge": "TRẠM GÁC NGOẠI VI",
+        "banner_title": "MẮT THẦN TRINH SÁT",
+        "chapter_title": "Trạm gác ngoại vi: Sát thủ Bách Thanh & Chiến thuật cắm gai nhọn",
+        "hook": "VÔ HIỆU HÓA TOÀN BỘ ĐỘI TUẦN TRA",
+        "mood": "tram_bi_an",
+        "parts": [
+          {
+            "text": "Bên ngoài cổng Phòng Châu Báu, không khí căng thẳng đến nghẹt thở. Đội tuần tra an ninh tự động của Pháo Đài Tự Nhiên đã phát hiện ra các dấu vết xâm nhập bất thường! Những chiếc loa phát thanh trên tường chuẩn bị phát tín hiệu báo động đỏ toàn căn cứ. Nếu tiếng còi báo động vang lên, toàn bộ các lối thoát hiểm sẽ bị đánh sập vĩnh viễn, chôn vùi cả biệt đội trong lòng đất! Toàn bộ mười đặc vụ bên dưới đều đang tập trung trước cánh cổng kho báu, không kịp quay lại ứng cứu. Khoảng cách giữa họ và đội tuần tra chỉ còn chưa đầy ba mươi mét! Các tia quét tầm nhiệt của đội tuần tra đang lia dần về phía bóng lưng của Chim Cắt và Quạ Đen, chỉ còn vài giây nữa là chuông báo động sẽ réo vang!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Nhưng trên cành cao của cây bồ kết cổ thụ ngoài cửa sổ hành lang, một bóng đen nhỏ bé mang đôi cánh xám trắng đang lặng lẽ quan sát từng cử động của kẻ địch: Đặc vụ Chim Bách Thanh! Đừng để vẻ bề ngoài nhỏ nhắn như một chú chim sẻ đánh lừa bạn! Trong giới điểu học, Chim Bách Thanh được mệnh danh là \"Gã Đồ Tể Rừng Xanh\", sát thủ sở hữu kỹ thuật phục kích tàn nhẫn và thông minh bậc nhất tự nhiên! Bách Thanh là loài chim duy nhất không có móng vuốt đại bàng nhưng lại có thể săn bắt và hạ gục những con mồi to gấp đôi trọng lượng cơ thể mình! Cơ cổ cực khỏe cho phép chim bách thanh thực hiện cú giật xoắn cực mạnh làm trật khớp cổ con mồi chỉ trong một phần mười giây!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Và vũ khí đáng sợ nhất của Bách Thanh chính là kỹ thuật cắm gai nhọn độc nhất vô nhị! Các nhà khoa học tại đại học Florida đã ghi nhận những phát hiện chấn động về tập tính này! Khi bắt được những loài côn trùng có nọc độc chết người như cào cào Lubber khổng lồ, bách thanh không bao giờ ăn ngay. Anh chàng sẽ cắp con mồi đem cắm chặt lên một chiếc gai nhọn sắc bén! Con mồi được phơi trên gai suốt ba ngày trời! Dưới ánh nắng và gió, toàn bộ chất độc tự nhiên trong cơ thể con mồi sẽ bị phân hủy hoàn toàn, biến một bữa ăn kịch độc thành món ăn thơm ngon bổ dưỡng an toàn tuyệt đối! Chưa hết, Bách Thanh sở hữu một bản đồ không gian thiên tài trong não bộ: anh chàng có thể ghi nhớ vị trí của hàng chục chốt gai nhọn khác nhau rải rác trong bán kính năm trăm mét mà không bao giờ nhầm lẫn! Anh chàng biết chính xác món mồi nào đã được cắm bao nhiêu ngày, món nào đã hết độc tố và sẵn sàng thưởng thức!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Tọa độ đã khóa! Mục tiêu là năm chiếc camera cảm biến và chiếc cần gạt báo động khẩn cấp! Bách Thanh tung cánh lao vút qua khung cửa sổ hành lang như một mũi tên xé gió, không phát ra một tiếng động nhỏ nào! Vút! Vút! Vút! Bách Thanh phóng ra những chiếc gai thép sắc nhọn găm thẳng vào năm ống kính camera cảm biến của đội tuần tra người máy! Đội tuần tra bị mù hoàn toàn! Người máy chỉ huy hoảng hốt vung tay định kéo cần gạt còi báo động khẩn cấp! Không kịp nữa rồi! Bách Thanh bay vọt lên, chiếc mỏ sắc bén có mấu răng giả tomium bổ thẳng một cú mổ thần tốc vào khớp ngón tay kim loại của người máy! Anh chàng nhanh như chớp dùng mỏ quặp lấy một chiếc cọc gai thép dài hai mươi phân, đóng chặt xuyên qua chiếc cần gạt báo động, ghim cứng nó vào tường đá không thể nhúc nhích!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Đội tuần tra người máy mất phương hướng, quay mòng mòng va đập vào nhau rồi đổ rạp xuống sàn hành lang như những quân cờ domino đổ sập! Bách Thanh đậu nhẹ nhàng trên đỉnh chiếc mũ sắt của người máy chỉ huy, nghiêng đầu chỉnh lại dải lông đen ngang mắt, phát ra một tiếng kêu lách cách báo cáo Chỉ Huy Mật Vụ. \"Ngoại vi đã dọn sạch! Toàn bộ hệ thống còi báo động đã bị khóa cứng bằng gai thép!\" Giọng Bách Thanh đanh gọn truyền qua mic.",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Mối đe dọa từ phía sau đã được hóa giải hoàn toàn. Giờ đây, chỉ còn lại cánh cổng sắt mạ vàng của Phòng Châu Báu Trung Tâm sừng sững trước mặt mười đặc vụ. Tất cả các ổ khóa đã mở. Toàn bộ bảy cửa ải đã bị xuyên thủng. Chiếc két sắt chứa Bản Thiết Kế Tiến Hóa Tối Thượng chỉ còn cách họ đúng một bước chân. Giờ phút lịch sử đã điểm! Chiếc két sắt tối thượng của tạo hóa chuẩn bị hé lộ bí mật lớn nhất hành tinh!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Kỹ thuật săn mồi và quản lý kho dự trữ của Chim Bách Thanh là minh chứng rõ nét nhất cho trí thông minh sinh thái học của loài chim ăn thịt nhỏ bé này! Nhờ chiếc mỏ có mấu răng giả tomium, bách thanh có thể truyền toàn bộ lực cắn vào một điểm duy nhất trên đốt sống cổ của mục tiêu, tạo nên một lực phá hủy tập trung cực kỳ chết chóc! Sau khi vô hiệu hóa hoàn toàn đội tuần tra, anh chàng khẽ lau mỏ vào cành cây, tiếp tục giữ vai trò sát thủ thầm lặng bảo vệ toàn bộ đội hình rút lui an toàn! Khả năng ẩn nấp ngụy trang tài tình giúp Chim Bách Thanh hoàn toàn hòa mình vào màu vỏ cây bồ kết xám xịt, biến mất khỏi tầm mắt kẻ thù! Toàn bộ hành lang ngoại vi đã rơi vào im lặng tuyệt đối, mở đường cho giờ phút khai mở kho báu lịch sử của muôn loài!",
+            "mood": "tram_bi_an"
+          }
+        ]
+      },
+      {
+        "id": "scene12",
+        "badge": "PHÒNG CHÂU BÁU TRUNG TÂM",
+        "banner_title": "CÚ LẬT KÈO KHO BÁU",
+        "chapter_title": "Phòng châu báu: Cú lật kèo chấn động — Kho báu thật sự của Pháo Đài",
+        "hook": "BẢN THIẾT KẾ TIẾN HÓA TỐI THƯỢNG",
+        "mood": "tram_bi_an",
+        "parts": [
+          {
+            "text": "Cánh cổng vàng ròng nặng mười tấn của Phòng Châu Báu Trung Tâm từ từ mở ra, kèm theo một tiếng rít trầm đục vang vọng khắp các vách đá. Mười đặc vụ cùng bước vào trong sự ngỡ ngàng tột độ. Không khí bên trong căn phòng thơm ngát mùi thảo mộc cổ xưa, hoàn toàn đối lập với mùi khói súng và sắt thép lạnh lẽo bên ngoài. Chính giữa căn phòng là một chiếc bệ đá hoa cương đen tuyền, trên đó đặt chiếc két sắt tối thượng được rèn bằng hợp kim siêu bền bất khả xâm phạm. Bốn bức bích họa khổng lồ trên tường tái hiện lại lịch sử tiến hóa năm trăm triệu năm của Trái Đất, từ những sinh vật phù du cổ đại cho đến những loài động vật kỳ diệu ngày nay!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Các đặc vụ bắt đầu xì xào bàn tán về món kho báu đang nằm bên trong. Mỗi người đều có một giấc mơ riêng sau khi hoàn thành phi vụ thế kỷ! Chuột Chũi Trũi chảy nước miếng mơ về một kho chứa một triệu tấn khoai tây mật ngọt lịm ăn không bao giờ hết! Quạ Đen thì xoa xoa hai cánh mắt sáng như sao, đòi một núi thìa bạc nạm kim cương để xây cái tổ đắt giá nhất hành tinh! [laughter] Cá Voi Sát Thủ nhô đầu lên cười khùng khục đòi một biển đầy cá hồi béo ngậy và chiếc vương miện thống trị đại dương! Còn Lạc Đà Sa Mạc chỉ khẽ chớp mắt mơ về một hồ nước ngọt mát lạnh quanh năm với những rặng xương rồng không bao giờ tàn! Dê Núi mong ước có một ngọn núi tuyết riêng tư để tha hồ phi thân, trong khi đàn kiến cắt lá mơ về một cánh rừng lá phong non xanh mướt!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Chỉ Huy Mật Vụ bước tới trước chiếc két sắt, nhẹ nhàng đặt chiếc máy tính bảng mật mã vào ổ nhận dạng trung tâm. Tách! Tách! Tách! Chiếc két sắt từ từ bật nắp! Một luồng ánh sáng chói lòa bừng lên, khiến tất cả phải đưa tay lên che mắt. Nhưng khi làn khói tan dần... cả mười đặc vụ đều sững sờ chết lặng! Bên trong chiếc két sắt tối thượng... không hề có một thỏi vàng nào! Không có kim cương, không có súng laser tối tân, cũng chẳng có lấy một cọng khoai tây nào cả! [laughter]",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Ủa... kho báu của chúng ta đâu rồi sếp ơi? Bị ai nẫng tay trên trước rồi hả sếp? Hay là chúng ta đột nhập nhầm pháo đài rồi?",
+            "cast": "chu_ngo_ngac"
+          },
+          {
+            "text": "Chỉ Huy Mật Vụ không hề ngạc nhiên. Anh chàng cú mèo nhẹ nhàng cầm chiếc gương tròn lên, xoay mặt gương hướng về phía toàn thể mười đặc vụ. \"Các bạn hãy nhìn kỹ vào trong gương đi. Kho báu thật sự của Pháo Đài Tự Nhiên... đang đứng ngay trước mặt các bạn đấy.\" Giọng Chỉ Huy trầm ấm và trang nghiêm vang lên.",
+            "mood": "nghiem_trang_gia"
+          },
+          {
+            "text": "Chỉ Huy từ từ mở cuộn da cừu cổ xưa ra, đọc to những dòng chữ được khắc ghi từ hàng trăm triệu năm trước: \"Vàng bạc rồi cũng sẽ bị chôn vùi dưới cát bụi. Súng đạn rồi cũng sẽ bị rỉ sét mục nát theo thời gian. Nhưng khả năng thích nghi và vươn lên của sự sống thì bất tử.\" Kho báu vĩ đại nhất của tự nhiên không phải là những thứ vật chất vô tri, mà chính là Bản Thiết Kế Tiến Hóa nằm ngay trong cơ thể của mỗi loài sinh vật! Chiếc mũi nén khí siêu thanh ba trăm tám mươi chín cây số một giờ của Chim Cắt. Khả năng thở bằng đường hoa quả sống sót mười tám phút không oxy của Chuột Chũi. Thuật đóng băng sáu mươi lăm phần trăm cơ thể hồi sinh sau bảy tháng của Ếch Gỗ. Trí tuệ chế tạo công cụ giải câu đố tám bước của Quạ Đen. Sóng âm sonar hai trăm hai mươi lăm đê-xi-ben quất sóng thần của Cá Voi Sát Thủ. Hộp sọ giảm chấn một ngàn hai trăm G của Chim Gõ Kiến. Tế bào máu hình oval giãn nở hai trăm bốn mươi phần trăm của Lạc Đà Sa Mạc. Móng guốc giác hút cao su bám vách đá chín mươi độ của Dê Núi. Kỹ thuật cắm gai khử độc của Chim Bách Thanh. Và hàm răng tẩm kim loại nặng của Đại Đội Kiến Cắt Lá!",
+            "mood": "am_ap"
+          },
+          {
+            "text": "Mỗi loài trong số mười quái kiệt này tự thân đã là một kiệt tác kỹ thuật đỉnh cao mà không một phòng thí nghiệm hay cỗ máy tối tân nào của con người có thể sao chép hoàn hảo được! Và điều kỳ diệu nhất: không một cá nhân nào có thể một mình vượt qua cả bảy cửa ải của pháo đài. Chỉ khi mười loài vật cùng đoàn kết, bù đắp điểm yếu cho nhau, cánh cửa bất khả thi mới được mở toang! Đó chính là thông điệp tối thượng của Bản Thiết Kế Tiến Hóa: Đa dạng sinh học chính là chiếc khiên hộ mệnh duy nhất bảo vệ sự sống trên hành tinh xanh này! Biệt Đội Đặc Nhiệm Sinh Học đã hoàn thành sứ mệnh lịch sử vĩ đại nhất của muôn loài!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Nhưng khoảnh khắc lắng đọng đầy ý nghĩa vừa kết thúc... thì một tiếng nổ chát chúa vang lên từ trần phòng châu báu! Chiếc bệ đá tự động tụt xuống lòng đất, kích hoạt hệ thống tự hủy cuối cùng của pháo đài: \"Cảnh báo khẩn cấp! Bản Thiết Kế đã được mở khóa! Pháo đài sẽ tự hủy hoàn toàn sau đúng ba phút nữa!\" Cuộc đột nhập đã hoàn tất. Bây giờ là bài toán sinh tử cuối cùng: Chiến Dịch Tháo Chạy Nghẹt Thở để thoát khỏi đống đổ nát trước khi chiếc cổng thành đóng vĩnh viễn! Cả căn cứ đang sụp đổ sau lưng, thời gian chỉ còn tính bằng từng tích tắc ngắn ngủi!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Hàng trăm triệu năm qua, Trái Đất đã trải qua biết bao kỷ băng hà buốt giá, bao đợt tuyệt chủng khắc nghiệt và núi lửa phun trào ngút trời. Nhưng sự sống chưa bao giờ chịu khuất phục. Mỗi một loài sinh vật, từ chú kiến nhỏ bé dưới chân đến chú cá voi khổng lồ ngoài khơi xa, đều là một mảnh ghép không thể thiếu của bức tranh thiên nhiên hoàn mỹ! Biệt Đội Đặc Nhiệm Sinh Học đã chứng minh rằng khi chúng ta cùng thấu hiểu và tôn trọng những giá trị tiến hóa của tự nhiên, không có thử thách nào là không thể vượt qua! Khoảnh khắc chiếc gương đồng phản chiếu khuôn mặt của cả mười quái kiệt sẽ mãi mãi là bức tranh đẹp nhất trong lịch sử sinh tồn của Trái Đất! Bản Thiết Kế Tiến Hóa Tối Thượng đã tìm được những chủ nhân xứng đáng nhất, những đại sứ xuất sắc của thế giới tự nhiên kỳ diệu!",
+            "mood": "am_ap"
+          }
+        ]
+      },
+      {
+        "id": "scene13",
+        "badge": "CHIẾN DỊCH RÚT LUI",
+        "banner_title": "ĐẾM NGƯỢC TỰ HỦY",
+        "chapter_title": "Tháo chạy nghẹt thở: Pháo đài đếm ngược 3 phút & Màn combo đào tẩu",
+        "hook": "CUỘC ĐUA VỚI THỜI GIAN",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Đồng hồ đếm ngược tự hủy đang nhấp nháy đỏ rực: hai phút năm mươi giây! Toàn bộ Pháo Đài Tự Nhiên rung chuyển dữ dội như vừa trải qua một trận động đất mười độ Rích-te! Các hệ thống phòng vệ tự động bị chập điện, phóng ra những tia lửa điện xanh lè đan chéo nhau như một lưới điện tử thần. Các cánh cửa sắt chống cháy bắt đầu sập xuống ầm ầm! \"Không được bỏ lại bất kỳ ai! Toàn đội kích hoạt đội hình combo giải cứu khẩn cấp!\" Tiếng quát vang rền của Chỉ Huy Mật Vụ truyền thẳng vào tai nghe của từng đặc vụ. Cửa sập số một rơi xuống chặn đứng lối ra của hành lang chính! Kẹt cứng! Khe hở dưới đáy chỉ còn chưa đầy nửa mét và đang hạ xuống dần!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Đến lượt cặp bài trùng công binh ra tay! Chim Gõ Kiến lao vút tới, mỏ kẹp chiếc đục sắt gõ liên hoàn hai mươi lần một giây vào rãnh trượt của cánh cửa! Ngay lập tức, Đại Đội Kiến Cắt Lá dùng hàm răng tẩm kẽm và mangan ngoạm chặt lấy dây cáp tời phụ, kéo căng hết cỡ để giữ cánh cửa không bị rơi sập thêm! Dê Núi Bắc Mỹ cúi rạp người xuống: \"Chuột Chũi, Ếch Gỗ, nhảy lên lưng tôi mau!\" Dê Núi co bốn chân, tung một cú phi thân trượt bụng điệu nghệ qua khe hở chỉ vài xăng-ti-mét trước khi cánh cửa sập hẳn xuống mặt sàn đá!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Thời gian còn lại: một phút bốn mươi giây! Hành lang phía trước bốc cháy dữ dội do ống dẫn khí gas của lò nhiệt sa mạc bị vỡ toang! \"Dạt ra hai bên hết cho đại ca làm việc!\" Tiếng gầm của Cá Voi Sát Thủ vang lên qua hệ thống cống thoát nước ngầm bên dưới sàn đá! Cá Voi Sát Thủ hít một hơi thật sâu làn nước lạnh, phóng ra một cột nước áp lực cao khổng lồ qua lỗ thở như một chiếc vòi rồng cứu hỏa tối tân! Lạc Đà Sa Mạc lập tức sải những bước chân dài vượt lên dẫn đầu, xòe hai bên hông che chắn cho các đồng đội nhỏ bé tránh khỏi những tảng đá nhọn đang rơi rụng từ trần hang! Các tảng đá rơi trúng lưng lạc đà bị dội ngược ra ngoài nhờ lớp mỡ đàn hồi dày cộp, không gây tổn thương dù chỉ một vết xước!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Thời gian còn lại: năm mươi giây! Toàn bộ căn cứ chìm trong khói đen đặc quánh! Hệ thống định vị vệ tinh mất tín hiệu hoàn toàn! Lối ra ở hướng nào? Quạ Đen bay vút lên cao sát trần hang, dùng đôi mắt tinh tường quan sát hướng di chuyển của những luồng gió tươi mát luồn qua các khe nứt! \"Rẽ phải! Cổng vòm số ba! Chạy theo luồng gió tươi! Nhanh lên!\" Quạ Đen vừa bay vừa kêu quạ quạ dẫn đường chuẩn xác cho cả đoàn quân!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Thời gian còn lại: hai mươi giây! Cánh cửa sắt thoát hiểm cuối cùng của pháo đài đã hiện ra trước mắt! Nhưng bi kịch thay: cửa đã bị khóa chặt bằng ổ khóa điện tử khẩn cấp! \"Chiếc thẻ từ dự phòng! Thẻ từ đang ở đâu?\" Chỉ Huy Mật Vụ lục lọi túi áo hoảng hốt kêu lên! Cách đó năm mươi mét ngoài cửa sổ, chiếc thẻ từ màu đỏ vẫn đang bị cắm chặt trên cành gai cao chót vót của Chim Bách Thanh! Thời gian còn lại: mười giây! Chín... tám... bảy! Tiếng còi tự hủy bắt đầu rít lên từng hồi liên tục báo hiệu đợt phát nổ cuối cùng!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "\"Để đó cho tôi!\" Một tia chớp xám đen xé toạc màn đêm lao vút qua khung cửa sổ với vận tốc ba trăm tám mươi chín cây số một giờ: Chim Cắt Lớn! Móng vuốt vàng sắc lẹm của Chim Cắt quặp chuẩn xác vào mép chiếc thẻ từ, bẻ gãy cành gai nhọn trong chớp mắt, rồi lượn một vòng tròn ngoạn mục ném thẳng chiếc thẻ vào tay Chỉ Huy! Xoẹt! Chỉ Huy Mật Vụ quẹt mạnh chiếc thẻ qua khe nhận dạng! Tách! Cánh cửa sắt thoát hiểm bật mở toang ra bầu trời đêm bao la! Thời gian còn lại: hai giây! Một giây! Toàn bộ mười đặc vụ cùng Chỉ Huy cùng lúc tung mình nhảy bổ ra khỏi cửa hang!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "ẦM! ĐOÀNG! Pháo Đài Tự Nhiên phát nổ sau lưng thành một quả cầu lửa khổng lồ rực sáng cả một góc trời, toàn bộ công sự bằng đá granite sụp đổ chôn vùi vĩnh viễn trong lòng đất! Toàn đội lấm lem bùn đất, nhưng không một ai bị thương nặng! Chiếc máy tính bảng của Chỉ Huy vang lên một tiếng bíp êm ái: \"Điệp vụ hoàn tất một trăm phần trăm! Toàn đội an toàn!\" Biệt Đội Đặc Nhiệm Sinh Học đã sống sót qua phi vụ nghẹt thở nhất lịch sử!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Từng giây phút trong cuộc tháo chạy nghẹt thở này là một bài học mẫu mực về tinh thần đoàn kết và sự phối hợp tác chiến đỉnh cao giữa các loài động vật! Không có sự đố kỵ, không có sự phân biệt to nhỏ hay mạnh yếu, mỗi cá thể đều đem hết sở trường sinh học của mình ra để cứu lấy những người đồng đội! Cú nhảy ngoạn mục ra ngoài miệng vực trong tiếng nổ rung trời lở đất sẽ mãi mãi đi vào huyền thoại của những phi vụ giải cứu vĩ đại nhất giới sinh vật học! Những bước chân tháo chạy cuối cùng trên thảm cỏ xanh mướt là minh chứng cho sự kiên cường và lòng quả cảm phi thường của mười đặc vụ sinh học! Pháo Đài Tự Nhiên đã sụp đổ, nhưng tinh thần đồng đội và những kỳ quan tiến hóa của họ sẽ sống mãi với thời gian!",
+            "mood": "don_dap"
+          }
+        ]
+      },
+      {
+        "id": "scene14",
+        "badge": "HỒ SƠ HOÀN TẤT",
+        "banner_title": "GIẢI TÁN & TEASER MÙA SAU",
+        "chapter_title": "Kết thúc: Đóng hồ sơ, chia thù lao & Hé lộ hồ sơ Mega 05",
+        "hook": "MẬT MÃ MÙA SAU: PHÒNG CẤP CỨU TẠO HÓA",
+        "mood": "am_ap",
+        "parts": [
+          {
+            "text": "Ánh bình minh đầu tiên của buổi sớm mai bắt đầu ló rạng trên đường chân trời, dát một màu vàng mật ong ấm áp lên khắp thung lũng xanh mướt. Căn phòng tác chiến ngầm dã chiến của Tổng Cục Mật Vụ lại rộn rã tiếng cười nói sau một đêm căng thẳng đến từng sợi tóc. Chỉ Huy Mật Vụ Cú Mèo cầm con dấu gỗ khắc nổi, nhúng vào khay mực đỏ tươi, đóng một phát thật mạnh xuống trang bìa của tập hồ sơ: CỘC! Dấu mực đỏ hiện rõ dòng chữ: HOÀN TẤT XUẤT SẮC — LƯU TRỮ TUYỆT MẬT! \"Các đặc vụ của tôi! Đêm nay, các bạn không chỉ hoàn thành một phi vụ bất khả thi, mà còn chứng minh cho toàn thế giới thấy sức mạnh vô song của sự sống và tình đồng đội!\" Biệt Đội Đặc Nhiệm Sinh Học đã hoàn thành xuất sắc nhiệm vụ được giao!",
+            "mood": "am_ap"
+          },
+          {
+            "text": "Và bây giờ là phần được mong chờ nhất trong mọi bộ phim điệp viên: lễ trao thù lao và giải tán lực lượng! [laughter] Đặc vụ Chuột Chũi Trũi được trao tặng ba bao tải khoai tây mật sấy bơ thượng hạng, cộng thêm một giấy chứng nhận: \"Thợ đào hầm hảo hạng không bao giờ biết đau\"! Đặc vụ Quạ Đen nhận một xô hạt dẻ rang bơ khổng lồ cùng một bộ kìm kẹp đa năng mạ vàng hai mươi bốn ca-ra để tha hồ chế tạo công cụ mới! Đặc vụ Chim Cắt Lớn được đền bù một bộ áo khoác da phi công hàng hiệu mới tinh, kèm một chiếc cà vạt lụa chống kiến cắn siêu bền!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Đặc vụ Ếch Gỗ Bắc Cực được quàng một chiếc khăn len đỏ ca-sơ-mia mềm mại chống rét âm năm mươi độ C, kèm một bình si-rô ngọt ngào bổ dưỡng! Đặc vụ Cá Voi Sát Thủ nhận một tấm thẻ hội viên VIP bơi lội trọn đời tại toàn bộ các rạn san hô đẹp nhất thế giới, kèm một tấn cá hồi tươi rói! Đặc vụ Chim Gõ Kiến nhận một chiếc mũ bảo hộ bằng sợi các-bon siêu nhẹ có giảm chấn ba lớp, giúp anh chàng gõ đá mà êm như gõ gối bông! Lạc Đà Sa Mạc nhận một xe tải xương rồng non mọng nước đã được nhổ sạch gai, tha hồ nhai rôm rốp mà không sợ làm phiền bộ đàm của ai nữa! [laughter] Dê Núi Bắc Mỹ nhận bốn chiếc đệm móng guốc cao su thể thao hàng hiệu chống trượt tối tân để tha hồ leo vách đá chín mươi độ! Chim Bách Thanh được trang bị một giàn gai thép không gỉ chuyên dụng gắn camera hành trình để bảo quản chiến lợi phẩm an toàn! Và Đại Đội Kiến Cắt Lá được trao tặng một nông trại nấm hữu cơ ngầm rộng năm trăm mét vuông để phát triển nông nghiệp bền vững cho cả tổ kiến!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Mười quái kiệt, mười số phận kỳ lạ của tự nhiên đã hoàn thành sứ mệnh lịch sử. Họ lại quay trở về với bầu trời, rừng sâu, biển cả và lòng đất của riêng mình. Nhưng những bài học tiến hóa kỳ diệu và tinh thần đồng đội của họ sẽ mãi mãi được lưu giữ trong kho tàng tri thức của kênh Vẽ Chuyện Hoang Dã.",
+            "mood": "am_ap"
+          },
+          {
+            "text": "Căn phòng tác chiến trở lại yên tĩnh. Chỉ còn lại Chỉ Huy Mật Vụ Cú Mèo ngồi một mình bên bàn làm việc dưới ánh đèn bàn ấm áp. Anh chàng mở chiếc ngăn kéo bàn có khóa mật mã hai lớp, cẩn thận cất tập hồ sơ của Biệt Đội Đặc Nhiệm vào góc an toàn. Và rồi, ngón tay của Chỉ Huy dừng lại ở một tập tài liệu bìa màu xanh phẫu thuật y tế còn niêm phong bằng sáp đỏ, có gắn dòng chữ cảnh báo: HỒ SƠ TỐI MẬT SỐ NĂM!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Một nụ cười bí hiểm nở trên môi vị Chỉ Huy: \"Trận chiến này vừa kết thúc... nhưng ca trực đêm kinh hoàng nhất của lịch sử tiến hóa thì chỉ mới bắt đầu.\" Đêm nay, tại Bệnh Viện Đa Khoa Tiến Hóa, mười bệnh nhân mang những triệu chứng sinh học trái ngược hoàn toàn với quy luật thông thường đang đồng loạt nhập viện cấp cứu! Một chú Nhện Lặn Chuông tự dệt bình dưỡng khí bằng tơ để thở dưới nước. Một chú Cá Thoi Loi trèo cây hít thở bằng da. Một nàng Ong Bắp Cày Ngọc cầm dao phẫu thuật điều khiển não gián. Một chú Cá Mặt Trăng ba tấn không não trôi dạt giữa đại dương. Và một chú Vẹt Ca-ca-pô béo ú quên mất cách bay, đêm đêm nhảy từ ngọn cây xuống đất tìm bạn đời! [laughter] Cùng với Lợn Rừng Ba-bi-ru-sa mang răng nanh tự đâm sọ, Hươu Cao Cổ huyết áp ba trăm, Cò Mỏ Giày đứng như tượng đá và Nhím Lông Nhọn mang ba mươi ngàn chiếc gai!",
+            "mood": "nghiem_trang_gia"
+          },
+          {
+            "text": "Hẹn gặp lại quý vị khán giả trong Mega số năm: Phòng Cấp Cứu Tạo Hóa — Ca Trực Đêm Kinh Hoàng của mười bệnh nhân tiến hóa kỳ lạ nhất hành tinh! Còn bây giờ, nếu bạn được quyền tuyển chọn một đặc vụ trong Biệt Đội Đặc Nhiệm Sinh Học tối nay làm bạn đồng hành, bạn sẽ chọn quái kiệt nào? Hãy để lại mật mã của bạn ở phần bình luận bên dưới nhé! Đừng quên bấm thích video, đăng ký kênh Vẽ Chuyện Hoang Dã và nhấn chuông thông báo để không bỏ lỡ những phi vụ sinh tồn chấn động tiếp theo. Chúc các bạn một giấc ngủ thật ngon và những giấc mơ phiêu lưu tuyệt đẹp!",
+            "mood": "am_ap"
+          },
+          {
+            "text": "Bệnh Viện Đa Khoa Tiến Hóa trong Mega số năm hứa hẹn sẽ mang đến những câu chuyện y khoa hài hước và kỳ thú chưa từng có về mười sinh vật mang thiết kế ngược đời nhất hành tinh! Quý vị sẽ được giải mã vì sao chú vẹt Kakapo béo ú lại quên cách bay, vì sao chú lợn rừng Babirusa lại có răng nanh tự đâm vào sọ, và vì sao hươu cao cổ cúi đầu uống nước mà không bị vỡ mạch máu não! Hãy tiếp tục đồng hành cùng kênh Vẽ Chuyện Hoang Dã để khám phá những điều kỳ diệu bất tận của thế giới tự nhiên xung quanh chúng ta! Mỗi một tập phim của kênh Vẽ Chuyện Hoang Dã là một hành trình kỳ thú đưa quý vị khán giả đến với những bí mật chưa từng được kể của muôn loài! Hãy chuẩn bị tinh thần cho những ca trực đêm nghẹt thở và những chẩn đoán y khoa cười ra nước mắt trong mùa phim tiếp theo nhé!",
+            "mood": "am_ap"
+          }
+        ]
+      }
+    ]
+  },
+  "shorts": {
+    "target_s": 53.0,
+    "mood": "don_dap",
+    "text": "[surprise-oh] Mười đặc vụ quái kiệt. Bảy cửa ải an ninh. Một phi vụ thế kỷ đột nhập Pháo Đài Tự Nhiên! Cửa Ải Một: Chim Cắt Lớn bổ nhào xé gió ba trăm tám mươi chín cây số một giờ vô hiệu hóa lưới laser! Cửa Ải Hai: Chuột Chũi Trũi thở bằng đường hoa quả sống sót mười tám phút ở mức không phần trăm oxy! Cửa Ải Ba: Ếch Gỗ Bắc Cực chủ động đóng băng sáu mươi lăm phần trăm cơ thể, tim ngừng đập qua mặt cảm biến tầm nhiệt! Cửa Ải Bốn: Quạ Đen dùng trí tuệ giải mã chuỗi bẫy cơ học tám bước và lóa mắt camera an ninh! Cửa Ải Năm: Cá Voi Sát Thủ bắn xung sonar hai trăm hai mươi lăm đê-xi-ben quất sóng thần phá đập nước ngầm! Cửa Ải Sáu: Chim Gõ Kiến triệt tiêu một ngàn hai trăm G cùng Đại Đội Kiến Cắt Lá dùng răng thép đục sập boong-ke! Cửa Ải Bảy: Dê Núi phi thân leo vách đứng chín mươi độ và Lạc Đà vượt sa mạc năm mươi độ C hạ cầu treo! Và kho báu tối thượng là gì? Không phải vàng bạc, mà là kiệt tác tiến hóa nằm ngay trong chính bản thân mỗi loài! [question-ah] Bạn ấn tượng với siêu năng lực của đặc vụ nào nhất? Xem trọn bộ phi vụ thế kỷ trong video dài nhé, vì ở đây chỉ có mười đặc vụ quái kiệt, bảy cửa ải sinh tử, và một phi vụ thế kỷ!"
+  },
+  "mega": true
+}

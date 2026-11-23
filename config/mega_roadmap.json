@@ -1,0 +1,218 @@
+{
+ "_doc": "Lộ trình đa phong cách cho các phần phim Mega (60-80 phút) theo TASTE-76. Mỗi phần Mega sở hữu một thể loại, khung chuyện, cấu trúc chương, persona dẫn chuyện, phong cách lời thoại và mỹ thuật hoàn toàn độc bản — tuyệt đối không lặp lại mô-típ Đại Hội Sinh Tồn.",
+ "megas": [
+  {
+   "mega_no": 1,
+   "key": "mega-01",
+   "slug": "mega-01-dai-hoi-sinh-ton",
+   "episodes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "status": "published",
+   "genre": "Giải Đấu Thể Thao Sinh Tồn (Legacy Mùa 1)",
+   "title_concept": "Đại Hội Sinh Tồn #1",
+   "host_persona": "giai_dau",
+   "dialogue_style": "MC bình luận thể thao sôi nổi + Giám khảo Cú Mèo",
+   "art_style": "Whiteboard Comic 2D (Chuẩn cũ)"
+  },
+  {
+   "mega_no": 2,
+   "key": "mega-02",
+   "slug": "mega-02-dai-hoi-sinh-ton",
+   "episodes": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ],
+   "status": "published",
+   "genre": "Giải Đấu Thể Thao Sinh Tồn (Legacy Mùa 2)",
+   "title_concept": "Đại Hội Sinh Tồn Mùa 2",
+   "host_persona": "giai_dau",
+   "dialogue_style": "MC đại hội + bảng điểm",
+   "art_style": "Whiteboard Comic 2D (Chuẩn cũ)"
+  },
+  {
+   "mega_no": 3,
+   "key": "mega-03",
+   "slug": "mega-03-dai-hoi-sinh-ton",
+   "episodes": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+   ],
+   "status": "scheduled",
+   "genre": "Giải Đấu Thể Thao Sinh Tồn (Legacy Mùa 3)",
+   "title_concept": "Đại Hội Sinh Tồn Mùa 3",
+   "host_persona": "giai_dau",
+   "dialogue_style": "MC đại hội + bảng điểm",
+   "art_style": "Whiteboard Comic 2D (Chuẩn cũ)"
+  },
+  {
+   "mega_no": 4,
+   "key": "mega-04",
+   "slug": "mega-04-biet-doi-dac-nhiem-sinh-hoc",
+   "episodes": [
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+   ],
+   "animals": [
+    "Chim Cắt Lớn",
+    "Chuột Chũi Trũi",
+    "Ếch Gỗ Bắc Cực",
+    "Quạ Đen",
+    "Cá Voi Sát Thủ",
+    "Chim Gõ Kiến",
+    "Lạc Đà Sa Mạc",
+    "Dê Núi Bắc Mỹ",
+    "Chim Bách Thanh",
+    "Kiến Cắt Lá"
+   ],
+   "status": "planned",
+   "genre": "Phim Điệp Viên / Phi Vụ Thế Kỷ (Spy Thriller Comedy — kiểu Ocean's Eleven x Kingsman)",
+   "title_concept": "PHI VỤ THẾ KỶ: BIỆT ĐỘI ĐẶC NHIỆM SINH HỌC",
+   "premise": "Tổng Cục Tiến Hóa Tối Mật triệu tập 10 đặc vụ bất hảo nhất hành tinh để đột nhập 'Pháo Đài Tự Nhiên' qua 7 Cửa Ải An Ninh sinh tử (Không phận siêu thanh, Hầm ngầm 0% oxy, Kho đông lạnh -20°C, Mê cung tâm lý, Chiến hào thủy quân, Boong-ke siêu cứng, Vách đá 90° & Sa mạc 50°C). Không chấm điểm — thay bằng thanh tiến độ phá khóa từng Cửa Ải.",
+   "structure_engine": "12-14 chương: Họp giao nhiệm vụ (Briefing) -> 7 Cửa Ải Đột Nhập (mỗi cửa ải 1-2 đặc vụ phối hợp bằng sự thật khoa học 100% MỚI) -> Xen kẽ 2-3 cảnh hậu trường phòng bộ đàm (sự cố hài hước / đặc vụ cãi nhau) -> Cú Twist Cửa Ải Cuối (kho báu thực sự là gì?) -> Giải tán & Hồ sơ mật Mùa sau.",
+   "host_persona": "chi_huy_mat_vu",
+   "dialogue_style": "Giọng Chỉ Huy Trưởng Mật Vụ trầm ấm, bí hiểm, lạnh lùng nhưng cực kỳ hài kịch đen (deadpan humor). Dùng ngôn ngữ điệp viên ('mã hóa', 'cửa hậu', 'nhiễu sóng bộ đàm', 'điệp vụ bất khả thi', 'đồng đội bóp nhau').",
+   "cameo_chemistry": [
+    "Quạ Đen liên tục chen vào bộ đàm đòi tăng lương và cà khịa chỉ huy",
+    "Chuột Chũi Trũi đào nhầm sang phòng ăn của căn cứ",
+    "Cá Voi Sát Thủ chỉ huy nhóm thủy quân bằng tiếng lóng Mafia",
+    "Lạc Đà Sa Mạc nhai xương rồng rộp rộp làm nhiễu mic toàn đội"
+   ],
+   "art_style": "Retro Spy-Fi & Classified Dossier Graphic Novel (Thập niên 1960 Cold War Comic Art): nét mực cọ sắc bén, bóng đổ tương phản mạnh, giấy hồ sơ mật kraft ngả vàng, tông màu xanh rêu quân sự, đen tuyền, đỏ mật lệnh TOP SECRET và ánh sáng xanh radar.",
+   "banner_and_hud_theme": "Thẻ an ninh điệp viên có mã vạch & con dấu mực đỏ 'TUYỆT MẬT', khung ống nhòm nhìn đêm (night-vision), tia laser chỉ điểm và tâm ngắm tọa độ quân sự."
+  },
+  {
+   "mega_no": 5,
+   "key": "mega-05",
+   "slug": "mega-05-phong-cap-cuu-tao-hoa",
+   "episodes": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+   ],
+   "animals": [
+    "Nhện Lặn Chuông",
+    "Cá Thoi Loi",
+    "Ong Bắp Cày Ngọc",
+    "Cá Mặt Trăng",
+    "Vẹt Kakapo",
+    "Lợn Rừng Babirusa",
+    "Hươu Cao Cổ",
+    "Cò Mỏ Giày",
+    "Nhím Lông Nhọn",
+    "Khỉ Đột Lưng Bạc"
+   ],
+   "status": "planned",
+   "genre": "Phim Y Khoa Hài Châm Biếm (Medical Drama Comedy — kiểu House M.D. x Scrubs)",
+   "title_concept": "PHÒNG CẤP CỨU TẠO HÓA: CA TRỰC ĐÊM KINH HOÀNG",
+   "premise": "Một đêm trực bão táp tại Bệnh Viện Đa Khoa Tiến Hóa, 10 'bệnh nhân lỗi thiết kế' cùng lúc nhập viện với các triệu chứng trái quy luật sinh học. Các bác sĩ phải hội chẩn qua 6 Khoa Chuyên Môn (Khoa Thần Kinh, Khoa Chỉnh Hình, Khoa Hô Hấp Ngược, Khoa Tâm Lý Bất Ổn, Khoa Tuần Hoàn Áp Suất Cao, Khoa Tiêu Hóa Khí Gas).",
+   "structure_engine": "12-14 chương: Nhận ca trực đêm -> 6 Khoa Khám & Hội Chẩn (sự thật khoa học 100% MỚI giải mã vì sao 'lỗi thiết kế' lại là tuyệt chiêu sinh tồn) -> Xen kẽ 2-3 cảnh phòng chờ cấp cứu (bệnh nhân quậy phá, y tá kêu trời) -> Buổi Giao Ban Bình Minh (Plot twist: Bệnh nhân tưởng 'vô phương cứu chữa' nhất lại là bậc thầy thích nghi).",
+   "host_persona": "bac_si_truong_khoa",
+   "dialogue_style": "Giọng Bác Sĩ Trưởng Khoa sắc sảo, mỉa mai nhưng cực kỳ yêu nghề kiểu House M.D. Việt hóa thuật ngữ y khoa thành tiếng cười ('kê đơn thuốc bổ não', 'chụp X-quang thấy toàn khí gas', 'bệnh nhân từ chối tiến hóa bình thường'), nhịp điệu dồn dập của ca cấp cứu xen các cú thở dài bất lực.",
+   "cameo_chemistry": [
+    "Vẹt Kakapo liên tục đòi trèo lên tủ thuốc nhảy xuống đất chứng minh mình biết bay",
+    "Cá Mặt Trăng nằm im trên cáng không phản ứng khiến máy đo nhịp tim báo lỗi",
+    "Ong Bắp Cày Ngọc cứ giành dao phẫu thuật thần kinh của bác sĩ",
+    "Cò Mỏ Giày đứng im như tượng đá ngoài hành lang làm y tá giật mình tưởng ma"
+   ],
+   "art_style": "Vintage Anatomical Atlas & 1950s Retro Hospital Illustration: tranh giải phẫu y khoa cổ điển nét vẽ tinh xảo kết hợp màu sắc áp-phích tạp chí y tế thập niên 50 — tông xanh phẫu thuật (surgical teal), trắng ngà bệnh án, đỏ nhịp tim ECG và lát cắt X-quang phát sáng.",
+   "banner_and_hud_theme": "Bảng kẹp bệnh án y khoa (clipboard), màn hình monitor chạy sóng nhịp tim ECG, nhãn đơn thuốc bệnh viện, mũi tên xung nhịp và vòng quét X-quang.",
+   "seo_title_plan": {
+    "title": "10 Sinh Vật Kỳ Lạ Nhất Thế Giới Cùng Nhập Viện Lúc Nửa Đêm?!",
+    "alternatives": [
+     "Phòng Cấp Cứu Tạo Hóa: 10 Động Vật Kỳ Lạ Nhất Hành Tinh",
+     "Bác Sĩ Khám 10 Động Vật Kỳ Lạ Nhất Thế Giới Trong 1 Đêm"
+    ],
+    "why": "Tên loài 41-50 hầu như không ai tìm (kakapo trung vị 165 view, ong bắp cày ngọc 709) nhưng cụm 'động vật/sinh vật kỳ lạ nhất thế giới' trung vị 163.000-243.000 view, 13-14 gợi ý tìm. Bán bằng chủ đề rộng, giữ khung Phòng Cấp Cứu trong nội dung (roast 23/11, thử nghiệm #1).",
+    "lead_order": "Mở bằng Khỉ Đột (trung vị 44.661, video 'sức mạnh khủng khiếp' 269×) và Cá Thòi Lòi (có ở Cà Mau, video 716.205 view) — hai loài người Việt biết; Kakapo/Babirusa/Ong Bắp Cày Ngọc để giữa video.",
+    "proof": "mtzVxKaUNpo (11,4×), D1fG3lz6T9s (269×), 1ADREUhfXmQ, Qm6_MacvNvo (8,6×)"
+   }
+  },
+  {
+   "mega_no": 6,
+   "key": "mega-06",
+   "slug": "mega-06-chuyen-tau-toc-hanh-bi-an",
+   "episodes": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
+   ],
+   "animals": [
+    "Rắn Hổ Mang Chúa",
+    "Cá Sấu Nước Mặn",
+    "Cá Voi Xanh",
+    "Rồng Komodo",
+    "Cá Mập Megalodon",
+    "Tê Tê",
+    "Cá Mập Trắng",
+    "Đại Bàng Harpy",
+    "Tắc Kè Hoa",
+    "Linh Cẩu Đốm"
+   ],
+   "status": "planned",
+   "genre": "Trinh Thám Cổ Điển Trên Chuyến Tàu (Classic Whodunit Mystery — kiểu Orient Express x Knives Out)",
+   "title_concept": "CHUYẾN TÀU TỐC HÀNH XUYÊN ĐÊM: 10 TOA BÍ ẨN",
+   "premise": "Chuyến tàu hơi nước 'Hoang Dã Express' chạy xuyên qua 7 vùng khí hậu khắc nghiệt trong đêm bão tuyết chở 10 hành khách kỳ dị. Khi còi tàu hú lên ở đường hầm, 'Viên Ngọc Tiến Hóa' đột nhiên biến mất! Thám tử phải đi qua từng toa tàu thẩm vấn từng nghi phạm và vén màn những bí mật sinh học gây sốc chưa từng kể ở tập lẻ.",
+   "structure_engine": "12-14 chương: Khởi hành & Vụ mất tích bí ẩn -> 7 Toa Tàu Thẩm Vấn (Toa Đáy Vực, Toa Hồ Axit, Toa Rừng Nhiệt Đới, Toa Thảo Nguyên, Toa Khoang Hạng Nhất...) -> Xen kẽ 2-3 cảnh Toa Ăn Uống (các hành khách tố cáo lẫn nhau cực hài) -> Màn Tập Hợp Phá Án Kinh Điển ở Toa Cuối (cú lật kèo giải oan cho loài bị hiểu lầm nhiều nhất).",
+   "host_persona": "tham_tu_co_dien",
+   "dialogue_style": "Giọng Thám Tử Cổ Điển lịch lãm, ma mị, trào phúng kiểu Hercule Poirot / Benoit Blanc. Nhịp kể chậm rãi có điểm nhấn điện ảnh, nhiều câu hỏi tu từ móc ngoéo ('Quý vị có để ý thấy điều gì bất thường trên chiếc vây của ngài Cá Nóc không?'), phân tích manh mối khoa học như phá án hình sự.",
+   "cameo_chemistry": [
+    "Tắc Kè Hoa đổi màu liên tục từ xanh sang đỏ mỗi khi bị hỏi cung",
+    "Rắn Hổ Mang Chúa dựng đứng 1/3 thân nhìn thẳng mặt thám tử mỗi khi bị nghi ngờ",
+    "Linh Cẩu Đốm liên tục đòi lật đổ trưởng tàu để thiết lập chế độ nữ quyền trên tàu",
+    "Tê Tê cứ bị hỏi khó là cuộn tròn thành quả bóng lăn dọc hành lang toa tàu",
+    "Cá Mập Trắng xin đổi toa ngay khi nghe tin Cá Voi Sát Thủ (Mega 04) lên tàu"
+   ],
+   "art_style": "Art Deco Noir & Golden Age 1930s Travel Poster: phong cách Art Deco thập niên 1930 sang trọng đậm chất điện ảnh Noir, khung viền hình học mạ vàng ánh kim, ánh đèn lồng ấm áp tương phản bóng đêm xanh thẫm (midnight indigo) và làn khói tàu hơi nước.",
+   "banner_and_hud_theme": "Vé tàu hỏa cổ điển đục lỗ (Vintage Train Ticket), bảng số toa bằng đồng thau Art Deco, kính lúp trinh thám và sợi chỉ đỏ nối manh mối.",
+   "_note": "Đổi 23/11/2026 theo nhu cầu tìm kiếm thật (docs/research/video-ideation_mega05_tap51-60_2026-11-23.md)."
+  }
+ ]
+}

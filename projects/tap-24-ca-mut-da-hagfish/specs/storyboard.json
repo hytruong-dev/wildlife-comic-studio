@@ -1,0 +1,850 @@
+{
+ "_doc": "Storyboard Tập 24: Cá Mút Đá Hagfish (Format F5 - Thử thách 5 cấp độ tạo đờm). Mỗi câu/ý thoại = 1 beat = 1 ảnh riêng.",
+ "characters": {
+  "HERO": "chú Cá Mút Đá Hagfish (Myxini) hoạt hình màu hồng xám trơn nhẫy như sợi dây thừng dài, thân uốn lượn mềm mại, đầu tròn không có hàm răng, hai mắt tròn ngộ nghĩnh, đeo một chiếc kính bảo hộ phòng lab tròn xoe trên trán",
+  "HERO_S": "chú Cá Mút Đá Hagfish hồng xám trơn nhẫy, thân dài uốn lượn, kính bảo hộ tròn trên trán",
+  "NO_HERO": "KHÔNG có chú cá mút đá đeo kính bảo hộ trên trán trong cảnh này",
+  "PROFESSOR": "ông viện trưởng phòng thí nghiệm hoạt hình tóc xù bạc, mặc áo blouse trắng, vẻ mặt thông thái hài hước",
+  "ASSISTANT": "cô trợ lý phòng thí nghiệm hoạt hình mặc áo blouse xanh nhạt đeo thẻ nhân viên",
+  "SHARK": "chú cá mập xám hung dữ răng nhọn hoắt há to miệng ngạt thở hài hước"
+ },
+ "side_characters": [
+  "PROFESSOR",
+  "ASSISTANT",
+  "SHARK"
+ ],
+ "shorts_side_characters": [
+  "SHARK"
+ ],
+ "shorts_title_lines": [
+  "BIẾN 20 LÍT NƯỚC",
+  "THÀNH KEO NHỚT?!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Phòng thí nghiệm đáy biển sâu ca trực rạng sáng: {PROFESSOR} và {ASSISTANT} đứng trước bể cách ly số 24 phát sáng ánh huỳnh quang tím. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Giữa đáy nước lạnh",
+   "layout": "Bên trong làn nước lạnh ngắt, {HERO} dài ngoằng trơn nhẫy như sợi dây thừng màu hồng xám đang cuộn tròn bồng bềnh dưới đáy bể.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Không có hàm răng",
+   "layout": "Bốn ô đồ họa chẩn đoán gạch chéo đỏ: không có hàm răng trên dưới, không có cột sống lưng, không có vây bơi, và đôi mắt mờ đục. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Viện trưởng ơi, mẫu",
+   "layout": "BÊN TRÁI {ASSISTANT} lo lắng nhìn vào bể kính tưởng tượng chú cá mút đá bị con cá mập to nuốt chửng; BÊN PHẢI {HERO} trôi lờ đờ ngơ ngác.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Trợ lý ngây thơ",
+   "layout": "{PROFESSOR} bật cười lắc ngón tay chỉ lên màn hình: hình ảnh con cá mập phải gọi xe cứu thương cấp cứu vì trót đớp phải cá mút đá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Xin giới thiệu với",
+   "layout": "Bản đồ cây tiến hóa đại dương cổ đại giới thiệu lớp Myxini có hộp sọ nguyên thủy nhất; {HERO} uốn lượn đội chiếc vương miện cổ xưa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chiều dài trung bình",
+   "layout": "Ở GIỮA {HERO} nằm thẳng cạnh chiếc thước đo chiều cao màu vàng 40-80cm của phòng thí nghiệm.",
+   "stickers": [
+    {
+     "at": "40-80cm",
+     "side": "R",
+     "y": 350,
+     "value": "40-80 CM",
+     "label": "chiều dài cơ thể",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Trong giới sinh vật",
+   "layout": "{HERO} tự hào đeo dải băng danh hiệu Cỗ Máy Tạo Đờm, xung quanh bắn ra những giọt bọt nước phát sáng ngộ nghĩnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tổ tiên của nó",
+   "layout": "Dòng thời gian 300 triệu năm: tổ tiên {HERO} bơi tung tăng dưới đáy biển kỷ Phấn trắng trước cả thời khủng long bạo chúa T-Rex đứng trên bờ gầm rú.",
+   "stickers": [
+    {
+     "at": "300 triệu năm",
+     "side": "L",
+     "y": 350,
+     "value": "300 TR NĂM",
+     "label": "sống trước khủng long",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Toàn bộ cơ thể",
+   "layout": "Mặt cắt giải phẫu trong suốt của {HERO}: hộp sọ bằng sụn dẻo và 4 quả tim độc lập màu đỏ tươi đang đập rộn ràng bơm máu khắp thân.",
+   "stickers": [
+    {
+     "at": "4 quả tim",
+     "side": "R",
+     "y": 350,
+     "value": "4 QUẢ TIM",
+     "label": "bơm máu độc lập",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Và thứ vũ khí",
+   "layout": "{HERO} phóng ra một làn sóng chất nhầy bọt trắng bao phủ cả một vùng nước biển làm một đàn cá săn mồi ho sặc sụa dạt ra xa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đêm nay, tôi tuyên",
+   "layout": "{PROFESSOR} gạt cần gạt lớn; bảng đèn LED bật sáng dòng chữ THỬ THÁCH 5 CẤP ĐỘ CỰC HẠN.",
+   "stickers": [
+    {
+     "at": "5 cấp độ",
+     "side": "L",
+     "y": 350,
+     "value": "5 CẤP ĐỘ",
+     "label": "thử thách phòng lab",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Bảng điện tử hiện CẤP ĐỘ 1: THỬ THÁCH CÔNG SUẤT PHÓNG CHẤT NHẦY; {HERO} có làn da mềm mại như chiếc áo khoác quá khổ lỏng lẻo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng nếu bạn soi",
+   "layout": "Kính hiển vi chạy dọc hai bên sườn {HERO}: hiển thị từ 100 đến 150 lỗ chân lông đặc biệt là miệng xả của các túi tuyến chất nhầy.",
+   "stickers": [
+    {
+     "at": "150",
+     "side": "R",
+     "y": 350,
+     "value": "150 LỖ",
+     "label": "dọc hai bên sườn",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Hãy quan sát thí",
+   "layout": "Một chiếc que gắp phòng lab chạm nhẹ vào thân {HERO}; các túi tuyến hai bên sườn lập tức bóp mạnh chuẩn bị khai hỏa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "bắn ra một lượng",
+   "layout": "Túi tuyến bắn ra một giọt dịch đục nhỏ bằng hạt đậu rơi vào nước biển, bắt đầu phản ứng dây chuyền nổ tung.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chỉ trong vòng đúng",
+   "layout": "Đồng hồ cát siêu tốc đếm 0,4 giây nhấp nháy đỏ rực; giọt dịch nhỏ chạm vào nước biển phát nổ dây chuyền thần tốc.",
+   "stickers": [
+    {
+     "at": "0,4 giây",
+     "side": "L",
+     "y": 350,
+     "value": "0,4 GIÂY",
+     "label": "tốc độ bùng nổ",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "giọt dịch nhỏ xíu",
+   "layout": "Giọt dịch trương nở 10.000 lần, biến toàn bộ 20 lít nước biển xung quanh thành một khối keo nhớt đặc quánh sánh mịn như xô thạch khổng lồ.",
+   "stickers": [
+    {
+     "at": "10.000 lần",
+     "side": "R",
+     "y": 350,
+     "value": "10.000 LẦN",
+     "label": "trương nở thể tích",
+     "target": [
+      0.65,
+      0.45
+     ]
+    },
+    {
+     "at": "20 lít",
+     "side": "L",
+     "y": 480,
+     "value": "20 LÍT KEO",
+     "label": "từ một giọt dịch",
+     "target": [
+      0.32,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Làm thế nào mà",
+   "layout": "{PROFESSOR} cầm chiếc kính lúp to tướng soi vào giọt dịch phát sáng, đặt dấu hỏi lớn về tốc độ tạo keo nhớt phi thường. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tiến sĩ Douglas Fudge",
+   "layout": "Tiến sĩ Douglas Fudge tại phòng lab soi kính hiển vi: bên trong giọt dịch chứa hàng ngàn cuộn sợi tơ protein keratin cuộn tròn như cuộn chỉ may.",
+   "stickers": [
+    {
+     "at": "Douglas Fudge",
+     "side": "L",
+     "y": 350,
+     "value": "D. FUDGE",
+     "label": "giải mã sợi tơ",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khi gặp nước biển",
+   "layout": "Sơ đồ hiển vi: các cuộn chỉ tơ keratin bung sợi với vận tốc cực nhanh, đan xen vào các hạt chất nhầy hút giữ chặt mọi phân tử nước biển.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Kết quả tạo ra",
+   "layout": "Một khối mạng lưới chất lỏng đàn hồi siêu nhớt bao bọc lấy kẻ thù; một con cá săn mồi há hốc mồm ngập ngụa trong đờm nhầy nhụa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Viện trưởng ơi, em",
+   "layout": "{ASSISTANT} nhấc một chiếc muôi to cắm vào xô nước biển 5 gallon có {HERO}, cả xô nước đông đặc nhấc bổng cả khối thạch lên mặt bàn.",
+   "stickers": [
+    {
+     "at": "5 gallon",
+     "side": "R",
+     "y": 350,
+     "value": "5 GALLON",
+     "label": "đông đặc cả xô",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Trợ lý chứng kiến",
+   "layout": "Biểu đồ tròn so sánh: 0,1% sợi tơ protein giữ trọn 99,9% nước biển xung quanh.",
+   "stickers": [
+    {
+     "at": "0,1%",
+     "side": "L",
+     "y": 350,
+     "value": "0,1% TƠ",
+     "label": "giữ 99,9% nước",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tận dụng chính nước",
+   "layout": "{HERO} bơi kiêu hãnh giữa làn nước trong bể; bảng Cấp độ 1 bật đèn xanh PASS rực rỡ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Bảng điện tử hiện CẤP ĐỘ 2: BÓP NGHẸT CHÚA TỂ ĐẠI DƯƠNG; {PROFESSOR} chỉ lên sơ đồ chuỗi thức ăn đáy biển sâu. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khi nhìn thấy Cỗ Máy",
+   "layout": "{SHARK} hung dữ há rộng bộ hàm sắc nhọn lao tới đớp {HERO} đang bơi lững lờ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khoảnh khắc hàm cá",
+   "layout": "Hàm cá mập vừa nghiến vào lớp da cá mút đá, túi tuyến khai hỏa bùng nổ 20 lít chất nhầy trắng đặc ngay trong họng {SHARK}.",
+   "stickers": [
+    {
+     "at": "20 lít",
+     "side": "R",
+     "y": 350,
+     "value": "20 LÍT ĐỜM",
+     "label": "nổ trong miệng",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Điều kinh hoàng bắt",
+   "layout": "Sơ đồ hô hấp cá mập: cá mập hút nước vào miệng rồi ép qua các khe mang hai bên để lọc oxy. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng khối chất nhầy của",
+   "layout": "Sợi tơ keratin trong chất nhầy dãn dài quấn chặt bít kín mít toàn bộ các khe mang thở của cá mập như mạng nhện cao su. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Báo cáo viện trưởng,",
+   "layout": "{ASSISTANT} reo lên chỉ tay vào màn hình cảm biến: {SHARK} đang quằn quại lắc đầu dữ dội, ho sặc sụa và nhả {HERO} ra ngay lập tức.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đúng thế các đồng",
+   "layout": "{PROFESSOR} giải thích: bị bít kín mang là đồng nghĩa với việc bị bóp nghẹt khí quản nghẹt thở đến chết chỉ trong vài giây. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Con cá mập hoảng",
+   "layout": "{SHARK} ho khạc hoảng loạn tống mớ đờm ra ngoài và tháo chạy bạt mạng khỏi đáy biển.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Các video gắn camera",
+   "layout": "Màn hình camera đáy biển sâu ghi nhận 100% kẻ săn mồi cá mập và cá chình đều tháo chạy; bảng Cấp độ 2 bật PASS.",
+   "stickers": [
+    {
+     "at": "100%",
+     "side": "R",
+     "y": 350,
+     "value": "100% CHẠY",
+     "label": "không dám ăn",
+     "target": [
+      0.68,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Bảng điện tử hiện CẤP ĐỘ 3: NGHỆ THUẬT TỰ THẮT NÚT CƠ THỂ; {PROFESSOR} đặt bài toán sinh tử khi đờm bám kín thân cá mút đá. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "nếu không dọn sạch lớp",
+   "layout": "{HERO} phủ đầy chất nhầy nhớt bốc mùi đang tìm cách giải cứu chính mình, không chân không vây.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và đây là lúc",
+   "layout": "{HERO} uốn cong chiếc đuôi, tự luồn cơ thể mình qua một vòng tròn tạo thành nút thắt hình số tám quanh thân cực kỳ điêu luyện.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Sau đó, nó co",
+   "layout": "{HERO} co bóp các bó cơ dọc sống lưng để trượt nút thắt di chuyển từ đầu xuống đuôi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chiếc nút thắt di động",
+   "layout": "Vòng thắt di động hình số tám trượt dọc thân như chiếc cần gạt nước ô tô, lau sạch bong toàn bộ lớp bọt nhớt trôi tuột ra ngoài trong vài giây.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chưa hết đâu các",
+   "layout": "Dưới đáy biển sâu bên cạnh tảng thức ăn biển: {HERO} cắm đĩa lưỡi gai sừng keratin bám chắc vào khối thức ăn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "rồi thắt nút cơ thể",
+   "layout": "{HERO} thắt nút cơ thể tỳ mạnh vào tảng thịt tạo đòn bẩy xé toạc từng mảng thịt ngon lành.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "nó lấy chính cơ thể",
+   "layout": "{HERO} uốn thân tạo đòn bẩy cơ học thông minh như chiếc cờ-lê, mặt cười toe toét thưởng thức bữa ăn ngon lành dưới đáy biển.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đặc biệt nhất, khi",
+   "layout": "Khung cảnh đáy biển sâu tối thẫm: {HERO} lặn sâu vào nơi nồng độ oxy gần bằng không mà vẫn bơi lội khỏe mạnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "nó có thể hấp thụ",
+   "layout": "Mặt cắt da {HERO}: các phân tử axit amin và dưỡng chất thấm trực tiếp qua da và mang vào máu.",
+   "stickers": [
+    {
+     "at": "axit amin",
+     "side": "R",
+     "y": 350,
+     "value": "ĂN QUA DA",
+     "label": "hấp thụ axit amin",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đây là loài động",
+   "layout": "So sánh tiến hóa: {HERO} là loài có xương sống duy nhất ăn bằng da như giun biển nguyên thủy; bảng Cấp độ 3 bật PASS rực rỡ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Bảng điện tử hiện CẤP ĐỘ 4: KHẢO NGHIỆM SỰ KIỆN OREGON 2017; {PROFESSOR} giở tài liệu thời gian. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "thì hãy quay ngược thời",
+   "layout": "Tấm biển Quốc lộ 101 bang Oregon nước Mỹ mở ra trên màn hình với ngày 13/7/2017. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "Quốc lộ 101",
+     "side": "L",
+     "y": 350,
+     "value": "QL 101",
+     "label": "tai nạn Oregon 2017",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Báo cáo cảnh sát",
+   "layout": "Chiếc xe tải chở 7.500 pound (3.400kg) cá mút đá sống gặp sự cố phanh gấp và lật nhào ngang giữa đường cao tốc nhựa đen. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "7.500 pound",
+     "side": "R",
+     "y": 350,
+     "value": "3.400 KG",
+     "label": "cá mút đá sống",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Hàng ngàn chú cá",
+   "layout": "Hàng ngàn chú cá mút đá văng ra khỏi thùng chứa, rơi lộp độp xuống mặt đường nhựa nóng rực.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đồng loạt hàng ngàn Cỗ",
+   "layout": "Hàng tấn chất nhầy nhớt bao phủ kín mít mặt đường cao tốc và trùm lên một chiếc xe ô tô con màu trắng như phim quái vật ngoài hành tinh. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đội cứu hỏa và",
+   "layout": "Máy ủi đất và lính cứu hỏa cầm vòi rồng phun nước cật lực dọn dẹp bãi chiến trường nhầy nhụa trơn như đổ mỡ trên đường cao tốc. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Vụ tai nạn trở thành",
+   "layout": "Các mặt báo quốc tế giật tít sốt dẻo về bãi đờm khổng lồ phong tỏa cao tốc Oregon. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Từ sự kiện chấn",
+   "layout": "Các nhà khoa học vật liệu quân sự của Hải quân Mỹ vào cuộc nghiên cứu cấu trúc phân tử sợi tơ của cá mút đá trên kính hiển vi. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Kết quả cho thấy",
+   "layout": "Phóng đại sợi tơ protein keratin mỏng gấp 100 lần sợi tóc người nhưng có độ bền kéo và độ dẻo dai tương đương tơ nhện và sợi ni-lông nhân tạo. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "100",
+     "side": "L",
+     "y": 350,
+     "value": "1/100 TÓC",
+     "label": "bền ngang tơ nhện",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Người ta đang nghiên",
+   "layout": "Mô hình ứng dụng tương lai: áo giáp chống đạn dệt từ tơ cá mút đá, chỉ khâu phẫu thuật tự tiêu và bình cứu hỏa sinh học; bảng Cấp độ 4 bật PASS. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Bảng điện tử chớp sáng chữ CẤP ĐỘ TỐI THƯỢNG: TRÙM CUỐI ĐẠI DƯƠNG; {PROFESSOR} khoanh tay trầm ngâm suy nghĩ trước bể nuôi. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chẳng lẽ quái vật này",
+   "layout": "Mô hình đồ họa 4 chiến tích của cá mút đá đặt cạnh dấu hỏi lớn: liệu sinh vật này có khắc tinh tự nhiên nào không? {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và đây là câu",
+   "layout": "Một bông hải quỳ ăn thịt khổng lồ dưới đáy biển và chim biển xuất hiện như những sinh vật không hề có mang thở. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hải quỳ săn mồi bằng",
+   "layout": "Hải quỳ dùng các xúc tu châm nọc nuốt trọn cá mút đá qua khoang bụng mở mà không cần mang thở, chất nhầy bị vô hiệu hóa hoàn toàn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Tổng kết ghi chép",
+   "layout": "{PROFESSOR} giơ tấm bảng điểm 10 tuyệt đối trao cho {HERO}; cả phòng lab vỗ tay khen ngợi cỗ máy phòng thủ chất nhầy kỳ dị nhất.",
+   "stickers": [
+    {
+     "at": "điểm 10",
+     "side": "R",
+     "y": 350,
+     "value": "ĐIỂM 10",
+     "label": "phòng thủ chất nhầy",
+     "target": [
+      0.58,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Còn các trợ lý",
+   "layout": "Hai bàn cân lựa chọn: BÊN TRÁI biểu tượng xô nước biến thành keo nhớt trong 1 giây; BÊN PHẢI biểu tượng tự thắt nút cơ thể hình số 8, các bạn nhỏ giơ thẻ bình luận. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hồ sơ phòng thí",
+   "layout": "{PROFESSOR} đóng tập hồ sơ số 24 lại, ánh đèn chuyển sang ánh sáng mờ ảo của thế giới ngầm đại dương với bản đồ kho báu bí ẩn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một sinh vật sở",
+   "layout": "Một sinh vật bí ẩn được vẽ hoàn toàn bằng BÓNG ĐEN ĐẶC TUYỀN (solid black silhouette) hình bạch tuộc 8 xúc tu uốn lượn, bên trong hiện đồ họa 9 bộ não nhỏ phát sáng, 3 quả tim và dòng máu xanh lam, có dấu hỏi chấm vàng to tướng phía trên; KHÔNG vẽ rõ mắt hay màu da. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "9 bộ não",
+     "side": "L",
+     "y": 350,
+     "value": "9 NÃO",
+     "label": "siêu điệp viên biển",
+     "target": [
+      0.35,
+      0.45
+     ]
+    },
+    {
+     "at": "3 trái tim",
+     "side": "R",
+     "y": 480,
+     "value": "3 TIM",
+     "label": "máu màu xanh lam",
+     "target": [
+      0.68,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "và sở hữu tài hóa trang",
+   "layout": "Chiếc BÓNG ĐEN ĐẶC TUYỀN bí ẩn có 8 xúc tu đang biến hình thành các loài sinh vật biển kịch độc như rắn biển và cá mao tiên. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "15 loài",
+     "side": "R",
+     "y": 350,
+     "value": "15 LOÀI",
+     "label": "tuyệt kỹ biến hình",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đố các bạn biết",
+   "layout": "Chiếc BÓNG ĐEN ĐẶC TUYỀN bí ẩn nằm giữa ba dấu hỏi chấm vàng cam lấp lánh mời gọi khán giả bình luận đoán tên con vật kỳ sau. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Khung dọc: con cá mập há to hàm răng nhọn hoắt vừa đớp vào {HERO}.",
+   "stickers": []
+  },
+  {
+   "at": "loài vật này có thể",
+   "layout": "Túi tuyến bùng nổ 20 lít chất nhầy đặc quánh làm cá mập nghẹt thở ho sặc sụa trong 0,4 giây.",
+   "stickers": [
+    {
+     "at": "20 lít",
+     "side": "R",
+     "y": 560,
+     "value": "20 LÍT KEO",
+     "label": "trong 0,4 giây",
+     "target": [
+      0.58,
+      0.48
+     ]
+    }
+   ]
+  },
+  {
+   "id": "S10",
+   "at": "chỉ trong 0,4 giây",
+   "layout": "Đồng hồ siêu tốc đếm 0,4 giây nhấp nháy, một khối keo nhớt đặc quánh bùng nổ bao phủ cả miệng con cá mập.",
+   "stickers": []
+  },
+  {
+   "at": "Đây là Cá Mút",
+   "layout": "{HERO} bơi bảnh bao hình sợi dây thừng dài 0,5m dưới đáy biển sâu, bên cạnh chiếc thước đo chiều cao màu vàng.",
+   "stickers": [
+    {
+     "at": "300 triệu năm",
+     "side": "L",
+     "y": 720,
+     "value": "300 TR NĂM",
+     "label": "cổ đại không xương",
+     "target": [
+      0.42,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Cơ thể nó không",
+   "layout": "Đồ họa giải phẫu trong suốt của {HERO}: không có xương sống, 4 quả tim đỏ đang đập rộn ràng và hàng trăm lỗ xả chất nhầy hai bên sườn.",
+   "stickers": [
+    {
+     "at": "4 quả tim",
+     "side": "R",
+     "y": 620,
+     "value": "4 QUẢ TIM",
+     "label": "bơm máu độc lập",
+     "target": [
+      0.62,
+      0.52
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Khi bị tấn công,",
+   "layout": "Các sợi tơ protein dãn nở gấp 10.000 lần quấn chặt bít kín mít các khe mang thở của cá mập.",
+   "stickers": [
+    {
+     "at": "10.000 lần",
+     "side": "L",
+     "y": 650,
+     "value": "10.000 LẦN",
+     "label": "dãn nở bít mang",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "khiến kẻ đi săn ho",
+   "layout": "Con cá mập ho sặc sụa quằn quại nhả vội cá mút đá ra ngoài và tháo chạy bạt mạng.",
+   "stickers": []
+  },
+  {
+   "at": "Để gạt sạch đờm",
+   "layout": "{HERO} tự luồn đuôi thắt nút cơ thể hình số tám từ đầu đến đuôi như chiếc cần gạt nước cạo sạch bong lớp đờm dính.",
+   "stickers": []
+  },
+  {
+   "at": "2017, một xe",
+   "layout": "Chiếc xe tải chở 3.400kg cá mút đá lật nhào trên cao tốc Oregon 2017.",
+   "stickers": [
+    {
+     "at": "3.400kg",
+     "side": "R",
+     "y": 650,
+     "value": "3.400 KG",
+     "label": "lật xe Oregon 2017",
+     "target": [
+      0.58,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "id": "S11",
+   "at": "đã biến cả đường",
+   "layout": "Mặt đường cao tốc biến thành biển chất nhầy nhớt bọt trắng xóa trơn trượt làm ngã xe cộ cứu hỏa.",
+   "stickers": []
+  },
+  {
+   "at": "Một cỗ máy tạo",
+   "layout": "Chân dung {HERO} uốn lượn tỏa hào quang ngầu lòi giữa đại dương, đeo kính bảo hộ phòng lab với nụ cười tự hào của kẻ bất khả chiến bại.",
+   "stickers": []
+  }
+ ]
+}

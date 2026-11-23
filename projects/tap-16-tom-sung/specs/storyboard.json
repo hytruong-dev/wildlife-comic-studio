@@ -1,0 +1,848 @@
+{
+ "_doc": "Storyboard Tập 16 — Tôm Súng (Alpheidae) F2 Kỹ Sư Vũ Khí. Chạy: python src/episode/build_plans.py projects/tap-16-tom-sung",
+ "characters": {
+  "HERO": "chú Tôm Súng hoạt hình màu cam đỏ rực rỡ, mắt to lồi tinh nghịch lấp lánh, một chiếc càng súng khổng lồ bên phải to bằng nửa thân mình với rãnh pit-tông cơ khí, đầu đội một chiếc mũ bảo hộ công trình màu vàng (yellow safety hard hat) nổi bật",
+  "HERO_S": "chú Tôm Súng hoạt hình màu cam đỏ, càng súng khổng lồ bên phải, đội mũ bảo hộ vàng",
+  "NO_HERO": "KHÔNG có chú Tôm Súng đội mũ bảo hộ trong cảnh này",
+  "GOBY": "chú cá bống biển Goby hoạt hình màu vàng cát sọc xanh, mắt to lồi tròn xoe tinh ranh như kính viễn vọng, vây lưng dựng đứng như cột ăng-ten rada cảnh giới",
+  "FISH": "chú cá con hoạt hình màu xanh biển ngơ ngác, mắt tròn xoe quay vòng hoa mắt vì choáng váng",
+  "SUBMARINE": "chiếc tàu ngầm hải quân màu xám đậm khổng lồ với tháp chỉ huy và các cảm biến vòm sonar phía trước",
+  "ASSISTANT": "cô trợ lý sóc hoạt hình đeo kính cận to tròn, mặc áo blouse trắng phòng thí nghiệm, cầm bảng kẹp tài liệu"
+ },
+ "side_characters": [
+  "GOBY",
+  "FISH",
+  "SUBMARINE",
+  "ASSISTANT"
+ ],
+ "shorts_side_characters": [
+  "GOBY",
+  "SUBMARINE"
+ ],
+ "shorts_title_lines": [
+  "ĐẠI BÁC 218 DECIBEL:",
+  "NÓNG 5.000 ĐỘ C!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Phòng nghiên cứu vũ khí hải quân tối mật: một tập hồ sơ mật màu đỏ thẫm đóng dấu 'MẬT CẤP ĐỘ ĐỎ' nằm giữa bàn kim loại công nghệ cao, xung quanh là màn hình radar và thiết bị đo sóng âm. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Toàn đội kỹ thuật",
+   "layout": "BẢNG CẢNH BÁO NGUY HIỂM: một biển báo tam giác vàng vẽ chiếc tai người và sóng âm thanh nứt vỡ, kèm tai nghe chống ồn công nghiệp hạng nặng treo bên cạnh; các vạch sóng âm đo đạc nhảy loạn xạ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Quên đi những hàm",
+   "layout": "Đáy biển sâu huyền bí: BÊN TRÁI hàm răng cá mập khổng lồ và xúc tu bạch tuộc mờ ảo; BÊN PHẢI một khe đá ngầm san hô tối tăm phát ra ánh sáng bí ẩn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đối tượng mang mã",
+   "layout": "Chân dung phóng to hài hước: {HERO} đứng giữa khung hình, thân hình bé xíu nằm lọt thỏm trên thước đo milimet, mũ bảo hộ vàng lệch một bên, tay chống nạnh vẻ mặt tự tin ngầu lòi.",
+   "stickers": [
+    {
+     "at": "số 16",
+     "side": "L",
+     "y": 380,
+     "value": "MÃ SỐ 16",
+     "label": "đối tượng thử nghiệm",
+     "target": [
+      0.3,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chiều dài cơ thể",
+   "layout": "So sánh kích thước trực quan: BÊN TRÁI {HERO} đứng cạnh một ngón tay người khổng lồ, thước dây chỉ đúng vạch 4cm; bên cạnh là chiếc cân tiểu ly đo trọng lượng vài gam.",
+   "stickers": [
+    {
+     "at": "3-5cm",
+     "side": "R",
+     "y": 380,
+     "value": "3-5cm",
+     "label": "chiều dài cơ thể",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhưng giới sinh học",
+   "layout": "Tấm huy hiệu quân sự danh dự: {HERO} đứng hiên ngang trên bục vàng mang dòng chữ danh xưng 'PHÁO THỦ TÍ HON', chiếc càng súng giơ cao vác lên vai như khẩu pháo đại bác.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Lý do khiến gã",
+   "layout": "Đặc tả chiếc càng súng khổng lồ bên phải của {HERO}: chiếc càng to bằng nửa cơ thể, lớp vỏ cam đỏ dày cộp có các khớp bản lề cơ khí và chốt hãm chắc chắn, bóng loáng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mỗi khi chiếc càng",
+   "layout": "Khoảnh khắc khai hỏa chấn động: {HERO} đóng sập chiếc càng súng, sóng âm thanh hình vòng tròn đồng tâm màu xanh lơ bùng nổ dữ dội, làm nứt toác đá ngầm xung quanh.",
+   "stickers": [
+    {
+     "at": "218 dB",
+     "side": "R",
+     "y": 380,
+     "value": "218 dB",
+     "label": "âm thanh cực hạn",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Để các chuyên viên",
+   "layout": "So sánh âm lượng: BÊN TRÁI chiếc máy bay phản lực cất cánh gầm rú với đồng hồ đo chỉ 140 dB; bên cạnh là chiếc đồng hồ công nghiệp đo tiếng ồn. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "140 dB",
+     "side": "L",
+     "y": 380,
+     "value": "140 dB",
+     "label": "phản lực cất cánh",
+     "target": [
+      0.25,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "còn phát súng trường",
+   "layout": "Đồ thị cột âm lượng: cột âm thanh của súng trường bắn sát tai chỉ đạt 160 dB; BÊN PHẢI cột âm thanh của {HERO} vọt cao tít lên mức 218 dB vượt ngưỡng chịu đựng.",
+   "stickers": [
+    {
+     "at": "160 dB",
+     "side": "R",
+     "y": 380,
+     "value": "160 dB",
+     "label": "tiếng súng trường",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Âm thanh 218 dB",
+   "layout": "Hình ảnh minh họa thợ lặn người: một người thợ lặn ôm hai tai bịt chặt vì sóng âm đinh tai nhức óc dưới nước; BÊN PHẢI {HERO} búng càng tự tin mỉm cười.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "và biến nó thành",
+   "layout": "So sánh đại dương: BÊN TRÁI chú cá voi nhà táng khổng lồ dài 18m đang phát tiếng gầm; BÊN PHẢI {HERO} bé tí 4cm nhưng cột sóng âm ngang ngửa nhau đầy kinh ngạc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hôm nay chúng ta",
+   "layout": "Phòng mổ xẻ cơ khí: {HERO} đứng cạnh bản vẽ cấu tạo cơ khí khổng lồ, cầm cờ-lê mỏ lết chỉ vào các bộ phận pit-tông của chiếc càng súng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Làm thế nào một",
+   "layout": "Cận cảnh bàn tay họa sĩ vẽ nên chiếc càng súng phóng tia năng lượng rực sáng dưới đáy biển; biểu tượng dấu hỏi chấm lớn màu vàng phát sáng tò mò.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Bản vẽ thiết kế Blueprint màu xanh dương: hình vẽ giải phẫu chiếc càng súng với các đường kích thước cơ khí, góc đo đạc và mũi tên chỉ dẫn chi tiết. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Quên giả thuyết nghiệp",
+   "layout": "Hình ảnh minh họa hiểu lầm: BÊN TRÁI hình tôm kẹp cổ cua bị gạch chéo đỏ lớn; BÊN PHẢI là mô hình dòng chảy thủy động lực học với các xoáy nước phản lực công nghệ cao. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Càng súng của Pháo",
+   "layout": "Mổ xẻ 2 nửa càng súng: Nửa dưới cố định có rãnh lõm chứa đầy nước; nửa trên di động có mấu lồi pit-tông hình chóp đặc cứng như thép nguội, viền sáng nổi bật. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khi chuẩn bị khai",
+   "layout": "{HERO} gồng mình chuẩn bị bắn: cơ bắp cuồn cuộn, kéo nửa càng trên ngửa ra sau đúng 90 độ, cơ chế lò xo sinh học khóa chặt vào ngàm chốt hãm kêu 'tách'.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Thời điểm chốt hãm",
+   "layout": "Đồng hồ bấm giờ siêu tốc: kim đồng hồ chỉ vạch thời gian cực ngắn dưới 0,5 mili-giây; chốt hãm bung ra giải phóng năng lượng đàn hồi khổng lồ. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "0,5 mili-giây",
+     "side": "L",
+     "y": 380,
+     "value": "0,5 ms",
+     "label": "thời gian bung chốt",
+     "target": [
+      0.3,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Mấu lồi pit-tông lao",
+   "layout": "Cận cảnh cú sập pit-tông: mấu lồi lao thẳng xuống rãnh nước với vệt tốc độ xé gió, đồng hồ tốc độ chỉ 100 km/h (28 m/s), bọt nước văng tung tóe.",
+   "stickers": [
+    {
+     "at": "100 km/h",
+     "side": "L",
+     "y": 380,
+     "value": "100 km/h",
+     "label": "tốc độ sập càng",
+     "target": [
+      0.25,
+      0.55
+     ]
+    },
+    {
+     "at": "28 m/s",
+     "side": "R",
+     "y": 480,
+     "value": "28 m/s",
+     "label": "vận tốc cực đại",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Cú đóng sập thần",
+   "layout": "Đồng hồ đo gia tốc: kim đồng hồ vọt lên mức đỏ rực 8.000g; BÊN PHẢI hình một phi công vũ trụ ngồi trong buồng lái đang choáng váng vì 9g. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "8.000g",
+     "side": "L",
+     "y": 380,
+     "value": "8.000g",
+     "label": "gia tốc kỷ lục",
+     "target": [
+      0.3,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Ủa các anh kỹ",
+   "layout": "Chú {FISH} bơi ngơ ngác cách đó 2 gang tay, mắt tròn xoe hoa mắt chóng mặt, vây lưng run rẩy vì luồng sóng áp lực thổi tạt ngang người.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đúng như chú cá",
+   "layout": "Tia nước phản lực cực mạnh: mấu lồi pit-tông nén chặt đáy rãnh, tống ra một tia nước hình mũi tên áp lực cao bắn thẳng về phía trước như súng phun nước cứu hỏa siêu vi mô. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Cơ chế ngòi nổ",
+   "layout": "{HERO} đứng bắn liên thanh tưng bừng: càng súng búng liên hồi hàng ngàn phát 'bụp bụp', vỏ càng vẫn nguyên vẹn sáng bóng không hề có một vết nứt mỏi nào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng điều điên rồ",
+   "layout": "Biểu tượng quả bom hẹn giờ năng lượng: tia nước phản lực phát sáng dẫn đường cho một quả bom bọt khí đang bắt đầu hình thành ở đầu ngọn nước.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Sơ đồ hiện tượng Cavitation: dòng nước vận tốc 100 km/h làm áp suất tụt dốc đứng thành vùng chân không, sinh ra một bọt khí li ti trong suốt phát sáng nhẹ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khi tia nước từ",
+   "layout": "Đồ thị tụt áp suất: đường cong áp suất cắm thẳng xuống dưới vạch bốc hơi nước biển; bọt khí chân không phình to đến đường kính vài milimet.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Hiện tượng tụt áp",
+   "layout": "Cận cảnh bọt khí chân không Cavitation lơ lửng trong nước biển, màng bọt khí lung linh phản chiếu ánh sáng kỳ ảo, lao vút đi xé dòng nước.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bọt khí này lao",
+   "layout": "Áp lực nước biển khổng lồ từ 4 phương 8 hướng dồn ép vào bọt khí: các mũi tên màu xanh sẫm đè nén khiến bọt khí méo mó và co cụm cực mạnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bọt khí sụp đổ",
+   "layout": "Khoảnh khắc nổ sụp sụp đổ (implosion): bọt khí co nhỏ lại mức nanomet rồi nổ tung thành một quả cầu lửa nhiệt lượng phát sáng chói lòa trong nước.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Báo cáo kỹ sư trưởng",
+   "layout": "Cô {ASSISTANT} hốt hoảng ôm bảng kẹp tài liệu, chiếc nhiệt kế điện tử đo nhiệt độ trên tay bốc khói đen kịt vì quá tải chỉ số 5000 độ C.",
+   "stickers": [
+    {
+     "at": "5.000°C",
+     "side": "R",
+     "y": 380,
+     "value": "5.000°C",
+     "label": "nhiệt độ lõi nổ",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Các chuyên viên kỹ",
+   "layout": "Bìa tạp chí Science danh tiếng: trang bìa in hình ảnh thực nghiệm vụ nổ bọt khí Cavitation của Tôm Súng với dòng nhiệt độ 4.700°C - 5.000°C nổi bật. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "4.700°C",
+     "side": "L",
+     "y": 380,
+     "value": "4.700°C",
+     "label": "công bố Science",
+     "target": [
+      0.3,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhiệt độ này xấp",
+   "layout": "So sánh vũ trụ chấn động: BÊN TRÁI bề mặt Mặt Trời rực lửa vàng cam nóng 5.500°C; BÊN PHẢI {HERO} bắn bọt khí Cavitation tí hon đạt 5.000°C tương đương nhau.",
+   "stickers": [
+    {
+     "at": "5.500°C",
+     "side": "R",
+     "y": 380,
+     "value": "5.500°C",
+     "label": "bề mặt Mặt Trời",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Kèm theo nhiệt độ",
+   "layout": "Hiện tượng phát quang Sonoluminescence: một chớp sáng plasma xanh lam lóe lên rực rỡ trong bóng tối đáy biển, sinh ra trực tiếp từ sóng âm thanh nén ép.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Sóng xung kích tỏa",
+   "layout": "Tác động thực chiến: sóng xung kích hình vòm làm mai một con cua cứng cách 2cm nứt toác, các chú tôm cá xung quanh ngã ngửa choáng váng; {HERO} thổi khói ở nòng càng.",
+   "stickers": [
+    {
+     "at": "2cm",
+     "side": "R",
+     "y": 380,
+     "value": "2cm",
+     "label": "tầm bắn sóng âm",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đó là lý do",
+   "layout": "Tình huống hài hước ở thủy cung: một bể cá cảnh bằng kính dày bị nứt một đường chéo lớn sau cú bắn của {HERO}, nước phun phì phì khiến nhân viên lau dọn toát mồ hôi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Không khí Thế chiến II năm 1942: một tấm bản đồ quân sự Thái Bình Dương với các tuyến đường biển chiến lược, mô hình tàu ngầm và máy bay thời chiến. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "năm 1942",
+     "side": "L",
+     "y": 380,
+     "value": "NĂM 1942",
+     "label": "Thế chiến II",
+     "target": [
+      0.3,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Hải quân Hoa Kỳ",
+   "layout": "Hệ thống Sonar tối tân: một chiếc {SUBMARINE} đang lặn dưới biển, vòm radar thủy âm mũi tàu phát ra các vòng sóng xanh lục quét đáy biển tìm đối phương.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Mục tiêu tác chiến",
+   "layout": "Bên trong khoang điều khiển tàu ngầm: thủy thủ đeo tai nghe chuyên dụng, mắt chăm chú nhìn vào màn hình dao động ký tìm tín hiệu chân vịt tàu địch. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bản tin đặc biệt",
+   "layout": "Phát thanh viên khẩn cấp: loa phát thanh căn cứ hải quân rung bần bật, dòng chữ 'CẢNH BÁO NHIỄU TRẮNG' nhấp nháy đỏ trên màn hình hiển thị. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Thủy thủ đoàn hoang",
+   "layout": "Thủy thủ đoàn hoang mang cực độ: các nhân viên Sonar nhảy dựng lên ôm tai nghe nhăn nhó, màn hình âm thanh dội về những dải sóng âm sắc nhọn đinh tai nhức óc. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "nghe chẳng khác nào",
+   "layout": "Hình ảnh ẩn dụ hài hước: một chiếc lò vi sóng khổng lồ đặt dưới đáy biển sâu đang rang nổ hàng triệu gói bắp ngô bơ vàng rực 'bốp bốp' liên thanh làm cả đại dương rung chuyển. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bộ chỉ huy quân",
+   "layout": "Đoàn điều tra khoa học UCLA: các nhà khoa học mặc áo lặn mang kính bơi và micro thu âm chuyên dụng lặn xuống rạn san hô đầy bỡ ngỡ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và kết quả điều",
+   "layout": "Cảnh tượng phát hiện bất ngờ: hàng triệu chú {HERO} bé xíu trong rạn san hô đua nhau búng càng súng 'tách tách', các tướng lĩnh hải quân đứng nhìn nhau ôm trán phì cười.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Về sau, chính các",
+   "layout": "Chiến thuật tàu ngầm ngụy trang tài tình: thuyền trưởng tàu ngầm Mỹ đứng trong buồng lái ra lệnh điều khiển chiếc {SUBMARINE} chủ động lặn sâu nấp sát vào vách rạn san hô nhiệt đới.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "để âm thanh 218 dB",
+   "layout": "Bức tường âm thanh che giấu động cơ: hàng ngàn chú {HERO} xung quanh búng càng súng 218 dB rền vang, che giấu hoàn toàn tiếng động cơ tàu ngầm trước hệ thống sóng âm lùng sục của đối phương.",
+   "stickers": [
+    {
+     "at": "218 dB",
+     "side": "R",
+     "y": 380,
+     "value": "218 dB",
+     "label": "bức tường âm thanh",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Tử huyệt mắt mù: phóng to khuôn mặt {HERO}, lớp mai trùm kín mắt, mắt đeo kính râm dán hai dấu X mù tịt, hai tay quờ quạng vấp phải hòn đá ngầm lúng túng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Lớp vỏ giáp trên",
+   "layout": "Góc nhìn mờ ảo: mô phỏng tầm nhìn của Tôm Súng chỉ toàn mảng màu xám nhòe nhoẹt không rõ hình thù, một cái bóng kẻ săn mồi lờ mờ tiến lại gần. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Để khắc phục lỗi",
+   "layout": "Liên minh quân sự kỳ diệu: BÊN TRÁI {GOBY} đứng gác ngoài cửa hang, mắt lồi đảo 360 độ cực tinh tường; BÊN PHẢI {HERO} đứng trong cửa hang thò chiếc râu dài ra chạm vào đuôi cá.",
+   "stickers": [
+    {
+     "at": "24/7",
+     "side": "L",
+     "y": 380,
+     "value": "24/7",
+     "label": "lính gác canh cửa",
+     "target": [
+      0.25,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Trong khi đó, Tôm",
+   "layout": "Cận cảnh đường truyền tín hiệu: chiếc râu tôm dài như sợi dây cáp quang chạm nhẹ vào vây đuôi cá bống, các vòng sóng tín hiệu rung động chạy dọc thân râu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Mỗi khi phát hiện",
+   "layout": "Báo động khẩn cấp: {GOBY} quẫy đuôi rung lắc dữ dội, {HERO} nhận tín hiệu lập tức thụt lùi tọt vào hang sâu an toàn trong chớp mắt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "đổi lại Cá Bống",
+   "layout": "Căn hầm kiên cố ấm cúng: bên trong hang đá sạch sẽ, {GOBY} nằm thư giãn còn {HERO} cần mẫn dùng càng xúc cát đá dọn dẹp như xe ủi đất công trình chuyên nghiệp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Báo cáo thử nghiệm",
+   "layout": "Thử nghiệm rụng càng: một chú cua khổng lồ giơ kẹp thắc mắc bên cạnh bản vẽ chiếc càng súng bị gãy rời khỏi thân tôm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đây chính là cơ",
+   "layout": "Cơ chế biến đổi đảo chiều: BÊN TRÁI chiếc càng gắp nhỏ xíu bên trái nhận tín hiệu bắt đầu phình to dần thành càng súng mới; BÊN PHẢI chiếc càng súng gãy mọc lại thành càng gắp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Còn tại vị trí",
+   "layout": "Sơ đồ chuyển giao công nghệ sinh học: mũi tên vòng tròn mô tả chu trình đổi bên của hai chiếc càng, đảm bảo cơ thể luôn có một khẩu pháo và một chiếc kẹp ăn mồi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Tuy nhiên, mỗi khi",
+   "layout": "Tử huyệt lột xác: {HERO} vừa lột xác, cơ thể mềm nhũn như sợi bún, càng súng rũ xuống bất lực, nép run rẩy sau lưng chú {GOBY} đang đứng dang vây che chở.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Phòng tổng kết kỹ thuật: tấm bảng tổng kết mang huy hiệu số 16 với biểu đồ đánh giá: Sức mạnh 99/100, Âm lượng 218 dB, Nhiệt độ 5.000°C; {HERO} đứng trên bục chào nghiêm trang.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đôi khi những hỏa",
+   "layout": "Hình ảnh triết lý thiên nhiên: đại dương bao la với những sinh vật khổng lồ bơi qua, nhưng tâm điểm ánh sáng chiếu vào chú {HERO} bé nhỏ phát sáng rực rỡ với khẩu đại bác uy lực.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chính cơ chế nén",
+   "layout": "Ứng dụng tương lai của con người: BÊN TRÁI máy rửa siêu âm công nghiệp; BÊN PHẢI máy tán sỏi thận y tế hiện đại mô phỏng cơ chế bọt khí Cavitation của Tôm Súng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bạn ấn tượng nhất",
+   "layout": "Khung bình luận tương tác: {HERO} cầm micro hướng về phía người xem, bên cạnh là 2 ô bình luận: 'CÚ NỔ 218 dB' và 'BỌT KHÍ 5.000°C' kèm biểu tượng dấu hỏi chấm to lớn.",
+   "stickers": [
+    {
+     "at": "218 dB",
+     "side": "L",
+     "y": 380,
+     "value": "218 dB",
+     "label": "nổ điếc tàu ngầm",
+     "target": [
+      0.25,
+      0.55
+     ]
+    },
+    {
+     "at": "5.000°C",
+     "side": "R",
+     "y": 480,
+     "value": "5.000°C",
+     "label": "nóng ngang Mặt Trời",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và bây giờ, hãy",
+   "layout": "Chuyển cảnh bí ẩn: ngòi bút vẽ tay đang phác họa một dòng sông Amazon đục ngầu huyền bí, sương mù giăng kín mặt nước rừng rậm nhiệt đới. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hãy chiêm ngưỡng một",
+   "layout": "BÓNG ĐEN BÍ ẨN TẬP TIẾP THEO (TASTE-68): một bóng đen tuyền uốn lượn hình sin dài 2 mét dưới làn nước mờ đục, xung quanh là 6000 khối pin sinh học nhỏ phát sáng bí ẩn kèm dấu hỏi chấm khổng lồ. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "2m",
+     "side": "L",
+     "y": 380,
+     "value": "2m",
+     "label": "chiều dài bóng đen",
+     "target": [
+      0.25,
+      0.55
+     ]
+    },
+    {
+     "at": "6.000",
+     "side": "R",
+     "y": 480,
+     "value": "6.000 PIN",
+     "label": "tế bào phát điện",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "sẵn sàng phóng ra",
+   "layout": "Tia sét điện bùng nổ: từ bóng đen bí ẩn phóng ra những luồng sét điện màu xanh tím giật tung bọt nước, BÊN PHẢI bóng một con cá sấu bị giật điện ngất lịm, đồng hồ đo điện báo 860 Vôn. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "860V",
+     "side": "R",
+     "y": 380,
+     "value": "860V",
+     "label": "điện áp cực hạn",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhưng điều kỳ lạ",
+   "layout": "Khung hình tò mò kêu gọi bình luận: bóng đen uốn lượn bí ẩn với dấu hỏi chấm to tướng '?' màu vàng phát sáng rực rỡ, kèm dòng chữ gợi mở khán giả đoán tên con vật bên dưới phần bình luận. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Cảnh báo thử nghiệm vũ khí tối mật: biển báo nguy hiểm tam giác vàng phát sáng chớp nháy cảnh báo sóng xung kích đinh tai nhức óc dưới đáy biển. {NO_HERO}.",
+   "stickers": []
+  },
+  {
+   "at": "Bạn có tin một",
+   "layout": "So sánh kích thước hỏa lực: BÊN TRÁI máy bay phản lực khổng lồ gầm rú xịt khói; BÊN PHẢI {HERO_S} tí hon đứng trên thước đo 4cm giơ chiếc càng súng khổng lồ đầy thách thức.",
+   "stickers": [
+    {
+     "at": "4cm",
+     "side": "R",
+     "y": 620,
+     "value": "4cm",
+     "label": "kích thước tí hon",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Đây là Tôm Súng",
+   "layout": "Chân dung rực rỡ: {HERO_S} đứng oai phong trên mỏm đá san hô, mũ bảo hộ vàng chói lọi, chiếc càng súng to kềnh càng phát ra những tia năng lượng xanh biếc lấp lánh.",
+   "stickers": []
+  },
+  {
+   "at": "Thứ nhất, chiếc càng",
+   "layout": "Cận cảnh cơ chế sập càng thần tốc: mấu lồi đóng sập với gia tốc chóng mặt 8.000g, đồng hồ đo gia tốc rung bần bật bốc khói.",
+   "stickers": [
+    {
+     "at": "8.000g",
+     "side": "L",
+     "y": 620,
+     "value": "8.000g",
+     "label": "gia tốc cực đại",
+     "target": [
+      0.25,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "tạo ra âm thanh",
+   "layout": "Sóng âm thanh nổ tung: xung âm thanh 218 dB bùng phát thành các vòng tròn sóng xung kích nổ rách nước biển, làm các hòn sỏi xung quanh rung chuyển bắn tung tóe.",
+   "stickers": [
+    {
+     "at": "218 dB",
+     "side": "R",
+     "y": 620,
+     "value": "218 dB",
+     "label": "âm thanh cực hạn",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Thứ hai, cú kẹp",
+   "layout": "Hiện tượng Cavitation siêu nhiệt: tia nước cực mạnh tạo bọt khí chân không phát nổ, nhiệt độ lõi đạt mốc 5.000°C rực lửa chói lòa.",
+   "stickers": [
+    {
+     "at": "5.000°C",
+     "side": "L",
+     "y": 620,
+     "value": "5.000°C",
+     "label": "nhiệt độ lõi nổ",
+     "target": [
+      0.25,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "nóng ngang bề mặt",
+   "layout": "So sánh chớp sáng Sonoluminescence: một bên là quả cầu lửa Mặt Trời nóng bỏng, một bên là chớp sáng plasma xanh biếc phát ra từ cú búng càng của {HERO_S}.",
+   "stickers": []
+  },
+  {
+   "at": "Thứ ba, vào Thế",
+   "layout": "Hàng triệu pháo thủ rạn san hô: hàng ngàn chú {HERO_S} dưới đáy biển đồng loạt búng càng súng nổ vang rền như bão đạn liên thanh rực sáng dưới đáy biển.",
+   "stickers": []
+  },
+  {
+   "at": "làm điếc đặc toàn",
+   "layout": "Tàu ngầm hải quân bị điếc: một chiếc {SUBMARINE} quân sự chìm trong biển sóng âm nhiễu loạn, các ăng-ten cảm biến sonar quay tít mù vì quá tải tín hiệu.",
+   "stickers": [
+    {
+     "at": "Hải quân Hoa Kỳ",
+     "side": "R",
+     "y": 620,
+     "value": "SONAR MỸ",
+     "label": "Thế chiến II",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Dù sở hữu đại",
+   "layout": "Điểm yếu thị lực: {HERO_S} đeo cặp kính cận dày cộp, hai tay quờ quạng đụng đầu vào tảng đá san hô lúng túng ngây ngô.",
+   "stickers": []
+  },
+  {
+   "at": "phải thuê vệ sĩ",
+   "layout": "Đôi bạn cùng tiến: {GOBY} đứng gác cửa hang nghiêm nghị, {HERO_S} đứng phía sau lấy râu chạm đuôi cá bống đầy ăn ý trong căn hầm san hô an toàn.",
+   "stickers": []
+  },
+  {
+   "at": "Đừng bao giờ đánh",
+   "layout": "Khoảnh khắc tổng kết trọn vẹn: {HERO_S} đứng trên đỉnh rạn san hô rực rỡ, giơ cao chiếc càng súng đại bác mỉm cười tự tin, dòng nước trong xanh lấp lánh chiến thắng.",
+   "stickers": []
+  }
+ ]
+}

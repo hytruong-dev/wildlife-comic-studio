@@ -1,0 +1,434 @@
+{
+ "episode": "tap-01-lung-mat",
+ "title_lines": [
+  "CHÍ PHÈO 12KG",
+  "KHIẾN SƯ TỬ DẠT ĐƯỜNG?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "voice_end_s": 42.1,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-01-lung-mat_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  6.05,
+  9.21,
+  14.41,
+  20.69,
+  24.01,
+  26.73,
+  32.45,
+  37.35,
+  41.13
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "t": 1.82,
+     "side": "R",
+     "y": 620,
+     "value": "12 KG",
+     "label": "thách thức thú dữ",
+     "target": [
+      0.55,
+      0.52
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 1.12,
+     "text": "Với cân nặng"
+    },
+    {
+     "t": 1.7,
+     "text": "chỉ 12kg,"
+    },
+    {
+     "t": 2.94,
+     "text": "loài vật này"
+    },
+    {
+     "t": 3.62,
+     "text": "chính là kẻ duy"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 4.25,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 6.42,
+     "side": "L",
+     "y": 620,
+     "value": "NÉ ĐƯỜNG",
+     "label": "sư tử khiếp vía",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 4.28,
+     "text": "nhất khiến cả"
+    },
+    {
+     "t": 4.94,
+     "text": "bầy sư tử"
+    },
+    {
+     "t": 5.56,
+     "text": "toát mồ hôi"
+    },
+    {
+     "t": 6.42,
+     "text": "né đường!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 7.41,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 9.8,
+     "side": "R",
+     "y": 620,
+     "value": "GUINNESS",
+     "label": "dũng cảm số 1",
+     "target": [
+      0.5,
+      0.48
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 7.66,
+     "text": "Xin giới thiệu"
+    },
+    {
+     "t": 8.52,
+     "text": "Lửng Mật,"
+    },
+    {
+     "t": 9.22,
+     "text": "quái kiệt được"
+    },
+    {
+     "t": 9.8,
+     "text": "Kỷ lục Guinness"
+    },
+    {
+     "t": 10.5,
+     "text": "vinh danh là"
+    },
+    {
+     "t": 11.02,
+     "text": "sinh vật dũng"
+    },
+    {
+     "t": 11.52,
+     "text": "cảm nhất hành tinh."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 12.61,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 14.78,
+     "side": "L",
+     "y": 620,
+     "value": "6 MM",
+     "label": "giáp da cao su",
+     "target": [
+      0.52,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 12.86,
+     "text": "Toàn thân nó"
+    },
+    {
+     "t": 13.48,
+     "text": "được bọc bởi"
+    },
+    {
+     "t": 14.18,
+     "text": "lớp da dày"
+    },
+    {
+     "t": 14.78,
+     "text": "6mm dai như"
+    },
+    {
+     "t": 16.06,
+     "text": "lốp xe cao"
+    },
+    {
+     "t": 16.64,
+     "text": "su, lỏng lẻo"
+    },
+    {
+     "t": 17.62,
+     "text": "tới mức bị"
+    },
+    {
+     "t": 18.06,
+     "text": "ngoạm chặt gáy"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 18.89,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 20.2,
+     "side": "R",
+     "y": 620,
+     "value": "180 ĐỘ",
+     "label": "xoay người phản đòn",
+     "target": [
+      0.48,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 19.14,
+     "text": "vẫn có thể"
+    },
+    {
+     "t": 19.6,
+     "text": "xoay ngược người"
+    },
+    {
+     "t": 20.2,
+     "text": "180 độ phản đòn!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 22.21,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 22.46,
+     "text": "Đỉnh cao hơn,"
+    },
+    {
+     "t": 23.3,
+     "text": "nhờ thụ thể"
+    },
+    {
+     "t": 23.82,
+     "text": "thần kinh đột"
+    },
+    {
+     "t": 24.38,
+     "text": "biến kháng độc,"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 24.93,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 28.0,
+     "side": "L",
+     "y": 620,
+     "value": "2 TIẾNG",
+     "label": "ngủ mê lọc nọc độc",
+     "target": [
+      0.52,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 25.18,
+     "text": "khi bị rắn"
+    },
+    {
+     "t": 25.78,
+     "text": "hổ mang cắn"
+    },
+    {
+     "t": 26.38,
+     "text": "trúng, nó chỉ"
+    },
+    {
+     "t": 27.22,
+     "text": "việc nằm ngủ"
+    },
+    {
+     "t": 27.78,
+     "text": "mê 2 tiếng"
+    },
+    {
+     "t": 28.48,
+     "text": "rồi tỉnh dậy"
+    },
+    {
+     "t": 29.0,
+     "text": "ăn tiếp con"
+    },
+    {
+     "t": 29.44,
+     "text": "rắn như món"
+    },
+    {
+     "t": 29.96,
+     "text": "tráng miệng!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 30.65,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 35.04,
+     "side": "R",
+     "y": 620,
+     "value": "VƯỢT NGỤC",
+     "label": "thiên tài bẻ khóa",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 30.9,
+     "text": "Không chỉ lì"
+    },
+    {
+     "t": 31.455,
+     "text": "đòn, chú lửng"
+    },
+    {
+     "t": 32.16,
+     "text": "Stoffel từng nặn"
+    },
+    {
+     "t": 33.12,
+     "text": "bùn, lăn đá"
+    },
+    {
+     "t": 34.04,
+     "text": "xếp thang trèo"
+    },
+    {
+     "t": 34.62,
+     "text": "tường rào vượt ngục."
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 35.55,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 35.8,
+     "text": "Một kẻ vừa"
+    },
+    {
+     "t": 36.26,
+     "text": "có giáp cao"
+    },
+    {
+     "t": 36.78,
+     "text": "su, vừa miễn"
+    },
+    {
+     "t": 37.86,
+     "text": "nhiễm độc xà"
+    },
+    {
+     "t": 38.48,
+     "text": "lại không biết sợ,"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 39.33,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [
+    {
+     "t": 40.52,
+     "side": "L",
+     "y": 620,
+     "value": "SỐ 1",
+     "label": "chí phèo thảo nguyên",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 39.58,
+     "text": "đúng là đại"
+    },
+    {
+     "t": 40.04,
+     "text": "ca giang hồ"
+    },
+    {
+     "t": 40.52,
+     "text": "số 1 của"
+    },
+    {
+     "t": 41.0,
+     "text": "thế giới hoang dã!"
+    }
+   ]
+  }
+ ]
+}

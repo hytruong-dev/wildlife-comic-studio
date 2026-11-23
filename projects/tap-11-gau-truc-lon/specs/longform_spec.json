@@ -1,0 +1,856 @@
+{
+ "episode": "tap-11-gau-truc-lon",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 6,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "intro_mode": "full_first",
+ "output": "renders/tap-11-gau-truc-lon_long.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 89.373,
+   "chapter_no": 1,
+   "badge": "06:00 SÁNG",
+   "header_image": "assets/banners/chapter_01.png",
+   "title": "00 SÁNG: BẮT ĐẦU CA NHAI TRE CẬT LỰC CỦA KẺ PHẢN BỘI TỔ TIÊN",
+   "card_hook": "BẮT ĐẦU CA NHAI TRE CỦA KẺ PHẢN BỘI TỔ TIÊN",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L01.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 2.5,
+     "image": "assets/long/L02.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 12.5,
+     "image": "assets/long/L03.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 20.54,
+     "image": "assets/long/L04.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 25.82,
+     "image": "assets/long/L05.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": [
+      27.92
+     ]
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 29.04,
+     "image": "assets/long/L06.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b07",
+     "start_s": 34.03,
+     "image": "assets/long/L07.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 37.03,
+       "side": "R",
+       "y": 360,
+       "value": "14 TIẾNG",
+       "label": "nhai tre liên tục",
+       "target": [
+        0.7,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b08",
+     "start_s": 38.87,
+     "image": "assets/long/L08.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 42.57,
+       "side": "L",
+       "y": 380,
+       "value": "19 TR NĂM",
+       "label": "tổ tiên thú ăn thịt",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b09",
+     "start_s": 48.09,
+     "image": "assets/long/L09.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b10",
+     "start_s": 55.99,
+     "image": "assets/long/L10.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 56.53,
+       "side": "R",
+       "y": 380,
+       "value": "2 TR NĂM",
+       "label": "pha bẻ lái ăn chay",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b11",
+     "start_s": 58.37,
+     "image": "assets/long/L11.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 62.05,
+       "side": "L",
+       "y": 360,
+       "value": "99%",
+       "label": "khẩu phần là tre",
+       "target": [
+        0.3,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b12",
+     "start_s": 64.85,
+     "image": "assets/long/L12.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b13",
+     "start_s": 72.09,
+     "image": "assets/long/L13.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b14",
+     "start_s": 84.35,
+     "image": "assets/long/L14.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 83.493,
+   "chapter_no": 2,
+   "badge": "10:00 TRƯA",
+   "header_image": "assets/banners/chapter_02.png",
+   "title": "00 TRƯA: GIẢI MÃ NGÓN TAY CÁI THỨ SÁU VÀ HÀM NGHIỀN XƯƠNG",
+   "card_hook": "XƯƠNG CỔ TAY BIẾN DỊ THÀNH NGÓN TAY CÁI BÓC VỎ TRE",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L15.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 6.96,
+       "side": "L",
+       "y": 380,
+       "value": "10 KG",
+       "label": "xử lý trong 4 tiếng",
+       "target": [
+        0.4,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 8.74,
+     "image": "assets/long/L17.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 18.86,
+     "image": "assets/long/L18.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 25.88,
+       "side": "R",
+       "y": 360,
+       "value": "6 NGÓN TAY",
+       "label": "bàn tay bóc vỏ tre",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 27.62,
+     "image": "assets/long/L19.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 32.92,
+     "image": "assets/long/L20.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b06",
+     "start_s": 35.28,
+     "image": "assets/long/L21.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 38.68,
+       "side": "L",
+       "y": 380,
+       "value": "XƯƠNG VỪNG",
+       "label": "ngón tay cái giả",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b07",
+     "start_s": 48.38,
+     "image": "assets/long/L22.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b08",
+     "start_s": 55.03,
+     "image": "assets/long/L23.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b09",
+     "start_s": 62.01,
+     "image": "assets/long/L24.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b10",
+     "start_s": 72.67,
+     "image": "assets/long/L25.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b11",
+     "start_s": 79.21,
+     "image": "assets/long/L26.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 85.485,
+   "chapter_no": 3,
+   "badge": "14:00 CHIỀU",
+   "header_image": "assets/banners/chapter_03.png",
+   "title": "00 CHIỀU: CỖ MÁY TIÊU HÓA CHỈ HẤP THỤ 17% VÀ THẢI 25KG PHÂN",
+   "card_hook": "TIÊU HÓA SIÊU KÉM CHỈ HẤP THỤ 17% DINH DƯỠNG",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L27.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 6.52,
+     "image": "assets/long/L28.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 10.8,
+       "side": "R",
+       "y": 360,
+       "value": "38 KG",
+       "label": "tre nạp mỗi ngày",
+       "target": [
+        0.72,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 11.96,
+     "image": "assets/long/L29.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 20.74,
+       "side": "L",
+       "y": 380,
+       "value": "17%",
+       "label": "hấp thụ dinh dưỡng",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 22.02,
+     "image": "assets/long/L30.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 22.44,
+       "side": "R",
+       "y": 380,
+       "value": "83%",
+       "label": "thải ra ngoài",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b05",
+     "start_s": 30.66,
+     "image": "assets/long/L31.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 33.22,
+       "side": "L",
+       "y": 360,
+       "value": "40 LẦN",
+       "label": "đi vệ sinh mỗi ngày",
+       "target": [
+        0.4,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b06",
+     "start_s": 37.54,
+     "image": "assets/long/L32.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 38.9,
+       "side": "R",
+       "y": 360,
+       "value": "25 KG",
+       "label": "phân tre mỗi ngày",
+       "target": [
+        0.68,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b07",
+     "start_s": 40.26,
+     "image": "assets/long/L33.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b08",
+     "start_s": 44.52,
+     "image": "assets/long/L34.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b09",
+     "start_s": 49.24,
+     "image": "assets/long/L35.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b10",
+     "start_s": 59.87,
+     "image": "assets/long/L36.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b11",
+     "start_s": 69.7,
+     "image": "assets/long/L37.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b12",
+     "start_s": 79.37,
+     "image": "assets/long/L38.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 89.719,
+   "chapter_no": 4,
+   "badge": "18:00 HOÀNG HÔN",
+   "header_image": "assets/banners/chapter_04.png",
+   "title": "00 HOÀNG HÔN: NHỮNG PHA NGÃ CÂY KINH ĐIỂN VÀ NGỦ BẤT CHẤP TƯ THẾ",
+   "card_hook": "NGỦ BẤT CHẤP TƯ THẾ VÀ LĂN LỘN TỰ NHIÊN",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L39.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 13.28,
+     "image": "assets/long/L40.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 19.8,
+     "image": "assets/long/L41.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 27.94,
+     "image": "assets/long/L42.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b05",
+     "start_s": 31.56,
+     "image": "assets/long/L43.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": [
+      31.86,
+      32.52
+     ]
+    },
+    {
+     "id": "scene04_b06",
+     "start_s": 40.38,
+     "image": "assets/long/L44.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b07",
+     "start_s": 50.04,
+     "image": "assets/long/L65.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b08",
+     "start_s": 59.49,
+     "image": "assets/long/L45.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b09",
+     "start_s": 71.87,
+     "image": "assets/long/L46.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b10",
+     "start_s": 77.51,
+     "image": "assets/long/L47.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 78.47,
+       "side": "L",
+       "y": 380,
+       "value": "15 CM",
+       "label": "chiếc đuôi chổi quét",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b11",
+     "start_s": 84.87,
+     "image": "assets/long/L48.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 90.06,
+   "chapter_no": 5,
+   "badge": "22:00 ĐÊM",
+   "header_image": "assets/banners/chapter_05.png",
+   "title": "00 ĐÊM: CỬA SỔ THỤ THAI 48 GIỜ VÀ CỤC BÔNG 100G BÉ NHƯ THỎI SON",
+   "card_hook": "CỬA SỔ THỤ THAI DUY NHẤT 24-72 GIỜ MỖI NĂM",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L49.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 6.12,
+     "image": "assets/long/L50.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 20.9,
+     "image": "assets/long/L51.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 26.62,
+       "side": "R",
+       "y": 360,
+       "value": "24-72 GIỜ",
+       "label": "cửa sổ thụ thai",
+       "target": [
+        0.68,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 29.07,
+     "image": "assets/long/L52.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 32.29,
+       "side": "L",
+       "y": 380,
+       "value": "365 NGÀY",
+       "label": "chỉ có 1 cơ hội",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b05",
+     "start_s": 40.27,
+     "image": "assets/long/L53.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b06",
+     "start_s": 45.81,
+     "image": "assets/long/L54.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 50.57,
+       "side": "L",
+       "y": 360,
+       "value": "100 GAM",
+       "label": "bé như thỏi son",
+       "target": [
+        0.35,
+        0.45
+       ]
+      },
+      {
+       "t": 52.05,
+       "side": "R",
+       "y": 480,
+       "value": "1/900",
+       "label": "trọng lượng mẹ",
+       "target": [
+        0.65,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b07",
+     "start_s": 53.35,
+     "image": "assets/long/L66.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b08",
+     "start_s": 62.14,
+     "image": "assets/long/L55.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b09",
+     "start_s": 69.34,
+     "image": "assets/long/L67.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b10",
+     "start_s": 82.68,
+     "image": "assets/long/L56.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 73.003,
+   "chapter_no": 6,
+   "badge": "04:00 SÁNG",
+   "header_image": "assets/banners/chapter_06.png",
+   "title": "00 RẠNG SÁNG: KẾT THÚC 24H SINH TỒN VÀ BÀI HỌC TỪ CHÚ GẤU BÉO",
+   "card_hook": "BÀI HỌC SINH TỒN VÀ BẮC CẦU SANG TẬP 12 HÀ MÃ",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L57.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 8.72,
+     "image": "assets/long/L58.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 16.0,
+       "side": "L",
+       "y": 380,
+       "value": "2 TR NĂM",
+       "label": "chiến thần sinh tồn",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 22.68,
+     "image": "assets/long/L59.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b04",
+     "start_s": 36.94,
+     "image": "assets/long/L60.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b05",
+     "start_s": 41.96,
+     "image": "assets/long/L61.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b06",
+     "start_s": 49.22,
+     "image": "assets/long/L62.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 53.36,
+       "side": "R",
+       "y": 360,
+       "value": "1.800 PSI",
+       "label": "lực cắn xe tăng",
+       "target": [
+        0.7,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b07",
+     "start_s": 58.65,
+     "image": "assets/long/L63.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b08",
+     "start_s": 63.17,
+     "image": "assets/long/L64.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

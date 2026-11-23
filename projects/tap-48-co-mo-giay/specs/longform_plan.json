@@ -1,0 +1,449 @@
+{
+  "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+  "targets": {},
+  "scenes": {
+    "scene01": {
+      "chapter_no": 1,
+      "title": "24 GIỜ THÂM NHẬP VÙNG ĐẤT CHẾT",
+      "hook": "SÁT THỦ ĐỨNG BẤT ĐỘNG 5 TIẾNG",
+      "card": false,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L01.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "mặt tại đầm",
+          "image": "assets/long/L02.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "mờ ảo, một",
+          "image": "assets/long/L03.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "qua. Dân địa",
+          "image": "assets/long/L04.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Phấn Trắng? Mỗi",
+          "image": "assets/long/L05.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "nhắc phóng viên",
+          "image": "assets/long/L06.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "tiếng, thậm chí",
+          "image": "assets/long/L07.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "lông. Nhưng đừng",
+          "image": "assets/long/L08.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "bật máy quay hồng ngoại",
+          "image": "assets/long/L09.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "NHẬT KÝ CHIẾN TRƯỜNG"
+    },
+    "scene02": {
+      "chapter_no": 2,
+      "title": "GIẢI MÃ CHIẾC GUỐC TỬ THẦN",
+      "hook": "LƯỠI DAO PHAY CHÉM ĐÔI CON MỒI",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L10.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "loài chim! Dài",
+          "image": "assets/long/L11.png",
+          "stickers": [
+            {
+              "at": "24cm",
+              "side": "R",
+              "y": 320,
+              "value": "24cm",
+              "label": "Chiều dài mỏ guốc",
+              "target": [
+                0.8,
+                0.4
+              ]
+            },
+            {
+              "at": "50cm",
+              "side": "L",
+              "y": 360,
+              "value": "50cm",
+              "label": "Chu vi mỏ khổng lồ",
+              "target": [
+                0.35,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "khác xa với",
+          "image": "assets/long/L12.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "bay trên thế",
+          "image": "assets/long/L13.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "đứt các sợi",
+          "image": "assets/long/L14.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "mồi, khóa chặt",
+          "image": "assets/long/L15.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "sắt của các",
+          "image": "assets/long/L16.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "một hệ thống",
+          "image": "assets/long/L17.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "chuyên biệt để nuốt trọn",
+          "image": "assets/long/L18.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "VŨ KHÍ MỎ GUỐC GỖ"
+    },
+    "scene03": {
+      "chapter_no": 3,
+      "title": "TIẾNG NỔ XÉ TOẠC MÀN ĐÊM",
+      "hook": "TIẾNG KHẨU SÚNG TIỂU LIÊN AK",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L19.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "tạch tạch tạch! Cả",
+          "image": "assets/long/L20.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "đêm, nguồn gốc",
+          "image": "assets/long/L21.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "hốt vỗ cánh",
+          "image": "assets/long/L22.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "của chú chim",
+          "image": "assets/long/L23.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Do bên trong",
+          "image": "assets/long/L24.png",
+          "stickers": [
+            {
+              "at": "100 dB",
+              "side": "R",
+              "y": 320,
+              "value": "100 dB",
+              "label": "Tiếng gõ mỏ súng máy",
+              "target": [
+                0.8,
+                0.4
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "tiếng gõ mỏ này mạnh",
+          "image": "assets/long/L25.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "cả cây số",
+          "image": "assets/long/L26.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "dám xâm phạm vùng",
+          "image": "assets/long/L27.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "TIẾNG NỔ SÚNG MÁY"
+    },
+    "scene04": {
+      "chapter_no": 4,
+      "title": "CÚ BỔ NHÀO NUỐT TRỌN CÁ PHỔI",
+      "hook": "ĐÒN SỤP ĐỔ TÀN KHỐC 7KG",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L28.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "để ghi lại.",
+          "image": "assets/long/L29.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Tượng Đá Tiền Sử đã",
+          "image": "assets/long/L30.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "về phía trước",
+          "image": "assets/long/L31.png",
+          "stickers": [
+            {
+              "at": "7kg",
+              "side": "L",
+              "y": 360,
+              "value": "7kg",
+              "label": "Khối lượng cơ thể",
+              "target": [
+                0.35,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "đổ ụp thẳng",
+          "image": "assets/long/L32.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "và chiếc mỏ",
+          "image": "assets/long/L33.png",
+          "stickers": [
+            {
+              "at": "35km/h",
+              "side": "R",
+              "y": 320,
+              "value": "35km/h",
+              "label": "Tốc độ bổ nhào",
+              "target": [
+                0.8,
+                0.4
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "cơ thể đồ",
+          "image": "assets/long/L34.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "đã nằm gọn",
+          "image": "assets/long/L35.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Một màn trình",
+          "image": "assets/long/L36.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "CÚ LAO SẬP COLLAPSE"
+    },
+    "scene05": {
+      "chapter_no": 5,
+      "title": "GÓC KHUẤT ĐEN TỐI TRONG TỔ CHIM",
+      "hook": "BI KỊCH SÁT HẠI CON THỨ CAINISM",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L37.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Tiền Sử lại",
+          "image": "assets/long/L38.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "một lời chào",
+          "image": "assets/long/L39.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "trên toàn mạng",
+          "image": "assets/long/L40.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "ấy là một",
+          "image": "assets/long/L41.png",
+          "stickers": [
+            {
+              "at": "Cainism",
+              "side": "R",
+              "y": 340,
+              "value": "CAINISM",
+              "label": "Sát hại con thứ",
+              "target": [
+                0.8,
+                0.45
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "hai nở ra",
+          "image": "assets/long/L42.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "đứa em nhỏ",
+          "image": "assets/long/L43.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "đối không can",
+          "image": "assets/long/L44.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "cỗ máy chiến tranh hoàn",
+          "image": "assets/long/L45.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "NGHỊCH LÝ TỔNG HỢP"
+    },
+    "scene06": {
+      "chapter_no": 6,
+      "title": "BÀI HỌC TỪ TƯỢNG ĐÁ BẤT TỬ",
+      "hook": "BẢN LĨNH KIÊN ĐỊNH CHỜ THỜI",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L46.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "mà là một",
+          "image": "assets/long/L47.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "sắc lẹm chém",
+          "image": "assets/long/L48.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "đó như một",
+          "image": "assets/long/L49.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "chim Mỏ Giày mang",
+          "image": "assets/long/L50.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "là khả năng",
+          "image": "assets/long/L51.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Sử: Tiếng gõ",
+          "image": "assets/long/L52.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "các bạn diện",
+          "image": "assets/long/L53.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "KẾT LUẬN"
+    }
+  }
+}

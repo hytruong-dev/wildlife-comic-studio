@@ -1,0 +1,1066 @@
+{
+ "_doc": "Meta của episode.json — TẬP ĐẶC BIỆT nội dung MỚI HOÀN TOÀN (không cắt ghép tập lẻ, render như tập thường, KHÔNG dùng assemble.py). Lời + ảnh ở content/sNN.md, shorts.md. Sinh lại: python src/mega/build_from_content.py projects/mega-03-dai-hoi-sinh-ton",
+ "episode_no": 0,
+ "animal": "10 quái kiệt — Đại Hội Sinh Tồn Mùa 3",
+ "slug": "mega-03-dai-hoi-sinh-ton",
+ "format": "F_SPECIAL",
+ "persona": "giai_dau",
+ "nickname": "Đại Hội Sinh Tồn",
+ "sources": [
+  "Ếch Lông Wolverine: Blackburn, D. C. et al. (2008), Biology Letters — Cơ chế tự bẻ đốt xương ngón chân xuyên thủng đệm thịt và tự lành mô sau 48 giờ",
+  "Ếch Lông Wolverine: Boulenger, G. A. (1900), Proc. Zool. Soc. London — Lớp lông tơ mạch máu cao dày đặc ở ếch đực tăng diện tích trao đổi oxy dưới nước",
+  "Ếch Lông Wolverine: Barej, M. F. et al. (2010), Salamandra — Sinh thái học dòng suối chảy xiết và tập tính đực bảo vệ ổ trứng dưới bùn",
+  "Kỳ Nhông Axolotl: Nowoshilow, S. et al. (2018), Nature — Bộ gen khổng lồ 32 tỷ cặp base và bản đồ tái tạo mô không sẹo",
+  "Kỳ Nhông Axolotl: Kragl, M. et al. (2009), Nature — Cơ chế tế bào nhớ danh tính dòng dõi trong chồi tái sinh mầm chi",
+  "Kỳ Nhông Axolotl: McCusker, C. & Gardiner, D. (2011), Science — Kháng thể tự nhiên ức chế khối u và cơ chế tiếp nhận cấy ghép mô không thải loại",
+  "Hải Sâm: Parmentier, E. et al. (2004), J. Exp. Biol. — Mối quan hệ cộng sinh của cá ngọc trai Carapidae trú ngụ trong hậu môn hải sâm",
+  "Hải Sâm: Purcell, S. W. et al. (2016), Biological Reviews — Tiêu hóa 130 tấn trầm tích mỗi km² và bài tiết Canxi Cacbonat bảo vệ rạn san hô",
+  "Hải Sâm: Wilkie, I. C. (2005), Echinodermata — Mô liên kết biến đổi MTC tự hóa lỏng độ cứng trong vài phần mười giây",
+  "Cá Mút Đá Hagfish: Fudge, D. S. et al. (2010), Biomacromolecules — Sợi tơ protein tơ nhớt bền gấp 10 lần tơ nhện và dai hơn sợi Kevlar",
+  "Cá Mút Đá Hagfish: Glover, C. N. et al. (2011), Proc. R. Soc. B — Hấp thụ axit amin và chất dinh dưỡng trực tiếp qua bề mặt da",
+  "Cá Mút Đá Hagfish: Miyashita, T. et al. (2019), Nature — 4 quả tim độc lập vận hành trong điều kiện thiếu oxy sâu 1.000m",
+  "Bạch Tuộc Mimic: Norman, M. D. et al. (2001), Proc. R. Soc. B — Bắt chước hành vi linh hoạt theo kẻ săn mồi với hơn 15 hình dạng kịch độc",
+  "Bạch Tuộc Mimic: Hochner, B. (2012), Current Biology — Hệ thần kinh phân tán: 2/3 nơ-ron nằm ở 8 xúc tu hoạt động độc lập",
+  "Bạch Tuộc Mimic: Hanlon, R. T. et al. (2010), Biological Journal — Cơ chế cơ papillae vi mô đổi kết cấu bề mặt da trong 200 mili-giây",
+  "Gấu Túi Wombat: Yang, P. C. et al. (2018), Soft Matter — Giải mã cấu trúc 8% ruột già đàn hồi không đồng đều tạo phân hình lập phương",
+  "Gấu Túi Wombat: Green, E. et al. (2020), Australian Wildlife Research — Mạng lưới hang ngầm dài 30m tạo nơi trú ẩn cứu động vật trong cháy rừng",
+  "Gấu Túi Wombat: Wells, R. T. (1989), Fauna of Australia — Tấm khiên mông bọc sụn và mô mạc sợi dày 3cm dập vỡ hộp sọ kẻ thù",
+  "Chuột Chũi Mũi Sao: Catania, K. C. (2011), PNAS — 22 xúc tu chứa 25.000 cơ quan Eimer chiếm nửa diện tích phân tích của vỏ não",
+  "Chuột Chũi Mũi Sao: Catania, K. C. (2006), Nature — Kỷ lục đớp mồi 0,12 giây và ngửi mùi dưới nước bằng cơ chế thổi bong bóng khí",
+  "Chuột Chũi Mũi Sao: Campbell, K. L. et al. (2010), Science — Hemoglobin đột biến chịu lạnh trong đất đóng băng mùa đông",
+  "Kiến Nổ Cảm Tử: Laciny, A. et al. (2018), ZooKeys — Cấu trúc tuyến mang phình to chứa hợp chất phenolic tự kích nổ bảo vệ tổ",
+  "Kiến Nổ Cảm Tử: Davidson, D. W. et al. (2016), Myrmecological News — Tầng lớp lính nút chai có hộp sọ phẳng khớp kín miệng tổ",
+  "Kiến Nổ Cảm Tử: Tautz, J. et al. (2020), Insect Science — Cơ chế phân tầng tuổi tác: chỉ kiến thợ già mới tham gia đội cảm tử",
+  "Sứa Bất Tử: Pascual-Torner, M. et al. (2022), PNAS — Giải mã hệ gen bất tử: nhân đôi gen bảo vệ telomere và sửa chữa DNA",
+  "Sứa Bất Tử: Piraino, S. et al. (1996), Biological Bulletin — Cơ chế chuyển biệt hóa tế bào transdifferentiation từ medusa về polyp",
+  "Sứa Bất Tử: Miglietta, M. P. et al. (2007), Marine Biology — Sự phát tán toàn cầu qua nước dằn tàu biển",
+  "Hải Ly: Fairfax, E. & Whittle, A. (2020), Ecological Applications — Đập hải ly tạo vùng đất ngập nước chống chịu cháy rừng và hạn hán",
+  "Hải Ly: Gordon, L. M. et al. (2015), Science — Răng cửa phủ hợp chất sắt chống mài mòn và kháng axit",
+  "Hải Ly: Müller-Schwarze, D. (2011), Cornell University Press — Phản xạ xây đắp cưỡng chế kích hoạt bởi âm thanh tần số nước chảy"
+ ],
+ "whisper_prompt": "Đại Hội Sinh Tồn, Mùa 3, Vẽ Chuyện Hoang Dã, Ếch Lông Wolverine, Kỳ Nhông Axolotl, Hải Sâm, Cá Mút Đá Hagfish, Bạch Tuộc Mimic, Gấu Túi Wombat, Chuột Chũi Mũi Sao, Kiến Nổ Cảm Tử, Sứa Bất Tử, Hải Ly, 32 tỷ cặp base, 22 xúc tu, 25.000 cơ quan Eimer, 0,12 giây, 300 triệu năm, 20 lít nhớt, 3cm mông bọc thép, 100 viên phân lập phương, 130 tấn trầm tích, transdifferentiation, Kevlar, telomere, neoteny",
+ "display_fix": {
+  "hai mươi tư giờ": "24 giờ",
+  "Hai mươi tư giờ": "24 giờ",
+  "bốn mươi tám giờ": "48 giờ",
+  "Bốn mươi tám giờ": "48 giờ",
+  "ba mươi hai tỷ": "32 tỷ",
+  "Ba mươi hai tỷ": "32 tỷ",
+  "ba trăm triệu năm": "300 triệu năm",
+  "Ba trăm triệu năm": "300 triệu năm",
+  "năm trăm triệu năm": "500 triệu năm",
+  "Năm trăm triệu năm": "500 triệu năm",
+  "hai mươi lít": "20 lít",
+  "Hai mươi lít": "20 lít",
+  "một trăm ba mươi tấn": "130 tấn",
+  "Một trăm ba mươi tấn": "130 tấn",
+  "ba mươi lăm ki-lô-gam": "35kg",
+  "Ba mươi lăm ki-lô-gam": "35kg",
+  "hai mươi lăm ki-lô-gam": "25kg",
+  "Hai mươi lăm ki-lô-gam": "25kg",
+  "bốn mươi ki-lô-mét một giờ": "40 km/h",
+  "Bốn mươi ki-lô-mét một giờ": "40 km/h",
+  "không phẩy mười hai giây": "0,12 giây",
+  "Không phẩy mười hai giây": "0,12 giây",
+  "hai mươi hai xúc tu": "22 xúc tu",
+  "Hai mươi hai xúc tu": "22 xúc tu",
+  "hai mươi lăm ngàn": "25.000",
+  "Hai mươi lăm ngàn": "25.000",
+  "bốn phẩy năm mi-li-mét": "4,5mm",
+  "Bốn phẩy năm mi-li-mét": "4,5mm",
+  "ba xăng-ti-mét": "3cm",
+  "Ba xăng-ti-mét": "3cm",
+  "ba mươi mét": "30m",
+  "Ba mươi mét": "30m",
+  "một trăm viên": "100 viên",
+  "Một trăm viên": "100 viên",
+  "hai trăm mili-giây": "200 mili-giây",
+  "Hai trăm mili-giây": "200 mili-giây",
+  "mười lăm loài": "15 loài",
+  "Mười lăm loài": "15 loài",
+  "chín bộ não": "9 bộ não",
+  "Chín bộ não": "9 bộ não",
+  "ba quả tim": "3 quả tim",
+  "Ba quả tim": "3 quả tim",
+  "bốn quả tim": "4 quả tim",
+  "Bốn quả tim": "4 quả tim",
+  "gấp mười lần": "gấp 10 lần",
+  "Gấp mười lần": "gấp 10 lần",
+  "gấp ba lần": "gấp 3 lần",
+  "Gấp ba lần": "gấp 3 lần",
+  "một phần mười giây": "1/10 giây",
+  "một miligram": "1 miligram",
+  "nửa miligram": "0,5 miligram",
+  "năm mươi phần trăm": "50%",
+  "Năm mươi phần trăm": "50%",
+  "tám mươi phần trăm": "80%",
+  "Tám mươi phần trăm": "80%",
+  "một trăm phần trăm": "100%",
+  "Một trăm phần trăm": "100%",
+  "hai mươi mốt": "21",
+  "ba mươi": "30",
+  "bảy mươi": "70",
+  "tám mươi": "80",
+  "ba trăm": "300",
+  "ba mươi lăm triệu lần": "35 triệu lần",
+  "triệu năm": "triệu năm",
+  "bốn mươi": "40",
+  "bốn mươi xăng-ti-mét": "40cm",
+  "một không hai": "1-0-2",
+  "mười lăm xăng-ti-mét": "15cm",
+  "mười lăm": "15",
+  "năm hai ngàn lẻ chín": "2009",
+  "ba mươi phút": "30 phút",
+  "tám phần trăm": "8%",
+  "năm hai ngàn không trăm hai mươi": "2020",
+  "trăm độ C": "100°C",
+  "năm hai ngàn mười tám": "2018",
+  "Năm hai ngàn không trăm hai mươi hai": "2022",
+  "năm hai ngàn không trăm hai mươi hai": "2022",
+  "một cây số": "1 km²",
+  "ba mươi ba phần trăm": "33%",
+  "một ngàn mét": "1.000m",
+  "ngàn con": "1.000 con",
+  "Năm hai ngàn mười chín": "2019",
+  "năm hai ngàn mười chín": "2019",
+  "mười ngàn năm": "10.000 năm",
+  "một trăm ki-lô-gam": "100kg",
+  "một trăm": "100",
+  "ba mét": "3m",
+  "mười bốn": "14",
+  "ba mươi mốt": "31",
+  "ba trăm chín mươi cây số": "390 km/h",
+  "ba trăm chín mươi": "390",
+  "hai ngàn mười chín": "2019",
+  "hai ngàn mười tám": "2018",
+  "hai ngàn không trăm hai mươi hai": "2022",
+  "hai ngàn không trăm hai mươi": "2020",
+  "hai ngàn lẻ chín": "2009",
+  "hai phần ba": "2/3",
+  "ba mươi ba": "33",
+  "năm mươi": "50",
+  "Năm mươi": "50",
+  "tám trăm": "800",
+  "Tám trăm": "800",
+  "hai mươi": "20",
+  "Hai mươi": "20",
+  "hai trăm": "200",
+  "Hai trăm": "200",
+  "hai ngàn mười bảy": "2017",
+  "sáu mươi": "60",
+  "Sáu mươi": "60",
+  "sáu trăm": "600",
+  "Sáu trăm": "600",
+  "chín mươi lăm": "95%",
+  "Chín mươi lăm": "95%",
+  "ngàn năm": "1.000 năm",
+  "ba ngày": "3 ngày",
+  "hai tấn": "2 tấn",
+  "ba giây": "3 giây",
+  "chín mươi chín": "99",
+  "Chín mươi chín": "99",
+  "chín mươi chín phẩy chín": "99,9%",
+  "Chín mươi chín phẩy chín": "99,9%",
+  "chín mươi chín phần trăm": "99%",
+  "Chín mươi chín phần trăm": "99%",
+  "hai mươi phần trăm": "20%",
+  "Hai mươi phần trăm": "20%",
+  "Ba mươi ba phần trăm": "33%",
+  "mười lăm phần trăm": "15%",
+  "Mười lăm phần trăm": "15%",
+  "bốn mươi lăm phần trăm": "45%",
+  "Bốn mươi lăm phần trăm": "45%",
+  "hai mươi độ C": "20°C",
+  "Hai mươi độ C": "20°C",
+  "tám mili-giây": "8 mili-giây",
+  "Tám mili-giây": "8 mili-giây",
+  "bốn mươi triệu": "40 triệu",
+  "Bốn mươi triệu": "40 triệu",
+  "năm trăm mét": "500m",
+  "Năm trăm mét": "500m",
+  "mười ngàn lần": "10.000 lần",
+  "Mười ngàn lần": "10.000 lần",
+  "ba mươi sáu giờ": "36 giờ",
+  "Ba mươi sáu giờ": "36 giờ",
+  "tỷ năm": "tỷ năm",
+  "Tỷ năm": "tỷ năm",
+  "hàng tỷ năm": "hàng tỷ năm",
+  "Hàng tỷ năm": "hàng tỷ năm",
+  "mười ngàn sợi": "10.000 sợi",
+  "Mười ngàn sợi": "10.000 sợi",
+  "mười ngàn": "10.000",
+  "Mười ngàn": "10.000"
+ },
+ "voice": {
+  "min_long_s": 3600,
+  "gap_breathing_s": 0.41
+ },
+ "art": {
+  "thumb_badge": "TRỌN BỘ 10 TẬP",
+  "style": "whiteboard_comic",
+  "aspect_ratio": "16:9"
+ },
+ "seo": {
+  "title": "[TẬP ĐẶC BIỆT] 10 Quái Kiệt Dị Nhân Phá Vỡ Mọi Định Luật Sinh Học: Ai Lên Ngôi Vô Địch?!",
+  "hook_paragraph": "Trọn bộ 10 sinh vật dị biệt nhất từ Tập 21 đến Tập 30 của kênh Vẽ Chuyện Hoang Dã chính thức quy tụ trong Đại Hội Sinh Tồn Mùa 3! 100% nội dung mới toanh đã kiểm chứng qua các tạp chí khoa học hàng đầu: từ Kỳ Nhông Axolotl mang bộ gen 32 tỷ base kháng ung thư, Cá Mút Đá Hagfish sở hữu sợi tơ nhớt bền gấp 10 lần tơ nhện và dai hơn Kevlar, Chuột Chũi Mũi Sao đớp mồi 0,12 giây và ngửi dưới nước, đến Sứa Bất Tử đảo ngược thời gian tế bào. Ai sẽ là nhà vô địch vĩ đại của Đấu Trường Dị Nhân?",
+  "bullets": [
+   "Vòng 1 – Vũ khí tự thân: Mông bọc thép 3cm Wombat nghiền sọ Dingo, Răng phủ sắt Hải Ly đốn hạ cổ thụ, Móng xương Wolverine đâm thủng da",
+   "Vòng 2 – Nghệ thuật thoát hiểm: Axolotl tái sinh não tim không sẹo, Hải Sâm xả ruột dính nhớt qua hậu môn, Bạch Tuộc Mimic biến hình 15 loài kịch độc trong 1 giây",
+   "Vòng 3 – Tốc độ phản xạ: Chuột Chũi Mũi Sao ăn mồi 0,12s nhanh nhất hành tinh & ngửi mùi dưới nước, Bạch Tuộc 8 xúc tu tư duy độc lập",
+   "Vòng 4 – Kỹ sư địa hình: Đập nước Hải Ly cứu hạn hán và chống cháy rừng, Mạng lưới hang ngầm Wombat 30m, Kiến nút chai bịt cửa tổ",
+   "Vòng 5 – Kháng thể siêu cấp: Bộ gen 32 tỷ cặp base chống ung thư của Axolotl, Gen bảo vệ telomere của Sứa Bất Tử, Lông ếch hô hấp dưới suối xiết",
+   "Vòng 6 – Người hùng sinh thái: Hải Sâm tiêu hóa 130 tấn trầm tích bảo vệ san hô, Tơ hagfish dọn sạch đáy biển sâu 1.000m",
+   "Vòng 7 – Cụ tổ cổ đại: Cá Mút Đá Hagfish sống trước khủng long 300 triệu năm, Hải Ly khổng lồ 100kg kỷ băng hà",
+   "Vòng 8 – Phúc khảo tin đồn: Sứa bất tử có thực sự bất tử trước rùa biển? Hải Ly có thích ăn gỗ? Ếch tự bẻ xương có thấy đau?",
+   "Chung kết – Món quà nhân loại: Tơ hagfish dệt áo chống đạn thế hệ mới, Y học tái tạo mô người từ Axolotl, Dược phẩm đảo ngược lão hóa từ Sứa"
+  ],
+  "question": "Nếu được sở hữu 1 siêu năng lực của 10 quái kiệt Mùa 3: tái sinh không sẹo của Axolotl, mông bọc thép của Wombat, hay khả năng đảo ngược thời gian của Sứa Bất Tử, bạn sẽ chọn năng lực nào? Hãy bình luận bên dưới nhé!",
+  "next_teaser": "Đại Hội Sinh Tồn Mùa 4 — 10 dũng sĩ săn mồi trên không và thảo nguyên (Chim Cắt Lớn Peregrine Falcon, Cá Voi Sát Thủ, Quạ Đen...)",
+  "hashtags": [
+   "#VeChuyenHoangDa",
+   "#TheGioiDongVat",
+   "#DaiHoiSinhTon",
+   "#MegaCompilation",
+   "#DongVatKyLa",
+   "#KhoaHoc"
+  ],
+  "tags": [
+   "vẽ chuyện hoang dã",
+   "đại hội sinh tồn",
+   "đại hội sinh tồn mùa 3",
+   "thế giới động vật",
+   "động vật kỳ lạ",
+   "ếch lông wolverine",
+   "kỳ nhông axolotl",
+   "hải sâm",
+   "cá mút đá hagfish",
+   "bạch tuộc mimic",
+   "gấu túi wombat",
+   "chuột chũi mũi sao",
+   "kiến nổ cảm tử",
+   "sứa bất tử",
+   "hải ly",
+   "siêu năng lực động vật",
+   "khoa học thú vị",
+   "whiteboard animation",
+   "nghe trước khi ngủ"
+  ],
+  "shorts_title": "Đại Hội Sinh Tồn Mùa 3: 10 Dị Nhân Động Vật – Ai Vô Địch?! 👑 #shorts #dongvat",
+  "shorts_desc": "Axolotl mọc lại tim não, Hagfish 20 lít keo nhớt, Wombat mông bọc thép hay Sứa Bất Tử 4,5mm? Đấu trường siêu năng lực điên rồ nhất thế giới tự nhiên — nhà vô địch sẽ khiến bạn ngã ngửa! 👑\n👉 Xem trọn bộ Đại Hội Sinh Tồn Mùa 3 trên kênh Vẽ Chuyện Hoang Dã.",
+  "shorts_tags": [
+   "đại hội sinh tồn",
+   "đại hội sinh tồn mùa 3",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã",
+   "động vật kỳ lạ"
+  ],
+  "en_title": "[SPECIAL] 10 Immortal & Mutant Animal Champions: Who Wins Season 3?!",
+  "en_hook": "Ten extraordinary biological anomalies from Episodes 21 to 30 of Wild Tales Sketch — Wolverine Frog, Axolotl, Sea Cucumber, Hagfish, Mimic Octopus, Wombat, Star-Nosed Mole, Exploding Ant, Immortal Jellyfish, and Beaver — enter SURVIVAL TOURNAMENT SEASON 3 across 8 brutal rounds! 100% brand-new peer-reviewed science never told in the solo episodes: Hagfish slime threads 10x stronger than spider silk and tougher than Kevlar, Axolotl 32-billion base-pair genome resisting cancer, Star-Nosed Mole 0.12-second foraging and underwater olfaction, Beaver wildfire-resistant refugia wetlands, Wombat burrow networks rescuing animals during brushfires, and an unbelievable 4.5mm champion!",
+  "en_chapters": [
+   "Opening: 10 Mutant Champions Enter the Bio-Arena",
+   "Round 1: Upgraded Self-Weapons & Biological Armor",
+   "Round 2: Extreme Regeneration & Bizarre Escape Tactics",
+   "Round 3: Supersonic Reflexes & Sensory Superpowers",
+   "Halftime: Backstage Interviews & Hilarious Moments",
+   "Round 4: Landscape Engineers & Silent Animal Societies",
+   "Round 5: Super-Antibodies & Immortal Mutated Genomes",
+   "Round 6: Ecosystem Heroes Guarding Forests & Oceans",
+   "Special Awards: 300-Million-Year Ancestors & Prehistoric Giants",
+   "Round 7: Myth-Busting — Science Debunks Famous Legends",
+   "Semifinals: High-Tech Lab Analysis & Synchrotron X-Rays",
+   "Grand Finale: Gifts to Humanity — Future Bio-Technology",
+   "Medal Ceremony & Season 3 Final Scoreboard",
+   "Closing Ceremony: Lessons, Conservation & Season 4 Teaser"
+  ],
+  "en_shorts_title": "10 Mutant Animal Champions Battle — Who Wins Season 3?! 👑 #shorts #animals"
+ },
+ "special": "mega-original",
+ "series_label": "Tập đặc biệt Đại Hội Sinh Tồn #3 (sau 10 tập tiếp theo: Tập 21-30)",
+ "next_label": "tập 31 (Chim Cắt Lớn Peregrine Falcon)",
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "KHAI MẠC MÙA 3",
+    "banner_title": "ĐẠI HỘI SINH TỒN MÙA 3",
+    "chapter_title": "Khai mạc: 10 Quái Kiệt Dị Nhân Bước Vào Đấu Trường",
+    "hook": "ĐẤU TRƯỜNG DỊ NHÂN MÙA 3",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Màn đêm buông xuống một đấu trường cổ kính được bao quanh bởi những rạn san hô phát quang và rừng rậm nguyên sinh bí ẩn... Ở chính giữa sàn đấu, một chiếc vương miện hoàng gia nạm ngọc phát ra ánh sáng lung linh kỳ ảo, chờ đợi chủ nhân mới của Mùa ba. Đêm nay, mười sinh vật dị thường nhất từ Tập hai mươi mốt đến Tập ba mươi của kênh Vẽ Chuyện Hoang Dã sẽ chính thức hội ngộ! Họ không đến để nhắc lại những câu chuyện cũ, mà để đọ sức trực tiếp bằng hàng loạt bí mật sinh học chấn động thế giới! Mỗi loài mang theo một siêu năng lực quái dị dường như bước ra từ những trang truyện tranh siêu anh hùng viễn tưởng. Từ khả năng mọc lại cả não bộ và trái tim không tì vết, tấm khiên mông bọc thép dập nát sọ kẻ thù, cho tới bộ gen đảo ngược dòng thời gian để trường sinh bất lão!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "[surprise-oh] Bật toàn bộ hệ thống đèn pha! Chào mừng toàn thể muôn loài đã đến với Đại Hội Sinh Tồn Mùa ba: Đấu Trường Dị Nhân! Tôi là người dẫn chương trình đêm nay, và tôi xin cam kết danh dự: những phát hiện khoa học bạn sắp nghe đều mới toanh một trăm phần trăm! Từ việc tơ nhớt Cá Mút Đá dai hơn áo giáp chống đạn, Kỳ Nhông Axolotl mang bộ gen ba mươi hai tỷ cặp base chống ung thư, cho đến Sứa Bất Tử tự đảo ngược thời gian tế bào! [laughter] Đại hội không tổ chức chỉ để so kè nắm đấm, mà là nơi tôn vinh những kỳ tích thích nghi đỉnh cao mà mẹ thiên nhiên đã dày công kiến tạo suốt hàng trăm triệu năm qua! Luật thi đấu Mùa ba cực kỳ cam go: tám vòng đấu chính thức, xen kẽ giờ giải lao hậu trường, trao giải phụ và vòng phúc khảo tin đồn thế kỷ. Mỗi vòng thi, ban giám khảo sẽ trao ba tấm huy chương: Vàng được ba điểm, Bạc hai điểm, và Đồng một điểm. Riêng Vòng Chung Kết sẽ được nhân đôi điểm số!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Khắp các khán đài, muông thú từ khắp năm châu bốn biển đang giương cao những biểu ngữ cổ vũ vô cùng huyên náo và hài hước! Đội cổ động viên rái cá biển vừa gõ sò vừa reo hò, trong khi các bạn chồn Gulo ngồi ở hàng ghế danh dự chăm chú theo dõi từng động thái của mười dị nhân! Hải Ly thậm chí còn ngứa răng cắn nhẹ vào chân chiếc bàn ban tổ chức làm bà Cú giám khảo phải vội vàng lấy thước gõ can ngăn! [laughter] Còn anh chàng Wombat thì tranh thủ tựa chiếc mông bọc thép ba xăng-ti-mét vào cây cột thép chịu lực để ngủ gật một giấc ngắn trước giờ khai chiến!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Giám khảo xin nhắc nhở nghiêm túc: nghiêm cấm phóng ruột vào mặt đối thủ, cấm xả nhớt làm trơn sàn thi đấu và cấm nổ bụng lung tung trong khu vực khán đài!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Các tuyển thủ đã nghe rõ chưa? Nhất là anh chàng Hải Sâm và bạn Kiến Nổ đang lén lút nhìn quanh đằng kia! [laughter] Và bây giờ, xin mời toàn thể khán đài cùng đứng dậy nhiệt liệt hoan nghênh mười quái kiệt bước ra thảm đỏ danh dự!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tuyển thủ số một! Chiến binh móng vuốt Tây Phi tự bẻ xương ngón chân xuyên thủng da chân để nghênh chiến! Ếch Lông Wolverine! Tuyển thủ số hai! Đại sứ tái sinh của hồ nước ngọt Mexico có thể mọc lại cả trái tim và não bộ không vết sẹo! Kỳ Nhông Axolotl! Tuyển thủ số ba! Sinh vật lầy lội không xương đáy biển sẵn sàng xả trọn bộ ruột qua hậu môn để tẩu thoát! Hải Sâm! Tuyển thủ số bốn! Cổ vật sống ba trăm triệu năm tiết ra hai mươi lít keo nhớt trong chớp mắt làm nghẹt thở cá mập! Cá Mút Đá Hagfish! Tuyển thủ số năm! Bậc thầy phân thân sở hữu chín bộ não và có thể cải trang thành mười lăm loài kịch độc đáy đại dương! Bạch Tuộc Mimic!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Tuyển thủ số sáu! Chiến xa đào hầm nước Úc sở hữu tấm mông bọc thép ba xăng-ti-mét đập nát sọ kẻ thù! Gấu Túi Wombat! Tuyển thủ số bảy! Cỗ máy săn mồi mù lòa mang hai mươi hai xúc tu hồng đớp mồi nhanh nhất hành tinh! Chuột Chũi Mũi Sao! Tuyển thủ số tám! Nữ chiến binh cảm tử sẵn sàng kích nổ cơ thể phun keo dính bảo vệ an toàn cho tổ ấm! Kiến Nổ Cảm Tử! Tuyển thủ số chín! Tổng công trình sư thiên tài sở hữu răng cam bọc sắt đốn ngã cổ thụ xây đập nước vĩ đại! Hải Ly!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và tuyển thủ số mười... xin mời ban tổ chức đưa kính lúp quang học ra sân vì bạn ấy đang trôi lơ lửng trong ly nước của giám khảo! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Dạ em ở đây nè anh MC ơi! Em chỉ dài bốn phẩy năm mi-li-mét thôi nhưng tuổi thọ của em thì bằng cả vũ trụ cộng lại đó nha!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Một tràng pháo tay cho sự có mặt của mười dũng sĩ dị nhân! Và theo truyền thống, mời tất cả bước vào Lễ Cân Ký Đo Đạc khởi động! Mười tuyển thủ lần lượt bước lên đĩa cân kiểm tra thể trọng dưới sự giám sát chặt chẽ của các trọng tài thú y quốc tế!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chiến xa Wombat bước lên đầu tiên! Rầm! Ba mươi lăm ki-lô-gam cơ bắp chắc nịch đè nặng mặt cân thép! Tuyển thủ hạng nặng số một của đại hội! Tiếp theo là kỹ sư Hải Ly: hai mươi lăm ki-lô-gam lông dày và cơ hàm sắt thép, sẵn sàng cho mọi cuộc đọ sức thể lực! Nhóm hạng trung gồm Cá Mút Đá Hagfish nặng một ký, Hải Sâm nửa ký, và Bạch Tuộc Mimic ba trăm gam uốn lượn trên đĩa cân thủy tinh! Ếch Wolverine nặng tám mươi gam, Kỳ Nhông Axolotl bảy mươi gam, và Chuột Chũi Mũi Sao vỏn vẹn năm mươi gam!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và đỉnh điểm chênh lệch: Kiến Nổ chỉ nặng nửa miligram, còn Sứa Bất Tử chỉ nặng đúng một miligram bé như hạt bụi nước! Gấu Wombat nặng gấp... ba mươi lăm triệu lần Sứa Bất Tử! Chiếc máy tính của ban tổ chức suýt bốc khói vì tỷ lệ lệch pha này! [laughter] Sự chênh lệch khủng khiếp giữa cỗ xe bọc thép ba mươi lăm ký và chú sứa một miligram lập tức thổi bùng lên các cuộc tranh cãi nảy lửa khắp khán đài!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Sau lễ cân ký, bảng dự đoán ban đầu nghiêng hẳn về hai gã cơ bắp Wombat và Hải Ly cùng sát thủ móng vuốt Ếch Wolverine! Còn Sứa Bất Tử một miligram và Hải Sâm mềm nhũn? Giới chuyên môn ghi chú lạnh lùng: đề nghị mua sẵn bảo hiểm trọn gói! [laughter] Nhưng lịch sử hai mùa giải trước đã dạy chúng ta bài học xương máu: kẻ tí hon thường là kẻ tung ra cú đấm quyết định khiến tất cả ngã ngửa!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Mỗi ứng viên mang theo một bộ mã gen dị thường được tôi luyện qua hàng trăm triệu năm tiến hóa khắc nghiệt của tự nhiên! Không có sàn đấu nào trên hành tinh này có thể quy tụ cùng lúc những kỳ tích sinh học phá vỡ mọi quy luật vật lý và y học đến như vậy! Trong thế giới tự nhiên kỳ thú, cơ bắp chưa bao giờ là thước đo duy nhất cho sự sinh tồn! Đêm nay, mười dị nhân sẽ chứng minh chân lý đó!",
+      "mood": "tram_bi_an"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "VÒNG 1: VŨ KHÍ TỰ THÂN",
+    "banner_title": "VÒNG 1: VŨ KHÍ TỰ THÂN",
+    "chapter_title": "Vòng 1: Đại Chiến Nâng Cấp Vũ Khí & Áo Giáp Sinh Học",
+    "hook": "ĐẠI CHIẾN VŨ KHÍ TỰ THÂN",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "[surprise-oh] Tiếng còi khai cuộc vang lên! Chào mừng quý vị đến với Vòng một: Đọ Sức Vũ Khí Tự Thân và Áo Giáp Sinh Học! Tại vòng đấu này, mười tuyển thủ sẽ phô diễn những trang bị cơ thể dị thường nhất được tôi luyện qua hàng trăm triệu năm tiến hóa khắc nghiệt của thế giới hoang dã! Không có súng đạn cơ khí của con người, nhưng vũ khí sinh học tự nhiên lại sở hữu độ bền và hiệu năng vượt xa mọi phòng thí nghiệm quân sự tối tân nhất!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ứng cử viên số một bước ra sàn đấu: Gấu Túi Wombat mang chiếc mông bọc thép huyền thoại tiến thẳng vào mô hình hang đất hẹp với phong thái vô cùng tự tin! Các nhà khoa học tại đại học Adelaide đã phát hiện: lớp giáp mông này không phải là xương đặc thông thường, mà là sự kết hợp hoàn hảo giữa sụn dày và các dải mô mạc sợi kết nối siêu bền! Độ dày của tấm khiên lên tới ba xăng-ti-mét, có khả năng triệt tiêu toàn bộ lực cắn chết người từ hàm răng sắc nhọn của chó hoang Dingo một cách dễ dàng! Chưa dừng lại ở đó, Wombat tung ra tuyệt kỹ cú đá lừa ngược: dùng bốn chân gồng cứng đẩy toàn bộ sức nặng cơ thể ép nát hộp sọ kẻ tấn công lên trần hang đá hoa cương! Cơ chế đập nát sọ bằng mông biến nơi dễ tổn thương nhất của động vật thành một chiếc bẫy kẹp thủy lực nghiền nát mọi kẻ săn mồi liều lĩnh trong chớp mắt!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Tuyệt chiêu phòng thủ biến thành đòn tấn công chí mạng! Khán đài vỗ tay sấm dậy trước cỗ xe tăng đào hầm kiên cố của hoang dã nước Úc! Nhưng đối thủ của Wombat không hề chịu lép vế! Xin mời kỹ sư Hải Ly tiến vào sàn đọ sức với bộ răng cửa màu cam rực rỡ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tại sao răng của Hải Ly lại có màu cam kỳ lạ như vậy? Một công trình nghiên cứu trên tạp chí Science đã làm sáng tỏ bí mật này! Men răng của Hải Ly được gia cố bằng các hạt nano hợp chất giàu sắt vô định hình, giúp răng của chúng cứng hơn cả men răng người và kháng hoàn toàn axit ăn mòn! Nhờ vũ khí bọc sắt này, Hải Ly có thể gặm đứt một thân cây gỗ cứng đường kính bốn mươi xăng-ti-mét chỉ trong vài giờ đồng hồ mà răng không hề bị mẻ hay gãy! Hơn thế nữa, răng của chúng mọc liên tục suốt đời, càng gặm gỗ nhiều thì hai mặt răng càng tự mài vào nhau thành lưỡi đục sắc như dao mổ phẫu thuật tinh vi! Nếu con người sở hữu hàm răng bọc sắt như Hải Ly, các nha sĩ trên toàn cầu chắc chắn sẽ thất nghiệp tập thể vì sâu răng không bao giờ có cửa tấn công! [laughter]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Đến lượt sát thủ rừng rậm Tây Phi xuất trận: Ếch Lông Wolverine! Khi bị đe dọa, chú ếch này tự gồng các bó cơ chân sau, bẻ gãy khớp nối sụn của đốt xương ngón chân cuối cùng! Mũi xương nhọn hoắt đâm xuyên thủng lớp da đệm thịt dưới lòng bàn chân, phóng ra ngoài như những chiếc móng vuốt tự chế chết người! Và điều kỳ diệu nhất theo công bố của tạp chí Biology Letters: sau khi chiến đấu xong, các cơ thả lỏng, móng xương tự thụt vào bên trong! Chỉ sau bốn mươi tám giờ, lớp mô da bị đâm rách sẽ tự động tái tạo và lành lặn hoàn toàn mà không hề bị nhiễm trùng nhờ các hợp chất kháng khuẩn cực mạnh tiết ra từ tuyến da! Một cơ chế bẻ xương tự thân có một không hai trong thế giới động vật có xương sống, kết hợp giữa vũ khí sát thương và khả năng tự chữa lành siêu tốc!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Không chỉ có bốn tuyển thủ trên, nữ chiến binh tí hon Kiến Nổ Cảm Tử cũng khiến ban giám khảo phải giật mình trước cơ chế tự hủy bảo vệ tổ! Nghiên cứu của tiến sĩ Alice Laciny tại Borneo phát hiện: cặp tuyến hàm dưới của kiến thợ phình to bất thường, kéo dài dọc toàn bộ khoang bụng! Khi đối mặt với kẻ thù xâm lược tổ, kiến thợ gồng toàn bộ các cơ bụng làm nứt vỡ lớp vỏ kitin, phóng thích dòng keo độc tố dính chặt và làm mù mắt kẻ tấn công! Một sự hy sinh quả cảm của tầng lớp thợ già để bảo toàn sự sống cho toàn bộ đàn ấu trùng và kiến chúa non trẻ! Và Bạch Tuộc Mimic cũng thể hiện vũ khí cận chiến: các giác hút trên tám xúc tu có thể siết chặt với lực hút hàng chục kilopascal, đồng thời tiết ra độc tố tetrodotoxin gây tê liệt tức thì con mồi!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bên cạnh đó, lớp da nhầy đặc biệt của Kỳ Nhông Axolotl cũng là một tấm áo giáp sinh học vô hình chống lại mọi mầm bệnh nấm mốc nước ngọt! Lớp chất nhầy kháng khuẩn phủ kín bề mặt cơ thể Axolotl chứa hàng chục loại enzym lysozyme tự nhiên, tiêu diệt vi khuẩn gram âm ngay khi chúng vừa tiếp xúc với biểu bì! Nhờ vậy, ngay cả khi bị thương rách toạc da thịt trong các cuộc đụng độ dưới đáy hồ đục, cơ thể chúng vẫn duy trì trạng thái vô trùng tuyệt đối để phục vụ tiến trình tái sinh!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Thậm chí khi nghiên cứu kỹ lưỡng về cơ học va chạm, các nhà vật lý nhận thấy cấu trúc mông của Wombat hoạt động như một hệ thống giảm xóc thủy lực tự nhiên! Lực cắn chết người từ kẻ săn mồi bị phân tán đều ra toàn bộ vùng chậu và cột sống vững chãi, biến áp lực tập trung thành một lực nén nhẹ nhàng không gây tổn thương! Còn chiếc càng súng của Tôm Súng có thể chịu được áp lực nổ tương đương hàng chục bầu khí quyển mà lớp vỏ kitin bên ngoài không hề bị rạn nứt một sợi tóc! Ban giám khảo tròn mắt chấm điểm! Và cuối cùng là màn trình diễn của cụ tổ ba trăm triệu năm: Cá Mút Đá Hagfish! Khi một mô hình cá mập giả lao vào cắn, Hagfish ngay lập tức tiết ra một lượng chất nhầy nhỏ hòa tan vào nước biển xung quanh! Viện nghiên cứu sinh học vật liệu phát hiện: bên trong chất nhầy của Hagfish chứa hàng vạn sợi protein tơ cuộn tròn siêu nhỏ! Khi gặp nước biển, các sợi tơ này bung dài ra tới mười lăm xăng-ti-mét, tạo thành một mạng lưới sợi bền gấp mười lần tơ nhện và dai hơn cả sợi Kevlar dùng may áo giáp chống đạn! Để không bị chính chất nhầy của mình bít nghẹt, Hagfish tự uốn cong cơ thể thắt thành một nút số tám hoàn hảo, gạt phăng lớp nhớt từ đầu đến đuôi chỉ trong nháy mắt! Một vòng đọ sức vũ khí đỉnh cao khiến thang điểm của ban giám khảo suýt chạm trần tuyệt đối!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Các nhà khoa học tại đại học Guelph phát hiện: độ đàn hồi của sợi tơ Hagfish khi kéo giãn còn vượt trội hơn cả sợi tơ nhện mạng tròn cự phách! Cấu trúc xoắn ốc của các vi sợi protein hoạt động như những chiếc lò xo giảm chấn phân tử, hấp thụ toàn bộ lực xé rách của dòng nước xoáy!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ban giám khảo đã hội ý xong! Vòng một: Huy chương Đồng thuộc về Hải Ly với hàm răng bọc sắt! Huy chương Bạc thuộc về Cá Mút Đá với mạng lưới tơ nhớt siêu bền! Và Huy chương Vàng ba điểm xuất sắc thuộc về Gấu Túi Wombat với tấm khiên mông bọc thép công thủ toàn diện!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Một vòng đấu mở màn mãn nhãn! Bảng điểm Mùa ba chính thức nhảy số: Wombat dẫn đầu với ba điểm, Hagfish hai điểm, Hải Ly một điểm!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "VÒNG 2: TÁI SINH THOÁT HIỂM",
+    "banner_title": "VÒNG 2: TÁI SINH THOÁT HIỂM",
+    "chapter_title": "Vòng 2: Bản Lĩnh Tái Sinh & Nghệ Thuật Thoát Chết Kỳ Dị",
+    "hook": "BẢN LĨNH TÁI SINH THOÁT HIỂM",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "[surprise-oh] Không để khán giả phải chờ lâu, chúng ta bước ngay vào Vòng hai: Bản Lĩnh Tái Sinh và Nghệ Thuật Thoát Hiểm Khó Tin! Nếu như Vòng một là cuộc đọ sức của giáp sắt và móng vuốt cơ học, thì Vòng hai là nơi quy luật sinh học thông thường bị bẻ gãy hoàn toàn! Đối với đa phần sinh vật sống trên Trái Đất, mất đi một cơ quan nội tạng quan trọng đồng nghĩa với cái chết cận kề. Nhưng với các quái kiệt đêm nay, đó chỉ là một sự cố nhỏ trên đường đi dạo!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tuyển thủ đầu tiên xuất trận với nụ cười thiên thần: Kỳ Nhông Axolotl của đất nước Mexico! Khán giả đều biết Axolotl có thể mọc lại chân tay, nhưng công trình nghiên cứu trên tạp chí Nature năm hai ngàn lẻ chín đã phát hiện một sự thật chấn động hơn nhiều! Các tế bào tại mầm tái sinh không hề quay về trạng thái tế bào gốc vô định, mà chúng lưu giữ một bộ nhớ danh tính dòng dõi cực kỳ chuẩn xác! Nhờ cơ chế này, Axolotl có thể tái tạo hoàn chỉnh một phần ba quả tim bị tổn thương, mọc lại các thùy não và nối liền tủy sống bị đứt đoạn mà không để lại bất kỳ vết sẹo xơ hóa nào! Đặc biệt hơn, chúng có khả năng tiếp nhận cấy ghép nội tạng từ bất kỳ cá thể Axolotl nào khác mà hệ miễn dịch hoàn toàn không hề có phản ứng đào thải mô ghép! Bạn có thể ghép mắt, ghép chân hay thậm chí ghép cả nửa bộ não từ một chú kỳ nhông khác sang, và cơ thể chúng vẫn tiếp nhận êm ru như đồ chính hãng của mình! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Cả khán đài ồ lên thán phục trước cỗ máy tái sinh hoàn hảo của thiên nhiên! Nhưng tiếng chuông ma thuật bất ngờ ngân vang từ chiếc ly thủy tinh nhỏ! Xin mời nữ hoàng đảo ngược thời gian: Sứa Bất Tử dài chỉ bốn phẩy năm mi-li-mét!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Điều gì sẽ xảy ra khi một sinh vật già cỗi, bị bỏ đói hoặc chịu tổn thương thể xác nghiêm trọng? Thông thường cái chết sẽ là điểm kết thúc. Nhưng với Sứa Bất Tử, chúng kích hoạt một tiến trình sinh học kỳ diệu gọi là chuyển biệt hóa tế bào: toàn bộ các tế bào chuông sứa tự phân giải và chuyển hóa ngược! Khối mô này chìm xuống đáy biển, tự biến đổi trở lại thành một quần thể polyp sơ sinh hoàn toàn non trẻ, rồi từ đó lại nảy chồi sinh ra hàng trăm chú sứa con mới! Chu trình này có thể lặp đi lặp lại vô tận mà không bị giới hạn bởi tuổi già sinh học, biến chúng thành sinh vật duy nhất trên Trái Đất nắm giữ chìa khóa bất tử thực thụ! Giống như một người già tám mươi tuổi khi cảm thấy mệt mỏi có thể tự biến ngược thành một đứa bé sơ sinh trong nôi rồi lớn lên tiếp tục cuộc đời mới! Một quyền năng làm đảo lộn hoàn toàn định luật sinh học!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Đến lượt bậc thầy lầy lội dưới đáy đại dương bước ra: Hải Sâm! Khi bị một con cua biển khổng lồ kẹp chặt, Hải Sâm không bỏ chạy mà sử dụng chiêu thức tống xuất nội tạng kinh hoàng qua đường hậu môn! Đó là chùm ống Cuvier chứa đầy chất keo độc tố dính chặt khiến kẻ săn mồi tê liệt, trong khi Hải Sâm ung dung trườn đi thoát nạn! Và điều không tưởng là chỉ sau năm tuần lễ, Hải Sâm sẽ tự nuôi dưỡng và mọc lại nguyên vẹn một hệ tiêu hóa và buồng phổi nước hoàn toàn mới toanh! Chưa hết, các nhà sinh học tại đại học Bỉ còn phát hiện: loài cá ngọc trai tí hon Carapidae thường xuyên bơi chui vào tận sâu bên trong hậu môn của Hải Sâm để làm tổ trú ẩn an toàn!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Một chiếc khách sạn đáy biển kỳ quái nhất hành tinh khiến cả đấu trường cười nghiêng ngả! [laughter] Và cuối cùng là màn ảo thuật biến hóa thần tốc của Bạch Tuộc Mimic!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Không cần ẩn nấp dưới cát, Bạch Tuộc Mimic sở hữu các túi sắc tố và hệ cơ papillae vi mô có thể thay đổi màu sắc và kết cấu bề mặt da chỉ trong hai trăm mili-giây! Tùy theo kẻ thù đang đối diện là ai, chúng có thể tự điều khiển tám xúc tu để giả dạng thành mười lăm loài kịch độc khác nhau: từ rắn biển sọc đen, cá sư tử xòe gai độc, cá bơn ẩn mình, đến cả sứa biển trôi nổi! Một năng lực ngụy trang động đạt đỉnh cao của trí tuệ đại dương! Kẻ thù nhìn vào chỉ thấy một bãi mìn sinh học đầy gai độc chết người chứ không hề nhận ra chú bạch tuộc đang cười thầm bên trong!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Nói về khả năng chịu đựng và thoát hiểm, Ếch Wolverine cũng sở hữu một cơ chế bảo vệ mối nối gân vô cùng kỳ lạ! Khác với các loài động vật có móng vuốt cố định, đầu mút xương ngón chân của ếch được giữ chặt bởi một khối mô collagen dạng sợi đàn hồi cực cao! Khi áp lực co cơ vượt qua ngưỡng chịu đựng, khối mô này tự đứt ra có kiểm soát, giải phóng móng xương đâm ra ngoài mà không làm rách các mạch máu chính! Điều này giải thích vì sao vết thương sau đó tự hàn gắn rất nhanh mà ếch không hề bị mất máu quá nhiều! Và tại sao chú cá ngọc trai sống trong hậu môn Hải Sâm cả tuần mà không hề bị ngạt thở hay chết chìm? Bởi vì Hải Sâm hô hấp bằng cách liên tục hút và xả hàng lít nước biển giàu oxy qua hậu môn vào hai nhánh phổi nước, biến nơi này thành một phòng khách sạn có điều hòa nhiệt độ và bình oxy tươi mới quanh năm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và ngay cả khi đối mặt với những cơn lũ quét ngập úng bất ngờ dưới lòng đất, Gấu Wombat cũng sở hữu bản lĩnh sinh tồn kỳ diệu để bảo toàn tính mạng! Khi nước lũ dâng ngập các cửa hang chính, Wombat không hề hoảng loạn mà bình tĩnh di chuyển lên các ngách hang cao hơn được thiết kế theo hình chữ U ngược! Những túi khí tự nhiên này giúp chúng sống sót ngon lành dưới lòng đất suốt nhiều ngày liền chờ cho đến khi nước lũ rút hoàn toàn!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Không chỉ có khả năng mọc lại chi và nội tạng, Kỳ Nhông Axolotl còn có thể tái tạo hoàn chỉnh tế bào võng mạc mắt và thấu kính quang học tinh khiết! Khi bị tổn thương thị giác, các tế bào sắc tố biểu mô mống mắt tự động chuyển hóa thành tế bào gốc phôi thai để dệt lại một thấu kính mắt mới toanh không hề có vết mờ đục! Còn Hải Sâm thì sở hữu khả năng tái tạo tế bào tuyến sinh dục và mô bài tiết chỉ trong vòng vài tuần lễ sau các cuộc giải phẫu tự thân khốc liệt!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Điều kinh ngạc nhất là hệ thống tái sinh của Hải Sâm được kích hoạt bởi các phân tử tín hiệu hóa học peptide vô cùng đặc biệt! Chỉ trong vòng hai mươi tư giờ sau khi tự phóng nội tạng, các tế bào gốc biểu mô ruột đã kết tụ thành mầm mô tạng non trẻ khỏe mạnh!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Kết quả Vòng hai của ban giám khảo: Huy chương Đồng thuộc về Bạch Tuộc Mimic với màn biến hình mười lăm loài kịch độc! Huy chương Bạc thuộc về Kỳ Nhông Axolotl với bộ nhớ tái sinh mô hoàn hảo không sẹo! Và Huy chương Vàng ba điểm xuất sắc thuộc về tuyển thủ bé hạt tiêu Sứa Bất Tử với vòng lặp đảo ngược thời gian tế bào vô cực!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Bảng điểm sau hai vòng thi đấu đảo chiều ngoạn mục: Wombat và Sứa Bất Tử cùng chia sẻ ngôi đầu với ba điểm, Hagfish và Axolotl bám sát với hai điểm!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "VÒNG 3: PHẢN XẠ GIÁC QUAN",
+    "banner_title": "VÒNG 3: PHẢN XẠ GIÁC QUAN",
+    "chapter_title": "Vòng 3: Phản Xạ Siêu Tốc & Giác Quan Vượt Trội Dưới Lòng Đất",
+    "hook": "PHẢN XẠ GIÁC QUAN SIÊU TỐC",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "[surprise-oh] Đấu trường lại rực lửa! Chào mừng quý vị đến với Vòng ba: Phản Xạ Siêu Tốc và Những Giác Quan Kỳ Dị Vượt Trội! Nếu bạn nghĩ mắt là cửa sổ tâm hồn duy nhất để quan sát thế giới, thì các tuyển thủ Vòng ba sẽ khiến bạn phải suy nghĩ lại từ đầu! Ở thế giới bóng tối dưới lòng đất hay đáy biển sâu đục ngầu, thị giác thông thường hoàn toàn trở nên vô dụng, nhường chỗ cho những giác quan cơ học và sóng âm tinh vi nhất!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tiến vào đường hầm thử nghiệm bóng tối: sát thủ săn mồi đầm lầy Bắc Mỹ, Chuột Chũi Mũi Sao! Mặc dù đôi mắt bị thoái hóa gần như mù lòa, chiếc mũi chứa hai mươi lăm ngàn cơ quan thụ cảm của Chuột Chũi Mũi Sao lại là cơ quan xúc giác nhạy bén nhất từng được ghi nhận trong lịch sử khoa học! Hai mươi lăm ngàn cơ quan Eimer này chứa mạng lưới dây thần kinh cảm giác dày đặc đến mức: hơn năm mươi phần trăm diện tích vỏ não của chú chuột chũi này chỉ dùng để giải mã tín hiệu từ chiếc mũi sao! Và khi một ấu trùng côn trùng xuất hiện, chiếc đồng hồ đếm mili-giây của ban tổ chức bắt đầu đếm ngược! Chạm! Nhận diện! Nuốt chửng! Toàn bộ tiến trình chỉ diễn ra trong đúng không phẩy mười hai giây đồng hồ! Nhanh hơn một cái chớp mắt của con người tới ba lần! Chưa hết, giáo sư Kenneth Catania tại đại học Vanderbilt còn phát hiện một tuyệt kỹ không tưởng: Chuột Chũi Mũi Sao có thể ngửi được mùi thức ăn dưới nước! Bằng cách liên tục thổi các bong bóng khí từ lỗ mũi chạm vào vật thể rồi hít ngược bong bóng trở lại xoang mũi, chúng thu gom các phân tử mùi lơ lửng trong nước để ngửi chính xác tuyệt đối! Động vật có vú duy nhất trên Trái Đất có thể hít thở và ngửi mùi thức ăn trong môi trường ngập nước mà không hề bị sặc!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Động vật có vú đầu tiên trên thế giới ngửi được mùi khi đang ngụp lặn dưới nước! Một tràng pháo tay cho Chuột Chũi Mũi Sao! Nhưng đối thủ của chú ta, Bạch Tuộc Mimic, lập tức bước lên với hệ thần kinh phân tán dị thường bậc nhất đại dương!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Các nhà khoa học thần kinh phát hiện: hai phần ba tổng số nơ-ron não bộ của bạch tuộc không hề nằm ở hộp sọ trung tâm, mà trải dài dọc theo tám xúc tu! Điều này có nghĩa là mỗi xúc tu của Bạch Tuộc Mimic giống như một bộ não thu nhỏ: có thể tự nếm vị giác qua các giác hút, tự sờ chạm, tự suy nghĩ và giải quyết chướng ngại vật mà không cần chờ lệnh từ não bộ! Khi bị săn đuổi, tám xúc tu có thể tự động phối hợp điều phối các bước chạy mà não trung tâm chỉ cần tập trung tính toán đường thoát hiểm! Mỗi xúc tu vừa là cánh tay, vừa là con mắt xúc giác, vừa là chiếc lưỡi nếm vị thức ăn! Một mạng lưới trí tuệ phân tán siêu việt!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Đến lượt Ếch Lông Wolverine thể hiện giác quan thích nghi dòng suối chảy xiết! Lớp lông tơ kỳ lạ ở hai bên hông của ếch đực chứa đầy mạng lưới mao mạch máu và các tế bào thụ cảm cơ học vi mô! Khi ngồi dưới đáy suối đục ngầu cuồn cuộn bùn cát, lớp lông này vừa hấp thụ oxy hòa tan trong nước, vừa cảm nhận được sự thay đổi áp suất dòng chảy nhỏ nhất từ kẻ săn mồi bơi qua! Và kỹ sư Hải Ly cũng sở hữu đôi mắt bơi lặn siêu việt: lớp mí mắt thứ ba trong suốt hoạt động như chiếc kính bơi chuyên nghiệp, giúp chúng quan sát rõ mồn một từng cành cây dưới đáy sông đục ngầu!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Cá Mút Đá Hagfish dù sống dưới đáy biển tăm tối một ngàn mét và mắt thoái hóa hoàn toàn thành vệt sắc tố dưới da, nhưng chúng sở hữu chiếc mũi thính nhạy số một đại dương! Khác với mọi loài cá có hai lỗ mũi, Hagfish chỉ có một lỗ mũi duy nhất dẫn thẳng nước biển vào một túi khứu giác khổng lồ kết nối trực tiếp với thùy khứu giác của não bộ! Chúng có thể đánh hơi thấy mùi một xác cá voi chìm cách xa hàng chục cây số giữa đại dương bao la, rồi bơi thẳng tới đích mà không cần đến một tia sáng nào! Còn Kiến Nổ Cảm Tử thì sở hữu cặp râu cảm biến hóa học phát hiện tín hiệu pheromone xâm nhập chỉ trong năm mươi mili-giây! Chẳng có một tên gián điệp hay kẻ săn mồi nào có thể lén lút tiếp cận cửa tổ mà không bị cặp râu siêu nhạy này lật tẩy!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Không chỉ có đôi mắt mí thứ ba, Hải Ly còn sở hữu hệ thống cảnh báo sớm bằng sóng âm mặt nước vô cùng lợi hại! Mỗi khi phát hiện bóng dáng kẻ săn mồi như chó sói hay gấu xám từ xa, Hải Ly dùng chiếc đuôi dẹt nặng nề đập cực mạnh xuống mặt nước tạo nên tiếng nổ rầm vang dội khắp thung lũng! Âm thanh đập đuôi này truyền đi cả trong không khí lẫn dưới đáy nước, cảnh báo cho toàn bộ bầy đàn lặn sâu xuống đáy bùn trốn thoát chỉ trong ba giây!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Để phối hợp nhịp nhàng giữa hai mươi hai xúc tu, não bộ của Chuột Chũi Mũi Sao xử lý các xung thần kinh cảm giác với tốc độ nhanh gấp mười lần dây thần kinh mắt người! Mỗi khi xúc tu chạm nhẹ vào một vật thể lạ, bộ não phân tích lập tức cấu trúc vật liệu, độ ẩm, độ nhớt và nhiệt độ của đối tượng trong vòng vài phần nghìn giây! Đó là lý do vì sao chúng có thể phân biệt chính xác đâu là thức ăn bổ dưỡng và đâu là hạt cát vô giá trị trong nháy mắt mà không bao giờ nuốt nhầm!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Các nhà khoa học tại đại học Vanderbilt phát hiện: vùng vỏ não cảm giác của Chuột Chũi Mũi Sao dành tới năm mươi phần trăm diện tích chỉ để xử lý tín hiệu từ chiếc mũi! Độ phân giải xúc giác trên chiếc mũi này chi tiết và sắc nét đến mức tương đương với độ nhạy thị giác của mắt đại bàng trên bầu trời! Nhờ đó, dù sống cả đời trong lòng đất đen đặc chẳng hề có tia sáng, Chuột Chũi Mũi Sao vẫn nhìn thấy thế giới bằng xúc giác với độ chân thực đến kinh ngạc!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ban giám khảo xin công bố điểm số Vòng ba! Huy chương Đồng thuộc về Ếch Lông Wolverine với bộ lông tơ thụ cảm áp suất dòng suối! Huy chương Bạc thuộc về Bạch Tuộc Mimic với tám xúc tu mang trí tuệ nơ-ron độc lập phi thường! Và Huy chương Vàng ba điểm xuất sắc thuộc về Chuột Chũi Mũi Sao với kỷ lục săn mồi không phẩy mười hai giây cùng tuyệt chiêu ngửi mùi dưới nước bằng bong bóng khí!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Cục diện bảng tổng sắp sau ba vòng đấu vô cùng gay cấn: Wombat, Sứa Bất Tử và Chuột Chũi Mũi Sao cùng nắm giữ ba điểm! Đấu trường ngày càng kịch tính nghẹt thở!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "GIỜ GIẢI LAO HẬU TRƯỜNG",
+    "banner_title": "GIỜ GIẢI LAO HẬU TRƯỜNG",
+    "chapter_title": "Giờ Giải Lao Hậu Trường & Những Pha Khó Đỡ Của Dị Nhân",
+    "hook": "NHỮNG PHA HẬU TRƯỜNG KHÓ ĐỠ",
+    "mood": "bi_hai",
+    "parts": [
+     {
+      "text": "Sau ba vòng thi đấu căng như dây đàn, ban tổ chức xin thông báo: toàn thể đấu trường bước vào ba mươi phút giải lao hậu trường! Các tuyển thủ tạm lui về khu vực phòng thay đồ để nạp năng lượng và chuẩn bị cho các vòng đấu khốc liệt tiếp theo. Nhưng ngay lúc này, camera giấu kín của ban tổ chức đã ghi lại hàng loạt khoảnh khắc dở khóc dở cười khiến bà Cú giám khảo suýt ngất xỉu! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ở phòng nghỉ số một của kỹ sư Hải Ly: bồn rửa mặt của ban tổ chức bị rò rỉ nước, phát ra tiếng róc rách nho nhỏ! Một nghiên cứu của giáo sư Dietrich Müller-Schwarze đã chứng minh: Hải Ly bị một chứng ám ảnh cưỡng chế sinh học cực nặng với tiếng nước chảy! Chúng không hề bận tâm xem nước chảy ở đâu, chỉ cần nghe thấy tiếng róc rách là bản năng lập tức ra lệnh: phải đắp đập bịt kín ngay tức khắc! Thậm chí khi chiếc loa thông báo của anh MC phát ra tiếng nhạc nền suối reo, Hải Ly đã phi ra vác nguyên một khúc gỗ to đùng chèn cứng họng loa! [laughter] Các nhân viên hậu đài phải mất nửa tiếng đồng hồ dùng búa nhổ đinh để cạy con đập mini trong nhà vệ sinh của Hải Ly ra ngoài!",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Trong khi đó, ở khu vực phòng chờ của Ếch Wolverine và Kỳ Nhông Axolotl, một cuộc tranh luận nảy lửa của hai đại diện lưỡng cư đang nổ ra! Ếch Wolverine khoe móng xương bảo: Bẻ xương làm vuốt mới là đỉnh cao chiến binh ngầu lòi! Kỳ Nhông Axolotl mỉm cười lắc đầu đáp lại: Tự làm đau mình làm chi anh ơi, cứ để đối thủ cắn một miếng rồi mình mọc lại cái mới xinh xắn có phải nhàn nhã hơn không! [laughter] Còn ở góc phòng khách, chú Bạch Tuộc Mimic đang rảnh rỗi trổ tài biến hình thành một chiếc gối ôm sofa bằng nhung nâu sọc trắng! Bà Cú giám khảo bước vào mệt mỏi định ngồi phịch xuống nghỉ lưng, thì chiếc gối ôm bỗng thò ra tám cái xúc tu ôm chầm lấy bà Cú làm bà thét lên một tiếng kinh hoàng! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Dạ em chỉ muốn thử xem khả năng ngụy trang của em có lừa được mắt cú vọ của giám khảo không thôi mà!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Ở một góc sân khác, Kỳ Nhông Axolotl đang tận hưởng dịch vụ tắm bùn khoáng nóng do ban tổ chức chu cấp với vẻ mặt thỏa mãn vô cùng! Chú kỳ nhông cười tít mắt bảo: Đấu trường sinh tồn gì mà sướng như đi nghỉ dưỡng năm sao thế này, em muốn ở đây thi đấu quanh năm luôn quá! [laughter] Trong khi đó, anh chàng Ếch Wolverine đang miệt mài ngồi mài lại bộ móng vuốt xương vào mép bàn đá cẩm thạch kêu ken két nghe rợn cả người!",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Thậm chí chú cá ngọc trai Carapidae trong hậu môn Hải Sâm còn gọi thêm cả đàn bạn bè bơi vào tổ chức một buổi hòa nhạc mini dưới nước! [laughter] Hải Sâm bèn thử gồng các cơ co thắt để tống cổ đàn khách trọ ồn ào ra ngoài, nhưng đàn cá ngọc trai lại tưởng đó là dịch vụ mát-xa thủy lực miễn phí nên càng khoái chí nằm im! [laughter]",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Thí sinh Hải Ly! Tôi cấm anh biến phòng vệ sinh của ban giám khảo thành công trường xây dựng thủy điện nhé!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Bà Cú giám khảo vừa bước sang phòng số hai của Gấu Wombat thì lại đụng phải một cảnh tượng kỳ quặc không kém! Anh chàng Wombat đang thong thả ngồi trên bồn cầu, chăm chú xếp từng khối phân hình lập phương thành một kim tự tháp vuông vức cực kỳ nghệ thuật! [laughter] Tại sao phân của Wombat lại có hình lập phương độc nhất vô nhị trên thế giới? Nghiên cứu đoạt giải Ig Nobel vật lý của tiến sĩ Patricia Yang đã giải mã bí ẩn này! Chỉ có tám phần trăm đoạn ruột già cuối cùng của Wombat sở hữu cấu trúc mô cơ đàn hồi không đồng đều: hai rãnh cơ cứng chắc và hai rãnh cơ mềm dẻo! Mỗi ngày, Wombat đúc ra từ tám mươi đến một trăm viên phân lập phương sắc cạnh như xúc xắc để đánh dấu lãnh thổ trên các tảng đá mà không sợ bị lăn xuống dốc! Khả năng đúc hình học chuẩn xác tới mức các nhà sản xuất gạch xây dựng của con người cũng phải trầm trồ xin bí quyết học hỏi!",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Dạ thưa cô giám khảo, em vừa đúc xong mẻ mới nóng hổi tặng ban tổ chức làm kỷ niệm nè cô!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Sang đến phòng của Kiến Nổ Cảm Tử, không khí lại căng thẳng như một kho thuốc súng sắp nổ! Chú kiến nhỏ nơm nớp lo sợ ai đó vô tình vỗ mạnh vào vai làm vỡ tuyến keo dính trên bụng, kích nổ ba lô độc tố màu vàng sáng rực! Còn ở góc bể nước của Hải Sâm, một chú cá ngọc trai Carapidae vừa chui tọt vào hậu môn của Hải Sâm để ngủ trưa rồi thò đầu ra ngoài ngáp một cái thật dài! [laughter] Chú cá này thậm chí còn rủ thêm hai người bạn cá ngọc trai khác vào cùng trú ngụ, biến cơ thể Hải Sâm thành một căn hộ chung cư mini dưới nước!",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Cứu em với anh MC ơi! Tên khách trọ này ở ké cả tuần nay không trả một xu tiền phòng mà còn ngáy to quá làm em mất ngủ!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "[laughter] Và đỉnh điểm khó đỡ: anh MC vừa cầm ly nước chanh lên định uống một ngụm giải khát thì phát hiện Sứa Bất Tử đang tung tăng bơi lội bên trong! May mà chưa nuốt chửng tân vương tiềm năng của Mùa ba! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Dưới kính hiển vi điện tử, da của Bạch Tuộc Mimic là một màn hình chấm lượng tử sinh học với hàng triệu tế bào sắc tố chromatophore và iridophore! Mỗi tế bào sắc tố được điều khiển bởi một sợi dây thần kinh riêng biệt, cho phép chúng thay đổi màu sắc và kết cấu bề mặt da chỉ trong hai trăm mili-giây! Trong khi đó, Sứa Bất Tử cũng tận dụng thời gian nghỉ giữa hiệp để kích hoạt quá trình tái lập trình nơ-ron thần kinh vô cùng kỳ diệu! Cơ thể sứa tí hon này không bao giờ biết mệt mỏi, bởi mỗi khi căng thẳng, chúng chỉ việc đảo ngược tế bào để trở lại trạng thái thanh xuân sung mãn!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Không khí phòng nghỉ ngơi của Ếch Lông Wolverine thì tràn ngập tiếng gầm gừ tập luyện cơ bắp cuồn cuộn! Chú ếch liên tục kiểm tra khớp móng vuốt để đảm bảo các mũi xương đã thu gọn hoàn toàn vào bao gân trước khi bước vào các vòng đấu quyết định! Giờ giải lao kết thúc trong những tiếng cười sảng khoái! Tất cả mười tuyển thủ đã sẵn sàng quay trở lại đấu trường khốc liệt!",
+      "mood": "don_dap"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "VÒNG 4: KỸ SƯ ĐỊA HÌNH",
+    "banner_title": "VÒNG 4: KỸ SƯ ĐỊA HÌNH",
+    "chapter_title": "Vòng 4: Công Trình Địa Hình & Xã Hội Bầy Đàn Kỷ Luật",
+    "hook": "CÔNG TRÌNH ĐỊA HÌNH VĨ ĐẠI",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "[surprise-oh] Chào mừng quý vị quay trở lại với Vòng bốn: Kỹ Sư Địa Hình và Những Xã Hội Động Vật Kỷ Luật Thép! Tại vòng đấu này, chúng ta sẽ được chứng kiến cách những sinh vật hoang dã tái định hình cả cảnh quan thiên nhiên và bảo vệ giống nòi! Không phải máy xúc, xe ủi hay xi măng cốt thép của con người, chính những chiếc đuôi dẹt, móng vuốt đào hầm và tinh thần kỷ luật bầy đàn đã tạo nên những kỳ quan sinh thái vĩ đại!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Không ai xứng đáng mở màn vòng đấu này hơn kỹ sư Hải Ly: kiến trúc sư thiên tài số một của thế giới tự nhiên! Khán giả thường nghĩ Hải Ly xây đập chỉ để bảo vệ hang ở của mình, nhưng một nghiên cứu năm hai ngàn không trăm hai mươi trên tạp chí Ecological Applications đã chỉ ra tầm vóc vĩ đại hơn nhiều! Khi những trận cháy rừng kinh hoàng quét qua Bắc Mỹ thiêu rụi toàn bộ thung lũng xung quanh, chính những con đập của Hải Ly đã tạo ra các ốc đảo ngập nước xanh tươi bất khả xâm phạm! Độ ẩm cao và mực nước ngầm dồi dào từ đập Hải Ly chặn đứng hoàn toàn bước tiến của ngọn lửa hung tàn, cứu sống hàng vạn sinh mạng hoang dã! Hơn thế nữa, đập Hải Ly giữ lại tới tám mươi phần trăm lượng bùn đất xói mòn và kim loại nặng, thanh lọc nguồn nước uống trong lành cho toàn bộ hạ lưu! Những con đập của Hải Ly có thể tồn tại qua hàng thế kỷ, thậm chí có con đập cổ xưa dài tới tám trăm mét tại Canada nhìn thấy rõ mồn một từ ảnh chụp vệ tinh không gian!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Một cỗ máy thanh lọc môi trường sống tự nhiên không tốn một xu tiền điện của Trái Đất! Cả khán đài cúi mình thán phục trước Hải Ly! Tiếp theo, hãy cùng nhìn sâu xuống lòng đất nước Úc nơi Gấu Túi Wombat làm nên điều kỳ diệu trong các trận thảm họa cháy rừng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Mỗi hệ thống hang của Wombat có thể kéo dài tới ba mươi mét với hàng chục ngách rẽ và nhiều cửa thoát hiểm được đào kiên cố! Trong các trận hỏa hoạn lịch sử tại rừng nước Úc khi nhiệt độ mặt đất lên tới hàng trăm độ C, nhiệt độ dưới hang Wombat vẫn duy trì ổn định ở mức hai mươi độ mát mẻ! Camera của các nhà khoa học bảo tồn đã ghi lại những thước phim xúc động: chuột túi Wallaby, kỳ đà, chim sẻ và thú có túi cùng lũ lượt kéo nhau xuống hang Wombat để lánh nạn! Wombat không hề xua đuổi hay tấn công mà hào phóng chia sẻ nơi trú ẩn an toàn, trở thành những người hùng cứu hỏa thầm lặng của đại lục Úc! Hệ thống hang ngầm này hoạt động như một boongke chống thảm họa thiên nhiên hoàn hảo nhất mà không cần đến bê tông cốt thép!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và cuối cùng là cấu trúc xã hội kỷ luật thép của Kiến Nổ Cảm Tử trên các tán rừng nhiệt đới Đông Nam Á! Tiến sĩ Alice Laciny phát hiện: trong tổ của Kiến Nổ có một tầng lớp lính gác cửa đặc biệt sở hữu hộp sọ biến đổi phẳng lì như một chiếc nút chai! Chúng dùng chính chiếc đầu bọc giáp của mình làm chiếc cửa chống đạn bịt kín hoàn toàn lối vào, ngăn chặn mọi kẻ xâm lược từ bên ngoài! Chiếc cửa sống này chỉ mở ra khi kiến thợ đi kiếm ăn về gõ đúng mật mã râu pheromone đặc trưng của bầy đàn! Một hệ thống an ninh sinh học bảo mật tuyệt đối không thể phá khóa!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Để xây dựng những con đập dài hàng trăm mét, Hải Ly còn sở hữu kỹ năng đào kênh dẫn nước kỳ tài không kém các kỹ sư thủy lợi La Mã! Chúng tự đào các tuyến kênh ngập nước dài tới hai trăm mét đâm sâu vào các khu rừng gỗ cứng, để thả nổi các khúc gỗ nặng hàng chục ký trôi theo dòng nước về vị trí đắp đập mà không tốn sức kéo lê trên cạn! Đặc biệt, thân đập của Hải Ly được thiết kế uốn cong hình cánh cung hướng ngược về phía dòng chảy, mô phỏng hoàn hảo nguyên lý chịu lực của các con đập thủy điện vòm bê tông hiện đại nhất! Hệ thống kiến trúc tự nhiên này có thể điều tiết lưu lượng nước của cả một lưu vực sông rộng lớn, biến Hải Ly thành loài động vật duy nhất có thể thay đổi địa hình Trái Đất ngang ngửa con người!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Để chuẩn bị cho mùa đông băng giá Bắc Mỹ khi mặt hồ đóng băng dày hàng mét, Hải Ly còn xây dựng những kho lương thực ngập nước ngầm vô cùng thông minh! Chúng cắm chặt hàng trăm cành cây gỗ tươi giàu dinh dưỡng xuống lớp bùn sâu dưới đáy hồ ngay cạnh cửa hang ngầm! Khi mặt hồ đóng băng kín mít, Hải Ly chỉ việc bơi ra cửa hang ngầm, rút một cành cây tươi dưới bùn mang vào hang thưởng thức mà không cần thò đầu lên mặt băng lạnh giá!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Một công trình đập của Hải Ly có thể nâng mực nước ngầm của toàn bộ lưu vực xung quanh lên cao thêm từ một đến hai mét suốt mùa khô hạn! Nhờ nguồn nước ngầm dồi dào này, thảm thực vật ven bờ phát triển xanh tốt quanh năm, tạo nguồn thức ăn dồi dào nuôi sống các đàn hươu nai và chim muông vượt qua mùa đông khắc nghiệt! Hải Ly thực sự là một kỹ sư kiến tạo cảnh quan sinh thái có tầm ảnh hưởng sâu rộng bậc nhất hành tinh!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Không dừng lại ở việc đắp đập, những kiến trúc sư Hải Ly tài ba còn đào những con kênh dẫn nước dài tới năm trăm mét sâu vào giữa rừng già! Những con kênh này cho phép Hải Ly thả trôi những khúc gỗ nặng hàng trăm cân về tổ một cách nhẹ nhàng, giảm thiểu tối đa nguy cơ bị thú dữ mai phục trên cạn! Còn tấm khiên sụn mông của Wombat cứng đến mức những cú cắn của chó rừng Dingo hay đại bàng đuôi nhọn chỉ để lại những vết xước mờ nhạt không đáng kể! Hải Ly còn sở hữu lớp lông dày tới mười ngàn sợi trên một xen-ti-mét vuông da, được bôi trơn bởi lớp dầu castoreum chống thấm nước tuyệt đối! Nhờ đó, ngay cả khi bơi lội dưới lớp băng dày vào mùa đông Bắc Mỹ, da của Hải Ly vẫn hoàn toàn khô ráo và ấm áp!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ban giám khảo xin công bố kết quả Vòng bốn! Huy chương Đồng thuộc về Kiến Nổ Cảm Tử với cánh cửa sọ nút chai an ninh pheromone! Huy chương Bạc thuộc về Gấu Túi Wombat với mạng lưới hang ngầm cứu trợ muông thú trong thảm họa! Và Huy chương Vàng ba điểm xứng đáng thuộc về kỹ sư Hải Ly với công trình đập nước chống hạn hán và đẩy lùi bão lửa!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Bảng điểm sau bốn vòng đấu tiếp tục có biến động lớn: Wombat vươn lên dẫn đầu với năm điểm! Hải Ly bứt phá mạnh mẽ lên bốn điểm!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene07",
+    "badge": "VÒNG 5: BỘ GEN ĐỘT BIẾN",
+    "banner_title": "VÒNG 5: BỘ GEN ĐỘT BIẾN",
+    "chapter_title": "Vòng 5: Kháng Thể Siêu Cấp & Bộ Gen Bất Tử Đột Biến",
+    "hook": "KHÁNG THỂ & BỘ GEN ĐỘT BIẾN",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "[surprise-oh] Tiến vào chặng đua thứ năm! Chào mừng quý vị đến với Vòng năm: Kháng Thể Siêu Cấp và Những Bộ Gen Đột Biến Kỳ Vĩ! Ở vòng đấu này, cuộc cạnh tranh không còn diễn ra ở tầm cơ bắp hay móng vuốt, mà đi sâu vào tận cấp độ phân tử và tế bào vi mô! Những bí mật di truyền được mã hóa qua hàng tỷ cặp base nitơ chính là tấm bản đồ thần kỳ giúp các dị nhân vượt qua những nghịch lý sinh tồn khắc nghiệt nhất!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tuyển thủ đầu tiên bước lên bục phân tích di truyền: Kỳ Nhông Axolotl của hồ Xochimilco! Một công trình nghiên cứu quy mô toàn cầu đăng tải trên tạp chí Nature năm hai ngàn mười tám đã giải mã thành công toàn bộ hệ gen của Axolotl! Kết quả khiến giới khoa học sững sờ: bộ gen của chú kỳ nhông này dài tới ba mươi hai tỷ cặp base nitơ, tức là gấp mười lần toàn bộ hệ gen của một con người trưởng thành! Ẩn sâu trong ba mươi hai tỷ cặp base này là những đoạn gen kiểm soát phân bào độc nhất vô nhị: các tế bào mọc lại chi phân chia với tốc độ tên lửa nhưng tuyệt đối không bao giờ phát triển thành khối u ác tính! Axolotl sở hữu khả năng kháng ung thư tự nhiên gần như tuyệt đối, trở thành hình mẫu vàng cho các nhà nghiên cứu y học di truyền thế giới! Cơ chế kiểm soát chu kỳ tế bào nghiêm ngặt đến mức ngay cả khi các nhà khoa học cố tình tiêm các hoạt chất gây ung thư cực mạnh, cơ thể Axolotl vẫn tự động đào thải và tái tạo lại mô tế bào khỏe mạnh bình thường!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Mười điểm cho sự kỳ diệu của bộ gen Axolotl! Nhưng ngay lập tức, Sứa Bất Tử bay lơ lửng bước vào vòng đo lường gen telomere!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Năm hai ngàn không trăm hai mươi hai, một nhóm nghiên cứu tại đại học Oviedo Tây Ban Nha đã công bố bản giải mã di truyền của Sứa Bất Tử trên kỷ yếu Viện Hàn lâm Khoa học Quốc gia Hoa Kỳ! Họ phát hiện Sứa Bất Tử sở hữu số lượng gen nhân đôi gấp đôi ở các cụm gen chịu trách nhiệm bảo vệ và duy trì độ dài của telomere: chiếc nắp bảo vệ ở đầu mút nhiễm sắc thể! Mỗi khi cơ thể bị lão hóa, hệ enzym telomerase và cơ chế sửa chữa lỗi sao chép DNA tự động kích hoạt ở mức tối đa, xóa sạch mọi dấu vết già nua và tái thiết lập đồng hồ sinh học về số không! Một bộ gen bất tử thực thụ theo đúng nghĩa đen di truyền học! Chúng không chỉ sửa chữa DNA bị đứt gãy mà còn sao chép dự phòng hàng trăm bản sao gen chống stress oxy hóa, giúp tế bào luôn duy trì trạng thái thanh xuân vĩnh cửu!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và không thể bỏ qua Ếch Lông Wolverine với lá chắn kháng sinh sinh học trên da suối xiết! Sau khi tự bẻ xương đâm rách toạc da chân để nghênh chiến, làm thế nào chú ếch này không bị nhiễm trùng huyết trong môi trường bùn lầy dơ bẩn? Các tuyến da của ếch đực tiết ra hàng loạt chuỗi peptide kháng khuẩn phổ rộng có khả năng tiêu diệt lập tức các loại nấm sát thủ và vi khuẩn gây hoại tử chỉ trong vài phút tiếp xúc! Nhờ vậy, vết rách tự lành thần tốc mà không cần đến một viên thuốc kháng sinh nào!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Bên cạnh bộ gen khổng lồ của Axolotl và Sứa, Bạch Tuộc Mimic cũng khiến các nhà di truyền học kinh ngạc với cơ chế chỉnh sửa ARN độc nhất vô nhị! Nghiên cứu công bố trên tạp chí Science năm hai ngàn mười bảy của nhóm tiến sĩ Eli Eisenberg phát hiện: loài bạch tuộc này không cần thay đổi chuỗi D-N-A gốc mà trực tiếp biên tập lại các phân tử ARN thông tin! Hơn sáu mươi phần trăm các bản phiên mã thần kinh của chúng được tái cấu trúc linh hoạt theo nhiệt độ nước và nồng độ oxy của môi trường! Một khả năng lập trình phần mềm sinh học theo thời gian thực vượt xa mọi hệ điều hành máy tính tinh vi nhất của nhân loại!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và điều kỳ lạ nhất trong bộ gen của Cá Mút Đá Hagfish vừa được các nhà di truyền học đại học Tokyo làm sáng tỏ: hiện tượng đào thải D-N-A có lập trình trong tế bào soma! Khi Hagfish phát triển từ phôi thai thành cá thể trưởng thành, các tế bào cơ thể của chúng tự động loại bỏ tới hai mươi phần trăm lượng D-N-A không cần thiết trong nhân tế bào! Chúng chỉ giữ lại trọn vẹn toàn bộ bộ gen gốc trong các tế bào sinh dục mầm, giúp cơ thể tiết kiệm tối đa năng lượng sao chép và duy trì sự sống bền bỉ suốt hàng trăm triệu năm!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Trong khi đó, hệ enzym sửa chữa D-N-A của Sứa Bất Tử hoạt động với độ chính xác tuyệt đối, loại bỏ tới chín mươi chín phẩy chín phần trăm các đột biến sai hỏng trong quá trình sao chép! Nhờ khả năng tự sửa lỗi di truyền liên tục này, Sứa Bất Tử không bao giờ tích lũy các đột biến gây thoái hóa hay lão hóa sớm như các sinh vật bậc cao khác! Một bí mật sinh học phi thường mà các nhà khoa học đang nỗ lực giải mã để áp dụng vào công nghệ kéo dài tuổi xuân cho con người!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Bí mật đằng sau khả năng chữa lành không để lại sẹo của Axolotl nằm ở các cụm tế bào gốc blastema: chúng có thể biến đổi thành bất kỳ loại mô tế bào nào của cơ thể! Khi bị tổn thương, các đại thực bào của Axolotl dập tắt phản ứng viêm trong vài giờ, ngăn chặn triệt để sự hình thành mô xơ sẹo thường thấy ở động vật có vú! Còn enzyme telomerase của Sứa Bất Tử liên tục nối dài các đầu mút nhiễm sắc thể, giúp tế bào phân chia vĩnh viễn mà không bao giờ chạm tới giới hạn lão hóa Hayflick!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ban giám khảo xin công bố bảng điểm Vòng năm! Huy chương Đồng thuộc về Ếch Lông Wolverine với lớp peptide kháng khuẩn tự chữa lành vết thương hở! Huy chương Bạc thuộc về Sứa Bất Tử với bộ gen bảo vệ telomere và xóa bỏ lão hóa tế bào! Và Huy chương Vàng ba điểm xứng đáng thuộc về Kỳ Nhông Axolotl với bộ gen ba mươi hai tỷ cặp base kháng ung thư và tái sinh mô thần kỳ!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Bảng tổng sắp sau năm vòng thi đấu tiếp tục bùng nổ dữ dội: Sứa Bất Tử và Axolotl cùng vươn lên chia sẻ vị trí dẫn đầu với năm điểm! Gấu Wombat cũng đồng hạng năm điểm! Hải Ly bám sát với bốn điểm!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene08",
+    "badge": "VÒNG 6: NGƯỜI HÙNG SINH THÁI",
+    "banner_title": "VÒNG 6: NGƯỜI HÙNG SINH THÁI",
+    "chapter_title": "Vòng 6: Người Hùng Bảo Vệ Sinh Thái Đại Dương & Rừng Xanh",
+    "hook": "NGƯỜI HÙNG BẢO VỆ SINH THÁI",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "[surprise-oh] Tiến vào Vòng thi đấu thứ sáu: Người Hùng Bảo Vệ Hệ Sinh Thái Đại Dương và Rừng Xanh! Ở vòng thi này, chúng ta không nhìn vào sức mạnh cá nhân, mà đo lường đóng góp sinh thái vĩ đại mà các tuyển thủ âm thầm cống hiến cho hành tinh xanh! Mỗi sinh vật dù nhỏ bé hay mang vẻ ngoài kỳ dị đều nắm giữ một mắt xích sống còn, duy trì sự cân bằng mong manh của toàn bộ mạng lưới sự sống!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tuyển thủ bước lên sàn đầu tiên khiến tất cả bất ngờ: chú Hải Sâm lầy lội từng bị coi là kẻ lười biếng nhất đáy biển! Các nhà hải dương học tại đại học New South Wales đã công bố một báo cáo gây chấn động: Hải Sâm chính là chiếc máy hút bụi sinh học quan trọng bậc nhất của các rạn san hô nhiệt đới! Mỗi năm, quần thể hải sâm trên một cây số vuông đáy biển tiêu hóa và thanh lọc tới một trăm ba mươi tấn cát và trầm tích hữu cơ thối rữa!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Quan trọng hơn thế, chất thải sau khi tiêu hóa của Hải Sâm chứa hàm lượng Canxi Cacbonat kiềm tính cực cao! Dòng chất kiềm tự nhiên này làm tăng độ pH của nước biển xung quanh, giúp trung hòa hiện tượng axit hóa đại dương do biến đổi khí hậu và bảo vệ san hô khỏi nguy cơ bị tẩy trắng hủy diệt! Các nhà khoa học tính toán: nếu loại bỏ hoàn toàn Hải Sâm khỏi một rạn san hô, tốc độ suy thoái của san hô sẽ tăng vọt gấp ba lần chỉ sau vài năm ngắn ngủi!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Không có Hải Sâm hút bụi và cân bằng độ pH, các rạn san hô lộng lẫy của hành tinh sẽ dần chết mòn thành bãi tha ma đá vôi! Cả khán đài nghiêng mình thán phục trước Hải Sâm! Tiếp theo, hãy cùng nhìn lên các con đập của Hải Ly: chiếc bẫy lưu giữ carbon tự nhiên khổng lồ của lục địa!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Các nhà sinh thái học phát hiện: lớp trầm tích giàu hữu cơ đọng lại phía sau những con đập của Hải Ly lưu giữ hàng triệu tấn carbon hữu cơ, ngăn không cho chúng thoát vào khí quyển! Nhờ có vùng ngập nước của Hải Ly, độ đa dạng sinh học của các loài chim di cư, cá nước ngọt và động vật lưỡng cư tăng vọt tới ba mươi ba phần trăm so với các dòng suối thông thường! Hải Ly không chỉ xây nhà cho mình, chúng xây dựng cả một thiên đường sinh thái nuôi dưỡng muôn loài! Những vùng đất ngập nước này duy trì dòng chảy mát mẻ vào mùa hè và ngăn lũ quét vào mùa mưa bão, trở thành tấm khiên phòng hộ tự nhiên vô giá của lục địa Bắc Mỹ!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và cuối cùng là đóng góp âm thầm của cụ tổ Cá Mút Đá Hagfish dưới đáy vực sâu một ngàn mét lạnh giá! Khi xác cá voi chìm xuống vùng biển sâu không có ánh sáng, hàng ngàn con Hagfish sẽ vùi mình vào xác thịt, hấp thụ chất dinh dưỡng trực tiếp qua da và tiêu hóa sạch sẽ các mô mỡ thối rữa! Họ phân giải và hoàn trả nguồn nitơ và phốt-pho quý giá trở lại chuỗi thức ăn đáy biển, nuôi sống cả một quần xã sinh vật biển sâu tăm tối suốt hàng chục năm ròng! Nếu không có đội dọn dẹp Hagfish, đáy biển sâu sẽ bị ngạt thở bởi lớp chất béo tích tụ, cắt đứt chu trình tuần hoàn dinh dưỡng toàn cầu!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Không chỉ có Hải Sâm và Hải Ly, Gấu Túi Wombat và Ếch Wolverine cũng đóng góp những mắt xích sinh thái vô giá cho lục địa của mình! Những viên phân hình lập phương của Wombat chứa đầy các hạt giống cỏ bản địa và hàng tỷ bào tử nấm rễ cộng sinh mycorrhiza! Khi phân rã, chúng làm tơi xốp các tầng đất cằn cỗi và giữ nước ngầm cho thảo nguyên khô hạn nước Úc sau các đợt hạn hán kéo dài! Còn Ếch Lông Wolverine là loài săn mồi đầu bảng kiểm soát mật độ ấu trùng muỗi vằn và ruồi đen truyền bệnh dịch ở các dòng suối nhiệt đới Tây Phi!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ở trên các tầng tán rừng nhiệt đới, Kiến Nổ Cảm Tử cũng đóng vai trò là những vệ sĩ sinh thái bảo vệ sức khỏe cho các cây cổ thụ nguyên sinh! Chúng tiêu diệt sạch sẽ các loài sâu róm phá hoại lá non và ngăn chặn các loài rệp sáp hút nhựa cây xâm lấn, duy trì sự xanh tốt cho tán rừng nhiệt đới đại ngàn! Sự hy sinh của từng cá thể kiến thợ không chỉ bảo vệ tổ ấm, mà gián tiếp gìn giữ lá phổi xanh khổng lồ cho toàn bộ hệ sinh thái rừng mưa xích đạo!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Các nhà khoa học ước tính: lượng Canxi Cacbonat kiềm tính mà quần thể Hải Sâm bài tiết ra ngoài có thể bù đắp lại tới hai mươi phần trăm lượng vôi hóa bị mất đi của rạn san hô do biến đổi khí hậu! Chúng hoạt động như những người thợ hồ cần mẫn trát từng lớp vữa kiềm bảo vệ pháo đài san hô trước sự bào mòn của dòng nước biển axit hóa!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Trong các trận đại hỏa hoạn cháy rừng lịch sử tại nước Úc, hệ thống hầm ngầm của Wombat đã trở thành pháo đài cứu mạng cho hàng ngàn sinh vật bé nhỏ! Chim chóc, thú có túi nhỏ, thằn lằn và ếch nhái đều chạy vào nương náu trong các ngóc ngách hầm Wombat mát mẻ với nhiệt độ luôn duy trì ổn định hai mươi độ C! Wombat không hề xua đuổi những kẻ tị nạn bất đắc dĩ, chúng hào hiệp chia sẻ lãnh thổ ngầm, trở thành người hùng cứu sinh thầm lặng của châu Úc hoang dã!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ban giám khảo xin tuyên bố kết quả Vòng sáu! Huy chương Đồng thuộc về Cá Mút Đá Hagfish với vai trò dọn sạch xác cá đáy vực sâu! Huy chương Bạc thuộc về kỹ sư Hải Ly với bẫy carbon và chiếc nôi nâng đỡ đa dạng sinh thái! Và Huy chương Vàng ba điểm vô cùng xứng đáng thuộc về chiếc máy hút bụi bảo vệ rạn san hô: Hải Sâm!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Bảng điểm sau sáu vòng đấu cực kỳ gay cấn và biến ảo: Hải Ly vươn lên đồng hạng sáu điểm cùng Wombat! Sứa Bất Tử và Axolotl bám sát với năm điểm! Hải Sâm bứt phá ngoạn mục lên ba điểm!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene09",
+    "badge": "GIẢI THƯỞNG PHỤ: CỤ TỔ CỔ ĐẠI",
+    "banner_title": "GIẢI THƯỞNG PHỤ: CỤ TỔ CỔ ĐẠI",
+    "chapter_title": "Giải Phụ Đặc Biệt: Các Cụ Tổ Cổ Đại 300 Triệu Năm & Tổ Tiên Khổng Lồ",
+    "hook": "CÁC CỤ TỔ CỔ ĐẠI & TỔ TIÊN KHỔNG LỒ",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "[surprise-oh] Trước khi bước vào hai vòng đấu cuối cùng, ban tổ chức xin trân trọng giới thiệu: Lễ Trao Giải Phụ Đặc Biệt — Tri Ân Các Cụ Tổ Cổ Đại và Tổ Tiên Khổng Lồ! Để có mặt trên sàn đấu Mùa ba ngày hôm nay, mười dòng giống dị nhân đã phải trải qua hàng trăm triệu năm đấu tranh sinh tồn trước thiên thạch và các kỷ băng hà khốc liệt! Những mẫu hóa thạch khai quật từ các tầng địa chất sâu thẳm đã chứng minh: các dị nhân của chúng ta từng sở hữu những phiên bản tổ tiên hoành tráng đến mức khó tin!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tấm cúp danh dự đầu tiên thuộc về cụ tổ không xương sống: Cá Mút Đá Hagfish! Năm hai ngàn mười chín, các nhà cổ sinh vật học tại Canada đã phát hiện hóa thạch của loài Tethymyxine có niên đại ba trăm triệu năm từ kỷ Than Đá! Điều kinh ngạc là cấu trúc cơ thể của Hagfish ba trăm triệu năm trước giống hệt với Hagfish đang bơi lội ngày hôm nay! Chúng đã sống sót qua bốn cuộc đại tuyệt chủng hàng loạt của Trái Đất, chứng kiến loài khủng long bạo chúa T-Rex xuất hiện rồi biến mất hoàn toàn, trong khi Hagfish vẫn ung dung thắt nút thân số tám dưới đáy biển! Chưa hết, Hagfish sở hữu tới bốn quả tim độc lập rải rác khắp cơ thể: một tim chính và ba tim phụ tự đập hàng giờ mà không cần oxy từ não bộ! Hệ tuần hoàn phụ này giúp chúng sống sót ngon lành trong những vùng nước đáy biển thiếu oxy đến mức mọi loài cá có xương sống khác đều phải ngạt thở bỏ mạng!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Một cỗ máy sinh học bất tử trước thời gian! Cả hội trường đồng loạt cúi đầu kính cẩn chào cụ tổ Hagfish! Nhưng hãy nhìn sang tổ tiên của hai gã thợ mộc và đào hầm: Hải Ly và Wombat! Họ từng sở hữu những phiên bản quái thú khổng lồ khiến ai nhìn cũng phải khiếp sợ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Trong kỷ băng hà Bắc Mỹ cách đây mười ngàn năm, tổ tiên của Hải Ly là loài Castoroides nặng tới một trăm ki-lô-gam, to lớn ngang ngửa một chú gấu đen khổng lồ! Tuy nhiên, điều bi hài là chú hải ly khổng lồ này lại không biết xây đập và chỉ thích ăn cỏ dại dưới nước, nên đã bị tuyệt chủng khi khí hậu biến đổi! Còn ở nước Úc, tổ tiên của Wombat là loài quái thú Diprotodon: loài thú có túi lớn nhất từng bước đi trên Trái Đất, nặng tới gần ba tấn và dài hơn ba mét! Chiếc mông bọc thép của Wombat ngày nay chính là di sản thu nhỏ được kế thừa từ cỗ xe tăng bọc thép Diprotodon ba tấn thời tiền sử!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và giải thưởng danh dự cuối cùng thuộc về dòng dõi của Hải Sâm: sinh vật đã có mặt trên Trái Đất từ kỷ Cambri cách đây hơn năm trăm triệu năm! Năm trăm triệu năm trước, khi sinh vật trên cạn còn chưa kịp hình thành, tổ tiên của Hải Sâm đã cặm cụi hút bụi lọc sạch cát biển cho hành tinh chúng ta! Họ đã chứng kiến sự thăng trầm của hàng vạn loài sinh vật, bình thản vượt qua mọi biến cố địa chất vĩ đại bằng triết lý lầy lội không xương sống của mình!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Và nhìn vào cây phả hệ của Sứa Bất Tử, dòng giống ruột khoang Cnidaria của chúng thậm chí đã xuất hiện từ kỷ Ediacara cách đây hơn sáu trăm triệu năm! Sáu trăm triệu năm trước, khi Trái Đất chỉ là một quả cầu băng tuyết lạnh giá bao phủ khắp các đại dương, tổ tiên của loài sứa đã trôi dạt lơ lửng dưới lớp băng dày! Họ đã vượt qua cuộc đại tuyệt chủng Permi-Triat thảm khốc nhất lịch sử khi chín mươi lăm phần trăm sinh vật biển bị quét sạch hoàn toàn! Sự trường sinh của Sứa Bất Tử không chỉ nằm ở từng cá thể, mà là sự kiên cường của cả một dòng dõi cổ xưa bậc nhất hành tinh!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Còn nhìn về phả hệ của Kỳ Nhông Axolotl, chúng là hậu duệ trực tiếp của nhóm lưỡng cư cổ đại Temnospondyli từng thống trị Trái Đất từ ba trăm triệu năm trước! Vào thời kỳ khủng long còn chưa xuất hiện, những cụ tổ lưỡng cư khổng lồ này đã làm chủ các đầm lầy than đá bằng khả năng tái sinh chi và thích nghi môi trường nước ngọt đỉnh cao! Trải qua hàng trăm triệu năm tiến hóa thu nhỏ lại thành chú kỳ nhông bảy mươi gam xinh xắn, Axolotl vẫn lưu giữ trọn vẹn chiếc chìa khóa tái sinh cổ đại của tổ tiên mình!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Thậm chí trong các lớp đá trầm tích kỷ Than Đá, người ta còn tìm thấy những dấu vết hóa thạch của chất keo nhớt Hagfish được bảo tồn nguyên vẹn qua ba trăm triệu năm thời gian! Điều này chứng minh rằng công thức phân tử của sợi tơ protein Hagfish hoàn hảo đến mức mẹ thiên nhiên không cần phải chỉnh sửa hay nâng cấp thêm bất kỳ chi tiết nào suốt ba trăm triệu năm qua!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Không chỉ vậy, Cá Mút Đá Hagfish còn có thể sống sót kỳ diệu suốt ba mươi sáu giờ trong môi trường hoàn toàn không có khí oxy dưới lớp bùn đáy biển sâu! Chúng chuyển hóa lượng đường glycogen dự trữ trong các mô cơ mà không cần oxy, giữ cho bốn quả tim vẫn hoạt động nhịp nhàng qua cơn thiếu thốn! Đó là minh chứng cho sức sống bền bỉ đã giúp Hagfish vượt qua năm đại tuyệt chủng lớn nhất của lịch sử Trái Đất mà không cần biến đổi hình dạng!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ban tổ chức xin trao tặng Cúp Vinh Danh Cổ Vật Sống Danh Dự cho Cá Mút Đá Hagfish và Hải Sâm! Một tràng pháo tay cho sự trường tồn vĩ đại của muôn loài!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Lễ trao giải phụ khép lại trong niềm tự hào vô bờ bến! Bây giờ, hãy hít một hơi thật sâu vì chúng ta sắp bước vào Vòng bảy: Phúc Khảo Tin Đồn Thế Kỷ!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene10",
+    "badge": "VÒNG 7: PHÚC KHẢO TIN ĐỒN",
+    "banner_title": "VÒNG 7: PHÚC KHẢO TIN ĐỒN",
+    "chapter_title": "Vòng 7: Phúc Khảo Tin Đồn Thế Kỷ & Đập Tan Những Lầm Tưởng",
+    "hook": "PHÚC KHẢO TIN ĐỒN THẾ KỶ",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "[surprise-oh] Đèn sân khấu đổi màu rực rỡ! Chào mừng quý vị đến với Vòng bảy: Phúc Khảo Tin Đồn Thế Kỷ và Đập Tan Những Lầm Tưởng! Đây là vòng thi nơi ban giám khảo sẽ đưa ra hàng loạt tin đồn nổi tiếng trên mạng xã hội về mười tuyển thủ để đối chất bằng khoa học thực nghiệm! Trong thời đại thông tin bùng nổ, nhiều sinh vật bị đồn thổi thành những vị thần bất khả chiến bại hoặc bị gán cho những thói quen ăn uống hoàn toàn sai lệch!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tin đồn số một: Sứa Bất Tử là sinh vật trường sinh bất lão tuyệt đối, không có bất kỳ thứ gì trên đời có thể tiêu diệt được chúng?! Sự thật khoa học là gì? Bà Cú giám khảo lập tức gõ búa đính chính: Sứa Bất Tử chỉ bất tử về mặt lão hóa sinh học tự nhiên mà thôi! Trong môi trường biển khơi, kích thước chỉ bốn phẩy năm mi-li-mét biến chúng thành món tráng miệng khoái khẩu tuyệt vời cho rùa biển, cá mặt trăng và các loài sứa lớn khác! Hơn nữa, nếu gặp một đợt sóng thần đánh dạt lên bãi cát khô nóng hoặc bị nhiễm khuẩn nấm đại dương, chú sứa bất tử này vẫn sẽ hóa thành một vũng nước khô queo trên bờ biển! Khái niệm bất tử ở đây là không chết vì tuổi già, chứ không phải là mình đồng da sắt chống lại kẻ săn mồi! [laughter] Nếu không có chuỗi thức ăn kiểm soát số lượng, chỉ sau vài năm loài sứa bất tử này có thể nhân bản tràn ngập mọi đại dương trên Trái Đất!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Một pha bẻ lái định nghĩa khoa học cực kỳ chuẩn xác! Tiếp tục với tin đồn số hai: Hải Ly là loài động vật kỳ quặc thích ăn gỗ mục để sống?!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Đây là một sự hiểu lầm tai hại lớn nhất về loài Hải Ly! Đường ruột của Hải Ly hoàn toàn không thể tiêu hóa được phần gỗ lõi cứng chắc của thân cây! Khẩu phần ăn thật sự của chúng là lớp mô mềm màu xanh giàu đường và dinh dưỡng nằm ngay sát dưới lớp vỏ cây, cùng với chồi non và lá cây tươi! Những khúc gỗ cứng cáp bị đốn ngã chỉ được Hải Ly tận dụng làm vật liệu xây dựng con đập kiên cố ngăn dòng nước lũ, chứ không phải thức ăn trong thực đơn hàng ngày! Chúng ta đã oan uổng gán cho Hải Ly cái mác thèm ăn gỗ suốt hàng thế kỷ qua, trong khi chúng chỉ là những người sành ăn vỏ cây dinh dưỡng! [laughter]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Đến tin đồn số ba: Ếch Wolverine tự bẻ xương xuyên qua thịt chân như vậy thì có cảm thấy đau đớn đến thấu xương hay không? Các nhà thần kinh học động vật xác nhận: loài ếch này có đầy đủ các thụ thể cảm nhận đau đớn nociceptor dưới da! Tuy nhiên, trong khoảnh khắc cận kề cái chết trước kẻ thù, tuyến thượng thận của chúng lập tức giải phóng một lượng khổng lồ hormone adrenaline và các peptit giảm đau nội sinh! Cơ chế này tạm thời gây tê liệt cảm giác đau đớn cục bộ, giúp chú ếch tập trung trọn vẹn một trăm phần trăm sức lực để tung đòn móng vuốt sinh tử hạ gục kẻ săn mồi! Và sau khi hiểm nguy qua đi, cảm giác ê ẩm xuất hiện chính là tín hiệu kích hoạt chu trình tiết dịch kháng khuẩn làm lành mô da thần tốc!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Thêm một tin đồn nổi tiếng khác về Bạch Tuộc Mimic: liệu chúng có thật sự nhận thức được mình đang bắt chước loài nào hay chỉ là phản xạ đổi màu ngẫu nhiên? Các thí nghiệm của tiến sĩ Mark Norman tại Indonesia đã chứng minh: Bạch Tuộc Mimic sở hữu trí nhớ thị giác và tư duy phân tích chiến thuật đỉnh cao! Chúng quan sát chính xác đối thủ đang tiếp cận là ai, nhớ lại kẻ thù tự nhiên của đối thủ đó trong tự nhiên, rồi mới quyết định hóa thân thành loài khắc chế phù hợp nhất! Một sự tính toán chiến thuật hoàn toàn chủ động chứ không hề là phản xạ vô thức may rủi! Cả khán đài gật gù khâm phục trí tuệ loài động vật thân mềm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và một tin đồn thú vị khác về Gấu Wombat: có phải chúng dùng hai chân sau để nặn phân thành hình khối lập phương hay không? [laughter] Bà Cú giám khảo cười lớn đính chính: hoàn toàn không phải do nặn bằng tay hay chân! Đó là một trăm phần trăm kết quả của cơ chế thủy lực và áp suất đường ruột tự nhiên! Phân của Wombat đi vào đoạn ruột già ở thể lỏng sệt, và qua quá trình hút nước cực mạnh kết hợp lực co bóp đàn hồi không đều, chúng tự động đông cứng thành các khối hộp vuông vức hoàn hảo trước khi ra ngoài!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và sự thật về chiếc móng vuốt của Ếch Wolverine: xương ngón chân tự bẻ gãy không hề làm đứt gãy mạch máu lớn hay gây hoại tử nhờ một lớp vỏ bọc collagen dạng sợi cực kỳ dẻo dai! Khi móng vuốt thụt vào, lớp vỏ này đóng vai trò như một chiếc băng gạc sinh học ép chặt vết rách, ngăn chặn máu chảy và kích thích tế bào biểu mô phân chia thần tốc!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Viện nghiên cứu sinh học quốc tế cũng xác nhận: chất nhầy của Hagfish khi sấy khô có thể dệt thành sợi tơ nhân tạo bền gấp mười lần sợi nylon tổng hợp! Sợi tơ sinh học này có khả năng tự phân hủy hoàn toàn trong môi trường tự nhiên, mở ra cuộc cách mạng thời trang xanh không rác thải nhựa! Thiên nhiên đã trao tặng cho những dị nhân này những giải pháp sinh học đi trước công nghệ con người hàng trăm triệu năm!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ban giám khảo xin công bố kết quả Vòng bảy! Huy chương Đồng thuộc về Kỳ Nhông Axolotl với bí ẩn trạng thái ấu trùng neoteny suốt đời! Huy chương Bạc thuộc về kỹ sư Hải Ly với lời minh oan đanh thép cho khẩu phần ăn vỏ cây dinh dưỡng! Và Huy chương Vàng ba điểm xuất sắc thuộc về Sứa Bất Tử với bài học phân biệt giữa bất tử sinh học và chuỗi thức ăn đại dương!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Bảng tổng sắp sau bảy vòng đấu chính thức đã chứng kiến sự bứt phá ngoạn mục: Sứa Bất Tử và Hải Ly cùng dẫn đầu với tám điểm! Gấu Wombat bám sát với năm điểm! Axolotl sáu điểm!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene11",
+    "badge": "BÁN KẾT: PHÒNG THÍ NGHIỆM",
+    "banner_title": "BÁN KẾT: THÍ NGHIỆM TƯƠNG LAI",
+    "chapter_title": "Bán Kết: Thí Nghiệm Tương Lai",
+    "hook": "PHÒNG THÍ NGHIỆM TƯƠNG LAI",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "[surprise-oh] Căng thẳng tột cùng! Chào mừng quý vị đến với Vòng Bán Kết: Soi Kính Hiển Vi Điện Tử và Máy Gia Tốc Hạt Đồng Bộ! Đây là vòng thi nơi khoa học đỉnh cao của con người dùng các thiết bị đắt giá hàng triệu đô la để vén màn những kết cấu vật liệu vi mô không tưởng! Những bí mật cấu trúc tinh thể nano ẩn sâu trong tế bào các dị nhân chính là nguồn cảm hứng vô tận cho cuộc cách mạng công nghệ tương lai!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Mẫu thử nghiệm đầu tiên được đưa vào buồng chân không: sợi tơ nhớt protein của Cá Mút Đá Hagfish! Dưới chùm tia X cực mạnh của máy gia tốc hạt, các nhà nghiên cứu vật liệu tại đại học Guelph đã phát hiện ra cấu trúc tinh thể siêu việt của sợi tơ này! Bên trong mỗi tế bào nhớt chứa một cuộn tơ dài tới mười lăm xăng-ti-mét nhưng được quấn tròn thành một viên nang nhỏ chỉ một trăm micro-mét! Khi bung ra trong nước biển, các chuỗi axit amin kỵ nước lập tức hút chặt lấy nhau, biến thể lỏng thành thể gel siêu đàn hồi có thể kéo dài gấp ba lần mà không hề bị đứt gãy! Độ bền kéo của sợi tơ này đạt mức một trăm tám mươi megapascal, tương đương với độ bền của các sợi gân nhân tạo tốt nhất mà con người từng chế tạo!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Một kỳ quan công nghệ nano của biển sâu có tuổi đời ba trăm triệu năm! Cả hội trường vỗ tay rầm rộ! Tiếp theo, hãy đưa lớp da của Hải Sâm vào máy thử nghiệm cơ học biến dạng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Các nhà sinh học phát hiện: da của Hải Sâm được cấu tạo từ một loại mô liên kết biến đổi đặc biệt gọi tắt là M-T-C! Hải Sâm không hề sử dụng cơ bắp hay tiêu tốn năng lượng A-T-P để gồng cứng cơ thể như các loài động vật thông thường! Thay vào đó, các tế bào thần kinh chỉ cần tiết ra một lượng nhỏ phân tử điều hòa để khóa chặt hoặc tháo rời các cầu nối giữa các sợi collagen trong vài trăm mili-giây! Và khi cần thoát thân qua khe đá hẹp, các cầu nối tự bung ra, toàn bộ cơ thể Hải Sâm hóa lỏng mềm nhũn như một khối thạch rau câu trôi tuột qua kẽ hở! Các kỹ sư y sinh đang ứng dụng cơ chế hóa lỏng này để chế tạo các điện cực cấy ghép não bộ: mềm dẻo khi luồn vào mô não nhưng cứng cáp khi định vị chính xác!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và cuối cùng là màn soi siêu vi cơ quan Eimer trên chiếc mũi sao của Chuột Chũi! Mỗi chiếc nhú Eimer hình nấm tí hon chứa một cụm đầu dây thần kinh Merkel cực kỳ tinh vi, có thể nhận biết sự biến dạng bề mặt đất chỉ ở mức... một nanomet! Một nanomet nhỏ hơn cả đường kính của chuỗi xoắn kép D-N-A! Chuột Chũi Mũi Sao không chỉ sờ thấy con mồi, chúng sờ thấy cả kết cấu phân tử của đất!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Để kiểm tra độ bền của chiếc mông bọc thép Wombat, ban giám khảo đã đưa tấm khiên sụn vào máy thử nghiệm búa tạ thủy lực công nghiệp! Rầm! Chiếc búa nảy ngược trở lại trong khi lớp sụn mô mạc sợi của Wombat chỉ lún nhẹ xuống rồi lập tức đàn hồi trở lại hình dáng ban đầu không hề nứt vỡ! Các kỹ sư chế tạo xe hơi bọc thép và mũ bảo hiểm phi hành gia đang nghiên cứu cấu trúc sụn đan sợi này để phát triển vật liệu hấp thụ xung lực thế hệ mới!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tại phòng thí nghiệm công nghệ sinh học, các nhà khoa học đã dùng protein phát quang xanh lá cây G-F-P để theo dõi đường đi của từng tế bào tái sinh trong cơ thể Axolotl! Họ phát hiện một tín hiệu điều khiển thần kỳ: các tế bào thần kinh ngoại biên liên tục phát ra dòng điện sinh học vi mô dẫn đường cho các tế bào cơ di chuyển chính xác đến từng micromet! Công nghệ lập bản đồ tế bào này đang mở ra hướng đi đột phá trong việc chế tạo các chi giả sinh học thông minh kết nối trực tiếp với não bộ con người!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Máy đo phổ tán xạ tia X còn cho thấy: các sợi tơ Hagfish có thể tự sắp xếp lại cấu trúc tinh thể khi chịu lực kéo giật đột ngột, biến lực kéo nguy hiểm thành nhiệt lượng khuếch tán ra môi trường nước! Khả năng hấp thụ xung lực tuyệt đỉnh này chính là chìa khóa vàng giúp chiếc bẫy nhớt Hagfish không bao giờ bị xé rách bởi những cú giãy giụa điên cuồng của cá mập săn mồi!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Cuộc chạm trán nảy lửa giữa công nghệ tái sinh của Axolotl và cơ chế đảo ngược thời gian của Sứa Bất Tử đã làm nổ tung cầu trường! Một bên là khả năng mọc lại mô tạng thần tốc chỉ sau vài tuần ngắn ngủi, một bên là thuật chuyển hóa tế bào đưa toàn bộ cơ thể trở về tuổi ấu thơ! Các nhà khoa học trên khán đài không ngừng ghi chép dữ liệu, đây chính là hai chìa khóa vàng mở toang cánh cửa chữa lành bách bệnh cho nhân loại mai sau!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ban giám khảo xin công bố bảng điểm Vòng Bán Kết! Huy chương Đồng thuộc về Chuột Chũi Mũi Sao với cảm biến xúc giác nhạy tới một nanomet! Huy chương Bạc thuộc về Hải Sâm với mô liên kết biến đổi M-T-C tự hóa lỏng cơ thể không tốn năng lượng! Và Huy chương Vàng ba điểm xuất sắc thuộc về cụ tổ Cá Mút Đá Hagfish với kiến trúc tinh thể tơ protein siêu việt!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Bảng điểm sau vòng Bán Kết tạo nên một cơn địa chấn chưa từng có: Sứa Bất Tử và Hải Ly cùng dẫn đầu với tám điểm! Hagfish bứt phá thần tốc lên sáu điểm ngang hàng với Axolotl! Wombat và Hải Sâm cùng có năm điểm!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene12",
+    "badge": "CHUNG KẾT: MÓN QUÀ CHO NHÂN LOẠI",
+    "banner_title": "CHUNG KẾT: MÓN QUÀ CHO NHÂN LOẠI",
+    "chapter_title": "Vòng Chung Kết: Món Quà Cho Nhân Loại — Công Nghệ Tương Lai Đột Phá (Điểm Nhân Đôi)",
+    "hook": "MÓN QUÀ CHO NHÂN LOẠI — ĐIỂM NHÂN ĐÔI",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "[surprise-oh] Giờ khắc lịch sử đã điểm! Toàn thể đấu trường nín thở chào đón Vòng Chung Kết: Món Quà Cho Nhân Loại và Những Đột Phá Công Nghệ Tương Lai! Đây là vòng thi quyết định số phận chiếc vương miện tối cao: Huy chương Đồng được hai điểm, Huy chương Bạc bốn điểm, và Huy chương Vàng lên tới sáu điểm tròn! Ở vòng đấu này, chúng ta đánh giá tiềm năng ứng dụng thực tiễn của mười tuyển thủ trong việc giải cứu y học, công nghệ và tương lai của loài người! Không phải danh hiệu hão huyền, những món quà tiến hóa mà muôn loài trao tặng cho nền văn minh nhân loại chính là giá trị bất tử đích thực của sự sống!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ứng cử viên đầu tiên tiến vào vòng đánh giá: cụ tổ Cá Mút Đá Hagfish với cuộc cách mạng vật liệu sinh thái! Hiện nay, sợi Kevlar dùng để may áo giáp chống đạn quân sự được sản xuất từ dầu mỏ với quy trình hóa học độc hại và đắt đỏ. Nhưng tơ của Hagfish hoàn toàn có thể tự tổng hợp bằng vi khuẩn lên men sinh học, tạo ra các tấm giáp chống đạn nhẹ hơn một nửa, dai gấp mười lần và hoàn toàn tự phân hủy sinh học trong môi trường tự nhiên! Hơn thế nữa, gel nhớt của Hagfish đang được nghiên cứu làm chất chữa cháy khẩn cấp cho các đám cháy giàn khoan dầu ngoài khơi nhờ khả năng ngậm nước cực lớn!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Một giải pháp vật liệu xanh hoàn hảo cho tương lai quốc phòng và môi trường! Nhưng hãy nhìn sang Kỳ Nhông Axolotl với chiếc chìa khóa vàng của y học tái tạo mô người!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Mỗi năm trên thế giới có hàng triệu bệnh nhân chịu cảnh tàn phế do đột quỵ tim hoặc chấn thương đứt tủy sống không thể phục hồi. Các nhà nghiên cứu tại Viện Max Planck Đức đã phân lập được các yếu tố sinh trưởng tế bào mầm chi từ Axolotl! Khi ứng dụng các tín hiệu phân tử này vào tế bào người, các nhà khoa học đã thành công trong việc kích thích tế bào cơ tim người tự phân chia bù đắp vào vùng mô tim bị hoại tử sau cơn nhồi máu! Axolotl đang thắp lên hy vọng có thật về một ngày con người có thể tự mọc lại các ngón tay và chữa lành hoàn toàn các chấn thương cột sống! Đây không còn là khoa học viễn tưởng, mà là lộ trình y học tái sinh có thể trở thành hiện thực trong vài thập kỷ tới!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và cuối cùng, chiếc ly thủy tinh nhỏ xíu của Sứa Bất Tử bay vút lên giữa trung tâm sân vận động! Căn bệnh đáng sợ nhất của nhân loại không phải là vi khuẩn hay virus, mà chính là sự thoái hóa và lão hóa không thể đảo ngược của các tế bào não trong bệnh Alzheimer và Parkinson! Nhưng cơ chế chuyển biệt hóa tế bào của Sứa Bất Tử đã chứng minh một chân lý vĩ đại: tế bào hoàn toàn có thể được tái lập trình trở lại trạng thái non trẻ ban đầu! Giải mã cơ chế telomerase của loài sứa bốn phẩy năm mi-li-mét này đang giúp các nhà khoa học mở ra kỷ nguyên mới của thuốc đảo ngược tuổi sinh học, trẻ hóa tế bào gốc và kéo dài tuổi thọ khỏe mạnh cho loài người! Một giấc mơ trường thọ không bệnh tật mà nhân loại hằng khao khát suốt hàng ngàn năm lịch sử!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Và một món quà bất ngờ khác đến từ Kiến Nổ Cảm Tử: chất keo dính phenolic tiết ra từ cơ thể chúng đang được các nhà dược học nghiên cứu làm keo dán vết mổ nội tạng sinh học! Loại keo này có khả năng đông kết tức thì ngay trong môi trường ẩm ướt đầy máu, dính chặt vết mổ mà không gây độc hại và tự tiêu biến sau khi mô cơ lành lặn! Từ một hành động tự hủy bảo vệ tổ, thiên nhiên đã trao tặng cho y học loài người một phương pháp cầm máu phẫu thuật đột phá cứu sống hàng ngàn sinh mạng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chiếc mũi sao của Chuột Chũi Mũi Sao cũng đang truyền cảm hứng cho việc chế tạo các robot cứu hộ động đất thế hệ mới! Trong môi trường khói bụi mù mịt và bóng tối sập đổ của các tòa nhà sau thảm họa, camera quang học hoàn toàn bị vô hiệu hóa, nhưng các xúc tu cảm biến Eimer có thể dò tìm thấy nhịp thở và sự sống của nạn nhân chỉ trong tích tắc! Một phát minh lấy cảm hứng từ sinh vật mù lòa đầm lầy đang cứu sống hàng ngàn con người khỏi thảm họa thiên tai!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Hơn thế nữa, các nhà khoa học vật liệu tại Viện Công nghệ Massachusetts đang phát triển loại da nhân tạo thông minh mô phỏng cơ chế M-T-C của Hải Sâm! Vật liệu này có thể dùng làm lớp vỏ ngoài cho robot mềm thám hiểm không gian: mềm dẻo để luồn lách qua các khe nứt thiên thạch nhưng lập tức cứng như thép khi cần khoan sâu vào lòng đất!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Trận chung kết diễn ra trong bầu không khí trang trọng và xúc động chưa từng có giữa ba đỉnh cao tiến hóa của tự nhiên! Hải Ly đại diện cho sức mạnh kiến tạo làm thay đổi cả một vùng địa lý rộng lớn, mang lại sự trù phú và nước ngọt cho muôn loài sinh vật! Axolotl đại diện cho kỳ tích tái sinh thể xác phi thường, còn Sứa Bất Tử là biểu tượng bất diệt cho sự chiến thắng quy luật nghiệt ngã của thời gian!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Ban giám khảo đã hoàn tất việc chấm điểm Vòng Chung Kết! Huy chương Đồng hai điểm thuộc về cụ tổ Cá Mút Đá Hagfish với vật liệu tơ chống đạn sinh thái! Huy chương Bạc bốn điểm thuộc về Kỳ Nhông Axolotl với cuộc cách mạng tái tạo mô tim và tủy sống con người! Và Huy chương Vàng sáu điểm tối cao của Vòng Chung Kết thuộc về Sứa Bất Tử với giấc mơ trẻ hóa tế bào và đảo ngược lão hóa cho toàn thể nhân loại!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Một màn lội ngược dòng không tưởng trong lịch sử Đại Hội Sinh Tồn! Tổng điểm của Sứa Bất Tử đã nhảy vọt lên con số mười bốn điểm, chính thức xô đổ mọi kỷ lục điểm số!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene13",
+    "badge": "LỄ BẾ MẠC & TRAO VƯƠNG MIỆN",
+    "banner_title": "LỄ BẾ MẠC & TRAO VƯƠNG MIỆN",
+    "chapter_title": "Lễ Bế Mạc & Trao Vương Miện Đại Hội Sinh Tồn Mùa 3",
+    "hook": "LỄ TRAO VƯƠNG MIỆN MÙA 3",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "[surprise-oh] Âm nhạc vinh quang rộn rã vang lên! Thưa toàn thể muôn loài muôn thú, chúng ta chính thức bước vào Lễ Bế Mạc và Trao Vương Miện Đại Hội Sinh Tồn Mùa ba! Sau tám vòng thi đấu nghẹt thở với hàng loạt kỷ lục khoa học được thiết lập, bảng tổng sắp chung cuộc đã chính thức chốt hạ! Mỗi tuyển thủ đều đã cống hiến hết mình, phô diễn những vũ khí sinh học và kỳ tích thích nghi làm rạng danh thế giới hoang dã! Đồng hạng ba giành Huy chương Đồng chung cuộc của Mùa ba là hai tuyển thủ: kỹ sư Hải Ly và cụ tổ Cá Mút Đá Hagfish với tám điểm xuất sắc! Ngôi vị Á quân giành Huy chương Bạc chung cuộc thuộc về thiên thần tái sinh của đất nước Mexico: Kỳ Nhông Axolotl với mười điểm tròn trĩnh!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và chiếc vương miện vàng nạm đá quý tối cao của Đại Hội Sinh Tồn Mùa ba... đã tìm thấy chủ nhân xứng đáng nhất! Kẻ từng bị các chuyên gia đánh giá là yếu ớt nhất, chỉ nặng một miligram và dài bốn phẩy năm mi-li-mét trong buổi lễ cân ký đo đạc đầu tiên! Nhưng bằng năng lực đảo ngược dòng thời gian sinh học vô tận, sinh vật nhỏ bé này đã chứng minh cho toàn vũ trụ thấy: kích thước không bao giờ là giới hạn của sự sống! Một thắng lợi của sự kiên trì, của sự dẻo dai và của phép màu tái sinh vô tận trong lòng đại dương sâu thẳm!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Xin nhiệt liệt chúc mừng tân vương của Mùa ba: SỨA BẤT TỬ! Khán đài hàng vạn muông thú đồng loạt đứng dậy hò reo vang dội, vẫy cờ hoa chúc mừng chiến thắng lịch sử của tân vương!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Dạ em cảm ơn toàn thể muôn loài đã ủng hộ em! Em xin hứa sẽ tiếp tục bơi lội bất tử thêm vài triệu năm nữa để bảo vệ sự sống hành tinh nha!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Tất cả các tuyển thủ đều đã nhận được những chiếc cúp danh dự và huy chương tương xứng với những cống hiến khoa học phi thường của mình! Anh chàng Wombat mỉm cười tự hào với tấm huy chương vàng Vòng một, kỹ sư Hải Ly rạng rỡ với ba tấm huy chương danh giá, và cụ tổ Hagfish uy nghi với giải thưởng cổ vật sống trường tồn! Nhưng đỉnh cao vinh quang và chiếc vương miện tối cao vẫn thuộc về chú sứa nhỏ một miligram: biểu tượng của sức sống mãnh liệt vượt lên trên mọi giới hạn vật chất!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Toàn thể mười tuyển thủ cùng bước lên bục vinh quang chung, quây quần bên chiếc cúp vàng danh giá của Đại Hội Sinh Tồn Mùa ba! Chiếc máy ảnh toàn cảnh của ban tổ chức lóe sáng, ghi lại bức ảnh lịch sử của mười dị nhân vĩ đại nhất hành tinh trong sự hò reo không dứt của muôn loài!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Những tiếng hò reo vang dội khắp bốn bề đấu trường khi chiếc vương miện Mùa ba tỏa ánh sáng lộng lẫy trên đỉnh chuông sứa nhỏ bé! Đó là một khoảnh khắc xúc động nhắc nhở muôn loài về sự kỳ diệu khôn cùng của tạo hóa, nơi sinh vật nhỏ bé nhất lại nắm giữ bí mật trường tồn vĩ đại nhất!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Mỗi chiếc huy chương được trao hôm nay là sự ghi nhận xứng đáng cho hàng trăm triệu năm bền bỉ tiến hóa và thích nghi phi thường của thế giới tự nhiên! Dù mang vẻ ngoài kỳ dị hay tập tính khác thường, mỗi sinh vật đều là một kiệt tác hoàn hảo của tạo hóa, mang trong mình những giá trị vô giá cho hành tinh!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Mười tuyển thủ cùng bước lên sàn đấu chung, ôm lấy nhau trong tình thân ái muôn loài: không có ai là kẻ thua cuộc, tất cả đều là những kiệt tác tiến hóa vĩ đại của Trái Đất! Chiếc cúp Mùa ba đã tìm thấy chủ nhân, khép lại một mùa giải kịch tính nhất từ trước đến nay!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene14",
+    "badge": "BẢO TỒN SINH THÁI & HÉ LỘ MÙA 4",
+    "banner_title": "BẢO TỒN SINH THÁI & HÉ LỘ MÙA 4",
+    "chapter_title": "Bài Học Bảo Tồn, Câu Hỏi Bình Luận & Hé Lộ Mùa 4",
+    "hook": "BÀI HỌC BẢO TỒN & HÉ LỘ MÙA 4",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Khi ánh đèn sân khấu dần dịu lại và tiếng reo hò lắng xuống, một thông điệp sâu sắc hơn bao giờ hết đang chờ đợi chúng ta lắng đọng... Mỗi loài sinh vật xuất hiện trong Mùa ba hôm nay đều là kết tinh của hàng trăm triệu năm thử nghiệm và chọn lọc tự nhiên khắc nghiệt. Nhưng dù sở hữu những siêu năng lực bẻ gãy mọi quy luật sinh học, chúng vẫn vô cùng mong manh trước sự tàn phá môi trường do con người gây ra. Kỳ Nhông Axolotl dù có thể mọc lại cả não bộ và trái tim, nhưng chúng không thể tự tái tạo lại hồ nước Xochimilco đang bị ô nhiễm và thu hẹp từng ngày, đẩy chúng đến bờ vực tuyệt chủng ngoài tự nhiên! Sứa Bất Tử có thể đảo ngược chu trình già nua vô tận, nhưng chúng vẫn tan rã bất lực trước những vùng biển ngập tràn hạt vi nhựa và hiện tượng axit hóa đại dương! Bảo vệ những sinh vật dị thường này không chỉ là bảo vệ tự nhiên hoang dã, mà chính là bảo vệ kho báu tri thức vô giá cho tương lai y học và sự tồn vong của chính loài người chúng ta! Chúng ta không thể học được bí quyết tái tạo mô tim từ Axolotl hay đảo ngược lão hóa từ Sứa nếu để chúng biến mất vĩnh viễn khỏi hành tinh này!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Và trước khi khép lại tập đặc biệt Mùa ba, anh MC xin gửi tới toàn thể quý vị khán giả một câu hỏi giao lưu đầy thú vị: Nếu được chọn sở hữu một siêu năng lực của mười quái kiệt Mùa ba: tái sinh không sẹo của Axolotl, mông bọc thép của Wombat, đớp mồi không phẩy mười hai giây của Chuột Chũi, hay khả năng đảo ngược thời gian của Sứa Bất Tử, bạn sẽ chọn năng lực nào? Hãy chia sẻ suy nghĩ và bình luận của bạn ngay bên dưới video này để cùng bàn luận với cộng đồng yêu thiên nhiên nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và đừng quên nhấn nút Đăng ký kênh Vẽ Chuyện Hoang Dã ngay hôm nay để không bỏ lỡ tập ba mươi mốt: Chim Cắt Lớn Peregrine Falcon — sát thủ bầu trời bổ nhào với vận tốc ba trăm chín mươi cây số một giờ xé gió săn mồi! Cùng với đó là sự khởi động của Đại Hội Sinh Tồn Mùa bốn trong tương lai, nơi các dũng sĩ săn mồi đỉnh chóp như Cá Voi Sát Thủ Orca, Quạ Đen thiên tài và Chó Sói Xám sẽ chính thức tuyên chiến!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Hành trình Mùa ba khép lại nhưng những bài học về tình yêu thiên nhiên và sự trân trọng từng sự sống nhỏ bé sẽ còn đọng lại mãi trong trái tim chúng ta. Mỗi dòng suối mát lành, mỗi rạn san hô rực rỡ và mỗi cánh rừng nguyên sinh đều là ngôi nhà chung thiêng liêng mà con người và muôn thú cùng chia sẻ. Chúng ta hãy cùng nhau chung tay gìn giữ và bảo vệ những kỳ quan sinh học vô giá này trước khi quá muộn!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Mỗi hành động nhỏ bé của chúng ta hôm nay: tiết kiệm một giọt nước sạch, giảm bớt một chiếc túi nilon thải ra đại dương, hay trồng thêm một mầm cây xanh nơi góc phố đều là sự tiếp sức cho sự trường tồn của muôn loài! Hãy cùng kênh Vẽ Chuyện Hoang Dã lan tỏa tình yêu thiên nhiên và lòng trân trọng sự sống đến mọi người xung quanh bạn nhé!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Những thông điệp yêu thương và bài học bảo tồn thiên nhiên sâu sắc của Đại Hội Sinh Tồn Mùa ba sẽ tiếp tục lan tỏa, thắp sáng niềm hy vọng cho một Trái Đất xanh tươi muôn màu muôn vẻ! Một cuộc chạm trán nảy lửa trên không trung và đại dương bao la đang đón chờ quý vị khán giả thân yêu!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Bảo vệ những loài sinh vật kỳ diệu này chính là bảo vệ kho tàng tri thức sinh học vô giá mà thiên nhiên đã dày công tích lũy qua hàng ngàn triệu năm! Nếu để mất đi dù chỉ một mắt xích nhỏ bé, nhân loại có thể vĩnh viễn đánh mất những chìa khóa y học quý báu không bao giờ tìm lại được!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Xin chào tạm biệt, xin cảm ơn toàn thể quý vị đã đồng hành, và hẹn gặp lại tất cả trong những chuyến phiêu lưu hoang dã tiếp theo!",
+      "mood": "hao_hung"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "don_dap",
+  "text": "[surprise-oh] Mười dị nhân mới. Tám vòng đấu sinh tử. Một chiếc vương miện tối cao! Gấu Wombat ba mươi lăm ki-lô-gam và Hải Ly răng sắt được đặt cược sẽ thắng. Còn Sứa Bất Tử một miligram... chuyên gia bảo tham gia cho vui! [laughter] Vòng một: Cá Mút Đá Hagfish sở hữu sợi tơ nhớt bền gấp mười lần tơ nhện và dai hơn sợi Kevlar! Vòng hai: Chuột Chũi Mũi Sao đớp mồi trong không phẩy mười hai giây và ngửi mùi dưới nước bằng bong bóng khí! Vòng ba: Kỳ Nhông Axolotl sở hữu bộ gen ba mươi hai tỷ cặp base tái sinh não tim mà không để lại sẹo! Vòng bốn: Đập nước Hải Ly tạo vùng ngập nước kỳ diệu ngăn chặn bão lửa và hạn hán cả thung lũng! Vòng năm: Hải Sâm lầy lội tiêu hóa một trăm ba mươi tấn trầm tích mỗi năm để bảo vệ rạn san hô! Vòng sáu: Bạch Tuộc Mimic chín bộ não biến hình mười lăm loài kịch độc chỉ trong hai trăm mili-giây! Chung kết: ai mang lại công nghệ vĩ đại nhất cho loài người? Y học tái tạo mô của Axolotl hay gen telomere bất tử của Sứa? [surprise-wa] Và tân vương Mùa ba là... sinh vật tí hon một miligram từng bị xem là mồi ngon dưới đáy biển! [question-ah] Bạn có đồng ý không? Xem trọn tám vòng đấu kịch tính trong video dài nhé, vì ở đây có mười dị nhân mới, tám vòng đấu sinh tử, và một chiếc vương miện tối cao!"
+ }
+}

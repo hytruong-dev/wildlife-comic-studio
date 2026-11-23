@@ -1,0 +1,134 @@
+{
+ "title_lines": [
+  "BỔ NHÀO 389 KM/H:",
+  "NÓN NÉN KHÍ CHỐNG NỔ PHỔI!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Tại sao khi lao",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "at": "5.000m",
+     "side": "L",
+     "y": 360,
+     "value": "5.000m",
+     "label": "độ cao bổ nhào",
+     "target": [
+      0.3,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "hai lá phổi của Chim Cắt",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  },
+  {
+   "at": "Đây chính là Tiêm Kích",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "Ở tốc độ khủng khiếp",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "áp lực không khí mạnh",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": []
+  },
+  {
+   "at": "Nhưng mẹ thiên nhiên",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "at": "tubercle",
+     "side": "R",
+     "y": 360,
+     "value": "TUBERCLE",
+     "label": "nón nén khí",
+     "target": [
+      0.75,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Chiếc nón giảm áp này",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "Đến cả siêu máy bay",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "at": "SR-71",
+     "side": "R",
+     "y": 360,
+     "value": "SR-71",
+     "label": "học tập tự nhiên",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "cũng phải học lỏm",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S13.png",
+   "stickers": []
+  },
+  {
+   "at": "chim cắt còn cuộn ngón",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "chịu gia lực tới 25G",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "at": "25G",
+     "side": "R",
+     "y": 360,
+     "value": "25G",
+     "label": "chịu lực 25G",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Một kiệt tác khí động học",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  }
+ ]
+}

@@ -1,0 +1,416 @@
+{
+ "_doc": "Hệ thống giọng đọc đa phong cách — xem docs/HE_THONG_GIONG_DOC_DA_PHONG_CACH.md. moods = cách đọc theo TÌNH HUỐNG (mỗi part chọn 1); personas = vai người dẫn theo FORMAT tập; cast = giọng vai phụ (cameo) dùng OmniVoice voice-design 'instruct'. ref null = không clone, giọng thiết kế hoàn toàn. Tempo là atempo sau TTS; mức trung bình cả tập phải >= 1.10 (TASTE-61).",
+ "moods": {
+  "hao_hung": {
+   "label": "Hào hứng (mặc định — ông anh tếu)",
+   "ref": "assets/voice_refs/adam_funny_ep1.wav",
+   "speed": 1.05,
+   "tempo": 1.12,
+   "write": "Câu vừa, nhiều '!', so sánh đời thường, punchline ≤ 8 từ + [laughter]",
+   "tags": [
+    "laughter",
+    "surprise-oh",
+    "surprise-wa",
+    "question-ah"
+   ]
+  },
+  "don_dap": {
+   "label": "Dồn dập — bình luận viên / hành động",
+   "ref": "assets/voice_refs/adam_funny_ep1.wav",
+   "speed": 1.12,
+   "tempo": 1.18,
+   "write": "Câu ≤ 10 từ, liệt kê dồn, động từ mạnh, '!' cuối mỗi câu, không câu phụ dài",
+   "tags": [
+    "surprise-wa",
+    "surprise-ah"
+   ]
+  },
+  "tram_bi_an": {
+   "label": "Trầm, bí ẩn — hồi hộp / điều tra",
+   "ref": "assets/voice_refs/adam_v3_ep6.wav",
+   "speed": 1.0,
+   "tempo": 1.08,
+   "write": "Câu ngắn, nhiều '...', câu hỏi treo, KHÔNG [laughter], KHÔNG thì thầm (TASTE-32)",
+   "tags": [
+    "question-oh"
+   ]
+  },
+  "nghiem_trang_gia": {
+   "label": "Nghiêm trang giả (deadpan) — bản tin / bệnh án / tuyên án rồi bẻ lái",
+   "ref": "assets/voice_refs/adam_v3_ep6.wav",
+   "speed": 1.02,
+   "tempo": 1.11,
+   "write": "Câu trang trọng như văn bản ('Chẩn đoán:', 'Bằng chứng số 2:'), sau đó 1 câu tầm thường cực ngắn làm punchline",
+   "tags": [
+    "dissatisfaction-hnn",
+    "laughter"
+   ]
+  },
+  "bi_hai": {
+   "label": "Bi hài — thương hại con vật",
+   "ref": "assets/voice_refs/adam_v3_ep6.wav",
+   "speed": 1.0,
+   "tempo": 1.08,
+   "write": "[sigh] đầu đoạn, kể chậm cái khổ, chốt bằng 1 câu tự giễu",
+   "tags": [
+    "sigh",
+    "laughter"
+   ]
+  },
+  "am_ap": {
+   "label": "Ấm áp — cứu hộ, tình mẫu tử, bài học, teaser",
+   "ref": "assets/voice_refs/adam_v3_ep6.wav",
+   "speed": 1.0,
+   "tempo": 1.08,
+   "write": "Câu mềm, xưng 'chúng ta', không cảm thán dồn; kết bằng câu mời tò mò",
+   "tags": []
+  }
+ },
+ "cast": {
+  "tham_phan": {
+   "label": "Thẩm phán",
+   "ref": "assets/voice_refs/cast_tham_phan.wav",
+   "instruct": null,
+   "speed": 0.95,
+   "design": "male, elderly, very low pitch"
+  },
+  "cong_to_vien": {
+   "label": "Công tố viên",
+   "ref": "assets/voice_refs/cast_cong_to_vien.wav",
+   "instruct": null,
+   "speed": 1.08,
+   "design": "female, middle-aged, moderate pitch"
+  },
+  "ba_trum": {
+   "label": "Bà trùm / Nữ hoàng",
+   "ref": "assets/voice_refs/cast_ba_trum.wav",
+   "instruct": null,
+   "speed": 0.95,
+   "design": "female, middle-aged, low pitch"
+  },
+  "be_con": {
+   "label": "Con non / nhân vật bé xíu",
+   "ref": "assets/voice_refs/cast_be_con.wav",
+   "instruct": null,
+   "speed": 1.08,
+   "design": "female, child, high pitch"
+  },
+  "ga_khong_lo": {
+   "label": "Gã khổng lồ / kẻ săn mồi to xác",
+   "ref": "assets/voice_refs/cast_ga_khong_lo.wav",
+   "instruct": null,
+   "speed": 0.92,
+   "design": "male, middle-aged, very low pitch"
+  },
+  "chu_ngo_ngac": {
+   "label": "Con vật ngơ ngác (koala, lười, cá mặt trăng)",
+   "ref": "assets/voice_refs/cast_chu_ngo_ngac.wav",
+   "instruct": null,
+   "speed": 0.9,
+   "design": "male, young adult, high pitch"
+  },
+  "co_tro_ly": {
+   "label": "Trợ lý phòng thí nghiệm",
+   "ref": "assets/voice_refs/cast_co_tro_ly.wav",
+   "instruct": null,
+   "speed": 1.06,
+   "design": "female, young adult, moderate pitch"
+  },
+  "ong_gia_ke": {
+   "label": "Cụ già kể chuyện / nhân chứng",
+   "ref": "assets/voice_refs/cast_ong_gia_ke.wav",
+   "instruct": null,
+   "speed": 0.95,
+   "design": "male, elderly, low pitch"
+  },
+  "phat_thanh_vien": {
+   "label": "Phát thanh viên bản tin khẩn",
+   "ref": "assets/voice_refs/cast_phat_thanh_vien.wav",
+   "instruct": null,
+   "speed": 1.1,
+   "design": "female, young adult, moderate pitch"
+  }
+ },
+ "personas": {
+  "bac_si": {
+   "format": "F1",
+   "label": "Bác sĩ khám nghiệm bất lực",
+   "default_mood": "nghiem_trang_gia",
+   "mood_mix": {
+    "nghiem_trang_gia": 0.35,
+    "hao_hung": 0.35,
+    "bi_hai": 0.2,
+    "am_ap": 0.1
+   },
+   "cast_hint": [
+    "chu_ngo_ngac",
+    "co_tro_ly",
+    "be_con"
+   ],
+   "address": "xưng 'tôi', gọi con vật là 'bệnh nhân', người xem là 'các đồng nghiệp'",
+   "openers": [
+    "Bệnh nhân số {n}, mời vào!",
+    "Hồ sơ bệnh án hôm nay dày bất thường..."
+   ],
+   "lexicon": [
+    "chẩn đoán",
+    "chỉ số",
+    "kết quả nội soi",
+    "kê đơn",
+    "tiên lượng",
+    "ca này khó"
+   ],
+   "closer": "Kết luận y khoa: ... Ký tên: bác sĩ đã bất lực."
+  },
+  "ky_su_vu_khi": {
+   "format": "F2",
+   "label": "Kỹ sư giải mã vũ khí tối mật",
+   "default_mood": "hao_hung",
+   "mood_mix": {
+    "don_dap": 0.35,
+    "hao_hung": 0.4,
+    "tram_bi_an": 0.25
+   },
+   "cast_hint": [
+    "phat_thanh_vien",
+    "ga_khong_lo"
+   ],
+   "address": "xưng 'tôi', người xem là 'đội kỹ thuật'",
+   "openers": [
+    "Hồ sơ mật cấp độ đỏ. Mở khóa!",
+    "Thông số kỹ thuật, đọc to cho cả đội nghe!"
+   ],
+   "lexicon": [
+    "thông số",
+    "nạp đạn",
+    "khai hỏa",
+    "bản vẽ",
+    "điểm yếu kỹ thuật",
+    "phiên bản nâng cấp"
+   ],
+   "closer": "Báo cáo kỹ thuật: vũ khí hoàn hảo... trừ đúng một con ốc vít."
+  },
+  "phien_toa": {
+   "format": "F3",
+   "label": "Phiên tòa: công tố viên → luật sư bào chữa",
+   "default_mood": "nghiem_trang_gia",
+   "mood_mix": {
+    "nghiem_trang_gia": 0.3,
+    "don_dap": 0.25,
+    "hao_hung": 0.25,
+    "am_ap": 0.2
+   },
+   "cast_hint": [
+    "tham_phan",
+    "ong_gia_ke",
+    "cong_to_vien"
+   ],
+   "address": "nửa đầu đóng công tố viên (đanh thép), chương cuối đổi vai luật sư bào chữa (ấm áp); người xem là 'bồi thẩm đoàn'",
+   "openers": [
+    "Bị cáo, mời đứng lên!",
+    "Bồi thẩm đoàn, hãy nhìn kỹ bằng chứng số một."
+   ],
+   "lexicon": [
+    "bị cáo",
+    "bằng chứng",
+    "nhân chứng",
+    "hiện trường",
+    "phản đối!",
+    "tòa tuyên"
+   ],
+   "closer": "Cộc cộc cộc! Tòa tuyên... (thẩm phán cameo)"
+  },
+  "phong_vien_24h": {
+   "format": "F4",
+   "label": "Phóng viên tường thuật trực tiếp theo đồng hồ",
+   "default_mood": "hao_hung",
+   "mood_mix": {
+    "hao_hung": 0.35,
+    "don_dap": 0.25,
+    "tram_bi_an": 0.25,
+    "am_ap": 0.15
+   },
+   "cast_hint": [
+    "phat_thanh_vien",
+    "ong_gia_ke"
+   ],
+   "address": "xưng 'chúng tôi đang có mặt tại...', người xem là 'quý vị'",
+   "openers": [
+    "Bây giờ là sáu giờ sáng. Và cuộc đua sinh tồn bắt đầu!",
+    "Trực tiếp từ hiện trường..."
+   ],
+   "lexicon": [
+    "bây giờ là",
+    "đồng hồ điểm",
+    "còn đúng",
+    "đếm ngược",
+    "cập nhật mới nhất"
+   ],
+   "closer": "Đồng hồ lại điểm sáu giờ sáng. Và mọi thứ... làm lại từ đầu.",
+   "mood_by_clock": {
+    "sáng": "hao_hung",
+    "trưa": "don_dap",
+    "chiều/tối": "tram_bi_an",
+    "đêm": "am_ap"
+   }
+  },
+  "nha_khoa_hoc": {
+   "format": "F5",
+   "label": "Nhà khoa học 'điên' tăng cấp thử thách",
+   "default_mood": "hao_hung",
+   "mood_mix": {
+    "hao_hung": 0.4,
+    "don_dap": 0.3,
+    "tram_bi_an": 0.15,
+    "bi_hai": 0.15
+   },
+   "cast_hint": [
+    "co_tro_ly",
+    "phat_thanh_vien"
+   ],
+   "address": "xưng 'tôi', người xem là 'trợ lý thí nghiệm'",
+   "openers": [
+    "Ghi chép thí nghiệm, ngày thứ nhất. Đối tượng: ...",
+    "Trợ lý, tăng nhiệt độ lên!"
+   ],
+   "lexicon": [
+    "cấp độ",
+    "mẫu vật",
+    "ghi chép",
+    "tăng liều",
+    "kết quả: vẫn sống"
+   ],
+   "closer": "Cấp độ tối thượng: thất bại. Mẫu vật... đang ngáp.",
+   "tempo_ramp": [
+    1.08,
+    1.1,
+    1.12,
+    1.15,
+    1.18
+   ]
+  },
+  "ong_trum": {
+   "format": "F6",
+   "label": "Người kể phim tài liệu băng đảng",
+   "default_mood": "tram_bi_an",
+   "mood_mix": {
+    "tram_bi_an": 0.4,
+    "nghiem_trang_gia": 0.3,
+    "hao_hung": 0.3
+   },
+   "cast_hint": [
+    "ba_trum",
+    "ga_khong_lo"
+   ],
+   "address": "kể ngôi thứ ba, gọi con vật là 'gia đình', 'tổ chức', người xem là 'anh em'",
+   "openers": [
+    "Trong thế giới này, có những luật lệ... không ai dám nói ra.",
+    "Gia đình này có một quy tắc."
+   ],
+   "lexicon": [
+    "gia tộc",
+    "luật ngầm",
+    "lính mới",
+    "đàn em",
+    "lệnh của bà trùm",
+    "chiến dịch"
+   ],
+   "closer": "Và đó là cách gia đình này... cai trị cả một vùng."
+  },
+  "binh_luan_vien": {
+   "format": "F7",
+   "label": "Bình luận viên đấu trường / esports",
+   "default_mood": "don_dap",
+   "mood_mix": {
+    "don_dap": 0.45,
+    "hao_hung": 0.4,
+    "bi_hai": 0.15
+   },
+   "cast_hint": [
+    "ga_khong_lo",
+    "phat_thanh_vien"
+   ],
+   "address": "xưng 'tôi', người xem là 'khán giả', con vật là 'tuyển thủ'",
+   "openers": [
+    "Kính thưa quý vị, tuyển thủ của chúng ta đã bước vào sàn đấu!",
+    "Chỉ số đã lên bảng!"
+   ],
+   "lexicon": [
+    "tuyển thủ",
+    "combo",
+    "chí mạng",
+    "K.O",
+    "hiệp hai",
+    "buff",
+    "nerf"
+   ],
+   "closer": "Và trận đấu kết thúc! Người chiến thắng là..."
+  },
+  "giai_dau": {
+   "format": "F_SPECIAL",
+   "label": "MC đại hội loại trực tiếp",
+   "default_mood": "don_dap",
+   "mood_mix": {
+    "don_dap": 0.5,
+    "hao_hung": 0.35,
+    "tram_bi_an": 0.15
+   },
+   "cast_hint": [
+    "tham_phan",
+    "phat_thanh_vien"
+   ],
+   "address": "MC sân khấu, gọi người xem là 'toàn thể khán đài'",
+   "openers": [
+    "Mười nhà vô địch. Một chiếc đai. Không có hòa!"
+   ],
+   "lexicon": [
+    "vòng loại",
+    "nhánh đấu",
+    "đi tiếp",
+    "bị loại"
+   ],
+   "closer": "Nhà vô địch toàn hành tinh là..."
+  },
+  "chi_huy_mat_vu": {
+   "format": "F_SPECIAL",
+   "label": "Chỉ huy trưởng mật vụ / Phim điệp viên",
+   "default_mood": "tram_bi_an",
+   "mood_mix": {
+    "tram_bi_an": 0.4,
+    "nghiem_trang_gia": 0.35,
+    "hao_hung": 0.25
+   },
+   "cast_hint": [
+    "phat_thanh_vien",
+    "ba_trum",
+    "ga_khong_lo"
+   ],
+   "address": "xưng 'tôi', người xem là 'các đặc vụ', 'trung tâm chỉ huy', các con vật là 'đặc vụ'",
+   "openers": [
+    "Tập trung! Hồ sơ mật cấp độ Tối Mật vừa được giải mã.",
+    "Mục tiêu tối nay: Pháo Đài Tự Nhiên. Không có đường lui."
+   ],
+   "lexicon": [
+    "đặc vụ",
+    "mật mã",
+    "cửa ải",
+    "đột nhập",
+    "tác chiến",
+    "nhiễu sóng",
+    "giải mã",
+    "vô hiệu hóa",
+    "cửa thoát hiểm",
+    "báo động đỏ"
+   ],
+   "closer": "Điệp vụ hoàn tất. Toàn đội rút lui... trước khi bị phát hiện."
+  }
+ },
+ "rotation_rules": {
+  "consecutive_persona_forbidden": true,
+  "min_distinct_moods_per_episode": 3,
+  "max_share_of_one_mood": 0.5,
+  "min_cast_lines_long": 2,
+  "max_cast_share_long": 0.08,
+  "min_avg_tempo_long": 1.1
+ }
+}

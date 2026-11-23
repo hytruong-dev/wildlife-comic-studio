@@ -1,0 +1,473 @@
+{
+ "episode": "tap-31-chim-cat-lon",
+ "title_lines": [
+  "BỔ NHÀO 389 KM/H:",
+  "NÓN NÉN KHÍ CHỐNG NỔ PHỔI!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 50.96,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-31-chim-cat-lon_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  3.73,
+  8.69,
+  11.47,
+  16.03,
+  18.79,
+  23.23,
+  29.26,
+  36.03,
+  39.51,
+  43.89,
+  47.33,
+  50.19
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.0,
+     "text": "Hồ sơ mật"
+    },
+    {
+     "t": 0.68,
+     "text": "cấp độ đỏ."
+    },
+    {
+     "t": 1.26,
+     "text": "Mở khóa!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 1.93,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 3.9,
+     "side": "L",
+     "y": 360,
+     "value": "5.000m",
+     "label": "độ cao bổ nhào",
+     "target": [
+      0.3,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 2.18,
+     "text": "Tại sao khi"
+    },
+    {
+     "t": 3.04,
+     "text": "lao xuống từ"
+    },
+    {
+     "t": 3.54,
+     "text": "độ cao 5.000m"
+    },
+    {
+     "t": 4.42,
+     "text": "với vận tốc"
+    },
+    {
+     "t": 5.12,
+     "text": "389 km/h,"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 6.89,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 7.14,
+     "text": "hai lá phổi"
+    },
+    {
+     "t": 7.68,
+     "text": "của Chim Cắt"
+    },
+    {
+     "t": 8.16,
+     "text": "Lớn không hề"
+    },
+    {
+     "t": 8.9,
+     "text": "bị nổ tung?"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 9.67,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 9.92,
+     "text": "Đây chính là"
+    },
+    {
+     "t": 10.52,
+     "text": "Tiêm Kích Lông"
+    },
+    {
+     "t": 11.16,
+     "text": "Vũ, sinh vật"
+    },
+    {
+     "t": 12.2,
+     "text": "bay nhanh nhất"
+    },
+    {
+     "t": 12.76,
+     "text": "lịch sử hành"
+    },
+    {
+     "t": 13.38,
+     "text": "tinh chúng ta!"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 14.23,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 14.48,
+     "text": "Ở tốc độ"
+    },
+    {
+     "t": 14.92,
+     "text": "khủng khiếp gần"
+    },
+    {
+     "t": 15.5,
+     "text": "400 km/h,"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 16.99,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 17.24,
+     "text": "áp lực không"
+    },
+    {
+     "t": 17.86,
+     "text": "khí mạnh đến"
+    },
+    {
+     "t": 18.38,
+     "text": "mức có thể"
+    },
+    {
+     "t": 18.94,
+     "text": "thổi rách toạc"
+    },
+    {
+     "t": 19.68,
+     "text": "khí quản của"
+    },
+    {
+     "t": 20.22,
+     "text": "bất kỳ con"
+    },
+    {
+     "t": 20.78,
+     "text": "thú nào."
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 21.43,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 26.7,
+     "side": "R",
+     "y": 360,
+     "value": "TUBERCLE",
+     "label": "nón nén khí",
+     "target": [
+      0.75,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 21.68,
+     "text": "Nhưng mẹ thiên"
+    },
+    {
+     "t": 22.26,
+     "text": "nhiên đã bí"
+    },
+    {
+     "t": 22.78,
+     "text": "mật lắp đặt"
+    },
+    {
+     "t": 23.26,
+     "text": "ngay trong lỗ"
+    },
+    {
+     "t": 23.88,
+     "text": "mũi chim cắt"
+    },
+    {
+     "t": 24.58,
+     "text": "một chiếc nón"
+    },
+    {
+     "t": 25.12,
+     "text": "xương xoắn ốc"
+    },
+    {
+     "t": 25.82,
+     "text": "tí hon gọi"
+    },
+    {
+     "t": 26.56,
+     "text": "là tubercle."
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 27.46,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 27.709,
+     "text": "Chiếc nón giảm"
+    },
+    {
+     "t": 28.76,
+     "text": "áp này chia"
+    },
+    {
+     "t": 29.3,
+     "text": "nhỏ luồng gió"
+    },
+    {
+     "t": 29.94,
+     "text": "nén thành các"
+    },
+    {
+     "t": 30.46,
+     "text": "xoáy khí chậm,"
+    },
+    {
+     "t": 31.54,
+     "text": "giúp chim hít"
+    },
+    {
+     "t": 32.16,
+     "text": "thở êm ái"
+    },
+    {
+     "t": 32.84,
+     "text": "như đang ngồi"
+    },
+    {
+     "t": 33.38,
+     "text": "hóng gió mát!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 34.23,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 35.76,
+     "side": "R",
+     "y": 360,
+     "value": "SR-71",
+     "label": "học tập tự nhiên",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 34.48,
+     "text": "Đến cả siêu"
+    },
+    {
+     "t": 35.02,
+     "text": "máy bay do"
+    },
+    {
+     "t": 35.5,
+     "text": "thám SR-71 Blackbird"
+    },
+    {
+     "t": 37.48,
+     "text": "của con"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 37.71,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S13.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 37.68,
+     "text": "người cũng phải"
+    },
+    {
+     "t": 38.54,
+     "text": "học lỏm thiết"
+    },
+    {
+     "t": 39.06,
+     "text": "kế nón cản"
+    },
+    {
+     "t": 39.72,
+     "text": "sốc này để"
+    },
+    {
+     "t": 40.14,
+     "text": "bay siêu âm."
+    },
+    {
+     "t": 41.44,
+     "text": "Chưa hết,"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 42.09,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 42.34,
+     "text": "chim cắt còn"
+    },
+    {
+     "t": 42.82,
+     "text": "cuộn ngón chân"
+    },
+    {
+     "t": 43.44,
+     "text": "thành quả đấm"
+    },
+    {
+     "t": 44.02,
+     "text": "thép giáng thẳng"
+    },
+    {
+     "t": 44.7,
+     "text": "vào con mồi,"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 45.53,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "t": 46.44,
+     "side": "R",
+     "y": 360,
+     "value": "25G",
+     "label": "chịu lực 25G",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 45.78,
+     "text": "chịu gia lực"
+    },
+    {
+     "t": 46.28,
+     "text": "tới 25G mà"
+    },
+    {
+     "t": 47.4,
+     "text": "mắt vẫn tỉnh queo!"
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "start_s": 48.39,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 48.64,
+     "text": "Một kiệt tác"
+    },
+    {
+     "t": 49.36,
+     "text": "khí động học"
+    },
+    {
+     "t": 49.78,
+     "text": "đỉnh chóp của"
+    },
+    {
+     "t": 50.36,
+     "text": "tự nhiên!"
+    }
+   ]
+  }
+ ]
+}

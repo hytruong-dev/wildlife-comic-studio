@@ -1,0 +1,673 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "BẬC THẦY HÓA TRANG THẾ GIỚI NGẦM ĐÁY CÁT",
+   "hook": "",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kẻ yếu thì phải",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "không có vỏ bọc cứng,",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chào đại ca, hôm",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bật màn hình máy",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Loài sinh vật bí",
+     "image": "assets/long/L06.png",
+     "stickers": [
+      {
+       "at": "1998",
+       "side": "L",
+       "y": 350,
+       "value": "1998",
+       "label": "phát hiện Sulawesi",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chiều dài sải tay",
+     "image": "assets/long/L07.png",
+     "stickers": [
+      {
+       "at": "60cm",
+       "side": "R",
+       "y": 350,
+       "value": "60 CM",
+       "label": "sải tay bung rộng",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhìn bề ngoài nó",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Điều khiến mọi cơ",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Điệp Viên Đại Dương chọn",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và vũ khí sinh",
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "15 loài",
+       "side": "R",
+       "y": 350,
+       "value": "15 LOÀI",
+       "label": "danh tính biến hình",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đêm nay, tôi mời",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỒ SƠ ĐIỆP BÁO"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "HÓA THÂN RẮN BIỂN CẠP NONG VÀ CÁ SƯ TỬ GAI ĐỘC",
+   "hook": "BIẾN 2 XÚC TU THÀNH RẮN BIỂN KỊCH ĐỘC",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy quan sát một",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở một góc ngách",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gã lập tức thụt",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ chừa lại đúng 2 chiếc",
+     "image": "assets/long/L17.png",
+     "stickers": [
+      {
+       "at": "2 chiếc xúc tu",
+       "side": "R",
+       "y": 350,
+       "value": "2 XÚC TU",
+       "label": "giả rắn biển",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trong vòng chưa đầy",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "1 giây",
+       "side": "L",
+       "y": 350,
+       "value": "1 GIÂY",
+       "label": "biến hình tức thì",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cá thia nhìn thấy",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Điều chấn động giới",
+     "image": "assets/long/L20.png",
+     "stickers": [
+      {
+       "at": "2001",
+       "side": "L",
+       "y": 350,
+       "value": "2001",
+       "label": "công bố Norman",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi bị loài cá nào",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và nếu kẻ thù",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gã liền kích hoạt",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bùm! Trước mắt kẻ",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": [
+      "bùm"
+     ]
+    },
+    {
+     "at": "Các thợ lặn chuyên",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong tích tắc không",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhìn thấy tưởng đồng loại",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "DANH TÍNH GIẢ #1"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "GIẢ DẠNG CÁ BƠN LƯỚT CÁT VÀ SỨA BIỂN BỒNG BỀNH",
+   "hook": "ÉP TOÀN BỘ CƠ THỂ THÀNH CHIẾC LÁ CÁ BƠN",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong thế giới ngầm,",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng Điệp Viên Đại Dương",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gã ép sát toàn",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "và dùng chiếc phễu",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kẻ săn mồi từ",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đại ca ơi, thế",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu bị đẩy lên",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Biến hình ngay thành",
+     "image": "assets/long/L36.png",
+     "stickers": [
+      {
+       "at": "10m",
+       "side": "R",
+       "y": 350,
+       "value": "NÉ 10 MÉT",
+       "label": "sợ nọc sứa biển",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết, gã còn",
+     "image": "assets/long/L37.png",
+     "stickers": [
+      {
+       "at": "15 danh tính",
+       "side": "L",
+       "y": 350,
+       "value": "15 MẶT NẠ",
+       "label": "danh tính biến hình",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí khi cần",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Con mồi vừa tò",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "DANH TÍNH GIẢ #2"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "MẠNG LƯỚI THẦN KINH PHI TẬP TRUNG SIÊU ĐẲNG",
+   "hook": "8 XÚC TU HOẠT ĐỘNG NHƯ 8 BỘ NÃO RIÊNG BIỆT",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Làm thế nào mà",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu trả lời nằm",
+     "image": "assets/long/L42.png",
+     "stickers": [
+      {
+       "at": "9 bộ não",
+       "side": "R",
+       "y": 350,
+       "value": "9 BỘ NÃO",
+       "label": "mạng lưới độc lập",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Một bộ não trung",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong tổng số hơn",
+     "image": "assets/long/L44.png",
+     "stickers": [
+      {
+       "at": "500 triệu",
+       "side": "L",
+       "y": 350,
+       "value": "500 TRIỆU",
+       "label": "nơ-ron như loài chó",
+       "target": [
+        0.35,
+        0.45
+       ]
+      },
+      {
+       "at": "2/3",
+       "side": "R",
+       "y": 480,
+       "value": "2/3 NƠ-RON",
+       "label": "trong 8 chiếc xúc tu",
+       "target": [
+        0.68,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Điều này có nghĩa",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tự quyết định luồn",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Não trung tâm chỉ",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngay lập tức, 2",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sự phân quyền chỉ",
+     "image": "assets/long/L49.png",
+     "stickers": [
+      {
+       "at": "0,2 giây",
+       "side": "L",
+       "y": 350,
+       "value": "0,2 GIÂY",
+       "label": "phản xạ biến hình",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không cần ai dạy",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trí thông minh phân",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "ĐẾ CHẾ 9 BỘ NÃO"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "MÁU XANH LAM GỐC ĐỒNG VÀ 3 TẦNG TẾ BÀO ĐỔI MÀU",
+   "hook": "ĐỔI MÀU CƠ HỌC BẰNG HÀNG TRIỆU TÚI SẮC TỐ TRONG 0,2 GIÂY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khác với tắc kè",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Làn da của gã",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ cần sợi thần",
+     "image": "assets/long/L56.png",
+     "stickers": [
+      {
+       "at": "10 lần",
+       "side": "R",
+       "y": 350,
+       "value": "KÉO TO 10X",
+       "label": "đổi màu cơ học",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cơ thả lỏng thì",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phía dưới còn có",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và dòng máu chảy",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vì sống dưới đáy",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để bơm dòng máu",
+     "image": "assets/long/L61.png",
+     "stickers": [
+      {
+       "at": "3 quả tim",
+       "side": "R",
+       "y": 350,
+       "value": "3 TRÁI TIM",
+       "label": "2 tim mang 1 tim chính",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "hai quả tim mang",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng khi gã bơi",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không chỉ đổi màu",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bằng cách co thắt",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mắt người nhìn vào",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "MÀN HÌNH NANO"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "TRÍ TUỆ MỀM VÀ BÓNG ĐEN MÔNG BỌC THÉP KỲ SAU",
+   "hook": "BÁO CÁO CUỐI CÙNG VÀ BÓNG ĐEN MÔNG BỌC THÉP TẬP 26",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lấy sự mềm mại linh",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một sinh vật không",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đơn báo cáo cuối",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn anh em thì",
+     "image": "assets/long/L71.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hồ sơ điệp viên",
+     "image": "assets/long/L72.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một sinh vật mũm",
+     "image": "assets/long/L73.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết, nó là",
+     "image": "assets/long/L74.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "KẾT LUẬN ĐIỆP BÁO"
+  }
+ }
+}

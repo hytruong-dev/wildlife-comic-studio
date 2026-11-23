@@ -1,0 +1,840 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "TUYỂN THỦ XE TĂNG XUẤT ĐÀI & CÚ LỪA KHÔNG BIẾT BƠI",
+   "hook": "CỖ XE TĂNG BỌC THỊT BƯỚC VÀO SÀN ĐẤU",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ hạng siêu",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy hướng ống kính",
+     "image": "assets/long/L03.png",
+     "stickers": [
+      {
+       "at": "3 tấn",
+       "side": "R",
+       "y": 360,
+       "value": "3 TẤN",
+       "label": "khối lượng cơ bắp",
+       "target": [
+        0.72,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đó chính là Hà Mã",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhìn dáng vẻ tròn",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng xin cảnh báo",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Alo bình luận viên",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo trường quay",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "100%",
+       "side": "L",
+       "y": 380,
+       "value": "100%",
+       "label": "sự thật khó tin",
+       "target": [
+        0.4,
+        0.5
+       ]
+      },
+      {
+       "at": "16 tiếng",
+       "side": "R",
+       "y": 360,
+       "value": "16 TIẾNG",
+       "label": "ngâm nước mỗi ngày",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khung xương của nó",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": [
+      "chìm nghỉm"
+     ]
+    },
+    {
+     "at": "Vậy làm thế nào",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy cùng chúng tôi",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÕ ĐÀI CHÂU PHI"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "BẢNG THÔNG SỐ RPG CỰC HẠN CỦA QUÁI VẬT 3 TẤN",
+   "hook": "BẢNG CHỈ SỐ RPG CHẠM NÓC ĐẤU TRƯỜNG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Xin mời toàn thể",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Về lượng máu sinh",
+     "image": "assets/long/L15.png",
+     "stickers": [
+      {
+       "at": "9.900 điểm",
+       "side": "L",
+       "y": 360,
+       "value": "HP 9.900",
+       "label": "sinh lực tối thượng",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Với trọng lượng cơ",
+     "image": "assets/long/L16.png",
+     "stickers": [
+      {
+       "at": "1,5 tấn",
+       "side": "L",
+       "y": 380,
+       "value": "1,5 TẤN",
+       "label": "cân nặng tối thiểu",
+       "target": [
+        0.35,
+        0.6
+       ]
+      },
+      {
+       "at": "3 tấn",
+       "side": "R",
+       "y": 480,
+       "value": "3 TẤN",
+       "label": "cân nặng tối đa",
+       "target": [
+        0.7,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khối lượng khủng khiếp",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Về sức mạnh tấn",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "9.800 điểm",
+       "side": "L",
+       "y": 360,
+       "value": "ATK 9.800",
+       "label": "sức tấn công cực hạn",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Được trang bị lực",
+     "image": "assets/long/L19.png",
+     "stickers": [
+      {
+       "at": "1.800",
+       "side": "L",
+       "y": 360,
+       "value": "1.800 PSI",
+       "label": "lực cắn cực hạn",
+       "target": [
+        0.35,
+        0.5
+       ]
+      },
+      {
+       "at": "50cm",
+       "side": "R",
+       "y": 480,
+       "value": "50 CM",
+       "label": "chiều dài răng nanh",
+       "target": [
+        0.72,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Về phòng thủ DEF",
+     "image": "assets/long/L20.png",
+     "stickers": [
+      {
+       "at": "9.500 điểm",
+       "side": "L",
+       "y": 360,
+       "value": "DEF 9.500",
+       "label": "phòng thủ bọc thép",
+       "target": [
+        0.35,
+        0.45
+       ]
+      },
+      {
+       "at": "5cm",
+       "side": "R",
+       "y": 480,
+       "value": "5 CM",
+       "label": "độ dày lớp da",
+       "target": [
+        0.65,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Còn về tốc độ",
+     "image": "assets/long/L21.png",
+     "stickers": [
+      {
+       "at": "30km/h",
+       "side": "R",
+       "y": 380,
+       "value": "30 KM/H",
+       "label": "bứt tốc trên cạn",
+       "target": [
+        0.7,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng nghịch lý hài",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chạy bộ và phi",
+     "image": "assets/long/L23.png",
+     "stickers": [
+      {
+       "at": "8km/h",
+       "side": "L",
+       "y": 380,
+       "value": "8 KM/H",
+       "label": "phi nước đại đáy sông",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà giải phẫu",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi lần chìm xuống",
+     "image": "assets/long/L25.png",
+     "stickers": [
+      {
+       "at": "5 phút",
+       "side": "R",
+       "y": 380,
+       "value": "5 PHÚT",
+       "label": "nhịn thở dưới nước",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí khi ngủ",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết, âm thanh",
+     "image": "assets/long/L27.png",
+     "stickers": [
+      {
+       "at": "115",
+       "side": "L",
+       "y": 380,
+       "value": "115 DB",
+       "label": "tiếng gầm xuyên nước",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "truyền đồng thời qua",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CHỈ SỐ CHIẾN ĐẤU"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "DA DÀY 5CM VÀ LỚP KEM CHỐNG NẮNG MỒ HÔI MÁU",
+   "hook": "LỚP GIÁP BỌC THÉP VÀ DUNG DỊCH MỒ HÔI MÁU",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây không phải là",
+     "image": "assets/long/L29.png",
+     "stickers": [
+      {
+       "at": "5cm",
+       "side": "L",
+       "y": 380,
+       "value": "5 CM",
+       "label": "giáp da bọc thép",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Lớp da dày và",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khoan đã bình luận",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bác đấu sĩ khổng",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi trời nắng gắt",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bởi vì lớp da",
+     "image": "assets/long/L35.png",
+     "stickers": [
+      {
+       "at": "7 lần",
+       "side": "R",
+       "y": 380,
+       "value": "GẤP 7 LẦN",
+       "label": "tốc độ mất nước",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ có lớp kem",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vừa bọc giáp 5cm",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "GIÁP PHÒNG THỦ"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "LỰC CẮN 1.800 PSI VÀ CÚ CHẠY BỘ 30KM/H",
+   "hook": "CÚ ĐỚP 1.800 PSI BẺ ĐÔI MỌI VẬT CẢN",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy nhìn vào chiếc",
+     "image": "assets/long/L39.png",
+     "stickers": [
+      {
+       "at": "180°",
+       "side": "L",
+       "y": 360,
+       "value": "180 ĐỘ",
+       "label": "độ mở rộng của hàm",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bên trong chiếc mồm",
+     "image": "assets/long/L40.png",
+     "stickers": [
+      {
+       "at": "50cm",
+       "side": "R",
+       "y": 360,
+       "value": "50 CM",
+       "label": "ngọn giáo cận chiến",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đôi răng này không",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và khi chiếc hàm",
+     "image": "assets/long/L42.png",
+     "stickers": [
+      {
+       "at": "1.800",
+       "side": "L",
+       "y": 360,
+       "value": "1.800 PSI",
+       "label": "lực nghiền nát",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": [
+      "đóng sập"
+     ]
+    },
+    {
+     "at": "Con số này mạnh",
+     "image": "assets/long/L43.png",
+     "stickers": [
+      {
+       "at": "3 lần",
+       "side": "R",
+       "y": 380,
+       "value": "GẤP 3 LẦN",
+       "label": "uy lực so với sư tử",
+       "target": [
+        0.72,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Một cú đớp toàn",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để nhắm bắn chuẩn",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thiết kế này hoạt",
+     "image": "assets/long/L69.png",
+     "stickers": [
+      {
+       "at": "95%",
+       "side": "L",
+       "y": 380,
+       "value": "95%",
+       "label": "cơ thể ẩn dưới nước",
+       "target": [
+        0.35,
+        0.5
+       ]
+      },
+      {
+       "at": "360",
+       "side": "R",
+       "y": 380,
+       "value": "360 ĐỘ",
+       "label": "tầm nhìn toàn cảnh",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và điều trớ trêu",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ban đêm khi mặt",
+     "image": "assets/long/L47.png",
+     "stickers": [
+      {
+       "at": "45kg",
+       "side": "R",
+       "y": 380,
+       "value": "45 KG",
+       "label": "cỏ gặm mỗi đêm",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Răng nanh 50cm",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VŨ KHÍ TỬ THẦN"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "CẮN ĐÔI CÁ SẤU VÀ TUYỆT CHIÊU QUẠT ĐUÔI PHÂN",
+   "hook": "CÁ SẤU CHÂU PHI TOÁT MỒ HÔI TRÁNH XA",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong thế giới hoang",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đã có vô số",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": [
+      "quăng quật"
+     ]
+    },
+    {
+     "at": "Ngay cả loài sư",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Theo thống kê của",
+     "image": "assets/long/L53.png",
+     "stickers": [
+      {
+       "at": "500",
+       "side": "L",
+       "y": 380,
+       "value": "500 NGƯỜI",
+       "label": "nạn nhân mỗi năm",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bất kỳ ai dám",
+     "image": "assets/long/L54.png",
+     "stickers": [
+      {
+       "at": "30km/h",
+       "side": "R",
+       "y": 380,
+       "value": "30 KM/H",
+       "label": "tốc độ truy cản",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng chiêu thức hài",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi khi đi vệ",
+     "image": "assets/long/L56.png",
+     "stickers": [
+      {
+       "at": "2-3m",
+       "side": "R",
+       "y": 360,
+       "value": "2-3 MÉT",
+       "label": "bán kính quạt phân",
+       "target": [
+        0.68,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Kẻ thù nhìn thấy",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ấy thế mà, thỉnh",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Dữ dằn số một",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "ĐẠI CHIẾN NẢY LỬA"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "ĐAI VÔ ĐỊCH VÀ BÓNG ĐEN BÍ ẨN TẬP TIẾP THEO",
+   "hook": "BẬT MÍ BÓNG ĐEN BÍ ẨN CỦA ĐẤU THỦ TẬP 13",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một đấu sĩ hội",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chúng tách ra từ",
+     "image": "assets/long/L62.png",
+     "stickers": [
+      {
+       "at": "55 triệu năm",
+       "side": "L",
+       "y": 380,
+       "value": "55 TR NĂM",
+       "label": "họ hàng ruột cá voi",
+       "target": [
+        0.4,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tập 12 đã có chủ",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Xin đưa ra ba",
+     "image": "assets/long/L64.png",
+     "stickers": [
+      {
+       "at": "0,2km/h",
+       "side": "R",
+       "y": 380,
+       "value": "0,2 KM/H",
+       "label": "siêu tốc độ rùa bò",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thứ hai, mỗi tuần",
+     "image": "assets/long/L65.png",
+     "stickers": [
+      {
+       "at": "1 lần",
+       "side": "L",
+       "y": 360,
+       "value": "1 TUẦN",
+       "label": "đi vệ sinh 1 lần",
+       "target": [
+        0.35,
+        0.45
+       ]
+      },
+      {
+       "at": "1/3",
+       "side": "R",
+       "y": 480,
+       "value": "1/3",
+       "label": "trọng lượng xả thải",
+       "target": [
+        0.65,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và thứ ba, nghịch",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quý vị khán giả",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẢNG VÀNG & BÓNG ĐEN"
+  }
+ }
+}

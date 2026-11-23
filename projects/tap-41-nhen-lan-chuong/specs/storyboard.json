@@ -1,0 +1,799 @@
+{
+ "_doc": "Storyboard Tập 41 — Nhện Lặn Chuông (F2: Kỹ sư vũ khí). Sinh plans: python src/episode/build_plans.py projects/tap-41-nhen-lan-chuong",
+ "characters": {
+  "HERO": "chú nhện lặn chuông hoạt hình ngộ nghĩnh (màu nâu sẫm, mắt to tròn long lanh đeo kính lặn bảo hộ viền đồng thau cổ điển, đội mũ thuyền trưởng hải quân tí hon, phần bụng dưới phủ một lớp bọc bóng bạc lấp lánh như gương, 8 chân mảnh khảnh mang găng tay và giày bốt cao su tí hon)",
+  "HERO_S": "chú nhện lặn chuông hoạt hình đeo kính lặn đồng thau, mũ thuyền trưởng tí hon, bụng bọc bọt khí bạc",
+  "NO_HERO": "KHÔNG có chú nhện thuyền trưởng trong cảnh này",
+  "ASSISTANT": "cô trợ lý kỹ thuật thỏ trắng đeo kính bảo hộ, cầm bảng kẹp tài liệu",
+  "MINNOW": "chú cá con ngơ ngác mắt tròn xoe, mang vây nhỏ nhắn bơi lội"
+ },
+ "side_characters": [
+  "ASSISTANT",
+  "MINNOW"
+ ],
+ "shorts_side_characters": [
+  "MINNOW"
+ ],
+ "shorts_title_lines": [
+  "TÀU NGẦM TƠ NHỆN",
+  "SỐNG 24H DƯỚI NƯỚC?!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Góc làm việc xưởng thiết kế tàu ngầm viễn tưởng: Trên bàn gỗ sồi trải rộng cuộn giấy can kỹ thuật xanh Prussian vẽ sơ đồ tàu ngầm Nautilus và các ống đồng; {NO_HERO}; BÊN PHẢI có một bể kính nước ngọt với đám rong đuôi chó xanh biếc.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L01"
+  },
+  {
+   "scene": "scene01",
+   "at": "Quên đi những tàu ngầm",
+   "id": "L33",
+   "layout": "Cận cảnh chi tiết bụi rong đuôi chó tĩnh lặng dưới đáy hồ: Những bọt khí nhỏ li ti bám trên kẽ lá xanh biếc; {NO_HERO}; tia sáng mặt trời chiếu rọi từ mặt nước mờ ảo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đối tượng mang mã định danh",
+   "layout": "Cận cảnh trong bể nước: {HERO} đứng hiên ngang trên một nhánh rong rêu, một chân chống nạnh, một chân chỉ về phía trước, mũ thuyền trưởng đội lệch đầy tự tin; BÊN PHẢI là mô hình tàu ngầm viễn tưởng mini vỏ đồng thau rỉ sét.",
+   "stickers": [],
+   "impacts": [
+    "Thuyền Trưởng Tàu Ngầm Tơ"
+   ],
+   "id": "L02"
+  },
+  {
+   "scene": "scene01",
+   "at": "Đây là loài nhện duy nhất",
+   "id": "L34",
+   "layout": "Bản đồ phân bố tiến hóa sinh học: Hàng ngàn chấm đỏ đại diện cho 50.000 loài nhện cạn trên các lục địa; một vệt sáng xanh dương duy nhất lao xuống đáy hồ nước ngọt; {HERO} đứng kiêu hãnh giơ cao kính lặn đồng thau.",
+   "stickers": [
+    {
+     "at": "50.000",
+     "side": "R",
+     "y": 380,
+     "value": "50.000",
+     "label": "loài nhện duy nhất",
+     "target": [
+      0.35,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Điều gây chấn động phòng thí",
+   "layout": "Phân chia màn hình đối chiếu: BÊN TRÁI là một chú nhện nhà thông thường đang chới với dưới nước mắt trợn tròn hoảng loạn; BÊN PHẢI là {HERO} ung dung nằm ngửa trên chiếc võng tơ dưới đáy hồ, hai chân gác chữ ngũ, miệng ngậm cọng cỏ nước.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L03"
+  },
+  {
+   "scene": "scene01",
+   "at": "Nếu bạn thả một con nhện",
+   "id": "L35",
+   "layout": "Cận cảnh mặt nước hồ: Một chú nhện nhà rơi xuống nước đang hoảng hốt bơi chới với; phía dưới đáy hồ sâu, {HERO} thong dong bơi lặn quanh những cột rong rêu như một thợ lặn chuyên nghiệp.",
+   "stickers": [
+    {
+     "at": "24/7",
+     "side": "R",
+     "y": 360,
+     "value": "24/7",
+     "label": "sống dưới nước",
+     "target": [
+      0.75,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Báo cáo kỹ thuật trưởng, cảm",
+   "layout": "Trong phòng điều khiển: {ASSISTANT} đang nhìn vào màn hình radar sonar phát sáng xanh lục, ngón tay chỉ vào chấm sáng hình tròn; cạnh cô là một bảng kẹp tài liệu ghi dòng chữ Mật mã Tàu ngầm Tơ.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L04"
+  },
+  {
+   "scene": "scene01",
+   "at": "Đúng như cô trợ lý",
+   "layout": "Toàn cảnh dưới đáy hồ: Một quả chuông tơ hình vòm trong suốt sáng rực ánh ngọc trai lơ lửng giữa khóm rong; {HERO} đang đứng ở cửa chuông vẫy tay chào thân thiện; BÊN TRÁI {ASSISTANT} đang đeo kính lặn ngó vào trầm trồ.",
+   "stickers": [],
+   "impacts": [
+    "trạm không gian dưới nước"
+   ],
+   "id": "L05"
+  },
+  {
+   "scene": "scene01",
+   "at": "Hôm nay, xưởng cơ khí sinh học",
+   "id": "L36",
+   "layout": "Cận cảnh bàn mổ xẻ thiết kế: {ASSISTANT} cầm kính lúp và bút chì kỹ thuật chỉ vào mô hình chuông lặn tơ nhện vi mô; {HERO} khoanh tay đứng cạnh mỉm cười đầy tự hào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Bản vẽ thiết kế cơ học: Sơ đồ hình học tính toán lực đẩy Ác-si-mét; mũi tên màu đỏ hướng lên trên chỉ lực nâng bọt khí; mũi tên màu xanh hướng xuống chỉ các dây neo tơ; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "Ác-si-mét",
+     "side": "L",
+     "y": 380,
+     "value": "ÁC-SI-MÉT",
+     "label": "kết cấu thủy lực",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ],
+   "impacts": [],
+   "id": "L06"
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng Thuyền Trưởng Tàu Ngầm Tơ",
+   "id": "L37",
+   "layout": "Sơ đồ lực học thủy tĩnh: Mũi tên đỏ chỉ lực đẩy Ác-si-mét hướng lên trời; các mũi tên xanh lục neo đa hướng kéo ghì xuống đáy; {HERO} cầm mỏ lết đồng thau siết chặt các khớp neo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đầu tiên, gã chọn những",
+   "layout": "Dưới đáy hồ: {HERO} đang thoan thoắt bắn các sợi tơ vàng óng ánh neo chặt vào các cọng rong đuôi chó xung quanh, tạo thành một mạng lưới khung dầm bát giác vững chắc; các mối nối tơ siết chặt.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L07"
+  },
+  {
+   "scene": "scene02",
+   "at": "Điểm kỳ diệu nằm ở chỗ:",
+   "id": "L38",
+   "layout": "Cận cảnh cấu trúc hiển vi của sợi tơ kỵ nước: Các phân tử protein đan xen khít khao phát sáng màu xanh ngọc bích; giọt nước chạm vào màng tơ bị trượt bắn ra ngoài như trượt trên lá sen; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Sau khi hệ khung neo đã",
+   "layout": "Cận cảnh chiếc vòm tơ ban đầu: Màng tơ xẹp lép lơ lửng như một chiếc dù nhảy chưa bung; {HERO} bám ở đỉnh dù kiểm tra từng mắt lưới; ánh nắng từ mặt nước xuyên qua làn nước xanh rọi xuống.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L08"
+  },
+  {
+   "scene": "scene02",
+   "at": "Kỹ sư ơi, tơ nhện dệt",
+   "layout": "{MINNOW} bơi sát vào màng tơ, mắt tròn xoe ngơ ngác, vây khẽ chạm vào thành chuông tơ; giọt nước đọng bên ngoài lăn tăn; {HERO} đứng bên trong mỉm cười gật đầu.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L09"
+  },
+  {
+   "scene": "scene02",
+   "at": "Chú cá con ngơ ngác hoàn",
+   "layout": "Phóng đại kính hiển vi vi mô: Bề mặt các sợi tơ kỵ nước nano đan khít nhau; các phân tử nước đọng thành giọt tròn xoe bên ngoài không thể xuyên qua; {HERO} tự hào giơ hai ngón tay cái.",
+   "stickers": [
+    {
+     "at": "ngăn nước tuyệt đối",
+     "side": "R",
+     "y": 360,
+     "value": "KỴ NƯỚC",
+     "label": "ngăn nước tuyệt đối",
+     "target": [
+      0.55,
+      0.45
+     ]
+    }
+   ],
+   "impacts": [
+    "bức tường ngăn nước"
+   ],
+   "id": "L10"
+  },
+  {
+   "scene": "scene02",
+   "at": "Nước bên ngoài không thể",
+   "id": "L39",
+   "layout": "Mặt cắt vi mô thành chuông: Bên ngoài là các phân tử nước màu xanh lam bị chặn đứng hoàn toàn bởi lớp nano kỵ nước; bên trong là các phân tử khí ga màu vàng óng được giữ kín bưng; {HERO} bơi tuần tra bên trong.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chưa hết đâu nhé! Để quả",
+   "layout": "Kiểm định an toàn: {HERO} đang dệt thêm một lớp tơ gia cường thứ hai bên trong lòng chuông, dùng trán húc thử vào thành chuông làm màng tơ nảy tưng tưng như lò xo đệm nhún; BÊN PHẢI {ASSISTANT} cầm bảng chấm điểm an toàn tick V.",
+   "stickers": [
+    {
+     "at": "thứ 2",
+     "side": "L",
+     "y": 420,
+     "value": "LỚP THỨ 2",
+     "label": "chống biến dạng",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": [],
+   "id": "L11"
+  },
+  {
+   "scene": "scene02",
+   "at": "Gã dùng đầu húc thử",
+   "id": "L40",
+   "layout": "Cận cảnh kiểm tra độ bền: {HERO} dùng đầu và hai chân trước húc mạnh vào màng tơ chuông lặn; màng tơ đàn hồi co giãn nhịp nhàng như cao su tổng hợp không hề rách; đồng hồ đo áp lực vọt lên mức an toàn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Mặt nước hồ: {HERO} nhô phần chóp bụng và cặp chân sau lên khỏi mặt nước, phần đầu và mắt vẫn chìm bên dưới; mặt nước lăn tăn gợn sóng phản chiếu bầu trời mây trắng.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L12"
+  },
+  {
+   "scene": "scene03",
+   "at": "Gã chỉ nhô đúng phần chóp bụng",
+   "id": "L41",
+   "layout": "Góc nhìn cận cảnh mặt thoáng: {HERO} chỉ nhô đúng phần chóp bụng và cặp chân sau lên khỏi mặt hồ, thực hiện một cú giật mình chớp nhoáng tạo ra những vòng sóng tròn lan tỏa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Toàn bộ vùng bụng và chân",
+   "layout": "Cận cảnh cực đại: Phần bụng của {HERO} được bọc kín bởi một lớp bọt khí sáng loáng như phủ một lớp bạc tráng gương; {HERO} cười toe toét ngắm nhìn chiếc bụng tròn phúng phính lấp lánh của mình.",
+   "stickers": [],
+   "impacts": [
+    "kẻ dệt sợi bạc"
+   ],
+   "id": "L13"
+  },
+  {
+   "scene": "scene03",
+   "at": "Đây chính là nguồn gốc",
+   "id": "L42",
+   "layout": "Từ điển bách khoa cổ điển: Cuốn sách cổ Hy Lạp mở trang ghi chữ Argyroneta phát sáng vàng kim; {HERO} soi mình trước quả cầu bạc bọc quanh bụng như một tấm gương cầu lồi lấp lánh.",
+   "stickers": [
+    {
+     "at": "kẻ dệt sợi bạc",
+     "side": "L",
+     "y": 360,
+     "value": "Argyroneta",
+     "label": "kẻ dệt sợi bạc",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Gã ôm quả bọt khí bạc",
+   "layout": "Đường hầm bơi lội: {HERO} như một quả ngư lôi bạc phóng vụt từ mặt hồ xuống đáy, hai chân sau ôm chặt bọt khí; BÊN TRÁI là quả chuông lặn đang phình to dần sau mỗi chuyến xe buýt.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L14"
+  },
+  {
+   "scene": "scene03",
+   "at": "Gã lặp lại chuyến xe buýt",
+   "id": "L43",
+   "layout": "Hành trình xe buýt con thoi: Dãy 5 hình bóng {HERO} liên tiếp bơi lên bơi xuống giữa mặt hồ và đáy bùn; quả chuông tơ từ từ phồng to từ một hạt vừng lên thành một hạt đậu phộng căng tròn tỏa sáng lung linh.",
+   "stickers": [
+    {
+     "at": "20",
+     "side": "R",
+     "y": 360,
+     "value": "20-30 LẦN",
+     "label": "con thoi nạp khí",
+     "target": [
+      0.75,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng điều chấn động khoa học",
+   "layout": "Phòng thí nghiệm sinh học: Hai giáo sư hoạt hình mặc áo blouse trắng (Seymour và Hetz) đang cầm kính hiển vi và ống đo khí soi vào quả chuông tơ; biểu đồ nồng độ oxy hiển thị trên bảng phấn xanh.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L15"
+  },
+  {
+   "scene": "scene03",
+   "at": "Sự chênh lệch áp suất riêng",
+   "layout": "Sơ đồ nguyên lý mang nhân tạo: Quả chuông tơ phát sáng; các mũi tên màu xanh dương (Oxy) từ nước tự động thẩm thấu xuyên qua màng tơ vào trong chuông; các mũi tên màu xám (CO2) khuếch tán ra ngoài hồ; {HERO} thư thái hít thở bên trong.",
+   "stickers": [],
+   "impacts": [
+    "mang nhân tạo khổng lồ"
+   ],
+   "id": "L16"
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhờ động cơ thẩm thấu",
+   "id": "L44",
+   "layout": "Đồng hồ sinh tồn 24 giờ: Mặt đồng hồ cơ khí bằng đồng hiển thị 24h; bên trong quả chuông lặn, {HERO} ung dung ngủ ngon lành trên võng tơ; các luồng oxy xanh biếc liên tục tự thẩm thấu vào vòm chuông.",
+   "stickers": [
+    {
+     "at": "24 giờ",
+     "side": "R",
+     "y": 360,
+     "value": "24 GIỜ",
+     "label": "thở thẩm thấu",
+     "target": [
+      0.75,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Tuy nhiên, động cơ mang nhân",
+   "layout": "Đồng hồ đo áp suất Nitơ: Đồng hồ đo khí gắn trên thành chuông kim đang chỉ vạch vàng cảnh báo hao hụt Nitơ; {HERO} đeo đồng hồ bấm giờ trên cổ chân, chuẩn bị cho chuyến bay tuần tra nạp khí mới.",
+   "stickers": [
+    {
+     "at": "1-2 ngày",
+     "side": "L",
+     "y": 420,
+     "value": "1-2 NGÀY",
+     "label": "chu kỳ nạp khí",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ],
+   "impacts": [],
+   "id": "L17"
+  },
+  {
+   "scene": "scene03",
+   "at": "Chính vì vậy, Thuyền Trưởng",
+   "id": "L45",
+   "layout": "Chuyến tuần tra bảo dưỡng: {HERO} đeo túi đồ nghề sửa chữa, ngoi lên mặt nước quặp một bọt khí mới toanh mang xuống nạp vào đỉnh chuông lặn; đồng hồ áp suất kim chỉ lại về vạch xanh an toàn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Bức tranh hài hước so sánh: BÊN TRÁI trên cạn, một nàng nhện khổng lồ dữ tợn cầm dao nĩa đuổi theo chú nhện đực nhỏ xíu toát mồ hôi; BÊN PHẢI dưới nước, {HERO} lực lưỡng to lớn bơi lội ung dung bên cạnh nàng nhện cái nhỏ nhắn dễ thương.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L18"
+  },
+  {
+   "scene": "scene04",
+   "at": "nơi các nàng nhện cái",
+   "id": "L46",
+   "layout": "Tương phản sinh học: BÊN TRÁI trên cạn, một nàng nhện cái khổng lồ đang hung dữ cầm nĩa; BÊN PHẢI dưới nước, {HERO} vạm vỡ cơ bắp đang mỉm cười nháy mắt chào đón bạn gái; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ở loài nhện lặn chuông, con",
+   "layout": "Phòng đo đạc thể hình: {HERO} đứng trên bục cân đo đạc, cao to vạm vỡ, cơ bắp cuồn cuộn với thước đo 15mm; BÊN CẠNH là nàng nhện cái nhỏ nhắn 10mm đeo nơ hồng đang ngước nhìn ngưỡng mộ.",
+   "stickers": [
+    {
+     "at": "10-15mm",
+     "side": "R",
+     "y": 360,
+     "value": "10-15 MM",
+     "label": "con đực to hơn 30%",
+     "target": [
+      0.4,
+      0.45
+     ]
+    }
+   ],
+   "impacts": [],
+   "id": "L19"
+  },
+  {
+   "scene": "scene04",
+   "at": "Nhện đực to hơn nhện cái",
+   "id": "L47",
+   "layout": "Bàn cân so sánh kích thước: BÊN TRÁI {HERO} (nhện đực) dài 15mm sải chân vạm vỡ; BÊN PHẢI nàng nhện cái nhỏ nhắn 12mm e ấp; chiếc thước kẹp cơ khí đo tỷ lệ chênh lệch 30% rõ nét.",
+   "stickers": [
+    {
+     "at": "30%",
+     "side": "R",
+     "y": 360,
+     "value": "+30%",
+     "label": "đực lớn hơn cái",
+     "target": [
+      0.35,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ủa các bác kỹ sư ơi,",
+   "layout": "Một đàn cá con và sinh vật đáy hồ tí hon xúm lại quanh chiếc bảng phấn, ngước nhìn lên chăm chú lắng nghe; BÊN PHẢI {ASSISTANT} cầm thước chỉ vào hình vẽ nhện đực bơi lội.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L20"
+  },
+  {
+   "scene": "scene04",
+   "at": "Bé con thắc mắc rất chí",
+   "layout": "{HERO} đang bơi lội dũng mãnh giữa dòng nước xiết, vượt qua các xoáy nước nhỏ để mang bọt khí khổng lồ về tổ; cơ thể to lớn và sải chân dài giúp gã giữ thăng bằng hoàn hảo.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L21"
+  },
+  {
+   "scene": "scene04",
+   "at": "Thân hình to lớn và đôi chân",
+   "id": "L48",
+   "layout": "Cảnh bơi lội vượt dòng xiết: {HERO} sải 8 chiếc chân dài cơ bắp quặp quả bọt khí khổng lồ rẽ nước bơi băng băng qua dòng chảy xiết; {MINNOW} bơi bên cạnh nhìn theo trầm trồ thán phục.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Khi tìm thấy chuông lặn của",
+   "layout": "Biệt thự thông tầng dưới đáy nước: Hai quả chuông lặn đặt cạnh nhau được nối với nhau bằng một đường ống hầm tơ trong suốt; {HERO} và nàng nhện cái ngồi ở hai đầu đường hầm cụng ly nước bọt khí lãng mạn.",
+   "stickers": [],
+   "impacts": [
+    "biệt thự thông tầng"
+   ],
+   "id": "L22"
+  },
+  {
+   "scene": "scene04",
+   "at": "Một căn biệt thự thông tầng",
+   "id": "L49",
+   "layout": "Bản vẽ phối cảnh kiến trúc: Hai quả chuông lặn nối liền nhau bằng đường hầm tơ trong suốt; {HERO} và nàng nhện cái ngồi hai bên đường hầm cụng ly nước ngọt lãng mạn dưới ánh đèn lân tinh.",
+   "stickers": [
+    {
+     "at": "biệt thự thông tầng",
+     "side": "R",
+     "y": 360,
+     "value": "2 PHÒNG",
+     "label": "biệt thự thông tầng",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Sau tuần trăng mật ngọt ngào,",
+   "layout": "Phòng trẻ sơ sinh dưới nước: Bên trong quả chuông lặn, một chiếc kén tơ hình cầu trắng muốt chứa đầy những quả trứng tròn nhỏ treo ở vòm trên; hàng chục chú nhện con tí hon mới nở bơi quanh với những bọt khí li ti.",
+   "stickers": [
+    {
+     "at": "50-100 trứng",
+     "side": "R",
+     "y": 380,
+     "value": "50-100",
+     "label": "kén ấp trong chuông",
+     "target": [
+      0.5,
+      0.35
+     ]
+    }
+   ],
+   "impacts": [],
+   "id": "L23"
+  },
+  {
+   "scene": "scene04",
+   "at": "Nơi đây chứa lượng oxy",
+   "id": "L50",
+   "layout": "Phòng trẻ sơ sinh dưới nước: Bên trong vòm chuông trên cao, chiếc kén tơ tròn xoe chứa hàng chục nhện con tí hon đang chui ra; các bé nhện con đeo kính bơi tí hon tập quặp những bọt khí nhỏ li ti.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Hệ thống bẫy mạng nhện dưới nước: Từ quả chuông lặn của {HERO}, hàng chục sợi tơ trong suốt tỏa ra các nhánh rong rêu như một mạng nhện radar vô hình bảo vệ căn cứ ngầm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L24"
+  },
+  {
+   "scene": "scene05",
+   "at": "Từ quả chuông lặn trung tâm,",
+   "id": "L51",
+   "layout": "Mạng lưới radar dây tơ: Từ quả chuông lặn của {HERO}, hàng chục sợi tơ mảnh phát sáng chạy dài đến các bụi cây thủy sinh như mạng dây điện thoại cảnh báo; {HERO} đặt chân lên nút cảm biến trung tâm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Gã ngồi thảnh thơi bên trong",
+   "layout": "{HERO} ngồi thư thái trên chiếc ghế tựa bằng tơ bên trong chuông, hai chân trước thò ra mép cửa chạm nhẹ vào sợi tơ kích hoạt; ánh mắt tập trung theo dõi các chấn động rung lắc.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L25"
+  },
+  {
+   "scene": "scene05",
+   "at": "Vút! Thuyền trưởng phóng vọt ra",
+   "layout": "Hành động chớp nhoáng: {HERO} phóng vụt ra khỏi chuông, hai chiếc kìm kẹp mở rộng kẹp trúng một ấu trùng chuồn chuồn bơi ngang; xung kích tỏa ra bọt nước lung linh.",
+   "stickers": [
+    {
+     "at": "nọc độc",
+     "side": "R",
+     "y": 380,
+     "value": "NỌC ĐỘC",
+     "label": "hạ gục tức thì",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ],
+   "impacts": [
+    "Vút!",
+    "tê liệt trong tích tắc"
+   ],
+   "id": "L26"
+  },
+  {
+   "scene": "scene05",
+   "at": "Sau đó, gã kéo chiến lợi phẩm",
+   "id": "L52",
+   "layout": "Phòng tiệc bên trong chuông lặn: {HERO} ngồi thảnh thơi trên chiếc ghế bành bằng tơ, dùng dao nĩa tí hon thưởng thức món ấu trùng bọ gậy khô ráo; ngoài thành chuông, một chú cá săn mồi bơi qua nhìn thèm thuồng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nếu bất ngờ có một con",
+   "layout": "Tình huống khẩn cấp: Một cái đầu cá chép to lớn hung dữ bơi tới cắn rách mép ngoài vòm tơ; {HERO} nhanh như chớp luồn qua cửa đáy thoát hiểm núp vào khe đá; tay cầm kim dệt tơ sẵn sàng phản công.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L27"
+  },
+  {
+   "scene": "scene05",
+   "at": "Với tốc độ cơ động cực nhanh,",
+   "id": "L53",
+   "layout": "Kế hoạch thoát hiểm khẩn cấp: Vòm tơ bị cá chép cắn rách, {HERO} phóng vọt qua cửa đáy thoát hiểm núp vào khe đá; sau khi cá bỏ đi, {HERO} thoăn thoắt phun tơ vá lành lỗ rách trong tích tắc.",
+   "stickers": [
+    {
+     "at": "30 phút",
+     "side": "R",
+     "y": 360,
+     "value": "30 PHÚT",
+     "label": "vá lành pháo đài",
+     "target": [
+      0.75,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thậm chí vào mùa đông băng",
+   "layout": "Mùa đông giá rét: Mặt hồ bên trên đóng băng thành tảng đá trắng xóa lạnh lẽo; sâu dưới đáy bùn ấm áp, {HERO} cuộn tròn ngủ say sưa bên trong chiếc kén tơ dày bọc kín túi khí ở 0°C.",
+   "stickers": [
+    {
+     "at": "0°C",
+     "side": "R",
+     "y": 360,
+     "value": "0°C",
+     "label": "ngủ đông đáy bùn",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ],
+   "impacts": [],
+   "id": "L28"
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhện lặn chuông bò xuống lớp bùn",
+   "id": "L54",
+   "layout": "Giấc ngủ đông dưới đáy băng: Mặt hồ phủ lớp băng dày tuyết trắng; sâu dưới lớp bùn ấm áp, {HERO} cuộn tròn ngủ say trong kén tơ siêu dày ôm một túi khí nhỏ; chiếc nhiệt kế cắm cạnh chỉ 0°C.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Bức tranh toàn cảnh tổng kết: {HERO} đứng trên đỉnh quả chuông lặn pha lê tỏa sáng lung linh giữa đáy hồ, tay cầm bánh lái tàu ngầm bằng đồng thau, xung quanh là muôn loài sinh vật biển ngưỡng mộ.",
+   "stickers": [
+    {
+     "at": "tiến hóa vĩ đại",
+     "side": "L",
+     "y": 380,
+     "value": "KỲ QUAN",
+     "label": "tàu ngầm tơ",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ],
+   "impacts": [],
+   "id": "L29"
+  },
+  {
+   "scene": "scene06",
+   "at": "Khi môi trường sống cạn kiệt",
+   "id": "L55",
+   "layout": "Biểu tượng triết lý tiến hóa: Hình vẽ cây tiến hóa với các nhánh cạn kiệt cơ hội; {HERO} đứng trên đỉnh một mỏm đá ngầm, tay cầm cờ hải quân tung bay, mở ra một chân trời mới dưới đáy hồ sâu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nếu trong cuộc sống bạn cảm",
+   "layout": "Hình ảnh ẩn dụ truyền cảm hứng: {HERO} nhỏ bé nhưng kiên cường đang dệt một quả chuông sáng lấp lánh bao bọc lấy một trái tim màu đỏ giữa biển đêm tăm tối, thắp sáng cả không gian xung quanh.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L30"
+  },
+  {
+   "scene": "scene06",
+   "at": "Đôi khi, chỉ cần một quả chuông",
+   "id": "L56",
+   "layout": "Hình ảnh truyền cảm hứng: {HERO} tươi cười rạng rỡ bên trong quả chuông lặn tỏa sáng lung linh giữa đáy hồ tối; xung quanh là dòng nước lạnh giá nhưng bên trong ấm áp tràn đầy dưỡng khí hy vọng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nếu được trang bị một bộ",
+   "layout": "Khán giả và {HERO}: Một bạn nhỏ hoạt hình đeo chiếc ba lô bong bóng khí bơi lội tung tăng bên cạnh {HERO}, hai người cùng cười tươi chỉ tay vào khung bình luận nhấp nháy bên dưới.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L31"
+  },
+  {
+   "scene": "scene06",
+   "at": "Còn bây giờ, hãy nhìn vào",
+   "layout": "Teaser bí ẩn bóng đen tập 42 (TASTE-68): Giữa bãi bùn rừng ngập mặn mù sương, một cái bóng đen bí ẩn (solid black silhouette) hình con cá có vây chân đang trèo lên rễ cây đước, hai con mắt lồi to tướng gắn dấu hỏi chấm '?', phía sau là đại dương xa xăm.",
+   "stickers": [],
+   "impacts": [
+    "bóng đen bí ẩn"
+   ],
+   "id": "L32"
+  },
+  {
+   "scene": "scene06",
+   "at": "nếu ngâm nước quá lâu thì lại",
+   "id": "L57",
+   "layout": "Cận cảnh hình bóng teaser tập 42 (TASTE-68): Bóng đen một con cá kỳ dị hai mắt lồi to tướng ngồi trên cành cây đước bãi lầy, một tay bịt mũi ôm cổ ho sặc sụa dưới nước với dấu hỏi '?' lớn màu vàng.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Cận cảnh mở đầu: {HERO_S} đeo kính lặn đồng thau và mũ thuyền trưởng, hai tay ôm một quả cầu bọt khí bạc phát sáng, mắt to tròn long lanh nhìn thẳng vào người xem.",
+   "stickers": [],
+   "id": "S01"
+  },
+  {
+   "at": "Đây là Nhện Lặn Chuông,",
+   "layout": "{HERO_S} đứng trên thước đo milimét dưới đáy nước, cơ thể tí hon nhưng phong thái đĩnh đạc như một thuyền trưởng tàu ngầm thực thụ.",
+   "stickers": [
+    {
+     "at": "10-15mm",
+     "side": "R",
+     "y": 520,
+     "value": "10-15 MM",
+     "label": "kích thước tí hon",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ],
+   "id": "S02"
+  },
+  {
+   "at": "Gã ngoi lên mặt nước,",
+   "layout": "{HERO_S} thò chóp bụng lên mặt hồ, lớp lông kỵ nước bẫy chặt bọt khí biến phần thân thành quả bóng bạc lấp lánh như gương tráng bạc.",
+   "stickers": [
+    {
+     "at": "bọt khí bạc quanh bụng",
+     "side": "L",
+     "y": 560,
+     "value": "BỌC BẠC",
+     "label": "quặp bọt khí",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ],
+   "id": "S03"
+  },
+  {
+   "at": "Tại đây, gã dệt một",
+   "layout": "Dưới đáy hồ: {HERO_S} đang dệt chiếc vòm tơ hình chuông úp ngược neo vào cọng rong rêu xanh biếc, chuẩn bị bơm khí vào trong.",
+   "stickers": [],
+   "id": "S04"
+  },
+  {
+   "at": "Điều chấn động là màng",
+   "layout": "Sơ đồ nguyên lý: Quả chuông tơ phát sáng; oxy từ nước thẩm thấu vào trong chuông, khí CO2 khuếch tán ra ngoài; {HERO_S} ung dung thở đều.",
+   "stickers": [
+    {
+     "at": "mang nhân tạo",
+     "side": "R",
+     "y": 500,
+     "value": "MANG TƠ",
+     "label": "tự hút oxy từ nước",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ],
+   "id": "S05"
+  },
+  {
+   "at": "tự hút oxy hòa tan",
+   "id": "S08",
+   "layout": "Cận cảnh thành quả chuông: Các phân tử oxy xanh dương thẩm thấu vào trong chuông, giúp {HERO_S} thở suốt 24 giờ mà không cần ngoi lên mặt hồ; đồng hồ cơ khí quay tròn 24h.",
+   "stickers": [
+    {
+     "at": "24 giờ",
+     "side": "L",
+     "y": 620,
+     "value": "24 GIỜ",
+     "label": "thở dưới nước",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Từ ăn ngủ, săn mồi",
+   "layout": "Ghép 3 khung cảnh mini: {HERO_S} ngủ trên võng tơ, {HERO_S} ăn tiệc bọ gậy, và {HERO_S} chăm sóc kén trứng; tất cả diễn ra trong chuông lặn.",
+   "stickers": [],
+   "id": "S06"
+  },
+  {
+   "at": "chứng minh giới hạn sinh tồn",
+   "layout": "Hình ảnh kết thúc: {HERO_S} đứng oai vệ bên cạnh quả chuông lặn phát sáng rực rỡ, giơ ngón tay cái cười tươi đầy tự hào.",
+   "stickers": [],
+   "id": "S07"
+  }
+ ]
+}

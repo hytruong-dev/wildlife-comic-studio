@@ -1,0 +1,128 @@
+{
+  "title_lines": [
+    "BỘ MẶT THẬT",
+    "RÁI CÁ BIỂN?!"
+  ],
+  "beats": [
+    {
+      "at_s": 0.0,
+      "draw_s": 1.0,
+      "image": "assets/shorts/S01.png",
+      "stickers": []
+    },
+    {
+      "at": "Đây là Rái Cá Biển,",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S02.png",
+      "stickers": [
+        {
+          "at": "Lửng Mật",
+          "side": "R",
+          "y": 620,
+          "value": "HỌ HÀNG",
+          "label": "ruột thịt lửng mật",
+          "target": [
+            0.55,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "Thứ nhất, rái cá nắm",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S03.png",
+      "stickers": []
+    },
+    {
+      "at": "mà là dây neo sinh",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S04.png",
+      "stickers": []
+    },
+    {
+      "at": "vào miệng cá voi sát",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S05.png",
+      "stickers": []
+    },
+    {
+      "at": "Thứ hai, dưới nách nó",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S06.png",
+      "stickers": [
+        {
+          "at": "Doraemon",
+          "side": "L",
+          "y": 620,
+          "value": "DORAEMON",
+          "label": "túi da dưới nách",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "để cất giấu viên đá",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S07.png",
+      "stickers": [
+        {
+          "at": "45 nhát",
+          "side": "R",
+          "y": 620,
+          "value": "45 NHÁT",
+          "label": "đập vỡ sò trong 15s",
+          "target": [
+            0.55,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "Đỉnh cao nhất, vì phải",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S08.png",
+      "stickers": []
+    },
+    {
+      "at": "những gã rái cá đực",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S09.png",
+      "stickers": [
+        {
+          "at": "con tin",
+          "side": "L",
+          "y": 620,
+          "value": "CON TIN",
+          "label": "đòi chuộc bào ngư",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "Một kẻ vừa là thánh",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S10.png",
+      "stickers": [
+        {
+          "at": "cướp ván lướt sóng",
+          "side": "R",
+          "y": 620,
+          "value": "HẢI TẶC",
+          "label": "cướp ván lướt sóng",
+          "target": [
+            0.55,
+            0.5
+          ]
+        }
+      ]
+    }
+  ]
+}

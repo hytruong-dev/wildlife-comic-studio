@@ -1,0 +1,196 @@
+{
+  "scene_id": "scene06",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 2,
+  "world_width": 1556,
+  "world_height": 794,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 60,
+  "duration_ms": 52359,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-06-gau-nuoc/assets/scenes_composed/scene06_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      255,
+      9,
+      1024,
+      56
+    ],
+    "x": 267,
+    "y": 13,
+    "w": 745,
+    "h": 41,
+    "text": "CHƯƠNG 6  •  06. BẮC CẦU SANG TẬP 07: TÔM TÍT MANTIS SHRIMP",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-06-gau-nuoc/assets/scenes_composed/scene06_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 27400,
+      "has_frame": false,
+      "pill_box": [
+        238,
+        182,
+        585,
+        220
+      ],
+      "art_only_box": [
+        95,
+        218,
+        724,
+        571
+      ],
+      "caption": {
+        "text": "Sức mạnh tối thượng không nằm ở nanh vuốt, mà ở khả năng thích ứng",
+        "x": 100,
+        "y": 571,
+        "w": 619,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        93,
+        182,
+        726,
+        606
+      ],
+      "img_region": {
+        "x": 95,
+        "y": 218,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 27400,
+      "end_ms": 50859,
+      "has_frame": false,
+      "pill_box": [
+        993,
+        182,
+        1299,
+        222
+      ],
+      "art_only_box": [
+        830,
+        218,
+        1459,
+        571
+      ],
+      "caption": {
+        "text": "Đón xem tập 7: Cú đấm đạn nổ dưới đại dương của võ sĩ tôm tít!",
+        "x": 861,
+        "y": 571,
+        "w": 567,
+        "h": 31,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        828,
+        182,
+        1461,
+        604
+      ],
+      "img_region": {
+        "x": 830,
+        "y": 218,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 93.0,
+    "y_min": 182.0,
+    "x_max": 1461.0,
+    "y_max": 606.0,
+    "bbox_w": 1368.0,
+    "bbox_h": 424.0,
+    "center_x": 777.0,
+    "center_y": 394.0,
+    "zoom_out_scale": 0.8779,
+    "crop_w": 1458.0,
+    "crop_h": 742.7
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 409.5,
+      "cy": 394.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 1.53,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 26780.0,
+      "cx": 409.5,
+      "cy": 394.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 1.53,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 27400.0,
+      "cx": 1144.5,
+      "cy": 393.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 1.54,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 50859.0,
+      "cx": 1144.5,
+      "cy": 393.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 1.54,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 51359.0,
+      "cx": 777.0,
+      "cy": 394.0,
+      "crop_w": 1458.0,
+      "crop_h": 742.7,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 52359.0,
+      "cx": 777.0,
+      "cy": 394.0,
+      "crop_w": 1458.0,
+      "crop_h": 742.7,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

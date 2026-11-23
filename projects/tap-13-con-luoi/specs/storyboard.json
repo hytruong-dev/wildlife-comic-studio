@@ -1,0 +1,898 @@
+{
+ "_doc": "Storyboard Tập 13 Con Lười — sinh specs/longform_plan.json, shorts_plan.json, image_prompts.json bằng build_plans.py.",
+ "characters": {
+  "HERO": "chú Con Lười ba ngón hoạt hình ngộ nghĩnh: bộ lông xơ xác màu xám bùn pha vệt xanh rêu mộc mạc, khuôn mặt tròn bè với quầng mắt sẫm màu như đeo kính râm hề hước, khóe miệng luôn nở nụ cười tủm tỉm an nhiên vô cực, hai mắt lim dim ngơ ngác, bốn bàn chân có móng vuốt cong vút dài sắc nhọn, đeo một chiếc đồng hồ đeo tay nhỏ xinh trên cổ chân",
+  "HERO_S": "chú Con Lười ba ngón lông vệt rêu xanh, mặt cười tủm tỉm ngơ ngác, đeo đồng hồ nhỏ ở cổ chân",
+  "REPORTER": "anh chàng phóng viên truyền hình hoạt hình mặc áo khoác dã ngoại màu be, tay cầm micro có logo 24H",
+  "ANCHOR": "cô phát thanh viên tin tức hoạt hình xinh đẹp ngồi sau bàn trường quay thời sự",
+  "NO_HERO": "KHÔNG có chú Con Lười trong cảnh này"
+ },
+ "side_characters": [
+  "REPORTER",
+  "ANCHOR"
+ ],
+ "shorts_side_characters": [
+  "REPORTER"
+ ],
+ "shorts_title_lines": [
+  "TẠI SAO 50% CÁI CHẾT",
+  "LÚC ĐI VỆ SINH?!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Rừng rậm nhiệt đới Costa Rica mù sương lúc 06:00 sáng: chiếc đồng hồ báo thức khổng lồ rung chuông reo sáng rực; {REPORTER} mặc áo dã ngoại cầm micro phát biểu trước máy quay.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Kính thưa quý vị",
+   "layout": "{REPORTER} chỉ tay lên cành cây cao: {HERO} treo ngược bất động như một bọc rơm khô giữa cành lá xanh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chiếc đồng hồ báo",
+   "layout": "Đồng hồ rung chuông reo inh ỏi; {HERO} hé mở một bên mắt ngơ ngác, khóe miệng vẫn giữ nụ cười tủm tỉm an nhiên không buồn nhúc nhích.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Để di chuyển được",
+   "layout": "Cận cảnh bàn chân {HERO} nhấc lên chậm chạp từng milimet; đám mây suy nghĩ đầy các phép tính toán chỉ để bước một bước; một chú ốc sên bò bên cạnh nhìn ngạc nhiên.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Alo trường quay",
+   "layout": "Trường quay thời sự: {ANCHOR} đeo tai nghe ngạc nhiên chỉ vào màn hình kết nối hiện trường đặt câu hỏi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Báo cáo trường quay",
+   "layout": "{HERO} bò trên cành cây với tốc độ 0,24km/h; đồng hồ đo tốc độ xe hơi bên cạnh kim chỉ sát vạch số 0; nhãn 0,24km/h và 4m/phút.",
+   "stickers": [
+    {
+     "at": "0,24km/h",
+     "side": "R",
+     "y": 360,
+     "value": "0,24 KM/H",
+     "label": "tốc độ rùa bò",
+     "target": [
+      0.65,
+      0.45
+     ]
+    },
+    {
+     "at": "4m",
+     "side": "L",
+     "y": 480,
+     "value": "4M / PHÚT",
+     "label": "trên ngọn cây",
+     "target": [
+      0.35,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Còn nếu rơi xuống",
+   "layout": "{HERO} lết vụng về trên mặt đất với tốc độ 2m/phút; một chú ốc sên đeo kính mát bấm còi vượt mặt dễ dàng; nhãn 2m.",
+   "stickers": [
+    {
+     "at": "2m",
+     "side": "L",
+     "y": 380,
+     "value": "2M / PHÚT",
+     "label": "lết dưới mặt đất",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhưng điều kinh ngạc",
+   "layout": "Sơ đồ giải phẫu dạ dày 4 ngăn phức tạp như trâu bò của lười; bên trong các mẩu lá cây nằm yên bất động, vi khuẩn lên men lười biếng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Để tiêu hóa hết",
+   "layout": "Chiếc lá cây duy nhất nằm trong dạ dày lười; tờ lịch 30 ngày rơi lả tả; một chiếc đồng hồ cát chảy cực chậm.",
+   "stickers": [
+    {
+     "at": "30 ngày",
+     "side": "R",
+     "y": 360,
+     "value": "30 NGÀY",
+     "label": "tiêu hóa 1 chiếc lá",
+     "target": [
+      0.68,
+      0.5
+     ]
+    },
+    {
+     "at": "50 ngày",
+     "side": "L",
+     "y": 480,
+     "value": "50 NGÀY",
+     "label": "kéo dài tối đa",
+     "target": [
+      0.35,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chính vì tiêu hóa",
+   "layout": "{HERO} nằm phơi bụng trên cành cây sưởi nắng; nhiệt kế cắm bên cạnh dao động từ 30°C đến 34°C như loài bò sát; mặt trời chiếu rọi.",
+   "stickers": [
+    {
+     "at": "30-34°C",
+     "side": "L",
+     "y": 380,
+     "value": "30-34°C",
+     "label": "thân nhiệt bất ổn",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nếu thức ăn trong",
+   "layout": "Cảnh trời mưa lạnh giá bão tuyết: {HERO} ngồi co ro run rẩy nhưng chiếc bụng vẫn tròn căng đầy ắp lá cây.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hãy cùng chúng tôi",
+   "layout": "{REPORTER} giơ ngón tay đếm ngược, kim đồng hồ 24h quay tít mù báo hiệu hành trình kỳ thú.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Đồng hồ hiện số 12:00 trưa; nắng vàng rực rỡ chiếu qua tán lá; {HERO} treo ngược dang tay chân phơi nắng sưởi ấm dạ dày.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Quý vị hãy nhìn",
+   "layout": "Toàn thân {HERO} treo ngược bất động, nhưng chiếc đầu bỗng quay tít 270 độ ra sau lưng như chim cú vọ giữa ban ngày.",
+   "stickers": [
+    {
+     "at": "270°",
+     "side": "R",
+     "y": 360,
+     "value": "270 ĐỘ",
+     "label": "xoay đầu như cú",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bác phóng viên ơi",
+   "layout": "Chú bé con hoạt hình ngơ ngác hỏi, tay làm động tác vặn cổ 90 độ bị vướng cứng đờ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bí mật nằm ở",
+   "layout": "Sơ đồ so sánh đốt sống cổ: BÊN TRÁI hươu cao cổ chỉ có 7 đốt sống cổ; BÊN PHẢI {HERO} có 8-10 đốt sống cổ đặc biệt.",
+   "stickers": [
+    {
+     "at": "8-10",
+     "side": "R",
+     "y": 360,
+     "value": "8-10 ĐỐT",
+     "label": "đốt sống cổ siêu dị",
+     "target": [
+      0.68,
+      0.45
+     ]
+    },
+    {
+     "at": "7 đốt",
+     "side": "L",
+     "y": 480,
+     "value": "7 ĐỐT",
+     "label": "hươu cao cổ",
+     "target": [
+      0.35,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Cấu trúc xương cổ",
+   "layout": "{HERO} quay đầu 270 độ gặm những chiếc lá non mọc phía sau lưng mà không cần nhúc nhích thân mình cồng kềnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chưa dừng lại ở",
+   "layout": "Bàn chân {HERO} với 3 móng vuốt cong vút dài 10cm sắc nhọn móc chặt vào cành gỗ; thước dây đo độ dài móng.",
+   "stickers": [
+    {
+     "at": "10cm",
+     "side": "L",
+     "y": 380,
+     "value": "10 CM",
+     "label": "móng vuốt móc sắt",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đôi chân này không",
+   "layout": "Cận cảnh móng vuốt móc như chiếc móc sắt cần cẩu cứu hộ; hoạt động cứu hộ đu cành.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Các nhà giải phẫu",
+   "layout": "Sơ đồ gân khóa ngàm tự động: cơ bắp chỉ chiếm 30% cơ thể nhưng trọng lượng cơ thể tự kéo căng các sợi gân khóa cứng móng vuốt vào cành cây không tốn năng lượng.",
+   "stickers": [
+    {
+     "at": "30%",
+     "side": "R",
+     "y": 380,
+     "value": "30%",
+     "label": "tỷ lệ cơ bắp",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Lực khóa này mạnh",
+   "layout": "Một chú lười đã qua đời vì tuổi già nhưng thân thể vẫn treo ngược an nhiên trên cành cây cao nhiều ngày liền không rơi xuống đất.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Không những thế, Thánh",
+   "layout": "{HERO} trượt tay rơi tự do từ độ cao 15m đến 30m từ ngọn cây xuống đất đánh bịch một tiếng; thước đo độ cao rơi.",
+   "stickers": [
+    {
+     "at": "15m",
+     "side": "L",
+     "y": 380,
+     "value": "15-30M",
+     "label": "ngã không gãy xương",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": [
+    "đánh bịch"
+   ]
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng nhờ các khớp",
+   "layout": "{HERO} tiếp đất mông chạm cỏ, chớp chớp mắt tỉnh bơ không gãy xương nào rồi từ từ bò lên cây leo tiếp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Bầu trời hoàng hôn 18:00 tím biếc, {HERO} treo ngược trên cành cây ven sông; {REPORTER} cầm kính lúp soi vào lưng lười.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khi nhìn cận cảnh",
+   "layout": "Kính lúp phóng đại lớp lông xơ xác phủ đầy các vệt màu xanh lục mộc mạc; cả một khu rừng sinh thái thu nhỏ đang di động.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Quý vị có thấy",
+   "layout": "Cận cảnh từng sợi lông lười: trên thân sợi lông có các rãnh nứt siêu nhỏ chứa đầy tảo xanh sống ký sinh xanh mướt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thảm tảo xanh này",
+   "layout": "Hàng trăm chú bướm đêm Cryptoses nhỏ xíu bay lượn quanh bộ lông lười như một vương quốc côn trùng náo nhiệt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Hàng trăm con bướm",
+   "layout": "Bướm đêm thải phân đạm bón cho thảm tảo xanh mọc tươi tốt; khu vườn trên lưng xanh ngắt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đổi lại, thảm tảo",
+   "layout": "{HERO} hòa tan vào tán lá rừng ngụy trang tàng hình chống lại kẻ thù; thè lưỡi liếm lớp tảo giàu chất béo trên lông như món ăn vặt bổ dưỡng.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L61"
+  },
+  {
+   "scene": "scene03",
+   "at": "Một phi vụ làm",
+   "layout": "{HERO} mỉm cười bắt tay với chú bướm đêm hoạt hình; ký kết hợp đồng cộng sinh hàng triệu năm đôi bên cùng có lợi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng cú sốc lớn",
+   "layout": "{HERO} buông tay thả mình rơi tõm xuống dòng sông nước bắn tung tóe; {REPORTER} há hốc mồm kinh ngạc.",
+   "stickers": [],
+   "impacts": [
+    "rơi tõm"
+   ]
+  },
+  {
+   "scene": "scene03",
+   "at": "Quý vị tin được",
+   "layout": "{HERO} bơi sải điêu luyện dưới nước với tốc độ nhanh gấp 3-4 lần lúc lết trên cạn; bọt nước rẽ sóng ngầu như kình ngư.",
+   "stickers": [
+    {
+     "at": "3-4 lần",
+     "side": "L",
+     "y": 380,
+     "value": "GẤP 3-4X",
+     "label": "tốc độ bơi vượt sông",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nó có thể nhịn",
+   "layout": "{HERO} lặn dưới nước nhịn thở 40 phút, nhịp tim giảm xuống còn 1/3; đồng hồ bấm giờ 40 phút.",
+   "stickers": [
+    {
+     "at": "40 phút",
+     "side": "R",
+     "y": 360,
+     "value": "40 PHÚT",
+     "label": "nhịn thở dưới nước",
+     "target": [
+      0.65,
+      0.45
+     ]
+    },
+    {
+     "at": "1/3",
+     "side": "L",
+     "y": 480,
+     "value": "1/3",
+     "label": "nhịp tim chậm lại",
+     "target": [
+      0.35,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Từ một kẻ tàn",
+   "layout": "{HERO} bơi sang bờ bên kia ngầu như một kình ngư rái cá, mặt lạnh lùng kiêu hãnh vẫy tay chào khán giả.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Rừng rậm 22:00 đêm tĩnh mịch, ánh trăng bạc chiếu rọi; {HERO} từ từ nhích từng bước từ ngọn cây cao leo xuống gốc đất; {REPORTER} nín thở theo dõi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và đây chính là",
+   "layout": "Chuyến hành hương nguy hiểm trong tuần của Thánh sống chậm: chuẩn bị bò xuống mặt đất ẩm ướt để đi vệ sinh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Trong khi các loài",
+   "layout": "Khỉ và chim trên cây xả phân tự do rơi xuống đất; {HERO} lắc đầu nghiêm trang quyết tâm leo xuống đất 1 tuần 1 lần.",
+   "stickers": [
+    {
+     "at": "1 tuần",
+     "side": "R",
+     "y": 380,
+     "value": "1 TUẦN/LẦN",
+     "label": "nghi lễ đi vệ sinh",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chuyến đi này tiêu",
+   "layout": "Chuyến hành hương nguy hiểm: {HERO} bò xuống đất mất 10% năng lượng cả ngày; biển báo nguy hiểm toilet cắm ở gốc cây.",
+   "stickers": [
+    {
+     "at": "10%",
+     "side": "L",
+     "y": 380,
+     "value": "10% PIN",
+     "label": "năng lượng tiêu tốn",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Vì di chuyển quá",
+   "layout": "{HERO} lết chậm chạp trên mặt đất bùn lầy, các móng vuốt cản trở bước đi; trong bụi rậm có hai đốm mắt thú dữ phát sáng rình rập.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Báo cáo nghiên cứu",
+   "layout": "Biểu đồ thống kê giật mình: hơn 50% cái chết của loài lười xảy ra ngay lúc đi vệ sinh dưới đất; bóng báo đốm và chó hoang.",
+   "stickers": [
+    {
+     "at": "50%",
+     "side": "L",
+     "y": 380,
+     "value": "50% CHẾT",
+     "label": "khi đi vệ sinh",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bác phóng viên ơi",
+   "layout": "Chú bé con hoạt hình gãi đầu ngơ ngác hỏi tại sao không ị luôn trên cây cho an toàn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Khi xuống tới gốc",
+   "layout": "{HERO} dùng chiếc đuôi ngắn ngủn ngoáy một chiếc hố nhỏ dưới đất rồi ngồi xổm xả thải với vẻ mặt cực kỳ mãn nguyện nhẹ nhõm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Quý vị hãy chuẩn",
+   "layout": "Cân đo tải trọng: đống phân thải ra nặng tới 1/3 trọng lượng cơ thể; chiếc cân giảm 30% cân nặng ngay tức khắc.",
+   "stickers": [
+    {
+     "at": "1/3",
+     "side": "R",
+     "y": 360,
+     "value": "1/3",
+     "label": "trọng lượng cơ thể",
+     "target": [
+      0.65,
+      0.45
+     ]
+    },
+    {
+     "at": "30%",
+     "side": "L",
+     "y": 480,
+     "value": "30%",
+     "label": "giảm cân tức thì",
+     "target": [
+      0.35,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và mục đích sinh",
+   "layout": "Khi {HERO} xả phân, các cô bướm đêm Cryptoses từ trên lông bò túa xuống đẻ trứng vào đống phân tươi dưới đất để ấu trùng phát triển.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chấp nhận đối mặt",
+   "layout": "{HERO} vẫy tay chào đàn bướm đêm rồi chậm rãi leo trở lại cây; tình bạn sinh tử 50% nguy hiểm cảm động.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Đồng hồ chỉ 02:00 rạng sáng; {HERO} đã leo lên chạc cây cao ngủ tiếp; trên bầu trời một bóng chim săn mồi khổng lồ lướt qua ánh trăng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Trên tầng tán rừng",
+   "layout": "Bạo chúa bầu trời Đại bàng Harpy sải cánh hơn 2m với bộ móng vuốt to bằng móng gấu xám lượn sát cành cây.",
+   "stickers": [
+    {
+     "at": "2m",
+     "side": "R",
+     "y": 380,
+     "value": "2 MÉT",
+     "label": "sải cánh đại bàng",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhưng chính tốc độ",
+   "layout": "Áo giáp tàng hình: bộ lông rêu xanh và sự bất động tuyệt đối của {HERO} biến chú thành một búi lá cây tự nhiên; đại bàng bay lướt qua không hề phát hiện.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Và quý vị đừng",
+   "layout": "Cận cảnh cú phản đòn bất ngờ: khi bị đại bàng lao tới sát, {HERO} vung móng vuốt cào xé cực nhanh tóe lửa rạch rách móng kẻ thù.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chậm chạp có tính",
+   "layout": "{HERO} thu móng vuốt lại, mỉm cười bình thản trên cây; đại bàng ôm mặt bay đi; bản lĩnh sinh tồn triệu năm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Và tình mẫu tử",
+   "layout": "Chú lười con bé xíu bám chặt vào ngực lười mẹ suốt 6 tháng ròng rã; lười mẹ ôm con âu yếm.",
+   "stickers": [
+    {
+     "at": "6 tháng",
+     "side": "R",
+     "y": 380,
+     "value": "6 THÁNG",
+     "label": "ôm ngực mẹ bám chặt",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Người mẹ lười dù",
+   "layout": "Lười mẹ xòe móng vuốt sắc nhọn gầm gừ che chắn cho đứa con trước bóng một con mèo rừng gấm; ánh mắt người mẹ kiên cường.",
+   "stickers": [
+    {
+     "at": "10cm",
+     "side": "L",
+     "y": 380,
+     "value": "10 CM",
+     "label": "móng vuốt tự vệ",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Rừng già lúc 04:00 rạng sáng, ánh bình minh le lói qua sương sớm; {HERO} ngồi thiền an nhiên trên chạc cây đón ngày mới.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhiều người thường lấy",
+   "layout": "Dòng thời gian 30 triệu năm: các loài thú hung hăng to lớn đều tuyệt chủng; riêng {HERO} vẫn ung dung sinh tồn qua 30 triệu năm.",
+   "stickers": [
+    {
+     "at": "30 triệu năm",
+     "side": "L",
+     "y": 380,
+     "value": "30 TR NĂM",
+     "label": "sinh tồn bền bỉ",
+     "target": [
+      0.35,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đôi khi trong cuộc",
+   "layout": "Triết lý sống: {HERO} ngồi tĩnh tâm giữa dòng đời hối hả, xung quanh là biểu tượng hoa sen và năng lượng bình yên.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hành trình 24 giờ",
+   "layout": "Đồng hồ 24h quay trọn một vòng; {REPORTER} chào tạm biệt khán giả khép lại nhật ký 24h.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhưng ngay bây giờ",
+   "layout": "Màn hình lớn bỗng đổi màu tím thẫm bí ẩn; phông nền rực lửa Đấu Trường Sinh Tồn chuyển sang bóng tối; khán giả tò mò nghển cổ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Xin gửi tới quý",
+   "layout": "BÓNG ĐEN BÍ ẨN (Solid Black Silhouette): Trên màn hình lớn hiện ra một cái bóng đen hoàn toàn của một loài chim bí ẩn đang lén lút thả một quả trứng vào tổ chim khác; dấu hỏi chấm màu vàng khổng lồ phát sáng rực rỡ ở giữa. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "10 giây",
+     "side": "R",
+     "y": 380,
+     "value": "10 GIÂY",
+     "label": "đẻ trộm trứng",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Thứ hai, bản năng",
+   "layout": "BÓNG ĐEN BÍ ẨN (Solid Black Silhouette): Bóng đen của một chú chim non vừa chui ra khỏi vỏ trứng, mắt nhắm nghiền nhưng dùng chiếc lưng lõm hất văng quả trứng của chim chủ nhà rơi xuống vỡ toang; dấu hỏi chấm xoay tròn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và thứ ba, nghịch",
+   "layout": "BÓNG ĐEN BÍ ẨN (Solid Black Silhouette): Bóng đen của hai chú chim bố mẹ bé tí hon đang kiệt sức bón mồi cho một con chim non khổng lồ to gấp 3 lần chính mình; dấu hỏi chấm nhấp nháy. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "3 lần",
+     "side": "R",
+     "y": 380,
+     "value": "GẤP 3 LẦN",
+     "label": "con nuôi khổng lồ",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "khán giả có đoán",
+   "layout": "Khán đài xôn xao háo hức: các bạn nhỏ và muông thú giơ biển dấu hỏi chấm tranh luận đoán tên quái kiệt; {REPORTER} giơ tay mời khán giả bình luận.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Dọc 9:16: {HERO} treo ngược trên cành cây chậm rãi nhai một chiếc lá; {REPORTER} cầm micro kinh ngạc chỉ vào tờ lịch 1 tháng.",
+   "stickers": [
+    {
+     "at": "cả tháng",
+     "side": "L",
+     "y": 560,
+     "value": "1 THÁNG",
+     "label": "tiêu hóa 1 chiếc lá",
+     "target": [
+      0.35,
+      0.4
+     ]
+    }
+   ]
+  },
+  {
+   "at": "nhưng mỗi tuần lại",
+   "layout": "Dọc: {HERO} ngơ ngác chuẩn bị chuyến hành hương sinh tử xuống mặt đất; biển báo nguy hiểm toilet cắm ở gốc cây.",
+   "stickers": [],
+   "id": "S12"
+  },
+  {
+   "at": "Đó chính là Con",
+   "layout": "Giới thiệu dọc: {HERO} mập mạp lông xám bùn có vệt rêu xanh, lười biếng bò trên cành với tốc độ 0,2km/h giữa rừng rậm Nam Mỹ.",
+   "stickers": [
+    {
+     "at": "0,2km/h",
+     "side": "R",
+     "y": 580,
+     "value": "0,2 KM/H",
+     "label": "tốc độ rùa bò",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Dạ dày 4 ngăn",
+   "layout": "Sơ đồ dạ dày 4 ngăn tiêu hóa 1 chiếc lá mất 30 ngày; tờ lịch 30 ngày bay lả tả.",
+   "stickers": [
+    {
+     "at": "30 ngày",
+     "side": "L",
+     "y": 650,
+     "value": "30 NGÀY",
+     "label": "trao đổi chất chậm",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "còn bộ lông phủ",
+   "layout": "Kính lúp soi cận cảnh lớp lông mọc rêu xanh thành khu rừng di động cho hàng trăm con bướm đêm Cryptoses bay lượn.",
+   "stickers": []
+  },
+  {
+   "at": "Nhưng kỳ lạ nhất",
+   "layout": "Đồng hồ báo thức đêm: {HERO} bò từ ngọn cây xuống mặt đất ẩm ướt để đi vệ sinh 1 tuần 1 lần.",
+   "stickers": [
+    {
+     "at": "1 tuần",
+     "side": "R",
+     "y": 600,
+     "value": "1 TUẦN/LẦN",
+     "label": "nghi lễ đi vệ sinh",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "xả tới 1/3",
+   "layout": "Chiếc cân đo trọng lượng sụt giảm 1/3 ngay sau khi xả thải; {HERO} nhẹ bẫng đi 30% cân nặng.",
+   "stickers": [
+    {
+     "at": "1/3",
+     "side": "L",
+     "y": 650,
+     "value": "1/3",
+     "label": "trọng lượng cơ thể",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Do di chuyển quá",
+   "layout": "{HERO} lết chậm chạp vụng về dưới đất, bóng báo đốm và chó rừng nhe răng rình rập trong bóng đêm.",
+   "stickers": []
+  },
+  {
+   "at": "hơn 50% số cái",
+   "layout": "Biển cảnh báo đầu lâu: con số 50% cái chết của loài lười đều diễn ra lúc đi vệ sinh dưới đất.",
+   "stickers": [
+    {
+     "at": "50%",
+     "side": "R",
+     "y": 650,
+     "value": "50% CHẾT",
+     "label": "khi đi vệ sinh",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vậy là bí mật",
+   "layout": "Các cô bướm đêm từ trên lông {HERO} bò xuống đẻ trứng vào đống phân tươi dưới đất để ấu trùng phát triển.",
+   "stickers": []
+  },
+  {
+   "at": "giữ cho bộ lông",
+   "layout": "{HERO} ngẩng mặt mỉm cười mãn nguyện, bộ lông rêu xanh hòa tan hoàn hảo vào tán lá rừng ngụy trang bất khả chiến bại.",
+   "stickers": []
+  },
+  {
+   "at": "để sinh tồn qua",
+   "layout": "Cận cảnh {HERO} nháy mắt tươi cười an nhiên treo ngược trên cành cây cao, câu chốt trọn vẹn kết thúc video!",
+   "stickers": []
+  }
+ ]
+}

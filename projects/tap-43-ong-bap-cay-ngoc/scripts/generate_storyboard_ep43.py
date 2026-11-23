@@ -1,0 +1,375 @@
+import json
+from pathlib import Path
+
+sb43 = {
+ "_doc": "Storyboard Tập 43 — Ong Bắp Cày Ngọc (F3: Phiên tòa xét xử). Sinh plans: python src/episode/build_plans.py projects/tap-43-ong-bap-cay-ngoc",
+ "characters": {
+  "HERO": "chú ong bắp cày ngọc hoạt hình ngộ nghĩnh (màu xanh ngọc lục bảo và lam biếc ánh kim lấp lánh như viên ngọc bích, đôi mắt to tròn đeo kính lúp vi phẫu màu bạc, hai cánh mỏng trong suốt viền neon xanh, tay cầm chiếc kim tiêm siêu nhỏ phát sáng như dao mổ laser, biểu cảm lạnh lùng pha chút tinh quái)",
+  "HERO_S": "chú ong bắp cày ngọc hoạt hình ánh kim xanh ngọc bích, kính lúp vi phẫu, kim tiêm phát sáng",
+  "NO_HERO": "KHÔNG có chú ong bắp cày ngọc trong cảnh này",
+  "COCKROACH": "chú gián to gấp sáu lần ong, màu nâu cánh gián bóng lưỡng, mắt xoắn ốc đờ đẫn ngoan ngoãn như Zombie, râu bị cắt ngắn một nửa",
+  "JUDGE": "thẩm phán cú mèo uy nghiêm đội tóc giả quan tòa màu trắng, mặc áo thụng đen, tay cầm búa gõ"
+ },
+ "side_characters": [
+  "COCKROACH",
+  "JUDGE"
+ ],
+ "shorts_side_characters": [
+  "COCKROACH"
+ ],
+ "shorts_title_lines": [
+  "ONG PHẪU THUẬT NÃO",
+  "BIẾN GIÁN THÀNH ZOMBIE?!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  # ==================== SCENE 01 (9 beats) ====================
+  {
+   "scene": "scene01", "at": 0,
+   "layout": "Phòng xử án hình sự sinh học tối cao: Bàn công tố viên gỗ gụ trang nghiêm phủ đầy các hồ sơ vụ án gắn nhãn TỐI MẬT; {NO_HERO}; BÊN TRÁI {JUDGE} đang ngồi trên bục thẩm phán uy nghiêm.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene01", "at": "Không dùng sức mạnh cơ",
+   "layout": "Ánh sáng spotlight chiếu rọi: Một cái bóng đen bí ẩn khoác áo choàng ngọc bích lấp lánh cầm chiếc kim tiêm phát sáng; phía đối diện là bóng dáng một con gián to lớn đang ngoan ngoãn cúi đầu bước đi như xác sống; {NO_HERO}.",
+   "stickers": [], "impacts": ["xác sống Zombie"]
+  },
+  {
+   "scene": "scene01", "at": "Thưa Hội đồng xét xử!",
+   "layout": "Bục bị cáo: {HERO} đứng trên bục gỗ, lớp vỏ ngọc bích xanh biếc lấp lánh kiêu sa, một tay chống nạnh, một tay xoay chiếc kim tiêm vi phẫu bạc tinh xảo; biểu cảm nửa cười nửa ngạo nghễ.",
+   "stickers": [{"at": "43", "side": "R", "y": 360, "value": "SỐ 43", "label": "hồ sơ hình sự", "target": [0.75, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene01", "at": "Nhưng trong giới giang hồ",
+   "layout": "Tấm thẻ hồ sơ tội phạm quốc tế: Ảnh chụp chân dung {HERO} đeo kính lúp vi phẫu, đóng dấu đỏ tươi BÁC SĨ PHẪU THUẬT THẦN KINH; bên cạnh là mô hình hộp sọ côn trùng phát sáng neon.",
+   "stickers": [], "impacts": ["Bác sĩ phẫu thuật thần kinh"]
+  },
+  {
+   "scene": "scene01", "at": "Chiều dài cơ thể của",
+   "layout": "Thước đo vi phẫu: {HERO} đứng cạnh chiếc thước kẹp cơ khí hiển thị đúng 20mm; lớp vỏ cánh phản chiếu ánh kim ngũ sắc như kim loại titan đổi màu.",
+   "stickers": [{"at": "20mm", "side": "R", "y": 380, "value": "20 MM", "label": "chiều dài cơ thể", "target": [0.5, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene01", "at": "Trước khi đi vào hiện",
+   "layout": "Hồ sơ đối tượng nạn nhân: BÊN TRÁI ảnh chụp {COCKROACH} cơ bắp cuồn cuộn với các thông số tốc độ chạy và sức bền cực khủng; BÊN PHẢI {JUDGE} đang cầm kính lúp săm soi kinh ngạc.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene01", "at": "Một loài côn trùng có",
+   "layout": "Biểu đồ sinh tồn siêu đẳng: Chú gián đang cười khẩy bước qua đám lửa và tia phóng xạ hạt nhân; đồng hồ đo tốc độ chỉ vọt lên 1.5 mét mỗi giây; {NO_HERO}.",
+   "stickers": [{"at": "1.5 mét", "side": "L", "y": 360, "value": "1.5 M/S", "label": "tốc độ tẩu thoát", "target": [0.25, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene01", "at": "Nhưng khi đối đầu với",
+   "layout": "Khoảnh khắc đối đầu định mệnh: Chú gián khổng lồ giơ 6 chiếc chân gai góc nhọn hoắt nhưng run rẩy toát mồ hôi hột; phía trên không trung, {HERO} lao xuống như một phi cơ tiêm kích tàng hình với chiếc kim tiêm lóe sáng.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene01", "at": "toàn bộ sức mạnh kiên",
+   "layout": "Biểu tượng sụp đổ: Chiếc khiên bảo vệ bằng chitin của loài gián bị mũi kim laser xuyên thủng, vỡ vụn thành các mảnh kính văng tung tóe; {HERO} lượn vòng đầy kiêu hãnh.",
+   "stickers": [], "impacts": []
+  },
+
+  # ==================== SCENE 02 (11 beats) ====================
+  {
+   "scene": "scene02", "at": 0,
+   "layout": "Bàn mổ xẻ vụ án số 1: Sơ đồ tương quan lực lượng; BÊN TRÁI {HERO} nhỏ nhắn như hạt đậu; BÊN PHẢI {COCKROACH} to đùng như chiếc xe bọc thép nặng gấp 6 lần.",
+   "stickers": [{"at": "6 lần", "side": "R", "y": 360, "value": "GẤP 6 LẦN", "label": "thể trọng nạn nhân", "target": [0.75, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Gián sở hữu hệ thống",
+   "layout": "Cận cảnh lông cảm biến đuôi gián: Sóng âm dao động không khí phát sáng radar quanh hai chiếc râu đuôi cerci; {COCKROACH} vểnh tai sẵn sàng phóng đi như tên bắn; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Nếu lao vào một cuộc",
+   "layout": "Sàn đấu võ đài côn trùng: Con gián tung chân sau to khỏe đá văng một cành cây gãy đôi; cát bụi bay mù mịt; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Đây chính là điểm khởi",
+   "layout": "Chiến thuật phục kích tàng hình: {HERO} ẩn mình trên kẽ lá cây, đôi mắt qua kính lúp vi phẫu lấp lánh tính toán góc rơi và tọa độ tiếp đất hoàn hảo.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Gã phục kích từ trên",
+   "layout": "Pha không kích ngoạn mục: {HERO} lao vút xuống cắm phập cặp hàm thép sắc lẹm vào lưng gián, khóa chặt điểm mù sau gáy khiến nạn nhân không thể hất văng.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Ngay trong tích tắc đối",
+   "layout": "Đòn châm kim sấm sét: Đuôi của {HERO} uốn cong chữ C, chiếc kim tiêm bạc đâm phập chính xác vào đốt ngực trước của {COCKROACH}; luồng độc tố xanh lam bốc khói lan tỏa.",
+   "stickers": [], "impacts": ["phát 1"]
+  },
+  {
+   "scene": "scene02", "at": "Độc tố của phát 1",
+   "layout": "Sơ đồ giải phẫu hóa sinh: Độc tố chứa GABA khóa chặt các kênh dẫn truyền thần kinh vận động; hai chiếc chân trước của {COCKROACH} rũ rượi xụi lơ; đồng hồ cát đếm ngược 2-3 phút.",
+   "stickers": [{"at": "2-3 phút", "side": "L", "y": 360, "value": "2-3 PHÚT", "label": "liệt chân trước", "target": [0.25, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Con gián dù vẫn còn",
+   "layout": "Tình trạng bất động dở khóc dở cười: {COCKROACH} mắt tròn xoe kinh ngạc, hai chân trước mềm như cọng bún không thể chống đất, toàn thân đổ sụp về phía trước bất lực.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Nhóm nghiên cứu của giáo",
+   "layout": "Phòng nghiên cứu sinh học đại học: Màn hình máy quay siêu chậm 1.000 khung hình/giây ghi lại khoảnh khắc gián tung cú đá hậu karate nhưng hụt trong gang tấc.",
+   "stickers": [{"at": "1.000", "side": "R", "y": 360, "value": "1.000 FPS", "label": "máy quay siêu chậm", "target": [0.75, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Gã lượn vòng từ góc",
+   "layout": "Khóa khớp gọng kìm: {HERO} dùng chân bám chặt mép khiên ngực của gián như tay đua cưỡi bò tót; gián giãy giụa vô vọng không thể chạm tới đối thủ.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Cú châm kim số một",
+   "layout": "Đồng hồ bấm giờ nửa giây: Chiếc kim tiêm rút ra trong 0.5s; mũi tiêm để lại một chấm sáng màu xanh ngọc bích trên ngực gián; cánh cửa sổ thoát hiểm của gián chính thức sập lại.",
+   "stickers": [], "impacts": []
+  },
+
+  # ==================== SCENE 03 (11 beats) ====================
+  {
+   "scene": "scene03", "at": 0,
+   "layout": "Phòng mổ thần kinh tương lai: Màn hình quét sóng não điện não đồ EEG hiển thị hộp sọ gián; {HERO} đeo găng tay phẫu thuật đứng trước đầu con gián bất động.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Gã dùng hàm giữ chặt",
+   "layout": "Khoảnh khắc mở đường luồn kim: {HERO} giữ chặt mép cổ gián, chiếc kim tiêm siêu nhỏ luồn nhẹ qua lớp màng cổ mềm mại; ánh sáng quét laser dẫn hướng.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Các nghiên cứu của giáo",
+   "layout": "Đầu kim tiêm định vị GPS: Phóng to cực đại đầu ngòi châm của {HERO}; hàng trăm thụ thể cảm giác li ti phát sáng như ăng-ten radar tìm đường đi qua các khe hở mô não; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Mũi kim vi phẫu luồn",
+   "layout": "Bản đồ hạch não gián: Mũi kim chạm trúng hạch não dưới thực quản sub-esophageal ganglion; điểm tiếp xúc phát nổ tia sáng vàng kim rực rỡ; {NO_HERO}.",
+   "stickers": [], "impacts": ["hạch não"]
+  },
+  {
+   "scene": "scene03", "at": "Tại đây, gã bơm vào",
+   "layout": "Cocktail hóa chất thần kinh: Bình thuốc tiêm phát sáng chứa phân tử dopamine và chất chẹn octopamine tuôn trào vào synap thần kinh não gián.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Nhưng thụ thể octopamine chính",
+   "layout": "Công tắc ý chí bị dập tắt: Bức tranh ẩn dụ chiếc cầu dao điện dán nhãn Ý CHÍ SINH TỒN bị một ngón tay gạt phắt xuống vị trí TẮT; bóng tối bao trùm đôi mắt gián; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Nếu bạn thả con gián",
+   "layout": "Thí nghiệm đối chứng kỳ lạ: BÊN TRÁI gián rơi xuống xô nước vẫn bơi nổi như thường; BÊN PHẢI gián trên cạn đứng trơ như khúc gỗ mắt nhìn vô định; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Một xác sống Zombie thực",
+   "layout": "Chân dung gián Zombie: {COCKROACH} hai mắt biến thành hình xoắn ốc thôi miên, khóe miệng chảy dãi ngây ngô; {HERO} đứng bên cạnh khoanh tay mỉm cười đắc thắng.",
+   "stickers": [], "impacts": ["xác sống Zombie"]
+  },
+  {
+   "scene": "scene03", "at": "Điều kỳ dị hơn nữa",
+   "layout": "Cơn cuồng chải chuốt: {COCKROACH} đứng yên một chỗ, hai chân liên tục chùi mặt, vuốt râu, chải lông suốt 30 phút như bị ám ảnh cưỡng chế; đồng hồ cát quay tít.",
+   "stickers": [{"at": "30 phút", "side": "L", "y": 360, "value": "30 PHÚT", "label": "chải chuốt vô thức", "target": [0.25, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Trong lúc nạn nhân đang",
+   "layout": "Thảnh thơi chuẩn bị hầm ngục: {HERO} bay lượn trên đám rễ cây mục, dùng chân bới đất đào một chiếc hang ngầm nhỏ, miệng huýt sáo thảnh thơi.",
+   "stickers": [], "impacts": []
+  },
+
+  # ==================== SCENE 04 (10 beats) ====================
+  {
+   "scene": "scene04", "at": 0,
+   "layout": "Hiện trường sau ca mổ: {COCKROACH} hai chân trước đã hết thuốc tê, đứng dậy cử động bình thường nhưng ánh mắt đờ đẫn hoàn toàn; {HERO} bay lượn xung quanh đánh giá con mồi.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "lúc này tiến hành bước",
+   "layout": "Bài toán vận tải nan giải: Chiếc cân đòn bẩy cho thấy gián nặng gấp 6 lần ong; {HERO} giơ một ngón tay lên trán mỉm cười lóe sáng ý tưởng thiên tài.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Thay vì tốn sức kéo",
+   "layout": "Màn cắt tỉa ăng-ten: {HERO} dùng cặp hàm kẹp đôi như chiếc kéo thợ may cắt phăng một nửa chiều dài hai sợi râu của {COCKROACH}; hai đoạn râu thừa rơi xuống đất.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Gã ghé miệng vào vết",
+   "layout": "Thưởng thức ly cocktail năng lượng: {HERO} ghé miệng uống giọt dịch hemolymph trong suốt rỉ ra từ cuống râu gián; biểu cảm khoan khoái nạp đầy pin năng lượng.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Sau đó, gã ngậm chặt",
+   "layout": "Màn dắt thú cưng đi dạo: {HERO} ngậm chặt gốc râu gián, hai tay cầm như cầm dây cương ngựa; {COCKROACH} to xác lững thững bước theo sau như chú cún cưng vâng lời.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Gã lùi từng bước về",
+   "layout": "Đoàn diễu hành qua rừng lá khô: {HERO} đi lùi từng bước dẫn đường; {COCKROACH} nhấc từng chiếc chân dài cẩn thận theo sau, không hề chống cự hay rẽ ngang.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Nạn nhân thong thả bước",
+   "layout": "Lối vào hầm mộ ngầm: {COCKROACH} ngoan ngoãn cúi đầu chui lọt qua miệng hang đất hẹp; {HERO} đứng trên mép hang gật đầu tán thưởng.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Nhà tự nhiên học Francis",
+   "layout": "Ghi chép lịch sử năm 1942: Cuốn sổ tay thám hiểm Hawaii với bức tranh vẽ mực tả thực cảnh chú ong ngọc bích dắt con gián khổng lồ đi dạo trên đảo nhiệt đới.",
+   "stickers": [{"at": "năm 1942", "side": "L", "y": 360, "value": "NĂM 1942", "label": "ghi nhận tại Hawaii", "target": [0.25, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Con gián bước đi thảnh",
+   "layout": "Khoảnh khắc siêu thực: {COCKROACH} dừng chân chờ {HERO} leo qua một hòn sỏi cản đường, rồi cả hai lại tiếp tục thong thả cùng nhau đi xuống hang.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Toàn bộ hệ thống cơ",
+   "layout": "Cắt lớp buồng giam dưới lòng đất: {COCKROACH} ngồi im lìm trong góc tối của căn hầm ngầm, cơ bắp lành lặn nhưng đôi mắt hoàn toàn trống rỗng không hồn.",
+   "stickers": [{"at": "100%", "side": "R", "y": 360, "value": "100%", "label": "cơ bắp bình thường", "target": [0.75, 0.5]}], "impacts": []
+  },
+
+  # ==================== SCENE 05 (11 beats) ====================
+  {
+   "scene": "scene05", "at": 0,
+   "layout": "Căn hầm mộ sinh học: {COCKROACH} đứng im giữa lòng hang tối; {HERO} đang cẩn thận gắn một vật thể nhỏ li ti màu trắng lên chân gián; ánh sáng lân tinh soi rọi.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene05", "at": "Gã đẻ cẩn thận đúng",
+   "layout": "Quả trứng định mệnh: Cận cảnh một quả trứng ong nhỏ thuôn dài dán dính chắc chắn vào gốc chân giữa của {COCKROACH}; quả trứng phát sáng mờ ảo.",
+   "stickers": [{"at": "1 quả trứng", "side": "R", "y": 360, "value": "1 TRỨNG", "label": "dán vào chân gián", "target": [0.75, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene05", "at": "Sau đó, ong mẹ chui",
+   "layout": "Niêm phong cửa hầm: {HERO} tha từng viên sỏi nhỏ, mẩu lá cây vụn đắp kín miệng hang thành một bức tường đá kiên cố; không một sinh vật nào nhận ra lối vào.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene05", "at": "Sau 2-3 ngày, quả",
+   "layout": "Ấu trùng chào đời: Quả trứng nứt vỏ, một chú ấu trùng sâu trắng ngọ nguậy thò đầu ra, dùng miệng cắn thủng lớp vỏ mềm chân gián để hút dịch; {NO_HERO}.",
+   "stickers": [{"at": "2-3 ngày", "side": "L", "y": 360, "value": "2-3 NGÀY", "label": "trứng nở ấu trùng", "target": [0.25, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene05", "at": "Khi lớn hơn, nó chui",
+   "layout": "Xâm nhập cơ thể: Ấu trùng chui tọt qua lỗ thủng vào bên trong ổ bụng của {COCKROACH}; con gián vẫn đứng im thở đều đặn như không hề hay biết; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene05", "at": "Hãy lắng nghe nguyên tắc",
+   "layout": "Nguy cơ thối rữa phân hủy: Chiếc đồng hồ 24 giờ đếm ngược biểu thị cái chết; nếu tim gián ngừng đập, vi khuẩn phân hủy sẽ đầu độc cả căn hầm; {NO_HERO}.",
+   "stickers": [{"at": "24 giờ", "side": "R", "y": 360, "value": "24 GIỜ", "label": "nguy cơ thối rữa", "target": [0.75, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene05", "at": "Do đó, ấu trùng ong",
+   "layout": "Sơ đồ ẩm thực chọn lọc: Ấu trùng gặm nhấm các mô mỡ thừa phát sáng xanh lục, né tránh hoàn toàn trái tim màu đỏ đang đập thình thịch và hệ dây thần kinh; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene05", "at": "Con gián vẫn sống, tim",
+   "layout": "Tủ lạnh thịt tươi sống 10 ngày: Biểu tượng chiếc tủ lạnh sinh học bảo quản thực phẩm hoàn hảo suốt 8-10 ngày; nhịp tim gián hiển thị đều đặn trên màn hình theo dõi; {NO_HERO}.",
+   "stickers": [{"at": "8-10 ngày", "side": "L", "y": 360, "value": "8-10 NGÀY", "label": "thịt tươi sống", "target": [0.25, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene05", "at": "Cho đến khi ăn sạch",
+   "layout": "Chiếc kén nhộng bên trong vỏ gián: Ấu trùng đan một chiếc kén tơ nâu óng ánh chiếm trọn bên trong cái xác khô rỗng của gián; lớp vỏ gián bảo vệ kén khỏi kẻ thù; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene05", "at": "Chưa dừng lại ở đó,",
+   "layout": "Phòng mổ vô khuẩn ngầm: Các phân tử kháng sinh từ nước bọt ấu trùng phát sáng xanh neon quét sạch mọi bào tử nấm mốc và vi khuẩn trong khoang bụng gián; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene05", "at": "Một quy trình bảo quản",
+   "layout": "Sự tái sinh rực rỡ: Chiếc kén nứt ra, một chú ong bắp cày ngọc mới toanh với đôi cánh xanh biếc ánh kim chui ra khỏi xác gián, đục thủng lớp đất đá bay lên trời xanh.",
+   "stickers": [], "impacts": []
+  },
+
+  # ==================== SCENE 06 (7 beats) ====================
+  {
+   "scene": "scene06", "at": 0,
+   "layout": "Bản án kết luận phiên tòa: Búa thẩm phán gõ vang trên bục gỗ; {JUDGE} tuyên án công nhận Ong Bắp Cày Ngọc là một kỳ tích vi phẫu tiến hóa; {HERO} đứng kiêu hãnh nhận bản tuyên dương.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene06", "at": "Nhưng dưới góc nhìn của",
+   "layout": "Bức tranh triết lý sinh thái học: Mạng lưới tiến hóa tự nhiên liên kết vạn vật; cán cân sinh tồn cân bằng giữa kẻ săn mồi tí hon và con mồi khổng lồ; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene06", "at": "Bác sĩ phẫu thuật thần",
+   "layout": "Hình tượng vinh danh trí tuệ: {HERO} đứng trên đỉnh bục vinh quang, giơ cao ngòi kim vi phẫu lấp lánh như ngọn đuốc tri thức; biểu trưng cho sức mạnh của sự chính xác tuyệt đối.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene06", "at": "Nếu trong cuộc sống bạn",
+   "layout": "Bài học truyền cảm hứng cuộc sống: Hình ảnh một bạn nhỏ hoạt hình tự tin đối đầu với một tảng đá chướng ngại vật khổng lồ bằng một chiếc đòn bẩy nhỏ xíu; ánh mặt trời rạng rỡ phía sau.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene06", "at": "Nếu được sở hữu một",
+   "layout": "Tương tác khán giả: {HERO} cùng {JUDGE} đứng hai bên chiếc bảng câu hỏi nhấp nháy dòng chữ Áo ngọc bích hay Thao túng tâm trí?, cùng chỉ tay mời khán giả bình luận.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene06", "at": "Còn bây giờ, hãy chuẩn",
+   "layout": "Cận cảnh hình bóng teaser tập 44 (TASTE-68): Giữa đại dương bao la, bóng đen một con cá khổng lồ tròn xoe 2 tấn cụt ngủn như chỉ có cái đầu nổi lềnh bềnh trên mặt nước, gắn dấu hỏi '?' lớn màu vàng.",
+   "stickers": [{"at": "2 tấn", "side": "R", "y": 360, "value": "2 TẤN", "label": "gã khổng lồ vô tri", "target": [0.75, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene06", "at": "Bạn có biết gã khổng",
+   "layout": "Poster đóng dấu hồ sơ 44: Chữ TẬP 44 phát sáng vàng rực trên nền biển xanh; bóng đen gã khổng lồ vô tri đang phơi nắng ngắm trời; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Cận cảnh mở đầu: {HERO_S} cầm chiếc kim tiêm siêu nhỏ phát sáng laser nháy mắt tinh quái nhìn thẳng vào người xem; phía sau là bóng đen con gián to gấp sáu lần.",
+   "stickers": []
+  },
+  {
+   "at": "Đây là Ong Bắp Cày",
+   "layout": "{HERO_S} bay lượn kiêu hãnh với lớp vỏ ngọc bích xanh biếc ánh kim lấp lánh; chữ BÁC SĨ PHẪU THUẬT THẦN KINH nổi bật.",
+   "stickers": []
+  },
+  {
+   "at": "Thay vì giết con mồi,",
+   "layout": "Pha không kích: {HERO_S} khóa chặt lưng {COCKROACH}, ngòi kim uốn cong đâm phập vào ngực gián; hai chân trước của gián xụi lơ tức thì.",
+   "stickers": [{"at": "phát 1", "side": "R", "y": 620, "value": "PHÁT 1", "label": "liệt chân trước", "target": [0.5, 0.4]}]
+  },
+  {
+   "at": "Sau đó, gã chọc mũi",
+   "layout": "Vi phẫu sọ não: Mũi kim xuyên qua cổ gián chạm đúng hạch não dưới thực quản; độc tố phát sáng khóa chặt công tắc sợ hãi.",
+   "stickers": [{"at": "hạch não", "side": "R", "y": 620, "value": "VI PHẪU", "label": "hạch não gián", "target": [0.5, 0.4]}]
+  },
+  {
+   "at": "Hậu quả là con gián",
+   "layout": "{COCKROACH} mắt xoắn ốc thôi miên biến thành Zombie đờ đẫn; cơ bắp vẫn lành lặn nhưng mất sạch 100% ý chí chạy trốn.",
+   "stickers": [{"at": "100%", "side": "L", "y": 620, "value": "100%", "label": "mất ý chí", "target": [0.5, 0.4]}]
+  },
+  {
+   "at": "Ong chỉ việc cắn bớt",
+   "layout": "Màn dắt thú cưng siêu thực: {HERO_S} dùng hàm ngậm chặt gốc râu gián, dắt con gián to xác đi theo như dắt cún cưng.",
+   "stickers": []
+  },
+  {
+   "at": "dắt con gián tự bước",
+   "layout": "{COCKROACH} tự giác bước từng bước chân vào cửa hang ngầm tối om dưới rễ cây mục.",
+   "stickers": []
+  },
+  {
+   "at": "Một kỳ tích vi phẫu",
+   "layout": "Hình ảnh kết thúc: {HERO_S} đứng oai phong trên miệng hang đã niêm phong bằng đá, giơ ngón tay cái cười rạng rỡ chào tạm biệt khán giả.",
+   "stickers": []
+  }
+ ]
+}
+
+with open('projects/tap-43-ong-bap-cay-ngoc/specs/storyboard.json', 'w', encoding='utf-8') as f:
+    json.dump(sb43, f, ensure_ascii=False, indent=1)
+
+print("Storyboard Episode 43 generated successfully!")

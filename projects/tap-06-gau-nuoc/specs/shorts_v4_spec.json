@@ -1,0 +1,110 @@
+{
+  "episode": "tap-06-gau-nuoc",
+  "title_lines": ["KẺ BẤT TỬ CHẾT LÃNG XẸT", "VÌ... ỐC SÊN!"],
+  "voice": "audio/shorts_v3_perfect.wav",
+  "words": "audio/shorts_v3_exact_words.json",
+  "voice_end_s": 52.62,
+  "outro_buffer_s": 1.5,
+  "bgm": "assets/bgm/calm-acoustic.wav",
+  "output": "renders/shorts_ep06_v4_premium.mp4",
+  "image_box": [560, 835],
+  "preview_times": [0.3, 1.5, 1.75, 2.0, 7.1, 10.7, 13.9, 19.6, 24.3, 31.3, 34.8, 38.9, 44.0, 48.9, 50.9, 53.5],
+  "beats": [
+    {
+      "id": "b1_hook", "start_s": 0.0, "draw_s": 1.3, "start_progress": 0.4,
+      "image": "assets/gemini_downloaded_shorts/shorts01_superhero_space_radiation.png",
+      "stickers": [
+        {"t": 6.8, "side": "L", "value": "5 LẦN", "label": "đại tuyệt chủng"}
+      ],
+      "captions": [
+        {"t": 0.0, "text": "Chỉ một con"}, {"t": 0.46, "text": "ốc sên nhỏ bé"},
+        {"t": 1.76, "text": "cũng đủ hạ gục"}, {"t": 2.42, "text": "kẻ bất tử này"},
+        {"t": 3.16, "text": "ngay lập tức!"}, {"t": 4.44, "text": "Dù đây là"},
+        {"t": 4.9, "text": "sinh vật duy nhất"}, {"t": 5.54, "text": "trên Trái Đất"},
+        {"t": 6.04, "text": "sống sót qua"}, {"t": 6.62, "text": "cả 5 cuộc"},
+        {"t": 7.22, "text": "đại tuyệt chủng"}, {"t": 7.88, "text": "từng xóa sổ"},
+        {"t": 8.52, "text": "loài khủng long!"}
+      ]
+    },
+    {
+      "id": "b2_extremes", "start_s": 9.65, "draw_s": 1.8,
+      "image": "assets/gemini_downloaded_shorts/shorts02_temperature_extreme_scale.png",
+      "stickers": [
+        {"t": 10.38, "side": "L", "value": "0,5 mm", "label": "nhỏ như dấu chấm"},
+        {"t": 13.42, "side": "R", "value": "-272°C", "label": "lạnh gần độ 0 tuyệt đối"},
+        {"t": 15.9, "side": "R", "value": "150°C", "label": "nước sôi"},
+        {"t": 19.08, "side": "L", "value": "10 NGÀY", "label": "ngoài vũ trụ"}
+      ],
+      "captions": [
+        {"t": 9.78, "text": "Chỉ dài nửa"}, {"t": 10.38, "text": "mi-li-mét"},
+        {"t": 10.82, "text": "bằng 1 dấu chấm câu"}, {"t": 12.3, "text": "nhưng Gấu Nước"},
+        {"t": 13.02, "text": "chịu được cái lạnh"}, {"t": 13.42, "text": "âm 272 độ C"},
+        {"t": 15.52, "text": "nước sôi 150 độ"}, {"t": 16.64, "text": "và từng bị ném"},
+        {"t": 17.6, "text": "trần trụi ra ngoài"}, {"t": 18.46, "text": "vũ trụ suốt"},
+        {"t": 19.08, "text": "10 ngày mà vẫn"}, {"t": 20.14, "text": "về Trái Đất"},
+        {"t": 20.7, "text": "đẻ con bình thường!"}
+      ]
+    },
+    {
+      "id": "b3_tun", "start_s": 22.1, "draw_s": 1.8,
+      "image": "assets/gemini_downloaded_shorts/shorts03_tun_state_glass_hibernation.png",
+      "stickers": [
+        {"t": 23.4, "side": "L", "value": "99%", "label": "nước bị rút ra"},
+        {"t": 30.92, "side": "R", "value": "30 NĂM", "label": "vẫn sống dậy"}
+      ],
+      "captions": [
+        {"t": 22.24, "text": "Bí mật nằm ở"}, {"t": 22.8, "text": "tuyệt kỹ rút"},
+        {"t": 23.4, "text": "99% nước"}, {"t": 24.52, "text": "khỏi cơ thể,"},
+        {"t": 25.66, "text": "tiết chất đạm"}, {"t": 26.2, "text": "biến nội tạng thành"},
+        {"t": 26.88, "text": "một khối thủy tinh"}, {"t": 27.6, "text": "bất hoại!"},
+        {"t": 28.06, "text": "Chỉ cần nhỏ"}, {"t": 29.1, "text": "một giọt nước,"},
+        {"t": 29.9, "text": "nó lập tức sống dậy"}, {"t": 30.76, "text": "sau 30 năm"},
+        {"t": 31.44, "text": "đóng băng!"}
+      ]
+    },
+    {
+      "id": "b4_snail", "start_s": 32.3, "draw_s": 1.8,
+      "image": "assets/gemini_downloaded_shorts/shorts04_snail_slime_choke_trap.png",
+      "impacts": [38.46],
+      "stickers": [
+        {"t": 34.42, "side": "L", "value": "VÀI GIỜ", "label": "để hóa thủy tinh"},
+        {"t": 38.46, "side": "R", "value": "NUỐT GỌN!", "label": "không kịp trở tay"}
+      ],
+      "captions": [
+        {"t": 32.42, "text": "Thế nhưng,"}, {"t": 33.1, "text": "vì quá trình"},
+        {"t": 33.5, "text": "hóa thủy tinh"}, {"t": 34.1, "text": "mất tới vài tiếng"},
+        {"t": 34.76, "text": "đồng hồ chuẩn bị,"}, {"t": 36.14, "text": "nên khi một con"},
+        {"t": 36.66, "text": "ốc sên bất ngờ"}, {"t": 37.5, "text": "bò qua đám rêu"},
+        {"t": 38.26, "text": "và nuốt gọn,"}, {"t": 39.28, "text": "vị thần bất tử này"},
+        {"t": 40.08, "text": "hoàn toàn không kịp"}, {"t": 40.98, "text": "biến hình!"}
+      ]
+    },
+    {
+      "id": "b5_moon", "start_s": 41.95, "draw_s": 1.6,
+      "image": "assets/gemini_downloaded_shorts/shorts05_moon_crash_sleeping_bears.png",
+      "stickers": [
+        {"t": 42.56, "side": "L", "value": "HÀNG NGÀN", "label": "Gấu Nước"},
+        {"t": 43.88, "side": "R", "value": "MẶT TRĂNG", "label": "vẫn đang nằm ngủ"}
+      ],
+      "captions": [
+        {"t": 42.1, "text": "Bí ẩn về"}, {"t": 42.56, "text": "hàng ngàn chú"},
+        {"t": 43.12, "text": "Gấu Nước đang nằm"}, {"t": 43.88, "text": "trên Mặt Trăng"},
+        {"t": 44.42, "text": "đã có ở"}, {"t": 45.24, "text": "video dài"},
+        {"t": 45.9, "text": "bên dưới kênh."}
+      ]
+    },
+    {
+      "id": "b6_cta", "start_s": 47.0, "draw_s": 1.6,
+      "image": "assets/gemini_downloaded_shorts/shorts06_channel_funnel_cta_mascot.png",
+      "stickers": [
+        {"t": 49.3, "side": "L", "value": "1 CON", "label": "ốc sên là đủ"}
+      ],
+      "captions": [
+        {"t": 47.14, "text": "Dù bất tử"}, {"t": 47.72, "text": "ngoài vũ trụ,"},
+        {"t": 48.68, "text": "nhưng trước"}, {"t": 49.0, "text": "một con ốc sên,"},
+        {"t": 49.78, "text": "nó vẫn sẽ"}, {"t": 50.44, "text": "tiêu đời"},
+        {"t": 50.86, "text": "ngay lập tức!"}, {"t": 51.86, "text": "Bấm xem ngay nhé!"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "scene_id": "scene06",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 3,
+  "world_width": 2042,
+  "world_height": 1040,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 60,
+  "duration_ms": 64297,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-02-rai-ca-bien/assets/scenes_composed/scene06_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      326,
+      9,
+      954,
+      52
+    ],
+    "x": 338,
+    "y": 13,
+    "w": 604,
+    "h": 37,
+    "text": "BÀI HỌC ĐẠI DƯƠNG & BẬT MÍ TẬP 3: BỘ MẶT CÁ HEO",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-02-rai-ca-bien/assets/scenes_composed/scene06_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 24702,
+      "has_frame": false,
+      "pill_box": [
+        548,
+        60,
+        761,
+        101
+      ],
+      "art_only_box": [
+        338,
+        96,
+        967,
+        449
+      ],
+      "caption": {
+        "text": "Cán cân tự nhiên: Chiếc bụng đói của Rái Cá Biển giữ lá phổi xanh cho đại dương",
+        "x": 358,
+        "y": 449,
+        "w": 589,
+        "h": 27,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        336,
+        60,
+        969,
+        478
+      ],
+      "img_region": {
+        "x": 338,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 24702,
+      "end_ms": 42987,
+      "has_frame": false,
+      "pill_box": [
+        1277,
+        60,
+        1501,
+        100
+      ],
+      "art_only_box": [
+        1073,
+        96,
+        1702,
+        449
+      ],
+      "caption": {
+        "text": "Ngoài khơi xa: Loài Cá Heo có nụ cười thiên thần thân thiện trên phim hoạt hình",
+        "x": 1079,
+        "y": 449,
+        "w": 617,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1071,
+        60,
+        1704,
+        480
+      ],
+      "img_region": {
+        "x": 1073,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 42987,
+      "end_ms": 62797,
+      "has_frame": false,
+      "pill_box": [
+        905,
+        550,
+        1140,
+        588
+      ],
+      "art_only_box": [
+        706,
+        586,
+        1335,
+        939
+      ],
+      "caption": {
+        "text": "Bật mí Tập 3: Băng đảng Cá Heo bắt nạt cá mập & đánh bóng chuyền bằng Cá Nóc!",
+        "x": 726,
+        "y": 939,
+        "w": 589,
+        "h": 28,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        704,
+        550,
+        1337,
+        969
+      ],
+      "img_region": {
+        "x": 706,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 336.0,
+    "y_min": 60.0,
+    "x_max": 1704.0,
+    "y_max": 969.0,
+    "bbox_w": 1368.0,
+    "bbox_h": 909.0,
+    "center_x": 1020.0,
+    "center_y": 514.5,
+    "zoom_out_scale": 0.6527,
+    "crop_w": 1961.2,
+    "crop_h": 999.0
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 652.5,
+      "cy": 269.0,
+      "crop_w": 938.4,
+      "crop_h": 478.0,
+      "zoom_relative": 2.09,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 24082.0,
+      "cx": 652.5,
+      "cy": 269.0,
+      "crop_w": 938.4,
+      "crop_h": 478.0,
+      "zoom_relative": 2.09,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 24702.0,
+      "cx": 1387.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.08,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 42367.0,
+      "cx": 1387.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.08,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 42987.0,
+      "cx": 1020.5,
+      "cy": 759.5,
+      "crop_w": 940.4,
+      "crop_h": 479.0,
+      "zoom_relative": 2.09,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 62797.0,
+      "cx": 1020.5,
+      "cy": 759.5,
+      "crop_w": 940.4,
+      "crop_h": 479.0,
+      "zoom_relative": 2.09,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 63297.0,
+      "cx": 1020.0,
+      "cy": 514.5,
+      "crop_w": 1961.2,
+      "crop_h": 999.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 64297.0,
+      "cx": 1020.0,
+      "cy": 514.5,
+      "crop_w": 1961.2,
+      "crop_h": 999.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

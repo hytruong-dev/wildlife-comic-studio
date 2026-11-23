@@ -1,0 +1,808 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "BỊ CÁO SIÊU TRỘM 10 GIÂY",
+   "hook": "PHIÊN TÒA HÌNH SỰ XÉT XỬ CHIM TU HÚ",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tiếng búa gõ vang",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trên cành cây cổ",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trật tự phiên tòa",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kính thưa quý tòa",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vâng, đó chính là",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bị cáo trông bề",
+     "image": "assets/long/L07.png",
+     "stickers": [
+      {
+       "at": "Siêu Trộm Tổ Ấm",
+       "side": "R",
+       "y": 380,
+       "value": "LỪA ĐẢO",
+       "label": "TIỀN ÁN ĐẦY MÌNH",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Không xây tổ, không",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hôm nay, công tố",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "bốn bằng chứng",
+       "side": "R",
+       "y": 420,
+       "value": "4 TỘI",
+       "label": "BẰNG CHỨNG THÉP",
+       "target": [
+        0.72,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đột nhập đẻ trộm",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Liệu một kẻ mang",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VỤ ÁN TỔ ẤM"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "VỤ CƯỚP TRỨNG THẦN TỐC TRONG 10 GIÂY",
+   "hook": "ĐỘT NHẬP VÀ ĐẺ TRỘM TRỨNG THẦN TỐC",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "10 giây",
+       "side": "R",
+       "y": 380,
+       "value": "10 GIÂY",
+       "label": "ĐẺ TRỨNG KỶ LỤC",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thông thường, một cô",
+     "image": "assets/long/L12.png",
+     "stickers": [
+      {
+       "at": "20 phút",
+       "side": "L",
+       "y": 400,
+       "value": "20-30 PHÚT",
+       "label": "CHIM BÌNH THƯỜNG",
+       "target": [
+        0.28,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Để thực hiện phi",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chim Tu Hú bố",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và ngay khi chim",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bấm đồng hồ: 1",
+     "image": "assets/long/L16.png",
+     "stickers": [
+      {
+       "at": "1 giây",
+       "side": "L",
+       "y": 360,
+       "value": "GIÂY THỨ 1",
+       "label": "ĐÁP XUỐNG TỔ",
+       "target": [
+        0.25,
+        0.42
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "2 giây cúi xuống",
+     "image": "assets/long/L17.png",
+     "stickers": [
+      {
+       "at": "2 giây",
+       "side": "L",
+       "y": 360,
+       "value": "GIÂY THỨ 2",
+       "label": "CƯỚP TRỨNG CHỦ",
+       "target": [
+        0.25,
+        0.42
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "3 giây ép sát",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "3 giây",
+       "side": "L",
+       "y": 360,
+       "value": "GIÂY THỨ 3",
+       "label": "ĐẺ TRỨNG THAY THẾ",
+       "target": [
+        0.25,
+        0.42
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "5 giây tiếp theo:",
+     "image": "assets/long/L19.png",
+     "stickers": [
+      {
+       "at": "10 giây",
+       "side": "R",
+       "y": 390,
+       "value": "10 GIÂY",
+       "label": "CHỚP NHOÁNG HOÀN TẤT",
+       "target": [
+        0.75,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng tại sao chim",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây chính là đỉnh",
+     "image": "assets/long/L21.png",
+     "stickers": [
+      {
+       "at": "99%",
+       "side": "R",
+       "y": 380,
+       "value": "GIỐNG 99%",
+       "label": "NGỤY TRANG HOÀN HẢO",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nếu gửi mẫu trứng",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa dừng lại ở",
+     "image": "assets/long/L22.png",
+     "stickers": [
+      {
+       "at": "gấp 2 lần",
+       "side": "R",
+       "y": 420,
+       "value": "DÀY GẤP 2",
+       "label": "VỎ CỨNG NHƯ ĐÁ",
+       "target": [
+        0.7,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Một là để khi",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #1"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "SÁT THỦ SƠ SINH VÀ CHIẾC LƯNG LÕM TỬ THẦN",
+   "hook": "BẢN NĂNG SÁT THỦ NGAY KHI VỪA NỞ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trứng của Tu Hú",
+     "image": "assets/long/L24.png",
+     "stickers": [
+      {
+       "at": "24 giờ",
+       "side": "L",
+       "y": 380,
+       "value": "NỞ SỚM",
+       "label": "ĐẶC QUYỀN TIẾN HÓA",
+       "target": [
+        0.28,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi chui ra khỏi",
+     "image": "assets/long/L25.png",
+     "stickers": [
+      {
+       "at": "2g",
+       "side": "R",
+       "y": 420,
+       "value": "NẶNG 2G",
+       "label": "ĐỎ HỎN KHÔNG LÔNG",
+       "target": [
+        0.72,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trên lưng của quái",
+     "image": "assets/long/L26.png",
+     "stickers": [
+      {
+       "at": "vết lõm bẩm sinh",
+       "side": "R",
+       "y": 390,
+       "value": "LƯNG LÕM",
+       "label": "VŨ KHÍ BẨM SINH",
+       "target": [
+        0.7,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chú chim non đỏ",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó bước lùi từng",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "rơi thẳng từ trên",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trời ơi",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tiếng khóc xé lòng",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "suốt 2-3 ngày",
+     "image": "assets/long/L62.png",
+     "stickers": [
+      {
+       "at": "2-3 ngày",
+       "side": "L",
+       "y": 420,
+       "value": "2-3 NGÀY",
+       "label": "HẤT SẠCH CẢ TỔ",
+       "target": [
+        0.28,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #2"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "THAO TÚNG TÂM LÝ VÀ ĐỨA CON TO GẤP 3 LẦN",
+   "hook": "THAO TÚNG BỐ MẸ NUÔI BẰNG SIÊU KÍCH THÍCH",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ sau 2 tuần",
+     "image": "assets/long/L33.png",
+     "stickers": [
+      {
+       "at": "gấp 10 lần",
+       "side": "R",
+       "y": 380,
+       "value": "LỚN GẤP 10",
+       "label": "SAU 2 TUẦN BÓN MỒI",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đến tuần thứ 3,",
+     "image": "assets/long/L34.png",
+     "stickers": [
+      {
+       "at": "gấp 3 lần",
+       "side": "R",
+       "y": 420,
+       "value": "GẤP 3 LẦN",
+       "label": "NGHỊCH LÝ CON NUÔI",
+       "target": [
+        0.72,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tôi phản đối",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà sinh học",
+     "image": "assets/long/L36.png",
+     "stickers": [
+      {
+       "at": "Siêu Kích Thích",
+       "side": "R",
+       "y": 380,
+       "value": "KÍCH THÍCH",
+       "label": "HỌNG ĐỎ THÔI MIÊN",
+       "target": [
+        0.75,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Vòm họng đỏ rực",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết, tiếng kêu",
+     "image": "assets/long/L37.png",
+     "stickers": [
+      {
+       "at": "bốn con",
+       "side": "L",
+       "y": 410,
+       "value": "BẰNG 4 CON",
+       "label": "TIẾNG GÀO THÔI MIÊN",
+       "target": [
+        0.28,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "bị tra tấn màng nhĩ",
+     "image": "assets/long/L38.png",
+     "stickers": [
+      {
+       "at": "14 tiếng",
+       "side": "L",
+       "y": 380,
+       "value": "14 TIẾNG",
+       "label": "BÓN MỒI KIỆT SỨC",
+       "target": [
+        0.25,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí chim mẹ",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #3"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "CHIẾN THUẬT MAFIA TRẢ THÙ TÀN ĐỘC",
+   "hook": "BẢO KÊ TỐNG TIỀN VÀ ĐẬP PHÁ TRẢ THÙ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhiều loài chim chủ",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2007, hai nhà",
+     "image": "assets/long/L41.png",
+     "stickers": [
+      {
+       "at": "Hoover và Robinson",
+       "side": "L",
+       "y": 400,
+       "value": "HOOVER 07",
+       "label": "NGHIÊN CỨU 2007 PNAS",
+       "target": [
+        0.28,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hóa ra, sau khi",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu chim chủ nhà",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó mổ nát toàn",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các số liệu nghiên",
+     "image": "assets/long/L43.png",
+     "stickers": [
+      {
+       "at": "56%",
+       "side": "L",
+       "y": 370,
+       "value": "56% BỊ PHÁ",
+       "label": "NẾU VỨT BỎ TRỨNG",
+       "target": [
+        0.28,
+        0.45
+       ]
+      },
+      {
+       "at": "dưới 10%",
+       "side": "R",
+       "y": 420,
+       "value": "DƯỚI 10%",
+       "label": "NẾU CHỊU ẤP HỘ",
+       "target": [
+        0.72,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đây chính là chiến",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đối mặt với họng",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #4"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "PHÁN QUYẾT CỦA TỰ NHIÊN VÀ BÓNG ĐEN BÍ ẨN TẬP 15",
+   "hook": "LỜI BÀO CHỮA BẤT NGỜ VÀ PHÁN QUYẾT TỐI CAO",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Xin các bác tòa",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong thế giới loài",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng chim Tu Hú",
+     "image": "assets/long/L48.png",
+     "stickers": [
+      {
+       "at": "Dạ dày",
+       "side": "R",
+       "y": 400,
+       "value": "DẠ DÀY",
+       "label": "ĐÀO THẢI LÔNG ĐỘC",
+       "target": [
+        0.72,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chính vì được giải",
+     "image": "assets/long/L49.png",
+     "stickers": [
+      {
+       "at": "100%",
+       "side": "L",
+       "y": 380,
+       "value": "100% DIỆT",
+       "label": "DIỆT SÂU BẢO VỆ RỪNG",
+       "target": [
+        0.28,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đồng thời, sự lừa",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tòa tuyên án: Bị",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vụ án thế kỷ",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng ngay lúc này,",
+     "image": "assets/long/L52.png",
+     "stickers": [
+      {
+       "at": "BÓNG ĐEN BÍ ẨN",
+       "side": "R",
+       "y": 360,
+       "value": "BÓNG ĐEN",
+       "label": "BẬT MÍ QUÁI KIỆT",
+       "target": [
+        0.75,
+        0.42
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Xin gửi tới quý",
+     "image": "assets/long/L53.png",
+     "stickers": [
+      {
+       "at": "Thứ nhất",
+       "side": "L",
+       "y": 390,
+       "value": "MANH MỐI 1",
+       "label": "BỘ TRƯỞNG NGOẠI GIAO",
+       "target": [
+        0.25,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thứ hai, đây là",
+     "image": "assets/long/L54.png",
+     "stickers": [
+      {
+       "at": "65kg",
+       "side": "R",
+       "y": 370,
+       "value": "65KG",
+       "label": "GẶM NHẤM KHỔNG LỒ",
+       "target": [
+        0.75,
+        0.45
+       ]
+      },
+      {
+       "at": "5 phút",
+       "side": "R",
+       "y": 470,
+       "value": "NÍN THỞ 5P",
+       "label": "BƠI LẶN SIÊU ĐẲNG",
+       "target": [
+        0.75,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và thứ 3, một",
+     "image": "assets/long/L55.png",
+     "stickers": [
+      {
+       "at": "thứ 3",
+       "side": "L",
+       "y": 400,
+       "value": "MANH MỐI 3",
+       "label": "NGHỊCH LÝ BUỔI SÁNG",
+       "target": [
+        0.25,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "có nhận ra bóng đen",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phóng viên phiên tòa",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "PHÁN QUYẾT"
+  }
+ }
+}

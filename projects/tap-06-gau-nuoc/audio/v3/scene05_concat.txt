@@ -1,0 +1,6 @@
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-06-gau-nuoc/audio/gap_leadin.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-06-gau-nuoc/audio/v3/scene05_part0.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-06-gau-nuoc/audio/gap_breathing.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-06-gau-nuoc/audio/v3/scene05_part1.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-06-gau-nuoc/audio/gap_breathing.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-06-gau-nuoc/audio/v3/scene05_part2.wav'

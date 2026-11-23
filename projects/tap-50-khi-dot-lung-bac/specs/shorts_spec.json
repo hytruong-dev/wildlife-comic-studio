@@ -1,0 +1,389 @@
+{
+ "episode": "tap-50-khi-dot-lung-bac",
+ "title_lines": [
+  "CHỈ ĂN LÁ CÂY",
+  "CƠ BẮP 800KG?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 47.98,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-50-khi-dot-lung-bac_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  4.39,
+  9.77,
+  13.53,
+  16.87,
+  21.11,
+  25.73,
+  32.37,
+  38.93,
+  42.59,
+  46.15
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.7,
+     "text": "Chỉ ăn toàn"
+    },
+    {
+     "t": 1.18,
+     "text": "lá cây rừng"
+    },
+    {
+     "t": 1.72,
+     "text": "và chồi tre"
+    },
+    {
+     "t": 2.24,
+     "text": "non xơ"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 2.59,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01b.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 2.588,
+     "text": "xác, tại sao"
+    },
+    {
+     "t": 3.54,
+     "text": "Khỉ Đột Lưng"
+    },
+    {
+     "t": 4.2,
+     "text": "Bạc lại sở"
+    },
+    {
+     "t": 5.14,
+     "text": "hữu cơ bắp"
+    },
+    {
+     "t": 5.72,
+     "text": "cuồn cuộn nâng"
+    },
+    {
+     "t": 6.58,
+     "text": "được vật nặng 800kg?!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 7.97,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 8.22,
+     "text": "Hãy nhìn Vua"
+    },
+    {
+     "t": 8.78,
+     "text": "Đấu Trường Rừng"
+    },
+    {
+     "t": 9.36,
+     "text": "Rậm nặng tới"
+    },
+    {
+     "t": 10.28,
+     "text": "200kg này xem!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 11.73,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 11.98,
+     "text": "Cơ bắp của"
+    },
+    {
+     "t": 12.42,
+     "text": "nó khỏe gấp"
+    },
+    {
+     "t": 13.04,
+     "text": "4-9 lần một"
+    },
+    {
+     "t": 14.06,
+     "text": "người đàn ông"
+    },
+    {
+     "t": 14.52,
+     "text": "lực lưỡng,"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 15.07,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03b.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 15.32,
+     "text": "với lực cắn"
+    },
+    {
+     "t": 15.84,
+     "text": "1300 PSI đơn"
+    },
+    {
+     "t": 16.8,
+     "text": "vị mạnh gấp"
+    },
+    {
+     "t": 17.38,
+     "text": "đôi cả chúa"
+    },
+    {
+     "t": 17.92,
+     "text": "sơn lâm sư"
+    },
+    {
+     "t": 18.5,
+     "text": "tử châu Phi!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 19.31,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 19.56,
+     "text": "Bí mật sức"
+    },
+    {
+     "t": 20.14,
+     "text": "mạnh không nằm"
+    },
+    {
+     "t": 20.8,
+     "text": "ở thức ăn"
+    },
+    {
+     "t": 21.16,
+     "text": "giàu đạm mà"
+    },
+    {
+     "t": 21.9,
+     "text": "ẩn giấu bên"
+    },
+    {
+     "t": 22.64,
+     "text": "trong chiếc bụng"
+    },
+    {
+     "t": 23.28,
+     "text": "bự tròn vo của"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 23.93,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 23.98,
+     "text": "nó! Bên trong"
+    },
+    {
+     "t": 25.12,
+     "text": "ruột già khổng"
+    },
+    {
+     "t": 25.8,
+     "text": "lồ chứa hàng"
+    },
+    {
+     "t": 26.4,
+     "text": "ngàn tỷ vi"
+    },
+    {
+     "t": 26.98,
+     "text": "khuẩn kỵ khí"
+    },
+    {
+     "t": 27.7,
+     "text": "lên men,"
+    },
+    {
+     "t": 28.48,
+     "text": "biến chất xơ"
+    },
+    {
+     "t": 28.98,
+     "text": "cellulose khó tiêu"
+    },
+    {
+     "t": 30.0,
+     "text": "của 20kg"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 30.57,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05b.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 30.82,
+     "text": "lá cây mỗi"
+    },
+    {
+     "t": 31.8,
+     "text": "ngày thành các"
+    },
+    {
+     "t": 32.48,
+     "text": "phân tử axit"
+    },
+    {
+     "t": 33.26,
+     "text": "béo giàu năng"
+    },
+    {
+     "t": 33.96,
+     "text": "lượng, cung cấp"
+    },
+    {
+     "t": 34.6,
+     "text": "tới 70%"
+    },
+    {
+     "t": 35.4,
+     "text": "tổng calo cho"
+    },
+    {
+     "t": 36.12,
+     "text": "toàn bộ cơ thể!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 37.13,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 37.38,
+     "text": "Khi thị uy,"
+    },
+    {
+     "t": 38.46,
+     "text": "nó đứng thẳng"
+    },
+    {
+     "t": 38.94,
+     "text": "hai chân đập"
+    },
+    {
+     "t": 39.46,
+     "text": "khum tay vào"
+    },
+    {
+     "t": 39.98,
+     "text": "ngực, tạo ra những"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 40.79,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 40.82,
+     "text": "đợt sóng âm"
+    },
+    {
+     "t": 41.36,
+     "text": "sấm sét vang"
+    },
+    {
+     "t": 42.26,
+     "text": "xa hơn một"
+    },
+    {
+     "t": 42.76,
+     "text": "cây số để"
+    },
+    {
+     "t": 43.3,
+     "text": "cảnh cáo kẻ thù!"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 44.35,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 44.6,
+     "text": "Một cỗ máy"
+    },
+    {
+     "t": 45.24,
+     "text": "cơ bắp ăn"
+    },
+    {
+     "t": 45.7,
+     "text": "chay thuần túy"
+    },
+    {
+     "t": 46.3,
+     "text": "bất khả chiến"
+    },
+    {
+     "t": 46.98,
+     "text": "bại của tạo hóa!"
+    }
+   ]
+  }
+ ]
+}

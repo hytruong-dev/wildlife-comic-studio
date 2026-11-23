@@ -1,0 +1,110 @@
+{
+ "title_lines": [
+  "BỐ GIÀ 65KG ĐẦM LẦY:",
+  "CÁ SẤU CŨNG PHẢI NỂ!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "at": "65kg",
+     "side": "L",
+     "y": 580,
+     "value": "65kg",
+     "label": "Bố Già đầm lầy",
+     "target": [
+      0.35,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Đây là Chuột Lang",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "Thứ nhất, kích thước",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "và hàm răng cửa",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "Thứ hai, lưng Capybara",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "chim rỉa bọ ve,",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "Thứ ba, gã là",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "at": "5 phút",
+     "side": "R",
+     "y": 560,
+     "value": "5 PHÚT",
+     "label": "nín thở lặn sâu",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ]
+  },
+  {
+   "at": "và bứt tốc chạy",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "at": "35km/h",
+     "side": "R",
+     "y": 620,
+     "value": "35 km/h",
+     "label": "chạy ngang chó săn",
+     "target": [
+      0.68,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Nhưng bí mật gây",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "để hấp thụ trọn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  },
+  {
+   "at": "đó chính là bí",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  }
+ ]
+}

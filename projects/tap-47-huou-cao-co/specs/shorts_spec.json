@@ -1,0 +1,417 @@
+{
+ "episode": "tap-47-huou-cao-co",
+ "title_lines": [
+  "CÚI ĐẦU 2M",
+  "NỔ NÃO KHÔNG?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 50.54,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-47-huou-cao-co_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  5.25,
+  8.97,
+  13.35,
+  17.15,
+  22.61,
+  27.09,
+  31.17,
+  37.41,
+  43.61,
+  49.21
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.78,
+     "text": "Bạn có biết"
+    },
+    {
+     "t": 1.14,
+     "text": "một con Hươu"
+    },
+    {
+     "t": 1.76,
+     "text": "Cao Cổ nặng"
+    },
+    {
+     "t": 2.42,
+     "text": "2 tấn"
+    },
+    {
+     "t": 3.3,
+     "text": "có thể"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 3.45,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01b.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 3.56,
+     "text": "bị nổ tung"
+    },
+    {
+     "t": 4.1,
+     "text": "mạch máu não"
+    },
+    {
+     "t": 4.84,
+     "text": "mỗi khi cúi"
+    },
+    {
+     "t": 5.62,
+     "text": "đầu xuống đất"
+    },
+    {
+     "t": 6.1,
+     "text": "uống nước không?!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 7.17,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 7.42,
+     "text": "Hãy nhìn chiếc"
+    },
+    {
+     "t": 8.02,
+     "text": "cổ dài 2m"
+    },
+    {
+     "t": 8.88,
+     "text": "của Tháp Cẩu"
+    },
+    {
+     "t": 9.44,
+     "text": "Di Động lừng"
+    },
+    {
+     "t": 10.18,
+     "text": "lững giữa thảo"
+    },
+    {
+     "t": 10.76,
+     "text": "nguyên này xem!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 11.55,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 11.8,
+     "text": "Để bơm máu"
+    },
+    {
+     "t": 12.36,
+     "text": "đỏ ngược chiều"
+    },
+    {
+     "t": 12.98,
+     "text": "trọng lực lên"
+    },
+    {
+     "t": 13.52,
+     "text": "độ cao 5m,"
+    },
+    {
+     "t": 14.62,
+     "text": "quả tim của"
+    },
+    {
+     "t": 15.12,
+     "text": "nó nặng"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 15.35,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03b.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 15.48,
+     "text": "tới 11kg và"
+    },
+    {
+     "t": 16.94,
+     "text": "tạo ra áp"
+    },
+    {
+     "t": 17.52,
+     "text": "lực tâm thu"
+    },
+    {
+     "t": 17.96,
+     "text": "300 mmHg,"
+    },
+    {
+     "t": 19.4,
+     "text": "gấp đôi người"
+    },
+    {
+     "t": 20.1,
+     "text": "khỏe mạnh nhất!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 20.81,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 21.06,
+     "text": "Khi nó hạ"
+    },
+    {
+     "t": 21.56,
+     "text": "đầu rơi tự"
+    },
+    {
+     "t": 22.14,
+     "text": "do ba mét"
+    },
+    {
+     "t": 22.74,
+     "text": "xuống vũng nước,"
+    },
+    {
+     "t": 23.84,
+     "text": "áp suất dồn"
+    },
+    {
+     "t": 24.38,
+     "text": "xuống não sẽ"
+    },
+    {
+     "t": 24.96,
+     "text": "tăng vọt"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 25.29,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04b.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 25.4,
+     "text": "lên 500 mmHg,"
+    },
+    {
+     "t": 27.0,
+     "text": "đủ để làm"
+    },
+    {
+     "t": 27.72,
+     "text": "vỡ toang mạch"
+    },
+    {
+     "t": 28.36,
+     "text": "máu ngay tức khắc!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 29.37,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 29.62,
+     "text": "Nhưng kỳ diệu"
+    },
+    {
+     "t": 30.2,
+     "text": "thay, dưới đáy"
+    },
+    {
+     "t": 30.86,
+     "text": "hộp sọ của"
+    },
+    {
+     "t": 31.32,
+     "text": "nó có một"
+    },
+    {
+     "t": 31.9,
+     "text": "mạng lưới mạch"
+    },
+    {
+     "t": 32.5,
+     "text": "máu xốp mang"
+    },
+    {
+     "t": 33.08,
+     "text": "tên Rete Mirabile"
+    },
+    {
+     "t": 34.38,
+     "text": "cùng chuỗi van"
+    },
+    {
+     "t": 35.18,
+     "text": "một chiều cơ"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 35.61,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 35.66,
+     "text": "học. Khi đầu"
+    },
+    {
+     "t": 36.5,
+     "text": "chúi xuống,"
+    },
+    {
+     "t": 37.42,
+     "text": "mạng lưới này"
+    },
+    {
+     "t": 38.06,
+     "text": "lập tức phình"
+    },
+    {
+     "t": 38.64,
+     "text": "to hấp thụ"
+    },
+    {
+     "t": 39.28,
+     "text": "toàn bộ xung"
+    },
+    {
+     "t": 39.94,
+     "text": "lực búa nước,"
+    },
+    {
+     "t": 40.84,
+     "text": "triệt tiêu áp"
+    },
+    {
+     "t": 41.28,
+     "text": "suất thừa!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 41.81,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 42.06,
+     "text": "Chưa hết,"
+    },
+    {
+     "t": 42.4,
+     "text": "cẳng chân của"
+    },
+    {
+     "t": 42.98,
+     "text": "nó được bọc"
+    },
+    {
+     "t": 43.48,
+     "text": "lớp da siêu"
+    },
+    {
+     "t": 44.08,
+     "text": "căng như bộ"
+    },
+    {
+     "t": 45.0,
+     "text": "đồ phi hành"
+    },
+    {
+     "t": 45.52,
+     "text": "gia NASA,"
+    },
+    {
+     "t": 46.1,
+     "text": "chống phù nề"
+    },
+    {
+     "t": 46.76,
+     "text": "tuyệt đối!"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 47.41,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 47.66,
+     "text": "Đúng là một"
+    },
+    {
+     "t": 48.1,
+     "text": "tuyệt tác cơ"
+    },
+    {
+     "t": 48.64,
+     "text": "khí thủy lực"
+    },
+    {
+     "t": 49.32,
+     "text": "đỉnh cao của"
+    },
+    {
+     "t": 49.9,
+     "text": "tạo hóa!"
+    }
+   ]
+  }
+ ]
+}

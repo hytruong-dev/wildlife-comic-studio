@@ -1,0 +1,390 @@
+{
+ "episode": "tap-29-sua-bat-tu",
+ "animal": "sứa bất tử",
+ "cores": [
+  "sứa bất"
+ ],
+ "title_check": {
+  "title": "Sinh Vật Già Yếu Tự Biến Ngược Thành Sơ Sinh Để Bất Tử?! | Tập 29",
+  "len": 65,
+  "animal_in_first_40": false
+ },
+ "tags_before": {
+  "tags": [
+   "sứa bất tử",
+   "sua bat tu",
+   "turritopsis dohrnii",
+   "immortal jellyfish",
+   "sinh vật bất tử",
+   "đảo ngược lão hóa",
+   "động vật kỳ lạ",
+   "thế giới động vật",
+   "động vật hài hước",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị"
+  ],
+  "count": 12,
+  "unique_count": 12,
+  "total_characters": 225,
+  "character_limit": 500,
+  "within_limit": true,
+  "duplicates": [],
+  "longest": "whiteboard animation",
+  "average_length": 15.83
+ },
+ "tags_after": {
+  "tags": [
+   "sứa bất tử",
+   "sua bat tu",
+   "turritopsis dohrnii",
+   "immortal jellyfish",
+   "sinh vật bất tử",
+   "đảo ngược lão hóa",
+   "động vật kỳ lạ",
+   "thế giới động vật",
+   "động vật hài hước",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị",
+   "sứa bất tử đèn hải đăng",
+   "tại sao sứa bất tử"
+  ],
+  "added": [
+   "sứa bất tử đèn hải đăng",
+   "tại sao sứa bất tử"
+  ],
+  "count": 14,
+  "unique_count": 14,
+  "total_characters": 272,
+  "character_limit": 500,
+  "within_limit": true,
+  "duplicates": [],
+  "longest": "sứa bất tử đèn hải đăng",
+  "average_length": 16.5
+ },
+ "search_suggestions": {
+  "seeds": [
+   "sứa bất tử",
+   "sứa bất"
+  ],
+  "all": [
+   "sứa bất tử",
+   "sứa bất tử đèn hải đăng",
+   "con sứa bất tử",
+   "sứa có bất tử",
+   "tại sao sứa bất tử"
+  ],
+  "relevant": [
+   "sứa bất tử",
+   "sứa bất tử đèn hải đăng",
+   "con sứa bất tử",
+   "tại sao sứa bất tử"
+  ],
+  "rejected": [
+   "sứa có bất tử"
+  ]
+ },
+ "competitors": [
+  {
+   "id": "4blJBPfTeYw",
+   "title": "Surprising Facts About Jellyfish.",
+   "views": 217163,
+   "duration": 325,
+   "channel": "Khám Phá Thế Giới",
+   "description": "#loaisua,#suabien,#suakhonglo,\nJellyfish are probably one of the most common marine creatures in the ocean, and surely... many ...",
+   "tags": []
+  },
+  {
+   "id": "jUpPL8qTYM4",
+   "title": "Sứa Turritopsis nutricula: sinh vật bất tử duy nhất trên Trái Đất",
+   "views": 5665,
+   "duration": 37,
+   "channel": "Cú Vọ",
+   "description": "Sứa Turritopsis nutricula hay còn gọi là Sứa bất tử, là loài sinh vật duy nhất trên hành tinh chúng ta chưa thể xác định tuổi thọ ...",
+   "tags": [
+    "turritopsis nutricula"
+   ]
+  },
+  {
+   "id": "-112-uny508",
+   "title": "Tại Sao Thật TỆ Khi Được Sinh Ra Là Con SỨA BẤT TỬ",
+   "views": 1677,
+   "duration": 667,
+   "channel": "Con Gì Khổ Nhất",
+   "description": "congikhonhat Bạn luôn nghĩ bất tử là một món quà? Hãy nghĩ lại. Có một sinh vật đã đạt được điều đó, và cuộc đời nó có thể là ...",
+   "tags": [
+    "#congikhonhat",
+    "#hoathinhchambiem",
+    "#dongvatkyla",
+    "#tunhienkhongcongbang",
+    "#tienhoangungoc",
+    "#cuocdoidongvat",
+    "#suthatdongvat",
+    "#dongvat",
+    "#thegioidongvat",
+    "#hoathinhdongvat",
+    "#hoathinh2d",
+    "#hoathinh",
+    "#hoathinhgiaoduc",
+    "#hoathinhchambiem",
+    "tại sao thật tệ khi được sinh ra là con sứa bất tử",
+    "sứa bất tử",
+    "turritopsisdohrnii"
+   ]
+  },
+  {
+   "id": "Seis39-FAlA",
+   "title": "Sứa bất tử: Bí ẩn của sự sống mãi",
+   "views": 1189,
+   "duration": 447,
+   "channel": "Tống Sang TV",
+   "description": "Sứa bất tử, hay còn gọi là Turritopsis dohrnii, đã trở thành một hiện tượng kỳ diệu trong thế giới sinh vật. Trong video này, chúng ...",
+   "tags": [
+    "công nghệ sinh học",
+    "sứa bất tử",
+    "tính bền vững"
+   ]
+  },
+  {
+   "id": "KHMDL5B0jCw",
+   "title": "Why Do IMMORTAL JELLYFISH Never Die of Old Age?",
+   "views": 663,
+   "duration": 1031,
+   "channel": "Bún Phở REVIEW",
+   "description": "Why Do Immortal Jellyfish Never Die of Old Age?\n\nA jellyfish, smaller than a little fingernail, has no brain and no heart ...",
+   "tags": []
+  },
+  {
+   "id": "hvMOG2nCqAI",
+   "title": "The Truth About Immortal Jellyfish: Do They Really Live Forever?",
+   "views": 515,
+   "duration": 1280,
+   "channel": "Giáo Sư NoBi",
+   "description": "In 1988 in Rapalo, a student accidentally discovered a jellyfish that didn't die but shrunk into a young polyp. In 2022, a ...",
+   "tags": []
+  },
+  {
+   "id": "iMcx0Yo1TV0",
+   "title": "Sứa bất tử: Sinh vật có thể cải tử hoàn đồng",
+   "views": 486,
+   "duration": 553,
+   "channel": "Khoa Học Cuộc Sống",
+   "description": "Hãy tưởng tượng khi già yếu, cơ thể bạn co lại và biến trở về thành một đứa trẻ, rồi bắt đầu lại cuộc đời, hết lần này đến lần khác.",
+   "tags": [
+    "#suabattu",
+    "#daiduong",
+    "#khoahoccuocsong"
+   ]
+  },
+  {
+   "id": "9Odj-XnKeas",
+   "title": "Sứa bất tử – sinh vật không thể chết? | Phim Tài Liệu 4K",
+   "views": 344,
+   "duration": 196,
+   "channel": "Bí Ẩn Sinh Vật",
+   "description": "Có một sinh vật trên Trái Đất… có thể quay ngược thời gian và sống lại sau khi đã già. Đó chính là sứa bất tử (Turritopsis dohrnii) ...",
+   "tags": []
+  },
+  {
+   "id": "bwYjC8rdonE",
+   "title": "Vòng đời sứa bất tử – Sinh vật duy nhất biết quay ngược tuổi già",
+   "views": 325,
+   "duration": 448,
+   "channel": "Thế giới động vật",
+   "description": "Vòng đời của sứa bất tử: một ấu trùng nhỏ xíu bám xuống đáy biển thành một cụm polyp như cây con, những con sứa non tách ra ...",
+   "tags": []
+  },
+  {
+   "id": "P0w74DEzZGQ",
+   "title": "Loài Sứa Bất Tử Thật Không? 13 Bí Mật Kỳ Lạ Về Con Sứa | Thế Giới Động Vật 4K",
+   "views": 230,
+   "duration": 678,
+   "channel": "TỪ ĐIỂN CHO BÉ | Khám Phá Thế Giới",
+   "description": "Con sứa có não không? Vì sao sứa có thể phát sáng? Và tại sao có loài sứa được gọi là “bất tử”? Trong video hôm nay, các bé sẽ ...",
+   "tags": []
+  },
+  {
+   "id": "FhF_2-wiTqA",
+   "title": "The Miracle of Life: The Reincarnation of the Immortal Jellyfish",
+   "views": 125,
+   "duration": 157,
+   "channel": "Thế Giới Muôn Màu SCTV",
+   "description": "Hello everyone! Discover Turritopsis dohrnii, the immortal jellyfish capable of reversing its biological clock, transforming ...",
+   "tags": []
+  },
+  {
+   "id": "KCHswDLTlsw",
+   "title": "Nếu Loài Sứa Này Bất Tử, Chúng Ta Có Thể Trường Sinh?",
+   "views": 40,
+   "duration": 89,
+   "channel": "GOC TV",
+   "description": "Sứa Bất Tử (Turritopsis dohrnii) – Sinh vật thách thức cái chết! Tên khoa học: Turritopsis dohrnii Kích thước: Chỉ 4-5 mm, ...",
+   "tags": []
+  },
+  {
+   "id": "af9i6hHDSao",
+   "title": "Sự Thật Rùng Mình Về Sứa Bất Tử - Loài Sứa Có Thể Hồi Sinh Mãi Mãi",
+   "views": 30,
+   "duration": 170,
+   "channel": "Vòng Đời Hoang Dã",
+   "description": "Sứa có thật sự bất tử không? Trong video này, chúng ta sẽ khám phá vòng đời kỳ lạ của sứa bất tử Turritopsis dohrnii - sinh vật ...",
+   "tags": []
+  },
+  {
+   "id": "Hc5j7I6d8K4",
+   "title": "😱 SỨA BẤT TỬ – Sinh Vật Có Thể QUAY NGƯỢC TUỔI TÁC! Bạn có tin???",
+   "views": 22,
+   "duration": 107,
+   "channel": "Thiên Nhiên Kỳ Diệu",
+   "description": "sứa bất tử, Turritopsis dohrnii, sứa cải lão hoàn đồng, loài sứa bất tử, sinh vật bất tử, sứa có thể trẻ lại, bí ẩn đại dương, sinh vật ...",
+   "tags": []
+  },
+  {
+   "id": "7y96SNdzfJ0",
+   "title": "SỨA BẤT TỬ PHẦN 2     👀🪼 Nhỏ Bé Nhưng Phi Thường: Khám Phá Sứa Bất Tử!",
+   "views": 11,
+   "duration": 101,
+   "channel": "Thiên Nhiên Kỳ Diệu",
+   "description": "SuaBatTu #TurritopsisDohrnii #ThienNhienKyDieu #BiAnDaiDuong #KhamPhaThienNhien #SinhVatKyDieu #DongVatKyLa ...",
+   "tags": []
+  }
+ ],
+ "competitor_tags_relevant": [
+  "sứa bất tử"
+ ],
+ "title_keyword_stats": {
+  "avg_title_len": 56.7,
+  "avg_title_words": 12.5,
+  "top_title_words": [
+   [
+    "sứa",
+    14
+   ],
+   [
+    "tử",
+    13
+   ],
+   [
+    "bất",
+    12
+   ],
+   [
+    "sinh",
+    8
+   ],
+   [
+    "vật",
+    6
+   ],
+   [
+    "thể",
+    5
+   ],
+   [
+    "jellyfish",
+    4
+   ],
+   [
+    "thật",
+    3
+   ],
+   [
+    "mãi",
+    3
+   ],
+   [
+    "immortal",
+    3
+   ],
+   [
+    "loài",
+    3
+   ],
+   [
+    "about",
+    2
+   ],
+   [
+    "duy",
+    2
+   ],
+   [
+    "nhất",
+    2
+   ],
+   [
+    "con",
+    2
+   ],
+   [
+    "bí",
+    2
+   ],
+   [
+    "sự",
+    2
+   ],
+   [
+    "do",
+    2
+   ],
+   [
+    "quay",
+    2
+   ],
+   [
+    "ngược",
+    2
+   ]
+  ]
+ },
+ "audit_before": {
+  "score": 71,
+  "grade": "B (Good / Minor Tweaks Needed)",
+  "title": 19,
+  "desc": 30,
+  "tags": 8,
+  "hashtags": 14,
+  "strengths": [
+   "Title length (65 chars) is optimal for mobile CTR.",
+   "Description length (2605 chars) provides rich semantic indexing depth.",
+   "First 150 characters contain a compelling narrative hook before the link.",
+   "Includes outbound streaming/smart links.",
+   "Includes chapters or full lyrics for Google Key Moments & keyword indexing.",
+   "Optimal hashtag count (3 hashtags)."
+  ],
+  "warnings": [
+   "Tags are underutilized (<250 chars).",
+   "Possible keyword stuffing detected for: https, youtu"
+  ],
+  "suggestions": [
+   "Move your primary keyword into the first 40 characters for higher ranking."
+  ],
+  "ignored_music_only": []
+ },
+ "audit_after": {
+  "score": 77,
+  "grade": "B (Good / Minor Tweaks Needed)",
+  "title": 19,
+  "desc": 30,
+  "tags": 14,
+  "hashtags": 14,
+  "strengths": [
+   "Title length (65 chars) is optimal for mobile CTR.",
+   "Description length (2605 chars) provides rich semantic indexing depth.",
+   "First 150 characters contain a compelling narrative hook before the link.",
+   "Includes outbound streaming/smart links.",
+   "Includes chapters or full lyrics for Google Key Moments & keyword indexing.",
+   "Optimal hashtag count (3 hashtags)."
+  ],
+  "warnings": [
+   "Possible keyword stuffing detected for: https, youtu"
+  ],
+  "suggestions": [
+   "Move your primary keyword into the first 40 characters for higher ranking.",
+   "Tags use 257/500 chars. Add more related secondary terms to reach 450+."
+  ],
+  "ignored_music_only": []
+ }
+}

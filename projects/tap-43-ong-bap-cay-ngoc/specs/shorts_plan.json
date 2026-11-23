@@ -1,0 +1,104 @@
+{
+  "title_lines": [
+    "ONG PHẪU THUẬT NÃO",
+    "BIẾN GIÁN THÀNH ZOMBIE?!"
+  ],
+  "beats": [
+    {
+      "at_s": 0.0,
+      "draw_s": 1.0,
+      "image": "assets/shorts/S01.png",
+      "stickers": []
+    },
+    {
+      "at": "thành một xác sống Zombie",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S01b.png",
+      "stickers": []
+    },
+    {
+      "at": "Đây là Ong Bắp Cày",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S02.png",
+      "stickers": []
+    },
+    {
+      "at": "Thay vì giết con mồi,",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S03.png",
+      "stickers": [
+        {
+          "at": "phát 1",
+          "side": "R",
+          "y": 620,
+          "value": "PHÁT 1",
+          "label": "liệt chân trước",
+          "target": [
+            0.5,
+            0.4
+          ]
+        }
+      ]
+    },
+    {
+      "at": "gã tung ra 2 phát châm",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S03b.png",
+      "stickers": []
+    },
+    {
+      "at": "Sau đó, gã chọc mũi",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S04.png",
+      "stickers": [
+        {
+          "at": "hạch não",
+          "side": "R",
+          "y": 620,
+          "value": "VI PHẪU",
+          "label": "hạch não gián",
+          "target": [
+            0.5,
+            0.4
+          ]
+        }
+      ]
+    },
+    {
+      "at": "Hậu quả là con gián",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S05.png",
+      "stickers": [
+        {
+          "at": "100%",
+          "side": "L",
+          "y": 620,
+          "value": "100%",
+          "label": "mất ý chí",
+          "target": [
+            0.5,
+            0.4
+          ]
+        }
+      ]
+    },
+    {
+      "at": "Ong chỉ việc cắn bớt",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S06.png",
+      "stickers": []
+    },
+    {
+      "at": "dắt con gián tự bước",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S07.png",
+      "stickers": []
+    },
+    {
+      "at": "Một kỳ tích vi phẫu",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S08.png",
+      "stickers": []
+    }
+  ]
+}

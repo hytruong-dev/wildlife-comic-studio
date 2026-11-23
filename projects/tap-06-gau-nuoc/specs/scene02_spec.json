@@ -1,0 +1,324 @@
+{
+  "scene_id": "scene02",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 4,
+  "world_width": 2042,
+  "world_height": 1040,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 60,
+  "duration_ms": 86399,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-06-gau-nuoc/assets/scenes_composed/scene02_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      244,
+      9,
+      1036,
+      53
+    ],
+    "x": 256,
+    "y": 13,
+    "w": 768,
+    "h": 38,
+    "text": "CHƯƠNG 2  •  02. BẢNG CHỈ SỐ BẤT TỬ RPG — LỖI GAME TIẾN HÓA",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-06-gau-nuoc/assets/scenes_composed/scene02_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 21224,
+      "has_frame": false,
+      "pill_box": [
+        476,
+        60,
+        832,
+        101
+      ],
+      "art_only_box": [
+        338,
+        96,
+        967,
+        449
+      ],
+      "caption": {
+        "text": "Sát thương đồ chơi, tốc độ rùa bò bị ốc sên bỏ xa trong cuộc đua",
+        "x": 370,
+        "y": 449,
+        "w": 565,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        336,
+        60,
+        969,
+        481
+      ],
+      "img_region": {
+        "x": 338,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 21224,
+      "end_ms": 42448,
+      "has_frame": false,
+      "pill_box": [
+        1242,
+        60,
+        1537,
+        98
+      ],
+      "art_only_box": [
+        1073,
+        96,
+        1702,
+        449
+      ],
+      "caption": {
+        "text": "Chỉ số DEF chạm nóc 9999, chấp từ độ không tuyệt đối đến dung nham",
+        "x": 1090,
+        "y": 449,
+        "w": 596,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1071,
+        60,
+        1704,
+        480
+      ],
+      "img_region": {
+        "x": 1073,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 42448,
+      "end_ms": 63672,
+      "has_frame": false,
+      "pill_box": [
+        1232,
+        550,
+        1546,
+        590
+      ],
+      "art_only_box": [
+        1073,
+        586,
+        1702,
+        939
+      ],
+      "caption": {
+        "text": "Người chịu 5 Gray đã ngã gục, gấu nước thảnh thơi tắm 5.000 Gray",
+        "x": 1087,
+        "y": 939,
+        "w": 601,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1071,
+        550,
+        1704,
+        974
+      ],
+      "img_region": {
+        "x": 1073,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_04",
+      "start_ms": 63672,
+      "end_ms": 84899,
+      "has_frame": false,
+      "pill_box": [
+        484,
+        550,
+        824,
+        590
+      ],
+      "art_only_box": [
+        338,
+        586,
+        967,
+        939
+      ],
+      "caption": {
+        "text": "Thu gọn 8 chân hóa thành hạt kén ngọc ngủ sâu suốt 30 năm trời",
+        "x": 366,
+        "y": 939,
+        "w": 573,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        336,
+        550,
+        969,
+        971
+      ],
+      "img_region": {
+        "x": 338,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 336.0,
+    "y_min": 60.0,
+    "x_max": 1704.0,
+    "y_max": 974.0,
+    "bbox_w": 1368.0,
+    "bbox_h": 914.0,
+    "center_x": 1020.0,
+    "center_y": 517.0,
+    "zoom_out_scale": 0.6494,
+    "crop_w": 1971.0,
+    "crop_h": 1004.0
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 652.5,
+      "cy": 270.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.09,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 20604.0,
+      "cx": 652.5,
+      "cy": 270.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.09,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 21224.0,
+      "cx": 1387.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.09,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 41828.0,
+      "cx": 1387.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.09,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 42448.0,
+      "cx": 1387.5,
+      "cy": 762.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 2.07,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 63052.0,
+      "cx": 1387.5,
+      "cy": 762.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 2.07,
+      "phase": "transition",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 63672.0,
+      "cx": 652.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.09,
+      "phase": "focus_hold",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 84899.0,
+      "cx": 652.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.09,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 85399.0,
+      "cx": 1020.0,
+      "cy": 517.0,
+      "crop_w": 1971.0,
+      "crop_h": 1004.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 86399.0,
+      "cx": 1020.0,
+      "cy": 517.0,
+      "crop_w": 1971.0,
+      "crop_h": 1004.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

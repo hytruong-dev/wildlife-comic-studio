@@ -1,0 +1,4235 @@
+{
+ "_doc": "SINH BỞI src/mega/build_from_content.py từ content/*.md — sửa content rồi chạy lại, KHÔNG sửa file này.",
+ "characters": {
+  "HERO": "anh MC dẫn chương trình hoạt hình vui tính: tóc vuốt dựng, mặc bộ vest đỏ tươi, thắt nơ bướm vàng, cầm chiếc micro vàng, nụ cười rộng",
+  "HERO_S": "anh MC vest đỏ nơ bướm vàng cầm micro vàng và 10 tuyển thủ động vật hoạt hình của Đại Hội Sinh Tồn",
+  "MC": "anh MC hoạt hình vest đỏ nơ bướm vàng cầm micro vàng",
+  "JUDGE": "bà cú mèo giám khảo hoạt hình đeo kính tròn gọng vàng, khoác áo choàng tím, cầm búa gỗ nhỏ",
+  "BOARD": "tấm bảng điểm khổng lồ hình chiếc khiên dựng giữa sân vận động, có 10 cột đèn màu bên cạnh 10 hình đầu con vật nhỏ (không có chữ, không có số)",
+  "NO_HERO": "KHÔNG có anh MC trong cảnh này",
+  "KOALA": "chú gấu Koala hoạt hình mập tròn lông xám, tai tròn to xù mép trắng, mũi đen to hình quả lê, mắt to ngơ ngác, mặc áo choàng bệnh nhân trắng có chữ thập đỏ nhỏ",
+  "PLATYPUS": "chú Thú Mỏ Vịt hoạt hình lông nâu bùn, mỏ vịt mềm màu xám đen, đuôi dẹt như đuôi hải ly, chân có màng bơi, đeo băng đô thể thao màu xanh lá",
+  "PELICAN": "chú Chim Bồ Nông trắng hoạt hình to xác, chiếc mỏ dài màu cam vàng có túi da họng lớn",
+  "PENGUIN": "chú chim cánh cụt Adélie hoạt hình nhỏ tròn, đầu và lưng đen tuyền, bụng trắng, vòng trắng tròn quanh mắt, chân hồng cam, đeo nơ bướm đỏ ở cổ",
+  "OTTER": "chú Rái Cá Biển hoạt hình lông nâu sẫm, mặt tròn lông màu kem, râu trắng dài, hay nằm ngửa trên mặt nước, kẹp một hòn đá xám dưới nách",
+  "DOLPHIN": "chú Cá Heo mũi chai hoạt hình màu xám xanh, miệng luôn cong thành nụ cười tinh quái",
+  "WOLVERINE": "chú Chồn Gulo (Wolverine) hoạt hình lùn mập chắc nịch, lông nâu sẫm có hai dải sọc vàng kem dọc hai bên sườn, bàn chân bè rất to như ủng trượt tuyết, mắt tinh quái liều lĩnh",
+  "MANTIS": "chú Tôm Tít (peacock mantis shrimp) hoạt hình, mai xanh ngọc lục bảo, râu đỏ cam, chân và đuôi điểm màu cầu vồng, hai mắt to lồi trên cuống, hai càng búa gập trước ngực như võ sĩ quyền anh",
+  "BADGER": "chú Lửng Mật hoạt hình thân đen, lưng phủ một mảng lông trắng bạc từ đỉnh đầu xuống đuôi, chân ngắn móng vuốt dài, vẻ mặt ngông nghênh bất cần",
+  "TARDIGRADE": "chú Gấu Nước (tardigrade) hoạt hình tí hon mũm mĩm như gấu bông 8 chân ngắn có móng nhỏ, thân màu be nhạt có nếp gấp, miệng tròn dạng ống, mắt chấm nhỏ dễ thương"
+ },
+ "side_characters": [
+  "JUDGE"
+ ],
+ "shorts_side_characters": [
+  "JUDGE"
+ ],
+ "shorts_title_lines": [
+  "10 QUÁI KIỆT THI ĐẤU",
+  "AI LÊN NGÔI?!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Sân vận động hoạt hình khổng lồ chìm trong bóng tối ban đêm, mười chiếc bục thi đấu tròn xếp vòng cung giữa sân, chính giữa là một chiếc vương miện vàng bé xíu tỏa sáng trên bệ đá; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đêm nay, mười",
+   "layout": "Mười chiếc bóng đen bí ẩn của các con vật (lửng, rái cá, cá heo, thú mỏ vịt, bồ nông, gấu nước tí hon, tôm tít, chồn, cánh cụt, koala) đứng ngược sáng ở cửa đường hầm sân vận động, khói mờ quanh chân; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "mà để thi",
+   "layout": "Cận cảnh mười đôi mắt sáng lóe trong bóng tối của đường hầm, to nhỏ khác nhau, nhìn thẳng ra phía trước đầy quyết tâm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bật đèn! Chào",
+   "layout": "Đèn sân vận động bật sáng rực, pháo giấy nổ tung, {MC} đứng giữa sân giơ cao micro vàng, khán đài chật kín các loài thú nhỏ (thỏ, sóc, ếch, chim sẻ) vẫy cờ hò reo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tôi là người",
+   "layout": "{MC} đặt tay lên ngực hứa hẹn, phía sau là mười tấm áp phích tập phim cũ treo trên tường bị đóng dấu \"ĐÃ KỂ\" bằng biểu tượng dấu tích (không chữ).",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hoàn toàn mới,",
+   "layout": "{MC} nháy mắt, tay kia giơ một chồng tạp chí khoa học dày cộp có hình kính hiển vi, vệ tinh và chim cánh cụt trên bìa (không chữ).",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Luật chơi rất",
+   "layout": "{BOARD} hiện tám ô biểu tượng xếp thành hai hàng: nhiệt kế, đôi giày chạy, cái bát và đôi đũa, con mắt, chiếc nôi em bé, hai bàn tay nắm nhau, chiếc kính lúp, trái tim đỏ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chịu nóng và",
+   "layout": "Tám ô biểu tượng lần lượt sáng lên như đèn sân khấu, ô cuối có trái tim đỏ phát sáng mạnh nhất; {MC} chỉ tay theo từng ô.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mỗi vòng, giám",
+   "layout": "{JUDGE} ngồi ở bàn giám khảo trên cao, trước mặt là ba chiếc huy chương vàng, bạc, đồng lấp lánh xếp thành hàng, bà giơ một cánh ra hiệu nghiêm túc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Giám khảo xin",
+   "layout": "Cận cảnh {JUDGE} chỉnh kính, gõ búa gỗ xuống bàn, vẻ mặt nghiêm khắc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nghe rõ chưa,",
+   "layout": "{MC} liếc mắt nhìn sang {BADGER}, {WOLVERINE} và {MANTIS} đang đứng giả vờ huýt sáo ngây thơ, sau lưng giấu nắm đấm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Và bây giờ,",
+   "layout": "Cửa đường hầm mở toang, ánh đèn sân khấu chiếu thẳng vào lối đi trải thảm đỏ, khói trắng phun hai bên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số",
+   "layout": "{BADGER} bước ra thảm đỏ, đeo kính râm, vung tay chào khán đài đầy ngông nghênh, đèn flash nháy khắp nơi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số hai!",
+   "layout": "{MANTIS} được đẩy ra trong một bể nước tròn có bánh xe, giơ hai càng búa như võ sĩ quyền anh khoe găng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số ba!",
+   "layout": "Khán giả trên khán đài đồng loạt cầm kính lúp to soi xuống sân, trong vòng tròn kính lúp là {TARDIGRADE} đang vẫy tay chào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số bốn!",
+   "layout": "{WOLVERINE} bước ra, lông dựng đứng, nhe răng cười, tuyết rơi lất phất quanh người; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số năm,",
+   "layout": "Ba tuyển thủ cùng ra: {PENGUIN} đi lạch bạch chỉnh nơ, {OTTER} nằm ngửa trên chiếc phao, {DOLPHIN} nhô lên từ bể nước có bánh xe cười tươi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số tám,",
+   "layout": "{PELICAN} bước ra, chiếc mỏ dài thò vào khung hình trước, thân mình đi theo sau, khán giả hàng đầu ngửa người né; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số chín,",
+   "layout": "{PLATYPUS} lạch bạch bước ra vẫy cái đuôi dẹt; bên cạnh, ô cửa đường hầm thứ mười vẫn tối om; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tuyển thủ số mười... xin",
+   "layout": "Một nhân viên hoạt hình đẩy chiếc xe đẩy chở nguyên một cành cây khuynh diệp ra sân, trên cành là {KOALA} ôm cây ngủ say, bong bóng ngủ phồng ở mũi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Ủa... đến lượt",
+   "layout": "Cận cảnh {KOALA} mở một mắt lơ mơ, lông tai rối bù, ngáp dài; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Rồi, Gấu Koala",
+   "layout": "Một chiếc cân bàn khổng lồ hoạt hình kiểu võ đài quyền anh giữa sân, có kim chỉ tròn to, hai bên là đèn flash và phóng viên; {MC} đứng cạnh cầm micro.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Cá Heo bước",
+   "layout": "{DOLPHIN} nằm trên chiếc cân bàn đặt trong bể nước, kim cân quay mấy vòng, chiếc cân kêu cót két, phóng viên lùi lại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chim Bồ Nông bước",
+   "layout": "{PELICAN} đứng trên cân dang rộng đôi cánh dài quá cả khung cửa, đầu cánh đập trúng hai nhân viên đứng hai bên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Rái Cá Biển bước",
+   "layout": "{OTTER} đứng trên cân ôm chặt hòn đá xám vào ngực, lắc đầu nguầy nguậy, nhân viên cân giơ tay bất lực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Lửng Mật và",
+   "layout": "{BADGER} và {WOLVERINE} cùng chen nhau trên một chiếc cân, trán chạm trán gườm gườm như hai võ sĩ trước trận đấu, kim cân rung lắc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chim Cánh Cụt, Koala,",
+   "layout": "Ba chiếc cân nhỏ xếp hàng: {PENGUIN} đứng thẳng chỉnh nơ, {KOALA} ôm cây cột cân ngủ gật, {PLATYPUS} đứng trên chiếc cân nhỏ nhất kim chỉ gần như không nhúc nhích; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tôm Tít bước",
+   "layout": "{TARDIGRADE} tí hon đứng giữa chiếc cân bàn khổng lồ trống trơn, nhân viên cúi sát soi kính lúp, màn hình cân hiện số không tròn trĩnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Gấu Nước dài",
+   "layout": "Một nhà toán học hoạt hình đeo kính đứng trước tấm bảng đen kín đặc những con số và mũi tên, tóc dựng đứng, ôm đầu, phía sau là hình so sánh {DOLPHIN} khổng lồ và {TARDIGRADE} như một chấm nhỏ; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1mm",
+     "side": "R",
+     "y": 360,
+     "value": "< 1 MM",
+     "label": "Gấu Nước",
+     "target": [
+      0.5,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Cân ký xong!",
+   "layout": "Mười tuyển thủ đứng thành hàng ngang giữa sân dưới pháo hoa, {KOALA} đứng ngủ gật dựa vào vai {PLATYPUS}; {MC} đứng một bên.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Theo dự đoán,",
+   "layout": "Màn hình lớn chiếu biểu đồ cột dự đoán: ba cột cao vút có hình đầu {BADGER}, {MANTIS}, {TARDIGRADE}; hai cột thấp lè tè có hình đầu {PLATYPUS} và {KOALA}; không chữ, không số; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhưng các chuyên",
+   "layout": "Cận cảnh {PLATYPUS} lặng lẽ ngước nhìn cột điểm thấp tè của mình trên màn hình, ánh mắt quyết tâm lóe sáng, một giọt mồ hôi chảy trên trán; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chỉ có khoa",
+   "layout": "Chiếc vương miện bé xíu trên bệ đá giữa sân phát sáng rực rỡ, mười cái bóng tuyển thủ in dài trên mặt sân hướng về phía nó; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Vòng một bắt",
+   "layout": "{MC} chỉ tay về phía cổng sân vận động chia đôi: một nửa phủ băng tuyết xanh lạnh buốt có nhũ băng, một nửa tỏa nắng đỏ rực như sa mạc có ảo ảnh hơi nóng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Sân thi đấu được chia đôi: nửa trái là sa mạc đỏ rực có mặt trời chói chang và ảo ảnh hơi nóng, nửa phải là băng tuyết xanh trắng có nhũ băng; {MC} đứng ngay đường ranh giữa hai nửa, một bên tóc dựng vì nóng, một bên râu đóng băng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Ban giám khảo",
+   "layout": "{JUDGE} cầm một chiếc nhiệt kế khổng lồ như cây gậy chỉ huy, trước mặt là bảng chấm điểm có biểu tượng bộ não và nhiệt kế (không chữ).",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Phần thi nóng",
+   "layout": "Nửa sân sa mạc nóng rực, {KOALA} đứng đơ trên cát, mồ hôi nhễ nhại, tay cầm chiếc quạt giấy nhỏ, mặt ngơ ngác nhìn mặt trời; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Hồ sơ tuyển",
+   "layout": "Một tấm hồ sơ kẹp giấy hoạt hình có ảnh {KOALA} ở góc, bên dưới là ba biểu tượng: bộ lông, cái cây, chiếc máy điều hòa bị gạch chéo đỏ (không chữ); {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng các nhà",
+   "layout": "Hai nhà khoa học hoạt hình đội mũ rộng vành đứng dưới gốc cây, chĩa chiếc máy ảnh nhiệt to bản lên ngọn cây nơi {KOALA} đang ngồi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Năm 2014, họ",
+   "layout": "Màn hình máy ảnh nhiệt hiện cảnh rừng cây màu đỏ cam nóng rực, chính giữa là hình {KOALA} màu vàng cam đang leo xuống thấp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và họ thấy",
+   "layout": "{KOALA} nằm sấp ôm chặt thân cây to bằng cả tay lẫn chân, má áp vào vỏ cây, vẻ mặt sung sướng mãn nguyện như đang ôm gối ôm mát lạnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Hình ảnh nhiệt",
+   "layout": "Ảnh nhiệt chia đôi: không khí xung quanh màu đỏ rực, riêng thân cây màu xanh dương mát lạnh, {KOALA} áp bụng vào phần xanh; một chiếc tủ lạnh hoạt hình nhỏ vẽ cạnh để so sánh; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "5°C",
+     "side": "R",
+     "y": 360,
+     "value": "-5°C",
+     "label": "thân cây mát hơn",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và đây không",
+   "layout": "Hai giọt nước hoạt hình so sánh: giọt bên trái to (không ôm cây), giọt bên phải chỉ còn một nửa (có ôm cây), {KOALA} giơ ngón cái tự hào; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "một nửa",
+     "side": "L",
+     "y": 380,
+     "value": "1/2",
+     "label": "nước làm mát",
+     "target": [
+      0.7,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Điều buồn cười",
+   "layout": "Hai cái cây đứng cạnh nhau có cầu thang dây nối giữa: cây khuynh diệp bên trái có biểu tượng cái đĩa và đôi đũa, cây keo bên phải có biểu tượng bông tuyết; {KOALA} đang leo qua cầu thang dây từ cây này sang cây kia; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng chống nóng",
+   "layout": "Một cuốn sách cổ dày bụi mở ra, trang sách vẽ hình {KOALA} ôm chiếc lá to và một ly nước bị gạch chéo; một ngọn nến cháy leo lét bên cạnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Cho đến năm",
+   "layout": "Một tấm bản đồ nước Úc ghim nhiều đinh ghim đỏ đánh dấu chỗ quan sát, bên cạnh là chồng ảnh chụp {KOALA}; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "46 lần",
+     "side": "R",
+     "y": 380,
+     "value": "46 LẦN",
+     "label": "quan sát uống nước",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và cách uống",
+   "layout": "Trời mưa lất phất, dòng nước chảy dọc thân cây khuynh diệp nhẵn, {KOALA} ôm cây thè lưỡi liếm nước, mắt nhắm tận hưởng như đang uống nước suối; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Có một cô",
+   "layout": "Một cái cây hoạt hình được vẽ như căn hộ nhiều tầng: tầng trên là bếp lá, tầng giữa là điều hòa bông tuyết, tầng dưới là vòi nước, {KOALA} mẹ cõng con nhỏ trên lưng ở giữa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Giám khảo ghi",
+   "layout": "{JUDGE} gật đầu ghi chép, đặt một ngôi sao vàng nhỏ lên bảng cạnh hình đầu {KOALA}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Phần thi nóng tiếp",
+   "layout": "{OTTER} và {PENGUIN} đứng ở mép sân sa mạc, nhìn mặt trời chói chang, cả hai đổ mồ hôi, {PENGUIN} giơ cánh che mắt, {OTTER} ôm hòn đá che đầu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Hai bạn xin",
+   "layout": "{MC} mở cánh cửa lớn dẫn sang nửa sân băng tuyết, gió lạnh thổi tung cà vạt của anh, {OTTER} và {PENGUIN} vui mừng chạy ào vào tuyết.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Phần thi lạnh. Nhiệt",
+   "layout": "Một hồ nước băng giá đen sẫm có những tảng băng trôi, bên cạnh là chiếc nhiệt kế khổng lồ chỉ ở vạch thấp nhất màu xanh, hơi lạnh bốc lên mờ mờ; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "0°C",
+     "side": "R",
+     "y": 380,
+     "value": "0°C",
+     "label": "nước gần đóng băng",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tuyển thủ đầu",
+   "layout": "{PLATYPUS} đeo băng đô xanh lao người nhảy xuống hồ băng tõm một cái, nước bắn tung tóe; trên khán đài, đám khán giả thú nhỏ há hốc mồm sững sờ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tin khẩn từ",
+   "layout": "Cô phát thanh viên hoạt hình ngồi sau bàn tin tức, chỉ tay vào màn hình phía sau đang chiếu cảnh {PLATYPUS} bơi giữa hồ băng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhiều người quên",
+   "layout": "Một dòng sông trên núi tuyết hoạt hình, hai bờ phủ tuyết trắng, mặt nước có vài mảng băng mỏng, {PLATYPUS} ló đầu lên từ giữa dòng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Các nhà khoa học đã",
+   "layout": "Một nhà khoa học hoạt hình đeo kính cầm máy đo nhiệt độ cầm tay, nhìn màn hình rồi dụi mắt, nhìn lại lần nữa vẻ không tin nổi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Một con Thú",
+   "layout": "{PLATYPUS} bơi thong thả giữa dòng sông có những mảng băng trôi, bên cạnh là chiếc đồng hồ cát lớn đang chảy, quanh người là vầng hào quang màu cam ấm áp; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "5 tiếng",
+     "side": "L",
+     "y": 360,
+     "value": "5 GIỜ",
+     "label": "bơi trong nước 0°C",
+     "target": [
+      0.6,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và nhiệt độ",
+   "layout": "Hai chiếc nhiệt kế đặt cạnh nhau: nhiệt kế của người hoạt hình cao hơn, nhiệt kế của {PLATYPUS} thấp hơn một đoạn, {PLATYPUS} nhún vai tỉnh bơ; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "32°C",
+     "side": "R",
+     "y": 380,
+     "value": "32°C",
+     "label": "thân nhiệt mỏ vịt",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tức là Thú",
+   "layout": "{PLATYPUS} đeo kính râm nằm ngửa thư giãn giữa nước đá, trên bụng có một biểu tượng hình chiếc pin xanh lá đầy năng lượng và chiếc lá nhỏ tiết kiệm điện; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bí quyết nằm",
+   "layout": "Hình phóng to lát cắt bộ lông {PLATYPUS}: lớp lông tơ xoăn tít bên dưới kẹp những bong bóng khí nhỏ li ti, lớp lông dài bóng phía trên; nước xanh không chạm được vào da; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Theo các nhà",
+   "layout": "Ba chiếc áo khoác lông treo trên giá: áo gấu Bắc Cực, áo hải ly và áo Thú Mỏ Vịt; áo Thú Mỏ Vịt được gắn một chiếc huy hiệu ngôi sao vàng lấp lánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Thứ hai, ở",
+   "layout": "Sơ đồ giải phẫu hoạt hình gốc đuôi {PLATYPUS}: hai ống mạch máu đỏ và xanh nằm sát nhau ngược chiều, những mũi tên nhiệt màu cam truyền từ ống đỏ sang ống xanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và thứ ba:",
+   "layout": "Bên trong bụng {PLATYPUS} vẽ một chiếc lò sưởi nhỏ ấm áp có ngọn lửa cam đều đặn, bên ngoài là nước đá lạnh buốt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Giám khảo xin",
+   "layout": "{JUDGE} tháo kính ra lau, rồi đeo lại nhìn {PLATYPUS} với vẻ nể phục, ghi một dấu tích to vào sổ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Rái Cá Biển cũng",
+   "layout": "{OTTER} nằm ngửa trên mặt nước băng giá, hai bàn tay trước và hai bàn chân sau đều giơ cao khỏi mặt nước như đang tạo dáng chụp ảnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khi nghỉ ngơi",
+   "layout": "Hình so sánh hoạt hình: một bàn tay rái cá nhúng nước có những mũi tên nhiệt đỏ thoát ra rất nhiều; một bàn tay giơ lên không khí chỉ có vài mũi tên nhỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đôi khi Rái",
+   "layout": "Cận cảnh {OTTER} ngủ ngửa trên sóng, hai bàn tay úp lên mắt cực đáng yêu, một bong bóng suy nghĩ nhỏ vẽ chiếc găng tay len ấm áp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tuyển thủ tiếp",
+   "layout": "{WOLVERINE} đứng giữa vùng tuyết trắng mênh mông, hai chân trước đào tung tuyết như máy xúc, tuyết bay tứ tung; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Các nhà khoa học đã đánh",
+   "layout": "Một tấm bản đồ vệ tinh Bắc bán cầu hoạt hình phủ những chấm đỏ nhỏ li ti đánh dấu hang, phần lớn nằm trên vùng tuyết trắng; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "562",
+     "side": "R",
+     "y": 380,
+     "value": "562 HANG",
+     "label": "được đánh dấu",
+     "target": [
+      0.6,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và kết quả",
+   "layout": "Bản đồ vệ tinh phủ lớp màu trắng tuyết mùa xuân, toàn bộ chấm đỏ đều nằm gọn bên trong vùng trắng, một chiếc kính lúp soi vào chứng minh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chồn mẹ đào",
+   "layout": "Mặt cắt ngang lớp tuyết dày hoạt hình: bên dưới là một mê cung đường hầm tuyết nhiều ngã rẽ, ở cuối là căn phòng nhỏ ấm áp có {WOLVERINE} mẹ ôm hai chú chồn con; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1 mét",
+     "side": "L",
+     "y": 360,
+     "value": "> 1 M",
+     "label": "lớp tuyết phủ",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tuyết nghe thì",
+   "layout": "Chia đôi khung hình theo chiều dọc: phía trên mặt tuyết là bão tuyết gió thổi mạnh; phía dưới trong hang tuyết là chồn con nằm ngủ ngon lành trong ánh sáng ấm áp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và cũng vì",
+   "layout": "{WOLVERINE} ngồi buồn bã nhìn những giọt nước nhỏ từ trần hang tuyết đang tan chảy, mặt trời mùa xuân chiếu qua lỗ thủng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Kẻ dám cướp",
+   "layout": "{WOLVERINE} cầm một chiếc nhiệt kế nhỏ, nhìn lên quả địa cầu đang đổ mồ hôi, vẻ mặt lo lắng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và cuối cùng,",
+   "layout": "{TARDIGRADE} tí hon tự tin bước vào một chiếc tủ đông khổng lồ có hơi lạnh tỏa ra, quay lại vẫy tay chào khán giả trước khi cửa đóng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Năm 2022, các",
+   "layout": "Lịch treo tường hoạt hình có các tuần xen kẽ: tuần biểu tượng bông tuyết xanh, tuần biểu tượng chiếc bát thức ăn, lặp lại; bên cạnh là chiếc tủ đông và ống nghiệm; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "-30°C",
+     "side": "R",
+     "y": 360,
+     "value": "-30°C",
+     "label": "mỗi tuần đông đá",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Lặp lại như",
+   "layout": "Hai cột thời gian so sánh: cột ngắn của Gấu Nước bình thường và cột dài gấp đôi của Gấu Nước đông đá có những khối băng xen kẽ; {TARDIGRADE} đứng trên đỉnh cột dài; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "gấp đôi",
+     "side": "L",
+     "y": 380,
+     "value": "x2",
+     "label": "tuổi thọ",
+     "target": [
+      0.65,
+      0.4
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng phần thú",
+   "layout": "Một phép tính hoạt hình trên bảng đen: cột dài trừ đi các khối băng bằng đúng cột ngắn, {JUDGE} cầm phấn gạch dấu bằng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nghĩa là khi",
+   "layout": "{TARDIGRADE} nằm ngủ trong khối băng trong suốt như chiếc giường công chúa, trên đầu có chiếc đồng hồ dừng kim, xung quanh là hoa hồng và gai leo hoạt hình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Giám khảo xin thông",
+   "layout": "{JUDGE} gõ cửa chiếc tủ đông, bên trong {TARDIGRADE} nằm im trong khối băng, đầu có biểu tượng \"zzz\"; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đúng vậy! Đông",
+   "layout": "Khán đài cười nghiêng ngả, {MC} ôm bụng cười, phía sau tủ đông là khối băng chứa {TARDIGRADE} có dán miếng băng dính vẽ biểu tượng tạm dừng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và đây là",
+   "layout": "Bục trao giải ba bậc: {KOALA} đứng ở bậc đồng, cổ đeo huy chương đồng, tay vẫn ôm một khúc cây nhỏ, mặt ngơ ngác; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Huy chương bạc:",
+   "layout": "{WOLVERINE} đứng ở bậc bạc, đeo huy chương bạc, giơ nắm tay ăn mừng, tuyết rơi trên vai; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và huy chương",
+   "layout": "{PLATYPUS} đứng trên bậc vàng cao nhất, đeo huy chương vàng to, băng đô xanh, khóc vì xúc động, pháo giấy rơi khắp nơi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bảng điểm sau",
+   "layout": "{BOARD} sáng lên: cột đèn của {PLATYPUS} cao nhất, cột {WOLVERINE} thấp hơn, cột {KOALA} thấp nữa, các cột khác tắt; bên dưới {BADGER} và {MANTIS} khoanh tay hậm hực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đừng lo, vòng",
+   "layout": "{MC} cầm micro đứng trước một tấm bản đồ thế giới khổng lồ có những đường chấm chấm uốn lượn rất dài, bên cạnh là một đôi giày chạy bộ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Đường đua marathon hoạt hình chạy vòng quanh một quả địa cầu khổng lồ, vạch xuất phát có cổng bóng bay, {MC} cầm cờ hiệu đứng ở vạch xuất phát.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Giám khảo sẽ",
+   "layout": "{JUDGE} cầm đồng hồ bấm giờ và chiếc thước dây cuộn tròn khổng lồ, ngồi trên chiếc ghế cao bên đường đua.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Lửng Mật xuất",
+   "layout": "{BADGER} lao ra khỏi vạch xuất phát, mũi dí sát mặt đất đánh hơi, bụi cát bay mù mịt phía sau; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Các nhà khoa",
+   "layout": "Một chiếc xe địa hình hoạt hình chạy theo sau một chú {BADGER} đeo vòng cổ có ăng-ten nhỏ, giữa sa mạc cát đỏ có bụi gai; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "25 con",
+     "side": "R",
+     "y": 380,
+     "value": "25 CON",
+     "label": "được theo dõi",
+     "target": [
+      0.6,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Kết quả: mỗi",
+   "layout": "Một tấm bản đồ sa mạc với đường đi ngoằn ngoèo zíc zắc rất dài màu đỏ, ở cuối đường là {BADGER} thở hổn hển nhưng vẫn ngẩng cao đầu; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "14km",
+     "side": "L",
+     "y": 360,
+     "value": "14 KM",
+     "label": "mỗi đêm",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và đi không",
+   "layout": "Mặt đất sa mạc lỗ chỗ hàng chục cái hố nhỏ như mặt bánh tổ ong, {BADGER} chui đầu xuống một hố, chỉ thấy cái mông và cái đuôi vẫy vẫy; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "50 cái hố",
+     "side": "R",
+     "y": 380,
+     "value": "50 HỐ",
+     "label": "một lần kiếm ăn",
+     "target": [
+      0.6,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và có một",
+   "layout": "{BADGER} đang đào đất, phía trên trời có ba con chim ưng màu xám bạc chân đỏ lượn vòng theo sát như đoàn hộ tống; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đó là loài",
+   "layout": "Một con chuột hoảng hốt chạy vọt ra khỏi miệng hố, một con chim ưng xám sà xuống chộp gọn; trong hố {BADGER} vẫn đang đào hăng say không hề hay biết; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Các nhà khoa học đã",
+   "layout": "Sáu con chim ưng xám đậu thành hàng trên cành cây khô, đầu đồng loạt quay theo {BADGER} đang đi bên dưới, như hàng ghế khán giả theo dõi trận đấu; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "6 con",
+     "side": "R",
+     "y": 360,
+     "value": "6 CON",
+     "label": "chim ưng bám theo",
+     "target": [
+      0.55,
+      0.35
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Còn Lửng Mật được",
+   "layout": "{BADGER} quay lại nhìn lên đàn chim ưng với vẻ mặt thờ ơ, nhún vai, trên đầu là bong bóng suy nghĩ vẽ con số không tròn trĩnh to tướng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Một gã giang",
+   "layout": "Cảnh hài: {BADGER} đi trước như đại ca, phía sau là sáu chim ưng đi bộ lạch bạch xếp hàng như đàn em, mỗi con ngậm một con chuột nhỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng nếu Lửng",
+   "layout": "Một tấm hồ sơ mật bìa nâu có con dấu hình móng vuốt, bên trong kẹp ảnh {WOLVERINE} trẻ đeo vòng cổ định vị; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Mùa xuân năm",
+   "layout": "Dãy núi đá tuyết hùng vĩ hoạt hình, {WOLVERINE} trẻ đứng trên mỏm đá nhìn về phía chân trời phía Nam, ba lô nhỏ trên lưng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nó đi về",
+   "layout": "{WOLVERINE} chạy băng qua một đường cao tốc rộng, xe tải hoạt hình phanh kít hai bên, nó đã sang đến bên kia an toàn, bụi tung lên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Hai tháng sau,",
+   "layout": "Tấm bản đồ nước Mỹ hoạt hình với đường chấm đỏ kéo dài từ bang Uai-ô-minh xuống bang Cô-lô-ra-đô, có biểu tượng dấu chân chồn dọc đường; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "800km",
+     "side": "R",
+     "y": 360,
+     "value": "800 KM",
+     "label": "trong 2 tháng",
+     "target": [
+      0.55,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và đây là",
+   "layout": "Một tờ báo hoạt hình bay phấp phới có ảnh lớn chụp {WOLVERINE} trên trang nhất (không chữ), xung quanh là đám đông người hoạt hình đang chỉ trỏ, đèn flash nháy; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1919",
+     "side": "L",
+     "y": 360,
+     "value": "1919",
+     "label": "lần cuối thấy chồn",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Có một nhiếp",
+   "layout": "{WOLVERINE} đứng trên mỏm đá giữa núi Rốc-ky, quay đầu nhìn thẳng vào ống kính máy ảnh của một nhiếp ảnh gia hoạt hình đang nấp sau tảng đá; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chuyện vui hơn",
+   "layout": "Một sân bóng bầu dục hoạt hình, đám cổ động viên mặc áo có hình đầu chồn, giơ cao lá cờ hình {WOLVERINE}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thế nhưng suốt",
+   "layout": "Một nhà khoa học hoạt hình cầm kính lúp lục tung một kho lưu trữ đầy hồ sơ bụi bặm, mồ hôi nhễ nhại, xung quanh chỉ toàn ảnh cổ động viên mặc đồ chồn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Cho đến đầu",
+   "layout": "Một cái cây trơ cành giữa cánh đồng tuyết, trên ngọn là {WOLVERINE} đang ôm cành nhìn xuống, dưới gốc là một nhà sinh vật học hoạt hình giơ máy ảnh chụp lia lịa với vẻ mặt sung sướng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bang Chồn Gulo cuối",
+   "layout": "{WOLVERINE} đứng trên bục danh dự, được cổ động viên hoạt hình choàng khăn và đội mũ của đội bóng, vẻ mặt bối rối không hiểu chuyện gì; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng cả Lửng",
+   "layout": "{PENGUIN} đứng ở vạch xuất phát, chỉnh lại nơ bướm, bên cạnh là {BADGER} và {WOLVERINE} đang khoanh tay cười khẩy coi thường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Các nhà khoa học đã gắn",
+   "layout": "Một nhà khoa học mặc áo khoác đỏ dày cộm giữa vùng băng, cẩn thận gắn thiết bị nhỏ như chiếc đồng hồ vào chân {PENGUIN}, phía sau là đàn cánh cụt tò mò xếp hàng xem; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Kết quả: mỗi năm,",
+   "layout": "Bản đồ Nam Cực hoạt hình với một vòng đường chấm đỏ cực lớn uốn quanh biển băng, {PENGUIN} đứng ở điểm cuối giơ cánh chiến thắng; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "13.000km",
+     "side": "R",
+     "y": 360,
+     "value": "13.000 KM",
+     "label": "mỗi năm",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Để dễ hình",
+   "layout": "Quả địa cầu hoạt hình có một đường cong nối từ Việt Nam sang tận nước Mỹ, trên đường vẽ {PENGUIN} vừa đi lạch bạch vừa nằm sấp trượt bụng trên băng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Vì sao phải",
+   "layout": "Bầu trời Nam Cực tối đen như mực, chỉ có vài ngôi sao, {PENGUIN} đứng một mình trên tảng băng nhìn xung quanh lo lắng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thế là chúng",
+   "layout": "Một đàn {PENGUIN} đứng trên những tảng băng trôi như những chiếc bè, cùng hướng về phía chân trời nơi có ánh hoàng hôn cam hồng le lói; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đến mùa xuân,",
+   "layout": "{PENGUIN} đứng trên bãi sỏi quen thuộc nhìn lên mặt trời mùa xuân rực rỡ, bên cạnh là tổ sỏi cũ, ánh sáng ấm áp chiếu xuống; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Mà khoan, khán",
+   "layout": "Một con tàu buồm cổ hoạt hình giữa biển băng, trên boong là nhà thám hiểm râu quai nón giơ tay chỉ về phía bờ biển trắng, tay kia cầm tấm ảnh chân dung người vợ trong khung tròn; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1840",
+     "side": "L",
+     "y": 360,
+     "value": "1840",
+     "label": "vùng đất A-đê-li",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và loài chim",
+   "layout": "{PENGUIN} nhìn vào gương thấy ảnh phản chiếu đeo nơ đỏ và đội thêm một chiếc mũ quý bà có lông chim, vẻ mặt ngớ ngẩn bất ngờ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Trong khi đó,",
+   "layout": "{MANTIS} nằm ngửa trên bãi cát ướt, sóng vừa rút đi, các chân nhỏ quơ quào trong không khí, mặt hoảng hốt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng ở bờ",
+   "layout": "Bãi biển nhiệt đới hoạt hình có cây dừa, một chú tôm tít nhỏ thân dài mảnh nằm trên cát, đang co mình chuẩn bị làm gì đó; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nó nằm ngửa,",
+   "layout": "Chuỗi hình ảnh nhiều tư thế liên tiếp của chú tôm tít đang lộn nhào thành bánh xe trên cát, để lại vệt cát hình vòng tròn, các nét gió tốc độ phía sau; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "72 vòng mỗi",
+   "layout": "Một chiếc đồng hồ đếm vòng hoạt hình chạy số liên tục bên cạnh vệt lăn trên cát dẫn thẳng xuống mép nước, chú tôm tít lăn tõm xuống biển; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "72 vòng",
+     "side": "R",
+     "y": 360,
+     "value": "72 VÒNG",
+     "label": "mỗi phút",
+     "target": [
+      0.4,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Loài người mất",
+   "layout": "Một người tiền sử hoạt hình đang hì hục đục chiếc bánh xe đá, mồ hôi nhễ nhại, quay sang nhìn thấy chú tôm tít lăn vèo qua mặt thì há hốc mồm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Cuối cùng, Chim",
+   "layout": "{PELICAN} dang đôi cánh rộng lớn chạy lấy đà trên mặt nước rồi cất cánh bay lên trời xanh, {JUDGE} giơ biển hiệu dấu tích xanh cho phép.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bồ Nông rất",
+   "layout": "{PELICAN} bay vòng tròn trong một cột không khí nóng vẽ bằng những mũi tên xoắn ốc màu cam đi lên, phía dưới là mặt đất nắng nóng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bồ Nông Úc",
+   "layout": "Một đàn {PELICAN} nhỏ li ti bay trên tầng mây cao, bên dưới là mặt đất xa tít tắp, một người hoạt hình dưới đất cầm ống nhòm tìm mãi không thấy; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và đây là bí",
+   "layout": "Một hồ muối khô cạn trắng xóa mênh mông dưới nắng sa mạc, nứt nẻ thành những ô lục giác, chân trời rung rinh hơi nóng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng cứ vài",
+   "layout": "Hồ Ây-rơ đầy nước xanh lấp lánh, trên trời hàng trăm con {PELICAN} từ mọi hướng đang bay tới, hạ cánh xuống mặt nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Năm 1989, các",
+   "layout": "Một hòn đảo giữa hồ chật kín tổ, hàng trăm chú bồ nông con lông xám há mỏ chờ mẹ cho ăn, bồ nông bố mẹ bay ra bay vào tấp nập; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1989",
+     "side": "L",
+     "y": 360,
+     "value": "1989",
+     "label": "100.000 chim con",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Câu hỏi: làm",
+   "layout": "{PELICAN} đứng giữa vũng nước, trên đầu là dấu chấm hỏi khổng lồ, xung quanh là các nhà khoa học hoạt hình gãi đầu, mỗi người cầm một tấm bảng có biểu tượng khác nhau (mũi, tai, la bàn, ống nhòm); {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Có giả thuyết",
+   "layout": "Một con {PELICAN} già đeo kính lão, đội mũ thám tử, bay về báo tin cho đàn bồ nông đang đứng chờ, cả đàn hào hứng vỗ cánh chuẩn bị xuất phát; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Tổng kết đường",
+   "layout": "Năm khung ảnh nhỏ hoạt hình xếp thành dải phim: {BADGER} đào hố, {WOLVERINE} băng qua đường cao tốc, {PENGUIN} đi trên băng, chú tôm tít lộn bánh xe, {PELICAN} bay trên hồ muối; {MC} cầm cuộn phim giơ lên.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Giám khảo xin",
+   "layout": "{JUDGE} bối rối nhìn chiếc thước dây cuộn dài tràn ra khắp sàn nhà, quấn cả vào chân bàn giám khảo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Huy chương đồng:",
+   "layout": "Bục trao giải: {MANTIS} đứng bậc đồng trong bể nước nhỏ đeo huy chương đồng, {WOLVERINE} đứng bậc bạc đeo huy chương bạc thứ hai lấp lánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và huy chương",
+   "layout": "{PENGUIN} đứng trên bậc vàng, đeo huy chương vàng, chỉnh nơ bướm đầy tự hào, mặt trời nhỏ hoạt hình mỉm cười chiếu sáng phía sau; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bảng điểm sau",
+   "layout": "{BOARD} sáng lên: cột {WOLVERINE} cao nhất, cột {PLATYPUS} và {PENGUIN} bằng nhau, cột {KOALA} và {MANTIS} thấp; bên dưới {BADGER} nghiến răng nhìn cột điểm trống trơn của mình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Ủa... đi bộ",
+   "layout": "{KOALA} ngồi bệt dưới chân bảng điểm, xoa bụng, ánh mắt thèm thuồng nhìn về phía khu ẩm thực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Câu hỏi hay",
+   "layout": "{MC} cười tươi chỉ tay về phía một khu bếp khổng lồ có lò nướng, chảo, bát đĩa và thực đơn treo tường (chỉ có hình vẽ món ăn), hơi nóng bốc lên thơm phức.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Một khu bếp ngoài trời hoạt hình cực lớn, mỗi tuyển thủ có một quầy bếp riêng có biển hiệu hình con vật (không chữ), {JUDGE} đeo mũ đầu bếp trắng cao, cầm chiếc thìa nếm thử.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Mở màn là",
+   "layout": "{PLATYPUS} đeo tạp dề, đứng trước quầy bếp chất cao như núi những con tôm, ấu trùng và giun nhỏ hoạt hình, vẻ mặt sẵn sàng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Một con Thú",
+   "layout": "Một chiếc cân đĩa hoạt hình: đĩa bên trái là {PLATYPUS}, đĩa bên phải là một đống thức ăn nhỏ bằng một phần năm; bên cạnh là {PLATYPUS} mẹ đeo nơ hồng cạnh một đống thức ăn to bằng chính nó; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "một phần năm",
+     "side": "R",
+     "y": 360,
+     "value": "1/5",
+     "label": "cân nặng mỗi ngày",
+     "target": [
+      0.7,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Có những tài",
+   "layout": "{PLATYPUS} mẹ ngồi trước một đống thức ăn cao bằng người nó, má phồng to, ăn liên tục không ngừng, trên đầu có chiếc đồng hồ chạy vèo vèo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Tức là nếu",
+   "layout": "Một bà mẹ hoạt hình ngồi trước một nồi cơm khổng lồ cao hơn cả người, cầm đôi đũa ngơ ngác, xung quanh là chồng bát đĩa cao ngất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Mà ăn khỏe",
+   "layout": "Phòng thí nghiệm hoạt hình hiện đại: một nhà khoa học nữ đeo kính bảo hộ nhỏ giọt sữa trắng vào đĩa petri, bên cạnh là ảnh {PLATYPUS} dán trên tường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Các nhà khoa học ở",
+   "layout": "Một mô hình phân tử ba chiều hoạt hình xoắn quăn như những lọn tóc lò xo màu xanh tím lơ lửng trên bàn thí nghiệm, phát sáng nhẹ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Phân tử ấy",
+   "layout": "Bên cạnh mô hình phân tử xoăn tít là một bé gái hoạt hình tóc vàng xoăn lò xo nhún nhảy, hai mái tóc trông giống hệt mô hình phân tử; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Vì sao sữa",
+   "layout": "Hình phóng to da bụng {PLATYPUS} mẹ có giọt sữa trắng, xung quanh là những con vi khuẩn hoạt hình mặt xấu xa đang tiến lại gần thì bị những lọn xoăn tím của đạm sữa quất bay; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ngày nay, các",
+   "layout": "Một chai thuốc hoạt hình có hình {PLATYPUS} trên nhãn (không chữ), xung quanh là những vi khuẩn mặc áo giáp kháng thuốc đang hoảng sợ bỏ chạy; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Giám khảo ghi",
+   "layout": "{JUDGE} cầm chiếc thìa, gật gù ghi chép, bên cạnh có một chiếc huy hiệu nhỏ hình chữ thập y tế màu xanh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Quầy bếp tiếp",
+   "layout": "{OTTER} nằm ngửa trên mặt nước cạnh quầy bếp, giơ hòn đá xám lên như đầu bếp khoe con dao gia truyền, trên bụng là một con trai to; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Năm 2024, các",
+   "layout": "Hàng chục chú {OTTER} hoạt hình nhỏ đeo vòng định vị nằm ngửa trên mặt biển, một nhà khoa học trên thuyền cầm sổ ghi chép và ống nhòm; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "196 con",
+     "side": "R",
+     "y": 360,
+     "value": "196 CON",
+     "label": "được theo dõi",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Câu trả lời:",
+   "layout": "Hai bộ răng hoạt hình so sánh: bộ răng bên trái mẻ sứt nhiều chỗ (rái cá cắn vỏ), bộ răng bên phải trắng sáng lấp lánh (rái cá dùng đá); {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Điều thú vị:",
+   "layout": "{OTTER} cái nhỏ con đập hòn đá xuống một con ốc vỏ cứng trên bụng, vỏ ốc vỡ toác; bên cạnh là một con rái cá đực to xác đang cắn vỏ đến méo cả mồm; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "gần gấp 3 lần",
+     "side": "R",
+     "y": 360,
+     "value": "~3 LẦN",
+     "label": "vỏ cứng hơn",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bài học từ",
+   "layout": "Một nha sĩ hoạt hình mặc áo blouse trắng giơ ngón cái tán thưởng, cầm chiếc gương nha khoa, bên cạnh là {OTTER} cười khoe hàm răng trắng bóng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Quầy bếp số",
+   "layout": "{DOLPHIN} nhô lên khỏi mặt nước, đội mũ đầu bếp lệch, nháy mắt tinh nghịch với ban giám khảo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ở vùng biển",
+   "layout": "{DOLPHIN} quẫy mạnh chiếc đuôi, một con cá đối bay vèo lên trời theo đường cong parabol, các nét vẽ tốc độ phía sau; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Con cá rơi",
+   "layout": "Con cá đối choáng váng nằm trên mặt nước, mắt xoay vòng, {DOLPHIN} con đang chăm chú nhìn {DOLPHIN} mẹ biểu diễn mẫu như một buổi học; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nhưng màn trình",
+   "layout": "Một thị trấn ven biển hoạt hình của Bra-xin có những ngôi nhà nhiều màu sắc, một con kênh rộng nối ra biển, những người đánh cá đứng chờ ven bờ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Câu chuyện này",
+   "layout": "{MC} giơ tay ra hiệu \"khoan đã\" với {DOLPHIN}, rồi quay sang chỉ về phía một cái bóng đen khổng lồ có chiếc mỏ dài đang bước vào bếp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chim Bồ Nông!",
+   "layout": "{PELICAN} dắt theo năm con bồ nông khác, cả nhóm mặc đồng phục giống nhau như một đội bóng, xếp hàng ngang đứng trước quầy bếp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đầu tiên, các",
+   "layout": "Một đàn {PELICAN} bay thành hình chữ V gọn gàng trên bầu trời xanh, phía dưới là một chiếc thuyền máy chở các nhà khoa học đang ngước nhìn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Họ huấn luyện",
+   "layout": "Một chiếc máy bay siêu nhẹ hoạt hình bay là là trên sông, phía sau là đàn {PELICAN} bay theo, mỗi con đeo một chiếc máy đo nhỏ trên lưng có hình trái tim đập; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Kết quả: khi",
+   "layout": "Hai màn hình nhịp tim hoạt hình so sánh: màn hình bồ nông bay một mình có đường nhịp tim dày đặc gấp gáp, màn hình bồ nông bay đội hình có đường nhịp tim thưa thớt thư thái; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "14%",
+     "side": "R",
+     "y": 360,
+     "value": "-14%",
+     "label": "nhịp tim",
+     "target": [
+      0.7,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bí quyết là",
+   "layout": "Sơ đồ hoạt hình hai con {PELICAN} bay nối đuôi, từ đầu cánh con trước tỏa ra những xoáy khí xoắn ốc màu xanh nhạt nâng cánh con sau lên; bên cạnh là hình hai người đạp xe nép sau nhau; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và con bồ",
+   "layout": "Con {PELICAN} bay đầu đàn thở hổn hển mồ hôi nhễ nhại, quay đầu ra hiệu, một con khác bay lên thay thế, hai bên đập cánh chào nhau như đổi ca trực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Quầy bếp tiếp theo... trống",
+   "layout": "Một quầy bếp bỏ trống chỉ còn chiếc tạp dề treo lủng lẳng, ở góc sân có một đống đất mới đào và những vụn đất bắn tung lên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Lửng Mật tên",
+   "layout": "{BADGER} thò đầu ra khỏi hố đất, miệng ngậm một chiếc thìa mật ong, phía sau một nhà khoa học hoạt hình cầm sổ ghi chép và máy đếm bấm tay; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và họ phát",
+   "layout": "Mặt cắt lòng đất cát hoạt hình: những khoang nhỏ chứa ấu trùng ong màu trắng nằm sâu trong cát, phía trên {BADGER} đang đào xuống thẳng tới chỗ đó; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "4 con Lửng",
+   "layout": "Bốn chú {BADGER} chui sâu dưới cát chỉ thò đuôi lên, xung quanh là những ấu trùng ong trắng nhỏ, một chiếc thước dây cắm thẳng xuống cát đo chiều sâu; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "2.800 con",
+     "side": "R",
+     "y": 360,
+     "value": "2.800",
+     "label": "ấu trùng ong",
+     "target": [
+      0.5,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Vậy còn câu",
+   "layout": "Một cuốn truyện tranh hoạt hình mở ra, trang sách vẽ một con chim nhỏ màu nâu dẫn đường cho {BADGER} đi về phía tổ ong trên cây, xung quanh có những ngôi sao lấp lánh như truyện cổ tích; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Năm 1990, ba",
+   "layout": "Ba nhà điểu học hoạt hình đeo kính ngồi quanh bàn, chỉ vào một tấm bản đồ châu Phi có dấu chấm hỏi to, trước mặt là chồng tài liệu cũ; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1990",
+     "side": "L",
+     "y": 360,
+     "value": "1990",
+     "label": "bài báo phản bác",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Thậm chí có",
+   "layout": "Hậu trường quay phim hoạt hình: một người cầm cần câu treo con chim nhồi bông lủng lẳng, {BADGER} đeo vòng cổ ngoan ngoãn đi theo, đạo diễn cầm loa ra hiệu \"cắt\"; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Một nghiên cứu năm",
+   "layout": "Một nhóm thợ săn mật ong hoạt hình ngồi quanh đống lửa, có người lắc đầu, có người khoanh tay nghi ngờ, một nhà nghiên cứu cầm sổ ghi chép; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nhưng ở một",
+   "layout": "Một tấm ảnh mờ nhòe như ảnh người tuyết bí ẩn, chỉ thấy lờ mờ một con chim và một con lửng, có kính lúp to đặt bên cạnh và dấu chấm hỏi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Giám khảo kết",
+   "layout": "{JUDGE} gõ búa, giơ một tấm thẻ hình chiếc kính lúp; {BADGER} đứng trước bàn giám khảo khoanh tay hậm hực.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Kết quả vòng",
+   "layout": "Bục trao giải: {OTTER} đứng bậc đồng ôm hòn đá đeo huy chương đồng, {PELICAN} đứng bậc bạc dang cánh đeo huy chương bạc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và huy chương",
+   "layout": "{PLATYPUS} đứng trên bậc vàng, giờ đã đeo hai chiếc huy chương vàng, băng đô xanh, nhảy cẫng lên sung sướng, pháo giấy rơi khắp nơi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bảng điểm sau",
+   "layout": "{BOARD} sáng lên: cột {PLATYPUS} vọt lên cao nhất, cột {WOLVERINE} thứ hai, cột {PENGUIN} thứ ba, các cột khác thấp hơn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Còn Lửng Mật, ứng",
+   "layout": "{BADGER}, {DOLPHIN} và một hộp kính lúp đựng {TARDIGRADE} đứng cạnh nhau trước bảng điểm, cả ba nhìn lên ba cột điểm tắt ngúm của mình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nhưng đừng vội",
+   "layout": "{MC} cầm một chiếc kính lúp khổng lồ soi vào mắt mình, mắt to phóng đại trông rất hài, tay kia đặt sau tai như đang lắng nghe.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Một căng tin hoạt hình rộng rãi có quầy buffet dài, mười tuyển thủ xếp hàng cầm khay, {MC} đứng ở cửa đeo tạp dề phục vụ, tay cầm chiếc muôi lớn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Koala đến quầy",
+   "layout": "{KOALA} cúi sát mũi vào một rổ lá khuynh diệp, nhắm mắt hít hà như chuyên gia nếm rượu, bên cạnh có một chiếc kính lúp nhỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Các nhà khoa",
+   "layout": "Một sở thú Nhật Bản hoạt hình có cây anh đào, nhân viên đặt sáu bó lá khuynh diệp khác loại trước mặt {KOALA}, một nhà khoa học cầm máy đo mùi hương có biểu đồ nhiều cột; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "10 chú Koala",
+     "side": "R",
+     "y": 360,
+     "value": "10 CHÚ",
+     "label": "được quan sát",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Vì sao phải",
+   "layout": "Hai chiếc lá khuynh diệp hoạt hình: chiếc bên trái tỏa ra làn khói mùi màu xanh lá hình mặt nhăn nhó, chiếc bên phải tỏa ra làn khói mùi màu hồng hình mặt cười; {KOALA} né chiếc bên trái; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Một nghiên cứu",
+   "layout": "Một khu rừng khuynh diệp hoạt hình nhìn từ trên cao, mỗi cây có một chấm màu xanh hoặc đỏ đánh dấu, những chú {KOALA} chỉ trèo lên những cây có chấm xanh; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "10 năm",
+     "side": "L",
+     "y": 360,
+     "value": "10 NĂM",
+     "label": "theo dõi",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Có nhà khoa",
+   "layout": "{KOALA} đứng trên ngã tư một thành phố hoạt hình đầy những nhà hàng hình cái cây, cầm chiếc điện thoại trống trơn không có ứng dụng, gãi đầu bối rối; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Cá Heo đến",
+   "layout": "{DOLPHIN} nhô lên trước quầy nước có ba bình: bình nước biển xanh có muối kết tinh, bình nước ngọt trong veo, bình nước cam; cá heo nhìn qua lại phân vân; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Câu trả lời",
+   "layout": "Sơ đồ hoạt hình bên trong {DOLPHIN}: một con cá được ăn vào tỏa ra những giọt nước nhỏ, một khối mỡ đang cháy tỏa ra hơi nước, tất cả gom vào một chiếc bình chứa trong cơ thể; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Một nghiên cứu năm",
+   "layout": "Một biểu đồ tròn hoạt hình chia hai phần: phần rất lớn màu xanh có biểu tượng con cá và ngọn lửa, phần nhỏ xíu màu xám có biểu tượng giọt nước biển; {DOLPHIN} chỉ vào phần lớn; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "90%",
+     "side": "R",
+     "y": 360,
+     "value": "> 90%",
+     "label": "nước từ thức ăn",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Sống giữa đại",
+   "layout": "{DOLPHIN} nằm thư giãn trên chiếc phao giữa biển, cắm ống hút vào một quả dừa, đeo kính râm tận hưởng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chim Cánh Cụt",
+   "layout": "{PENGUIN} đứng trước quầy hải sản, đầu được vẽ cắt ngang như sơ đồ: phía trên mỗi mắt có một tuyến nhỏ màu hồng nối với những mạch máu li ti; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Tuyến này lọc",
+   "layout": "Cận cảnh {PENGUIN} hắt xì một cái thật mạnh, những giọt nước muối trong veo bay ra từ đầu mỏ, các tuyển thủ khác đứng gần giơ tay che mặt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Và chúng không",
+   "layout": "{PENGUIN} cúi xuống liếm một vũng nước tuyết tan trên băng, bên cạnh là một nắm tuyết trắng xốp như kem, vẻ mặt khoan khoái; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Gấu Nước đến",
+   "layout": "{MC} cúi người soi qua một kính hiển vi đặt trên quầy, trong vòng tròn phóng to là {TARDIGRADE} đang đứng trên một chiếc lá rêu xanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Phần lớn các",
+   "layout": "Cận cảnh hoạt hình {TARDIGRADE} áp miệng vào một tế bào rêu xanh như quả bóng, hai chiếc kim nhỏ chọc vào, chất lỏng xanh được hút lên như hút ống hút, bên cạnh vẽ một ly trà sữa để so sánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhưng không phải",
+   "layout": "Trong thế giới hiển vi hoạt hình, một chú gấu nước to hơn có vẻ mặt dữ dằn đang đuổi theo một sinh vật tí hon hình ống, {TARDIGRADE} của chúng ta trốn sau chiếc lá rêu run rẩy; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thú Mỏ Vịt,",
+   "layout": "{PLATYPUS} đứng ở quầy, chỉ tay vào toàn bộ dãy khay đồ ăn, nhân viên căng tin há hốc mồm đẩy ra cả một xe đẩy chất đầy đồ ăn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Để ăn được",
+   "layout": "Dưới đáy suối hoạt hình, {PLATYPUS} đang dùng mỏ lật đá tìm mồi, hai má phồng to dần lên, bên cạnh là chiếc đồng hồ chỉ nhiều giờ trôi qua; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "10-12 tiếng",
+     "side": "R",
+     "y": 360,
+     "value": "10-12 GIỜ",
+     "label": "kiếm ăn mỗi ngày",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Lửng Mật thì",
+   "layout": "Sàn căng tin hoạt hình bị đào thủng một lỗ to, đất cát văng tung tóe lên quầy buffet, chỉ thấy cái mông và cái đuôi của {BADGER} thò ra, nhân viên căng tin ôm đầu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Giám khảo xin",
+   "layout": "{JUDGE} đứng bên miệng hố gõ búa, chỉ cây búa về phía cái hố, vẻ mặt nghiêm khắc nhưng khóe miệng nhếch cười.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Cháu ăn no",
+   "layout": "{KOALA} ngồi giữa đống lá khuynh diệp, cầm hai chiếc lá đưa lên mũi ngửi so sánh, vẻ mặt đắn đo như chuyên gia; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Hết giờ giải",
+   "layout": "Mười tuyển thủ no nê bước ra khỏi căng tin, {PENGUIN} còn đang hắt xì, {KOALA} còn ôm theo một bó lá, {BADGER} phủi đất trên người, {MC} giơ cờ hiệu hướng về sân thi đấu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Một phòng thí nghiệm giác quan hoạt hình có năm khu: khu kính lúp, khu tai nghe, khu bàn tay, khu cái mũi, khu bóng đèn; {MC} đứng ở giữa cầm micro.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Ban giám khảo",
+   "layout": "{JUDGE} đeo một chiếc kính lúp lớn trước mắt, trên bàn trước mặt là một bảng gỗ có những đường rãnh nhỏ khác nhau.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Rái Cá Biển",
+   "layout": "{OTTER} nằm ngửa cạnh bàn thí nghiệm, giơ hai bàn tay trước nhỏ xíu lên, các ngón tay ngọ nguậy háo hức; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Ở bang California,",
+   "layout": "Một bể nước hoạt hình có hai tấm bảng có rãnh đặt cạnh nhau, {OTTER} cái chìa bàn tay chạm vào tấm bên trái, một nhà khoa học hoạt hình cầm sổ ghi chép bên cạnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Kết quả: Selka",
+   "layout": "Hình phóng to hoạt hình hai đường rãnh gần như giống hệt nhau, ở giữa là một sợi tóc người để so sánh độ mỏng, một chiếc thước đo nhỏ xíu đặt bên dưới; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "0,3mm",
+     "side": "R",
+     "y": 360,
+     "value": "0,3 MM",
+     "label": "rãnh chênh lệch",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và Selka quyết",
+   "layout": "Một đồng hồ bấm giờ hoạt hình bên cạnh {OTTER} chỉ một vạch nhỏ, bên cạnh là một người tình nguyện đeo kính đang sờ tấm bảng chậm chạp, mặt nhíu mày, chiếc đồng hồ của người đó quay nhiều vòng; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "30 lần",
+     "side": "L",
+     "y": 360,
+     "value": "x30",
+     "label": "nhanh hơn người",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Vì sao Rái",
+   "layout": "Dưới đáy biển đục ngầu hoạt hình, {OTTER} nhắm mắt, hai bàn tay lướt nhanh qua cát và đá, nhặt một con nhím biển và một con ốc nhét vào túi dưới nách; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Giám khảo xin",
+   "layout": "{JUDGE} chạm thử vào tấm bảng có rãnh bằng đầu cánh, nhíu mày, rồi nhìn sang {OTTER} với vẻ thán phục.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Tuyển thủ tiếp",
+   "layout": "{PENGUIN} đứng ở mép hồ, một nửa khung hình là không khí trong vắt có núi băng, một nửa là nước xanh sâu thẳm có đàn cá nhỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bạn đã bao",
+   "layout": "Một người hoạt hình lặn dưới nước mở mắt, mọi thứ xung quanh mờ nhòe như ảnh bị nhòe nước, trên đầu là dấu chấm hỏi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chim cánh cụt giải",
+   "layout": "Sơ đồ mắt hoạt hình so sánh: mắt người có giác mạc cong như mái vòm, mắt {PENGUIN} có giác mạc phẳng như cửa kính, bên trong là thủy tinh thể tròn đang được những sợi cơ nhỏ bóp phồng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhờ vậy, Chim",
+   "layout": "{PENGUIN} đeo một chiếc máy ảnh hoạt hình trước ngực, ống kính tự động xoay đổi khi chú nhảy từ tảng băng xuống nước, chú cá nhỏ dưới nước giật mình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Tuyển thủ tiếp theo, Koala,",
+   "layout": "{KOALA} đứng trước một chiếc micro sân khấu, ngại ngùng chỉnh lại áo bệnh nhân, phía sau là dàn loa lớn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Năm 2011, các",
+   "layout": "Màn hình máy tính hoạt hình hiện hai mươi đường sóng âm khác nhau xếp chồng, mỗi đường một màu, bên cạnh là hình hai mươi chú {KOALA} nhỏ, mỗi chú cạnh một đường sóng; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "20 chú",
+     "side": "R",
+     "y": 360,
+     "value": "20 CHÚ",
+     "label": "thu âm tiếng rống",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và quan trọng",
+   "layout": "Một chú {KOALA} đang ngồi lim dim trên cây bỗng mở to mắt quay phắt về phía chiếc loa đặt dưới gốc cây, tai dựng lên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Các nghiên cứu",
+   "layout": "Một cô {KOALA} cái ngồi trên cành, nghe hai chiếc loa: loa bên trái phát nốt nhạc nhỏ cao, loa bên phải phát nốt nhạc to trầm; cô quay về phía loa bên phải, trái tim nhỏ bay lên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Cháu biết rồi,",
+   "layout": "{KOALA} cố hạ giọng, hai má phồng lên, mắt nhắm tịt, phát ra nốt nhạc vẽ to đùng nhưng méo xệch; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Tuyển thủ tiếp theo, Cá",
+   "layout": "{DOLPHIN} bơi trong một hồ nước có tám chiếc loa nhỏ đặt quanh viền hồ, một tấm bảng nút bấm nổi trên mặt nước, một nhà khoa học hoạt hình ngồi trên bờ với ly cà phê; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhiệm vụ: liên",
+   "layout": "Sơ đồ hoạt hình nhìn từ trên xuống: {DOLPHIN} ở giữa hồ, những vòng sóng âm tỏa ra tám hướng, ở một hướng có một ngôi sao nhỏ lóe sáng là mục tiêu, cá heo đang bơi về phía nút bấm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một chú cá",
+   "layout": "Cuốn lịch hoạt hình lật liên tục mười lăm trang, xen kẽ mặt trời và mặt trăng, {DOLPHIN} vẫn tỉnh táo bấm nút báo chính xác, trong khi nhà khoa học trên bờ đã ngủ gục bên ly cà phê; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "15 ngày",
+     "side": "R",
+     "y": 360,
+     "value": "15 NGÀY",
+     "label": "canh gác liên tục",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và cuộc thử",
+   "layout": "Bầu trời giông bão hoạt hình, mưa xối xả trên hồ, các nhà khoa học mặc áo mưa chạy thu dọn thiết bị, {DOLPHIN} vẫn nhô đầu lên nhìn họ như hỏi: sao dừng rồi?; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Khán giả của",
+   "layout": "Hình bộ não {DOLPHIN} hoạt hình chia đôi: nửa trái đội mũ ngủ và ngáy \"zzz\", nửa phải đeo kính và cầm ống nhòm canh gác; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhưng Chim Cánh",
+   "layout": "Một chú chim cánh cụt có dải lông đen mảnh vắt qua cằm như quai mũ, đang nằm ấp trứng trên tổ sỏi, trên lưng có gắn thiết bị nhỏ có ăng-ten; {PENGUIN} đứng cạnh chỉ vào như giới thiệu người anh họ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và họ phát",
+   "layout": "Chuỗi hình hoạt hình nhỏ liên tiếp: chú chim cánh cụt quai mũ nhắm mắt gục đầu, mở mắt, nhắm mắt, mở mắt, như đèn nhấp nháy, bên cạnh là đồng hồ bấm giờ chỉ bốn giây; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "10.000 lần",
+     "side": "R",
+     "y": 360,
+     "value": "10.000",
+     "label": "giấc ngủ mỗi ngày",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Cộng tất cả",
+   "layout": "Chú chim cánh cụt quai mũ đang gật gù ngủ thì giật mình mở mắt thấy một con chim cướp biển màu nâu đang lượn gần, chú lập tức xù lông dọa, rồi lại gục đầu ngủ tiếp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Giám khảo xin tổng",
+   "layout": "{JUDGE} đặt bốn tấm thẻ lên bàn: bàn tay, con mắt, nốt nhạc, chiếc đèn pin, rồi gãi đầu suy nghĩ, chiếc bút chì kẹp sau tai.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Kết quả vòng",
+   "layout": "Bục trao giải: {PENGUIN} đứng bậc đồng, đeo huy chương đồng, đeo kính lặn trên trán, mắt lim dim như sắp ngủ gật; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Huy chương bạc:",
+   "layout": "{OTTER} đứng bậc bạc giơ hai bàn tay lên khoe, đeo huy chương bạc; bậc vàng phía trên có ánh đèn spotlight chiếu xuống, chưa ai đứng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Thuộc về Cá",
+   "layout": "{DOLPHIN} nhảy vọt lên khỏi bể nước trên bậc vàng, đeo huy chương vàng, đội chiếc mũ lính gác nhỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bảng điểm sau",
+   "layout": "{BOARD} sáng lên: cột {PLATYPUS} cao nhất, hai cột {WOLVERINE} và {PENGUIN} bằng nhau, các cột khác thấp dần, hai cột {BADGER} và {TARDIGRADE} tắt ngúm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Vòng tiếp theo",
+   "layout": "Một chiếc tổ nhỏ hoạt hình nằm giữa ánh đèn sân khấu dịu nhẹ, bên trong là một quả trứng nhỏ, xung quanh tối dần; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": 0,
+   "layout": "Sân vận động hoạt hình ban đêm, đèn đã tắt gần hết, chỉ còn ánh trăng, phía xa là khu nhà nghỉ của tuyển thủ với vài ô cửa sổ còn sáng đèn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Máy quay hậu",
+   "layout": "Một chiếc máy quay hoạt hình có đèn đỏ nhấp nháy đang lén lút đi dọc hành lang tối, ống kính chĩa vào khe cửa một phòng nghỉ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Phòng số một:",
+   "layout": "Qua cửa sổ phòng nghỉ, thấy {WOLVERINE} đang leo một bức tường leo núi trong nhà, phía sau cửa sổ là dãy núi tuyết dưới ánh trăng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Ở công viên",
+   "layout": "Một bản đồ công viên quốc gia hoạt hình có núi tuyết, hồ nước và rừng thông, trên đó là đường đi dài màu đỏ của {WOLVERINE} đeo vòng cổ có ăng-ten; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "150-200km",
+     "side": "R",
+     "y": 360,
+     "value": "150-200 KM",
+     "label": "mỗi tuần",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Và chúng rất",
+   "layout": "Một bản đồ hoạt hình có nhiều đường thẳng tắp như kẻ thước cắt ngang qua núi, qua sông, qua đường; {WOLVERINE} đứng ở đầu một đường thẳng, đội mũ bảo hiểm leo núi, giơ ngón cái; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Phòng số hai:",
+   "layout": "Trong phòng tối hoạt hình, {PLATYPUS} cuộn tròn ngủ trong ổ chăn, chiếc vương miện đồ chơi đặt trên bàn đầu giường, cái mỏ khẽ giật, mí mắt rung rung; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Đó là giai",
+   "layout": "Phía trên đầu {PLATYPUS} là bong bóng giấc mơ khổng lồ: Thú Mỏ Vịt đang đứng trên bục vô địch, xung quanh là những con tôm nhỏ vỗ tay; một chiếc cúp nhỏ ghi kỷ lục (không chữ) đặt cạnh giường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Các nhà khoa",
+   "layout": "Một cây gia phả hoạt hình cổ kính, ở gốc rễ là hình {PLATYPUS} đang ngủ với bong bóng giấc mơ, các cành phía trên là hình các loài thú khác cũng đang ngủ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Phòng số ba:",
+   "layout": "Trong phòng nghỉ hoạt hình, {PENGUIN} đứng ngủ cạnh tổ sỏi nhỏ mang theo từ nhà, mắt nhấp nháy liên tục, xung quanh có những chữ \"zzz\" nhỏ xíu xuất hiện rồi biến mất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Như vòng bốn",
+   "layout": "{PENGUIN} đang gật gù bỗng mở to mắt khi nghe tiếng động ngoài cửa sổ, nơi bóng một con chim cướp biển lượn qua dưới ánh trăng, chú lập tức che chắn tổ sỏi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Phòng số bốn:",
+   "layout": "Một phòng nghỉ hoạt hình có bồn tắm lớn, {OTTER} nằm ngửa trên mặt nước, hai bàn tay úp lên mắt như đeo mặt nạ ngủ, một dải tảo bẹ quấn quanh bụng buộc vào vòi nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Các nhà khoa học cho",
+   "layout": "Một chiếc đồng hồ tròn hoạt hình chia ba phần màu: phần xanh có biểu tượng giường ngủ, phần cam có biểu tượng con cua, phần hồng có biểu tượng chiếc lược và quả bóng; {OTTER} đứng cạnh giơ ngón cái; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Phòng số năm:",
+   "layout": "Qua kính hiển vi hoạt hình, {TARDIGRADE} mặc chiếc áo thể thao tí hon đi tới đi lui trên một tấm thạch trong suốt, đeo băng đô thể thao; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Năm 2020 mốt,",
+   "layout": "Chia đôi khung hình: bên trái {TARDIGRADE} đi bằng tám chân với những dấu chân đánh số thứ tự nhịp bước; bên phải một chú bọ cánh cứng to lớn đi với nhịp bước giống hệt; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "500.000 lần",
+     "side": "R",
+     "y": 360,
+     "value": "x500.000",
+     "label": "côn trùng to hơn",
+     "target": [
+      0.75,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Lúc đi dạo,",
+   "layout": "{TARDIGRADE} đang chạy nước rút trên đường chạy tí hon, mồ hôi bay ra, các nét gió tốc độ phía sau, ở vạch đích có một chiếc cờ nhỏ bằng hạt bụi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Phòng số sáu,",
+   "layout": "Một phòng nghỉ hoạt hình trống trơn, giường chăn gối xộc xệch, trên tường có một cái lỗ tròn to đào xuyên ra ngoài, đất cát rơi vãi, ánh trăng chiếu qua lỗ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Máy quay chạy",
+   "layout": "Ngoài sân dưới ánh trăng hoạt hình, {BADGER} mẹ và lửng con cùng đào một cái hố nhỏ, mẹ làm mẫu, con bắt chước theo vụng về, hai mẹ con dính đầy đất cát nhưng rất vui vẻ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Hóa ra gã",
+   "layout": "Cận cảnh {BADGER} mẹ ôm lửng con ngồi dưới ánh trăng, hai mẹ con nhìn lên bầu trời đầy sao, phía xa là sân vận động im lặng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Máy quay hậu trường xin",
+   "layout": "Chiếc máy quay hoạt hình có đèn đỏ nhấp nháy rón rén lùi ra khỏi sân, phía sau hai mắt {BADGER} sáng lóe trong bóng tối nhìn theo, người quay phim toát mồ hôi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Trời sáng dần.",
+   "layout": "Bình minh hoạt hình rực rỡ trên sân vận động, ánh nắng đầu tiên chiếu lên chiếc vương miện bé xíu trên bệ đá giữa sân, chim hót trên mái khán đài; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": 0,
+   "layout": "Sân khấu hoạt hình được trang trí như một căn phòng em bé ấm áp, có nôi, có thú bông, có những tổ chim nhỏ, {MC} đứng ở giữa nói nhỏ nhẹ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Giám khảo sẽ",
+   "layout": "{JUDGE} đeo chiếc tạp dề có hình trái tim, cầm bình sữa nhỏ, ngồi ở bàn giám khảo với vẻ hiền từ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Mở màn là",
+   "layout": "{BADGER} mẹ bước lên sân khấu, miệng ngậm nhẹ nhàng một chú lửng con bé xíu hồng hào chưa có lông, vẻ mặt dịu dàng hiếm thấy; khán đài ồ lên ngạc nhiên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Ở sa mạc",
+   "layout": "Trong hang đất hoạt hình, một chú lửng con bé xíu trụi lông, mắt nhắm, nằm cuộn tròn trên lớp cỏ khô, {BADGER} mẹ nằm che chắn bên cạnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Và để giữ",
+   "layout": "Bản đồ sa mạc hoạt hình có nhiều chấm hang nối bằng đường chấm chấm, {BADGER} mẹ đang ngậm con đi trên đường giữa hai hang dưới ánh trăng; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "2km",
+     "side": "R",
+     "y": 360,
+     "value": "~2 KM",
+     "label": "mỗi lần chuyển hang",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Lửng con ở",
+   "layout": "{BADGER} mẹ đứng cạnh một tấm bảng đen hoạt hình vẽ hình cái xẻng, cái cây, con chuột và con rắn, lửng con ngồi chăm chú như học sinh, cầm bút chì ghi chép; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "14 tháng",
+     "side": "L",
+     "y": 360,
+     "value": "14 THÁNG",
+     "label": "học cùng mẹ",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Giám khảo xin",
+   "layout": "{JUDGE} gật đầu ghi chép, mắt hơi rưng rưng, đặt một ngôi sao vàng nhỏ lên bảng cạnh hình đầu {BADGER}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Tuyển thủ tiếp",
+   "layout": "{PLATYPUS} mẹ đeo nơ hồng, cầm trên tay hai quả trứng nhỏ màu trắng ngà, vỏ mềm như giấy da, khán giả trên khán đài há hốc mồm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Trước khi đẻ,",
+   "layout": "Mặt cắt ngang bờ sông hoạt hình có đường hầm dài ngoằn ngoèo, {PLATYPUS} mẹ đang đi giật lùi trong hầm, đuôi cuộn kẹp một bó lá ướt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Và mỗi lần",
+   "layout": "Đường hầm hoạt hình có những bức tường đất nhỏ chắn ngang thành nhiều lớp như những cánh cửa, {PLATYPUS} mẹ đang dùng đuôi vỗ chặt lớp đất cuối cùng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Thú Mỏ Vịt mẹ đẻ",
+   "layout": "{PLATYPUS} mẹ cuộn tròn trong ổ lá, ôm hai quả trứng nhỏ giữa bụng và đuôi, ánh sáng ấm áp; một quả trứng đang nứt, lộ ra cái mỏ bé xíu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Tuyển thủ tiếp theo, Rái",
+   "layout": "{OTTER} mẹ nằm ngửa trên mặt biển, trên ngực là một chú rái cá con lông xù màu nâu nhạt tròn như quả bóng bông, đang ngủ ngon lành; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Nên khi mẹ",
+   "layout": "Chú rái cá con lông xù được quấn nhẹ trong dải tảo bẹ nổi trên mặt nước như trong chiếc nôi, dưới nước sâu {OTTER} mẹ đang lặn tìm cua; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Rái cá con phụ",
+   "layout": "{OTTER} mẹ và con nằm ngửa cạnh nhau, mỗi bạn kẹp một hòn đá, mẹ làm mẫu đập vỏ sò, con bắt chước theo với vẻ mặt chăm chú, trên bụng mỗi bạn là cùng một loại con sò; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "6 đến 8 tháng",
+     "side": "R",
+     "y": 360,
+     "value": "6-8 THÁNG",
+     "label": "học cùng mẹ",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Tuyển thủ tiếp theo, Cá",
+   "layout": "{DOLPHIN} mẹ bơi cạnh một chú cá heo con nhỏ xíu, từ miệng cá heo mẹ bay ra những nốt nhạc hình trái tim; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Các nhà khoa học ở",
+   "layout": "Hai đường sóng âm hoạt hình so sánh: đường thứ nhất bình thường, đường thứ hai vọt lên cao hơn và rộng hơn, bên cạnh là hình cá heo mẹ có cá heo con bơi cạnh; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "19 cá heo",
+     "side": "R",
+     "y": 360,
+     "value": "19",
+     "label": "cá heo mẹ",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Tiếng huýt sáo cao",
+   "layout": "Chia đôi khung hình: bên trái một bà mẹ người hoạt hình ôm em bé nói chuyện, những nốt nhạc nhỏ bay ra; bên phải {DOLPHIN} mẹ bơi cạnh con, những nốt nhạc giống hệt bay ra; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Và cuối cùng,",
+   "layout": "{WOLVERINE} mẹ đang ngậm một chú chồn con lông trắng xám nhỏ xíu, đi trên tuyết dưới bầu trời sao từ một hang tuyết này sang một hang tuyết khác; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Chồn con được",
+   "layout": "{WOLVERINE} bố dẫn hai chú chồn con đi trên sườn núi tuyết, chồn con lon ton theo sau, một chú bị trượt chân lăn tuyết, chồn bố quay lại nhìn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Tuyển thủ tiếp theo, Chim",
+   "layout": "Một tấm lịch trực hoạt hình treo cạnh tổ sỏi, các ô xen kẽ hình {PENGUIN} bố đeo nơ đỏ và {PENGUIN} mẹ đeo nơ hồng, giữa tổ là hai quả trứng; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "12 ngày",
+     "side": "R",
+     "y": 360,
+     "value": "~12 NGÀY",
+     "label": "mỗi ca ấp",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Nhưng ca đầu",
+   "layout": "{PENGUIN} bố gầy rộc đi, chiếc nơ đỏ trễ xuống, bụng kêu ọt ọt có vẽ bong bóng hình con tôm, nhưng vẫn ngồi im ôm hai quả trứng giữa trời gió tuyết; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Khi chim con",
+   "layout": "Một nhóm đông chim cánh cụt con lông xám bông xù đứng sát vào nhau như một nhà trẻ ngoài trời, có vài chú lớn đứng canh ngoài rìa, phía xa {PENGUIN} bố mẹ cùng lạch bạch đi về phía biển; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Và một bất",
+   "layout": "Một chiếc hang chữ U dưới cát hoạt hình, bên trong có hai chú tôm tít nhỏ xíu nằm hai đầu hang, mỗi chú ôm một ổ trứng nhỏ màu hồng; {MANTIS} đứng bên ngoài chỉ vào như giới thiệu họ hàng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Cả bố và",
+   "layout": "Hai chú tôm tít nhỏ trong hang quạt những chiếc chân bơi tạo dòng nước nhỏ thổi qua hai ổ trứng, một chú đang nhặt một quả trứng màu xám ra ngoài; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Theo các nhà",
+   "layout": "{MANTIS} đeo tạp dề hồng, một càng cầm chiếc quạt nhỏ, một càng bế ổ trứng, vẻ mặt nghiêm túc của một ông bố; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Ban giám khảo",
+   "layout": "{JUDGE} và {MC} cùng rút khăn tay ra lau mắt, khán đài hoạt hình cũng sụt sùi, có chú thỏ đang khóc nức nở vào vai chú sóc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Kết quả vòng",
+   "layout": "Bục trao giải: {DOLPHIN} mẹ đứng bậc đồng cùng cá heo con, đeo huy chương đồng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Huy chương bạc:",
+   "layout": "{PLATYPUS} mẹ đeo nơ hồng đứng bậc bạc, ôm hai quả trứng; bậc vàng phía trên phủ ánh đèn ấm áp, khán đài nín thở; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Thuộc về Lửng",
+   "layout": "{BADGER} mẹ đứng trên bậc vàng, đeo huy chương vàng, lửng con nhỏ xíu ngồi trên đầu mẹ đội chiếc mũ tốt nghiệp nhỏ, khán đài đứng dậy vỗ tay; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Lửng Mật cuối",
+   "layout": "{BOARD} sáng lên: cột {PLATYPUS} vọt lên cao nhất, ba cột bằng nhau ở vị trí thứ hai, cột {BADGER} lần đầu tiên sáng đèn; {TARDIGRADE} đứng dưới chân bảng ngước nhìn cột điểm tắt của mình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Gấu Nước ngước",
+   "layout": "Cận cảnh {TARDIGRADE} tí hon đứng một mình giữa sân thi đấu rộng mênh mông, cái bóng nhỏ xíu đổ dài, nhìn về phía những tuyển thủ khác đang đứng thành nhóm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": 0,
+   "layout": "Ba cây nhỏ hoạt hình chụm lại thành ngọn núi, rồi biến hình thành ba chú {DOLPHIN} nhảy lên khỏi mặt nước cùng lúc; {MC} đứng cạnh giơ ngón cái.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Giám khảo chấm",
+   "layout": "{JUDGE} giơ lên ba tấm thẻ có biểu tượng: hai bàn tay nắm nhau, hai con vật khác loài bắt tay, và một bộ não có trái tim nhỏ bên trong.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Cá Heo bước",
+   "layout": "{DOLPHIN} nhô lên giữa một con kênh dẫn ra biển, hai bên bờ là những ngôi nhà sơn màu tươi sáng, người dân đứng dọc bờ cầm lưới; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Ở đây, mỗi",
+   "layout": "Một hàng người đánh cá hoạt hình đội mũ rộng vành đứng dưới nước ngang hông, tay cầm lưới tròn, tất cả cùng chăm chú nhìn về phía {DOLPHIN} đang bơi tới; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Cá Heo dồn",
+   "layout": "{DOLPHIN} lặn ngoắt xuống nước tạo bọt nước trắng, ngay trước mặt một người đánh cá; người đánh cá mở to mắt, cơ bắp căng ra chuẩn bị quăng lưới; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Người đánh cá lập",
+   "layout": "Chiếc lưới tròn bung ra giữa không trung chụp xuống mặt nước, dưới nước đàn cá đối tán loạn, {DOLPHIN} há miệng đớp một con cá đang chạy thoát; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Năm 2023, các",
+   "layout": "Một chiếc máy bay không người lái hoạt hình lơ lửng trên con kênh, dưới nước có chiếc micro nhỏ, một người đánh cá đeo đồng hồ định vị trên cổ tay; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Khi có Cá",
+   "layout": "Hai chiếc giỏ cá hoạt hình so sánh: giỏ bên trái gần như trống chỉ có một con cá nhỏ, giỏ bên phải đầy ắp cá đối tràn ra ngoài; {DOLPHIN} nháy mắt bên cạnh giỏ đầy; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "17 lần",
+     "side": "R",
+     "y": 360,
+     "value": "x17",
+     "label": "khả năng bắt cá",
+     "target": [
+      0.7,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Và Cá Heo cũng",
+   "layout": "{DOLPHIN} bơi an toàn trong con kênh, phía xa ngoài biển là những tấm lưới kéo lớn nguy hiểm có biển báo cấm màu đỏ, {DOLPHIN} quay đầu tránh xa; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "13%",
+     "side": "L",
+     "y": 380,
+     "value": "+13%",
+     "label": "tỷ lệ sống sót",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Điều kỳ diệu",
+   "layout": "Một ông lão đánh cá hoạt hình râu bạc ngồi bên bờ kể chuyện cho cháu nhỏ, chỉ tay về phía {DOLPHIN} đang nhô lên vẫy vây; phía sau là tấm ảnh cũ đen trắng chụp cảnh y hệt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nhưng các nhà",
+   "layout": "Con kênh vắng vẻ hơn, chỉ còn một người đánh cá già và một chú {DOLPHIN} nhìn nhau buồn bã, mặt nước chỉ có vài con cá nhỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nhưng Cá Heo",
+   "layout": "Ba chú {DOLPHIN} bơi cạnh nhau, trên đầu mỗi con là một bong bóng hình nốt nhạc khác nhau, mỗi nốt nhạc một màu riêng như chữ ký âm nhạc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Năm 2013, một",
+   "layout": "Một nhà khoa học hoạt hình cầm chiếc loa chống nước thả xuống bể, bên cạnh là chiếc máy ghi âm cổ có cuộn băng quay; {DOLPHIN} tò mò bơi lại gần; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "53 chú",
+     "side": "R",
+     "y": 360,
+     "value": "53 CON",
+     "label": "được thử nghiệm",
+     "target": [
+      0.5,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Có một chú",
+   "layout": "{DOLPHIN} cái hào hứng bơi vòng quanh chiếc loa dưới nước, miệng phát ra những nốt nhạc nhỏ, ánh mắt vui mừng; trong bong bóng ký ức là hình ảnh hai chú cá heo con bơi cạnh nhau; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Hai bạn đã",
+   "layout": "Một cuốn lịch hoạt hình lật nhanh từng trang bay tứ tung, ở cuối là hai chú {DOLPHIN} nhìn nhau qua khoảng cách xa, giữa hai con là sợi dây hình nốt nhạc nối liền; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "20 năm",
+     "side": "R",
+     "y": 360,
+     "value": "20 NĂM",
+     "label": "vẫn nhớ tên bạn",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Giám khảo... xin",
+   "layout": "{JUDGE} rút khăn tay ra chấm nước mắt sau cặp kính tròn, mũi đỏ hoe, cây búa gỗ đặt sang một bên.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Tuyển thủ tiếp",
+   "layout": "Một nhóm hàng chục chú {OTTER} nằm ngửa cạnh nhau trên mặt biển giữa đám tảo bẹ, trông như một chiếc bè lông nâu khổng lồ trôi bồng bềnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Thông thường mỗi",
+   "layout": "Một cảnh nhìn từ trên cao hoạt hình: mặt biển phủ kín hàng ngàn chấm nâu nhỏ li ti là rái cá nằm ngửa, chiếc máy bay nhỏ bay ngang qua chụp ảnh; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "2.000 con",
+     "side": "R",
+     "y": 360,
+     "value": "2.000",
+     "label": "rái cá một bè",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Và bè rái",
+   "layout": "Hai chiếc bè rái cá trên mặt biển có tấm biển phao nổi đánh dấu: bè bên trái gồm toàn rái cá to xác có hình biểu tượng mặt trăng xanh, bè bên phải gồm rái cá mẹ ôm rái cá con có biểu tượng trái tim hồng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Tuyển thủ tiếp theo không",
+   "layout": "Toàn cảnh bãi đá Nam Cực hoạt hình chật kín hàng ngàn chú {PENGUIN} nhỏ li ti đứng cạnh tổ sỏi, như một thành phố đông đúc nhìn từ trên cao; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Ở mũi đất",
+   "layout": "Cảnh đông nghịt hoạt hình: {PENGUIN} chen chúc đi lạch bạch như dòng người giờ tan tầm, có chú đang đứng giữa đường chỉnh nơ, có chú đang cãi nhau vì giẫm chân; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "150.000",
+     "side": "R",
+     "y": 360,
+     "value": "150.000",
+     "label": "cặp làm tổ",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Trong một thành",
+   "layout": "{PENGUIN} vừa đi biển về, đứng giữa đám đông giơ mỏ cất tiếng gọi, từ xa một chú cánh cụt con lông xám quay đầu lại và chạy lạch bạch về phía bố, giữa hai con là dòng nốt nhạc nối liền; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Và giờ, đến",
+   "layout": "Ba góc sân thi đấu: {WOLVERINE} ở góc tuyết, {BADGER} ở góc cát, {MANTIS} ở góc bể nước, ba tuyển thủ quay lưng lại với nhau khoanh tay; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nhưng giám khảo",
+   "layout": "{JUDGE} cúi người về phía bể nước, chỉ cây búa gỗ về phía {MANTIS}, {MANTIS} giơ hai càng ngẩng lên lắng nghe; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Câu trả lời",
+   "layout": "Hai chú {MANTIS} đứng đối diện nhau trước một cái hang đá, cả hai cúi chào nhau như hai võ sĩ trước trận đấu, một trọng tài hoạt hình nhỏ đứng giữa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Đầu tiên, dang",
+   "layout": "Chuỗi ba hình nhỏ hoạt hình nối nhau: hai {MANTIS} dang càng như võ sĩ khoe cơ, rồi vẫy râu ngửi nhau, rồi tung cú đấm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nhưng không phải",
+   "layout": "Một chú {MANTIS} cuộn đuôi lên trước ngực thành tấm khiên tròn cứng có hoa văn, chú kia đấm cú vào tấm khiên tạo tiếng \"bốp\" hoạt hình, không ai bị thương; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Và mục đích",
+   "layout": "Chú {MANTIS} nhỏ hơn thở hổn hển, giơ một càng lên như cờ trắng đầu hàng rồi bơi đi, chú to hơn bước vào hang; hai bên vẫn gật đầu chào nhau lịch sự; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Một võ sĩ",
+   "layout": "{MANTIS} đeo đai đen võ thuật hoạt hình, cúi đầu chào khán giả theo kiểu võ đường, trên tường có tấm biển hình nắm đấm và trái tim; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Còn Lửng Mật?",
+   "layout": "{BADGER} đứng khoanh tay, phía sau sáu con chim ưng xám đứng thành hàng như dàn đồng ca; {JUDGE} nhìn qua kính với vẻ suy tư, tay gõ gõ bút vào cằm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Giám khảo xin trả",
+   "layout": "{JUDGE} lắc đầu, gõ búa, giơ tấm thẻ có biểu tượng hai bàn tay nắm nhau bị gạch chéo về phía {BADGER}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Vừa giành huy",
+   "layout": "{BADGER} đứng trước bảng điểm, mặt đỏ gay, khói bốc lên từ tai, chân đá một viên sỏi nhỏ, lửng con ngồi trên đầu mẹ vỗ vai an ủi; xa xa {MANTIS} và {WOLVERINE} che miệng cười; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Kết quả vòng",
+   "layout": "Bục trao giải: {OTTER} nằm ngửa trên bậc đồng đeo thêm một huy chương đồng, tay nắm tay một chú rái cá khác; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Huy chương bạc:",
+   "layout": "{MANTIS} ở bậc bạc trong bể nước nhỏ đeo huy chương bạc, giơ càng ăn mừng; bậc vàng phía trên đang phủ một tấm màn che bí ẩn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Thuộc về Cá",
+   "layout": "{DOLPHIN} nhảy vọt lên khỏi bể nước trên bậc vàng, đeo hai huy chương vàng, xung quanh là những người đánh cá Bra-xin hoạt hình vỗ tay hoan hô; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Bảng điểm sau",
+   "layout": "{BOARD} sáng lên: cột {PLATYPUS} cao nhất, cột {DOLPHIN} sát nút ngay bên cạnh, ba cột bằng nhau ở giữa, cột {TARDIGRADE} tắt ngúm; {PLATYPUS} và {DOLPHIN} liếc nhìn nhau đầy cạnh tranh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nhưng vòng bảy",
+   "layout": "Một căn phòng tối hoạt hình, giữa phòng là chiếc bàn có chồng hồ sơ dày, trên cùng là chiếc kính lúp khổng lồ, ánh đèn bàn rọi xuống; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Và có những",
+   "layout": "Bóng đen của mười tuyển thủ in trên tường, một vài cái bóng đổ mồ hôi lo lắng, có cái bóng đang lén lút giấu một cuốn truyện tranh sau lưng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": 0,
+   "layout": "Một phòng họp báo hoạt hình có bàn dài phủ khăn xanh, mười chiếc micro nhỏ xếp hàng, phía dưới là hàng ghế phóng viên giơ tay, đèn flash nháy liên tục; {MC} đứng ở bục điều phối.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Câu hỏi đầu",
+   "layout": "Một cô phóng viên hoạt hình đứng dậy cầm micro hỏi, sổ tay trên tay, phía trước là {MANTIS} ngồi sau bàn họp báo nhướng mắt lắng nghe; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Câu trả lời",
+   "layout": "Dưới đáy biển tối đêm hoạt hình, chùm đèn xanh của thợ lặn chiếu vào một chú tôm tít thò đầu khỏi hang cát, hai đốm vàng trên người phát sáng rực rỡ như đèn pha; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Các nhà khoa",
+   "layout": "Sơ đồ hoạt hình hai chú tôm tít ở hai độ sâu: chú ở nước nông có đốm vàng bình thường, chú ở nước sâu xanh thẫm có đốm vàng vẫn sáng nhờ những mũi tên ánh sáng xanh đi vào và ánh sáng vàng đi ra; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "40 mét",
+     "side": "R",
+     "y": 360,
+     "value": "40 M",
+     "label": "đốm vẫn sáng",
+     "target": [
+      0.5,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Và những đốm",
+   "layout": "{MANTIS} dang hai càng trước cửa hang, hai đốm vàng trên người sáng rực như biển báo, một chú tôm tít khác đang lùi lại sợ hãi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Tôm Tít trả",
+   "layout": "Cả hàng ghế phóng viên hoạt hình đồng loạt đeo kính râm, {MANTIS} trên bàn họp báo phát sáng hai đốm vàng chói lóa, {MC} giơ tay che mắt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Câu hỏi thứ",
+   "layout": "Một anh phóng viên hoạt hình đeo kính cận đứng dậy hỏi, cầm máy ghi âm chĩa về phía {PELICAN}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Đó là anh",
+   "layout": "Một chú bồ nông nâu hoạt hình gập cánh lao thẳng từ trên trời xuống mặt biển như mũi tên, phía dưới là đàn cá nhỏ lấp lánh, nước bắn tung tóe; {PELICAN} đứng trên bờ chỉ tay giới thiệu; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "20 mét",
+     "side": "R",
+     "y": 360,
+     "value": "> 20 M",
+     "label": "độ cao bổ nhào",
+     "target": [
+      0.5,
+      0.35
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Bí mật nằm",
+   "layout": "Hình mặt cắt hoạt hình cơ thể bồ nông nâu có những túi khí nhỏ màu xanh nhạt phồng lên dưới da như những quả bóng, bên cạnh là hình túi khí ô tô bung ra để so sánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Câu hỏi thứ ba",
+   "layout": "Cô phóng viên đứng dậy lần nữa, giơ một tấm thẻ có hình dấu chấm hỏi, {BADGER} ngồi khoanh tay sau bàn họp báo nhướng mày; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Đó là tên \"Ratel\".",
+   "layout": "{BADGER} gầm gừ, từ miệng bay ra những hình nốt nhạc gai góc hình viên sỏi, bên cạnh vẽ một chiếc hộp thiếc đầy sỏi đang được lắc mạnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Còn ở Uganda,",
+   "layout": "Cận cảnh đầu {BADGER} hoạt hình với đôi tai nhỏ xíu gần như lẫn vào lớp lông, một chú chim nhỏ cầm loa thét vào tai nó mà {BADGER} vẫn thản nhiên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "\"Kẻ không nghe thấy\"... Có",
+   "layout": "{BADGER} đi thẳng qua tấm biển báo cấm có hình bàn tay đỏ, các con vật khác phía sau giơ tay ra can ngăn hoảng hốt, còn nó vẫn tỉnh bơ bước tiếp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Câu hỏi thứ tư",
+   "layout": "Anh phóng viên đeo kính cận đứng dậy, cầm cuốn từ điển La-tinh dày cộp, {WOLVERINE} ngồi sau bàn họp báo đang gặm một khúc xương; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Tên khoa học của Chồn",
+   "layout": "Cận cảnh {WOLVERINE} hoạt hình khựng lại giữa lúc gặm khúc xương, quay mặt nhìn vào ống kính với vẻ mặt bị bắt quả tang; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Và cả phòng",
+   "layout": "{WOLVERINE} giấu khúc xương ra sau lưng, huýt sáo nhìn lên trần nhà, cả phòng phóng viên cười ồ, đèn flash nháy liên tục; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Nhưng các nhà",
+   "layout": "{WOLVERINE} đứng giữa vùng tuyết trắng mênh mông chỉ có vài dấu chân thưa thớt, trên tay là một miếng thịt nhỏ, ánh mắt cảnh giác nhìn quanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Câu hỏi cuối",
+   "layout": "Cô phóng viên đứng dậy hỏi, vẻ mặt lo lắng thật sự, {KOALA} ngồi sau bàn họp báo đang lim dim ngủ thì giật mình mở mắt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Đây là một",
+   "layout": "Sơ đồ hoạt hình bụng của {KOALA} mẹ nhìn nghiêng, miệng túi nằm giữa bụng hướng ra phía trước, bên trong có chú Cô-a-la con bé xíu bám vào; một mũi tên chỉ ra phía trước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Miệng túi có",
+   "layout": "Chú Cô-a-la con lớn hơn thò nửa người ra khỏi túi, kéo miệng túi trễ xuống, {KOALA} mẹ vẫn ôm cây bình thản; bên cạnh vẽ một chiếc túi có dây rút được thắt chặt để minh họa cơ vòng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Hồi nhỏ cháu",
+   "layout": "{KOALA} cười tươi giơ tay khoe, trong bong bóng ký ức là hình chú Cô-a-la con thò đầu ra khỏi túi mẹ ngắm cành lá, mẹ nhăn mặt vì nặng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Xin cảm ơn",
+   "layout": "Cô phóng viên mỉm cười cúi chào, phía sau {WOLVERINE} đang lén nhặt lại khúc xương dưới gầm bàn, giả vờ như không có chuyện gì; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Buổi họp báo kết",
+   "layout": "{MC} đóng cuốn sổ ghi chép, các phóng viên đứng dậy vỗ tay, các tuyển thủ rời bàn họp báo đi về phía một cánh cửa gỗ lớn có hình chiếc kính lúp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": 0,
+   "layout": "Phòng phúc khảo hoạt hình như phòng xử án nhỏ: {JUDGE} ngồi giữa sau bàn cao, trước mặt là chiếc cân công lý, một bên đĩa cân là cuốn sách khoa học, bên kia là cuốn truyện tranh; {MC} đứng một bên cầm micro.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Hồ sơ phúc",
+   "layout": "Một tấm áp phích mạng xã hội hoạt hình phóng to đôi mắt {MANTIS}, bên trong là cầu vồng rực rỡ nhiều màu hơn hẳn, bên cạnh là đôi mắt người chỉ có ba màu đỏ xanh lá xanh dương; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Con số 16",
+   "layout": "Một bể thí nghiệm hoạt hình có hai sợi đèn màu, một vàng một cam rất gần nhau, {MANTIS} đứng giữa nhìn qua lại bối rối, một nhà khoa học cầm miếng tôm thưởng chờ bên cạnh; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "2014",
+     "side": "L",
+     "y": 360,
+     "value": "2014",
+     "label": "thí nghiệm màu",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Kết quả bất",
+   "layout": "{MANTIS} nhắm mắt chỉ càng bừa vào một sợi đèn, trên đầu là đồng xu đang tung lên quay quay, nhà khoa học vỗ trán; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Hóa ra 12",
+   "layout": "Hình minh họa hoạt hình: mắt {MANTIS} như một chiếc tủ có mười hai ngăn kéo nhiều màu, mỗi ngăn bắt một màu rơi vào; bên cạnh là não người như một họa sĩ đang pha trộn màu tinh tế trên bảng màu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Các nhà khoa học cho",
+   "layout": "{MANTIS} quét mắt qua một rạn san hô, những đốm màu được đánh dấu tức thì như đèn đỏ đèn xanh, một con cá nhỏ vừa ló ra đã bị phát hiện; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Phán quyết: tin",
+   "layout": "{JUDGE} gõ búa, giơ tấm thẻ có biểu tượng con mắt kèm dấu chấm hỏi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Tôm Tít gật",
+   "layout": "{MANTIS} khoanh hai càng gật đầu đầy tự tin, đeo chiếc kính râm hình mắt kép nhiều ngăn màu sắc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Hồ sơ phúc khảo số hai:",
+   "layout": "Hồ sơ màu đỏ có ảnh {BADGER} và một chú chim nhỏ màu nâu được đặt lên bàn, có dấu đóng hình chiếc kính lúp và dấu chấm hỏi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Giám khảo hỏi",
+   "layout": "{JUDGE} cúi người nhìn thẳng vào {BADGER} qua cặp kính tròn, cả căn phòng im phăng phắc, một giọt mồ hôi chảy trên trán {MC}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Lửng Mật im",
+   "layout": "{BADGER} quay mặt đi, bĩu môi, nhưng vẫn gật đầu miễn cưỡng, một tay giơ lên như đầu hàng; khán đài sửng sốt há hốc mồm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Phán quyết: tin đồn chưa",
+   "layout": "{JUDGE} mỉm cười gõ búa nhẹ, đặt một ngôi sao vàng nhỏ cạnh hình đầu {BADGER} trên bàn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Hồ sơ phúc khảo số ba:",
+   "layout": "Mặt Trăng hoạt hình xám bạc có miệng núi lửa, giữa một miệng núi lửa là xác con tàu vũ trụ nhỏ vỡ nát, những chấm nhỏ li ti rải rác xung quanh; Trái Đất xanh lơ lửng phía xa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Khán giả của",
+   "layout": "Một khẩu pháo khí dài hoạt hình trong phòng thí nghiệm, hai nhà khoa học đeo kính bảo hộ đứng cạnh, trên bàn là chiếc đạn nhựa nhỏ có chú {TARDIGRADE} đang ngủ bên trong; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Họ cho Gấu",
+   "layout": "Viên đạn nhựa hoạt hình bay vèo qua những vòng đo tốc độ phát sáng, đâm vào bao cát tung bụi, chiếc đồng hồ đo tốc độ chạy vọt lên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Kết quả: đến",
+   "layout": "{TARDIGRADE} bò ra khỏi bao cát, phủi bụi, choáng váng nhưng vẫn vẫy tay chào; bên cạnh là biển báo tốc độ có vạch giới hạn màu đỏ; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "825m",
+     "side": "R",
+     "y": 360,
+     "value": "825 M/S",
+     "label": "giới hạn sống sót",
+     "target": [
+      0.45,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Và cú va",
+   "layout": "Trên mặt Trăng xám bạc, một chiếc mũ phi hành gia tí hon nằm lặng lẽ giữa đống đổ nát của con tàu, một bông hoa nhỏ hoạt hình đặt bên cạnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Phán quyết: tin đồn Gấu",
+   "layout": "{JUDGE} cởi kính ra, khẽ cúi đầu, gõ búa thật nhẹ, ánh đèn trong phòng dịu xuống.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Nhưng khoan, Gấu",
+   "layout": "{TARDIGRADE} đứng trên bục phát biểu tí hon, giơ một chân lên xin nói, sau lưng là biểu đồ tốc độ có mũi tên vượt qua hình chiếc máy bay phản lực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Hồ sơ phúc khảo số bốn:",
+   "layout": "Một bức tranh kính màu nhà thờ cổ hoạt hình vẽ con bồ nông đứng trên tổ, cúi đầu mổ vào ngực, bên dưới là ba chú chim non há mỏ; ánh sáng chiếu xuyên qua kính màu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Hình ảnh này",
+   "layout": "Một bức tường hoạt hình treo nhiều tấm khiên huy hiệu cổ khác nhau, tấm nào cũng có hình con bồ nông mổ ngực cho con ăn (không chữ); {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Khoa học trả",
+   "layout": "Cảnh thật hoạt hình: {PELICAN} mẹ cúi mỏ xuống ép túi họng vào ngực, mở mỏ cho chú bồ nông con chui đầu vào bên trong túi họng lấy cá; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Thêm nữa, đầu",
+   "layout": "Cận cảnh mỏ {PELICAN} có chóp mỏ đỏ và túi họng đỏ hồng, một người xưa hoạt hình đội mũ trùm đầu nhìn qua bụi rậm, mắt mở to kinh hãi, tưởng tượng ra cảnh máu trong bong bóng suy nghĩ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Phán quyết: tin đồn sai.",
+   "layout": "{JUDGE} gõ búa rồi mỉm cười, giơ tấm thẻ có hình trái tim nhỏ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Hồ sơ phúc khảo số năm,",
+   "layout": "Một cuốn sách cổ hoạt hình mở ra trang có hình {KOALA} ôm chiếc lá to, bên cạnh là ly nước bị gạch chéo và chiếc lông vũ chấm mực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Vòng một đã",
+   "layout": "{KOALA} ôm thân cây thè lưỡi liếm nước mưa chảy dọc thân, mắt nhắm tận hưởng, xung quanh có những giọt mưa lấp lánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Cháu có uống",
+   "layout": "{KOALA} giơ tay phát biểu, đội chiếc mũ len nhỏ có quả bông, ánh mắt ngây thơ thành thật; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Phán quyết: tin đồn \"gần",
+   "layout": "{JUDGE} gõ búa dứt khoát, rồi gạch chéo một dòng trong cuốn sách cổ bằng bút đỏ, đặt ngôi sao vàng cạnh hình đầu {KOALA}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Kết quả vòng",
+   "layout": "Bục trao giải: {TARDIGRADE} tí hon đứng trên bậc đồng, phải đứng trên một chiếc ghế nhỏ mới với tới huy chương đồng, cười rạng rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Huy chương bạc:",
+   "layout": "{KOALA} đứng trên bậc bạc ôm huy chương bạc vào lòng như ôm gối, mặt vừa ngơ ngác vừa vui; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Và huy chương",
+   "layout": "{BADGER} đứng trên bậc vàng, đeo hai huy chương vàng, mặt vừa ngượng vừa sung sướng, khán đài vỡ òa vỗ tay, sáu con chim ưng xám tung pháo giấy từ trên trời; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Bảng điểm sau",
+   "layout": "{BOARD} sáng lên: ba cột {PLATYPUS}, {DOLPHIN}, {BADGER} cao sát nhau ở đầu bảng, các cột khác thấp hơn; khán đài nín thở; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Ba tuyển thủ",
+   "layout": "{JUDGE} lật một tấm bảng mới, trên đó ba chiếc huy chương vàng bạc đồng đều có biểu tượng nhân đôi phát sáng; {MC} hít một hơi thật sâu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Câu hỏi của",
+   "layout": "Một chiếc bàn tròn hoạt hình giữa sân khấu, trên bàn đặt một quả địa cầu nhỏ và một trái tim đỏ phát sáng, mười cái bóng tuyển thủ đứng vây quanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": 0,
+   "layout": "Một sân khấu nhỏ hoạt hình bên cạnh sân chính, trang trí bóng bay và dải ruy băng, trên bàn là hàng cúp nhỏ đủ hình dáng (không chữ); {MC} đứng sau bục cầm phong bì.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Giải phụ thứ",
+   "layout": "Một chú {DOLPHIN} cái già có vây lưng sứt một vết nhỏ, đeo cặp kính lão tròn, đội chiếc mũ len, bơi chậm rãi giữa vịnh biển, xung quanh là những chú cá heo nhỏ hơn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Nicklo là một",
+   "layout": "Một chiếc thuyền nghiên cứu hoạt hình trên vịnh, nhà khoa học cầm máy ảnh có ống kính dài chụp vây lưng của {DOLPHIN} già, trên thuyền là cuốn album dày cộp toàn ảnh vây lưng; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "820 lần",
+     "side": "R",
+     "y": 360,
+     "value": "820 LẦN",
+     "label": "được nhìn thấy",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Để biết tuổi",
+   "layout": "Hình phóng to hoạt hình mặt cắt một chiếc răng cá heo có những vòng vân đồng tâm như vòng gỗ, bên cạnh là mặt cắt một thân cây có vòng tuổi để so sánh; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "67 tuổi",
+     "side": "R",
+     "y": 360,
+     "value": "67 TUỔI",
+     "label": "cá heo hoang dã",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Nicklo là cá",
+   "layout": "Ba thế hệ {DOLPHIN} bơi nối đuôi nhau trong vịnh: bà Ních-lô đeo kính lão đi đầu, con gái ở giữa, cháu nhỏ ở cuối, ánh hoàng hôn ấm áp trên mặt nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Giám khảo xin",
+   "layout": "{JUDGE} đứng dậy, bỏ mũ ra cúi đầu kính cẩn, tay đặt lên ngực.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Giải phụ thứ hai:",
+   "layout": "Một con suối nhỏ hoạt hình ven thành phố, nhà nghiên cứu cầm máy quét nhỏ đưa lại gần {PLATYPUS} già có hàng lông mày bạc, máy quét kêu \"bíp\" và hiện biểu tượng ngôi sao; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Chú được gắn",
+   "layout": "{PLATYPUS} già đội chiếc mũ sinh nhật nhỏ, trước mặt là chiếc bánh kem cắm nến, bên cạnh có một tấm bảng hai cột so sánh: cột cũ thấp hơn, cột mới cao hơn (không chữ); {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "24 tuổi",
+     "side": "R",
+     "y": 360,
+     "value": "24 TUỔI",
+     "label": "kỷ lục hoang dã",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Trong khi đó,",
+   "layout": "{BADGER} ngồi trên mỏm đá sa mạc nhìn hoàng hôn, bên cạnh là chiếc đồng hồ cát nhỏ, vẻ mặt trầm ngâm nhưng không hề sợ hãi; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "3-8 năm",
+     "side": "L",
+     "y": 360,
+     "value": "3-8 NĂM",
+     "label": "tuổi thọ hoang dã",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Giải phụ thứ ba:",
+   "layout": "Mặt hồ trên núi hoạt hình phủ sương sớm, bên dưới là những đường lặn ngoằn ngoèo vẽ chi chít như bức tranh, mỗi đường kết thúc ở một chú {PLATYPUS} nhỏ; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "90.000 lần",
+     "side": "R",
+     "y": 360,
+     "value": "~90.000",
+     "label": "lần lặn",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Mỗi lần lặn",
+   "layout": "{PLATYPUS} lặn xuống, ngoi lên, lặn xuống, ngoi lên như chiếc pít-tông, bên cạnh là bộ đếm số hoạt hình đang nhảy liên tục, một chú vịt bên cạnh nhìn chóng cả mặt; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1.600 lần",
+     "side": "R",
+     "y": 360,
+     "value": "1.600 LẦN",
+     "label": "một chuyến kiếm ăn",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Giải phụ thứ tư:",
+   "layout": "{OTTER} nằm ngửa trên mặt nước lạnh, quanh người tỏa ra vầng hơi ấm màu cam, trên đầu là dấu chấm hỏi to, một nhà khoa học hoạt hình cầm đèn pin soi khắp người rái cá tìm kiếm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Năm 2020 mốt,",
+   "layout": "Phòng thí nghiệm hoạt hình có chiếc máy đo hô hấp tế bào với những ống nghiệm nhỏ, trên màn hình là hình tế bào cơ phóng to có những nhà máy năng lượng tí hon bên trong; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "21 chú",
+     "side": "R",
+     "y": 360,
+     "value": "21 CHÚ",
+     "label": "mẫu cơ bắp",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Và họ phát",
+   "layout": "Hình hoạt hình bên trong tế bào cơ: một nhà máy năng lượng nhỏ có những lỗ rò cố ý, từ đó tỏa ra hơi nhiệt màu cam ấm áp; bên cạnh, {OTTER} nằm im ngủ mà người vẫn tỏa ấm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Điều bất ngờ",
+   "layout": "Một chú rái cá con lông xù nằm trên ngực mẹ, bên trong cơ thể nhỏ bé vẽ một chiếc lò sưởi tí hon đã cháy đỏ, có gắn chiếc nơ quà tặng như món quà sinh nhật; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Giải phụ thứ năm:",
+   "layout": "Một phiến đá vôi hoạt hình màu kem có in hóa thạch bộ xương chim với chiếc mỏ dài gần như nguyên vẹn, một nhà cổ sinh vật học đeo kính lúp cúi soi, phía sau là những ngọn đồi miền Nam nước Pháp; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "30 triệu năm",
+     "side": "R",
+     "y": 360,
+     "value": "30 TRIỆU",
+     "label": "năm tuổi hóa thạch",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Và điều khiến",
+   "layout": "Hai chiếc mỏ đặt cạnh nhau hoạt hình: bên trái là mỏ hóa thạch màu đá xám, bên phải là mỏ của {PELICAN} ngày nay màu cam, giống nhau như đúc, {PELICAN} đứng cạnh nhìn hóa thạch như nhìn ảnh ông cố; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Các nhà khoa học đoán",
+   "layout": "{PELICAN} cầm chiếc điện thoại hoạt hình, màn hình hiện biểu tượng mũi tên cập nhật bị gạch chéo, bên cạnh là chiếc mỏ được gắn huy hiệu ngôi sao vàng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Giải phụ thứ sáu:",
+   "layout": "Một cuốn từ điển La-tinh khổng lồ hoạt hình mở ra giữa sân khấu, những dòng chữ (không đọc được, chỉ là nét gạch) bay lên thành hình bóng mười tuyển thủ; {MC} cầm kính lúp soi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Tên khoa học của Lửng",
+   "layout": "{BADGER} đứng trên mũi đất nhô ra biển có ngọn hải đăng, tay cầm hũ mật ong, phía sau là biển cả và sóng vỗ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Tên của Tôm",
+   "layout": "Cận cảnh {MANTIS} chỉ vào hai chiếc càng búa gập ngay dưới miệng mình, vẻ mặt tự hào, bên cạnh là hình vẽ một võ sĩ người hoạt hình có hai nắm đấm mọc ra từ cằm trông rất buồn cười; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Gấu Nước được",
+   "layout": "Một mục sư người Đức hoạt hình thế kỷ mười tám, tóc giả trắng, cúi nhìn qua chiếc kính hiển vi bằng đồng cổ, trong bong bóng phóng to là {TARDIGRADE} đang lạch bạch vẫy tay; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "năm 1773",
+     "side": "R",
+     "y": 360,
+     "value": "1773",
+     "label": "lần đầu được mô tả",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Ba năm sau,",
+   "layout": "{TARDIGRADE} đi chậm rãi trên một chiếc lá rêu, phía sau là một chú ốc sên hoạt hình đang vượt mặt và vẫy tay chào, {TARDIGRADE} vẫn thong thả không vội; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Còn Thú Mỏ",
+   "layout": "Một chú bọ cánh cứng nhỏ hoạt hình đeo bảng tên hình chữ nhật (không chữ) đứng khoanh tay trước cửa, {PLATYPUS} đứng ngoài nhìn vào ngơ ngác, tay cầm bảng tên giống hệt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Thế là Thú",
+   "layout": "{PLATYPUS} đeo hai chiếc bảng tên cùng lúc, một bảng nhỏ hình mỏ chim và một bảng lớn hình bàn chân dẹt, cười tươi tạo dáng chụp ảnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Giải phụ cuối",
+   "layout": "Một con tàu buồm cổ hoạt hình màu xám u ám trên biển lạnh, trên boong là những chồng da lông chất cao, bầu trời phủ mây đen; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Bộ lông dày",
+   "layout": "Một tấm bản đồ bờ biển Bắc Thái Bình Dương hoạt hình màu xám, chỉ còn vài chấm sáng nhỏ lẻ loi rải rác ở những hòn đảo xa, mỗi chấm là một nhóm rái cá nhỏ; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1.000 đến 2.000 con",
+     "side": "R",
+     "y": 360,
+     "value": "~1.500",
+     "label": "còn lại năm 1911",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Và cũng chính",
+   "layout": "Bản đồ bờ biển hoạt hình dần dần sáng lên từ những chấm nhỏ lan rộng thành những dải màu xanh dài, trên mặt nước hàng ngàn chú {OTTER} nằm ngửa vẫy tay; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "100.000",
+     "side": "R",
+     "y": 360,
+     "value": "> 100.000",
+     "label": "ngày nay",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Từ 1.000 con",
+   "layout": "{OTTER} mẹ ôm rái cá con nằm ngửa giữa rừng tảo bẹ xanh mướt dưới ánh nắng, xung quanh là cá bơi tung tăng, một chiếc ruy băng huy chương vàng lấp lánh lơ lửng phía trên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Giám khảo xin trao",
+   "layout": "{JUDGE} trao chiếc cúp nhỏ hình trái tim cho {OTTER}, rái cá ôm chiếc cúp như ôm hòn đá yêu thích, khán đài vỗ tay.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Ủa, vậy là",
+   "layout": "{KOALA} giơ tay hỏi từ hàng ghế khán đài, mắt lim dim, ôm chiếc gối hình chiếc lá khuynh diệp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Câu hỏi rất",
+   "layout": "{MC} cúi người xoa đầu {KOALA}, đưa cho bạn ấy một chiếc huy hiệu nhỏ hình mặt trăng, {KOALA} cười tươi rồi ngủ gục ngay trên vai {PLATYPUS}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Lễ trao giải phụ khép",
+   "layout": "{MC} giơ tay về phía sân khấu chính đang sáng rực ánh đèn, mười tuyển thủ xếp hàng bước vào, mỗi bạn ôm một hộp quà có nơ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": 0,
+   "layout": "Sân khấu chung kết hoạt hình rực rỡ, phía sau là màn hình khổng lồ hình quả địa cầu, mười tuyển thủ đứng thành hàng, mỗi bạn ôm một chiếc hộp quà có nơ (không chữ); {MC} đứng giữa giơ micro.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Rái Cá Biển",
+   "layout": "{OTTER} mở hộp quà, lôi ra một bộ đồ lặn hoạt hình phủ đầy lông mềm xù xì như thú nhồi bông, khán giả bật cười; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Năm 2016, các",
+   "layout": "Phòng thí nghiệm kỹ thuật hoạt hình: một cánh tay máy nhúng tấm cao su phủ lông lăn tăn xuống bể chất lỏng trong suốt, camera tốc độ cao ghi hình, những bọt khí nhỏ bám trên lông; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "2016",
+     "side": "L",
+     "y": 360,
+     "value": "2016",
+     "label": "lông nhân tạo",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Họ phát hiện:",
+   "layout": "Biểu đồ hoạt hình: ba mẫu lông thưa, vừa, dày, mẫu dày nhất giữ lớp bong bóng khí dày nhất; bên cạnh là phác thảo một bộ đồ lặn tương lai có lông bên trong; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Chim Cánh Cụt",
+   "layout": "{PENGUIN} mở hộp quà, giơ lên một tấm lưới kim loại mịn óng ánh như tấm vải bạc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Các nhà khoa",
+   "layout": "Hình phóng to dưới kính hiển vi hoạt hình: các sợi lông nhỏ đan móc vào nhau thành lưới, trên bề mặt có những rãnh song song li ti; một nhà khoa học hoạt hình nhìn qua kính hiển vi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Họ bắt chước",
+   "layout": "Hai tấm kim loại hoạt hình so sánh dưới mưa băng: tấm thép phẳng bên trái bị đóng một lớp băng dày cứng; tấm lưới bên phải băng chỉ bám mỏng và đang nứt vỡ rơi xuống; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "95%",
+     "side": "R",
+     "y": 360,
+     "value": "-95%",
+     "label": "băng bám",
+     "target": [
+      0.72,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Các nhà khoa học hy",
+   "layout": "Một thành phố hoạt hình giữa mùa đông tuyết trắng, đường dây điện và cột điện được bọc lưới bạc lấp lánh, băng không bám được, đèn trong nhà vẫn sáng ấm áp; {PENGUIN} đứng trên mái nhà tự hào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Bồ Nông mở",
+   "layout": "{PELICAN} dùng mỏ gắp từ hộp quà ra một chiếc máy bay chở khách đồ chơi màu trắng, vẻ mặt tự hào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Từ việc nghiên",
+   "layout": "Bầu trời xanh hoạt hình có hai chiếc máy bay chở khách bay nối đuôi nhau, phía sau chiếc đầu có những luồng xoáy khí xoắn ốc màu xanh nhạt nâng chiếc sau lên; bên dưới một đàn bồ nông bay chữ V cùng hướng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Chiếc bay sau",
+   "layout": "Hai chiếc máy bay hạ cánh xuống sân bay đầy tuyết, bên cạnh là một quả bóng bay hình đám mây xám có biểu tượng chiếc cân sáu khối, bị xì hơi nhỏ dần; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "6 tấn",
+     "side": "R",
+     "y": 360,
+     "value": "-6 TẤN",
+     "label": "khí thải CO2",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Tôm Tít mở",
+   "layout": "{MANTIS} mở hộp quà, lôi ra một chiếc mũ bảo hiểm thể thao hoạt hình có hoa văn xoắn ốc bên trong vỏ, đội thử lên đầu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Một chiếc càng",
+   "layout": "Một kỹ sư hoạt hình đeo kính bảo hộ soi chiếc càng búa của {MANTIS} dưới kính hiển vi điện tử lớn, màn hình bên cạnh hiện hình phóng to nhiều lớp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Họ thấy những",
+   "layout": "Mặt cắt hoạt hình chiếc càng búa của {MANTIS}: bên trong là những lớp sợi xếp xoay dần như cầu thang xoắn ốc, một vết nứt màu đỏ cố chui vào nhưng bị lạc lối đi vòng vèo rồi dừng lại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Cấu trúc xoắn",
+   "layout": "{JUDGE} cẩn thận cất một chiếc huy chương vào hộp nhỏ có khóa, dán nhãn hình ngôi sao, đặt lên giá \"để dành\"; {MANTIS} gật đầu chấp nhận, vẫn đội chiếc mũ bảo hiểm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Cá Heo xin",
+   "layout": "{DOLPHIN} dùng mũi đẩy ra một chiếc hộp quà nhỏ, bên trong là chiếc phao đánh dấu màu cam có dây buộc, phía sau là bến cảng hoạt hình với những con tàu lớn đang chờ ngoài khơi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Bến cảng ấy",
+   "layout": "Mặt cắt đáy cảng hoạt hình đầy những vật thể lẫn lộn: thủy lôi tròn có gai, xe đẩy cũ, tảng đá, thùng phuy; phía trên một chiếc tàu ngầm robot nhỏ màu vàng chiếu đèn dò với dấu chấm hỏi; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "hơn 100 quả",
+     "side": "R",
+     "y": 360,
+     "value": "> 100",
+     "label": "thủy lôi và vật nổ",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Đó là lúc",
+   "layout": "Một chiếc xuồng hơi hoạt hình chở người huấn luyện và một chú {DOLPHIN} đeo dây đai nhỏ, chú cá heo nhảy xuống nước, những vòng sóng âm tỏa ra hướng về đáy cảng đục ngầu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Khi phát hiện",
+   "layout": "Một chú {DOLPHIN} dưới nước phát ra những vòng sóng âm hướng về một quả thủy lôi vùi nửa trong bùn, rồi ngậm chiếc phao cam đặt cạnh đó; trên mặt nước là chiếc xuồng có người huấn luyện chờ sẵn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Nhờ vậy, chỉ",
+   "layout": "Một con tàu chở hàng hoạt hình chở đầy bao gạo cập bến an toàn, người dân trên bờ vẫy tay, dưới nước {DOLPHIN} nhô lên mỉm cười; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Giám khảo ghi nhận món",
+   "layout": "{JUDGE} mỉm cười gõ búa nhẹ, gắn một ngôi sao vàng nhỏ lên chiếc phao cam, {DOLPHIN} gật đầu vui vẻ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Gấu Nước mở",
+   "layout": "{TARDIGRADE} mở chiếc hộp quà to hơn người nó, bên trong là một chuỗi xoắn ADN nhỏ phát ánh sáng xanh lam huyền ảo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Năm 2016, các nhà",
+   "layout": "Phòng thí nghiệm Nhật Bản hoạt hình có cây anh đào ngoài cửa sổ, một nhà khoa học đeo kính nhìn vào màn hình hiện chuỗi xoắn ADN và một tấm khiên nhỏ bọc quanh nó; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Rồi họ làm",
+   "layout": "Hai đĩa tế bào hoạt hình dưới chùm tia X màu tím: đĩa bên trái tế bào người bị vỡ vụn nhiều mảnh; đĩa bên phải tế bào được bao bọc bởi những đám mây khiên xanh nhỏ của gấu nước, ít bị vỡ hơn hẳn; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "40%",
+     "side": "R",
+     "y": 360,
+     "value": "-40%",
+     "label": "hư hại ADN",
+     "target": [
+      0.72,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Một chú gấu",
+   "layout": "{TARDIGRADE} tí hon đang mặc cho một tế bào người hoạt hình to tròn một chiếc áo giáp màu xanh nhỏ xíu, tế bào nhìn xuống bối rối nhưng cảm động; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Và cuối cùng,",
+   "layout": "{PLATYPUS} mở hộp quà, bên trong là một lọ thủy tinh nhỏ chứa một giọt chất lỏng màu tím lấp lánh, khán giả lùi lại vì sợ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Thú Mỏ Vịt đực",
+   "layout": "Sơ đồ hoạt hình: cựa độc ở chân sau {PLATYPUS}, một mũi tên chỉ sang một phân tử hóc-môn nhỏ, rồi mũi tên chỉ tiếp sang tuyến tụy hoạt hình đang tiết ra những giọt in-su-lin vàng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Vấn đề là",
+   "layout": "Hai chiếc đồng hồ cát hoạt hình: đồng hồ của người cát chảy hết rất nhanh, đồng hồ của {PLATYPUS} cát chảy rất chậm, rất bền bỉ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Và một hormone",
+   "layout": "Một chú chuột thí nghiệm hoạt hình khỏe mạnh đứng trên chiếc cân, cạnh đó là ống nghiệm có hình {PLATYPUS}, một nhà khoa học ghi chép biểu đồ đường huyết đi xuống; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Sữa có chất",
+   "layout": "{PLATYPUS} mặc áo blouse trắng đứng sau quầy thuốc dưới nước, trên kệ phía sau là những lọ thuốc có hình giọt sữa và giọt nọc tím; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Giám khảo ra",
+   "layout": "{JUDGE} đứng dậy trên bàn giám khảo, tay cầm phong bì, cả khán đài nín thở, ánh đèn sân khấu hội tụ về phía bà; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Huy chương đồng",
+   "layout": "{JUDGE} mở phong bì đầu tiên, phía dưới {PELICAN} bước lên bậc đồng, đôi cánh dang rộng, chiếc máy bay đồ chơi đậu trên mỏ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Huy chương bạc,",
+   "layout": "{JUDGE} mở phong bì thứ hai, phía dưới {TARDIGRADE} được nâng lên bậc bạc trên một chiếc đĩa nhỏ có kính lúp phóng to.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Và huy chương",
+   "layout": "{JUDGE} mở phong bì cuối cùng, giơ cao tấm thiệp có hình {PLATYPUS}, pháo giấy vàng nổ tung khắp sân vận động.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Và đây là",
+   "layout": "{BOARD} xoay vòng, đèn nhấp nháy liên hồi, mười cột điểm nhảy lên xuống hồi hộp trước khi dừng lại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Hạng ba: Lửng",
+   "layout": "{BADGER} bước lên bục hạng ba, đeo hai chiếc huy chương vàng, lửng con ngồi trên đầu, sáu con chim ưng xám bay lượn phía trên tung pháo giấy; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Hạng hai: Cá",
+   "layout": "{DOLPHIN} nhảy vọt lên từ bể nước đặt trên bục hạng hai, đeo hai huy chương vàng và một huy chương đồng, những người đánh cá Bra-xin hoạt hình vẫy lưới chúc mừng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Và nhà vô",
+   "layout": "Đèn sân vận động tắt phụt, chỉ còn một vòng ánh sáng vàng rọi xuống chiếc vương miện bé xíu trên bệ đá giữa sân; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Thú Mỏ Vịt! Tuyển",
+   "layout": "{PLATYPUS} đeo băng đô xanh và ba huy chương vàng bước lên bục cao nhất, {MC} đặt chiếc vương miện vàng bé xíu lên đầu, pháo hoa nổ rực trời, khán đài vỡ òa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": 0,
+   "layout": "{PLATYPUS} đứng trên bục vô địch, vương miện lệch trên đầu, khóc vì xúc động; bên cạnh là một khung ảnh cũ đen trắng vẽ nhà khoa học cầm kéo soi mẫu vật; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Ủa... vậy là",
+   "layout": "{KOALA} chạy lạch bạch tới ôm chầm lấy {PLATYPUS}, hai bạn ôm nhau trên bục, vương miện suýt rơi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Nhìn lại cả",
+   "layout": "{MANTIS} và {TARDIGRADE} đứng ở góc sân khoanh tay, nhìn lên bục vô địch, ban đầu hậm hực, rồi từ từ mỉm cười và vỗ tay; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Vì sinh tồn",
+   "layout": "Một bức tranh ghép nhiều ô hoạt hình: {PLATYPUS} bơi trong nước đá, {PENGUIN} đi trên băng hướng về mặt trời, {DOLPHIN} cùng người đánh cá, {KOALA} ôm cây; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Và có 1",
+   "layout": "Một nhà khoa học hoạt hình ngồi trên chiếc bàn tròn với mười tuyển thủ, mỗi tuyển thủ đưa cho nhà khoa học một món đồ nhỏ: chùm lông, tấm lưới, máy bay đồ chơi, ống nghiệm phát sáng, lọ thuốc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Thiên nhiên không",
+   "layout": "Một thư viện hoạt hình khổng lồ có kệ sách là thân cây, mỗi cuốn sách trên kệ có gáy in hình một con vật khác nhau (không chữ), một em bé đang rút một cuốn ra đọc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Và cũng có",
+   "layout": "Một tấm hồ sơ hoạt hình màu đỏ có ảnh {KOALA} ôm thân cây cháy sém, bên cạnh là con dấu hình chiếc khiên đỏ, phía sau là cánh rừng khô cháy; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Tháng 11/2023, đến",
+   "layout": "Một tấm hồ sơ hoạt hình màu cam có ảnh {WOLVERINE} đứng trên sườn núi tuyết đang tan, nước chảy thành dòng, con dấu hình chiếc khiên cam; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Chồn Gulo cần",
+   "layout": "Ba ô tranh hoạt hình buồn: tuyết tan sớm trên núi của {WOLVERINE}, con kênh vắng cá của {DOLPHIN}, cánh rừng khô hạn có {KOALA} ôm thân cây trơ trụi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Nếu những loài",
+   "layout": "Một cuốn sách hoạt hình có bìa hình {WOLVERINE} đang mờ dần như sắp tan biến, một bàn tay em bé nhẹ nhàng giữ lấy nó; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Trước khi chia",
+   "layout": "{BOARD} lớn hiện lên giữa sân với mười cột sáng từ cao xuống thấp, pháo hoa nhỏ nổ hai bên, {MC} đứng cạnh giơ tay giới thiệu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Vô địch: Thú",
+   "layout": "{PLATYPUS} đội vương miện đứng trên đỉnh cột điểm cao nhất, đeo ba huy chương vàng và một huy chương bạc, băng đô xanh, hai tay giơ cao; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Á quân: Cá",
+   "layout": "{DOLPHIN} nhảy vọt lên trên cột điểm thứ hai, đeo hai huy chương vàng và một huy chương đồng, nước bắn tung tóe lấp lánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Hạng ba: Lửng",
+   "layout": "{BADGER} đứng trên cột điểm thứ ba, lửng con ngồi trên đầu, đeo hai huy chương vàng, sáu con chim ưng xám bay lượn phía trên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Hạng tư: Gấu",
+   "layout": "Ba cột điểm bằng nhau hoạt hình: {TARDIGRADE} đứng trên cột hạng tư vẫy tay qua kính lúp; bên cạnh {WOLVERINE} khoanh tay, {PENGUIN} chỉnh nơ, {OTTER} ôm hòn đá, {PELICAN} dang cánh, bốn bạn đứng cạnh nhau cười tươi, mỗi bạn đeo những chiếc huy chương của mình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Và cuối bảng,",
+   "layout": "Hai cột điểm cuối hoạt hình: {MANTIS} giơ càng chào kiểu võ sĩ, {KOALA} ôm cột điểm ngủ gật, cả hai đeo huy chương và cười tươi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Và nếu phải",
+   "layout": "Một cuốn album ảnh kỷ niệm hoạt hình mở ra: ảnh {KOALA} ôm thân cây mát, ảnh {WOLVERINE} đứng trên đỉnh núi Rốc-ky, những tấm ảnh được dán bằng băng dính hoạt hình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Chim Cánh Cụt đi",
+   "layout": "Trang album tiếp theo: ảnh {PENGUIN} trên băng dưới hoàng hôn, ảnh {TARDIGRADE} bò ra khỏi bao cát, ảnh người ngư dân Bra-xin và {DOLPHIN} cùng nhìn nhau; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Và bây giờ,",
+   "layout": "{MC} chĩa micro vàng ra phía người xem, mỉm cười, phía sau là {BOARD} với mười hình đầu tuyển thủ đang chờ bình chọn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Hãy viết tên",
+   "layout": "Mười tuyển thủ đứng dàn hàng ngang trên sân khấu vẫy tay chào khán giả, pháo giấy rơi, {MC} đứng giữa cúi chào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Vì Đại Hội",
+   "layout": "Một cánh cửa đường hầm mới mở hé ánh sáng, bên trong là mười cái bóng đen mới: một con gấu tròn ôm cành tre, một con hà mã to lớn, một con lười treo ngược, và nhiều bóng khác; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Và lần này,",
+   "layout": "Một chú tôm nhỏ có chiếc càng to quá khổ như khẩu súng đứng ở cửa đường hầm, phun một tia nước mạnh tạo bong bóng nổ \"bụp\" hoạt hình, {MC} đứng ngoài giật mình làm rơi micro.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "{BOARD} dựng giữa sân vận động ban đêm, phía trên lơ lửng chiếc vương miện vàng bé xíu phát sáng, mười cái bóng tuyển thủ đứng bên dưới.",
+   "stickers": []
+  },
+  {
+   "at": "Lửng Mật, Tôm",
+   "layout": "{BADGER}, {MANTIS} và {TARDIGRADE} đứng oai vệ trên ba cột điểm cao vút, bên dưới {PLATYPUS} đeo băng đô xanh đứng cạnh một cột điểm thấp lè tè.",
+   "stickers": []
+  },
+  {
+   "at": "Vòng một: Thú",
+   "layout": "{PLATYPUS} bơi thong thả giữa dòng sông có băng trôi, quanh người là vầng hào quang cam ấm áp.",
+   "stickers": [
+    {
+     "at": "0°C",
+     "side": "R",
+     "y": 640,
+     "value": "0°C",
+     "label": "bơi 5 tiếng",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vòng hai: Chim",
+   "layout": "{PENGUIN} đi lạch bạch trên băng hướng về phía mặt trời hoàng hôn, phía sau là đường chấm đỏ uốn quanh bản đồ Nam Cực.",
+   "stickers": [
+    {
+     "at": "13.000km",
+     "side": "L",
+     "y": 620,
+     "value": "13.000 KM",
+     "label": "mỗi năm",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vòng sáu: Cá",
+   "layout": "{DOLPHIN} lặn ngoắt xuống nước trước mặt một người đánh cá đang quăng lưới tròn giữa không trung.",
+   "stickers": []
+  },
+  {
+   "at": "Vòng bảy: tin",
+   "layout": "Viên đạn nhựa nhỏ bay vèo trong phòng thí nghiệm, bên trong là {TARDIGRADE} đang ngủ, đâm vào bao cát tung bụi.",
+   "stickers": []
+  },
+  {
+   "at": "Lửng Mật thì",
+   "layout": "{BADGER} quay mặt đi bĩu môi nhưng vẫn gật đầu, giơ một tay lên như đầu hàng, {JUDGE} gõ búa phía sau.",
+   "stickers": []
+  },
+  {
+   "at": "Chung kết: ai",
+   "layout": "{PLATYPUS} mặc áo blouse trắng đứng sau quầy thuốc dưới nước, kệ phía sau có lọ thuốc giọt sữa trắng và giọt nọc tím.",
+   "stickers": []
+  },
+  {
+   "at": "Và nhà vô",
+   "layout": "{PLATYPUS} đứng trên bục cao nhất đội vương miện vàng bé xíu, đeo ba huy chương vàng, khóc vì sung sướng, pháo hoa nổ rực trời.",
+   "stickers": []
+  },
+  {
+   "at": "Bạn có đồng",
+   "layout": "{JUDGE} và mười tuyển thủ cùng quay sang nhìn thẳng ra người xem, {PLATYPUS} ở giữa giơ vương miện lên như mời người xem.",
+   "stickers": []
+  }
+ ]
+}

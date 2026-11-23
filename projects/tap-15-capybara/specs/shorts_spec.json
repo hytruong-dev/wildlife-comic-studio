@@ -1,0 +1,441 @@
+{
+ "episode": "tap-15-capybara",
+ "title_lines": [
+  "BỐ GIÀ 65KG ĐẦM LẦY:",
+  "CÁ SẤU CŨNG PHẢI NỂ!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 50.26,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-15-capybara_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  8.77,
+  13.97,
+  16.45,
+  22.25,
+  25.43,
+  31.49,
+  35.35,
+  39.03,
+  43.17,
+  47.17
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "t": 2.16,
+     "side": "L",
+     "y": 580,
+     "value": "65kg",
+     "label": "Bố Già đầm lầy",
+     "target": [
+      0.35,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 0.84,
+     "text": "Tại sao một"
+    },
+    {
+     "t": 1.32,
+     "text": "gã chuột béo"
+    },
+    {
+     "t": 1.96,
+     "text": "nặng 65kg lại"
+    },
+    {
+     "t": 3.04,
+     "text": "có thể ngồi"
+    },
+    {
+     "t": 3.52,
+     "text": "uống trà cạnh"
+    },
+    {
+     "t": 4.22,
+     "text": "đàn cá sấu"
+    },
+    {
+     "t": 4.92,
+     "text": "săn mồi mà"
+    },
+    {
+     "t": 5.68,
+     "text": "không mất một"
+    },
+    {
+     "t": 6.18,
+     "text": "cọng lông?"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 6.97,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 7.22,
+     "text": "Đây là Chuột"
+    },
+    {
+     "t": 7.82,
+     "text": "Lang Nước Capybara,"
+    },
+    {
+     "t": 9.3,
+     "text": "loài gặm nhấm"
+    },
+    {
+     "t": 9.82,
+     "text": "lớn nhất thế"
+    },
+    {
+     "t": 10.38,
+     "text": "giới sinh sống"
+    },
+    {
+     "t": 10.98,
+     "text": "tại đầm lầy"
+    },
+    {
+     "t": 11.68,
+     "text": "Nam Mỹ!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 12.17,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 12.42,
+     "text": "Thứ nhất,"
+    },
+    {
+     "t": 13.24,
+     "text": "kích thước 65kg"
+    },
+    {
+     "t": 14.14,
+     "text": "cùng lớp da"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 14.65,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 14.7,
+     "text": "dai và hàm"
+    },
+    {
+     "t": 15.24,
+     "text": "răng cửa sắc"
+    },
+    {
+     "t": 15.9,
+     "text": "như xẻng sắt"
+    },
+    {
+     "t": 16.58,
+     "text": "khiến cá sấu"
+    },
+    {
+     "t": 17.34,
+     "text": "Caiman biết rằng"
+    },
+    {
+     "t": 18.08,
+     "text": "tấn công gã"
+    },
+    {
+     "t": 18.92,
+     "text": "là một canh"
+    },
+    {
+     "t": 19.42,
+     "text": "bạc có thể"
+    },
+    {
+     "t": 19.88,
+     "text": "rách họng chết"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 20.45,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 20.46,
+     "text": "ngạt. Thứ hai,"
+    },
+    {
+     "t": 20.7,
+     "text": "lưng Capybara là"
+    },
+    {
+     "t": 22.36,
+     "text": "trạm xe buýt"
+    },
+    {
+     "t": 23.02,
+     "text": "di động:"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 23.63,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 23.88,
+     "text": "chim rỉa bọ"
+    },
+    {
+     "t": 24.44,
+     "text": "ve, rùa sưởi"
+    },
+    {
+     "t": 25.16,
+     "text": "nắng, bầy khỉ"
+    },
+    {
+     "t": 26.36,
+     "text": "đi nhờ qua"
+    },
+    {
+     "t": 26.86,
+     "text": "sông, biến gã"
+    },
+    {
+     "t": 27.76,
+     "text": "thành bộ trưởng"
+    },
+    {
+     "t": 28.28,
+     "text": "ngoại giao hòa"
+    },
+    {
+     "t": 28.86,
+     "text": "bình của muôn loài."
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 29.69,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 33.4,
+     "side": "R",
+     "y": 560,
+     "value": "5 PHÚT",
+     "label": "nín thở lặn sâu",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 29.94,
+     "text": "Thứ ba,"
+    },
+    {
+     "t": 30.5,
+     "text": "gã là tàu"
+    },
+    {
+     "t": 30.96,
+     "text": "ngầm sinh học"
+    },
+    {
+     "t": 31.7,
+     "text": "có màng bơi,"
+    },
+    {
+     "t": 32.66,
+     "text": "nín thở lặn"
+    },
+    {
+     "t": 33.22,
+     "text": "sâu 5"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 33.55,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 35.04,
+     "side": "R",
+     "y": 620,
+     "value": "35 km/h",
+     "label": "chạy ngang chó săn",
+     "target": [
+      0.68,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 33.56,
+     "text": "phút và bứt"
+    },
+    {
+     "t": 34.24,
+     "text": "tốc chạy nước"
+    },
+    {
+     "t": 34.82,
+     "text": "rút 35km/h ngang"
+    },
+    {
+     "t": 36.56,
+     "text": "chó săn!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 37.23,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 37.48,
+     "text": "Nhưng bí mật"
+    },
+    {
+     "t": 37.94,
+     "text": "gây sốc nhất"
+    },
+    {
+     "t": 38.52,
+     "text": "là vào mỗi"
+    },
+    {
+     "t": 38.96,
+     "text": "sáng sớm,"
+    },
+    {
+     "t": 39.76,
+     "text": "Capybara ăn lại"
+    },
+    {
+     "t": 40.74,
+     "text": "chính phân mềm"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 41.37,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 41.34,
+     "text": "của mình để"
+    },
+    {
+     "t": 41.8,
+     "text": "hấp thụ trọn"
+    },
+    {
+     "t": 42.36,
+     "text": "vẹn protein lên"
+    },
+    {
+     "t": 43.04,
+     "text": "men! Giữ tâm"
+    },
+    {
+     "t": 44.16,
+     "text": "tĩnh lặng giữa"
+    },
+    {
+     "t": 44.8,
+     "text": "giông bão,"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 45.37,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 45.62,
+     "text": "đó chính là"
+    },
+    {
+     "t": 46.08,
+     "text": "bí thuật giúp"
+    },
+    {
+     "t": 46.82,
+     "text": "Bố Già Capybara"
+    },
+    {
+     "t": 47.98,
+     "text": "sống sót ung"
+    },
+    {
+     "t": 48.66,
+     "text": "dung giữa bầy"
+    },
+    {
+     "t": 49.28,
+     "text": "sát thủ đầm lầy!"
+    }
+   ]
+  }
+ ]
+}

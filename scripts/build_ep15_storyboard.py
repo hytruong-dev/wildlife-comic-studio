@@ -1,0 +1,971 @@
+"""Update specs/storyboard.json for Episode 15: Capybara (F6).
+Fixes:
+- skip_numbers: [3, 19, 48, 61, 77]
+- Add L83 (scene01), L84 (scene05), L85 (scene06)
+- Shorts s11 at "đó chính là bí thuật"
+- Verify with build_plans.py and pipeline.py spec
+"""
+
+import json
+from pathlib import Path
+
+P = Path("projects/tap-15-capybara")
+
+storyboard = {
+    "_doc": "Storyboard Tập 15 — Chuột Lang Nước (Capybara) F6 Bố Già Đầm Lầy. Chạy: python src/episode/build_plans.py projects/tap-15-capybara",
+    "characters": {
+        "HERO": "chú chuột lang nước Capybara hoạt hình mập mạp béo tròn, bộ lông nâu vàng xơ mượt, mõm vuông vắn đặc trưng, mắt híp lim dim thư thái tĩnh tâm không cảm xúc, tai tròn nhỏ vểnh nhẹ, đeo một chiếc kính râm đen nhỏ sành điệu trên sống mũi",
+        "HERO_S": "chú chuột lang nước Capybara mập mạp lông nâu, đeo kính râm đen nhỏ",
+        "NO_HERO": "KHÔNG có chú Capybara đeo kính râm trong cảnh này",
+        "CAIMAN": "chú cá sấu Caiman hoạt hình màu xanh rêu, hàm răng nhọn hoắt lởm chởm, mắt to tròn ngơ ngác",
+        "MONKEY": "chú khỉ sóc nhỏ xíu hoạt hình lông vàng, đuôi dài, tinh nghịch",
+        "PELICAN": "chú chim bồ nông hoạt hình mỏ vàng khổng lồ, túi da dưới mỏ xệ xuống",
+        "JAGUAR": "chú báo đốm Jaguar dũng mãnh lông vàng đốm hoa mai đen, nanh vuốt nhọn"
+    },
+    "side_characters": [
+        "CAIMAN",
+        "MONKEY",
+        "PELICAN",
+        "JAGUAR"
+    ],
+    "shorts_side_characters": [
+        "CAIMAN",
+        "PELICAN"
+    ],
+    "shorts_title_lines": [
+        "BỐ GIÀ 65KG ĐẦM LẦY:",
+        "CÁ SẤU CŨNG PHẢI NỂ!"
+    ],
+    "skip_numbers": [3, 19, 48, 61, 77],
+    "long": [
+        # ==========================================
+        # SCENE 01: HỒ SƠ BỐ GIÀ
+        # ==========================================
+        {
+            "scene": "scene01",
+            "at": 0,
+            "layout": "Toàn cảnh đầm lầy Pantanal Nam Mỹ bí ẩn và u ám: rặng cây đước rủ rễ, mặt nước đục mờ ảo. BÊN TRÁI một chú {CAIMAN} đang rình rập thò mắt lên khỏi mặt nước; BÊN PHẢI một con trăn Anaconda khổng lồ đang quấn quanh cành cây ngập nước. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "bạn nghĩ ai mới",
+            "layout": "Bầu trời đầm lầy phủ bóng mây kịch tính: BÊN PHẢI trên cành cây cao, một chú {JAGUAR} mắt phát sáng vàng rực, móng vuốt giương ra đầy sát khí như chuẩn bị vồ mồi; các cành cây rung chuyển. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        # L03 merged into L02 (skip 3)
+        {
+            "scene": "scene01",
+            "at": "Hãy mở tập hồ",
+            "layout": "Cận cảnh một tập hồ sơ mật bìa da màu nâu cũ kỹ, góc trên có đóng dấu triện sáp đỏ ghi chữ 'HỒ SƠ MẬT BỐ GIÀ ĐẦM LẦY'; bên cạnh là một chiếc kính lúp phóng to vào ảnh thẻ của {HERO}.",
+            "stickers": [
+                {
+                    "at": "mã số 15",
+                    "side": "R",
+                    "y": 380,
+                    "value": "HỒ SƠ 15",
+                    "label": "tài liệu tối mật",
+                    "target": [0.75, 0.55]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Nhân vật đứng đầu",
+            "layout": "Chân dung uy quyền hài hước của {HERO}: ngồi tựa lưng thư thái trên một ụ đất đầm lầy như ngai vàng, ngâm nửa mình dưới dòng nước mát, hai chân trước chắp lại bụng bự, kính râm đen bóng, vẻ mặt điềm đạm cực hạn.",
+            "stickers": [
+                {
+                    "at": "65kg",
+                    "side": "L",
+                    "y": 380,
+                    "value": "65kg",
+                    "label": "Bố Già đầm lầy",
+                    "target": [0.3, 0.55]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "suốt ngày ngâm mình",
+            "id": "L83",
+            "layout": "Cận cảnh {HERO} mập mạp béo tròn đang ngâm mình thư thái trong làn nước đầm lầy mát rượi, chiếc mũi nhô lên với cặp kính râm đen nhỏ bóng loáng, mặt đơ toàn tập không hề biến sắc.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Gia tộc gặm nhấm",
+            "layout": "BÊN TRÁI là góc bếp tối tăm với ba chú chuột nhắt bé tí đang lấm lét ôm mẩu phô mai run rẩy; tương phản hoàn toàn với BÊN PHẢI là ánh hào quang rực rỡ chiếu xuống {HERO} oai vệ.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Nhưng Bố Già Đầm",
+            "layout": "Ở GIỮA là {HERO} dáng đứng bệ vệ, khoác hờ một chiếc áo choàng trùm phong cách mafia trên vai; hai bên là các loài chim nhỏ đứng xếp hàng cúi chào cung kính.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Với chiều dài cơ",
+            "layout": "Bố cục so sánh kích thước khoa học: {HERO} đứng cạnh một chiếc thước dây khổng lồ đo chiều dài 1,3m từ mũi đến đuôi; và một chiếc cọc đo chiều cao vai đạt đúng 60cm; mắt {HERO} vẫn lim dim thư thái.",
+            "stickers": [
+                {
+                    "at": "1,3m",
+                    "side": "L",
+                    "y": 360,
+                    "value": "1,3m",
+                    "label": "chiều dài cơ thể",
+                    "target": [0.35, 0.55]
+                },
+                {
+                    "at": "60cm",
+                    "side": "R",
+                    "y": 420,
+                    "value": "60cm",
+                    "label": "chiều cao vai",
+                    "target": [0.72, 0.58]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Cá thể lập kỷ",
+            "layout": "Một chiếc cân bàn lò xo cỡ lớn bằng sắt: BÊN TRÁI {HERO} đứng trên đĩa cân làm kim đồng hồ chỉ vọt tới 91kg; BÊN PHẢI một chú lợn rừng đực to béo há hốc mồm kinh ngạc so sánh kích thước.",
+            "stickers": [
+                {
+                    "at": "91kg",
+                    "side": "L",
+                    "y": 340,
+                    "value": "91kg",
+                    "label": "kỷ lục cân nặng",
+                    "target": [0.28, 0.52]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Quy tắc thép đầu",
+            "layout": "Một bức vẽ phong cách thiền định phương Đông: {HERO} ngồi kiết già trên một bông hoa sen khổng lồ nổi trên mặt nước đầm lầy, xung quanh có vòng hào quang vàng ấm áp tỏa ra; chữ 'ZEN' viết tay mờ ảo phía sau.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Cho dù trời long",
+            "layout": "Cảnh tượng hỗn loạn hài hước: bầu trời giông bão sấm chớp đùng đùng, sóng nước dâng cuồn cuộn, một chú {CAIMAN} to xác đang há hốc mồm bò sát sạt bên cạnh; ở GIỮA {HERO} vẫn ngồi yên uống tách trà nóng từ tốn.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Đây không phải là",
+            "layout": "Bàn hội nghị ngoại giao đầm lầy: {HERO} ngồi ở đầu bàn, hai bên là cá sấu, báo đốm, trăn anaconda và bồ nông đang ngồi nghe giảng giải; {HERO} giơ một ngón tay lên chỉ bảo đầy phong thái Bố Già.",
+            "stickers": [],
+            "impacts": []
+        },
+
+        # ==========================================
+        # SCENE 02: TRẠM DỊCH VỤ
+        # ==========================================
+        {
+            "scene": "scene02",
+            "at": 0,
+            "layout": "Bờ cát thoải bên dòng sông đầm lầy: BÊN TRÁI {HERO} nằm phơi bụng ngửa mặt lên trời ngủ tít mít; BÊN PHẢI là ba đến bốn chú {CAIMAN} nằm san sát phơi nắng cạnh nhau, mõm cá sấu gần như chạm vào lưng {HERO}.",
+            "stickers": [
+                {
+                    "at": "3-4",
+                    "side": "R",
+                    "y": 360,
+                    "value": "3-4 con",
+                    "label": "cá sấu nằm cạnh",
+                    "target": [0.75, 0.62]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Cảnh tượng phi lý",
+            "layout": "Một chiếc màn hình máy tính hoạt hình đang mở phần mềm chỉnh sửa ảnh, con trỏ chuột phóng to vào bức ảnh {HERO} và cá sấu; một con dấu 'ẢNH THẬT 100%' màu xanh lá đóng xuống góc ảnh.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Tại sao một kẻ",
+            "layout": "Dưới góc nhìn của chú {CAIMAN}: nhìn sang {HERO} béo mập tròn trịa sáu mươi lăm cân; phía trên đầu {CAIMAN} hiện lên bóng mây suy nghĩ với một dấu hỏi chấm khổng lồ màu đỏ và hình đĩa bít tết bốc khói.",
+            "stickers": [
+                {
+                    "at": "65kg",
+                    "side": "L",
+                    "y": 380,
+                    "value": "65kg",
+                    "label": "khối thịt béo múp",
+                    "target": [0.28, 0.58]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Hãy nghe chính đại",
+            "layout": "Khung cảnh phỏng vấn truyền hình: Một chiếc micro có logo đài truyền hình đầm lầy chìa vào sát mõm chú {CAIMAN}; {CAIMAN} đeo cà vạt hoa văn da sấu, giơ hai tay lên phân trần đầy bối rối.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Tôi mà đụng vào",
+            "layout": "Góc quay cận cảnh hài hước: Chú {CAIMAN} cầm một chiếc hàm răng giả bằng nhựa bị gãy đôi ba chiếc răng nanh, vẻ mặt méo mó đau khổ; phía sau là hình bóng {HERO} lưng tròn như tảng đá hoa cương.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Vừa to vừa nặng,",
+            "layout": "Hình ảnh tia X-quang hài hước: {CAIMAN} đang há to mồm cố nuốt một khối thịt hình tròn khổng lồ nhưng bị mắc nghẹn ngang cổ họng, hai mắt lồi ra nghẹt thở; bên cạnh là biểu tượng cảnh báo dấu chéo đỏ.",
+            "stickers": [],
+            "impacts": []
+        },
+        # L19 merged into L18 (skip 19)
+        {
+            "scene": "scene02",
+            "at": "Cá sấu Caiman ở",
+            "layout": "BÊN TRÁI là chú {CAIMAN} kích thước khiêm tốn dài 1,5m đang há mồm đớp một con cá nhỏ bơi qua; BÊN PHẢI là chiếc thước đo chiều dài 2m thể hiện giới hạn cơ thể của loài cá sấu này.",
+            "stickers": [
+                {
+                    "at": "1,5m",
+                    "side": "L",
+                    "y": 360,
+                    "value": "1,5m-2m",
+                    "label": "chiều dài Caiman",
+                    "target": [0.32, 0.6]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Nuốt một con Bố",
+            "layout": "Một chiếc cân đong rủi ro: BÊN TRÁI là phần thưởng một bữa ăn; BÊN PHẢI là chiếc xương hàm cá sấu bị nứt gãy và nguy cơ rách thực quản nặng nề nghiêng hẳn cán cân xuống.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Chưa kể, gã béo",
+            "layout": "Đặc tả hàm răng đáng sợ của {HERO}: {HERO} há mồm cười khoe cặp răng cửa màu cam dài và sắc lẹm như hai chiếc xẻng sắt sắc bén; phía trước là một khúc gỗ đầm lầy bị cắn nứt đôi ngọt xớt.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Chưa dừng lại ở",
+            "layout": "Biển hiệu hoạt hình lớn: 'TRẠM XE BUÝT CÔNG CỘNG PANTANAL'; {HERO} đội chiếc mũ tài xế xe buýt màu xanh, hai bên sườn vẽ họa tiết xe buýt số 15 chạy tuyến đầm lầy.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Lưng của Capybara phẳng",
+            "layout": "Lưng của {HERO} biến thành chiếc ghế sô-pha nhung màu xanh êm ái: một chú chim đầm lầy chân dài đang đi dạo trên lưng, nhặt từng con bọ ve nhỏ xíu bỏ vào mồm ngon lành.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Chim chóc đầm lầy",
+            "layout": "Cảnh tượng siêu đông đúc vui nhộn: Trên lưng {HERO} có đàn rùa nước năm đến sáu con xếp hàng nằm phơi mai; trên đỉnh đầu {HERO} là chú {MONKEY} nhỏ xíu đang ngồi vẫy tay; {HERO} lững thững bơi qua sông.",
+            "stickers": [
+                {
+                    "at": "5-6",
+                    "side": "R",
+                    "y": 380,
+                    "value": "5-6 con",
+                    "label": "rùa nằm trên mai",
+                    "target": [0.65, 0.48]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Bác bồ nông ơi,",
+            "layout": "Cận cảnh tình huống hài hước: Chú {PELICAN} mỏ vàng khổng lồ đang há to mồm kẹp trọn mông tròn trịa của {HERO}; {HERO} quay đầu lại nhìn với vẻ mặt ngơ ngác tĩnh tâm không thèm phản kháng.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Thậm chí cả loài",
+            "layout": "Chú {PELICAN} cố hết sức nuốt nhưng chiếc mỏ căng phồng biến dạng thành hình cái mông tròn trịa của {HERO}, hai mắt bồ nông xoay vòng tròn hoa mắt bất lực.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Một mối quan hệ",
+            "layout": "Toàn cảnh bình yên đầm lầy: {HERO} cùng đàn con, rùa, cá sấu và chim chóc cùng quây quần bên bờ nước dưới ánh hoàng hôn ấm áp; biểu tượng hai bàn tay bắt chặt nhau lấp lánh ở GIỮA.",
+            "stickers": [],
+            "impacts": []
+        },
+
+        # ==========================================
+        # SCENE 03: VŨ KHÍ MÙI HƯƠNG
+        # ==========================================
+        {
+            "scene": "scene03",
+            "at": 0,
+            "layout": "Sơ đồ mạng lưới tình báo thế giới ngầm: Một tấm bản đồ rừng rậm Pantanal có các đường dây nối mạng từ mũi của các Bố Già; các biểu tượng mùi hương lan tỏa khắp các ngóc ngách đầm lầy.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Và vũ khí ngoại",
+            "layout": "Cận cảnh đặc tả chiếc đầu của {HERO}: một mũi tên vàng rực chỉ thẳng vào đỉnh sống mũi vuông vức; nơi có một khối u nổi gồ lên như viên ngọc đen quyền lực.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Nếu quan sát kỹ",
+            "layout": "Phóng to kính hiển vi vào khối u trên mũi của {HERO}: bề mặt da trơn nhẵn, sẫm màu, không có lông; các hạt tinh thể sáp màu trắng lấp lánh đang tiết ra từ lỗ chân lông.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Trong giới sinh học,",
+            "layout": "Bảng giải phẫu sinh học: Nhãn tên lớn viết chữ 'TUYẾN MORILLO' trên nền thẻ màu đỏ uy quyền; bên cạnh là sơ đồ ống dẫn dịch tiết xạ hương nối thẳng vào tuyến mũi.",
+            "stickers": [
+                {
+                    "at": "Morillo",
+                    "side": "R",
+                    "y": 380,
+                    "value": "MORILLO",
+                    "label": "tuyến mùi quyền lực",
+                    "target": [0.68, 0.45]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Tuyến Morillo liên tục",
+            "layout": "Một chiếc lọ thủy tinh cổ cong đựng dung dịch sáp màu trắng đang bốc hơi xạ hương thơm ngát màu tím; {HERO} đứng bên cạnh như một nhà pha chế nước hoa cao cấp của đầm lầy.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Mỗi khi đi tuần",
+            "layout": "{HERO} cúi đầu cọ nhẹ chiếc mũi có tuyến Morillo vào một thân cây sậy gãy; vết cọ để lại một vệt sáp trắng phát sáng hình con dấu Bố Già 'CAPFATHER SIGNATURE'.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Kết hợp với hai",
+            "layout": "Sơ đồ hai đầu phát tín hiệu: Một mũi tên chỉ vào tuyến mũi Morillo ở đầu; và một mũi tên chỉ vào hai túi tuyến mùi hậu môn ở đuôi; tạo thành hệ thống mã vạch sinh học hai đầu hoàn chỉnh.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Nhờ hệ thống chữ",
+            "layout": "Hai chú Capybara đối diện nhau: một chú hít nhẹ mũi vào thân cây; phía trên đầu chú hiện lên màn hình thông số HUD hiển thị đầy đủ: 'BỐ GIÀ KHU BẮC - ĐỘI TRƯỞNG - SỨC KHỎE 100%'.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Lão sống ở Pantanal",
+            "layout": "Một chú rùa già đeo kính lão, mai phủ đầy rêu phong cổ kính đang gật gù hài lòng; phía trước là chiếc mai {HERO} chở rùa điềm đạm rẽ nước qua đầm lầy.",
+            "stickers": [
+                {
+                    "at": "80 năm",
+                    "side": "L",
+                    "y": 360,
+                    "value": "80 NĂM",
+                    "label": "tuổi thọ chứng nhân",
+                    "target": [0.3, 0.52]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Nhưng đỉnh cao nhất",
+            "layout": "Chiếc đài radio vệ tinh đầm lầy: {HERO} đeo tai nghe phi công, các dải sóng âm thanh đủ màu sắc phát ra từ miệng: sóng nhạc êm dịu, sóng huýt sáo và sóng còi báo động.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Đôi tai hình bán",
+            "layout": "Cận cảnh đôi tai tròn nhỏ của {HERO}: tai trái xoay về hướng 90 độ, tai phải xoay về hướng 180 độ độc lập; chiếc radar quét sóng phát hiện bước chân kẻ thù cách xa 100m.",
+            "stickers": [
+                {
+                    "at": "180°",
+                    "side": "L",
+                    "y": 360,
+                    "value": "180°",
+                    "label": "tai xoay độc lập",
+                    "target": [0.35, 0.42]
+                },
+                {
+                    "at": "100m",
+                    "side": "R",
+                    "y": 420,
+                    "value": "100m",
+                    "label": "khoảng cách nghe",
+                    "target": [0.72, 0.58]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Khi vui vẻ thư",
+            "layout": "{HERO} nằm cuộn tròn trên thảm cỏ, miệng phát ra tiếng rên hừ hừ như mèo con; những nốt nhạc nốt son nốt mi màu hồng bay bổng xung quanh.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Khi gọi đàn con,",
+            "layout": "{HERO} chu mỏ huýt sáo vang dội như chú chim hót líu lo; phía sau là đàn bốn chú chuột lang con chân ngắn lon ton chạy ùa lại ríu rít.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Nhưng một khi phát",
+            "layout": "Ánh mắt {HERO} đột ngột sắc lẹm: Phía xa trong bụi rậm lộ ra đôi mắt vằn vện của chú {JAGUAR}; {HERO} đứng thẳng người chuẩn bị phát tín hiệu cảnh báo tối cao.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Cú sủa báo động",
+            "layout": "{HERO} há to mồm tung cú sủa 'GÂU! GÂU!' chấn động: luồng sóng âm màu đỏ bùng nổ như loa phát thanh; đàn khỉ trên cây nhảy dựng bắn người lên cành cao, đàn hươu lao thục mạng.",
+            "stickers": [],
+            "impacts": []
+        },
+
+        # ==========================================
+        # SCENE 04: BỮA SÁNG KỲ DỊ
+        # ==========================================
+        {
+            "scene": "scene04",
+            "at": 0,
+            "layout": "Khung cảnh phòng thẩm vấn bí mật: Một chiếc bàn gỗ với một chiếc đèn chụp chiếu thẳng xuống một phong bì màu đen niêm phong dấu đỏ 'TUYỆT MẬT - GÓC KHUẤT BỐ GIÀ'.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Nếu bạn đang ăn",
+            "layout": "BÊN TRÁI một khán giả hoạt hình đang cầm cốc trà sữa bỗng sững sờ dừng lại, mắt trợn tròn; BÊN PHẢI một biển báo cảnh báo hài hước hình nĩa và thìa bị gạch chéo đỏ.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Bởi vì món ăn",
+            "layout": "{HERO} thân hình hộ pháp béo tròn sáu mươi lăm cân đang đứng cạnh một chiếc đĩa bạc sang trọng có nắp đậy kiểu nhà hàng năm sao; nắp đậy bắt đầu rung rinh hé mở.",
+            "stickers": [
+                {
+                    "at": "65kg",
+                    "side": "L",
+                    "y": 380,
+                    "value": "65kg",
+                    "label": "thân hình hộ pháp",
+                    "target": [0.32, 0.58]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "chính là sản phẩm",
+            "layout": "Chiếc nắp đĩa bạc mở tung: bên trong là những viên phân màu xanh lục mềm mại bốc khói nhẹ; {HERO} đeo khăn ăn ở cổ, cầm dao nĩa sẵn sàng thưởng thức với vẻ mặt thỏa mãn.",
+            "stickers": [],
+            "impacts": []
+        },
+        # L48 merged into L47 (skip 48)
+        {
+            "scene": "scene04",
+            "at": "Dưới góc nhìn của",
+            "layout": "Một cuốn bách khoa toàn thư sinh học mở toang trang sách có hình vẽ danh xưng khoa học 'CECOTROPHY - TẬP TÍNH ĂN PHÂN CÓ CHỌN LỌC' cùng huy chương vàng tiến hóa.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Khẩu phần ăn của",
+            "layout": "Biểu đồ tròn dinh dưỡng: Bảy mươi lăm phần trăm chiếc đĩa là bó cỏ đầm lầy và rong rêu thô ráp; hai mươi lăm phần trăm còn lại là vỏ cây khô; {HERO} nhai cỏ cật lực như máy cắt cỏ.",
+            "stickers": [
+                {
+                    "at": "75%",
+                    "side": "R",
+                    "y": 360,
+                    "value": "75%",
+                    "label": "khẩu phần cỏ thô",
+                    "target": [0.68, 0.48]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Cỏ nghèo dinh dưỡng",
+            "layout": "Cận cảnh phân tử sợi xen-lu-lô-zơ cứng như những thanh thép đan lưới; dịch axit dạ dày thông thường dội vào đều bị bật ngược trở ra bất lực.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Để giải quyết bài",
+            "layout": "Hình ảnh giải phẫu bộ máy tiêu hóa của {HERO}: Một chiếc ruột tịt khổng lồ màu hồng như nhà máy lên men hóa chất; bên trong hàng triệu chú vi khuẩn hoạt hình tí hon đeo kính bảo hộ đang cầm búa đập vỡ sợi cỏ.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Cứ vào khoảng từ",
+            "layout": "Một chiếc đồng hồ báo thức chỉ đúng khung giờ từ 06:00 sáng đến 08:00 sáng; ánh ban mai rọi xuống {HERO} vừa thức giấc sau giấc ngủ đêm dài.",
+            "stickers": [
+                {
+                    "at": "06:00 sáng",
+                    "side": "L",
+                    "y": 360,
+                    "value": "06h - 08h",
+                    "label": "giờ ăn phân mềm",
+                    "target": [0.28, 0.52]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Loại phân này chứa",
+            "layout": "Ống nghiệm phân tích mẫu phân mềm manh tràng: cột đo chỉ số protein vọt lên gấp đôi so với mẫu phân thường; các viên vitamin B1, B12 màu vàng lấp lánh bay quanh ống nghiệm.",
+            "stickers": [
+                {
+                    "at": "gấp đôi",
+                    "side": "R",
+                    "y": 380,
+                    "value": "2X PROTEIN",
+                    "label": "dinh dưỡng đậm đặc",
+                    "target": [0.72, 0.55]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Thay vì lãng phí",
+            "layout": "{HERO} cúi đầu xuống gặm lại món phân mềm giàu dưỡng chất vừa thải ra trên thảm cỏ ướt sương; biểu tượng tái chế mũi tên xanh xoay vòng tròn ba cạnh hoàn hảo.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Ngay từ khi mới",
+            "layout": "Chú Capybara con bé xíu mới hai tuần tuổi đứng cạnh mẹ, lon ton bắt chước mẹ cúi xuống ăn phân mềm để đón nhận vi khuẩn đường ruột quý giá; mẹ mỉm cười xoa đầu con.",
+            "stickers": [
+                {
+                    "at": "2 tuần tuổi",
+                    "side": "L",
+                    "y": 380,
+                    "value": "2 TUẦN",
+                    "label": "chuột con học mẹ",
+                    "target": [0.32, 0.58]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Phải đến buổi chiều,",
+            "layout": "Bầu trời chuyển sang ánh hoàng hôn tím: {HERO} thải ra những viên phân hình bầu dục màu nâu sẫm, khô cứng như hạt ô-liu; chiếc máy đo dinh dưỡng quét qua báo '0% PROTEIN'.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Kỳ dị, khó ngửi,",
+            "layout": "Cả bầy Capybara mập mạp béo tốt đứng vững chãi trên bờ đầm lầy qua hàng triệu năm lịch sử; bên cạnh là một bát súp vi khuẩn vàng óng tượng trưng cho nguồn năng lượng sinh tồn.",
+            "stickers": [],
+            "impacts": []
+        },
+
+        # ==========================================
+        # SCENE 05: TÀU NGẦM 5 PHÚT
+        # ==========================================
+        {
+            "scene": "scene05",
+            "at": 0,
+            "layout": "Bờ đầm lầy căng thẳng: {HERO} đang thong thả ăn cỏ thì từ bụi rậm phía sau, đôi mắt vàng rực của chú {JAGUAR} nhô ra; tiếng còi báo động khẩn cấp màu đỏ chớp nháy liên hồi.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Một khi sát thủ",
+            "id": "L84",
+            "layout": "Một chú {JAGUAR} mắt sáng rực giương cặp móng vuốt vồ xuống từ cành cây; {HERO} ở GIỮA bật chế độ báo động khẩn cấp màu đỏ, bụi nước bắn tung tóe chuẩn bị lặn ngầm.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Cả bầy trật tự!",
+            "layout": "Một cô Capybara mẹ đầu đàn đeo nơ hoa trên đầu, hai chân trước giơ cờ hiệu chỉ huy; cả đàn chuột con lập tức nối đuôi nhau nhảy ào xuống dòng nước đục.",
+            "stickers": [],
+            "impacts": []
+        },
+        # L61 merged into L62 (skip 61)
+        {
+            "scene": "scene05",
+            "at": "Bạn có nhận thấy",
+            "layout": "Bản vẽ giải phẫu kỹ thuật quân sự: Ba đường gióng màu vàng nối thẳng tắp từ Mắt qua Mũi đến Tai trên đỉnh đầu {HERO}; mặt nước ngang đúng đường gióng này như kính tiềm vọng tàu ngầm.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Thiết kế giải phẫu",
+            "layout": "Bố cục so sánh ba loài thủy quái đầm lầy: BÊN TRÁI là đầu Hà Mã, Ở GIỮA là đầu {HERO}, BÊN PHẢI là đầu Cá Sấu; cả ba đều có mắt mũi tai thẳng hàng trên đỉnh đầu giống hệt nhau.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Khi ngâm mình dưới",
+            "layout": "Góc nhìn cắt ngang dưới nước: {HERO} trôi bồng bềnh dưới lòng sông đục như một chiếc tàu ngầm hạt nhân màu nâu; bên trên mặt nước chú {JAGUAR} ngơ ngác nhìn quanh không thấy bóng dáng con mồi đâu.",
+            "stickers": [
+                {
+                    "at": "65kg",
+                    "side": "L",
+                    "y": 380,
+                    "value": "65kg",
+                    "label": "tàu ngầm bọc thịt",
+                    "target": [0.35, 0.62]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Bàn chân của Capybara",
+            "layout": "Phóng to bàn chân đặc biệt của {HERO}: chân trước có bốn ngón xòe rộng, chân sau có ba ngón; giữa các kẽ ngón chân là lớp màng bơi mỏng dai như chân vịt; chiếc móng vuốt ngắn bám chắc vào bùn.",
+            "stickers": [
+                {
+                    "at": "4 ngón",
+                    "side": "L",
+                    "y": 360,
+                    "value": "4 NGÓN",
+                    "label": "chân trước có màng",
+                    "target": [0.3, 0.52]
+                },
+                {
+                    "at": "3 ngón",
+                    "side": "R",
+                    "y": 420,
+                    "value": "3 NGÓN",
+                    "label": "chân sau có màng",
+                    "target": [0.72, 0.58]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Dưới nước, gã có",
+            "layout": "Cảnh lặn ngầm sâu dưới đáy sông: {HERO} khép chặt tai và lỗ mũi lại, bơi lướt êm ái giữa rừng rong rêu thủy sinh; một chiếc đồng hồ bấm giờ đếm ngược 5 phút đặt ở góc phải.",
+            "stickers": [
+                {
+                    "at": "5 phút",
+                    "side": "R",
+                    "y": 360,
+                    "value": "5 PHÚT",
+                    "label": "nín thở lặn sâu",
+                    "target": [0.75, 0.48]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Còn nếu bị dồn",
+            "layout": "{HERO} đang đứng trên bờ bãi cỏ khô, phía sau là bờ vực cát; chú {JAGUAR} từ từ tiến lại gần với vẻ mặt đắc thắng tưởng chừng đã bắt gọn được con mồi chậm chạp.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Hãy chuẩn bị tinh",
+            "layout": "Khoảnh khắc bứt tốc không tưởng: Bốn chân {HERO} đạp mạnh tung tóe bùn đất, cơ thể béo tròn biến thành một viên đạn đại bác màu nâu lao vút đi với tốc độ 35 km/h, bụi mù mịt bốc lên phía sau.",
+            "stickers": [
+                {
+                    "at": "35km/h",
+                    "side": "R",
+                    "y": 360,
+                    "value": "35 km/h",
+                    "label": "tốc độ bứt phá",
+                    "target": [0.72, 0.52]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Tốc độ xé gió",
+            "layout": "Cuộc đua tốc độ trên thảo nguyên: {HERO} chạy song song vượt mặt một chú chó săn đang thở hồng hộc; máy đo tốc độ bắn tia laser xác nhận bỏ xa kẻ săn mồi.",
+            "stickers": [],
+            "impacts": []
+        },
+
+        # ==========================================
+        # SCENE 06: BÀI HỌC SINH TỒN
+        # ==========================================
+        {
+            "scene": "scene06",
+            "at": 0,
+            "layout": "Khung cảnh lịch sử thế kỷ 16: Một chiếc thuyền buồm Tây Ban Nha cập bến bờ đầm lầy Venezuela; các nhà truyền giáo mặc áo choàng nâu đang kinh ngạc chỉ tay vào đàn {HERO} bơi lội dưới nước.",
+            "stickers": [
+                {
+                    "at": "thế kỷ 16",
+                    "side": "L",
+                    "y": 360,
+                    "value": "THẾ KỶ 16",
+                    "label": "nhầm lẫn lịch sử",
+                    "target": [0.28, 0.5]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Thế là họ gửi",
+            "layout": "Một lá thư cổ viết tay bằng mực lông ngỗng có gắn con dấu sáp đỏ gửi qua đường biển về tòa thánh Vatican ở Rome; bức thư vẽ hình {HERO} có thêm chiếc đuôi cá ngộ nghĩnh.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "được xếp Capybara vào",
+            "layout": "Bàn tiệc Mùa Chay của các giáo sĩ: Giữa bàn là một chiếc đĩa lớn bày món thịt nướng; một tấm biển ghi 'THỰC ĐƠN MÙA CHAY: CÁ ĐẦM LẦY' với hình {HERO} bơi lội kế bên.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Và thật khó tin,",
+            "layout": "Tòa thánh Vatican trang nghiêm: Các giám mục mặc áo choàng đỏ đang đồng loạt đặt bút ký tên và đóng dấu triện vàng lên sắc lệnh công nhận {HERO} sáu mươi lăm cân chính thức là loài cá.",
+            "stickers": [
+                {
+                    "at": "65kg",
+                    "side": "R",
+                    "y": 380,
+                    "value": "CÁ 65KG?!",
+                    "label": "sắc lệnh kỳ quặc",
+                    "target": [0.72, 0.55]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Một cú lừa tiến",
+            "layout": "{HERO} đang đội một chiếc vương miện hình con cá nhỏ trên đầu, đeo kính râm cười toe toét; phía sau là tấm bảng phả hệ động vật có vú bị sửa thành bộ Cá.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Trải qua hàng triệu",
+            "layout": "Bức tranh nghệ thuật hoàng hôn tuyệt đẹp trên đầm lầy: {HERO} ngồi thảnh thơi bên bờ nước tĩnh lặng như gương, chim chóc bay lượn, gió lay rặng lau sậy; ánh sáng vàng cam chiếu rọi bình yên.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "kẻ chiến thắng sau",
+            "id": "L85",
+            "layout": "Bức tranh triết lý thiền định: {HERO} ngồi tĩnh tâm như tượng Phật giữa đầm lầy, mặt nước xung quanh phẳng lặng như gương; phản chiếu bầu trời xanh và mây trắng yên bình.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Bạn ấn tượng nhất",
+            "layout": "Khung hình tương tác hai lựa chọn vui nhộn: BÊN TRÁI là biểu tượng bắt tay làm bạn với cá sấu; BÊN PHẢI là biểu tượng chiếc đĩa ăn phân tái chế protein; {HERO} ở GIỮA chỉ tay mời khán giả bình luận.",
+            "stickers": [],
+            "impacts": []
+        },
+        # L77 merged into L76 (skip 77)
+        {
+            "scene": "scene06",
+            "at": "Và bây giờ, hãy",
+            "layout": "Bàn vẽ hoạt hình chuyển sang tông màu xanh thẳm của đáy đại dương sâu; ánh sáng đèn pin quét qua mặt giấy trắng hé lộ một bí mật mới sắp bắt đầu.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Trong tập tiếp theo,",
+            "layout": "Khung cảnh đáy biển sâu thẳm đầy bí ẩn: San hô và đá ngầm mờ ảo; ở GIỮA là BÓNG ĐEN HOÀN TOÀN (solid black silhouette) của một sinh vật nhỏ bé có một chiếc càng khổng lồ bất cân xứng, viền hào quang phát sáng cyan.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Một sinh vật nhỏ",
+            "layout": "Đặc tả chiếc càng bóng đen bí ẩn: một chiếc càng lớn gấp đôi thân mình đang mở hé; bên cạnh là chiếc thước đo 5cm và đồng hồ đo âm thanh vọt lên mức 218 dB đỏ rực.",
+            "stickers": [
+                {
+                    "at": "5cm",
+                    "side": "L",
+                    "y": 360,
+                    "value": "5cm",
+                    "label": "kích thước tí hon",
+                    "target": [0.3, 0.52]
+                },
+                {
+                    "at": "218 dB",
+                    "side": "R",
+                    "y": 420,
+                    "value": "218 dB",
+                    "label": "tiếng nổ xé nước",
+                    "target": [0.72, 0.58]
+                }
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Cú búng càng tạo",
+            "layout": "Vụ nổ sóng xung kích dưới biển: Cú búng càng tạo ra một bọt khí phát sáng rực rỡ như tia chớp nhỏ, sóng xung kích tỏa ra làm một chú cá bơi gần choáng váng; phía xa một chiếc tàu ngầm quân sự bị nhiễu sóng sonar.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Đố bạn biết danh",
+            "layout": "BÓNG ĐEN BÍ ẨN (solid black silhouette) của sát thủ tí hon nổi bật ở GIỮA, phía trên đầu là một DẤU HỎI CHẤM LỚN MÀU VÀNG óng ánh; dòng chữ 'ĐOÁN TÊN CON VẬT TẬP 16' phát sáng lung linh.",
+            "stickers": [],
+            "impacts": []
+        }
+    ],
+    "shorts": [
+        {
+            "at": 0,
+            "layout": "Bờ đầm lầy Nam Mỹ: {HERO_S} ngồi uống tách trà đá thư thái bên cạnh một chú {CAIMAN} to xác đang há mồm phơi nắng, hai bên hòa bình như đôi bạn thân lâu năm.",
+            "stickers": [
+                {
+                    "at": "65kg",
+                    "side": "L",
+                    "y": 580,
+                    "value": "65kg",
+                    "label": "Bố Già đầm lầy",
+                    "target": [0.35, 0.55]
+                }
+            ],
+            "captions": []
+        },
+        {
+            "at": "Đây là Chuột Lang",
+            "layout": "{HERO_S} đứng bệ vệ trên bãi cỏ đầm lầy, đeo kính râm đen nhỏ sành điệu; chiếc thước đo ghi nhận danh hiệu 'LOÀI GẶM NHẤM LỚN NHẤT THẾ GIỚI'.",
+            "stickers": [],
+            "captions": []
+        },
+        {
+            "at": "Thứ nhất, kích thước",
+            "layout": "Góc quay cận cảnh: {HERO_S} to béo hộ pháp 65kg với lớp da dày dai nhách như áo giáp; chú {CAIMAN} bên cạnh cắn thử vào không khí rồi lắc đầu ngao ngán.",
+            "stickers": [],
+            "captions": []
+        },
+        {
+            "at": "và hàm răng cửa",
+            "layout": "Cận cảnh hàm răng sắc bén của {HERO_S}: Cặp răng cửa màu cam dài như hai lưỡi xẻng sắt sắc lẹm, cắn đứt đôi cành cây; chú {CAIMAN} toát mồ hôi hột lùi lại.",
+            "stickers": [],
+            "captions": []
+        },
+        {
+            "at": "Thứ hai, lưng Capybara",
+            "layout": "Lưng {HERO_S} phẳng lì rộng thênh thang như chiếc ghế sô-pha di động giữa đầm lầy; chim chóc đậu lên rỉa bọ ve.",
+            "stickers": [],
+            "captions": []
+        },
+        {
+            "at": "chim rỉa bọ ve,",
+            "layout": "Cảnh tượng trạm xe buýt đông vui: một chú rùa ngồi phơi mai trên lưng {HERO_S}, chú khỉ con bám vào cổ vẫy tay đi nhờ qua sông; {HERO_S} ung dung rẽ sóng.",
+            "stickers": [],
+            "captions": []
+        },
+        {
+            "at": "Thứ ba, gã là",
+            "layout": "{HERO_S} lặn chìm dưới dòng nước đục như chiếc tàu ngầm quân sự, chỉ thò đúng mắt, mũi và tai thẳng hàng trên mặt nước; đồng hồ đếm ngược 5 phút lặn sâu.",
+            "stickers": [
+                {
+                    "at": "5 phút",
+                    "side": "R",
+                    "y": 560,
+                    "value": "5 PHÚT",
+                    "label": "nín thở lặn sâu",
+                    "target": [0.65, 0.48]
+                }
+            ],
+            "captions": []
+        },
+        {
+            "at": "và bứt tốc chạy",
+            "layout": "{HERO_S} bứt tốc chạy nước rút xé gió trên đồng cỏ với tốc độ 35 km/h, phóng vượt mặt một chú chó săn đang thở dốc; bụi đất tung mù mịt.",
+            "stickers": [
+                {
+                    "at": "35km/h",
+                    "side": "R",
+                    "y": 620,
+                    "value": "35 km/h",
+                    "label": "chạy ngang chó săn",
+                    "target": [0.68, 0.55]
+                }
+            ],
+            "captions": []
+        },
+        {
+            "at": "Nhưng bí mật gây",
+            "layout": "Chiếc đồng hồ điểm đúng 06:00 sáng: {HERO_S} cúi xuống ăn lại chỗ phân mềm xanh lục giàu protein vừa thải ra; một đĩa thức ăn tái chế có huy hiệu dinh dưỡng.",
+            "stickers": [],
+            "captions": []
+        },
+        {
+            "at": "để hấp thụ trọn",
+            "layout": "Sơ đồ dinh dưỡng hoạt hình: Viên phân mềm manh tràng tan thành các hạt protein và vitamin B màu vàng kim hấp thụ ngược trở lại vào cơ thể {HERO_S} béo khỏe.",
+            "stickers": [],
+            "captions": []
+        },
+        {
+            "at": "đó chính là bí",
+            "layout": "Khung cảnh kết thúc bình yên trọn vẹn: {HERO_S} ngồi thiền thư thái trên thảm hoa sen nở giữa hồ nước hoàng hôn tuyệt đẹp, xung quanh là muông thú và cá sấu cùng nằm quây quần hòa bình.",
+            "stickers": [],
+            "captions": []
+        }
+    ]
+}
+
+out_p = P / "specs" / "storyboard.json"
+out_p.write_text(json.dumps(storyboard, ensure_ascii=False, indent=1), encoding="utf-8")
+print(f"Saved {out_p}")

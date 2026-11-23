@@ -1,0 +1,146 @@
+{
+ "episode_no": 9,
+ "animal": "Chim Cánh Cụt",
+ "slug": "tap-09-chim-canh-cut",
+ "format": "F3",
+ "persona": "phien_toa",
+ "nickname": "Quý ông Vest Đuôi Tôm",
+ "sources": [
+  "Meyer-Rochow & Gál 2003, Polar Biology 27:56-58 (áp suất 10-60 kPa) — giải Ig Nobel 2005",
+  "Tajima & Fujisawa 2020, arXiv:2007.00926 (cánh cụt Humboldt, tầm bắn tối đa 1,34 m, ~8 km/h, quy đổi người > 3 m)",
+  "Fretwell et al. 2012, PLoS ONE (46 đàn cánh cụt hoàng đế, ~595.000 con, tìm qua vệt phân nâu trên ảnh vệ tinh)",
+  "Levick 1914, Antarctic Penguins (Cape Adare 1911, cảnh đẩy nhau ở mép băng); Russell et al. 2012 (sổ tay chữ Hy Lạp, 'hooligan')",
+  "Penguin Science / WWF / MarineBio: Adélie ~70 cm, 3-6 kg, ~200 viên sỏi/tổ, 2% Nam Cực không băng, đi 2 km/h, bơi 15 km/h, lặn 180 m, nhảy 2 m, tát cả nhà nghiên cứu",
+  "Australian Antarctic Program / ASOC: hải cẩu báo cái 3-3,5 m, 370-500 kg, 40 km/h; BBC Frozen Planet: 5 triệu Adélie, kẻ trộm sỏi canh nhà kỹ nhất; BBC Earth: Gentoo tặng sỏi"
+ ],
+ "whisper_prompt": "Chim cánh cụt A-đê-li, Adélie, Quý ông Vest Đuôi Tôm, bị cáo, bồi thẩm đoàn, công tố viên, hải cẩu báo, sỏi, Nam Cực, Levick, Cape Adare, Ig Nobel, Humboldt, Gentoo, Skua, kPa, Koala",
+ "display_fix": {
+  "Âm bốn mươi độ C": "-40°C",
+  "âm bốn mươi độ C": "-40°C",
+  "bảy mươi xăng-ti-mét": "70cm",
+  "từ ba đến sáu ki-lô-gam": "3-6kg",
+  "hai phần trăm": "2%",
+  "hai trăm viên": "200 viên",
+  "năm triệu": "5 triệu",
+  "hai cây số một giờ": "2km/h",
+  "ba mét rưỡi": "3,5m",
+  "năm trăm ki-lô-gam": "500kg",
+  "bốn mươi cây số một giờ": "40km/h",
+  "một ngàn chín trăm mười một": "1911",
+  "gần một năm": "gần 1 năm",
+  "hai ngàn lẻ ba": "2003",
+  "hai ngàn lẻ năm": "2005",
+  "hai ngàn hai mươi": "2020",
+  "hai ngàn mười hai": "2012",
+  "từ mười đến sáu mươi ki-lô-pát-xcan": "10-60 kPa",
+  "một mét ba mươi tư": "1,34m",
+  "tám cây số một giờ": "8km/h",
+  "ba mét": "3m",
+  "bốn mươi sáu": "46",
+  "năm trăm chín mươi lăm ngàn": "595.000",
+  "hơn một mét": "hơn 1m",
+  "mười lăm cây số một giờ": "15km/h",
+  "một trăm tám mươi mét": "180m",
+  "hai mét": "2m",
+  "bốn bằng chứng": "4 bằng chứng",
+  "số một": "số 1",
+  "số hai": "số 2",
+  "số ba": "số 3",
+  "số bốn": "số 4",
+  "hai quả trứng": "2 quả trứng",
+  "hai chế độ": "2 chế độ",
+  "hai nhà khoa học": "2 nhà khoa học",
+  "A-đê-li": "Adélie",
+  "Lê-vích": "Levick",
+  "Kếp A-đe": "Cape Adare",
+  "I-gơ Nô-ben": "Ig Nobel",
+  "Hum-bôn": "Humboldt",
+  "Gen-tu": "Gentoo",
+  "Xku-a": "Skua",
+  "Cô-a-la": "Koala"
+ },
+ "voice": {},
+ "art": {
+  "decor": "tiny snowflakes",
+  "shorts_mascot": "A small cute cartoon Adélie penguin (black and white, white eye-rings, tiny red bow tie) holding a small wooden judge gavel",
+  "thumb_bg": "biển băng Nam Cực xanh đêm thẫm",
+  "thumb_title": ["ĐẨY BẠN XUỐNG BIỂN?!", "PHIÊN TÒA NAM CỰC"],
+  "thumb_scene": "một chú chim cánh cụt Adélie hoạt hình to rõ (đen trắng, vòng trắng quanh mắt, nơ bướm đỏ), đứng trong vành móng ngựa gỗ của tòa án, mặt gian xảo nhếch mép, một cánh lén đẩy một bạn cánh cụt khác",
+  "thumb_gag": "bạn cánh cụt kia đang rơi tõm xuống nước và một cái đầu hải cẩu báo há miệng ló lên khỏi mặt nước (hài, không máu)"
+ },
+ "longform": {
+  "scenes": [
+   {"id": "scene01", "badge": "VỤ ÁN NAM CỰC", "banner_title": "BỊ CÁO MẶC VEST ĐUÔI TÔM", "chapter_title": "Vụ án Nam Cực: bị cáo mặc vest đuôi tôm",
+    "hook": "", "mood": "tram_bi_an", "parts": [
+     {"text": "Nam Cực. Âm bốn mươi độ C. Gió rít qua những tảng băng trắng xóa... Một viên sỏi vừa biến mất khỏi tổ của người hàng xóm. Ở mép băng, một chú chim vừa bị đẩy rơi tõm xuống làn nước lạnh buốt. Và trên nền tuyết trắng tinh, những vệt màu hồng kéo dài như ai đó vừa nã súng sơn... Ai đứng sau tất cả những chuyện này?", "mood": "tram_bi_an"},
+     {"text": "Bị cáo, mời đứng lên!", "cast": "tham_phan"},
+     {"text": "[surprise-oh] Và bị cáo là... một chú chim cao chưa tới bảy mươi xăng-ti-mét, nặng từ ba đến sáu ki-lô-gam, tức là cỡ một con mèo nhà, đang đi lạch bạch như trẻ mẫu giáo đi học muộn! [laughter] Kính thưa bồi thẩm đoàn, đây là chim cánh cụt A-đê-li, loài cánh cụt nhỏ nhất ở Nam Cực. Lưng đen, bụng trắng, quanh mắt có một vòng trắng tròn xoe như vừa bị ai dọa giật mình. Ở tòa này, chúng tôi gọi bị cáo bằng biệt danh: Quý ông Vest Đuôi Tôm. Trông lịch lãm như đi dự tiệc cưới, nhưng hồ sơ thì dày hơn cả cuốn từ điển!", "mood": "hao_hung"},
+     {"text": "Hôm nay, công tố viên là tôi sẽ đưa ra bốn bằng chứng. Trộm cắp tài sản. Đẩy bạn vào chỗ nguy hiểm. Tấn công bằng vũ khí sinh học tầm xa. Và hành hung cả nhà khoa học! Còn bồi thẩm đoàn, tức là các bạn, sẽ tự quyết định: một kẻ đáng yêu như thế này... có thật sự có tội?", "mood": "nghiem_trang_gia"}
+    ]},
+   {"id": "scene02", "badge": "BẰNG CHỨNG #1", "banner_title": "KẺ TRỘM SỎI XỨ BĂNG", "chapter_title": "Bằng chứng #1: Kẻ trộm sỏi xứ băng",
+    "hook": "TRỘM SỎI NHÀ HÀNG XÓM ĐỂ XÂY TỔ", "mood": "nghiem_trang_gia", "parts": [
+     "Bằng chứng số một: trộm cắp tài sản có giá trị lớn. Tài sản bị trộm là... một viên sỏi. [dissatisfaction-hnn] Vâng, bồi thẩm đoàn không nghe nhầm đâu. Một viên sỏi. Nhưng ở Nam Cực, sỏi không hề rẻ. Chỉ khoảng hai phần trăm lục địa này là không bị băng phủ. Mỗi mùa xuân, hàng triệu chú cánh cụt A-đê-li kéo nhau lên đúng những bãi đá hiếm hoi ấy để xây tổ. Và tổ của chúng không làm bằng cỏ, không làm bằng lông, mà làm bằng sỏi. Trung bình mỗi tổ cần khoảng hai trăm viên. Tức là một con chim nặng bằng con mèo phải tự tay, à không, tự mỏ, khuân hai trăm viên đá về nhà! [laughter]",
+     {"text": "Và thế là tội ác bắt đầu! Hàng xóm vừa quay lưng. Quý ông Vest Đuôi Tôm rón rén bước tới. Ngoạm một viên! Quay về tổ! Đặt xuống! Lại rón rén đi tiếp! Có kẻ trộm xong còn đứng ngay sau lưng nạn nhân để chọn viên thứ hai! Nạn nhân phát hiện thì sao? Mổ! Đập cánh! Rượt đuổi vòng quanh bãi đá! Một cuộc rượt đuổi tốc độ cao... hai cây số một giờ. [laughter]", "mood": "don_dap"},
+     {"text": "Điều buồn cười nhất là: kẻ trộm giỏi nhất lại chính là kẻ canh nhà kỹ nhất. Các nhà làm phim tài liệu đã quay được một gã vừa đi trộm khắp nơi, vừa đứng gác tổ mình như bảo vệ ngân hàng. Bởi vì gã biết rõ hơn ai hết: ở đây, ai cũng là trộm! Bồi thẩm đoàn thử tưởng tượng: cả một khu phố năm triệu dân, nhà nào cũng thiếu gạch, và ai cũng đang lén lấy gạch nhà bên cạnh. [laughter] Cứ đà này, có khi một viên sỏi đi một vòng khắp xóm rồi lại quay về đúng cái tổ ban đầu! Còn ở họ hàng nhà cánh cụt Gen-tu, chàng trai mang viên sỏi đẹp nhất tặng bạn đời như tặng nhẫn kim cương. Ở Nam Cực, không có sỏi thì đừng mơ lấy vợ!", "mood": "hao_hung"},
+     {"text": "Mà bồi thẩm đoàn biết không, nhiều chàng cánh cụt năm nào cũng quay về xây tổ đúng chỗ cũ, mong cô bạn đời năm ngoái nhận ra nhà mà quay lại. Thế nên một cái tổ đẹp vừa là ngôi nhà, vừa là... tấm biển địa chỉ! Tổ xấu quá thì sao? Cô nàng đi lướt qua luôn, coi như không quen biết! [laughter]", "mood": "hao_hung"},
+     {"text": "Thưa tòa, cháu không trộm! Cháu chỉ... mượn vĩnh viễn thôi ạ!", "cast": "chu_ngo_ngac"},
+     "Bồi thẩm đoàn đã nghe rồi đấy. Mượn vĩnh viễn! [laughter] Công tố viên đề nghị ghi nhận: bị cáo có hành vi chiếm đoạt sỏi một cách có hệ thống, có tổ chức, và có cả kỹ năng nhìn trước ngó sau chuyên nghiệp. Bằng chứng số một, kết thúc."
+    ]},
+   {"id": "scene03", "badge": "BẰNG CHỨNG #2", "banner_title": "ĐẨY BẠN XUỐNG NƯỚC DÒ HẢI CẨU", "chapter_title": "Bằng chứng #2: Đẩy bạn xuống nước dò hải cẩu",
+    "hook": "ĐẨY BẠN XUỐNG BIỂN ĐỂ THỬ HẢI CẨU BÁO", "mood": "hao_hung", "parts": [
+     {"text": "Bằng chứng số hai. Hiện trường: mép băng, lúc chiều tà. Hàng trăm chú cánh cụt đứng chen chúc sát mép nước. Ai cũng đói. Ai cũng muốn xuống biển bắt cá và tôm nhỏ. Nhưng... không ai chịu nhảy trước. Vì sao ư? Vì dưới làn nước tối kia... có thể có thứ gì đó đang chờ.", "mood": "tram_bi_an"},
+     {"text": "[surprise-wa] Hải cẩu báo! Dài tới ba mét rưỡi! Nặng tới năm trăm ki-lô-gam! Bơi nhanh bốn mươi cây số một giờ! Cái đầu to như đầu rắn! Hàm đầy răng nanh dài! Nó nấp ngay dưới mép băng, chỉ ló mỗi cái mũi! Chờ đúng khoảnh khắc một chú cánh cụt chạm nước! So với Quý ông Vest Đuôi Tôm nặng bằng con mèo, đây là một chiếc xe tải có răng! [laughter]", "mood": "don_dap"},
+     "Và thế là cảnh tượng kỳ lạ nhất Nam Cực diễn ra. Cả bầy chen tới, chen lui, huých nhau, ủn nhau. Con đứng hàng đầu cố bám chân lại. Mấy con phía sau cứ thế mà dồn lên. Và rồi... tõm! Một bạn xui xẻo rơi xuống nước! Cả bầy lập tức nín thở, nghển cổ nhìn theo như khán giả xem phim kinh dị. Nếu bạn ấy bơi đi bình an, cả hội ào ào nhảy theo như đi tắm biển ngày hè! [laughter] Còn nếu không... thì cả bầy lùi lại, đứng chờ thêm một lúc nữa.",
+     {"text": "Nhân chứng của vụ án này là một người rất đặc biệt. Năm một ngàn chín trăm mười một, bác sĩ Lê-vích của đoàn thám hiểm Nam Cực nước Anh đã sống gần một năm ở Kếp A-đe, ngày ngày ngồi quan sát từng chú cánh cụt A-đê-li. Ông ghi lại cảnh chúng đứng trên mép băng, né qua né lại, và cố đẩy nhau xuống nước. Xin mời nhân chứng.", "mood": "nghiem_trang_gia"},
+     {"text": "Mấy con đứng sau suýt đẩy được hàng đầu xuống nước, thế là hàng đầu vòng ra phía sau để đẩy lại!", "cast": "ong_gia_ke"},
+     "Bồi thẩm đoàn nghe rõ chưa? Vòng ra phía sau để đẩy lại! [laughter] Đây không còn là đi bơi nữa, đây là trò kéo co ngược chiều! Thua thì làm vật thí nghiệm, thắng thì được đi ăn trưa an toàn. Bằng chứng số hai, cực kỳ nghiêm trọng!"
+    ]},
+   {"id": "scene04", "badge": "BẰNG CHỨNG #3", "banner_title": "KHẨU SÚNG PHÂN ÁP LỰC CAO", "chapter_title": "Bằng chứng #3: Khẩu súng phân áp lực cao",
+    "hook": "BẮN PHÂN XA 1,34 MÉT — NHÌN THẤY TỪ VŨ TRỤ", "mood": "hao_hung", "parts": [
+     {"text": "Bằng chứng số ba: tấn công bằng vũ khí sinh học tầm xa. [dissatisfaction-hnn] Thưa bồi thẩm đoàn, vũ khí đó... là phân. Chim cánh cụt ấp trứng nhiều ngày liền không rời tổ. Vậy nó đi vệ sinh ở đâu? Rất đơn giản. Nó đứng dậy, quay lưng ra mép tổ, nhấc đuôi lên, và... bắn! Một vệt trắng hồng phóng thẳng ra ngoài. Cứ thế, quanh mỗi cái tổ là những tia vệt tỏa ra như tia nắng mặt trời. Nhìn từ trên cao, cả bãi đá giống hệt một bức tranh vẽ bằng súng sơn! [laughter]", "mood": "nghiem_trang_gia"},
+     "Chuyện nghe thì buồn cười, nhưng các nhà khoa học đã tính toán hẳn hoi. Năm hai ngàn lẻ ba, hai nhà khoa học đo độ dài vệt phân quanh tổ, rồi dùng công thức vật lý tính ra áp suất bên trong bụng chim cánh cụt. [surprise-ah] Kết quả: từ mười đến sáu mươi ki-lô-pát-xcan! Mạnh gấp mấy lần lúc con người đi vệ sinh, cỡ một nửa áp suất lốp xe hơi! Công trình này còn đoạt giải I-gơ Nô-ben năm hai ngàn lẻ năm, giải thưởng dành cho những nghiên cứu khiến người ta bật cười trước, rồi mới suy nghĩ sau. [laughter]",
+     {"text": "Chưa hết! Năm hai ngàn hai mươi, hai nhà khoa học Nhật Bản tính lại trên loài cánh cụt Hum-bôn! Lần này tính cả góc bắn! Cả sức cản không khí! Cả độ sệt của phân! Kết quả: tầm bắn xa nhất một mét ba mươi tư! Tốc độ gần tám cây số một giờ! Nếu đổi sang cỡ người, đó là bắn xa hơn ba mét! [surprise-wa] Và họ nghiêm túc khuyên nhân viên thủy cung: hãy đứng cách xa ít nhất một mét ba mươi tư! [laughter]", "mood": "don_dap"},
+     "Và vũ khí này mạnh tới mức... nhìn thấy được từ ngoài vũ trụ! Năm hai ngàn mười hai, các nhà khoa học Anh soi ảnh vệ tinh dọc bờ biển Nam Cực, tìm những mảng màu nâu trên nền băng trắng. Mảng nâu đó chính là phân chim cánh cụt! Lần theo dấu vết ấy, họ tìm ra bốn mươi sáu đàn cánh cụt hoàng đế, họ hàng to xác của bị cáo, và đếm được khoảng năm trăm chín mươi lăm ngàn con, gần gấp đôi con số người ta từng nghĩ. Bồi thẩm đoàn thấy chưa: đi đâu cũng để lại dấu vết, lộ cả trên ảnh vệ tinh! Đây là băng nhóm bất cẩn nhất lịch sử! [laughter]"
+    ]},
+   {"id": "scene05", "badge": "BẰNG CHỨNG #4", "banner_title": "CÔN ĐỒ CÁNH CỨNG", "chapter_title": "Bằng chứng #4: Côn đồ cánh cứng tát cả nhà khoa học",
+    "hook": "TÁT CẢ NHÀ KHOA HỌC BẰNG CÁNH CỨNG", "mood": "nghiem_trang_gia", "parts": [
+     "Bằng chứng số bốn: hành hung người đang làm nhiệm vụ. Nạn nhân là... các nhà khoa học. Khi nhà nghiên cứu cúi xuống gần tổ để cân chim non, Quý ông Vest Đuôi Tôm không hề bỏ chạy. Nó lao tới, đứng thẳng người, và tát! Bằng đôi cánh cứng như mái chèo! Phạch! Phạch! Phạch! [laughter] Cánh chim cánh cụt không bay được, nhưng xương cánh dẹt và đặc, quất vào ống chân thì đau như bị cô giáo gõ thước kẻ.",
+     {"text": "Không chỉ con người! Chim cướp biển Xku-a sải cánh rộng hơn một mét lượn tới định cướp trứng? Tát! Hải cẩu bò lên quá gần? Tát! Hàng xóm lấn sang nửa bước? Tát luôn! Cả đời bị cáo chỉ có hai chế độ: đứng im dễ thương, và tát không cần báo trước! [laughter]", "mood": "don_dap"},
+     {"text": "Và đừng tưởng bị cáo chậm chạp. Trên cạn, nó đi lạch bạch như ông cụ đi chợ. Nhưng xuống nước thì như tên lửa: bơi mười lăm cây số một giờ, lặn sâu tới một trăm tám mươi mét, và khi phóng lên, nó có thể bật một cú nhảy cao tới hai mét, đáp thẳng lên tảng băng! [surprise-oh] Trên bờ là diễn viên hài, dưới nước là đặc vụ!", "mood": "hao_hung"},
+     {"text": "Còn khi lười đi bộ trên tuyết? Bị cáo nằm sấp xuống, lấy cái bụng làm ván trượt, hai chân đạp phía sau, lướt vèo vèo như trẻ con chơi cầu trượt! [laughter] Các nhà khoa học gọi đó là cách tiết kiệm sức. Còn tòa án gọi đó là... tẩu thoát khỏi hiện trường bằng xe trượt riêng!", "mood": "don_dap"},
+     "Công tố viên xin tổng kết. Trộm sỏi. Đẩy bạn xuống nước. Nã súng phân xa một mét ba mươi tư. Và tát cả nhà khoa học! Ngay cả nhân chứng Lê-vích năm xưa cũng gọi những chú chim trẻ hay gây rối là... lũ du côn! [laughter] Ông còn viết một số trang nhật ký bằng chữ cái Hy Lạp để người khác không đọc được. Bằng chứng đã đủ. Công tố viên đề nghị mức án cao nhất!"
+    ]},
+   {"id": "scene06", "badge": "PHÁN QUYẾT", "banner_title": "LUẬT SƯ LẬT NGƯỢC HỒ SƠ", "chapter_title": "Lật lại hồ sơ: luật sư bào chữa & phán quyết",
+    "hook": "LUẬT SƯ LẬT NGƯỢC CẢ 4 BẰNG CHỨNG", "mood": "am_ap", "parts": [
+     {"text": "Khoan đã! Phản đối! Bây giờ, xin cho tôi cởi áo công tố viên, và khoác áo luật sư bào chữa. Bởi vì bồi thẩm đoàn mới chỉ nghe một nửa câu chuyện. Về bằng chứng số một: vì sao phải trộm sỏi? Mỗi mùa xuân, tuyết tan thành những dòng nước lạnh chảy tràn qua bãi đá. Quả trứng nằm sát mặt đất sẽ bị ngâm nước, lạnh cóng, rồi hỏng. Một đống sỏi cao chính là chiếc bè cứu sinh, nâng quả trứng lên khỏi vũng nước. Tổ càng cao, trứng càng an toàn. Thứ bị cáo trộm không phải của cải, mà là... cơ hội sống cho con mình.", "mood": "am_ap"},
+     {"text": "Về bằng chứng số hai: nhiều nhà khoa học cho rằng phần lớn những cú rơi ở mép băng không phải âm mưu gì cả. Đó chỉ là cảnh chen lấn giờ cao điểm: bầy đông dồn lên, con đứng đầu bị đẩy ra mép, và thế là tõm. Nhảy theo bầy lại là cách sống sót tốt nhất, vì một con hải cẩu báo không thể bắt hết cả trăm con cùng lúc. Về bằng chứng số ba: bắn phân ra xa là để giữ tổ khô ráo, sạch sẽ cho trứng và con non. Đó là vệ sinh cá nhân... chỉ hơi mạnh tay một chút thôi! [laughter]", "mood": "hao_hung"},
+     {"text": "Còn bằng chứng số bốn, tát cả nhà khoa học? Bồi thẩm đoàn hãy nhìn kỹ: đó là một ông bố bé nhỏ, nặng bằng con mèo, dám đứng chắn trước mọi thứ to lớn hơn mình gấp nhiều lần, chỉ để bảo vệ hai quả trứng. Nếu đó là tội, thì đó là tội... làm bố quá tận tâm.", "mood": "am_ap"},
+     {"text": "Cộc cộc cộc! Tòa tuyên: bị cáo vô tội... nhưng phải trả lại viên sỏi!", "cast": "tham_phan"},
+     {"text": "Và thế là Quý ông Vest Đuôi Tôm bước ra khỏi tòa, lạch bạch quay về tổ, trong mỏ ngậm... một viên sỏi mới nhặt của nhà bên cạnh. [laughter] Còn bạn, nếu là bồi thẩm đoàn, bạn sẽ tuyên bị cáo có tội hay vô tội? Hãy viết phán quyết của bạn ở phần bình luận nhé!", "mood": "hao_hung"},
+     {"text": "Tập sau, chúng ta sẽ rời tòa án để bước vào phòng khám, nơi một bệnh nhân đặc biệt đang chờ: Gấu Cô-a-la. Bày sẵn đĩa lá ngon nhất ngay trước mặt, nhưng bệnh nhân này thà nhịn đói, vì bộ não của nó... không nhận ra đó là thức ăn. Hẹn gặp lại các bạn trong hồ sơ bệnh án tiếp theo!", "mood": "am_ap"}
+    ]}
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "Bị cáo, mời đứng lên! [surprise-oh] Chú chim cánh cụt mặc vest đuôi tôm này đang bị truy tố vì tội đẩy bạn xuống biển... để thử xem có hải cẩu báo hay không! Bị cáo chỉ cao bảy mươi xăng-ti-mét, nặng ngang một con mèo nhà, đi lạch bạch như trẻ mẫu giáo. Hiện trường: mép băng Nam Cực. Hàng trăm chú chim chen chúc, ai cũng đói, nhưng không ai chịu nhảy trước. Vì dưới nước là hải cẩu báo dài ba mét rưỡi, nặng năm trăm ki-lô-gam, đang nấp sẵn! Thế là chen lên, ủn tới, và... tõm! Một bạn xui xẻo rơi xuống trước. Cả bầy nín thở nhìn theo. Bạn ấy bơi đi an toàn? Cả hội ào ào nhảy theo như đi tắm biển! [laughter] Chưa hết, bị cáo còn trộm sỏi nhà hàng xóm để xây tổ, và bắn phân xa tới một mét ba mươi tư! Nhưng khoan, nhiều nhà khoa học nói đây không phải âm mưu, chỉ là chen lấn giờ cao điểm, ai đứng đầu hàng thì bị dồn xuống! [question-ah] Vậy bị cáo có tội hay vô tội? Xem trọn phiên tòa trong video dài ngay bên dưới, vì bị cáo này..."
+ },
+ "seo": {
+  "title": "Đẩy Bạn Xuống Biển Để Thử Hải Cẩu Báo?! | Chim Cánh Cụt | Tập 9",
+  "hook_paragraph": "Chim cánh cụt Adélie cao chưa tới 70cm, nặng như một con mèo, nhưng bị đưa ra tòa với 4 bằng chứng: trộm sỏi nhà hàng xóm, đẩy bạn xuống biển thử hải cẩu báo, bắn phân xa 1,34m với áp suất 10-60 kPa (giải Ig Nobel 2005) và tát cả nhà khoa học! Phiên tòa hài hước nhất Nam Cực — bị cáo có tội hay vô tội?",
+  "bullets": [
+   "Bằng chứng #1: mỗi tổ cần ~200 viên sỏi — và ai cũng đi trộm của hàng xóm",
+   "Bằng chứng #2: chen nhau ở mép băng, ai rơi xuống trước thì 'dò' hải cẩu báo 500kg",
+   "Bằng chứng #3: súng phân bắn xa 1,34m, nhìn thấy cả từ ảnh vệ tinh",
+   "Bằng chứng #4: tát cả nhà khoa học bằng đôi cánh cứng như mái chèo"
+  ],
+  "question": "Nếu bạn là bồi thẩm đoàn, bạn tuyên chim cánh cụt CÓ TỘI hay VÔ TỘI? Bình luận phán quyết của bạn nhé!",
+  "next_teaser": "Gấu Koala — bày sẵn đĩa lá trước mặt nhưng thà nhịn đói vì... não không nhận ra",
+  "hashtags": ["#ChimCanhCut", "#Penguin", "#TheGioiDongVat", "#VeChuyenHoangDa", "#KhoaHoc"],
+  "tags": ["chim cánh cụt", "chim canh cut", "penguin", "adelie penguin", "cánh cụt adelie", "chim cánh cụt trộm sỏi", "chim cánh cụt đẩy bạn xuống nước", "hải cẩu báo", "leopard seal", "nam cực", "penguin poop pressure", "ig nobel", "thế giới động vật", "động vật hài hước", "vẽ chuyện hoang dã", "whiteboard animation", "khoa học thú vị", "dạy bé về động vật"],
+  "shorts_title": "Đẩy Bạn Xuống Biển Để Thử Hải Cẩu?! 🐧 #shorts #chimcanhcut",
+  "shorts_desc": "Chim cánh cụt bị đưa ra tòa vì tội đẩy bạn xuống biển để thử xem có hải cẩu báo 500kg hay không! 🐧⚖️\n👉 Xem trọn phiên tòa với 4 bằng chứng — video Tập 9 trên kênh Vẽ Chuyện Hoang Dã.",
+  "shorts_tags": ["chim cánh cụt", "penguin", "shorts", "hải cẩu báo", "thế giới động vật", "vẽ chuyện hoang dã", "động vật hài hước"]
+ }
+}

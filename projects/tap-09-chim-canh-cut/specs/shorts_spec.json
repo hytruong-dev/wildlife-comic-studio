@@ -1,0 +1,456 @@
+{
+ "episode": "tap-09-chim-canh-cut",
+ "title_lines": [
+  "ĐẨY BẠN XUỐNG BIỂN",
+  "ĐỂ THỬ HẢI CẨU?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 48.6,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-09-chim-canh-cut_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  3.87,
+  10.03,
+  14.85,
+  20.05,
+  23.97,
+  27.85,
+  29.87,
+  33.33,
+  35.83,
+  38.33,
+  41.35,
+  45.37
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.0,
+     "text": "Bị cáo,"
+    },
+    {
+     "t": 0.88,
+     "text": "mời đứng lên!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 2.07,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 2.32,
+     "text": "Chú chim cánh"
+    },
+    {
+     "t": 2.92,
+     "text": "cụt mặc vest"
+    },
+    {
+     "t": 3.54,
+     "text": "đuôi tôm này"
+    },
+    {
+     "t": 4.1,
+     "text": "đang bị truy"
+    },
+    {
+     "t": 4.64,
+     "text": "tố vì tội"
+    },
+    {
+     "t": 5.28,
+     "text": "đẩy bạn xuống"
+    },
+    {
+     "t": 5.82,
+     "text": "biển... để thử"
+    },
+    {
+     "t": 6.76,
+     "text": "xem có hải"
+    },
+    {
+     "t": 7.34,
+     "text": "cẩu báo hay không!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 8.23,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 9.24,
+     "side": "L",
+     "y": 620,
+     "value": "70 CM",
+     "label": "chiều cao bị cáo",
+     "target": [
+      0.45,
+      0.4
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 8.48,
+     "text": "Bị cáo chỉ"
+    },
+    {
+     "t": 9.0,
+     "text": "cao 70cm,"
+    },
+    {
+     "t": 10.02,
+     "text": "nặng ngang một"
+    },
+    {
+     "t": 10.76,
+     "text": "con mèo nhà,"
+    },
+    {
+     "t": 11.6,
+     "text": "đi lạch bạch"
+    },
+    {
+     "t": 12.08,
+     "text": "như trẻ mẫu giáo."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 13.05,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 13.3,
+     "text": "Hiện trường:"
+    },
+    {
+     "t": 14.1,
+     "text": "mép băng Nam"
+    },
+    {
+     "t": 14.6,
+     "text": "Cực. Hàng trăm"
+    },
+    {
+     "t": 15.52,
+     "text": "chú chim chen"
+    },
+    {
+     "t": 16.04,
+     "text": "chúc, ai cũng"
+    },
+    {
+     "t": 16.64,
+     "text": "đói, nhưng không"
+    },
+    {
+     "t": 17.62,
+     "text": "ai chịu nhảy trước."
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 18.25,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 19.82,
+     "side": "R",
+     "y": 560,
+     "value": "3,5 M",
+     "label": "hải cẩu báo",
+     "target": [
+      0.5,
+      0.7
+     ]
+    },
+    {
+     "t": 20.68,
+     "side": "L",
+     "y": 900,
+     "value": "500 KG",
+     "label": "nặng như con bò",
+     "target": [
+      0.45,
+      0.75
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 18.5,
+     "text": "Vì dưới nước"
+    },
+    {
+     "t": 18.94,
+     "text": "là hải cẩu"
+    },
+    {
+     "t": 19.42,
+     "text": "báo dài 3,5m,"
+    },
+    {
+     "t": 20.58,
+     "text": "nặng 500kg,"
+    },
+    {
+     "t": 21.3,
+     "text": "đang nấp sẵn!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 22.17,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 22.42,
+     "text": "Thế là chen"
+    },
+    {
+     "t": 22.9,
+     "text": "lên, ủn tới,"
+    },
+    {
+     "t": 23.72,
+     "text": "và... tõm!"
+    },
+    {
+     "t": 24.98,
+     "text": "Một bạn xui"
+    },
+    {
+     "t": 25.38,
+     "text": "xẻo rơi xuống"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 26.05,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 26.12,
+     "text": "trước. Cả bầy"
+    },
+    {
+     "t": 27.16,
+     "text": "nín thở nhìn theo."
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 28.07,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 28.32,
+     "text": "Bạn ấy bơi"
+    },
+    {
+     "t": 28.76,
+     "text": "đi an toàn?"
+    },
+    {
+     "t": 29.76,
+     "text": "Cả hội ào"
+    },
+    {
+     "t": 30.18,
+     "text": "ào nhảy theo"
+    },
+    {
+     "t": 30.74,
+     "text": "như đi tắm biển!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 31.53,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 31.78,
+     "text": "Chưa hết,"
+    },
+    {
+     "t": 32.46,
+     "text": "bị cáo còn"
+    },
+    {
+     "t": 32.8,
+     "text": "trộm sỏi nhà"
+    },
+    {
+     "t": 33.34,
+     "text": "hàng xóm để xây"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 34.03,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [
+    {
+     "t": 35.58,
+     "side": "R",
+     "y": 620,
+     "value": "1,34 M",
+     "label": "tầm bắn",
+     "target": [
+      0.7,
+      0.62
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 34.02,
+     "text": "tổ, và bắn"
+    },
+    {
+     "t": 34.86,
+     "text": "phân xa tới 1,34m!"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 36.53,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S13.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 36.78,
+     "text": "Nhưng khoan,"
+    },
+    {
+     "t": 37.34,
+     "text": "nhiều nhà khoa"
+    },
+    {
+     "t": 38.02,
+     "text": "học nói đây"
+    },
+    {
+     "t": 38.5,
+     "text": "không phải âm mưu,"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 39.55,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 39.8,
+     "text": "chỉ là chen"
+    },
+    {
+     "t": 40.24,
+     "text": "lấn giờ cao"
+    },
+    {
+     "t": 40.82,
+     "text": "điểm, ai đứng"
+    },
+    {
+     "t": 41.5,
+     "text": "đầu hàng thì"
+    },
+    {
+     "t": 42.08,
+     "text": "bị dồn xuống!"
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "start_s": 43.57,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 43.82,
+     "text": "Vậy bị cáo"
+    },
+    {
+     "t": 44.28,
+     "text": "có tội hay"
+    },
+    {
+     "t": 44.76,
+     "text": "vô tội?"
+    },
+    {
+     "t": 45.46,
+     "text": "Xem trọn phiên"
+    },
+    {
+     "t": 46.08,
+     "text": "tòa trong video"
+    },
+    {
+     "t": 46.6,
+     "text": "dài ngay bên"
+    },
+    {
+     "t": 47.16,
+     "text": "dưới, vì bị"
+    },
+    {
+     "t": 48.0,
+     "text": "cáo này..."
+    }
+   ]
+  }
+ ]
+}

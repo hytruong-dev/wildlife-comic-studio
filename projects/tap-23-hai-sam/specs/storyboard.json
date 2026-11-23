@@ -1,0 +1,779 @@
+{
+ "_doc": "Storyboard Tập 23: Hải Sâm (Format F1 - Bệnh án tiến hóa). Mỗi câu/ý thoại = 1 beat = 1 ảnh riêng.",
+ "characters": {
+  "HERO": "chú Hải Sâm (Holothuroidea) hoạt hình màu nâu đốm vàng mũm mĩm tròn lẳn như chiếc xúc xích khổng lồ đáng yêu, hai đầu bo tròn, thân có các nốt sần gai thịt mềm mại, hai mắt to tròn ngộ nghĩnh, đeo một chiếc gương soi bác sĩ tròn màu bạc trên trán",
+  "HERO_S": "chú Hải Sâm nâu đốm vàng mũm mĩm, nốt gai mềm, gương soi bác sĩ bạc trên trán",
+  "NO_HERO": "KHÔNG có chú hải sâm đeo gương bác sĩ trong cảnh này",
+  "DOCTOR": "ông bác sĩ hoạt hình tóc muối tiêu mặc áo blouse trắng, đeo kính tròn và ống nghe y tế",
+  "NURSE": "cô trợ lý phòng khám hoạt hình mặc áo blouse xanh nhạt",
+  "PEARLFISH": "chú cá ngọc nhỏ nhắn màu bạc trong suốt trơn tuột với nụ cười láu cá tinh nghịch"
+ },
+ "side_characters": [
+  "DOCTOR",
+  "NURSE",
+  "PEARLFISH"
+ ],
+ "shorts_side_characters": [
+  "DOCTOR"
+ ],
+ "shorts_title_lines": [
+  "BẮN CẢ BỘ RUỘT GAN",
+  "ĐỂ THOÁT THÂN?!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Trạm nghiên cứu y khoa dã chiến dựng dưới đáy biển sâu với các vòm kính nhìn ra rạn san hô, đèn mổ bật sáng trên bàn khám kim loại. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bệnh nhân số 23",
+   "layout": "{HERO} lững thững trườn chậm rãi vào phòng khám, thân hình dài ngoằng màu nâu đốm vàng mềm oặt như chiếc xúc xích khổng lồ bò trên nền cát.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Không có hộp sọ.",
+   "layout": "Ba ô đồ họa chẩn đoán gạch chéo đỏ: hình hộp sọ bị gạch chéo, hình bộ não bị gạch chéo, hình đôi mắt và trái tim bị gạch chéo đỏ; dấu chấm hỏi to ở giữa. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bác sĩ ơi, em",
+   "layout": "BÊN TRÁI {NURSE} cầm ống nghe y tế áp vào người {HERO}, màn hình máy đo điện tim bên cạnh chỉ là một đường thẳng tắp kêu tút tút kéo dài hài hước.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Trợ lý bình tĩnh,",
+   "layout": "{DOCTOR} đứng bên cạnh cười toe toét giơ ngón tay giải thích; {HERO} nằm trên bàn khám há miệng tròn xoe không có lấy một chiếc răng nào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Xin giới thiệu với",
+   "layout": "Cây phả hệ sinh vật biển da gai: {HERO} đứng giữa cùng họ hàng sao biển màu cam và cầu gai nhiều gai nhọn dưới đáy đại dương.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Kích thước trung bình",
+   "layout": "Ở GIỮA {HERO} nằm thẳng cạnh chiếc thước đo chiều cao màu vàng 30cm của phòng khám để đối chiếu kích thước.",
+   "stickers": [
+    {
+     "at": "30cm",
+     "side": "R",
+     "y": 350,
+     "value": "20-30 CM",
+     "label": "chiều dài cơ thể",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhìn bề ngoài thì",
+   "layout": "Chia đôi: BÊN TRÁI một quả dưa chuột xanh ngắt đặt trên thớt gỗ; BÊN PHẢI {HERO} khoác áo choàng bệnh nhân giơ dải băng danh hiệu Quái Kiệt Ruột Mềm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đừng để vẻ ngoài",
+   "layout": "{HERO} tạo dáng siêu anh hùng nhưng cơ thể mềm oặt như cục bột, các nốt sần gai mềm rung rinh ngộ nghĩnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "cơ thể tự hóa lỏng",
+   "layout": "Ba ô đồ họa năng lực tự vệ kỳ dị: ô một hóa lỏng như thạch, ô hai thở bằng hậu môn, ô ba bắn ruột qua đuôi; dấu chấm than đỏ rực. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hôm nay, phòng khám",
+   "layout": "{DOCTOR} bật chiếc đèn mổ công suất lớn soi thẳng vào {HERO} đang nằm thư thái trên bàn mổ, xung quanh là 4 tấm bảng hồ sơ bệnh án chuẩn bị mở ra.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Bảng điện tử phòng khám hiện HẠNG MỤC 1: CHỤP CẮT LỚP MÔ DA; {DOCTOR} đeo găng tay cao su chuẩn bị kiểm tra độ đàn hồi. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bình thường khi một",
+   "layout": "Một con cua biển hung dữ giơ chiếc càng to kẹp mạnh vào lưng {HERO}, cơ thể {HERO} đột ngột gồng cứng ngắc lại như một khúc gỗ hóa thạch.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "khiến chiếc càng cua",
+   "layout": "Chiếc càng cua biển kẹp vào lưng {HERO} bị trượt cộp cộp văng ra ngoài, không thể xuyên thủng lớp da sần sùi cứng đanh.",
+   "stickers": [],
+   "impacts": [
+    "cộp cộp"
+   ]
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng điều làm toàn",
+   "layout": "{DOCTOR} và {NURSE} trợn tròn mắt kinh ngạc nhìn vào màn hình máy quét: hiện tượng biến đổi vật lý kỳ lạ bắt đầu diễn ra.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nếu kẻ săn mồi",
+   "layout": "Đồng hồ cát điện tử đếm 1 giây: chỉ trong 1 giây, phản xạ thần kinh đặc biệt kích hoạt làm thay đổi hoàn toàn cấu trúc cơ thể.",
+   "stickers": [
+    {
+     "at": "1 giây",
+     "side": "R",
+     "y": 350,
+     "value": "1 GIÂY",
+     "label": "hóa lỏng như thạch",
+     "target": [
+      0.62,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "toàn bộ lớp thịt",
+   "layout": "Thân hình của {HERO} mềm mại uyển chuyển như đĩa thạch rau câu ngọt ngào đặt trên khay phòng lab.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhờ trạng thái nhão",
+   "layout": "{HERO} ở trạng thái nhão nhớt tự hóa lỏng, nhẹ nhàng trườn cơ thể luồn lách qua một khe nứt đá ngầm hẹp chỉ bằng một nửa thân mình một cách êm ru.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Vừa chui tọt vào",
+   "layout": "Bên trong khe đá ngầm, {HERO} đột ngột đông cứng trở lại như tảng đá chèn chặt vào vách nứt; bên ngoài con cua biển thò càng vào lôi mãi không ra.",
+   "stickers": [],
+   "impacts": [
+    "cứng ngắc"
+   ]
+  },
+  {
+   "scene": "scene02",
+   "at": "Bí mật đằng sau",
+   "layout": "Sơ đồ hiển vi phân tử da Hải Sâm: các sợi collagen đan cài vào nhau như lưới thép, protein Tensilin và các ion canxi phát sáng màu xanh điều hòa liên kết. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng thay vì dùng",
+   "layout": "Mô hình protein Tensilin hoạt động như công tắc mở đóng các chốt khóa giữa các sợi collagen mà không tốn một chút năng lượng cơ bắp nào. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Muốn cứng là cứng,",
+   "layout": "{HERO} chuyển đổi hai nửa thân mình: nửa bên trái cứng như đá tảng gõ keng keng, nửa bên phải mềm nhèo như thạch chảy, mặt cười tít mắt không tốn calo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Để chứng minh điều",
+   "layout": "Trong phòng lab: một mẩu mô da hải sâm ngâm trong cốc thủy tinh nước biển nhân tạo rút sạch canxi bị rã rời ra như một bát súp nhầy nhụa lỏng bỏng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng chỉ cần nhỏ",
+   "layout": "Ống nhỏ giọt nhỏ vài giọt dung dịch canxi vào cốc, bát súp lỏng lập tức liên kết chéo đông cứng đanh lại thành khối thạch rắn rỏi như gạch nung. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Giới kỹ sư vật",
+   "layout": "Mô hình áo giáp chống đạn tương lai thông minh: bình thường mềm mại như chiếc áo phông co giãn, khi bị viên đạn chạm vào lập tức hóa cứng thành tấm thép. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Bảng điện tử chuyển sang HẠNG MỤC 2: NỘI SOI HỆ HÔ HẤP; {DOCTOR} cầm ống nội soi mềm chỉ về phía chiếc lỗ hậu môn của {HERO}. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "nó dùng đúng chiếc",
+   "layout": "Cận cảnh chiếc lỗ hậu môn phía sau của {HERO} co bóp thở phì phò, bên cạnh đồng hồ 24 giờ quay đều liên tục.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bên trong khoang sau",
+   "layout": "Mặt cắt giải phẫu bên trong cơ thể {HERO}: gắn liền với lỗ hậu môn là hai nhánh ống cây hô hấp phân nhánh chằng chịt rực rỡ như cành san hô đỏ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Cứ đều đặn 3-4",
+   "layout": "Chiếc lỗ hậu môn phía sau của {HERO} mở to ra hút dòng nước biển giàu oxy xanh mát vào trong hai cây hô hấp để trao đổi dưỡng khí.",
+   "stickers": [
+    {
+     "at": "3-4 lần",
+     "side": "R",
+     "y": 350,
+     "value": "3-4 LẦN/P",
+     "label": "thở bằng hậu môn",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "rồi lại co bóp",
+   "layout": "Hậu môn co bóp tống dòng nước cũ ra ngoài thành dòng bong bóng khí; chiếc biển báo ghi dòng chữ: Thở và bài tiết dùng chung một cửa ngõ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bác sĩ ơi, trong",
+   "layout": "{NURSE} giật nảy mình chỉ vào màn hình nội soi: từ lỗ hậu môn của {HERO} đang có một chiếc đuôi cá nhỏ nhắn ngọ nguậy thò ra thụt vào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đúng rồi đấy trợ",
+   "layout": "{DOCTOR} bật cười vỗ trán chỉ lên màn hình: vụ việc trớ trêu và hài hước bậc nhất đại dương giữa hải sâm và chú cá ngọc. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "một loài cá nhỏ",
+   "layout": "Chú cá ngọc nhỏ màu bạc bơi lượn quanh {HERO} đang nằm thư thái trên cát biển, chuẩn bị tìm chỗ trú ẩn kết bạn (phong cách hoạt hình trẻ em đáng yêu).",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chào bác sĩ, em",
+   "layout": "{PEARLFISH} nằm cuộn tròn mát mẻ trong khoang ruột của {HERO}, thò mỗi cái đầu ra cửa vẫy vẫy tay chào bác sĩ như ở trong phòng khách sạn hạng sang.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chú cá ngọc coi",
+   "layout": "Minh họa hài hước: cơ thể {HERO} biến thành tòa chung cư mini có bảng hiệu Khách Sạn Miễn Phí, cá ngọc ban ngày ngủ khò khò, ban đêm bơi ra đi chơi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Tệ hơn nữa, đôi",
+   "layout": "{PEARLFISH} đói bụng thò miệng cắn nhấm nháp một mẩu mô ruột của gia chủ; {HERO} vẫn nằm ngáy phì phò vì mô ruột bị cắn tự tái tạo lại ngay lập tức.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng Quái Kiệt Ruột",
+   "layout": "{HERO} mỉm cười hiền lành vị tha như ông bụt, mô ruột bên trong tự tỏa hào quang xanh ngọc liền sẹo thần tốc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Các nhà sinh vật",
+   "layout": "{DOCTOR} giở cuốn sổ kỷ lục sinh vật biển ghi nhận một sự thật khó tin khiến cả phòng khám ôm bụng cười. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "bên trong khoang cơ thể",
+   "layout": "Bên trong cơ thể chú Hải Sâm dài 40cm có tới 15 chú cá ngọc lớn nhỏ chen chúc nằm xếp lớp ngủ cùng một lúc.",
+   "stickers": [
+    {
+     "at": "15 con",
+     "side": "L",
+     "y": 350,
+     "value": "15 CON CÁ",
+     "label": "trú cùng một lúc",
+     "target": [
+      0.42,
+      0.48
+     ]
+    },
+    {
+     "at": "40cm",
+     "side": "R",
+     "y": 480,
+     "value": "40 CM",
+     "label": "chiều dài hải sâm",
+     "target": [
+      0.72,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "bỗng chốc biến thành",
+   "layout": "Minh họa chiếc lỗ hậu môn của {HERO} đông đúc như cửa trạm xe buýt giờ cao điểm, các chú cá ngọc xếp hàng trật tự chờ tới lượt vào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chưa hết, đôi khi",
+   "layout": "Thêm một chú cua hạt đậu bé xíu cũng trèo vào góc ruột của {HERO} ngồi ké, cả hội sinh vật biển mở tiệc trà vui vẻ bên trong lòng mề gia chủ hiền lành.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Bảng điện tử chuyển sang HẠNG MỤC 3: THỬ NGHIỆM VŨ KHÍ PHÒNG VỆ CHỦ ĐỘNG; một con cá mập nhỏ và cua biển hung hăng áp sát {HERO}. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Không có chân để",
+   "layout": "{HERO} nằm im bất động giữa vòng vây kẻ thù, không chân không răng, tình thế ngàn cân treo sợi tóc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nó lập tức quay",
+   "layout": "{HERO} quay phao câu về phía kẻ thù, gồng mạnh cơ thành bụng chuẩn bị khai hỏa cơ quan phòng vệ bí mật.",
+   "stickers": [],
+   "impacts": [
+    "bùm"
+   ]
+  },
+  {
+   "scene": "scene04",
+   "at": "Một loạt búi sợi",
+   "layout": "Bùm! Một loạt búi sợi màu trắng xóa mang tên ống Cuvier bắn tung tóe qua đường hậu môn phóng thẳng vào mặt đối thủ như một màn pháo hoa mì Ý kinh dị.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ngay khoảnh khắc chạm",
+   "layout": "Những ống Cuvier vừa chạm vào nước biển lập tức dãn dài ra gấp 20 lần như những sợi dây chun đàn hồi khổng lồ bao vây lấy con cua biển.",
+   "stickers": [
+    {
+     "at": "20 lần",
+     "side": "R",
+     "y": 350,
+     "value": "DÃN 20 LẦN",
+     "label": "kéo dài tức thì",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đồng thời, lớp màng",
+   "layout": "Lớp màng ngoài ống Cuvier vỡ tung, giải phóng một loại chất keo sinh học siêu dính bám chặt vào vảy cá, mai cua và mắt mũi của kẻ địch.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Kẻ tấn công càng",
+   "layout": "Một chú cua biển hoạt hình ngộ nghĩnh bị những sợi dây tơ màu trắng quấn quanh chiếc càng như sợi len mềm mại, mặt ngơ ngác giơ hai càng lên bất động đầy hài hước (phong cách hoạt hình trẻ em, không bạo lực).",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chưa dừng lại ở",
+   "layout": "Kính hiển vi phân tích độc tố Holothurin tỏa khói tím cay xè làm tê liệt hệ thần kinh cá nhỏ và làm cay cay cay mắt kẻ săn mồi to xác. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Trong lúc đối thủ",
+   "layout": "Con cá mập và cua biển loay hoay gỡ mớ mì tơ dính chặt vào mặt; ở góc xa {HERO} đã nhẹ nhàng trườn đi mất tăm mất tích với vẻ mặt cười đắc thắng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Độ dai dính kinh",
+   "layout": "Bản đồ các hòn đảo Thái Bình Dương như Micronesia nơi người dân bản địa từ thời xa xưa đã biết đến độ dai dính kỳ lạ của búi tơ ống Cuvier. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ngư dân đi biển",
+   "layout": "Ngư dân đi biển chẳng may bị đá san hô cứa rách chân đã dùng chính những búi tơ trắng này để băng bó vết thương như một loại băng gạc cầm máu tự nhiên. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Thậm chí trong trường",
+   "layout": "Ngư dân quấn các búi tơ dính của hải sâm quanh bàn chân làm thành đế giày bảo hộ dày dặn, tự tin bước đi trên rạn san hô lởm chởm sắc nhọn mà không trầy xước. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Bảng điện tử chuyển sang HẠNG MỤC 4: HIỆN TƯỢNG TỰ TỐNG NỘI TẠNG VÀ VAI TRÒ SINH THÁI; {DOCTOR} khoanh tay nghiêm túc chuẩn bị theo dõi. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nó tự bẻ gãy",
+   "layout": "Theo phong cách hoạt hình hài hước thân thiện trẻ em không máu me: {HERO} nhẹ nhàng phóng ra khối đồ ăn màu cam vui nhộn; chú cá săn mồi dừng lại ăn vui vẻ, còn chú hải sâm lùi vào góc đá an toàn.",
+   "stickers": [],
+   "impacts": [
+    "tống thẳng"
+   ]
+  },
+  {
+   "scene": "scene05",
+   "at": "Kẻ săn mồi nhìn",
+   "layout": "Con cá săn mồi mải mê ăn đống ruột tươi; ở góc đá ngầm tối, cái xác {HERO} rỗng tuếch nhưng vẫn an toàn lủi trốn thoát thân một cách tài tình.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Mất sạch toàn bộ",
+   "layout": "{DOCTOR} soi kính hiển vi kiểm tra các mô mầm còn sót lại trong cơ thể rỗng tuếch của {HERO}, các tế bào bắt đầu phân chia tái tạo lại từ đầu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chỉ sau 35 ngày,",
+   "layout": "Timeline 5 tuần bóc lịch: sau 35 ngày, toàn bộ hệ tiêu hóa mới toanh gồm miệng, dạ dày, ruột non và hậu môn của {HERO} đã mọc lại hoàn chỉnh 100%.",
+   "stickers": [
+    {
+     "at": "35 ngày",
+     "side": "L",
+     "y": 350,
+     "value": "35 NGÀY",
+     "label": "mọc lại cả bộ ruột",
+     "target": [
+      0.35,
+      0.45
+     ]
+    },
+    {
+     "at": "5 tuần",
+     "side": "R",
+     "y": 480,
+     "value": "5 TUẦN",
+     "label": "tái sinh 100%",
+     "target": [
+      0.68,
+      0.52
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Và khi đã mọc",
+   "layout": "{HERO} bơi trở lại đáy biển, dùng những xúc tu quanh miệng cần mẫn nuốt từng vốc bùn cát bẩn thỉu chứa cặn bã hữu cơ thối rữa dưới đáy.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Mỗi ngày, một chú",
+   "layout": "{HERO} nuốt cát bẩn dưới đáy biển, tiêu hóa sạch sẽ mọi vụn thức ăn hữu cơ thừa thãi và vi khuẩn thối rữa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Mỗi năm, một cá",
+   "layout": "Chiếc cân đồng hồ đo 50kg cát sạch tinh khiết tuôn ra từ đuôi {HERO}; san hô xung quanh rạng rỡ nhờ canxi cacbonat bảo vệ khỏi axit hóa.",
+   "stickers": [
+    {
+     "at": "50kg",
+     "side": "R",
+     "y": 350,
+     "value": "50 KG CÁT",
+     "label": "lọc sạch mỗi năm",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Trong các thí nghiệm",
+   "layout": "Bể nuôi thủy sản bị ô nhiễm chất thải đen ngòm, {DOCTOR} thả vài cá thể {HERO} vào cày xới đáy bể.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Sau đúng 24 giờ",
+   "layout": "Sau đúng 24 giờ cần mẫn cày xới, toàn bộ cặn bã ô nhiễm dưới đáy bể đã được lọc sạch bóng, nước trong vắt trở lại như nước suối nguồn.",
+   "stickers": [
+    {
+     "at": "24 giờ",
+     "side": "L",
+     "y": 350,
+     "value": "24 GIỜ",
+     "label": "lọc sạch bể nước",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chúng chính là những",
+   "layout": "{HERO} hóa thân thành chiếc máy hút bụi đại dương siêu cấp đáng yêu, đeo huy hiệu bảo vệ môi trường biển với nụ cười tự hào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "{DOCTOR} đứng bên bàn tổng kết hồ sơ bệnh án số 23, mô tả một khối thịt mềm oặt không não, không mắt, không xương sống đang nằm trên bàn khám.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hải Sâm đã biến",
+   "layout": "Bốn ô đồ họa tóm tắt siêu năng lực: hóa lỏng da như thạch, thở bằng hậu môn, cưu mang cá ngọc, và tự tống nội tạng tái sinh. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Kê đơn xuất viện:",
+   "layout": "{DOCTOR} đóng dấu xuất viện cho {HERO}, đưa ngón tay nhắc nhở chú {PEARLFISH} đang thò đầu ra từ đuôi hải sâm không được cắn trộm ruột nữa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Còn các đồng nghiệp",
+   "layout": "Hai bàn cân lựa chọn: BÊN TRÁI biểu tượng cơ thể hóa lỏng như thạch lách qua khe hẹp; BÊN PHẢI biểu tượng bắn búi tơ keo siêu dính trói kẻ thù, các bạn nhỏ giơ thẻ bình luận có hình trái tim. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hồ sơ bệnh án",
+   "layout": "{DOCTOR} gấp tập hồ sơ bệnh án số 23 lại, ánh đèn phòng khám chuyển sang ánh đèn neon xanh tím của phòng thí nghiệm 5 cấp độ với các cột thủy tinh phát sáng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một sinh vật cổ",
+   "layout": "Một sinh vật bí ẩn được vẽ hoàn toàn bằng BÓNG ĐEN ĐẶC TUYỀN (solid black silhouette) dài ngoằng trơn tuột như con lươn, không có hàm, đang bơi giữa cột nước tối với dấu hỏi chấm vàng lớn phía trên; KHÔNG vẽ rõ mắt hay màu da. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "nhưng khi bị cá",
+   "layout": "Cũng chiếc BÓNG ĐEN ĐẶC TUYỀN (solid black silhouette) hình con lươn đó phóng ra cả một khối keo nhớt khổng lồ 20 lít bọc kín đầu một con cá mập, và tự thắt nút cơ thể mình như một nút thòng lọng ảo thuật; dấu hỏi chấm to tướng. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "20 lít",
+     "side": "R",
+     "y": 350,
+     "value": "20 LÍT KEO",
+     "label": "đặc quánh trong 1 giây",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đố các bạn biết",
+   "layout": "Chiếc BÓNG ĐEN ĐẶC TUYỀN bí ẩn có khả năng tạo keo nhớt khổng lồ nằm giữa ba dấu hỏi chấm vàng cam lấp lánh mời gọi khán giả bình luận đoán tên con vật kỳ sau. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Khung dọc: con cua biển hung dữ kẹp vào {HERO}, {HERO} quay phao câu chuẩn bị khai hỏa cơ quan tự vệ.",
+   "stickers": []
+  },
+  {
+   "at": "mà chọn cách... bắn",
+   "layout": "Từ đuôi {HERO} bắn thẳng toàn bộ ruột gan màu cam ra ngoài biển để kẻ thù mải ăn, còn chú lủi trốn thoát thân.",
+   "stickers": []
+  },
+  {
+   "at": "Xin giới thiệu Hải",
+   "layout": "{HERO} nằm mũm mĩm hình chiếc xúc xích trên nền cát biển sâu, chiếc thước đo chiều cao màu vàng 30cm dựng thẳng đứng bên cạnh.",
+   "stickers": [
+    {
+     "at": "30cm",
+     "side": "R",
+     "y": 620,
+     "value": "30 CM",
+     "label": "xúc xích đáy biển",
+     "target": [
+      0.58,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Cơ thể nó không",
+   "layout": "Khung dọc: hình đồ họa cơ thể {HERO} gạch chéo não, mắt, tim; không có xương sống.",
+   "stickers": []
+  },
+  {
+   "at": "và thở bằng cách",
+   "layout": "Chiếc lỗ hậu môn phía sau mở to hút nước biển vào hai cây hô hấp để trao đổi khí thở.",
+   "stickers": []
+  },
+  {
+   "at": "Da của nó làm",
+   "layout": "{HERO} cứng như đá tảng gõ keng keng dưới đáy biển.",
+   "stickers": []
+  },
+  {
+   "at": "có thể tự chuyển",
+   "layout": "{HERO} tự hóa lỏng như đĩa thạch rau câu ấm nóng trượt qua khe đá hẹp chỉ trong 1 giây.",
+   "stickers": [
+    {
+     "at": "1 giây",
+     "side": "R",
+     "y": 650,
+     "value": "1 GIÂY",
+     "label": "hóa lỏng như thạch",
+     "target": [
+      0.55,
+      0.52
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Khi bị tấn công,",
+   "layout": "Từ đuôi {HERO} bắn ra những búi tơ ống Cuvier màu trắng dãn dài gấp 20 lần như mạng nhện khổng lồ dính chặt cứng lấy con cua biển.",
+   "stickers": [
+    {
+     "at": "20 lần",
+     "side": "L",
+     "y": 680,
+     "value": "DÃN 20 LẦN",
+     "label": "tơ keo siêu dính",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Nếu vẫn chưa thoát,",
+   "layout": "{HERO} tự tống toàn bộ dạ dày ruột gan ra ngoài cho kẻ địch mải ăn, còn cái xác rỗng tuếch nhanh chóng lủi trốn vào kẽ đá.",
+   "stickers": []
+  },
+  {
+   "at": "rồi lủi trốn và",
+   "layout": "Sau 5 tuần, toàn bộ hệ tiêu hóa ruột gan mới toanh của {HERO} đã mọc lại hoàn chỉnh 100% không để lại tì vết.",
+   "stickers": [
+    {
+     "at": "5 tuần",
+     "side": "R",
+     "y": 680,
+     "value": "5 TUẦN",
+     "label": "tái sinh bộ ruột",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Một quái kiệt đáy",
+   "layout": "Chân dung {HERO} mũm mĩm tỏa hào quang dưới đáy biển: một nửa thân hóa lỏng như thạch, phía sau mở lỗ thở bằng hậu môn.",
+   "stickers": []
+  },
+  {
+   "id": "S12",
+   "at": "đúng là phép màu",
+   "layout": "{HERO} mỉm cười toe toét ngây thơ đáng yêu giữa rạn san hô rực rỡ, hai tay giơ biểu tượng trái tim phép màu sinh học kỳ diệu.",
+   "stickers": []
+  }
+ ]
+}

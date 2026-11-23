@@ -1,0 +1,20 @@
+{
+ "_doc": "Mỗi câu/ý thoại = 1 beat = 1 ảnh riêng. 'at' = 3-5 chữ CHÉP NGUYÊN VĂN lời đọc, dạng phụ đề (số đã qua display_fix, vd '20cm' không phải 'hai mươi xăng-ti-mét'), DUY NHẤT trong chương; beat đầu chương at = 0. layout dùng {HERO}, {HERO_S}, {NO_HERO} và các nhân vật phụ khai báo trong characters. Chạy: python src/episode/build_plans.py projects/{{SLUG}}. Mẫu đầy đủ: examples/ep09_reference/storyboard.json",
+ "characters": {
+  "HERO": "chú <con vật> hoạt hình ...: màu sắc, hình dáng, đặc điểm nhận dạng cố định (1 phụ kiện dễ nhận như nơ đỏ), mắt to biểu cảm",
+  "HERO_S": "chú <con vật> + 2-3 đặc điểm nhận dạng ngắn",
+  "NO_HERO": "KHÔNG có chú <con vật> <phụ kiện> trong cảnh này"
+ },
+ "side_characters": [],
+ "shorts_title_lines": ["DÒNG 1 ≤ 22 KÝ TỰ", "DÒNG 2?!"],
+ "skip_numbers": [],
+ "long": [
+  {"scene": "scene01", "at": 0, "layout": "BÊN TRÁI ...; Ở GIỮA ...; BÊN PHẢI ... (ai làm gì, biểu cảm, đạo cụ hình ảnh hóa con số). {NO_HERO}.",
+   "stickers": [{"at": "20cm", "side": "R", "y": 360, "value": "20 CM", "label": "nhãn ≤ 22 ký tự", "target": [0.7, 0.5]}], "impacts": []},
+  {"scene": "scene01", "at": "cụm từ nguyên văn", "layout": "{HERO} ...", "stickers": [], "impacts": []}
+ ],
+ "shorts": [
+  {"at": 0, "layout": "...", "stickers": []},
+  {"at": "cụm từ nguyên văn", "layout": "...", "stickers": [{"at": "20cm", "side": "L", "y": 620, "value": "20 CM", "label": "...", "target": [0.5, 0.4]}]}
+ ]
+}

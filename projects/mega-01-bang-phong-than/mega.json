@@ -1,0 +1,284 @@
+{
+ "_doc": "MEGA #01 — Bảng Phong Thần 10 quái kiệt (Tập 1-10). Spec: docs/strategy/MEGA_COMPILATION.md. sources = video ĐÃ ĐĂNG của từng tập; timeline = thứ tự phát; keep = các đoạn [giây vào, giây ra] giữ lại của video nguồn (đã bỏ intro kênh, câu nhắc tập trước, bài học sáo rỗng, câu hỏi bình luận, teaser tập sau, kêu gọi đăng ký). Mốc cắt đã được 'assemble.py check --snap' kéo vào khoảng lặng giọng.",
+ "mega_no": 1,
+ "title_short": "Bảng Phong Thần 10 Quái Kiệt",
+ "target_min": [
+  60,
+  80
+ ],
+ "publish_note": "Theo cẩm nang V5: tối Ngày 5 (sau Tập 10), khung 20:00. Chờ lệnh chủ kênh.",
+ "sources": [
+  {
+   "ep": 1,
+   "slug": "tap-01-lung-mat",
+   "animal": "Lửng Mật",
+   "file": "projects/tap-01-lung-mat/renders/tap01_lung_mat_complete_with_intro_outro.mp4",
+   "whisper_prompt": "Lửng Mật, Chí Phèo, Guinness, sư tử, rắn hổ mang chúa, nọc độc, Stoffel, vượt ngục, Acetylcholine, xạ hương, Rái Cá Biển"
+  },
+  {
+   "ep": 2,
+   "slug": "tap-02-rai-ca-bien",
+   "animal": "Rái Cá Biển",
+   "file": "projects/tap-02-rai-ca-bien/renders/tap02_rai_ca_bien_complete_with_intro_outro.mp4",
+   "whisper_prompt": "Rái Cá Biển, nắm tay ngủ, tảo bẹ, Cá Voi Sát Thủ, túi Doraemon, bào ngư, nhím biển tím, Santa Cruz, 841, ván lướt sóng, Cá Heo"
+  },
+  {
+   "ep": 3,
+   "slug": "tap-03-ca-heo",
+   "animal": "Cá Heo",
+   "file": "projects/tap-03-ca-heo/renders/tap03_ca_heo_complete_with_intro_outro.mp4",
+   "whisper_prompt": "Cá Heo, nụ cười, Melon, siêu âm, ngủ mở một mắt, cá nóc, bóng chuyền, Shark Bay, bọt biển, cá mập trắng, Rostrum, Pelorus Jack, Thú Mỏ Vịt"
+  },
+  {
+   "ep": 4,
+   "slug": "tap-04-thu-mo-vit",
+   "animal": "Thú Mỏ Vịt",
+   "file": "projects/tap-04-thu-mo-vit/renders/tap04_thu_mo_vit_complete_with_intro_outro.mp4",
+   "whisper_prompt": "Thú Mỏ Vịt, George Shaw, 1798, mỏ vịt, cựa độc, điện trường, sữa mồ hôi, huỳnh quang, không dạ dày, sỏi, nhiễm sắc thể, Chim Bồ Nông"
+  },
+  {
+   "ep": 5,
+   "slug": "tap-05-chim-bo-nong",
+   "animal": "Chim Bồ Nông",
+   "file": "projects/tap-05-chim-bo-nong/renders/tap05_chim_bo_nong_complete_with_intro_outro.mp4",
+   "whisper_prompt": "Chim Bồ Nông, túi mỏ, 13 lít, Capybara, bồ câu, Flycam, lộn cột sống, Ground Effect, mòng biển, DDT, Gấu Nước"
+  },
+  {
+   "ep": 6,
+   "slug": "tap-06-gau-nuoc",
+   "animal": "Gấu Nước",
+   "file": "projects/tap-06-gau-nuoc/renders/tap06_gau_nuoc_long_v2.mp4",
+   "whisper_prompt": "Gấu Nước, Tardigrade, âm 272 độ, phóng xạ, Cryptobiosis, thủy tinh, TDPs, ốc sên, Beresheet, Mặt Trăng, Tôm Tít"
+  },
+  {
+   "ep": 7,
+   "slug": "tap-07-tom-tit",
+   "animal": "Tôm Tít",
+   "file": "projects/tap-07-tom-tit/renders/tap-07-tom-tit_long.mp4",
+   "whisper_prompt": "Tôm Tít Mantis Shrimp, Mike Tyson đại dương, Cavitation, Bouligand, 10400g, 80 cây số một giờ, 1500 Newton, Sonoluminescence, Mặt Trời, UV, phân cực tròn, ngón tay chẻ đôi"
+  },
+  {
+   "ep": 8,
+   "slug": "tap-08-chon-gulo",
+   "animal": "Chồn Gulo",
+   "file": "projects/tap-08-chon-gulo/renders/tap-08-chon-gulo_long.mp4",
+   "whisper_prompt": "Chồn Gulo, Wolverine, Gulo gulo, Gấu Xám Grizzly, Chồn hôi Skunk bear, Băng tuyết Taiga, Yellowstone, Alaska, Răng hàm xoay 90 độ, Đệm chân tuyết, M3, Bất tử xứ tuyết"
+  },
+  {
+   "ep": 9,
+   "slug": "tap-09-chim-canh-cut",
+   "animal": "Chim Cánh Cụt",
+   "file": "projects/tap-09-chim-canh-cut/renders/tap-09-chim-canh-cut_long.mp4",
+   "whisper_prompt": "Chim cánh cụt A-đê-li, Adélie, Quý ông Vest Đuôi Tôm, bị cáo, bồi thẩm đoàn, công tố viên, hải cẩu báo, sỏi, Nam Cực, Levick, Cape Adare, Ig Nobel, Humboldt, Gentoo, Skua, kPa, Koala"
+  },
+  {
+   "ep": 10,
+   "slug": "tap-10-gau-koala",
+   "animal": "Gấu Koala",
+   "file": "projects/tap-10-gau-koala/renders/tap-10-gau-koala_long.mp4",
+   "whisper_prompt": "Gấu Koala, Bệnh nhân ngơ ngác, thú có túi, Wombat, Kangaroo, X-quang, não phẳng lì, lá khuynh diệp, Xyanua, manh tràng, cháo Pap, 2 ngón cái, vân tay người, dây thanh âm phụ, cháy rừng, Dharug, Gấu Trúc"
+  }
+ ],
+ "timeline": [
+  {
+   "type": "intro"
+  },
+  {
+   "type": "bridge",
+   "scene": "scene01",
+   "chapter": "Mở đầu: Đại Hội Sinh Tồn — luật chơi Bảng Phong Thần"
+  },
+  {
+   "type": "source",
+   "slug": "tap-10-gau-koala",
+   "chapter": "Hạng 10 — Gấu Koala: bệnh nhân não phẳng (Lỗi Tạo Hóa)",
+   "_cut": "bỏ teaser Gấu Trúc + cameo trợ lý + 'Kê đơn' + câu hỏi bình luận (từ 510.8s)",
+   "keep": [
+    [
+     9.97,
+     510.56
+    ]
+   ]
+  },
+  {
+   "type": "bridge",
+   "scene": "scene02",
+   "chapter": "Hạng 9 — Thú Mỏ Vịt: tác phẩm lắp ghép kỳ dị (Lỗi Tạo Hóa)"
+  },
+  {
+   "type": "source",
+   "slug": "tap-04-thu-mo-vit",
+   "_cut": "bỏ intro + 'Ở tập trước… cá heo' (9.8-18.8s); bỏ câu 'vào phút thứ 4' (295.9-301.6s); bỏ đoạn nhiễm sắc thể + màng bơi, bài học, bảo tồn, teaser Bồ Nông, đăng ký (từ 419.4s)",
+   "keep": [
+    [
+     19.44,
+     295.99
+    ],
+    [
+     302.08,
+     419.53
+    ]
+   ]
+  },
+  {
+   "type": "bridge",
+   "scene": "scene03",
+   "chapter": "Hạng 8 — Chim Bồ Nông: cỗ máy tham ăn vô độ (Lỗi Tạo Hóa)"
+  },
+  {
+   "type": "source",
+   "slug": "tap-05-chim-bo-nong",
+   "_cut": "bỏ intro + 'Ở tập trước… thú mỏ vịt' (10.2-16.9s); bỏ đoạn mạch máu túi da (209.6-232.8s); bỏ câu 'phút thứ tư' (234.9-243.9s); bỏ 'Hành trình khám phá…', teaser Gấu Nước, đăng ký (từ 444.6s); bỏ chiến thuật chữ V + ví dụ xe bán tải (176.9-209.4s)",
+   "keep": [
+    [
+     17.42,
+     176.88
+    ],
+    [
+     244.19,
+     442.79
+    ]
+   ]
+  },
+  {
+   "type": "bridge",
+   "scene": "scene04",
+   "chapter": "Hạng 7 — Chim Cánh Cụt: phiên tòa Nam Cực (Tội Phạm)"
+  },
+  {
+   "type": "source",
+   "slug": "tap-09-chim-canh-cut",
+   "_cut": "bỏ bơi nhanh + trượt bụng (380.5-409.9s); bỏ câu hỏi bình luận + teaser Koala (từ 498.2s)",
+   "keep": [
+    [
+     9.97,
+     380.71
+    ],
+    [
+     409.74,
+     497.7
+    ]
+   ]
+  },
+  {
+   "type": "bridge",
+   "scene": "scene05",
+   "chapter": "Hạng 6 — Rái Cá Biển: vỏ bọc hoàn hảo nhất (Tội Phạm)"
+  },
+  {
+   "type": "source",
+   "slug": "tap-02-rai-ca-bien",
+   "_cut": "bỏ intro + 'Ở tập trước… lửng mật' + câu anh em họ Lửng Mật (đến 26.6s); bỏ bài học, teaser Cá Heo (từ 470.2s); bỏ cắn mũi cướp đá (361.2-370.6s)",
+   "keep": [
+    [
+     27.2,
+     361.08
+    ],
+    [
+     370.5,
+     468.66
+    ]
+   ]
+  },
+  {
+   "type": "bridge",
+   "scene": "scene06",
+   "chapter": "Hạng 5 — Cá Heo: ông trùm đại dương (Tội Phạm)"
+  },
+  {
+   "type": "source",
+   "slug": "tap-03-ca-heo",
+   "_cut": "bỏ intro + 'Ở tập trước… rái cá' (đến 18.5s); bỏ câu 'Cho đến tận ngày nay…' + 'Qua những nét vẽ hôm nay…', bảo vệ biển, teaser, đăng ký (từ 444.2s)",
+   "keep": [
+    [
+     18.99,
+     443.79
+    ]
+   ]
+  },
+  {
+   "type": "bridge",
+   "scene": "scene07",
+   "chapter": "Hạng 4 — Chồn Gulo: chiến binh liều mạng xứ tuyết (Hạng A)"
+  },
+  {
+   "type": "source",
+   "slug": "tap-08-chon-gulo",
+   "_cut": "bỏ khứu giác đào nai + lông viền mũ Eskimo (281.2-335.5s); bỏ nghiên cứu M3, bài học, câu hỏi, teaser Cánh Cụt (từ 502.6s)",
+   "keep": [
+    [
+     10.32,
+     281.3
+    ],
+    [
+     335.56,
+     502.24
+    ]
+   ]
+  },
+  {
+   "type": "bridge",
+   "scene": "scene08",
+   "chapter": "Hạng 3 — Tôm Tít: cú đấm nóng ngang Mặt Trời (Hạng S)"
+  },
+  {
+   "type": "source",
+   "slug": "tap-07-tom-tit",
+   "_cut": "bỏ phe đâm (162.2-177.2s); bỏ chương 6 bài học + câu hỏi + teaser + đăng ký (từ 463.6s)",
+   "keep": [
+    [
+     9.97,
+     162.1
+    ],
+    [
+     177.5,
+     463.6
+    ]
+   ]
+  },
+  {
+   "type": "bridge",
+   "scene": "scene09",
+   "chapter": "Hạng 2 — Lửng Mật: gã Chí Phèo châu Phi (Hạng S)"
+  },
+  {
+   "type": "source",
+   "slug": "tap-01-lung-mat",
+   "_cut": "bỏ intro (đến 10.0s); bỏ bài học 'kích thước cơ thể…', teaser Rái Cá (từ 495.4s)",
+   "keep": [
+    [
+     9.97,
+     494.95
+    ]
+   ]
+  },
+  {
+   "type": "bridge",
+   "scene": "scene10",
+   "chapter": "Hạng 1 — Gấu Nước: ngôi vương bất tử (Hạng S+)"
+  },
+  {
+   "type": "source",
+   "slug": "tap-06-gau-nuoc",
+   "_cut": "bỏ nhựa thông/vắc-xin (277.6-294.0s, giữ câu Nghe đến đây); bỏ tranh luận ô nhiễm Mặt Trăng, bài học, câu hỏi, teaser, đăng ký (từ 456.7s)",
+   "keep": [
+    [
+     10.33,
+     277.22
+    ],
+    [
+     294.0,
+     456.42
+    ]
+   ]
+  },
+  {
+   "type": "bridge",
+   "scene": "scene11",
+   "chapter": "Bảng phong thần cuối cùng & lễ trao vương miện"
+  },
+  {
+   "type": "outro"
+  }
+ ]
+}

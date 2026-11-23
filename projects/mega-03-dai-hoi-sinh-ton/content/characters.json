@@ -1,0 +1,28 @@
+{
+ "_doc": "Nhân vật cố định của Đại Hội Sinh Tồn Mùa 3 (Tập 21 đến Tập 30). Ngoại hình 10 con vật lấy từ storyboard/prompt tập gốc (giữ phụ kiện nhận dạng). HERO = MC (xuất hiện xuyên suốt).",
+ "characters": {
+  "HERO": "anh MC dẫn chương trình hoạt hình vui tính: tóc vuốt dựng, mặc bộ vest đỏ tươi, thắt nơ bướm vàng, cầm chiếc micro vàng, nụ cười rộng",
+  "HERO_S": "anh MC vest đỏ nơ bướm vàng cầm micro vàng và 10 tuyển thủ động vật hoạt hình của Đại Hội Sinh Tồn Mùa 3",
+  "MC": "anh MC hoạt hình vest đỏ nơ bướm vàng cầm micro vàng",
+  "JUDGE": "bà cú mèo giám khảo hoạt hình đeo kính tròn gọng vàng, khoác áo choàng tím, cầm búa gỗ nhỏ",
+  "BOARD": "tấm bảng điểm khổng lồ hình chiếc khiên dựng giữa sân vận động, có 10 cột đèn màu bên cạnh 10 hình đầu con vật nhỏ (không có chữ, không có số)",
+  "NO_HERO": "KHÔNG có anh MC trong cảnh này",
+  "WOLVERINE_FROG": "chú Ếch Lông Wolverine hoạt hình màu nâu sần sùi có lông tơ ở hai bên sườn, móng vuốt xương nhọn hoắt đâm ra từ đầu ngón chân sau, vẻ mặt ngầu lạnh lùng",
+  "AXOLOTL": "chú Kỳ Nhông Axolotl hoạt hình màu hồng phấn dễ thương, 6 nhánh mang ngoài xòe lông vũ màu đỏ hồng như chiếc vương miện, nụ cười ngây thơ tươi rói",
+  "SEA_CUCUMBER": "chú Hải Sâm hoạt hình mập mạp màu nâu cam sần sùi không xương, vẻ mặt lầy lội bi hài, luôn cầm chiếc quạt giấy mini xua đuổi kẻ thù",
+  "HAGFISH": "chú Cá Mút Đá Hagfish hoạt hình trơn tuột màu xám tím nhạt, miệng tròn có râu xúc giác, toàn thân quấn bọt nhớt lấp lánh, thắt nút thân điêu luyện",
+  "MIMIC_OCTOPUS": "chú Bạch Tuộc Mimic hoạt hình sọc vằn nâu trắng nghệ sĩ, 8 xúc tu uốn lượn biến ảo thành đủ hình dáng kỳ lạ, cầm chiếc mặt nạ biến hình",
+  "WOMBAT": "chú Gấu Túi Wombat hoạt hình mập tròn 35kg màu nâu xám, chiếc mông bọc thép titan chống cắn, cầm xẻng đào hầm mini, vẻ mặt lì lợm kiên cường",
+  "STAR_MOLE": "chú Chuột Chũi Mũi Sao hoạt hình lông đen nhung mượt mà, mũi xòe ra 22 xúc tu đỏ hồng như bông hoa sao biển, đeo kính râm mù lòa nhưng phản xạ siêu thanh",
+  "EXPLODING_ANT": "chú Kiến Nổ Cảm Tử hoạt hình màu đỏ cam, đeo ba lô chứa chất lỏng vàng phát sáng, đội mũ bảo hộ chống độc, ánh mắt quả cảm kiên cường",
+  "IMMORTAL_JELLYFISH": "chú Sứa Bất Tử hoạt hình trong suốt hình chuông nhỏ xíu 4.5mm phát ánh sáng ma thuật hồng tím, đeo bùa hộ mệnh vòng lặp vô cực",
+  "BEAVER": "chú Hải Ly hoạt hình lông nâu hạt dẻ, chiếc đuôi dẹt như mái chèo, răng cửa màu cam phủ sắt sắc bén, đội mũ bảo hộ công trình màu vàng cầm thước đo"
+ },
+ "side_characters": [
+  "JUDGE"
+ ],
+ "shorts_side_characters": [
+  "JUDGE"
+ ]
+}
+

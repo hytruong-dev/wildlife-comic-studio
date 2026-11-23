@@ -1,0 +1,317 @@
+{
+ "episode_no": 42,
+ "animal": "Cá Thòi Lòi",
+ "slug": "tap-42-ca-thoi-loi",
+ "format": "F1",
+ "persona": "bac_si",
+ "nickname": "Bệnh nhân chán biển",
+ "sources": [
+  "Gordon, M. S. et al. (1969). Aspects of the catabolism of mudskipper fishes. J. Exp. Biol., 50(1), 141-149 (Hô hấp qua da và niêm mạc miệng chiếm 50-60% oxy trên cạn; khoang mang ngậm nước)",
+  "Sayer, M. D. (2005). Adaptations of amphibious fish for surviving life out of water. Biol. Rev., 80(4), 647-669 (Cá lưỡng cư: chết ngạt nếu bị ép ngâm dưới nước tù thiếu oxy)",
+  "Michel, K. B. et al. (2015). A new mechanism for swallowing in amphibious fishes: blinking and intraoral pressure. J. Exp. Biol., 218(19), 2990-2997 (Thụt nhãn cầu mắt xuống họng để bôi trơn mắt và nuốt mồi)",
+  "Clayton, D. A. (1993). Mudskippers. Oceanogr. Mar. Biol. Annu. Rev., 31, 507-577 (Cặp vây ngực biến tính thành hai cánh tay leo trèo rễ cây đước và nhảy xa gấp 4 lần chiều dài)",
+  "Ishimatsu, A. et al. (2007). Mudskippers store air in their burrows for their embryos. J. Exp. Biol., 210(22), 3922-3929 (Túi khí ngầm trong hang bùn nuôi dưỡng trứng)"
+ ],
+ "whisper_prompt": "Cá Thòi Lòi, Bệnh nhân chán biển, Periophthalmus, rừng ngập mặn, rễ cây đước, khoang mang, thụt mắt nuốt mồi, 50-60%, 4 lần, 20cm, Bác sĩ, Ong Bắp Cày Ngọc",
+ "display_fix": {
+  "bốn mươi hai": "42",
+  "Bốn mươi hai": "42",
+  "bốn mươi mốt": "41",
+  "Bốn mươi mốt": "41",
+  "bốn mươi ba": "43",
+  "Bốn mươi ba": "43",
+  "Tập bốn mươi hai": "Tập 42",
+  "Tập bốn mươi ba": "Tập 43",
+  "Tập bốn mươi mốt": "Tập 41",
+  "số bốn mươi hai": "số 42",
+  "Số bốn mươi hai": "Số 42",
+  "mười lăm đến hai mươi xăng-ti-mét": "15-20cm",
+  "Mười lăm đến hai mươi xăng-ti-mét": "15-20cm",
+  "năm mươi đến sáu mươi phần trăm": "50-60%",
+  "Năm mươi đến sáu mươi phần trăm": "50-60%",
+  "năm mươi phần trăm": "50%",
+  "sáu mươi phần trăm": "60%",
+  "bốn lần": "4 lần",
+  "Bốn lần": "4 lần",
+  "hai mươi xăng-ti-mét": "20cm",
+  "Hai mươi xăng-ti-mét": "20cm",
+  "mười lăm xăng-ti-mét": "15cm",
+  "Mười lăm xăng-ti-mét": "15cm",
+  "mười lăm": "15",
+  "ba mét": "3 mét",
+  "Ba mét": "3 mét",
+  "hai mét": "2 mét",
+  "Hai mét": "2 mét",
+  "một mét": "1 mét",
+  "Một mét": "1 mét",
+  "bốn mươi độ C": "40°C",
+  "Bốn mươi độ C": "40°C",
+  "ba mươi lăm độ C": "35°C",
+  "Ba mươi lăm độ C": "35°C",
+  "ba trăm sáu mươi độ": "360°",
+  "Ba trăm sáu mươi độ": "360°",
+  "hàng triệu năm": "hàng triệu năm",
+  "triệu năm": "triệu năm",
+  "ba trăm triệu năm": "300 triệu năm",
+  "Pe-ri-oph-thal-mus": "Periophthalmus",
+  "hai mươi": "20",
+  "ba mươi": "30",
+  "bốn mươi": "40",
+  "năm mươi": "50",
+  "sáu mươi": "60",
+  "bảy mươi": "70",
+  "tám mươi": "80",
+  "chín mươi": "90",
+  "một trăm": "100",
+  "gấp đôi": "gấp đôi",
+  "gấp ba": "gấp ba"
+ },
+ "voice": {
+  "speed": 1.05,
+  "tempo_long": 1.12
+ },
+ "art": {
+  "decor": "mangrove stilt roots, muddy footprints, clinical thermometer, and tropical mudflat bubbles",
+  "shorts_mascot": "A goofy cartoon mudskipper with giant bulging googly eyes, wearing a white patient hospital gown and stethoscope around its neck, proudly resting its pectoral fin arms on a muddy mangrove root",
+  "thumb_bg": "tropical brackish mangrove mudflat swamp in earthy grey-brown and olive green with twisted roots and dramatic sunbeams",
+  "thumb_title": [
+   "CÁ CHẾT ĐUỐI DƯỚI NƯỚC?!",
+   "THỤT MẮT ĐỂ NUỐT MỒI"
+  ],
+  "thumb_scene": "a hilarious cartoon mudskipper with giant expressive eyes popping out on top of its head, sitting upright on a mangrove tree branch like a bird, holding an ice cream cone in its hand-like pectoral fin, looking shocked at a passing submarine",
+  "thumb_gag": "a tiny crab on a mud mound pointing at the fish and laughing hysterically with tears in its eyes"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "BỆNH ÁN #01",
+    "banner_title": "CON CÁ NGHỊCH LÝ CHÁN BIỂN",
+    "chapter_title": "Bệnh án số 1: Con cá chán biển lên cạn leo trèo",
+    "hook": "CÁ BIỂN LÊN BỜ ĐI DẠO VÀ LEO CÂY NHƯ VƯỢN",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Mời bệnh nhân tiếp theo bước vào phòng khám đa khoa tiến hóa sinh vật! Y tá đâu, chuẩn bị cho tôi một chiếc chậu bùn lầy và cặp kính hiển vi đo nhãn cầu khẩn cấp! [surprise-oh] Bệnh nhân hôm nay của chúng ta là một ca bệnh tâm lý và giải phẫu kỳ dị bậc nhất trong lịch sử y khoa động vật: Một sinh vật thuộc lớp cá mang vây đàng hoàng, nhưng lại mắc chứng sợ nước và chán ghét đại dương sâu sắc!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Bệnh nhân mang mã số bốn mươi hai của chúng ta có tên trong sổ khám bệnh là Cá Thòi Lòi, hay còn gọi là cá bống biển nhiệt đới Pe-ri-oph-thal-mus! [surprise-wa] Tôi thường gọi thân mật ca bệnh khó đỡ này là: Bệnh nhân chán biển! Trong khi hàng triệu loài cá khác ngày đêm hoảng loạn vùng vẫy tìm đường trở về với nước ngọt hay đại dương bao la, thì bệnh nhân này lại thích trèo lên bãi bùn lội bộ phơi nắng suốt ngày đêm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chiều dài cơ thể của bệnh nhân dao động từ mười lăm đến hai mươi xăng-ti-mét, với lớp da nhớt nhầy nhụa màu nâu xám lốm đốm bùn đất. [surprise-oh] Nhưng nhìn vào hai mắt của gã mà xem: Hai nhãn cầu lồi to tướng nằm chễm chệ ngay trên đỉnh sọ đầu, có thể xoay độc lập ba trăm sáu mươi độ như hai kính tiềm vọng tàu ngầm, liên tục liếc ngang liếc dọc dò xét khắp bãi ngập mặn!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Bác sĩ ơi, con cá này nó nhảy tưng tưng lên tận ngọn rễ cây đước rồi thò đầu dòm vào cửa sổ phòng khám kìa bác ơi!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[laughter] Đúng như cô trợ lý vừa la toáng lên! Bệnh nhân chán biển không những đi bộ trên mặt bùn, mà còn dùng hai chiếc vây ngực leo thoăn thoắt lên rễ cây ngập mặn ngồi ngắm hoàng hôn chẳng khác nào một chú vượn con! Hôm nay, hồ sơ bệnh án của chúng ta sẽ phẫu thuật từng triệu chứng kỳ quặc để xem tại sao tạo hóa lại nặn ra một con cá dở dở ương ương kỳ thú đến nhường này!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "BỆNH ÁN #02",
+    "banner_title": "CHỨNG BỆNH CHẾT ĐUỐI DƯỚI NƯỚC",
+    "chapter_title": "Bệnh án số 2: Nghịch lý con cá có thể chết đuối dưới nước",
+    "hook": "BỊ ÉP Ở DƯỚI NƯỚC SẼ BỊ NGẠT THỞ CHẾT ĐUỐI",
+    "mood": "nghiem_trang_gia",
+    "parts": [
+     {
+      "text": "Triệu chứng chẩn đoán số hai sẽ khiến toàn thể giới sinh học đại dương phải dụi mắt hoài nghi! [surprise-oh] Nếu bạn bắt một con cá chép hay cá hồi thả xuống nước, chúng sẽ bơi lội tung tăng như gặp lại thiên đường. Nhưng nếu bạn nhốt một con Cá Thòi Lòi vào một lồng lưới kín chìm sâu dưới đáy nước tù đọng và không cho gã ngoi lên cạn, thì điều gì sẽ xảy ra? Gã sẽ ngạt thở và chết đuối như một con người thực thụ!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Nguyên nhân y khoa nằm ở cấu tạo hệ hô hấp đã bị thoái hóa mang trầm trọng của Bệnh nhân chán biển! [surprise-wa] Trong quá trình tiến hóa hơn ba trăm triệu năm, các lá mang dưới nước của gã đã teo nhỏ và dính chặt vào nhau, không còn đủ diện tích tiếp xúc để lọc đủ oxy hòa tan trong nước như các loài cá thông thường.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Để sinh tồn trên cạn, gã đã phát triển một công nghệ hô hấp lưỡng cư thần sầu: Lớp da nhầy của gã chứa mạng lưới mao mạch máu dày đặc, kết hợp với niêm mạc ẩm ướt trong vòm họng. [surprise-oh] Toàn bộ bề mặt da và cổ họng của gã hấp thụ trực tiếp từ năm mươi đến sáu mươi phần trăm lượng oxy từ không khí ngoài trời!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ủa bác sĩ ơi, thế lúc gã leo lên bờ cát khô queo thì hai cái mang cá dùng để làm gì ạ?",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "[laughter] Chú cá con hỏi câu hỏi trúng ngay điểm mười sinh học! Hai nắp mang phồng to của Cá Thòi Lòi không dùng để thở nước, mà dùng làm hai chiếc bình giữ nước di động! Trước khi trèo lên cạn, gã hớp một ngụm nước thật đầy nhốt chặt trong khoang mang đóng kín bưng. Lượng nước dự trữ này liên tục làm ẩm các sợi mang mỏng manh, giúp gã lang thang trên bờ hàng giờ liền mà không sợ bị khô mang!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Thậm chí trong khoang miệng của gã, hệ thống van niêm mạc hoạt động như một nắp van cao su chống trào ngược. Bất kể gã lộn nhào hay nhảy cao trên bùn lầy, ngụm nước quý giá trong má vẫn không hề bị rỉ ra ngoài một giọt! [surprise-wa] Một công nghệ khóa kín nước dã ngoại đỉnh cao của thế giới cá!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Đặc biệt hơn nữa, chiếc đuôi của bệnh nhân này còn có khả năng hô hấp phụ trợ vô cùng độc đáo! Khi ngồi phơi nắng trên rễ cây, gã thường thả lỏng chóp đuôi nhúng ngập trong vũng nước bên dưới. Lớp biểu bì đuôi siêu mỏng có thể trao đổi khí liên tục, vừa làm mát cơ thể vừa bơm thêm dưỡng khí cho máu! [surprise-wa] Một sự thích nghi lưỡng thê hoàn hảo đến mức khiến các loài bò sát cũng phải ngả mũ bái phục!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "BỆNH ÁN #03",
+    "banner_title": "TUYỆT KỸ THỤT MẮT NUỐT MỒI",
+    "chapter_title": "Bệnh án số 3: Tuyệt kỹ chớp mắt tụt xuống họng để nuốt mồi",
+    "hook": "DÙNG NHÃN CẦU MẮT LÀM PIT-TÔNG ĐẨY THỨC ĂN",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Bây giờ, hãy đeo kính lúp phóng đại để kiểm tra vùng mặt kỳ dị nhất hành tinh của Bệnh nhân chán biển! [surprise-oh] Cá thông thường sinh ra vốn dĩ không có mí mắt, và mắt của chúng nằm cố định hai bên má. Nhưng Cá Thòi Lòi lại sở hữu đôi mắt lồi nhô cao hẳn lên đỉnh đầu như hai quả bóng bàn đồ chơi!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Vì sống trên cạn giữa cái nắng gay gắt ba mươi lăm đến bốn mươi độ C của rừng ngập mặn nhiệt đới, đôi mắt của gã đối mặt với nguy cơ bị khô giác mạc và mù lòa bất cứ lúc nào. Nhưng gã không hề có tuyến nước mắt! [surprise-wa] Vậy gã giải quyết bài toán chống khô mắt này như thế nào?",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Gã co rút cơ mặt, kéo tụt cả hai nhãn cầu mắt lặn sâu xuống bên trong hốc đầu! Phía dưới đáy hốc mắt có một chiếc túi chứa nước dịch ẩm ướt. Mỗi khi gã thụt mắt xuống, nhãn cầu được nhúng ngập trong bể nước làm ẩm tức thì, rồi lại ngoi bật lên sáng long lanh như vừa được tra thuốc nhỏ mắt!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng phát hiện chấn động vừa được nhóm nghiên cứu của tiến sĩ Michel công bố trên Tạp chí Sinh học Thực nghiệm: Cú thụt mắt này còn kiêm luôn chức năng nuốt thức ăn! [surprise-oh] Vì sống trên cạn nên Cá Thòi Lòi không thể dùng dòng nước xoáy để cuốn mồi vào bụng như cá dưới biển, và lưỡi của gã cũng không có cơ bắp linh hoạt như ếch nhái.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Mỗi khi đớp được một chú còng gió hay bọ gậy trên bùn, gã đồng thời thụt mạnh cả hai nhãn cầu mắt thụt sâu xuống vòm miệng! [surprise-wa] Đáy nhãn cầu đóng vai trò như một chiếc pit-tông cơ khí ép chặt xuống khoang họng, đẩy phăng con mồi trôi tuột xuống thực quản! Nghĩa là trên đời này, chỉ có duy nhất loài cá thòi lòi là nuốt mồi bằng chính đôi mắt của mình!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chưa dừng lại ở đó, đôi mắt lồi này còn là hệ thống radar cảnh giới ba trăm sáu mươi độ hoàn hảo! Một mắt có thể nhìn chăm chú xuống bùn để rình mồi, trong khi mắt kia ngước ngược lên trời để canh chừng chim bói cá săn mồi. Bất kỳ kẻ thù nào lọt vào bán kính ba mét đều bị gã phát hiện trong tích tắc!",
+      "mood": "don_dap"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "BỆNH ÁN #04",
+    "banner_title": "ĐÔI TAY VÂY NGỰC VÀ BƯỚC NHẢY",
+    "chapter_title": "Bệnh án số 4: Đôi vây ngực biến tính thành hai cánh tay leo trèo",
+    "hook": "VÂY NGỰC CÓ KHỚP KHUỶU TAY NHƯ ĐỘNG VẬT BỐN CHÂN",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Hãy chuyển sang kiểm tra hệ cơ xương vận động của bệnh nhân số bốn mươi hai! [surprise-oh] Nếu bạn quan sát kỹ cặp vây ngực của Cá Thòi Lòi, bạn sẽ kinh ngạc nhận ra đây hoàn toàn không phải là những nan vây quạt nước mỏng manh của loài cá biển. Cấu trúc xương bên trong đã tiến hóa thành các khớp xương khuỷu tay và cơ bắp bám chắc chắn!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Cặp vây ngực này có thể xoay gập linh hoạt, cho phép Bệnh nhân chán biển chống hai tay xuống bùn rồi đẩy toàn bộ trọng lượng cơ thể tiến về phía trước theo nhịp điệu nhịp nhàng như một anh lính bò trườn! [surprise-wa] Dưới bụng của gã còn có một chiếc đĩa hút hình thành từ hai vây bụng dính liền nhau, tạo lực bám dính chắc nịch trên những thân cây đước trơn trượt!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Bác sĩ ơi, em thấy nó co đuôi một phát là bay vèo qua mặt em xa tít mù tắp luôn á bác sĩ!",
+      "cast": "be_con"
+     },
+     {
+      "text": "[laughter] Bé con vừa chứng kiến tuyệt kỹ búng đuôi thần sầu của gã đấy! Khi cần tẩu thoát khỏi chim bói cá hay kỳ đà đói khát, Cá Thòi Lòi gập cong chiếc đuôi cơ bắp hình chữ C rồi bung mạnh như một chiếc lò xo thép! Cú phóng này hất tung gã bay xa gấp bốn lần chiều dài cơ thể, tương đương cú nhảy xa gần một mét trên mặt bùn lầy lội!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Vào mùa giao phối, tuyệt kỹ nhảy xa này biến thành màn biểu diễn võ thuật đường phố đỉnh cao! Các chàng cá thòi lòi dựng đứng vây lưng sặc sỡ như những lá cờ chiến, há to miệng thị uy rồi bật nhảy liên tục trên không trung để tranh giành lãnh thổ và thu hút các nàng cá mái. Kẻ nào nhảy cao hơn và có vây lưng lòe loẹt hơn sẽ làm bá chủ bãi lầy!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Một con cá dài hai mươi xăng-ti-mét nhưng vừa biết chạy bộ, vừa biết leo cây, vừa biết nhảy xa bay trên không trung! [surprise-oh] Nếu đem so tỷ lệ cơ thể với các vận động viên điền kinh Olympic, thành tích bay nhảy của bệnh nhân này đủ sức giật huy chương vàng môn nhảy xa phối hợp!",
+      "mood": "am_ap"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "BỆNH ÁN #05",
+    "banner_title": "CÔNG TRÌNH HANG BÙN VÀ TÚI KHÍ",
+    "chapter_title": "Bệnh án số 5: Công trình hang bùn hình chữ Y và túi khí nuôi con",
+    "hook": "ĐÀO HANG SÂU 2 MÉT VÀ NỞ TRỨNG TRONG TÚI KHÍ NGẦM",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Chẩn đoán bệnh án cuối cùng dẫn chúng ta xuống lòng đất ngầm của bãi lầy ngập mặn! [surprise-oh] Khi mùa sinh sản đến, Bệnh nhân chán biển không hề đẻ trứng trôi nổi vô trách nhiệm trên mặt nước để làm mồi cho cá lớn. Gã dùng chính chiếc miệng của mình cạp từng búng bùn đất ngậm nhổ ra ngoài để đào một công trình địa đạo ngầm hình chữ Y sâu tới hai mét!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Để miệng hang không bị sạt lở khi thủy triều dâng lên, gã còn khéo léo đắp những ụ bùn tròn xung quanh miệng hang như những tháp canh pháo đài mini. Đáy hang ngập ngụa trong nước bùn yếm khí hoàn toàn không có một phân tử oxy nào hòa tan. Nếu trứng cá đẻ ở đây, trứng sẽ thối rữa và chết ngạt tức thì.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Nhưng chú cá thòi lòi bố đã giải quyết thảm họa này bằng một kỳ tích kỹ thuật ngầm khiến các nhà khoa học Nhật Bản phải kinh ngạc! [surprise-oh] Gã bơi lên mặt cạn, há to miệng đớp một búng không khí căng tràn rồi lặn ngược xuống đáy hang sâu hai mét nhả vào một căn phòng phụ trên trần hang!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Gã miệt mài thực hiện hàng trăm chuyến bơi con thoi ngậm không khí như một chú thợ lặn cần mẫn, cho đến khi tạo ra một chiếc túi khí ngầm lơ lửng dưới lòng bùn! [surprise-wa] Nàng cá mẹ dán hàng ngàn quả trứng lên trần phòng túi khí khô ráo giàu dưỡng khí này. Suốt nhiều tuần lễ ấp trứng, cá bố liên tục thay phiên tuần tra canh giữ cửa hang và lặn xuống thay mới túi khí, cho đến khi đàn cá con nở ra khỏe mạnh!",
+      "mood": "am_ap"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "BẢN TỔNG KẾT",
+    "banner_title": "ĐƠN THUỐC TIẾN HÓA KỲ DIỆU",
+    "chapter_title": "Bài học bác sĩ: Dở dang nhưng là bước chuyển mình lịch sử",
+    "hook": "BÀI HỌC CUỘC SỐNG VÀ THÁCH THỨC ĐOÁN TẬP 43",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Hồ sơ bệnh án số bốn mươi hai chính thức hoàn tất với kết luận chẩn đoán: Cá Thòi Lòi hoàn toàn khỏe mạnh và là một tuyệt tác chuyển giao sinh học vĩ đại! Gã là hình bóng sống động của tổ tiên bốn chân xa xưa cách đây ba trăm triệu năm, những sinh vật dũng cảm đầu tiên dám thò đầu ra khỏi biển cả tăm tối để chinh phục lục địa khô cằn!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Đôi khi trong cuộc sống, bạn có thể bị người đời chê cười là kẻ dở dở ương ương, không giống ai và không thuộc về một khuôn mẫu nào: [laughter] Nhưng hãy nhớ tới chú cá thòi lòi! Chính sự khác biệt nửa nạc nửa mỡ, dám bơi ngược dòng quy chuẩn và mở lối đi riêng mới là khởi đầu cho những bước nhảy vọt tiến hóa vĩ đại nhất của lịch sử!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nếu được sinh ra với một siêu năng lực kỳ lạ của cá thòi lòi, bạn muốn sở hữu đôi mắt xoay ba trăm sáu mươi độ thụt nuốt mồi hay cặp tay leo cây chạy bộ trên bùn? Hãy để lại bình luận chẩn đoán của bạn bên dưới nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Còn bây giờ, hãy chuẩn bị tinh thần bước vào phiên tòa xét xử rùng rợn của hồ sơ số bốn mươi ba! [surprise-oh] Một kẻ sát nhân khoác tấm áo choàng ngọc bích lấp lánh, một bác sĩ phẫu thuật thần kinh tàn độc chuyên thực hiện ca châm kim vi phẫu chuẩn xác đến từng mi-li-mét vào hạch não của loài gián, tước đoạt toàn bộ ý chí tự do và biến nạn nhân thành một xác sống Zombie ngoan ngoãn tự đi vào mồ chôn! Bạn có biết sát thủ ngọc bích này là ai không?",
+      "mood": "tram_bi_an"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Bạn có tin trên đời có một con cá nếu bị ép ở dưới nước quá lâu thì sẽ bị... chết đuối? [surprise-wa] Đây là Cá Thòi Lòi, loài cá chán biển lên cạn sống rải rác khắp các cánh rừng ngập mặn! Mang của gã đã bị thoái hóa nặng, nhưng bù lại gã hô hấp trực tiếp qua da và vòm họng ẩm ướt để hấp thụ hơn năm mươi phần trăm lượng oxy ngoài trời. Để không bị khô mang, gã hớp đầy nước vào hai má phồng to như hai bình dưỡng khí di động! Chưa hết, cặp vây ngực của gã biến tính thành hai cánh tay có khớp khuỷu để chống bùn chạy bộ và leo thoăn thoắt lên rễ cây đước. Nhưng dị nhất là đôi mắt lồi trên đỉnh sọ: Mỗi khi đớp mồi trên cạn, gã co cơ kéo tụt cả hai nhãn cầu mắt xuống cổ họng để làm chiếc pit-tông ép thức ăn trôi xuống dạ dày, vừa làm ẩm mắt vừa nuốt mồi trong tích tắc!"
+ },
+ "seo": {
+  "title": "Cá Thòi Lòi: Con Cá Chết Đuối Dưới Nước & Bí Thuật Thụt Mắt Nuốt Mồi | Tập 42",
+  "hook_paragraph": "Loài cá kỳ dị nhất hành tinh: Cá Thòi Lòi (Periophthalmus). Mang thoái hóa khiến gã thở bằng da và ngậm nước trong má để đi dạo trên cạn, vây ngực biến thành đôi tay leo trèo rễ cây, và đôi mắt lồi biết thụt xuống họng làm pit-tông nuốt mồi!",
+  "bullets": [
+   "Bệnh án số 1: Con cá chán biển lên cạn đi dạo và leo trèo như vượn",
+   "Bệnh án số 2: Nghịch lý cá chết đuối dưới nước vì mang teo nhỏ",
+   "Bệnh án số 3: Tuyệt kỹ co cơ thụt nhãn cầu mắt xuống họng để nuốt mồi",
+   "Bệnh án số 4: Cặp vây ngực tiến hóa thành hai cánh tay chống bùn nhảy xa",
+   "Bệnh án số 5: Kỳ tích đào hang ngầm sâu 2 mét và bơm túi khí nuôi trứng"
+  ],
+  "question": "Nếu được chọn một tuyệt kỹ của Cá Thòi Lòi, bạn chọn mắt xoay 360 độ thụt nuốt mồi hay đôi tay leo cây chạy bộ? Bình luận bên dưới nhé!",
+  "next_teaser": "Tập 43: Sát thủ phẫu thuật não châm kim biến gián thành xác sống Zombie ngoan ngoãn tự đi vào huyệt mộ!",
+  "hashtags": [
+   "#độngvật",
+   "#cáthòilòi",
+   "#VẽChuyệnHoangDã"
+  ],
+  "tags": [
+   "cá thòi lòi",
+   "mudskipper",
+   "periophthalmus",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã",
+   "khoa học kỳ thú",
+   "whiteboard animation",
+   "động vật kỳ lạ"
+  ],
+  "shorts_title": "Con Cá Chết Đuối Dưới Nước Và Thụt Mắt Để Nuốt Mồi?! 🐟👀 #độngvật #cáthòilòi",
+  "shorts_desc": "Loài cá chán biển leo trèo cây đước, thở bằng da ngậm nước trong má và dùng đôi mắt thụt xuống họng làm pit-tông nuốt mồi!\n\n#độngvật #cáthòilòi #VẽChuyệnHoangDã",
+  "shorts_tags": [
+   "cá thòi lòi",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ]
+ }
+}

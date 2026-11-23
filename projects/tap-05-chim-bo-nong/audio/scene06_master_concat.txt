@@ -1,0 +1,4 @@
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-05-chim-bo-nong/audio/gap_leadin.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-05-chim-bo-nong/audio/scene06_part0.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-05-chim-bo-nong/audio/gap_breathing.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-05-chim-bo-nong/audio/scene06_part1.wav'

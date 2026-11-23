@@ -1,0 +1,158 @@
+{
+ "title_lines": [
+  "SÁT THỦ 10 GIÂY?!",
+  "BẢN NĂNG KINH HOÀNG"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Một loài chim không",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "nhưng lại sở hữu",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": []
+  },
+  {
+   "at": "Đó chính là Chim",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "Chim mẹ chỉ mất",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "at": "10 giây",
+     "side": "L",
+     "y": 620,
+     "value": "10 GIÂY",
+     "label": "CƯỚP VÀ ĐẺ TRỨNG",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "và đẻ thay vào",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "at": "99%",
+     "side": "R",
+     "y": 640,
+     "value": "GIỐNG 99%",
+     "label": "HOA VĂN GIẢ MẠO",
+     "target": [
+      0.55,
+      0.48
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Đáng sợ hơn cả,",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "at": "2g",
+     "side": "L",
+     "y": 620,
+     "value": "NẶNG 2G",
+     "label": "MÙ MẮT KHÔNG LÔNG",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "nhưng đã dùng chiếc",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "at": "lưng lõm",
+     "side": "R",
+     "y": 660,
+     "value": "LƯNG LÕM",
+     "label": "BẢN NĂNG SÁT THỦ",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "hất tung toàn bộ",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "Để rồi sau đó,",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "at": "gấp 3 lần",
+     "side": "L",
+     "y": 640,
+     "value": "GẤP 3 LẦN",
+     "label": "CON NUÔI KHỔNG LỒ",
+     "target": [
+      0.5,
+      0.48
+     ]
+    }
+   ]
+  },
+  {
+   "at": "há to chiếc miệng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [
+    {
+     "at": "hố ga",
+     "side": "R",
+     "y": 650,
+     "value": "HỌNG ĐỎ",
+     "label": "THÔI MIÊN BỐ MẸ",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vậy là vụ án",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  },
+  {
+   "at": "nhưng là cách sinh tồn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S13.png",
+   "stickers": []
+  }
+ ]
+}

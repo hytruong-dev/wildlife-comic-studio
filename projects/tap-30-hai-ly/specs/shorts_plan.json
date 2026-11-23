@@ -1,0 +1,98 @@
+{
+ "title_lines": [
+  "ĐẶT LOA NƯỚC CHẢY TRƯỚC MẶT",
+  "HẢI LY VÀ CÁI KẾT?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Ngay lập tức, gã",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "vác bùn đất chạy",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "Hải Ly mắc chứng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "Thậm chí khi các",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "vì với gã tiếng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "Để phục vụ đam",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "có khả năng tự",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "at": "30 phút",
+     "side": "R",
+     "y": 620,
+     "value": "30 PHÚT",
+     "label": "hạ cây cổ thụ",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Những con đập do",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "at": "850m",
+     "side": "L",
+     "y": 620,
+     "value": "DÀI 850M",
+     "label": "đập khổng lồ",
+     "target": [
+      0.38,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "nhìn thấy rõ mồn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  },
+  {
+   "at": "Đúng là kỹ sư",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  }
+ ]
+}

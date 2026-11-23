@@ -1,0 +1,330 @@
+{
+ "episode_no": 29,
+ "animal": "Sứa Bất Tử",
+ "slug": "tap-29-sua-bat-tu",
+ "format": "F5",
+ "persona": "nha_khoa_hoc",
+ "_angle_from_roadmap": "Thử thách đảo ngược thời gian: Cơ chế biến đổi tế bào từ sứa già quay ngược trở lại thời kỳ ấu trùng sơ sinh.",
+ "_shorts_idea_from_roadmap": "Một sinh vật già yếu bỗng nhiên tự biến ngược thành trẻ sơ sinh để sống lại từ đầu!",
+ "nickname": "Sinh Vật Bất Tử",
+ "sources": [
+  "Bavestrello et al. (1992), Scientia Marina 56(2-3): 137-140 — Phát hiện đầu tiên về chu kỳ sống đảo ngược (reversing life cycle) của Turritopsis dohrnii",
+  "Piraino et al. (1996), Biological Bulletin 190(3): 302-312 — Cơ chế chuyển biệt hóa tế bào (transdifferentiation) từ sứa trưởng thành về polyp",
+  "Pascual-Torner et al. (2022), PNAS 119(36): e2118769119 — Giải mã toàn bộ hệ gen của Turritopsis dohrnii: nhân đôi gen sửa chữa ADN và duy trì telomere",
+  "Matsumoto et al. (2019), Zoological Science — Thử nghiệm lặp lại chu kỳ trẻ hóa 12 lần liên tiếp trong phòng thí nghiệm tại Nhật Bản",
+  "Schuchert (2004), Revue Suisse de Zoologie 111(2): 315-397 — Phân loại học chi Turritopsis và sự khác biệt giữa T. dohrnii và T. nutricula"
+ ],
+ "whisper_prompt": "Sứa Bất Tử, Sinh Vật Bất Tử, Turritopsis dohrnii, polyp, medusa, chuyển biệt hóa tế bào, transdifferentiation, telomere, ADN, Địa Trung Hải, Nhật Bản, Shin Kubota, 4,5mm, 1883, 1992, 2022, 12 lần, 15 năm, 100%, 5 cấp độ, 24h, tuổi 18, Hải Ly, Castor",
+ "display_fix": {
+  "hai mươi chín": "29",
+  "ba mươi": "30",
+  "bốn phẩy năm mi-li-mét": "4,5mm",
+  "bốn phẩy năm": "4,5mm",
+  "năm cấp độ": "5 cấp độ",
+  "cấp độ một": "cấp độ 1",
+  "cấp độ hai": "cấp độ 2",
+  "cấp độ ba": "cấp độ 3",
+  "cấp độ bốn": "cấp độ 4",
+  "cấp độ năm": "cấp độ 5",
+  "Cấp độ bốn và cấp độ năm": "Cấp độ 4 & 5",
+  "cấp độ bốn và cấp độ năm": "cấp độ 4 & 5",
+  "thứ nhất": "thứ 1",
+  "thứ hai": "thứ 2",
+  "thứ ba": "thứ 3",
+  "thứ tư": "thứ 4",
+  "thứ năm": "thứ 5",
+  "mười hai lần": "12 lần",
+  "mười lăm năm": "15 năm",
+  "tuổi mười tám": "tuổi 18",
+  "hai mươi tư giờ": "24h",
+  "hàng trăm": "hàng trăm",
+  "hàng ngàn": "hàng ngàn",
+  "hàng triệu": "hàng triệu",
+  "hàng chục": "hàng chục",
+  "một giây": "1 giây",
+  "vài ngày": "vài ngày",
+  "ba ngày": "3 ngày",
+  "bốn ngày": "4 ngày",
+  "ba đến bốn ngày": "3-4 ngày",
+  "một trăm phần trăm": "100%",
+  "điểm mười": "điểm 10",
+  "Địa Trung Hải": "Địa Trung Hải",
+  "một ngàn": "1.000",
+  "gần một ngàn": "gần 1.000",
+  "tám mươi đến chín mươi": "80-90",
+  "tám mươi": "80",
+  "chín mươi": "90",
+  "Nhật Bản": "Nhật Bản",
+  "Shin Kubota": "Shin Kubota",
+  "năm một ngàn tám trăm tám mươi ba": "1883",
+  "Năm một ngàn chín trăm chín mươi hai": "1992",
+  "năm một ngàn chín trăm chín mươi hai": "1992",
+  "Năm hai ngàn không trăm hai mươi hai": "2022",
+  "năm hai ngàn không trăm hai mươi hai": "2022"
+ },
+ "voice": {},
+ "art": {
+  "decor": "laboratory beakers, DNA double helix strands, glowing jellyfish bells, cellular mitosis sparks",
+  "shorts_mascot": "A brilliant enthusiastic cartoon scientist jellyfish in a white lab coat wearing safety goggles, holding a glowing hourglass turning backwards",
+  "thumb_bg": "phòng thí nghiệm đại dương xanh thẳm rực sáng vòng xoáy DNA huỳnh quang và đồng hồ cát quay ngược thời gian",
+  "thumb_title": ["BÍ MẬT BẤT TỬ?!", "SỨA ĐẢO NGƯỢC THỜI GIAN"],
+  "thumb_scene": "một chú Sứa Bất Tử hoạt hình trong suốt lấp lánh ánh sáng xanh ngọc, chuông sứa căng tròn, các xúc tu mềm mại tỏa sáng, bên cạnh là sơ đồ đảo ngược từ sứa già biến ngược thành búp polyp non nớt",
+  "thumb_gag": "ông giáo sư cầm kính hiển vi trợn tròn mắt kinh ngạc trước mẫu sứa vừa tự lột xác thành trẻ sơ sinh"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "PHÒNG LAB 5 CẤP ĐỘ",
+    "banner_title": "BƯỚC VÀO PHÒNG LAB SINH HỌC",
+    "chapter_title": "Phòng lab 5 cấp độ: Bí ẩn phá vỡ quy luật sinh tử của vũ trụ",
+    "hook": "",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Chào mừng quý vị đồng nghiệp và các bạn đến với phòng thí nghiệm sinh học cực hạn! Trong tự nhiên, có một chân lý sắt đá mà mọi sinh vật từ vi khuẩn bé nhỏ cho đến loài người vĩ đại đều phải tuân theo: Sinh ra, lớn lên, già nua và trở về với cát bụi. Đó là định luật nhiệt động lực học không thể đảo ngược!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Thưa giáo sư, mẫu vật số hai mươi chín vừa được đưa từ vùng biển Địa Trung Hải về phòng lab, các chỉ số tế bào đang đảo ngược chiều thời gian một cách không tưởng!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-oh] Bật toàn bộ kính hiển vi điện tử quét lên! Hôm nay chúng ta sẽ cùng nhau thực hiện năm cấp độ thử nghiệm sinh tử để giải mã một bí ẩn vĩ đại nhất hành tinh! [laughter] Xin trân trọng giới thiệu: đây là Turritopsis dohrnii, loài sinh vật biển độc nhất vô nhị được mệnh danh là Sinh Vật Bất Tử!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Loài sứa này được các nhà khoa học mô tả lần đầu vào năm một ngàn tám trăm tám mươi ba, nhưng phải mất hơn một thế kỷ sau, nhân loại mới tình cờ phát hiện ra quyền năng kinh ngạc của nó. Với kích thước trưởng thành chỉ vỏn vẹn bốn phẩy năm mi-li-mét — bé hơn cả một đầu ngón tay út — nhưng bên trong khối thạch trong suốt mỏng manh ấy là chiếc chìa khóa phá vỡ bản án tử thần của tự nhiên!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nếu bạn nghĩ đây chỉ là một loài sứa bình thường trôi dạt lững lờ theo dòng nước biển, thì hãy chuẩn bị tinh thần! Vì ngay bây giờ, chúng ta sẽ lần lượt đưa Sinh Vật Bất Tử qua năm tầng thử thách cực hạn để tận mắt chứng kiến bánh xe thời gian bị bẻ cong như thế nào!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Hãy quan sát thật kỹ cấu trúc giải phẫu dưới ánh đèn huỳnh quang: một chiếc chuông sứa hình bán cầu trong suốt như thủy tinh pha lê, bên trong lộ rõ dạ dày màu đỏ tươi rực rỡ và xung quanh mép chuông có tới tám mươi đến chín mươi chiếc xúc tu mảnh mai như sợi tơ nhện. Một kiệt tác tạo hình của đại dương sâu thẳm!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "CẤP ĐỘ 1: STRESS MÔI TRƯỜNG",
+    "banner_title": "KHI TỬ THẦN GÕ CỬA CƠ THỂ",
+    "chapter_title": "Cấp độ 1: Thử thách tổn thương cơ học và stress môi trường cực hạn",
+    "hook": "BỊ ĐÓI KHÁT VÀ TỔN THƯƠNG NẶNG TỰ KÍCH HOẠT QUY TRÌNH HỒI SINH",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Bước vào cấp độ thử nghiệm thứ nhất: Kích hoạt tình trạng nguy cấp cận kề cái chết! Đối với bất kỳ sinh vật nào khác, khi bị bỏ đói nhiều ngày, bị giảm độ mặn đột ngột hoặc chịu những vết cắt thương tật xé rách cơ thể, kết cục tất yếu sẽ là cái chết và sự phân hủy hoàn toàn.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Năm một ngàn chín trăm chín mươi hai, tại một phòng thí nghiệm ở Ý, các nhà sinh học biển đã vô tình để quên một vài cá thể sứa già yếu trong đĩa thí nghiệm mà không cho ăn. Vài ngày sau quay lại, họ không hề nhìn thấy những xác chết thối rữa như dự đoán! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Thay vào đó, dưới đáy đĩa thủy tinh là những cụm polyp non nớt đang đâm chồi phát triển rực rỡ, hệt như những hạt mầm vừa mới nảy mầm sau cơn mưa đầu mùa! Những con sứa già cỗi không hề chết đi, chúng đã tự động chuyển đổi trạng thái cơ thể để trốn thoát lưỡi hái tử thần!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Khi đối mặt với khủng hoảng sinh tồn, Sinh Vật Bất Tử không kích hoạt chế độ tự sát hay suy sụp tế bào. Ngược lại, nó phát đi một mệnh lệnh sinh học tối cao tới từng tế bào: Dừng ngay quá trình lão hóa, thu hồi toàn bộ xúc tu và chuẩn bị đảo ngược chu kỳ sống!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Toàn bộ chiếc chuông sứa hình dù bắt đầu co thắt mạnh mẽ, các mô liên kết mềm nhũn ra và chìm dần xuống đáy biển sâu. Đây không phải là sự buông xuôi đầu hàng số phận, mà là phát súng lệnh mở màn cho một phép màu sinh học kỳ diệu chưa từng thấy trong lịch sử tự nhiên!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Nhóm nghiên cứu tại vịnh Genoa sau đó đã lặp lại thí nghiệm này hàng trăm lần với nhiều hình thức kích thích cực đoan khác nhau: hạ nhiệt độ nước xuống gần điểm đóng băng, tăng độ mặn lên gấp đôi, thậm chí dùng dao vi phẫu cắt đôi cơ thể sứa. Kết quả kinh ngạc là trong hầu hết mọi trường hợp, cơ thể nó đều tự gom lại thành một khối tế bào sống sót và bắt đầu quá trình tái sinh ngoạn mục!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "CẤP ĐỘ 2: CHUYỂN BIỆT HÓA TẾ BÀO",
+    "banner_title": "PHÉP MÀU TRANSDIFFERENTIATION",
+    "chapter_title": "Cấp độ 2: Cơ chế chuyển biệt hóa tế bào Transdifferentiation thần kỳ",
+    "hook": "TẾ BÀO CƠ BẮP TỰ BIẾN THÀNH TẾ BÀO GỐC NON NỚT",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Bước vào cấp độ thử nghiệm thứ hai: Soi rọi vào cỗ máy phân tử Transdifferentiation — Chuyển biệt hóa tế bào! Hãy hình dung thế này cho dễ hiểu: Trong cơ thể người, một tế bào cơ tim vĩnh viễn là tế bào cơ tim, tế bào da vĩnh viễn là tế bào da. Bạn không thể bắt một tế bào da biến thành tế bào mắt hay tế bào não được!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Báo cáo kính hiển vi: Các tế bào biểu bì và tế bào thần kinh của mẫu vật đang tự tẩy trắng danh tính ban đầu, chúng đang biến ngược thành tế bào gốc phôi thai!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-oh] Chính xác là như vậy! Sinh Vật Bất Tử sở hữu một siêu năng lực mà y học hiện đại thèm khát suốt hàng thế kỷ: Nó có thể ra lệnh cho một tế bào cơ bắp đã trưởng thành tự xóa bỏ chức năng hiện tại, quay trở lại trạng thái tế bào gốc sơ khai chưa chuyên hóa, rồi từ đó biến đổi thành bất kỳ loại tế bào nào khác cần thiết!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Các nhà khoa học ví hiện tượng này giống như việc một con bướm trưởng thành xinh đẹp bỗng nhiên thu gọn đôi cánh lại, hóa ngược thành một chiếc kén tằm, rồi từ chiếc kén lại chui ra một chú sâu bướm non nớt! Một quy trình đảo ngược thời gian hoàn chỉnh diễn ra chỉ trong vòng ba đến bốn ngày!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hàng triệu tế bào khắp cơ thể sứa phối hợp tái tổ chức lại với nhau trong một vũ điệu sinh học hoàn hảo. Không có bất kỳ sự hỗn loạn hay sai sót nào xảy ra. Mọi dấu vết của sự già nua và bệnh tật tích tụ trong kiếp sống cũ đều bị xóa sạch hoàn toàn không tì vết!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Ở động vật có xương sống bậc cao, khi mô bị tổn thương, cơ thể chỉ có thể hình thành mô sẹo xơ cứng để vá víu tạm bợ. Nhưng ở chú sứa kỳ diệu này, toàn bộ mạng lưới tế bào được lập trình lại từ đầu, loại bỏ hoàn toàn sẹo và khôi phục sự nguyên vẹn hoàn mỹ như lúc mới chào đời!",
+      "mood": "nghiem_trang_gia"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "CẤP ĐỘ 3: TÁI SINH THÀNH POLYP",
+    "banner_title": "HỒI SINH TRÊN ĐÁY BIỂN SÂU",
+    "chapter_title": "Cấp độ 3: Hóa thành búp polyp non nớt và nhân bản hàng trăm bản sao",
+    "hook": "TỪ MỘT CON SỨA GIÀ MỌC THÀNH THẢM POLYP SINH RA TRĂM CON SỨA CON",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Bước sang cấp độ thử nghiệm thứ ba: Tái tạo cấu trúc sống từ con số không! Sau khi toàn bộ các tế bào đã được trẻ hóa thành công, khối cơ thể thạch của sứa chìm xuống đáy biển và bám chặt vào một tảng đá hay vỏ ốc rỗng. Tại đây, nó biến thành một khối búp tròn màu cam nhạt gọi là kén cyst.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Từ chiếc kén non nớt này, một phép màu sinh sản tiếp tục bùng nổ: Nó mọc rễ và vươn lên thành một quần thể polyp mới tinh! Polyp này bắt đầu đâm chồi, phân nhánh như những cành cây nhỏ dưới đáy biển và nuôi dưỡng hàng chục, thậm chí hàng trăm chồi sứa non lơ lửng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Khi đến thời điểm thích hợp, từng chiếc chuông sứa con trong suốt tách mình ra khỏi cành polyp, bung nở xúc tu bơi vút lên mặt nước để bắt đầu một kiếp sống mới! Hãy chú ý kỹ điều này: Từ một cá thể sứa già nua duy nhất ban đầu, nó không chỉ trẻ lại cho riêng mình, mà còn nhân bản ra hàng trăm bản sao giống hệt nhau về mặt di truyền!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Giáo sư Shin Kubota tại Đại học Kyoto Nhật Bản đã dành hơn mười lăm năm cuộc đời để chăm sóc loài sứa này trong phòng thí nghiệm. Ông đã chứng kiến một cá thể sứa lặp lại chu kỳ đảo ngược lão hóa này tới mười hai lần liên tiếp mà sức sống vẫn tràn trề không hề suy giảm! [surprise-wa]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Về mặt lý thuyết sinh học thuần túy, chu kỳ này có thể lặp đi lặp lại vô tận đến vĩnh hằng! Sinh Vật Bất Tử hoàn toàn miễn nhiễm trước cái chết vì tuổi già!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Mỗi nhánh polyp dưới đáy biển giống như một nhà máy sản xuất sinh học tự động: khi nhiệt độ nước ấm lên vào mùa xuân, các chồi sứa bắt đầu nhấp nháy phát sáng rồi tách rời cuống bơi đi. Một chu trình tuần hoàn vĩnh cửu nối liền quá khứ và tương lai mà không bao giờ có điểm kết thúc!",
+      "mood": "am_ap"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "CẤP ĐỘ 4 & 5: HỆ GEN THẦN THÁNH",
+    "banner_title": "BẢN THIẾT KẾ GEN BẤT TỬ",
+    "chapter_title": "Cấp độ 4 & 5: Giải mã bí mật bảo vệ telomere và gen sửa chữa ADN",
+    "hook": "TELOMERE KHÔNG HỀ CO NGẮN VÀ HỆ THỐNG SỬA CHỮA ADN VƯỢT TRỘI",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Bước vào hai cấp độ tối mật cuối cùng: Cấp độ bốn và cấp độ năm — Giải mã bản thiết kế hệ gen! Năm hai ngàn không trăm hai mươi hai, một công trình nghiên cứu chấn động thế giới đăng trên tạp chí danh giá PNAS do tiến sĩ Maria Pascual-Torner dẫn đầu đã giải trình tự toàn bộ bộ gen của Turritopsis dohrnii.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Kết quả phân tích đã hé lộ hai vũ khí phân tử vô giá: Thứ nhất là hệ thống bảo vệ telomere — đoạn mũ bảo vệ ở hai đầu sợi nhiễm sắc thể. Ở người, mỗi lần tế bào phân chia, telomere sẽ ngắn dần lại cho đến khi tế bào già nua và chết đi. Nhưng ở Sinh Vật Bất Tử, các enzym telomerase liên tục bảo dưỡng và kéo dài telomere, khiến đồng hồ tuổi tác của tế bào không bao giờ bị điểm giờ chết!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Vũ khí thứ hai là sự nhân đôi vượt trội của các gen liên quan đến sửa chữa ADN và chống oxy hóa. Cơ thể nó sở hữu số lượng bản sao gen sửa chữa lỗi sai sót phân tử nhiều gấp đôi so với các loài sứa thông thường! Bất kỳ tổn hại hay đột biến nào phát sinh đều được các cỗ máy enzym quét sạch và khắc phục ngay lập tức!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Các nhà khoa học đã so sánh bộ gen của nó với người họ hàng gần là loài sứa Turritopsis rubra — một loài sứa có ngoại hình gần như giống hệt nhưng lại không thể đảo ngược vòng đời. Sự so sánh này đã chỉ ra chính xác gần một ngàn gen đặc hữu chịu trách nhiệm cho khả năng bất tử, mở ra chân trời mới cho ngành y học tái tạo và chống lão hóa của loài người!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tuy nhiên, cần phải làm rõ một hiểu lầm phổ biến: Bất tử về mặt sinh học không có nghĩa là bất khả chiến bại trước mọi hiểm nguy! Trong môi trường đại dương tự nhiên đầy rẫy kẻ thù, Sinh Vật Bất Tử vẫn có thể bị rùa biển ăn thịt, bị cá voi nuốt chửng hoặc chết vì dịch bệnh nấm ký sinh.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Nhưng miễn là không bị nghiền nát thành tro bụi hay trở thành bữa ăn của kẻ khác, nó sẽ mãi mãi nắm giữ quyền năng quay ngược bánh xe thời gian để tái sinh!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "TỔNG KẾT & DẤU ẤN",
+    "banner_title": "BÀI HỌC BẤT TỬ & BÓNG ĐEN KỲ SAU",
+    "chapter_title": "Tổng kết phòng lab: Triết lý của sự bất tử và bóng đen kỹ sư đập nước",
+    "hook": "BÀI HỌC VỀ SỰ TÁI SINH VÀ BÓNG ĐEN KỸ SƯ HẢI LY TẬP 30",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Tổng kết hồ sơ phòng thí nghiệm số hai mươi chín. Từ một giọt thạch trong suốt giữa đại dương bao la, Sinh Vật Bất Tử đã chứng minh cho nhân loại thấy rằng: giới hạn của sự sống là điều hoàn toàn có thể vượt qua, và tự nhiên luôn ẩn chứa những phép màu vượt xa trí tưởng tượng của con người!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Hội đồng khoa học biểu quyết: Đạt điểm mười xuất sắc cho cơ chế sinh học đảo ngược lão hóa vĩ đại nhất hành tinh! Ký tên: Viện trưởng phòng thí nghiệm sinh học cực hạn! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Còn quý vị khán giả thì sao? Nếu loài người thực sự giải mã thành công hệ gen của sứa để có được năng lực bất tử: cứ già đi lại quay về tuổi mười tám để sống lại một cuộc đời mới, bạn có muốn sở hữu món quà đó không? Hay vòng đời hữu hạn mới chính là điều làm nên giá trị đẹp đẽ nhất của cuộc sống? Hãy chia sẻ suy nghĩ sâu sắc của bạn bên dưới phần bình luận nhé!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Cánh cửa phòng thí nghiệm số hai mươi chín xin được khép lại tại đây. Nhưng tập sau, chúng ta sẽ chuyển ống kính sang một chương trình truyền hình thực tế hai mươi tư giờ nghẹt thở trên cạn! Chúng ta sẽ theo chân một kỹ sư xây dựng đại tài nhưng mắc chứng ám ảnh cưỡng chế cực kỳ lầy lội! Một sinh vật có bộ răng cửa màu cam chứa đầy kim loại sắt cứng hơn cả gỗ lim, suốt ngày đêm phát điên mỗi khi nghe tiếng nước chảy và sẵn sàng đắp bùn đất bịt kín cả chiếc loa phát nhạc để dựng nên những con đập làm thay đổi dòng chảy của cả một vùng sông ngòi! Đố các bạn biết bóng đen bí ẩn kỳ sau là loài vật nào? Hãy đoán ngay ở phần bình luận nhé!",
+      "mood": "hao_hung"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 52.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Một sinh vật già yếu cận kề cái chết bỗng nhiên tự biến ngược thành trẻ sơ sinh để sống lại từ đầu một cuộc đời mới! [laughter] Xin giới thiệu Sứa Bất Tử, loài sinh vật bé nhỏ chỉ bốn phẩy năm mi-li-mét sống dưới đáy đại dương. Khi bị đói, bị thương nặng hoặc già cỗi, nó không hề chết đi! [surprise-wa] Thay vào đó, nó kích hoạt quá trình chuyển biệt hóa tế bào thần kỳ: toàn bộ tế bào cơ bắp và biểu bì tự tẩy trắng danh tính, quay trở lại thành tế bào gốc phôi thai! Khối cơ thể sứa chìm xuống đáy biển hóa thành búp polyp non nớt, rồi từ đó nhân bản ra hàng trăm chú sứa con mới tinh! Miễn là không bị kẻ thù ăn thịt, nó có thể lặp lại chu kỳ đảo ngược thời gian này mãi mãi, trở thành sinh vật bất tử duy nhất trên hành tinh!"
+ },
+ "seo": {
+  "title": "Sinh Vật Già Yếu Tự Biến Ngược Thành Sơ Sinh Để Bất Tử?!",
+  "hook_paragraph": "Sứa Bất Tử (Turritopsis dohrnii) nắm giữ bí mật đảo ngược lão hóa vĩ đại nhất tự nhiên: khi già yếu hoặc bị thương, toàn bộ tế bào cơ bắp tự chuyển hóa ngược thành tế bào gốc non nớt, hóa thành búp polyp để sinh ra hàng trăm bản sao mới!",
+  "bullets": [
+   "Phòng lab 5 cấp độ: Bí ẩn phá vỡ quy luật nhiệt động lực học không thể đảo ngược",
+   "Cơ chế Transdifferentiation: Tế bào cơ bắp tự biến ngược thành tế bào gốc phôi thai",
+   "Tái sinh đáy biển: Hóa thành kén cyst đâm chồi polyp nhân bản hàng trăm cá thể mới",
+   "Bản thiết kế gen PNAS 2022: Telomere không bao giờ co ngắn và nhân đôi gen sửa ADN"
+  ],
+  "question": "Nếu con người giải mã thành công hệ gen của sứa bất tử: cứ già lại biến về 18 tuổi để sống lại từ đầu, bạn có muốn bất tử không? Và đoán xem bóng đen tập sau là loài nào?",
+  "next_teaser": "Bóng đen kỹ sư đại tài: sở hữu răng cửa màu cam chứa sắt cực cứng, bị ám ảnh tiếng nước chảy đắp bùn kín loa phát nhạc!",
+  "hashtags": [
+   "#độngvật",
+   "#sứabấttử",
+   "#VẽChuyệnHoangDã"
+  ],
+  "tags": [
+   "sứa bất tử",
+   "sua bat tu",
+   "turritopsis dohrnii",
+   "immortal jellyfish",
+   "sinh vật bất tử",
+   "đảo ngược lão hóa",
+   "động vật kỳ lạ",
+   "thế giới động vật",
+   "động vật hài hước",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị"
+  ],
+  "shorts_title": "Sinh Vật Tự Biến Ngược Về Sơ Sinh Để Bất Tử?! 🪼 #độngvật #sứabấttử",
+  "shorts_desc": "Sứa Bất Tử Turritopsis dohrnii khi già yếu tự chuyển hóa tế bào ngược về phôi thai sơ sinh để sống lại từ đầu! Khám phá sinh vật bất tử duy nhất hành tinh.",
+  "shorts_tags": [
+   "sứa bất tử",
+   "immortal jellyfish",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ],
+  "en_title": "The Jellyfish That Ages Backwards to Become Immortal?! | Ep 29",
+  "en_hook": "Meet the Immortal Jellyfish (Turritopsis dohrnii): when stressed, sick, or aged, its mature cells undergo transdifferentiation, reverting back to stem cells to rebuild a baby polyp colony and start life anew forever!",
+  "en_chapters": [
+   "5-Level Lab: Breaking the Universal Law of Mortality",
+   "Level 1: Extreme Stress & The Reversing Trigger",
+   "Level 2: The Transdifferentiation Cellular Miracle",
+   "Level 3: Rebirthing as Polyps & Cloning Hundreds of Clones",
+   "Level 4 & 5: The Immortal Genome, Telomeres & DNA Repair",
+   "Lab Final Verdict & Next Episode Beaver Teaser"
+  ],
+  "en_shorts_title": "The Creature That Reverses Ageing to Live Forever?! 🪼 #animals #immortaljellyfish"
+ }
+}

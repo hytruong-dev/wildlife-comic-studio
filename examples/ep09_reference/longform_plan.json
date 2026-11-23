@@ -1,0 +1,891 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "BỊ CÁO MẶC VEST ĐUÔI TÔM",
+   "hook": "",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [
+      {
+       "at": "-40°C",
+       "side": "R",
+       "y": 360,
+       "value": "-40°C",
+       "label": "lạnh thấu xương",
+       "target": [
+        0.78,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Một viên sỏi vừa",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở mép băng, một",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": [
+      "rơi tõm"
+     ]
+    },
+    {
+     "at": "Và trên nền tuyết",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bị cáo, mời đứng",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": [
+      "mời đứng lên"
+     ]
+    },
+    {
+     "at": "Và bị cáo là",
+     "image": "assets/long/L06.png",
+     "stickers": [
+      {
+       "at": "70cm",
+       "side": "R",
+       "y": 330,
+       "value": "70 CM",
+       "label": "chiều cao bị cáo",
+       "target": [
+        0.62,
+        0.45
+       ]
+      },
+      {
+       "at": "3-6kg",
+       "side": "L",
+       "y": 470,
+       "value": "3-6 KG",
+       "label": "nặng như con mèo",
+       "target": [
+        0.25,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Kính thưa bồi thẩm",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở tòa này, chúng",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hôm nay, công tố",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn bồi thẩm đoàn",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VỤ ÁN NAM CỰC"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "KẺ TRỘM SỎI XỨ BĂNG",
+   "hook": "TRỘM SỎI NHÀ HÀNG XÓM ĐỂ XÂY TỔ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng ở Nam Cực",
+     "image": "assets/long/L12.png",
+     "stickers": [
+      {
+       "at": "2%",
+       "side": "R",
+       "y": 380,
+       "value": "2%",
+       "label": "đất không có băng",
+       "target": [
+        0.7,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi mùa xuân, hàng",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và tổ của chúng",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trung bình mỗi tổ",
+     "image": "assets/long/L15.png",
+     "stickers": [
+      {
+       "at": "200 viên",
+       "side": "R",
+       "y": 340,
+       "value": "200 VIÊN",
+       "label": "sỏi cho 1 cái tổ",
+       "target": [
+        0.72,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và thế là tội",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngoạm một viên! Quay",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Có kẻ trộm xong",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nạn nhân phát hiện",
+     "image": "assets/long/L19.png",
+     "stickers": [
+      {
+       "at": "2km/h",
+       "side": "L",
+       "y": 360,
+       "value": "2 KM/H",
+       "label": "tốc độ rượt đuổi",
+       "target": [
+        0.5,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Điều buồn cười nhất",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bồi thẩm đoàn thử",
+     "image": "assets/long/L21.png",
+     "stickers": [
+      {
+       "at": "5 triệu",
+       "side": "R",
+       "y": 400,
+       "value": "5 TRIỆU",
+       "label": "dân số khu phố",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Còn ở họ hàng",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mà bồi thẩm đoàn biết",
+     "image": "assets/long/L85.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tổ xấu quá thì",
+     "image": "assets/long/L86.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thưa tòa, cháu không",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bồi thẩm đoàn đã",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #1"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "ĐẨY BẠN XUỐNG NƯỚC DÒ HẢI CẨU",
+   "hook": "ĐẨY BẠN XUỐNG BIỂN ĐỂ THỬ HẢI CẨU BÁO",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ai cũng đói. Ai",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vì dưới làn nước",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hải cẩu báo! Dài",
+     "image": "assets/long/L28.png",
+     "stickers": [
+      {
+       "at": "3,5m",
+       "side": "L",
+       "y": 330,
+       "value": "3,5 M",
+       "label": "chiều dài hải cẩu báo",
+       "target": [
+        0.5,
+        0.62
+       ]
+      },
+      {
+       "at": "500kg",
+       "side": "R",
+       "y": 470,
+       "value": "500 KG",
+       "label": "nặng như con bò",
+       "target": [
+        0.62,
+        0.42
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cái đầu to như",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó nấp ngay dưới",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "So với Quý ông",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và thế là cảnh",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Con đứng hàng đầu",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và rồi tõm Một",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": [
+      "tõm"
+     ]
+    },
+    {
+     "at": "Cả bầy lập tức",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu bạn ấy bơi",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn nếu không thì",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhân chứng của vụ",
+     "image": "assets/long/L39.png",
+     "stickers": [
+      {
+       "at": "1911",
+       "side": "R",
+       "y": 330,
+       "value": "1911",
+       "label": "Cape Adare",
+       "target": [
+        0.3,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Ông ghi lại cảnh",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mấy con đứng sau",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bồi thẩm đoàn nghe",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #2"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "KHẨU SÚNG PHÂN ÁP LỰC CAO",
+   "hook": "BẮN PHÂN XA 1,34 MÉT — NHÌN THẤY TỪ VŨ TRỤ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó đứng dậy, quay",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": [
+      "bắn"
+     ]
+    },
+    {
+     "at": "Cứ thế, quanh mỗi",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chuyện nghe thì buồn",
+     "image": "assets/long/L46.png",
+     "stickers": [
+      {
+       "at": "2003",
+       "side": "R",
+       "y": 330,
+       "value": "2003",
+       "label": "đo vệt phân",
+       "target": [
+        0.4,
+        0.62
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả: 10-60 kPa",
+     "image": "assets/long/L47.png",
+     "stickers": [
+      {
+       "at": "10-60 kPa",
+       "side": "L",
+       "y": 340,
+       "value": "60 KPA",
+       "label": "áp suất cực đại",
+       "target": [
+        0.22,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Công trình này còn",
+     "image": "assets/long/L48.png",
+     "stickers": [
+      {
+       "at": "2005",
+       "side": "R",
+       "y": 340,
+       "value": "IG NOBEL",
+       "label": "giải năm 2005",
+       "target": [
+        0.5,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết! Năm 2020",
+     "image": "assets/long/L49.png",
+     "stickers": [
+      {
+       "at": "2020",
+       "side": "R",
+       "y": 330,
+       "value": "2020",
+       "label": "tính lại tầm bắn",
+       "target": [
+        0.25,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả: tầm bắn",
+     "image": "assets/long/L50.png",
+     "stickers": [
+      {
+       "at": "1,34m",
+       "side": "R",
+       "y": 360,
+       "value": "1,34 M",
+       "label": "tầm bắn xa nhất",
+       "target": [
+        0.78,
+        0.68
+       ]
+      },
+      {
+       "at": "8km/h",
+       "side": "L",
+       "y": 470,
+       "value": "8 KM/H",
+       "label": "tốc độ bay",
+       "target": [
+        0.45,
+        0.35
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nếu đổi sang cỡ",
+     "image": "assets/long/L51.png",
+     "stickers": [
+      {
+       "at": "3m",
+       "side": "R",
+       "y": 360,
+       "value": "> 3 M",
+       "label": "nếu là con người",
+       "target": [
+        0.85,
+        0.7
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và họ nghiêm túc",
+     "image": "assets/long/L52.png",
+     "stickers": [
+      {
+       "at": "1,34m",
+       "side": "L",
+       "y": 400,
+       "value": "1,34 M",
+       "label": "khoảng cách an toàn",
+       "target": [
+        0.5,
+        0.78
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và vũ khí này",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2012, các nhà",
+     "image": "assets/long/L54.png",
+     "stickers": [
+      {
+       "at": "2012",
+       "side": "R",
+       "y": 330,
+       "value": "2012",
+       "label": "soi ảnh vệ tinh",
+       "target": [
+        0.55,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Lần theo dấu vết",
+     "image": "assets/long/L55.png",
+     "stickers": [
+      {
+       "at": "46",
+       "side": "L",
+       "y": 340,
+       "value": "46 ĐÀN",
+       "label": "cánh cụt hoàng đế",
+       "target": [
+        0.4,
+        0.5
+       ]
+      },
+      {
+       "at": "595.000",
+       "side": "R",
+       "y": 460,
+       "value": "595.000",
+       "label": "con được đếm",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bồi thẩm đoàn thấy",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #3"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "CÔN ĐỒ CÁNH CỨNG TÁT CẢ NHÀ KHOA HỌC",
+   "hook": "TÁT CẢ NHÀ KHOA HỌC BẰNG CÁNH CỨNG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó lao tới, đứng",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": [
+      "Phạch"
+     ]
+    },
+    {
+     "at": "Cánh chim cánh cụt",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không chỉ con người",
+     "image": "assets/long/L60.png",
+     "stickers": [
+      {
+       "at": "hơn 1m",
+       "side": "R",
+       "y": 340,
+       "value": "> 1 M",
+       "label": "sải cánh chim Skua",
+       "target": [
+        0.6,
+        0.3
+       ]
+      }
+     ],
+     "impacts": [
+      "Tát"
+     ]
+    },
+    {
+     "at": "Hải cẩu bò lên",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cả đời bị cáo",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và đừng tưởng bị",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng xuống nước thì",
+     "image": "assets/long/L64.png",
+     "stickers": [
+      {
+       "at": "15km/h",
+       "side": "L",
+       "y": 340,
+       "value": "15 KM/H",
+       "label": "tốc độ bơi",
+       "target": [
+        0.5,
+        0.45
+       ]
+      },
+      {
+       "at": "180m",
+       "side": "R",
+       "y": 470,
+       "value": "180 M",
+       "label": "lặn sâu nhất",
+       "target": [
+        0.12,
+        0.85
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "và khi phóng lên",
+     "image": "assets/long/L65.png",
+     "stickers": [
+      {
+       "at": "2m",
+       "side": "R",
+       "y": 360,
+       "value": "2 M",
+       "label": "cú nhảy lên băng",
+       "target": [
+        0.75,
+        0.3
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Còn khi lười đi",
+     "image": "assets/long/L87.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn tòa án gọi",
+     "image": "assets/long/L88.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Công tố viên xin",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngay cả nhân chứng",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ông còn viết một",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bằng chứng đã đủ",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #4"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "LUẬT SƯ BÀO CHỮA & PHÁN QUYẾT",
+   "hook": "LUẬT SƯ LẬT NGƯỢC CẢ 4 BẰNG CHỨNG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi mùa xuân, tuyết",
+     "image": "assets/long/L71.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quả trứng nằm sát",
+     "image": "assets/long/L72.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một đống sỏi cao",
+     "image": "assets/long/L73.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thứ bị cáo trộm",
+     "image": "assets/long/L74.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhiều nhà khoa học cho",
+     "image": "assets/long/L75.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhảy theo bầy lại",
+     "image": "assets/long/L76.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bắn phân ra xa là",
+     "image": "assets/long/L77.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tát cả nhà khoa học?",
+     "image": "assets/long/L78.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu đó là tội",
+     "image": "assets/long/L79.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cộc cộc cộc Tòa",
+     "image": "assets/long/L80.png",
+     "stickers": [],
+     "impacts": [
+      "Cộc cộc cộc"
+     ]
+    },
+    {
+     "at": "Và thế là Quý",
+     "image": "assets/long/L81.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn bạn, nếu là",
+     "image": "assets/long/L82.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tập sau, chúng ta",
+     "image": "assets/long/L83.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bày sẵn đĩa lá",
+     "image": "assets/long/L84.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "PHÁN QUYẾT"
+  }
+ }
+}

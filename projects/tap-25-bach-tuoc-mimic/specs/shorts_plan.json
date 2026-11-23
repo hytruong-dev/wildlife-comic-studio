@@ -1,0 +1,104 @@
+{
+ "title_lines": [
+  "9 BỘ NÃO VÀ 15",
+  "KHUÔN MẶT BIẾN HÌNH?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "mà lập tức biến 2",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "Xin giới thiệu Bạch",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "60cm",
+     "side": "R",
+     "y": 620,
+     "value": "60 CM",
+     "label": "sải tay bãi cát",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Nó sở hữu tới",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "at": "9 bộ não",
+     "side": "L",
+     "y": 620,
+     "value": "9 BỘ NÃO",
+     "label": "3 tim máu xanh",
+     "target": [
+      0.4,
+      0.52
+     ]
+    }
+   ]
+  },
+  {
+   "at": "và tài năng hóa",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "Bị cá thia tấn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "Gặp cá nhồng hung",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "Cần di chuyển qua",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "Làn da của nó",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "at": "0,2 giây",
+     "side": "R",
+     "y": 680,
+     "value": "0,2 GIÂY",
+     "label": "đổi màu cơ học",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Một bậc thầy tình",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  }
+ ]
+}

@@ -1,0 +1,792 @@
+{
+ "_doc": "Storyboard Tập 27: Chuột Chũi Sao (Format F4 - Nhật ký sinh tồn 24 giờ). Mỗi câu/ý thoại = 1 beat = 1 ảnh riêng.",
+ "characters": {
+  "HERO": "chú Chuột Chũi Sao (Condylura cristata) hoạt hình lông màu đen nhung mượt mà, thân hình mập mạp mũm mĩm, hai chân trước to bè hình mái chèo xẻ nước với móng vuốt đào đất khỏe khoắn, hai mắt nhỏ mờ đục ngộ nghĩnh, đầu mũi xòe ra hai mươi hai chiếc xúc tu thịt màu hồng tươi rực rỡ như một bông hoa sao biển, đeo một chiếc đồng hồ bấm giờ điện tử nhỏ màu cam trên cổ",
+  "HERO_S": "chú Chuột Chũi Sao lông đen nhung, mũi hoa sao 22 xúc tu hồng, đồng hồ bấm giờ cam",
+  "NO_HERO": "KHÔNG có chú chuột chũi sao mũi hoa hồng trong cảnh này",
+  "REPORTER": "anh chàng phóng viên truyền hình 24H hoạt hình mặc áo khoác dã ngoại màu be, tay cầm micro có logo 24H",
+  "NEWS_ANCHOR": "cô phát thanh viên bản tin trực tiếp hoạt hình đeo tai nghe"
+ },
+ "side_characters": [
+  "REPORTER",
+  "NEWS_ANCHOR"
+ ],
+ "shorts_side_characters": [
+  "REPORTER"
+ ],
+ "shorts_title_lines": [
+  "ĂN MỒI TRONG 0,12 GIÂY",
+  "& NGỬI DƯỚI NƯỚC?!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Bầu trời sáng sớm đầm lầy sương mù mờ ảo: chiếc đồng hồ kim lớn điểm đúng 06:00 sáng; {REPORTER} cầm micro phát sóng trực tiếp bên bãi bùn ẩm ướt. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "tiếng đồng hồ tích tắc",
+   "layout": "Đồng hồ cát 24 giờ đếm ngược phát sáng cam; mặt đất đầm lầy ẩm ướt bắt đầu rung chuyển nhẹ có những vết nứt nhỏ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Một cỗ máy khoan đất",
+   "layout": "Mặt đất ẩm ướt đùn lên một ụ đất tròn; từ dưới hang tối, một cỗ máy khoan đất tí hon nặng 50g với bộ lông nhung đen trồi đầu lên mặt đất.",
+   "stickers": [
+    {
+     "at": "50g",
+     "side": "L",
+     "y": 350,
+     "value": "NẶNG 50G",
+     "label": "cỗ máy khoan đất",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "dài chưa đầy",
+   "layout": "Ở GIỮA {HERO} đứng cạnh chiếc thước đo chiều cao màu vàng 15-20cm của phóng viên hiện trường.",
+   "stickers": [
+    {
+     "at": "15-20cm",
+     "side": "R",
+     "y": 350,
+     "value": "15-20 CM",
+     "label": "kích thước cơ thể",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Báo cáo phóng viên",
+   "layout": "Màn hình trường quay: {NEWS_ANCHOR} chỉ tay vào hình ảnh phóng to cận cảnh chiếc mũi đỏ hồng xòe ra 22 xúc tu đang ngoe nguẩy dữ dội. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Quý vị khán giả",
+   "layout": "{HERO} đứng trên gò đất đầm lầy, chiếc mũi sao biển hồng rung rinh tỏa sáng, hai chân trước xòe rộng như hai chiếc xẻng đào đất ngộ nghĩnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hai mắt của nó",
+   "layout": "Cận cảnh đầu của {HERO}: hai mắt thoái hóa thành hai đốm nhỏ xíu mờ đục, hai tai không có vành, mũi xòe 22 xúc tu rực rỡ như bông hoa sao biển.",
+   "stickers": [
+    {
+     "at": "22 xúc tu",
+     "side": "R",
+     "y": 350,
+     "value": "22 XÚC TU",
+     "label": "mũi hình hoa sao",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Trong bản tin trực",
+   "layout": "{HERO} hóa thân thành siêu anh hùng đeo chiếc đồng hồ bấm giờ cam, xung quanh bùng nổ tia chớp điện quang với danh hiệu Tia Chớp Lòng Đất.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Điều gì đã khiến",
+   "layout": "Cuốn sách Kỷ lục Thế giới Guinness mở ra biểu tượng cúp vàng trao cho {HERO} danh hiệu cỗ máy săn mồi nhanh nhất hành tinh.",
+   "stickers": [
+    {
+     "at": "Guinness",
+     "side": "L",
+     "y": 350,
+     "value": "GUINNESS",
+     "label": "kỷ lục thế giới",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hãy cùng trường quay",
+   "layout": "{REPORTER} chỉ vào chiếc đồng hồ 24 giờ đang chạy tích tắc; {HERO} chui tọt xuống đường hầm ngầm bắt đầu cuộc đua sinh tồn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Đồng hồ trường quay điểm đúng 12:00 trưa; {REPORTER} đang đứng cạnh máy quay tốc độ cao 1.000 khung hình mỗi giây chiếu vào lòng địa đạo tăm tối. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1.000",
+     "side": "R",
+     "y": 350,
+     "value": "1.000 FPS",
+     "label": "máy quay siêu tốc",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Giáo sư Kenneth Catania",
+   "layout": "Phòng thí nghiệm Đại học Vanderbilt: Giáo sư Kenneth Catania quan sát màn hình camera quay chậm cận cảnh {HERO} đang chạm mũi vào con mồi. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "Vanderbilt",
+     "side": "L",
+     "y": 350,
+     "value": "VANDERBILT",
+     "label": "Đại học danh tiếng",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "thời gian trung bình",
+   "layout": "Đồng hồ bấm giờ điện tử dừng lại ở con số 120 mili-giây (0,12 giây) bốc khói: {HERO} chạm mũi nhận diện và nuốt chửng một con giun đất cực nhanh.",
+   "stickers": [
+    {
+     "at": "120 mili-giây",
+     "side": "R",
+     "y": 350,
+     "value": "120 MS",
+     "label": "thời gian ăn mồi",
+     "target": [
+      0.65,
+      0.45
+     ]
+    },
+    {
+     "at": "0,12 giây",
+     "side": "L",
+     "y": 480,
+     "value": "0,12 GIÂY",
+     "label": "kỷ lục Guinness",
+     "target": [
+      0.32,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Quý vị có biết",
+   "layout": "Mắt người đang chớp một cái mất 300-400 mili-giây; ở bên cạnh {HERO} đã kịp nuốt chửng ba con giun đất liên tiếp trong cùng một khoảng thời gian.",
+   "stickers": [
+    {
+     "at": "300-400 mili-giây",
+     "side": "L",
+     "y": 350,
+     "value": "300-400 MS",
+     "label": "một cái chớp mắt",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Thậm chí bộ não",
+   "layout": "Sơ đồ não bộ phát xung điện thần kinh siêu tốc chỉ trong 8 mili-giây đưa ra quyết định ăn mồi, ngang ngửa tốc độ xử lý của vi mạch máy tính. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "8 mili-giây",
+     "side": "R",
+     "y": 350,
+     "value": "8 MS",
+     "label": "phân tích não bộ",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bí mật đằng sau",
+   "layout": "Kính hiển vi phóng to chiếc mũi hoa sao: 22 xúc tu thịt chứa hơn 25.000 thụ thể Eimer hình vòm nhỏ li ti và 100.000 sợi dây thần kinh dày đặc. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "25.000",
+     "side": "R",
+     "y": 350,
+     "value": "25.000 THỂ",
+     "label": "thụ thể Eimer",
+     "target": [
+      0.68,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "được nuôi dưỡng bởi",
+   "layout": "So sánh hệ thần kinh: chiếc mũi hoa sao nhỏ bé có mật độ dây thần kinh dày đặc gấp 6 lần toàn bộ dây thần kinh trên cả hai bàn tay của một con người trưởng thành. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "100.000",
+     "side": "L",
+     "y": 350,
+     "value": "100.000",
+     "label": "gấp 6 lần tay người",
+     "target": [
+      0.3,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khi đi săn trong",
+   "layout": "{HERO} gõ liên hồi chiếc mũi hoa sao xuống nền bùn đất ẩm ướt với tốc độ chạm 12 vị trí khác nhau trong đúng một giây.",
+   "stickers": [
+    {
+     "at": "12 vị trí",
+     "side": "R",
+     "y": 350,
+     "value": "12 ĐIỂM/S",
+     "label": "tần số chạm mũi",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Mười cặp xúc tu",
+   "layout": "Sơ đồ chiếc mũi sao: 10 cặp xúc tu bên ngoài làm radar quét rộng; cặp xúc tu số 11 ở đáy lập tức chộp lấy con mồi để kiểm tra vi mô.",
+   "stickers": [
+    {
+     "at": "số 11",
+     "side": "L",
+     "y": 350,
+     "value": "CẶP SỐ 11",
+     "label": "kiểm tra vi mô",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chẳng một hạt cát,",
+   "layout": "Kính hiển vi quét cận cảnh: chẳng một hạt cát hay ấu trùng bọ cánh cứng nào có thể trốn thoát trước chiếc máy quét xúc giác quét từng milimet đất này. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Không những thế, bộ",
+   "layout": "Cận cảnh bộ hàm răng cửa sắc nhọn của {HERO} đan chéo vào nhau như chiếc nhíp gắp siêu nhỏ, ngoạm chặt con giun đất kéo tuột vào họng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "kết hợp với tuyến",
+   "layout": "Tuyến nước bọt của {HERO} tiết ra chất gây tê nhẹ làm con giun đất bất động ngay tức khắc; bảng 12:00 Trưa bật PASS.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Đồng hồ chuyển sang 18:00 hoàng hôn rực ánh cam tím trên mặt hồ đầm lầy; {REPORTER} đứng bên bờ suối chỉ tay về phía dòng nước chảy. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Tia Chớp Lòng Đất của chúng ta",
+   "layout": "{HERO} hóa thân thành vận động viên bơi lội bán thủy sinh cừ khôi, lặn ngụp xuống dòng suối lạnh buốt ven đầm lầy săn mồi buổi chiều tà.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Hai bàn chân trước",
+   "layout": "{HERO} bơi lội điêu luyện dưới dòng nước lạnh, hai chân trước to bè quạt nước như mái chèo, chiếc đuôi dày đóng vai trò bánh lái.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng điều làm chấn",
+   "layout": "Bìa bài báo tạp chí Nature năm 2006 mở ra câu hỏi bí ẩn: làm thế nào một loài thú có vú có thể đánh hơi tìm mồi dưới nước. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "2006",
+     "side": "L",
+     "y": 350,
+     "value": "NATURE '06",
+     "label": "phát hiện chấn động",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Báo cáo hiện trường:",
+   "layout": "Màn hình camera hồng ngoại dưới nước: {NEWS_ANCHOR} chỉ vào cảnh {HERO} liên tục thổi những quả bong bóng khí tròn xoe ra khỏi mũi rồi hít lại.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Quý vị đang chứng",
+   "layout": "Kỳ quan sinh học: loài thú đầu tiên trên hành tinh được chứng minh có khả năng ngửi mùi dưới nước mà không cần hít nước vào phổi. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nó thổi những bong bóng",
+   "layout": "Phóng to dưới nước: {HERO} thổi bong bóng khí chạm vào thức ăn, phân tử mùi bám vào màng bong bóng rồi được hít ngược vào khoang mũi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Tần số thổi và",
+   "layout": "Đồ họa nhịp thở bong bóng dưới nước đạt tần số 5-10 lần mỗi giây, so sánh với chú chuột cống đang hít hà đánh hơi trên cạn. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "5-10 lần",
+     "side": "R",
+     "y": 350,
+     "value": "5-10 LẦN/S",
+     "label": "thổi hít bong bóng",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhờ chiếc máy thở",
+   "layout": "Dưới đáy suối tối đen như mực: {HERO} bơi theo luồng phân tử mùi của con mồi chuẩn xác từng centimet nhờ chiếc máy thở bong bóng tuần hoàn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thậm chí vào mùa",
+   "layout": "Dưới lớp băng tuyết dày mùa đông: {HERO} bơi lặn bên dưới tảng băng, thổi bong bóng chạm vào mặt dưới lớp băng để gom mùi hương của tôm cá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Các nhà vật lý",
+   "layout": "Mô hình vật lý chất lưu: sức căng bề mặt bong bóng khí bắt dính phân tử mùi trong nước; bảng 18:00 Hoàng hôn bật PASS.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Đồng hồ điểm đúng 00:00 nửa đêm; rừng đầm lầy chìm trong bóng đêm đen đặc, con cú mèo mắt phát sáng rình rập trên cành cây khô. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "chồn ec-min, rắn nước",
+   "layout": "Bên ngoài các cửa hầm ngầm, chồn ec-min và rắn nước lượn lờ săn mồi trong đêm lạnh; nguy hiểm bủa vây tứ phía. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bên trong lòng đất,",
+   "layout": "Bản đồ quét cộng hưởng từ não bộ của {HERO}: toàn bộ vùng vỏ não cảm giác bản thể sáng rực rỡ hình chiếc mũi hoa sao. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đặc biệt nhất là",
+   "layout": "Cận cảnh cặp xúc tu số 11 nhỏ nhất ở đáy chiếc mũi hoa sao, phát sáng màu vàng cam như hoàng điểm võng mạc mắt người.",
+   "stickers": [
+    {
+     "at": "thứ 11",
+     "side": "R",
+     "y": 350,
+     "value": "XÚC TU 11",
+     "label": "hoàng điểm xúc giác",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Khi 20 xúc tu bên ngoài",
+   "layout": "Sơ đồ điều phối xúc giác: khi 20 xúc tu bên ngoài chạm lướt phát hiện vật thể, cặp số 11 lập tức chụp vào kiểm tra cận cảnh với độ phóng đại não bộ tối đa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Các nghiên cứu giải",
+   "layout": "Biểu đồ não bộ: hơn 50% diện tích vỏ não cảm giác bản thể phục vụ cho chiếc mũi rộng chưa đầy 1cm; mô hình người chuột kỳ dị với chiếc mũi khổng lồ.",
+   "stickers": [
+    {
+     "at": "50%",
+     "side": "L",
+     "y": 350,
+     "value": "50% VỎ NÃO",
+     "label": "dành riêng cho mũi",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nếu vẽ lại cơ thể",
+   "layout": "Mô hình tỷ lệ Homunculus kỳ dị: chiếc mũi hoa sao của {HERO} phình to khổng lồ bằng cả tòa nhà, trong khi thân hình và chân tay teo nhỏ tí hon như hạt vừng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Thế nên dù không",
+   "layout": "{HERO} đào hầm trong đêm, thế giới trong đầu hiện lên như bức tranh 3D sống động từng hạt đất và ngách hầm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nó nhìn thấy thế giới",
+   "layout": "{HERO} phát hiện kẻ thù đang đào đất mò tới từ xa qua sóng rung chấn của chiếc mũi hoa sao, kịp thời lấp kín ngách hầm tẩu thoát an toàn; bảng 00:00 Nửa đêm bật PASS.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Đồng hồ điểm 04:00 rạng sáng; ngoài trời đóng băng lạnh buốt, hơi sương trắng luồn vào từng kẽ đất nơi {HERO} đang đói cồn cào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Với một cơ thể",
+   "layout": "{HERO} nhỏ bé 50g đứng cạnh chiếc cân đo lượng thức ăn: mỗi ngày phải ăn lượng thức ăn bằng 50% đến 100% trọng lượng cơ thể.",
+   "stickers": [
+    {
+     "at": "100%",
+     "side": "R",
+     "y": 350,
+     "value": "50-100%",
+     "label": "lượng ăn mỗi ngày",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nếu ngừng ăn là",
+   "layout": "Biểu tượng viên pin năng lượng nhấp nháy vạch đỏ cạn kiệt cảnh báo nguy cơ hạ thân nhiệt nếu {HERO} ngừng nạp thức ăn trong vài giờ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thế nhưng khi mùa",
+   "layout": "Mặt hồ đóng băng cứng ngắc, tuyết phủ dày cả mét khắp cánh rừng đầm lầy; cái lạnh giá bao trùm vạn vật. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "vào mùa thu trù phú,",
+   "layout": "Cận cảnh chiếc đuôi của {HERO} phình to gấp 3-4 lần như bình ắc quy sinh học màu vàng tích trữ đầy mỡ béo dự trữ năng lượng mùa đông.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhờ chiếc đuôi tích",
+   "layout": "{HERO} bơi lội thoải mái dưới lớp băng giá lạnh thấu xương nhờ bộ lông nhung không thấm nước và chiếc đuôi dự trữ mỡ ấm áp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đặc biệt là vào",
+   "layout": "Hai chiếc nhiệt kế: nhiệt độ nước dưới băng là 0°C, nhưng nhiệt độ cơ thể {HERO} vẫn duy trì 37°C ấm áp.",
+   "stickers": [
+    {
+     "at": "0°C",
+     "side": "L",
+     "y": 350,
+     "value": "NƯỚC 0°C",
+     "label": "lạnh dưới băng tuyết",
+     "target": [
+      0.35,
+      0.45
+     ]
+    },
+    {
+     "at": "37°C",
+     "side": "R",
+     "y": 350,
+     "value": "THÂN 37°C",
+     "label": "duy trì ổn định",
+     "target": [
+      0.68,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Toàn bộ mỡ dự trữ",
+   "layout": "Mô hình nhiệt sinh học: mỡ dự trữ trong chiếc đuôi phình to được đốt cháy từng phần sưởi ấm tim phổi và nội tạng của {HERO}; bảng 04:00 Rạng sáng bật PASS.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Đồng hồ trường quay khép lại tròn 24 giờ điểm đúng 06:00 sáng hôm sau; {REPORTER} đứng trước ống kính truyền hình mỉm cười tổng kết phóng sự. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Sương sớm lại giăng",
+   "layout": "Sương sớm giăng kín đầm lầy, {HERO} lại bắt đầu một ngày mới đào hầm săn mồi không ngừng nghỉ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Từ một sinh vật",
+   "layout": "{HERO} đứng trên bục vinh danh của thế giới tự nhiên, chiếc mũi hoa sao 22 xúc tu rực rỡ lấp lánh như chiếc vương miện giác quan.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Phóng sự 24 giờ",
+   "layout": "{REPORTER} mỉm cười chuẩn bị khép lại bản tin thực tế 24 giờ nghẹt thở dưới lòng đầm lầy. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nếu được sở hữu một",
+   "layout": "Hai bàn cân lựa chọn: BÊN TRÁI biểu tượng tốc độ ăn mồi 0,12 giây; BÊN PHẢI biểu tượng ngửi mùi dưới nước bằng bong bóng, khán giả giơ thẻ bình chọn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và bây giờ, bản",
+   "layout": "Ống kính máy quay chuyển sang rừng mưa nhiệt đới Đông Nam Á tăm tối bí hiểm với bóng cây rậm rạp. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Những chiến binh bé",
+   "layout": "Một sinh vật bí ẩn được vẽ hoàn toàn bằng BÓNG ĐEN ĐẶC TUYỀN (solid black silhouette) hình chú kiến thợ nhỏ bé đang gồng cơ bụng nổ tung cơ thể phát ra tia chớp nổ tung; kèm dấu hỏi chấm vàng to tướng; KHÔNG vẽ mắt mũi lông. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đố các bạn biết",
+   "layout": "Chiếc BÓNG ĐEN ĐẶC TUYỀN bí ẩn của loài kiến nổ cảm tử nằm giữa ba dấu hỏi chấm lớn màu vàng cam lấp lánh mời gọi khán giả bình luận đoán tên con vật tập sau. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Khung dọc: {HERO} nhỏ bé mù lòa đang đào bới dưới bùn đầm lầy, chuẩn bị cho bữa ăn tối thần tốc.",
+   "stickers": []
+  },
+  {
+   "at": "chỉ mất đúng 0,12",
+   "layout": "Khung dọc: {HERO} chạm mũi hoa sao vào con mồi, chiếc đồng hồ điện tử đếm 0,12 giây bốc khói nuốt chửng con giun đất nhanh hơn chớp mắt.",
+   "stickers": [
+    {
+     "at": "0,12 giây",
+     "side": "R",
+     "y": 560,
+     "value": "0,12 GIÂY",
+     "label": "ăn mồi siêu tốc",
+     "target": [
+      0.6,
+      0.48
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Xin giới thiệu Chuột",
+   "layout": "{HERO} mập mạp bơi lội trên bãi bùn ẩm ướt, chiếc thước đo chiều cao màu vàng 20cm dựng thẳng đứng bên cạnh.",
+   "stickers": [
+    {
+     "at": "20cm",
+     "side": "R",
+     "y": 720,
+     "value": "20 CM",
+     "label": "chiều dài cơ thể",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Hai mắt của nó",
+   "layout": "Cận cảnh khung dọc: hai mắt thoái hóa mờ đục hoàn toàn của {HERO}.",
+   "stickers": []
+  },
+  {
+   "at": "nhưng trên mũi lại",
+   "layout": "Cận cảnh khung dọc: chiếc mũi xòe 22 xúc tu màu hồng tươi rực rỡ như bông hoa sao biển.",
+   "stickers": [
+    {
+     "at": "22 xúc tu",
+     "side": "L",
+     "y": 620,
+     "value": "22 XÚC TU",
+     "label": "mũi hoa sao",
+     "target": [
+      0.45,
+      0.52
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Chiếc mũi quái đản",
+   "layout": "Kính hiển vi phóng to 25.000 thụ thể Eimer trên xúc tu, {HERO} gõ mũi xuống bùn đất 12 vị trí mỗi giây để quét tìm con mồi.",
+   "stickers": [
+    {
+     "at": "25.000",
+     "side": "R",
+     "y": 650,
+     "value": "25.000 THỂ",
+     "label": "12 vị trí mỗi giây",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Thậm chí khi lặn",
+   "layout": "{HERO} lặn dưới nước suối, liên tục thổi các quả bong bóng khí chạm vào thức ăn.",
+   "stickers": []
+  },
+  {
+   "at": "rồi hít ngược trở",
+   "layout": "{HERO} hít ngược bong bóng khí vào khoang mũi để ngửi mùi con mồi dưới đáy suối.",
+   "stickers": []
+  },
+  {
+   "at": "Bộ não của nó",
+   "layout": "Đồ họa não bộ phát sáng xung điện thần kinh chỉ mất đúng 8 mili-giây để đưa ra quyết định ăn hay bỏ.",
+   "stickers": [
+    {
+     "at": "8 mili-giây",
+     "side": "L",
+     "y": 680,
+     "value": "8 MS",
+     "label": "phân tích não bộ",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Một tia chớp lòng",
+   "layout": "Chân dung {HERO} ngầu lòi giữa tia chớp điện quang, 22 xúc tu mũi sao phát sáng rực rỡ, đeo chiếc đồng hồ cam tự hào kỷ lục Guinness.",
+   "stickers": []
+  }
+ ]
+}

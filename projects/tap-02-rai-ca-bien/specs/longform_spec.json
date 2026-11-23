@@ -1,0 +1,430 @@
+{
+ "episode": "tap-02-rai-ca-bien",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 6,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "intro_mode": "full_first",
+ "output": "renders/tap-02-rai-ca-bien_long.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 65.788,
+   "chapter_no": 1,
+   "badge": "VỤ ÁN ĐẠI DƯƠNG",
+   "title": "CÚ LỪA ĐÁNG YÊU NHẤT CỦA RÁI CÁ BIỂN",
+   "card_hook": "",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L01.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 16.64,
+     "image": "assets/long/L02.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 30.49,
+     "image": "assets/long/L03.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 47.43,
+     "image": "assets/long/L04.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 56.53,
+     "image": "assets/long/L05.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 59.99,
+     "image": "assets/long/L06.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 93.58,
+   "chapter_no": 2,
+   "badge": "BẰNG CHỨNG #1",
+   "title": "BẢNG CHỈ SỐ SINH TỒN RPG CỦA THÁNH ĂN VẠ",
+   "card_hook": "",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L07.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 6.88,
+     "image": "assets/long/L08.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 10.82,
+       "side": "R",
+       "y": 360,
+       "value": "100/100",
+       "label": "ngụy trang đáng yêu",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 24.06,
+     "image": "assets/long/L09.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 27.58,
+       "side": "L",
+       "y": 360,
+       "value": "95/100",
+       "label": "giáp lông cản lạnh",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 28.8,
+     "image": "assets/long/L10.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 45.89,
+     "image": "assets/long/L11.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 49.83,
+       "side": "R",
+       "y": 360,
+       "value": "92/100",
+       "label": "bậc thầy búa đá",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b06",
+     "start_s": 51.13,
+     "image": "assets/long/L12.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b07",
+     "start_s": 69.47,
+     "image": "assets/long/L13.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 74.69,
+       "side": "L",
+       "y": 360,
+       "value": "999",
+       "label": "độ lầy lội giang hồ",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b08",
+     "start_s": 75.97,
+     "image": "assets/long/L14.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 97.617,
+   "chapter_no": 3,
+   "badge": "BẰNG CHỨNG #2",
+   "title": "ÁO PHAO MỘT TRIỆU SỢI LÔNG VÀ CHIẾC TÚI THẦN KỲ DORAEMON",
+   "card_hook": "",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L15.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 20.48,
+       "side": "R",
+       "y": 360,
+       "value": "1 TRIỆU",
+       "label": "sợi lông cách nhiệt",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 29.98,
+     "image": "assets/long/L16.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 32.04,
+       "side": "L",
+       "y": 360,
+       "value": "4 TIẾNG",
+       "label": "chăm sóc áo lông",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 36.16,
+     "image": "assets/long/L17.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 52.82,
+       "side": "R",
+       "y": 360,
+       "value": "30%",
+       "label": "nạp hải sản mỗi ngày",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 66.86,
+     "image": "assets/long/L18.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 94.04,
+       "side": "L",
+       "y": 360,
+       "value": "45 NHÁT",
+       "label": "đập vỡ vỏ sò trong 15s",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 88.951,
+   "chapter_no": 4,
+   "badge": "BẰNG CHỨNG #3",
+   "title": "CHIẾN THUẬT BẮT CÓC CON TIN ĐÒI TIỀN CHUỘC HẢI SẢN",
+   "card_hook": "",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L19.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 25.8,
+     "image": "assets/long/L20.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 40.63,
+     "image": "assets/long/L21.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 62.24,
+     "image": "assets/long/L22.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 101.803,
+   "chapter_no": 5,
+   "badge": "BẰNG CHỨNG #4",
+   "title": "VỆ BINH RỪNG TẢO BẸ VÀ HUYỀN THOẠI HẢI TẶC CƯỚP VÁN 841",
+   "card_hook": "",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L23.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 22.1,
+     "image": "assets/long/L24.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 51.46,
+     "image": "assets/long/L25.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 59.16,
+       "side": "R",
+       "y": 360,
+       "value": "SỐ 841",
+       "label": "hải tặc santa cruz",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 83.67,
+     "image": "assets/long/L26.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 62.797,
+   "chapter_no": 6,
+   "badge": "PHÁN QUYẾT",
+   "title": "BÀI HỌC SINH TỒN VÀ BẬT MÍ BỘ MẶT THẬT CỦA CÁ HEO",
+   "card_hook": "",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L27.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 32.19,
+     "image": "assets/long/L28.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 53.89,
+     "image": "assets/long/L29.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

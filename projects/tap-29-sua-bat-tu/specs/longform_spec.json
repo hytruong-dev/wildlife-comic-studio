@@ -1,0 +1,616 @@
+{
+ "episode": "tap-29-sua-bat-tu",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 6,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "intro_mode": "full_first",
+ "output": "renders/tap-29-sua-bat-tu_long.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 87.531,
+   "chapter_no": 1,
+   "badge": "PHÒNG LAB 5 CẤP ĐỘ",
+   "header_image": "assets/banners/chapter_01.png",
+   "title": "BÍ ẨN PHÁ VỠ QUY LUẬT SINH TỬ CỦA VŨ TRỤ",
+   "card_hook": "",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L01.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 14.82,
+     "image": "assets/long/L02.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 23.92,
+     "image": "assets/long/L03.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 27.48,
+       "side": "R",
+       "y": 350,
+       "value": "5 CẤP ĐỘ",
+       "label": "thử nghiệm sinh tử",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 31.08,
+     "image": "assets/long/L04.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 37.7,
+     "image": "assets/long/L05.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 47.48,
+     "image": "assets/long/L06.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 49.46,
+       "side": "L",
+       "y": 350,
+       "value": "CỠ 4,5MM",
+       "label": "kích thước tí hon",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b07",
+     "start_s": 57.95,
+     "image": "assets/long/L07.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b08",
+     "start_s": 71.01,
+     "image": "assets/long/L08.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b09",
+     "start_s": 77.79,
+     "image": "assets/long/L09.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 82.07,
+       "side": "R",
+       "y": 350,
+       "value": "80-90 TU",
+       "label": "xúc tu tơ nhện",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 85.755,
+   "chapter_no": 2,
+   "badge": "CẤP ĐỘ 1: STRESS MÔI TRƯỜNG",
+   "header_image": "assets/banners/chapter_02.png",
+   "title": "THỬ THÁCH TỔN THƯƠNG CƠ HỌC VÀ STRESS MÔI TRƯỜNG CỰC HẠN",
+   "card_hook": "BỊ ĐÓI KHÁT VÀ TỔN THƯƠNG NẶNG TỰ KÍCH HOẠT QUY TRÌNH HỒI SINH",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L10.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 13.88,
+     "image": "assets/long/L11.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 14.18,
+       "side": "L",
+       "y": 350,
+       "value": "NĂM 1992",
+       "label": "phát hiện tại Ý",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 26.18,
+     "image": "assets/long/L12.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 40.57,
+     "image": "assets/long/L13.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 52.8,
+     "image": "assets/long/L14.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b06",
+     "start_s": 65.35,
+     "image": "assets/long/L15.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b07",
+     "start_s": 78.27,
+     "image": "assets/long/L16.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 80.335,
+   "chapter_no": 3,
+   "badge": "CẤP ĐỘ 2: CHUYỂN BIỆT HÓA TẾ BÀO",
+   "header_image": "assets/banners/chapter_03.png",
+   "title": "CƠ CHẾ CHUYỂN BIỆT HÓA TẾ BÀO TRANSDIFFERENTIATION THẦN KỲ",
+   "card_hook": "TẾ BÀO CƠ BẮP TỰ BIẾN THÀNH TẾ BÀO GỐC NON NỚT",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L17.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 7.02,
+     "image": "assets/long/L18.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 15.64,
+     "image": "assets/long/L19.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 24.35,
+     "image": "assets/long/L20.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b05",
+     "start_s": 39.28,
+     "image": "assets/long/L21.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b06",
+     "start_s": 50.34,
+     "image": "assets/long/L22.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 53.66,
+       "side": "R",
+       "y": 350,
+       "value": "3-4 NGÀY",
+       "label": "đảo ngược hoàn toàn",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b07",
+     "start_s": 54.81,
+     "image": "assets/long/L23.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b08",
+     "start_s": 67.59,
+     "image": "assets/long/L24.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 80.492,
+   "chapter_no": 4,
+   "badge": "CẤP ĐỘ 3: TÁI SINH THÀNH POLYP",
+   "header_image": "assets/banners/chapter_04.png",
+   "title": "HÓA THÀNH BÚP POLYP NON NỚT VÀ NHÂN BẢN HÀNG TRĂM BẢN SAO",
+   "card_hook": "TỪ MỘT CON SỨA GIÀ MỌC THÀNH THẢM POLYP SINH RA TRĂM CON SỨA CON",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L25.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 14.18,
+     "image": "assets/long/L26.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 28.17,
+     "image": "assets/long/L27.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 35.61,
+     "image": "assets/long/L28.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 41.43,
+       "side": "L",
+       "y": 350,
+       "value": "100 BẢN",
+       "label": "nhân bản di truyền",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b05",
+     "start_s": 43.77,
+     "image": "assets/long/L29.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b06",
+     "start_s": 50.71,
+     "image": "assets/long/L30.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 54.65,
+       "side": "R",
+       "y": 350,
+       "value": "12 LẦN",
+       "label": "chu kỳ trẻ hóa",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b07",
+     "start_s": 58.88,
+     "image": "assets/long/L31.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b08",
+     "start_s": 66.8,
+     "image": "assets/long/L32.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 91.171,
+   "chapter_no": 5,
+   "badge": "CẤP ĐỘ 4 & 5: HỆ GEN THẦN THÁNH",
+   "header_image": "assets/banners/chapter_05.png",
+   "title": "GIẢI MÃ BÍ MẬT BẢO VỆ TELOMERE VÀ GEN SỬA CHỮA ADN",
+   "card_hook": "TELOMERE KHÔNG HỀ CO NGẮN VÀ HỆ THỐNG SỬA CHỮA ADN VƯỢT TRỘI",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L33.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 5.16,
+     "image": "assets/long/L34.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 16.33,
+     "image": "assets/long/L35.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 20.39,
+       "side": "L",
+       "y": 350,
+       "value": "TELOMERE",
+       "label": "mũ bảo vệ ADN",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 22.83,
+     "image": "assets/long/L36.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b05",
+     "start_s": 34.3,
+     "image": "assets/long/L37.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b06",
+     "start_s": 45.46,
+     "image": "assets/long/L38.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b07",
+     "start_s": 50.75,
+     "image": "assets/long/L39.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b08",
+     "start_s": 60.73,
+     "image": "assets/long/L40.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 62.89,
+       "side": "R",
+       "y": 350,
+       "value": "1.000 GEN",
+       "label": "đặc hữu bất tử",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b09",
+     "start_s": 69.36,
+     "image": "assets/long/L41.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b10",
+     "start_s": 82.74,
+     "image": "assets/long/L42.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 75.361,
+   "chapter_no": 6,
+   "badge": "TỔNG KẾT & DẤU ẤN",
+   "header_image": "assets/banners/chapter_06.png",
+   "title": "TRIẾT LÝ CỦA SỰ BẤT TỬ VÀ BÓNG ĐEN KỲ SƯ ĐẬP NƯỚC",
+   "card_hook": "BÀI HỌC VỀ SỰ TÁI SINH VÀ BÓNG ĐEN KỸ SƯ HẢI LY TẬP 30",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L43.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 14.56,
+     "image": "assets/long/L44.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 16.82,
+       "side": "R",
+       "y": 350,
+       "value": "ĐIỂM 10",
+       "label": "đảo ngược lão hóa",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 24.28,
+     "image": "assets/long/L45.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b04",
+     "start_s": 34.98,
+     "image": "assets/long/L46.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b05",
+     "start_s": 41.88,
+     "image": "assets/long/L47.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b06",
+     "start_s": 51.98,
+     "image": "assets/long/L48.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b07",
+     "start_s": 57.0,
+     "image": "assets/long/L49.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b08",
+     "start_s": 70.08,
+     "image": "assets/long/L50.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

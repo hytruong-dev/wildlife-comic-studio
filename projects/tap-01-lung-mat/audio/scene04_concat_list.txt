@@ -1,0 +1,7 @@
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/audio/scene04_eleven_p0.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/audio/silence_400ms.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/audio/scene04_eleven_p1.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/audio/silence_400ms.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/audio/scene04_eleven_p2.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/audio/silence_400ms.wav'
+file 'C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/audio/scene04_eleven_p3.wav'

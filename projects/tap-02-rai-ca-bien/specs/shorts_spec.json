@@ -1,0 +1,406 @@
+{
+ "episode": "tap-02-rai-ca-bien",
+ "title_lines": [
+  "BỘ MẶT THẬT",
+  "RÁI CÁ BIỂN?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "voice_end_s": 40.59,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-02-rai-ca-bien_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  5.61,
+  11.89,
+  15.31,
+  17.81,
+  19.39,
+  22.75,
+  28.01,
+  31.41,
+  37.11
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.46,
+     "text": "Đừng để gương"
+    },
+    {
+     "t": 1.18,
+     "text": "mặt tròn xoe"
+    },
+    {
+     "t": 1.9,
+     "text": "đáng yêu này"
+    },
+    {
+     "t": 2.7,
+     "text": "đánh lừa bạn!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 3.81,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 7.34,
+     "side": "R",
+     "y": 620,
+     "value": "HỌ HÀNG",
+     "label": "ruột thịt lửng mật",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 4.06,
+     "text": "Đây là Rái"
+    },
+    {
+     "t": 4.6,
+     "text": "Cá Biển,"
+    },
+    {
+     "t": 5.36,
+     "text": "người anh em"
+    },
+    {
+     "t": 5.8,
+     "text": "họ hàng ruột"
+    },
+    {
+     "t": 6.46,
+     "text": "thịt dưới đại"
+    },
+    {
+     "t": 7.0,
+     "text": "dương của Lửng"
+    },
+    {
+     "t": 7.58,
+     "text": "Mật với biệt"
+    },
+    {
+     "t": 8.3,
+     "text": "danh Thánh Ăn"
+    },
+    {
+     "t": 9.0,
+     "text": "Vạ Đại Dương!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 10.09,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 10.34,
+     "text": "Thứ nhất,"
+    },
+    {
+     "t": 11.12,
+     "text": "rái cá nắm"
+    },
+    {
+     "t": 11.52,
+     "text": "tay nhau khi"
+    },
+    {
+     "t": 12.16,
+     "text": "ngủ không phải"
+    },
+    {
+     "t": 12.78,
+     "text": "vì lãng mạn,"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 13.51,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 13.76,
+     "text": "mà là dây"
+    },
+    {
+     "t": 14.38,
+     "text": "neo sinh tồn"
+    },
+    {
+     "t": 15.06,
+     "text": "để không bị"
+    },
+    {
+     "t": 15.44,
+     "text": "sóng biển cuốn"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 16.01,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 16.02,
+     "text": "trôi vào miệng"
+    },
+    {
+     "t": 16.58,
+     "text": "cá voi sát thủ!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 17.59,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 20.74,
+     "side": "L",
+     "y": 620,
+     "value": "DORAEMON",
+     "label": "túi da dưới nách",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 17.84,
+     "text": "Thứ hai,"
+    },
+    {
+     "t": 18.7,
+     "text": "dưới nách nó"
+    },
+    {
+     "t": 19.12,
+     "text": "có một chiếc"
+    },
+    {
+     "t": 19.58,
+     "text": "túi da thần"
+    },
+    {
+     "t": 20.14,
+     "text": "kỳ như túi Doraemon"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 20.95,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 23.98,
+     "side": "R",
+     "y": 620,
+     "value": "45 NHÁT",
+     "label": "đập vỡ sò trong 15s",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 21.2,
+     "text": "để cất giấu"
+    },
+    {
+     "t": 22.04,
+     "text": "viên đá búa"
+    },
+    {
+     "t": 22.6,
+     "text": "gia truyền đập"
+    },
+    {
+     "t": 23.58,
+     "text": "vỏ sò 45"
+    },
+    {
+     "t": 24.34,
+     "text": "nhát trong 15 giây!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 26.21,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 26.46,
+     "text": "Đỉnh cao nhất,"
+    },
+    {
+     "t": 27.48,
+     "text": "vì phải ăn"
+    },
+    {
+     "t": 27.96,
+     "text": "lượng hải sản"
+    },
+    {
+     "t": 28.52,
+     "text": "bằng một phần"
+    },
+    {
+     "t": 29.04,
+     "text": "ba cơ thể mỗi"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 29.61,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "t": 32.8,
+     "side": "L",
+     "y": 620,
+     "value": "CON TIN",
+     "label": "đòi chuộc bào ngư",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 29.7,
+     "text": "ngày, những gã"
+    },
+    {
+     "t": 30.54,
+     "text": "rái cá đực"
+    },
+    {
+     "t": 31.007,
+     "text": "lười biếng chuyên"
+    },
+    {
+     "t": 31.74,
+     "text": "bắt giữ rái"
+    },
+    {
+     "t": 32.26,
+     "text": "cá con làm"
+    },
+    {
+     "t": 32.8,
+     "text": "con tin để"
+    },
+    {
+     "t": 33.4,
+     "text": "ép rái cá"
+    },
+    {
+     "t": 34.0,
+     "text": "mẹ nộp cua"
+    },
+    {
+     "t": 34.78,
+     "text": "chuộc con!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 35.31,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [
+    {
+     "t": 37.78,
+     "side": "R",
+     "y": 620,
+     "value": "HẢI TẶC",
+     "label": "cướp ván lướt sóng",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 35.56,
+     "text": "Một kẻ vừa"
+    },
+    {
+     "t": 36.22,
+     "text": "là thánh ăn"
+    },
+    {
+     "t": 36.68,
+     "text": "vạ, vừa là"
+    },
+    {
+     "t": 37.36,
+     "text": "hải tặc cướp"
+    },
+    {
+     "t": 38.02,
+     "text": "ván lướt sóng"
+    },
+    {
+     "t": 38.68,
+     "text": "lừng danh,"
+    },
+    {
+     "t": 39.26,
+     "text": "đó chính là"
+    },
+    {
+     "t": 39.84,
+     "text": "Rái Cá Biển!"
+    }
+   ]
+  }
+ ]
+}

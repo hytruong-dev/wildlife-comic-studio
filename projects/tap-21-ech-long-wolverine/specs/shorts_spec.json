@@ -1,0 +1,479 @@
+{
+ "episode": "tap-21-ech-long-wolverine",
+ "title_lines": [
+  "TỰ BẺ XƯƠNG ĐÂM",
+  "THỦNG DA LÀM VUỐT?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 52.97,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-21-ech-long-wolverine_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  5.15,
+  9.27,
+  15.13,
+  20.87,
+  24.17,
+  28.13,
+  33.01,
+  38.83,
+  44.37,
+  47.05,
+  51.91
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.78,
+     "text": "Bệnh nhân này"
+    },
+    {
+     "t": 1.24,
+     "text": "vào phòng cấp"
+    },
+    {
+     "t": 1.76,
+     "text": "cứu không phải"
+    },
+    {
+     "t": 2.42,
+     "text": "vì bị thú"
+    },
+    {
+     "t": 2.92,
+     "text": "dữ cắn,"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 3.35,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 3.6,
+     "text": "mà vì nó"
+    },
+    {
+     "t": 4.14,
+     "text": "vừa... tự bẻ"
+    },
+    {
+     "t": 4.62,
+     "text": "gãy xương ngón"
+    },
+    {
+     "t": 5.28,
+     "text": "chân mình đâm"
+    },
+    {
+     "t": 5.98,
+     "text": "thủng qua da!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 7.47,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 10.38,
+     "side": "R",
+     "y": 580,
+     "value": "13 CM",
+     "label": "dị nhân suối Trung Phi",
+     "target": [
+      0.62,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 7.72,
+     "text": "Xin giới thiệu"
+    },
+    {
+     "t": 8.52,
+     "text": "Ếch Lông Wolverine,"
+    },
+    {
+     "t": 9.76,
+     "text": "gã dị nhân"
+    },
+    {
+     "t": 10.18,
+     "text": "dài 13cm"
+    },
+    {
+     "t": 11.62,
+     "text": "sống dọc các"
+    },
+    {
+     "t": 12.08,
+     "text": "dòng suối núi"
+    },
+    {
+     "t": 12.66,
+     "text": "ở Trung Phi."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 13.33,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 14.04,
+     "side": "L",
+     "y": 560,
+     "value": "8 NGÓN",
+     "label": "giấu dao bấm xương",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 13.58,
+     "text": "Dưới lớp da"
+    },
+    {
+     "t": 14.04,
+     "text": "8 ngón chân"
+    },
+    {
+     "t": 14.78,
+     "text": "sau của nó"
+    },
+    {
+     "t": 15.36,
+     "text": "giấu sẵn những"
+    },
+    {
+     "t": 16.02,
+     "text": "chiếc móc xương"
+    },
+    {
+     "t": 16.56,
+     "text": "nhọn hoắt nối"
+    },
+    {
+     "t": 17.18,
+     "text": "với đầu ngón"
+    },
+    {
+     "t": 17.72,
+     "text": "bằng sợi collagen."
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 19.07,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 19.32,
+     "text": "Khi bị kẻ"
+    },
+    {
+     "t": 19.92,
+     "text": "thù tóm lấy,"
+    },
+    {
+     "t": 20.96,
+     "text": "nó gồng cơ"
+    },
+    {
+     "t": 21.54,
+     "text": "chân giật đứt"
+    },
+    {
+     "t": 22.1,
+     "text": "mối nối"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 22.37,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 22.4,
+     "text": "đó và đẩy"
+    },
+    {
+     "t": 23.06,
+     "text": "thẳng xương trần"
+    },
+    {
+     "t": 23.66,
+     "text": "sắc lẹm"
+    },
+    {
+     "t": 24.42,
+     "text": "chọc rách lớp"
+    },
+    {
+     "t": 24.9,
+     "text": "da thịt lao"
+    },
+    {
+     "t": 25.6,
+     "text": "ra ngoài làm"
+    },
+    {
+     "t": 26.06,
+     "text": "vuốt chiến"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 26.33,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 26.38,
+     "text": "đấu! Một nhà"
+    },
+    {
+     "t": 27.48,
+     "text": "tự nhiên học"
+    },
+    {
+     "t": 28.04,
+     "text": "từng bắt sống"
+    },
+    {
+     "t": 28.5,
+     "text": "nó và bị"
+    },
+    {
+     "t": 29.08,
+     "text": "cào rách tay"
+    },
+    {
+     "t": 29.66,
+     "text": "chảy máu sâu hoắm!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 31.21,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 35.8,
+     "side": "R",
+     "y": 580,
+     "value": "0,4 MM",
+     "label": "sợi nhú da mạch máu",
+     "target": [
+      0.55,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 31.46,
+     "text": "Chưa hết,"
+    },
+    {
+     "t": 31.74,
+     "text": "đến mùa sinh"
+    },
+    {
+     "t": 32.34,
+     "text": "sản, con đực"
+    },
+    {
+     "t": 32.92,
+     "text": "còn mọc hàng"
+    },
+    {
+     "t": 33.38,
+     "text": "trăm sợi lông"
+    },
+    {
+     "t": 33.98,
+     "text": "da rậm rạp"
+    },
+    {
+     "t": 34.6,
+     "text": "hai bên sườn"
+    },
+    {
+     "t": 35.08,
+     "text": "dày chỉ 0,4mm!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 37.03,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 37.28,
+     "text": "Lý do cực"
+    },
+    {
+     "t": 37.92,
+     "text": "kỳ cảm động:"
+    },
+    {
+     "t": 39.12,
+     "text": "ông bố phải"
+    },
+    {
+     "t": 39.58,
+     "text": "ngồi lì dưới"
+    },
+    {
+     "t": 40.2,
+     "text": "nước canh trứng"
+    },
+    {
+     "t": 40.68,
+     "text": "suốt nhiều tuần"
+    },
+    {
+     "t": 41.6,
+     "text": "nên cần bộ"
+    },
+    {
+     "t": 42.18,
+     "text": "lông mạch"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 42.57,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 42.52,
+     "text": "máu này để"
+    },
+    {
+     "t": 42.98,
+     "text": "hút thêm oxy"
+    },
+    {
+     "t": 43.52,
+     "text": "qua da thay"
+    },
+    {
+     "t": 44.02,
+     "text": "cho lá phổi"
+    },
+    {
+     "t": 44.54,
+     "text": "bé xíu!"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 45.25,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 45.5,
+     "text": "Một gã dị"
+    },
+    {
+     "t": 46.0,
+     "text": "nhân vừa biết"
+    },
+    {
+     "t": 46.56,
+     "text": "tự rách da"
+    },
+    {
+     "t": 47.22,
+     "text": "rút vuốt xương,"
+    },
+    {
+     "t": 48.22,
+     "text": "vừa mọc mang"
+    },
+    {
+     "t": 48.7,
+     "text": "lông làm ông"
+    },
+    {
+     "t": 49.42,
+     "text": "bố tận tụy,"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 50.11,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 50.36,
+     "text": "đúng là siêu"
+    },
+    {
+     "t": 51.14,
+     "text": "anh hùng kỳ"
+    },
+    {
+     "t": 51.68,
+     "text": "quặc nhất thế"
+    },
+    {
+     "t": 52.16,
+     "text": "giới tự nhiên!"
+    }
+   ]
+  }
+ ]
+}

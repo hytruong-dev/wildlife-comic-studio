@@ -1,0 +1,342 @@
+{
+ "episode_no": 19,
+ "animal": "Thằn Lằn Quỷ Gai",
+ "slug": "tap-19-than-lan-quy-gai",
+ "format": "F4",
+ "persona": "phong_vien_24h",
+ "_angle_from_roadmap": "24h giữa sa mạc Úc: 05:00 Uống sương bằng bàn chân -> 09:00 Đại tiệc 2.500 con kiến -> 13:00 Đầu giả bằng gai đánh lừa kẻ thù -> 17:00 Quả cầu gai phồng to & dáng đi robot -> 21:00 Đổi màu điều nhiệt -> 03:00 Teaser Tập 20 Cá Cung Thủ.",
+ "_shorts_idea_from_roadmap": "Tuyệt kỹ uống nước bằng da bàn chân và biến thành quả cầu gai không thể nuốt trôi!",
+ "nickname": "Chiến Binh Gai Góc",
+ "sources": [
+  "Comanns, P. et al. (2017). Capillary transport of water through the skin of the thorny devil. J. Exp. Biol., 220(17), 3169-3177 (Cơ chế mao dẫn hút nước ngược chiều trọng lực)",
+  "Bentley, P. J., & Blumer, W. F. (1962). Uptake of water by the lizard, Moloch horridus. Nature, 194, 699-700 (Hút nước từ cát ẩm qua da)",
+  "Pianka, E. R. (1986). Ecology and Natural History of Desert Lizards. Princeton University Press (Chế độ ăn 1.000 - 2.500 con kiến đen mỗi ngày)",
+  "Meyers, J. J., & Herrel, A. (2005). Prey capture kinematics of the thorny devil. Amphibia-Reptilia, 26(3), 329-335 (Tốc độ phóng lưỡi dính bắt kiến)",
+  "Withers, P. C., & Dickman, C. R. (1995). The thorny devil Moloch horridus in the Great Victoria Desert. J. R. Soc. West. Aust. (Đầu giả và phồng to cơ thể tự vệ)",
+  "Sherbrooke, W. C. (2003). Introduction to Horned Lizards of North America. UC Press (So sánh cơ chế phòng thủ với thằn lằn sừng)"
+ ],
+ "whisper_prompt": "Thằn Lằn Quỷ Gai, Chiến Binh Gai Góc, Moloch horridus, mao dẫn, Iridomyrmex, sa mạc Úc, Alice Springs, 2.500 con kiến, 45 độ C, bướu gai đầu giả, quả cầu gai, Cá Cung Thủ",
+ "display_fix": {
+  "hai mươi tư giờ": "24 giờ",
+  "Hai mươi tư giờ": "24 giờ",
+  "không năm giờ": "05:00",
+  "Không năm giờ": "05:00",
+  "không chín giờ": "09:00",
+  "Không chín giờ": "09:00",
+  "mười ba giờ": "13:00",
+  "Mười ba giờ": "13:00",
+  "mười bảy giờ": "17:00",
+  "Mười bảy giờ": "17:00",
+  "hai mươi mốt giờ": "21:00",
+  "Hai mươi mốt giờ": "21:00",
+  "không ba giờ": "03:00",
+  "Không ba giờ": "03:00",
+  "bốn mươi lăm độ C": "45°C",
+  "Bốn mươi lăm độ C": "45°C",
+  "năm mươi độ C": "50°C",
+  "Năm mươi độ C": "50°C",
+  "dưới mười độ C": "dưới 10°C",
+  "hai ngàn năm trăm": "2.500",
+  "Hai ngàn năm trăm": "2.500",
+  "một ngàn": "1.000",
+  "Một ngàn": "1.000",
+  "năm ngàn": "5.000",
+  "hai mươi xăng-ti-mét": "20cm",
+  "Hai mươi xăng-ti-mét": "20cm",
+  "mười lăm đến hai mươi xăng-ti-mét": "15-20cm",
+  "ba mét": "3m",
+  "Ba mét": "3m",
+  "hai mét": "2m",
+  "một giây": "1 giây",
+  "ba lần": "3 lần",
+  "hai lần": "2 lần",
+  "gấp hai lần": "gấp 2 lần",
+  "gấp đôi": "gấp đôi",
+  "một trăm phần trăm": "100%",
+  "chín mươi phần trăm": "90%",
+  "hàng triệu năm": "hàng triệu năm",
+  "triệu năm": "triệu năm",
+  "hai ngàn mười bảy": "2017",
+  "một ngàn chín trăm sáu mươi hai": "1962",
+  "Tập hai mươi": "Tập 20",
+  "Mo-lốc": "Moloch",
+  "Hor-ri-đút": "horridus",
+  "I-ri-đô-mia-mếch": "Iridomyrmex",
+  "A-li-xơ Xpơ-rinh": "Alice Springs",
+  "Đin-gô": "Dingo",
+  "Va-ra-nút": "Varanus",
+  "ba mươi lăm độ C": "35°C",
+  "Ba mươi lăm độ C": "35°C",
+  "ba mươi lăm": "35",
+  "chín mươi độ": "90°",
+  "chín mươi": "90",
+  "hai ba nhịp": "2-3 nhịp",
+  "hai ba": "2-3",
+  "năm đến một trăm năm mươi mi-crô-mét": "5-150 μm",
+  "năm mi-crô-mét": "5 μm",
+  "một trăm năm mươi mi-crô-mét": "150 μm",
+  "ba mươi giây": "30 giây",
+  "mười xăng-ti-mét": "10cm",
+  "vài nhịp": "vài nhịp"
+ },
+ "voice": {},
+ "art": {
+  "decor": "thorny desert cacti, sand dunes, water droplets, alarm clock dials, ant trails, golden sunburst rays",
+  "shorts_mascot": "A spunky cute cartoon Thorny Devil lizard covered in yellow-brown pointy thorns, wearing a safari reporter hat and holding a ticking alarm clock",
+  "thumb_bg": "sa mạc cát đỏ Red Centre nước Úc rực lửa dưới ánh mặt trời gay gắt",
+  "thumb_title": [
+   "UỐNG NƯỚC BẰNG BÀN CHÂN?!",
+   "NHẬT KÝ 24H QUỶ GAI"
+  ],
+  "thumb_scene": "chú Thằn Lằn Quỷ Gai hoạt hình to rõ toàn thân phủ đầy gai nhọn sắc bén, đang đứng trên cát đỏ ngửa mặt cười đắc ý, các giọt nước phát sáng đang tự động chảy ngược từ bàn chân lên miệng",
+  "thumb_gag": "góc dưới một chú chó hoang Dingo cắn phải chiếc đầu giả đầy gai đang la oai oái ôm mõm hài hước"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "05:00 SÁNG",
+    "banner_title": "UỐNG NƯỚC BẰNG BÀN CHÂN",
+    "chapter_title": "05:00 Sáng: Tuyệt kỹ uống sương mao dẫn bằng bàn chân",
+    "hook": "KỲ QUAN MAO DẪN NƯỚC NGƯỢC LÊN MIỆNG",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Bíp bíp bíp! Đồng hồ điểm không năm giờ sáng! Phóng viên truyền hình sinh tồn hai mươi tư giờ xin kính chào toàn thể quý vị khán giả! Ngay lúc này, tôi đang có mặt trực tiếp tại chảo lửa sa mạc đỏ rực miền Trung nước Úc, nơi nhiệt độ có thể chênh lệch kinh hoàng từ lạnh thấu xương lúc rạng đông lên tới bốn mươi lăm độ C khi mặt trời lên đỉnh đầu!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Trước mắt chúng ta là một sinh vật có diện mạo kỳ quái và gai góc bậc nhất thế giới tự nhiên! Thân hình chỉ dài vỏn vẹn hai mươi xăng-ti-mét nhưng từ đầu đến đuôi phủ kín hàng trăm chiếc gai nón sắc nhọn như một cỗ xe bọc thép thời Trung cổ! Xin trân trọng giới thiệu: Thằn Lằn Quỷ Gai — quái kiệt sa mạc được giới khoa học mệnh danh bằng cái tên kiêu hãnh: Chiến Binh Gai Góc! [surprise-oh]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Giáo sư ơi! Giữa biển cát khô cằn không có lấy một vũng nước thế này, chú thằn lằn này làm sao giải khát để sống sót ạ?",
+      "cast": "be_con"
+     },
+     {
+      "text": "Khán giả nhí vừa hỏi đúng bí mật chấn động nhất của tạo hóa! Hãy nhìn chiếc camera quay siêu chậm của chúng tôi: Chiến Binh Gai Góc không hề cúi đầu tìm nước, mà nó chỉ việc thong thả bước bốn bàn chân lên nền cát còn hơi ẩm sương đêm! [surprise-wa]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Toàn bộ bề mặt da của Thằn Lằn Quỷ Gai là một mạng lưới các rãnh vi mao dẫn siêu hiển vi đan xen chằng chịt giữa các vảy gai. Theo định luật mao dẫn vật lý, các rãnh này tự động tạo ra một lực hút cực mạnh, hút từng giọt nước sương từ cát ẩm chảy ngược chiều trọng lực! Nước chảy từ móng chân, men theo cẳng chân, chạy dọc bờ bụng, leo qua sống lưng và hội tụ thẳng tắp về hai khóe miệng của nó! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Các nhà vật lý học thuộc Viện nghiên cứu Đức khi đưa lớp da của Thằn Lằn Quỷ Gai vào kính hiển vi điện tử quét đã phải sửng sốt: những rãnh mao dẫn này có bề rộng biến thiên từ năm đến một trăm năm mươi mi-crô-mét, được thiết kế hình học bất đối xứng để nước chỉ có thể chảy một chiều về phía trước mà tuyệt đối không thể chảy ngược lại! Không cần bất kỳ một chiếc máy bơm cơ học hay trái tim co bóp, lực hút liên kết phân tử của nước tự kéo nhau chạy thẳng vào khoang miệng một cách kỳ diệu! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Chú thằn lằn chỉ việc đứng yên một chỗ, nhấp nháy hàm dưới nhịp nhàng như đang thưởng thức cà phê sáng, thế là nước sạch tự động chảy tọt vào họng mà không cần tốn một giọt mồ hôi! Thậm chí nếu bạn nhỏ một giọt nước lên lưng nó, giọt nước ấy cũng tự động chia làn chảy ngược về miệng trong vòng vài giây! Một nhà máy lọc và hút nước tự động gắn liền trên da đỉnh cao đến mức các kỹ sư công nghệ vũ trụ NASA cũng phải ngả mũ bái phục! [laughter]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "09:00 SÁNG",
+    "banner_title": "ĐẠI TIỆC 2500 CON KIẾN",
+    "chapter_title": "09:00 Sáng: Chiếc lưỡi dính và kỷ lục 2.500 con kiến",
+    "hook": "MÁY HÚT KIẾN TỐC ĐỘ CAO SA MẠC",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Đồng hồ điểm không chín giờ sáng! Mặt trời sa mạc bắt đầu nhô cao, nhiệt độ không khí tăng vọt lên ba mươi lăm độ C. Uống đẫm nước xong xuôi, chiếc dạ dày của Chiến Binh Gai Góc bắt đầu réo vang ùng ục, báo hiệu đã đến giờ ăn sáng! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng quý vị có biết thực đơn của quái kiệt này gồm những món gì không? Rất giản dị nhưng cực kỳ khó nuốt: một trăm phần trăm khẩu phần ăn cả đời của nó chỉ là loài kiến đen nhỏ mang tên I-ri-đô-mia-mếch — loài kiến chứa đầy a-xít phoóc-mích độc hại và mùi hôi nồng nặc mà mọi loài động vật khác đều phải lắc đầu né xa!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Chiến Binh Gai Góc lạch bạch bò đến bên cạnh một đường mòn kiến chạy qua bãi cát. Nó ngồi xổm xuống một cách cực kỳ kiên nhẫn hệt như một ông cụ ngồi câu cá bên bờ sông. Và ngay khi đàn kiến hành quân ngang qua, vũ khí bí mật được kích hoạt: chẹp, chẹp, chẹp! Chiếc lưỡi dày phủ đầy chất nhầy siêu dính của nó phóng ra với tốc độ tên lửa, trong một giây có thể thò ra thụt vào tới hai đến ba lần! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ối cứu bọn em với! Bác này bác ấy ngồi ngay cửa hang, bác ấy lia lưỡi một cái là mất tích cả trung đội kiến nhà em rồi cà nhà ơi!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Quý vị thử nghĩ mà xem: a-xít phoóc-mích của kiến đen có thể làm bỏng rát da người và giết chết nhiều loài thú nhỏ, nhưng khi chui vào dạ dày của Chiến Binh Gai Góc thì lại bị trung hòa hoàn toàn bởi một loại dịch nhầy đệm đặc biệt! Nó tiêu hóa đàn kiến ngon lành như chúng ta ăn snack cay giòn rụm! Thậm chí chiếc đuôi của nó còn đóng vai trò như một kho dự trữ mỡ khổng lồ, tích tụ năng lượng từ đống protein kiến để giúp chú thằn lằn nhịn ăn nhiều tháng liền khi mùa khô hạn ập đến! [surprise-oh]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tiếng kêu cứu thất thanh của bầy kiến hoàn toàn bất lực trước máy hút bụi sinh học này! Các nhà nghiên cứu sinh thái học đã đếm từng nhịp nuốt và ghi nhận con số kỷ lục: trong một bữa ăn kéo dài vài tiếng đồng hồ, một chú Thằn Lằn Quỷ Gai có thể nuốt chửng từ một ngàn đến hai ngàn năm trăm con kiến độc! Dạ dày của nó có lớp màng bảo vệ đặc biệt dày dặn để vô hiệu hóa hoàn toàn nọc độc a-xít của đàn kiến, biến chúng thành nguồn năng lượng dồi dào để sinh tồn! [laughter]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "13:00 TRƯA",
+    "banner_title": "CHIẾC ĐẦU GIẢ ĐÁNH LỪA KẺ THÙ",
+    "chapter_title": "13:00 Trưa: Bướu gai đầu giả và nắng cháy 45 độ C",
+    "hook": "CÚ CÚI ĐẦU TỬ THỦ TRƯỚC SÁT THỦ",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Đồng hồ điểm mười ba giờ trưa! Ánh nắng sa mạc như trút lửa xuống mặt đất, nhiệt độ bề mặt cát đo được đã vượt ngưỡng năm mươi độ C! Giữa lúc không khí ngột ngạt đến nghẹt thở, hiểm nguy từ những kẻ săn mồi khát máu bắt đầu ập tới! [surprise-oh]",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Trên bầu trời rực nắng, loài chim săn mồi mắt tinh như dao cạo đang lượn vòng; còn dưới mặt đất, một chú kỳ đà khổng lồ Va-ra-nút dài hai mét đang lùng sục từng bụi cỏ khô tìm kiếm con mồi. Với đôi chân ngắn ngủn di chuyển chậm chạp, Thằn Lằn Quỷ Gai chạy trốn thế nào được trước những sát thủ tốc độ này?",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Nó không thèm chạy trốn! Chiến Binh Gai Góc lập tức kích hoạt tuyệt chiêu đánh lừa thị giác đỉnh cao: Chiếc Đầu Giả Bằng Gai! Quý vị hãy nhìn kỹ vào sau gáy của nó: có một bướu thịt lớn mọc nhô cao với hai chiếc gai sừng to tướng trông y hệt như một chiếc đầu thứ hai!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Khi kẻ địch lao vào tấn công, chú thằn lằn lập tức cúi gục chiếc đầu thật chứa não và mắt giấu kín vào giữa hai chân trước, áp sát mặt xuống đất! Đồng thời, nó ngóc chiếc đầu giả đầy gai nhọn hoắt nhô cao lên không trung để mời gọi kẻ thù cắn vào! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Đứng lại chú thằn lằn nhỏ ơi! Để xem chiếc đầu tròn này có thoát khỏi cú đớp của ta không... Ôi trời đất ơi! Toàn là gai nhọn như đá tảng, cắn một cái suýt gãy cả hàm răng rồi!",
+      "cast": "ga_khong_lo"
+     },
+     {
+      "text": "Cú đớp chí mạng của kẻ săn mồi cắn trúng ngay bướu gai cứng như đá tảng, khiến kẻ tấn công đau đớn nhổ vội ra ngoài trong sự cay đắng tột cùng! Trong khi kẻ săn mồi đang ôm miệng sưng vù la oai oái, đầu thật của Chiến Binh Gai Góc vẫn nguyên vẹn một trăm phần trăm, bình thản ngóc lên nhìn kẻ thù bằng ánh mắt mỉm cười đầy đắc ý! Một pha hy sinh đầu giả cứu đầu thật ngoạn mục không đối thủ! [laughter]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "17:00 HOÀNG HÔN",
+    "banner_title": "QUẢ CẦU GAI & DÁNG ĐI ROBOT",
+    "chapter_title": "17:00 Hoàng hôn: Quả cầu gai phồng to và dáng đi lá khô",
+    "hook": "CHIẾN THUẬT PHÒNG THỦ KHÔNG THỂ NUỐT TRÔI",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Mặt trời ngả về tây, đồng hồ chuyển điểm mười bảy giờ chiều hoàng hôn! Bầu trời sa mạc chuyển sang sắc cam rực lửa đầy ma mị. Nhưng một kẻ săn mồi ranh mãnh khác lại xuất hiện: loài chó hoang Đin-gô hung dữ của châu Úc đang đánh hơi lần theo dấu vết của chú thằn lằn!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Nếu kẻ săn mồi cố tình nuốt trọn cả cơ thể vào bụng thì sao? Chiến Binh Gai Góc lập tức tung ra chiêu phòng thủ thứ hai: Phồng to thành quả cầu gai bọc thép! Nó hít căng không khí vào hai lá phổi, ép cơ hoành phồng to lồng ngực làm kích thước cơ thể phình to gấp đôi bình thường! Hàng trăm chiếc gai nhọn trên lưng vốn dĩ nằm xuôi nay dựng đứng vuông góc chín mươi độ, biến nó thành một quả cầu chông sắt gai góc không có bất kỳ khe hở nào để cắn! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Kẻ săn mồi há miệng to định nuốt chửng nhưng cổ họng lập tức bị những chiếc gai nhọn đâm nghẹn cứng đờ, không tài nào nuốt trôi xuống dạ dày được mà phải nhè vội ra bãi cát! Và sau khi thoát hiểm, quý vị hãy chiêm ngưỡng dáng đi độc nhất vô nhị của quái kiệt này: Dáng đi lá khô đung đưa!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và nếu như cơn bão cát sa mạc khốc liệt bất ngờ nổi lên với những trận cuồng phong mù trời, quái kiệt này còn có một tuyệt chiêu đào hầm thần tốc! Bốn bàn chân có móng vuốt cong sắc nhọn của nó cào cát xoay tròn như bốn chiếc máy xúc mini, chỉ mất vỏn vẹn ba mươi giây là toàn bộ thân hình gai góc đã lặn mất tăm dưới lòng cát đỏ sâu mười xăng-ti-mét, bình an vô sự mặc cho bão táp gầm rú trên đầu! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nó bước một chân lên phía trước, rồi dừng lại giật cục, lắc lư thân mình tới lui hai ba nhịp như một cành cây khô đu đưa trước gió rồi mới bước tiếp bước thứ hai! Dáng đi robot giật cục này hòa lẫn hoàn hảo vào chuyển động của cỏ cây sa mạc, làm hệ thống thị giác bắt chuyển động của chim săn mồi hoàn toàn bị mất dấu mục tiêu! Vừa bọc thép gai góc, vừa biết tàng hình bằng vũ điệu giật cục, đúng là bậc thầy phòng thủ số một thiên nhiên! [laughter]",
+      "mood": "am_ap"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "21:00 ĐÊM",
+    "banner_title": "TẮC KÈ HOA ĐỔI MÀU NHIỆT",
+    "chapter_title": "21:00 Đêm: Đổi màu điều hòa nhiệt độ giữa sa mạc lạnh buốt",
+    "hook": "BỘ ÁO GIÁP TẮC KÈ ĐỔI MÀU THÔNG MINH",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Màn đêm sa mạc buông xuống, đồng hồ điểm hai mươi mốt giờ đêm! Cát sa mạc tỏa nhiệt cực nhanh khiến nhiệt độ tụt dốc không phanh từ bốn mươi lăm độ C ban ngày rơi thẳng xuống dưới mười độ C lạnh buốt xương tủy! Giữa sự khắc nghiệt điên rồ ấy, Chiến Binh Gai Góc lại tiếp tục biểu diễn tuyệt kỹ thứ ba: Biến hóa màu sắc như tắc kè hoa! [surprise-oh]",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Vào buổi trưa nắng cháy, làn da của nó chuyển sang màu vàng cát nhạt hoặc xám sáng để phản xạ tối đa ánh sáng mặt trời, giúp cơ thể không bị sốc nhiệt nấu chín. Nhưng khi đêm lạnh tràn về, các tế bào sắc tố dưới da lập tức giãn nở, đổi màu toàn bộ cơ thể sang màu nâu sẫm, xám đen và đất đỏ thẫm!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Màu da đen tối này giúp nó hấp thụ từng tia nhiệt lượng tàn dư cuối cùng của mặt đất, giữ ấm cho các cơ quan nội tạng suốt đêm dài. Đồng thời, màu sắc đất đỏ này ngụy trang nó hòa lẫn hoàn hảo vào màu cát sa mạc Red Centre nước Úc, khiến những con cú đêm hay rắn độc bò ngang qua cũng chỉ nhìn thấy một cục đá vô tri vô giác!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Đặc biệt vào những tháng mùa đông băng giá của sa mạc miền Trung nước Úc, Thằn Lằn Quỷ Gai sẽ bước vào trạng thái ngủ đông đặc biệt. Toàn bộ quá trình trao đổi chất của nó giảm xuống mức tối thiểu, nhịp tim đập chậm lại chỉ còn vài nhịp mỗi phút để tiết kiệm từng giọt năng lượng quý giá! Nó nằm bất động dưới lòng đất cát, kiên nhẫn chờ đợi cho đến khi ánh nắng xuân ấm áp đánh thức nó bước vào một chu kỳ sinh tồn mới rực rỡ! [surprise-oh]",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Và quý vị có biết nhiều người từng đồn thổi loài này có tài bắn máu từ mắt không? Khoa học xin đính chính: bắn máu từ mắt là vũ khí của thằn lằn sừng châu Mỹ; còn Thằn Lằn Quỷ Gai nước Úc hoàn toàn không cần bắn máu, vì bộ giáp gai thép và chiếc đầu giả của nó đã quá đủ để khiến mọi kẻ săn mồi phải bỏ chạy mất dép rồi! [laughter]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "03:00 RẠNG SÁNG",
+    "banner_title": "BÀI HỌC VÀ BÓNG ĐEN TẬP 20",
+    "chapter_title": "03:00 Rạng sáng: Bản lĩnh sinh tồn đỉnh cao và bóng đen Tập 20",
+    "hook": "BẬT MÍ BÓNG ĐEN BÍ ẨN CỦA QUÁI KIỆT TẬP 20",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Đồng hồ điểm không ba giờ rạng sáng! Những luồng gió buốt lạnh thổi qua cồn cát hoang vu, khép lại hai mươi tư giờ tác nghiệp nghẹt thở theo chân Chiến Binh Gai Góc. Một sinh vật nhỏ bé không có nanh nhọn, không có nọc độc, chạy chậm như rùa nhưng đã kiên cường ngự trị giữa sa mạc khô cằn khắc nghiệt nhất hành tinh qua hàng triệu năm lịch sử!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Biến làn da thành rãnh hút nước, biến đầu giả thành bia đỡ đạn, biết cuộn tròn phòng thủ và kiên nhẫn với con đường của riêng mình, đó chính là bài học sinh tồn vĩ đại mà tự nhiên ban tặng cho chúng ta! Chậm chạp nhưng không hề yếu đuối, gai góc để tự vệ chứ không hại ai!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Hành trình hai mươi tư giờ cùng Thằn Lằn Quỷ Gai đã chính thức khép lại! Nhưng ngay lúc này, xin mời toàn thể quý vị khán giả hãy hướng mắt lên màn hình lớn để giải mã BÓNG ĐEN BÍ ẨN của nhân vật xuất hiện trong Tập hai mươi cột mốc tiếp theo! [surprise-oh]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Xin gửi tới quý vị ba manh mối chấn động về bóng đen bí ẩn này: Thứ nhất, đây là siêu xạ thủ bắn tỉa thiên tài bậc nhất thế giới loài cá, sở hữu tuyệt chiêu nén tia nước bắn hạ con mồi đang đậu trên cành cây cao cách xa tới ba mét! Thứ hai, bộ não thiên tài có khả năng tự động tính toán độ lệch khúc xạ ánh sáng giữa nước và không khí chính xác đến từng mi-li-mét! Và thứ ba, khẩu đại bác nước nén trong rãnh vòm miệng với áp lực nước cực mạnh làm rách toạc cánh côn trùng rơi tõm xuống nước làm mồi! [laughter]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Quý vị khán giả có nhận ra bóng đen xạ thủ bắn tỉa dưới nước này là loài cá nào không? Hãy để lại phán quyết và dự đoán của bạn ngay dưới phần bình luận nhé! Phóng viên sinh tồn hai mươi tư giờ xin chào tạm biệt và hẹn gặp lại quý vị trong tập tiếp theo!",
+      "mood": "hao_hung"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "text": "[surprise-oh] Không năm giờ sáng giữa sa mạc Úc cháy bỏng! Một sinh vật không cần cúi đầu mà vẫn có thể uống nước ngọt lành chỉ bằng cách dẫm bàn chân lên cát ẩm! Đó chính là Thằn Lằn Quỷ Gai, quái kiệt bọc thép dài hai mươi xăng-ti-mét của lục địa nắng cháy. Làn da của nó phủ đầy mạng lưới rãnh mao dẫn siêu nhỏ, tự động hút từng giọt sương mai từ bàn chân chảy ngược chiều trọng lực dọc theo sống lưng chạy thẳng vào miệng! [surprise-wa] Mỗi ngày, nó kiên nhẫn nuốt chửng tới hai ngàn năm trăm con kiến đen độc hại bằng chiếc lưỡi dính siêu tốc. Khi bị kẻ săn mồi tấn công, nó cúi gục đầu thật xuống đất và chìa chiếc bướu gai đầu giả sắc nhọn sau gáy ra ngoài lừa kẻ thù cắn rách mồm! [laughter] Chưa hết, nó còn có thể hít khí phồng to cơ thể gấp đôi thành quả cầu gai bọc thép không kẻ nào nuốt trôi! Vậy là bí mật đã sáng tỏ: một cỗ xe tăng tí hon với bản lĩnh sinh tồn đỉnh cao ngự trị chảo lửa sa mạc suốt hàng triệu năm qua!",
+  "target_s": 53.0,
+  "mood": "hao_hung"
+ },
+ "seo": {
+  "title": "Tại Sao Thằn Lằn Quỷ Gai Uống Nước Bằng... Bàn Chân?! | Thằn Lằn Quỷ Gai | Tập 19",
+  "hook_paragraph": "Thằn Lằn Quỷ Gai hút nước từ bàn chân chảy ngược lên miệng qua mao dẫn, nuốt 2.500 con kiến đen mỗi ngày và sở hữu chiếc đầu giả gai nhọn lừa kẻ săn mồi! Khám phá nhật ký sinh tồn 24 giờ của Chiến Binh Gai Góc giữa sa mạc nước Úc.",
+  "bullets": [
+   "Hiện tượng mao dẫn kỳ diệu: Da hút nước từ cát ẩm chảy ngược lên khóe miệng",
+   "Đại tiệc 2.500 con kiến đen độc hại bằng chiếc lưỡi dính siêu tốc",
+   "Chiếc bướu gai đầu giả đánh lừa kẻ săn mồi cắn rách mồm",
+   "Phồng to thành quả cầu gai bọc thép và dáng đi giật cục như lá khô"
+  ],
+  "question": "Bạn có đoán ra BÓNG ĐEN BÍ ẨN ở cuối video là sinh vật nào không? (Gợi ý: Siêu xạ thủ bắn tỉa nén tia nước bắn rơi côn trùng cách 3m, tính góc khúc xạ ánh sáng). Bình luận dự đoán nhé!",
+  "next_teaser": "Bóng đen bí ẩn — siêu xạ thủ bắn tỉa tia nước 3m và thuật toán khúc xạ ánh sáng đỉnh cao",
+  "hashtags": [
+   "#ThanLanQuyGai #ThornyDevil #TheGioiDongVat #VeChuyenHoangDa #KhoaHoc"
+  ],
+  "tags": [
+   "thằn lằn quỷ gai",
+   "than lan quy gai",
+   "thorny devil",
+   "thằn lằn uống nước bằng chân",
+   "thằn lằn quỷ gai sa mạc úc",
+   "động vật sa mạc",
+   "thế giới động vật",
+   "động vật kỳ lạ",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị",
+   "nhật ký 24 giờ"
+  ],
+  "shorts_title": "Tại Sao Thằn Lằn Quỷ Gai Uống Nước Bằng... Bàn Chân?! 🦎 #shorts #thanlanquygai",
+  "shorts_desc": "Thằn Lằn Quỷ Gai hút nước từ chân chảy ngược lên miệng, ăn 2.500 con kiến độc và sở hữu chiếc đầu giả lừa sát thủ! Khám phá Chiến Binh Gai Góc sa mạc Úc! 🦎🌵",
+  "shorts_tags": [
+   "thằn lằn quỷ gai",
+   "thorny devil",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã",
+   "động vật kỳ lạ"
+  ],
+  "en_title": "Why Does the Thorny Devil Drink Water with Its Feet?! | Thorny Devil | Ep 19",
+  "en_desc": "The Thorny Devil drinks dew by standing on moist sand as capillary skin channels pull water upward against gravity directly into its mouth! It feasts on 2,500 toxic ants daily and uses a spiked false head to trick predators. Explore the 24-hour survival diary of the Australian desert's armored master.\n\nCHAPTERS:\n00:00 Intro\n00:10 05:00 AM: Capillary Water Harvesting Through Foot Skin\n01:34 09:00 AM: The 2,500 Toxic Ant Feast with Sticky Tongue\n02:53 01:00 PM: The Spiked False Head in 45°C Scorching Heat\n04:14 05:00 PM: Inflatable Spiky Ball & Jerky Leaf Dance\n05:49 09:00 PM: Thermal Color Shift Under Freezing Desert Night\n07:22 03:00 AM: Desert Survival Lessons & Episode 20 Mystery Silhouette\n09:06 Ending\n\nWild Tales Sketch (Vẽ Chuyện Hoang Dã) explains real, fact-checked animal science with funny hand-drawn whiteboard animation. Narration is in Vietnamese: turn on CC and choose Auto-translate for subtitles in your language.\n\n#WildTalesSketch #ThornyDevil #AnimalFacts #WhiteboardAnimation #FunnyAnimals",
+  "en_shorts_title": "Why Does the Thorny Devil Drink with Its Feet?! 🦎 #shorts #thornydevil",
+  "en_shorts_desc": "The Thorny Devil absorbs water through foot skin directly into its mouth, eats 2,500 ants, and deploys a spiked false head! Discover the Australian desert warrior! 🦎🌿\n\n#shorts #ThornyDevil #AnimalFacts #WildTalesSketch"
+ }
+}

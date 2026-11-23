@@ -1,0 +1,553 @@
+{
+  "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+  "targets": {},
+  "scenes": {
+    "scene01": {
+      "chapter_no": 1,
+      "title": "CON CÁ CHÁN BIỂN LÊN CẠN LEO TRÈO",
+      "hook": "CÁ BIỂN LÊN BỜ ĐI DẠO VÀ LEO CÂY NHƯ VƯỢN",
+      "card": false,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L01.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Bệnh nhân hôm nay của",
+          "image": "assets/long/L02.png",
+          "stickers": [],
+          "impacts": [
+            "sợ nước"
+          ]
+        },
+        {
+          "at": "Bệnh nhân mang mã số",
+          "image": "assets/long/L03.png",
+          "stickers": [
+            {
+              "at": "42",
+              "side": "R",
+              "y": 380,
+              "value": "SỐ 42",
+              "label": "bệnh nhân chán biển",
+              "target": [
+                0.75,
+                0.5
+              ]
+            }
+          ],
+          "impacts": [
+            "Bệnh nhân chán biển"
+          ]
+        },
+        {
+          "at": "Trong khi hàng triệu loài",
+          "image": "assets/long/L04.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Chiều dài cơ thể của",
+          "image": "assets/long/L05.png",
+          "stickers": [
+            {
+              "at": "15-20cm",
+              "side": "R",
+              "y": 360,
+              "value": "15-20 CM",
+              "label": "chiều dài cơ thể",
+              "target": [
+                0.75,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Nhưng nhìn vào hai mắt",
+          "image": "assets/long/L06.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Bác sĩ ơi, con cá này",
+          "image": "assets/long/L06b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Đúng như cô trợ lý",
+          "image": "assets/long/L07.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Hôm nay, hồ sơ bệnh",
+          "image": "assets/long/L08.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "BỆNH ÁN #01"
+    },
+    "scene02": {
+      "chapter_no": 2,
+      "title": "NGHỊCH LÝ CON CÁ CÓ THỂ CHẾT ĐUỐI DƯỚI NƯỚC",
+      "hook": "BỊ ÉP Ở DƯỚI NƯỚC SẼ BỊ NGẠT THỞ CHẾT ĐUỐI",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L09.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nhưng nếu bạn nhốt",
+          "image": "assets/long/L09b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Gã sẽ ngạt thở và",
+          "image": "assets/long/L10.png",
+          "stickers": [],
+          "impacts": [
+            "ngạt thở"
+          ]
+        },
+        {
+          "at": "Nguyên nhân y khoa nằm",
+          "image": "assets/long/L11.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "các lá mang dưới nước",
+          "image": "assets/long/L11b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Để sinh tồn trên cạn,",
+          "image": "assets/long/L12.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Toàn bộ bề mặt da",
+          "image": "assets/long/L13.png",
+          "stickers": [
+            {
+              "at": "50-60%",
+              "side": "L",
+              "y": 360,
+              "value": "50-60%",
+              "label": "oxy hấp thụ qua da",
+              "target": [
+                0.25,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Chú cá con hỏi câu",
+          "image": "assets/long/L14.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Hai nắp mang phồng to",
+          "image": "assets/long/L15.png",
+          "stickers": [],
+          "impacts": [
+            "bình giữ nước"
+          ]
+        },
+        {
+          "at": "Lượng nước dự trữ này",
+          "image": "assets/long/L16.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Thậm chí trong khoang miệng",
+          "image": "assets/long/L17.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Một công nghệ khóa kín",
+          "image": "assets/long/L18.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Đặc biệt hơn nữa, chiếc",
+          "image": "assets/long/L19.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "gã thường thả lỏng chóp đuôi",
+          "image": "assets/long/L19b.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Một sự thích nghi lưỡng",
+          "image": "assets/long/L20.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "BỆNH ÁN #02"
+    },
+    "scene03": {
+      "chapter_no": 3,
+      "title": "TUYỆT KỸ CHỚP MẮT TỤT XUỐNG HỌNG ĐỂ NUỐT MỒI",
+      "hook": "DÙNG NHÃN CẦU MẮT LÀM PIT-TÔNG ĐẨY THỨC ĂN",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L21.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nhưng Cá Thòi Lòi lại",
+          "image": "assets/long/L22.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Vì sống trên cạn giữa",
+          "image": "assets/long/L23.png",
+          "stickers": [
+            {
+              "at": "40°C",
+              "side": "R",
+              "y": 360,
+              "value": "40°C",
+              "label": "nắng gắt bãi lầy",
+              "target": [
+                0.75,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Gã co rút cơ mặt,",
+          "image": "assets/long/L24.png",
+          "stickers": [],
+          "impacts": [
+            "nhãn cầu"
+          ]
+        },
+        {
+          "at": "Mỗi khi gã thụt mắt",
+          "image": "assets/long/L25.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nhưng phát hiện chấn động",
+          "image": "assets/long/L26.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Vì sống trên cạn nên",
+          "image": "assets/long/L27.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Mỗi khi đớp được một",
+          "image": "assets/long/L28.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Đáy nhãn cầu đóng vai",
+          "image": "assets/long/L29.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nghĩa là trên đời này,",
+          "image": "assets/long/L30.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Chưa dừng lại ở đó,",
+          "image": "assets/long/L31.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Bất kỳ kẻ thù nào",
+          "image": "assets/long/L32.png",
+          "stickers": [
+            {
+              "at": "3 mét",
+              "side": "R",
+              "y": 360,
+              "value": "3 MÉT",
+              "label": "bán kính radar 360°",
+              "target": [
+                0.75,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        }
+      ],
+      "badge": "BỆNH ÁN #03"
+    },
+    "scene04": {
+      "chapter_no": 4,
+      "title": "ĐÔI VÂY NGỰC BIẾN TÍNH THÀNH HAI CÁNH TAY LEO TRÈO",
+      "hook": "VÂY NGỰC CÓ KHỚP KHUỶU TAY NHƯ ĐỘNG VẬT BỐN CHÂN",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L33.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Cấu trúc xương bên trong",
+          "image": "assets/long/L34.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Cặp vây ngực này có",
+          "image": "assets/long/L35.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Dưới bụng của gã còn",
+          "image": "assets/long/L36.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Bé con vừa chứng kiến",
+          "image": "assets/long/L37.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Cú phóng này hất tung",
+          "image": "assets/long/L38.png",
+          "stickers": [
+            {
+              "at": "4 lần",
+              "side": "L",
+              "y": 360,
+              "value": "GẤP 4 LẦN",
+              "label": "khoảng cách nhảy xa",
+              "target": [
+                0.25,
+                0.5
+              ]
+            },
+            {
+              "at": "1 mét",
+              "side": "R",
+              "y": 360,
+              "value": "1 MÉT",
+              "label": "cú búng đuôi lò xo",
+              "target": [
+                0.75,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Vào mùa giao phối, tuyệt",
+          "image": "assets/long/L39.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Kẻ nào nhảy cao hơn",
+          "image": "assets/long/L40.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Một con cá dài",
+          "image": "assets/long/L41.png",
+          "stickers": [
+            {
+              "at": "20cm",
+              "side": "L",
+              "y": 360,
+              "value": "20 CM",
+              "label": "chiều dài cơ thể",
+              "target": [
+                0.25,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Nếu đem so tỷ lệ",
+          "image": "assets/long/L42.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "BỆNH ÁN #04"
+    },
+    "scene05": {
+      "chapter_no": 5,
+      "title": "CÔNG TRÌNH HANG BÙN HÌNH CHỮ Y VÀ TÚI KHÍ NUÔI CON",
+      "hook": "ĐÀO HANG SÂU 2 MÉT VÀ NỞ TRỨNG TRONG TÚI KHÍ NGẦM",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L43.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Gã dùng chính chiếc miệng",
+          "image": "assets/long/L44.png",
+          "stickers": [
+            {
+              "at": "2 mét",
+              "side": "L",
+              "y": 360,
+              "value": "2 MÉT",
+              "label": "địa đạo ngầm chữ Y",
+              "target": [
+                0.25,
+                0.5
+              ]
+            }
+          ],
+          "impacts": []
+        },
+        {
+          "at": "Để miệng hang không bị",
+          "image": "assets/long/L45.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Đáy hang ngập ngụa trong",
+          "image": "assets/long/L46.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nhưng chú cá thòi lòi",
+          "image": "assets/long/L47.png",
+          "stickers": [],
+          "impacts": [
+            "búng không khí"
+          ]
+        },
+        {
+          "at": "Gã bơi lên mặt cạn,",
+          "image": "assets/long/L48.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Gã miệt mài thực hiện",
+          "image": "assets/long/L49.png",
+          "stickers": [],
+          "impacts": [
+            "túi khí ngầm"
+          ]
+        },
+        {
+          "at": "Suốt nhiều tuần lễ ấp",
+          "image": "assets/long/L50.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "BỆNH ÁN #05"
+    },
+    "scene06": {
+      "chapter_no": 6,
+      "title": "DỞ DANG NHƯNG LÀ BƯỚC CHUYỂN MÌNH LỊCH SỬ",
+      "hook": "BÀI HỌC CUỘC SỐNG VÀ THÁCH THỨC ĐOÁN TẬP 43",
+      "card": true,
+      "beats": [
+        {
+          "at": 0,
+          "image": "assets/long/L51.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Gã là hình bóng sống",
+          "image": "assets/long/L52.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Đôi khi trong cuộc sống,",
+          "image": "assets/long/L53.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Chính sự khác biệt nửa",
+          "image": "assets/long/L54.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Nếu được sinh ra với",
+          "image": "assets/long/L55.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Còn bây giờ, hãy chuẩn",
+          "image": "assets/long/L56.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "Một kẻ sát nhân khoác",
+          "image": "assets/long/L57.png",
+          "stickers": [],
+          "impacts": []
+        },
+        {
+          "at": "chuyên thực hiện ca châm kim",
+          "image": "assets/long/L57b.png",
+          "stickers": [],
+          "impacts": []
+        }
+      ],
+      "badge": "BẢN TỔNG KẾT"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "scene_id": "scene03",
+  "duration_ms": 108941,
+  "canvas_size": [
+    1280,
+    720
+  ],
+  "header": {
+    "box": [
+      281,
+      12,
+      999,
+      57
+    ],
+    "x": 309,
+    "y": 22,
+    "w": 662,
+    "h": 25,
+    "text": "PHẦN 3: VŨ KHÍ TỰ NHIÊN & KỸ NĂNG CHIẾN ĐẤU ĐỘC NHẤT"
+  },
+  "panels": [
+    {
+      "id": "panel_left",
+      "start_ms": 0,
+      "end_ms": 52291,
+      "box": [
+        25,
+        75,
+        620,
+        705
+      ],
+      "color": [
+        140,
+        50,
+        160
+      ],
+      "header_bg": [
+        250,
+        242,
+        255
+      ],
+      "header_title": {
+        "text": "1. TUYỆT KỸ XOAY 180 ĐỘ TRONG BAO DA PHẢN ĐÒN",
+        "x": 41,
+        "y": 85,
+        "w": 428,
+        "h": 19,
+        "color": [
+          140,
+          50,
+          160
+        ]
+      },
+      "img_region": {
+        "x": 37,
+        "y": 127,
+        "width": 571,
+        "height": 456
+      },
+      "text_lines": []
+    },
+    {
+      "id": "panel_right",
+      "start_ms": 52291,
+      "end_ms": 108941,
+      "box": [
+        660,
+        75,
+        1255,
+        705
+      ],
+      "color": [
+        217,
+        80,
+        30
+      ],
+      "header_bg": [
+        255,
+        246,
+        240
+      ],
+      "header_title": {
+        "text": "2. MÓNG VUỐT 5CM, HÀM NGHIỀN RÙA & KHÍ GAS XẠ HƯƠNG",
+        "x": 676,
+        "y": 86,
+        "w": 486,
+        "h": 18,
+        "color": [
+          217,
+          80,
+          30
+        ]
+      },
+      "img_region": {
+        "x": 678,
+        "y": 127,
+        "width": 509,
+        "height": 568
+      },
+      "text_lines": []
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+ "episode": "tap-38-de-nui-bac-my",
+ "title_lines": [
+  "VUA TRỌNG LỰC 90 ĐỘ",
+  "BÍ KÍP VÁCH ĐÁ TỬ THẦN?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 43.82,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-38-de-nui-bac-my_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  6.83,
+  11.23,
+  16.47,
+  19.45,
+  22.61,
+  25.79,
+  28.95,
+  30.39,
+  32.31,
+  36.73,
+  41.71
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.96,
+     "text": "Bạn có tin"
+    },
+    {
+     "t": 1.42,
+     "text": "trên Trái Đất"
+    },
+    {
+     "t": 2.04,
+     "text": "có một loài"
+    },
+    {
+     "t": 2.56,
+     "text": "động vật nặng"
+    },
+    {
+     "t": 3.16,
+     "text": "tới 140 kg"
+    },
+    {
+     "t": 4.48,
+     "text": "nhưng có"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 5.03,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 5.12,
+     "text": "thể đứng vững"
+    },
+    {
+     "t": 5.66,
+     "text": "trên vách đá"
+    },
+    {
+     "t": 6.22,
+     "text": "dựng đứng 90°"
+    },
+    {
+     "t": 7.24,
+     "text": "nhẵn thín không?"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 9.43,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 9.68,
+     "text": "Đó chính là"
+    },
+    {
+     "t": 10.24,
+     "text": "Dê Núi Bắc"
+    },
+    {
+     "t": 10.7,
+     "text": "Mỹ — Vua"
+    },
+    {
+     "t": 11.46,
+     "text": "Trọng Lực 90°"
+    },
+    {
+     "t": 12.38,
+     "text": "vô địch thiên"
+    },
+    {
+     "t": 12.92,
+     "text": "nhiên! Bí mật"
+    },
+    {
+     "t": 14.04,
+     "text": "chấn động nằm"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 14.67,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 14.76,
+     "text": "ở bộ móng"
+    },
+    {
+     "t": 15.3,
+     "text": "guốc chẻ đôi"
+    },
+    {
+     "t": 16.02,
+     "text": "kẹp gờ đá"
+    },
+    {
+     "t": 16.62,
+     "text": "như kìm bấm"
+    },
+    {
+     "t": 17.18,
+     "text": "thủy lực,"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 17.65,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 17.9,
+     "text": "kết hợp cùng"
+    },
+    {
+     "t": 18.34,
+     "text": "lớp đệm thịt"
+    },
+    {
+     "t": 19.04,
+     "text": "cao su ma"
+    },
+    {
+     "t": 19.62,
+     "text": "sát cực đại"
+    },
+    {
+     "t": 20.2,
+     "text": "có độ bám"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 20.81,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 20.8,
+     "text": "dính gấp 3"
+    },
+    {
+     "t": 21.66,
+     "text": "lần đế giày"
+    },
+    {
+     "t": 22.3,
+     "text": "leo núi chuyên nghiệp!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 23.99,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 24.24,
+     "text": "Khi gặp ngõ"
+    },
+    {
+     "t": 24.74,
+     "text": "cụt giữa vực"
+    },
+    {
+     "t": 25.34,
+     "text": "sâu ngàn mét,"
+    },
+    {
+     "t": 26.5,
+     "text": "nó có thể tung"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 27.15,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 27.18,
+     "text": "mình nhảy xa"
+    },
+    {
+     "t": 27.9,
+     "text": "4m và"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 28.59,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 28.84,
+     "text": "búng tường xoay"
+    },
+    {
+     "t": 29.6,
+     "text": "người 180°"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 30.51,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 30.56,
+     "text": "chỉ trong nửa"
+    },
+    {
+     "t": 31.2,
+     "text": "giây! Thậm chí,"
+    },
+    {
+     "t": 33.52,
+     "text": "loài dê này"
+    },
+    {
+     "t": 34.58,
+     "text": "còn thong"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 34.93,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 34.98,
+     "text": "dong leo thẳng"
+    },
+    {
+     "t": 35.54,
+     "text": "lên các bức"
+    },
+    {
+     "t": 36.02,
+     "text": "tường đập thủy"
+    },
+    {
+     "t": 36.68,
+     "text": "điện dốc đứng"
+    },
+    {
+     "t": 37.28,
+     "text": "cao hàng trăm"
+    },
+    {
+     "t": 37.86,
+     "text": "mét chỉ để"
+    },
+    {
+     "t": 38.56,
+     "text": "liếm từng vệt"
+    },
+    {
+     "t": 39.18,
+     "text": "muối khoáng!"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 39.91,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 40.16,
+     "text": "Quả là bậc"
+    },
+    {
+     "t": 40.82,
+     "text": "thầy khinh công"
+    },
+    {
+     "t": 41.68,
+     "text": "thách thức mọi"
+    },
+    {
+     "t": 42.32,
+     "text": "định luật vật"
+    },
+    {
+     "t": 42.84,
+     "text": "lý của Newton!"
+    }
+   ]
+  }
+ ]
+}

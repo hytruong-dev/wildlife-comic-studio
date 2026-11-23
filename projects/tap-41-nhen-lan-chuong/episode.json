@@ -1,0 +1,322 @@
+{
+ "episode_no": 41,
+ "animal": "Nhện Lặn Chuông",
+ "slug": "tap-41-nhen-lan-chuong",
+ "format": "F2",
+ "persona": "ky_su_vu_khi",
+ "nickname": "Thuyền Trưởng Tàu Ngầm Tơ",
+ "sources": [
+  "Seymour, R. S., & Hetz, S. K. (2011). The diving bell and the spider: the physical gill of Argyroneta aquatica. J. Exp. Biol., 214(13), 2175-2181 (Cơ chế mang nhân tạo thẩm thấu oxy và kéo dài thời gian lặn hơn 24 giờ)",
+  "Schütz, D., & Taborsky, M. (2003). Adaptations to an aquatic life may be responsible for the reversed sexual size dimorphism in the water spider, Argyroneta aquatica. Evol. Ecol. Res., 5(1), 105-117 (Con đực to hơn con cái 30% để di chuyển và bảo vệ chuông lặn)",
+  "Masumoto, T. et al. (1998). Water spider Argyroneta aquatica creates a dome of silk beneath water plants. Anim. Behav., 56, 1223-1229 (Lông kỵ nước quặp bóng khí và dệt mạng tơ neo vào rong rêu)",
+  "Schuett, W. et al. (2010). Male water spiders, Argyroneta aquatica, are larger than females. Naturwissenschaften, 97(6), 621-625 (Tập tính giao phối và cấu trúc buồng trứng trong chuông)",
+  "Bakker, T. C. et al. (2006). Overwintering of the water spider Argyroneta aquatica. J. Arachnol., 34(3), 567-573 (Ngủ đông dưới đáy bùn trong chuông tơ bịt kín ở 0°C)"
+ ],
+ "whisper_prompt": "Nhện Lặn Chuông, Thuyền Trưởng Tàu Ngầm Tơ, Argyroneta aquatica, Seymour, Hetz, mang nhân tạo, oxy, nitơ, 24 giờ, 30%, 15mm, 0°C, Cá Thòi Lòi",
+ "display_fix": {
+  "năm mươi ngàn": "50.000",
+  "Năm mươi ngàn": "50.000",
+  "hai mươi tư giờ": "24 giờ",
+  "Hai mươi tư giờ": "24 giờ",
+  "hai mươi tư trên bảy": "24/7",
+  "Hai mươi tư trên bảy": "24/7",
+  "ba mươi phần trăm": "30%",
+  "Ba mươi phần trăm": "30%",
+  "ba mươi phút": "30 phút",
+  "Ba mươi phút": "30 phút",
+  "mười đến mười lăm mi-li-mét": "10-15mm",
+  "Mười đến mười lăm mi-li-mét": "10-15mm",
+  "tám đến mười ba mi-li-mét": "8-13mm",
+  "Tám đến mười ba mi-li-mét": "8-13mm",
+  "năm mươi đến một trăm quả trứng": "50-100 trứng",
+  "Năm mươi đến một trăm quả trứng": "50-100 trứng",
+  "năm mươi đến một trăm": "50-100",
+  "Năm mươi đến một trăm": "50-100",
+  "một đến hai ngày": "1-2 ngày",
+  "Một đến hai ngày": "1-2 ngày",
+  "mỗi ngày một lần": "mỗi ngày 1 lần",
+  "thứ hai": "thứ 2",
+  "Thứ hai": "Thứ 2",
+  "không độ C": "0°C",
+  "Không độ C": "0°C",
+  "bốn mươi mốt": "41",
+  "Bốn mươi mốt": "41",
+  "bốn mươi hai": "42",
+  "Bốn mươi hai": "42",
+  "Tập bốn mươi mốt": "Tập 41",
+  "Tập bốn mươi hai": "Tập 42",
+  "Tập bốn mươi": "Tập 40",
+  "số bốn mươi mốt": "số 41",
+  "Số bốn mươi mốt": "Số 41",
+  "Ar-gy-ro-ne-ta": "Argyroneta",
+  "A-qua-ti-ca": "aquatica",
+  "Sey-mour": "Seymour",
+  "Hetz": "Hetz",
+  "Ni-tơ": "Nitơ",
+  "cac-bo-nic": "CO2",
+  "hai mươi": "20",
+  "ba mươi": "30",
+  "bốn mươi": "40",
+  "năm mươi": "50",
+  "sáu mươi": "60",
+  "bảy mươi": "70",
+  "tám mươi": "80",
+  "chín mươi": "90",
+  "một trăm": "100",
+  "năm trăm": "500",
+  "một ngàn": "1.000",
+  "hàng ngàn": "hàng ngàn",
+  "hàng triệu": "hàng triệu",
+  "gấp đôi": "gấp đôi",
+  "gấp ba": "gấp ba"
+ },
+ "voice": {
+  "speed": 1.05,
+  "tempo_long": 1.12
+ },
+ "art": {
+  "decor": "brass steampunk pressure gauges, glowing water bubbles, copper submarine rivets, and underwater silk webbing",
+  "shorts_mascot": "A tiny adorable cartoon diving bell spider wearing a vintage brass diving helmet and captain hat, hugging a glowing spherical air bubble",
+  "thumb_bg": "deep mysterious freshwater pond bottom in Prussian Blue with bioluminescent aqua water bubbles, submerged moss, and vintage nautical brass gear frames",
+  "thumb_title": [
+   "TÀU NGẦM TƠ NHỆN?!",
+   "SỐNG 24H DƯỚI NƯỚC"
+  ],
+  "thumb_scene": "a charismatic cartoon water spider dressed as a retro submarine captain with glowing green goggles, floating inside a translucent glowing crystal air bubble dome anchored with golden silk ropes, triumphantly smiling",
+  "thumb_gag": "a tiny curious minnow fish outside tapping on the bubble with a tiny wrench and confused spiral eyes"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "HỒ SƠ TỐI MẬT",
+    "banner_title": "TÀU NGẦM TƠ NHỆN ĐÁY HỒ",
+    "chapter_title": "Hồ sơ kỹ thuật: Loài nhện duy nhất sống cả đời dưới nước",
+    "hook": "THỞ BẰNG PHỔI NHƯNG SỐNG CẢ ĐỜI DƯỚI ĐÁY NƯỚC",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Báo cáo thử nghiệm kỹ thuật hàng hải sinh học tối mật cấp độ đỏ! Toàn thể đội ngũ công trình sư hãy đeo kính lặn bảo hộ và kích hoạt đồng hồ đo áp suất, bởi vì cỗ máy sinh học mà chúng ta giải mã hôm nay sẽ phá vỡ mọi quy chuẩn tiến hóa trên Trái Đất. [surprise-oh] Quên đi những tàu ngầm hạt nhân bọc thép titan ngàn tấn của con người, hãy nhìn xuống một bụi rong đuôi chó tĩnh lặng dưới đáy hồ nước ngọt!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Đối tượng mang mã định danh số bốn mươi mốt của chúng ta có tên khoa học là Ar-gy-ro-ne-ta A-qua-ti-ca, nhưng giới kỹ sư đại dương gọi gã bằng một danh xưng đầy kính nể: Thuyền Trưởng Tàu Ngầm Tơ! [surprise-wa] Đây là loài nhện duy nhất trong số hơn năm mươi ngàn loài nhện trên khắp hành tinh từ bỏ hoàn toàn cõi cạn để di cư xuống định cư vĩnh viễn dưới lòng nước!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Điều gây chấn động phòng thí nghiệm là sinh vật này hoàn toàn không có mang cá, không có vây bơi, mà vẫn giữ nguyên bộ phổi sách thở khí trời của tổ tiên loài nhện cạn. [surprise-oh] Nếu bạn thả một con nhện nhà bình thường xuống nước, nó sẽ ngạt thở chìm lịm trong vài phút. Nhưng Thuyền Trưởng Tàu Ngầm Tơ lại có thể bơi lặn, săn mồi, ngủ ngáy, thậm chí giao phối và ấp trứng hai mươi tư trên bảy suốt cả cuộc đời dưới đáy hồ!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Báo cáo kỹ thuật trưởng, cảm biến sonar báo có một quả cầu thủy tinh đang phát sáng lơ lửng giữa đám rong rêu ạ!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[laughter] Đúng như cô trợ lý vừa phát hiện! Bí mật không nằm ở ma thuật siêu nhiên, mà nằm ở một công trình kiến trúc vi mô vĩ đại: Một quả chuông lặn dệt hoàn toàn bằng tơ kỵ nước, biến một kẻ thở bằng phổi thành chúa tể lòng hồ! Hôm nay, xưởng cơ khí sinh học của chúng ta sẽ tháo dỡ từng mắt tơ để xem gã kỹ sư tí hon này xây trạm không gian dưới nước như thế nào!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "BẢN VẼ THIẾT KẾ",
+    "banner_title": "KẾT CẤU QUẢ CHUÔNG LẶN KỴ NƯỚC",
+    "chapter_title": "Bản vẽ thiết kế: Tàu ngầm tơ kỵ nước và khoang khí áp suất",
+    "hook": "TƠ NHỆN DƯỚI NƯỚC KHÔNG HỀ BỊ RÃ NƯỚC",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Hãy trải cuộn bản vẽ mặt cắt xanh Prussian lên bàn phân tích! [surprise-oh] Muốn xây một căn nhà chứa không khí dưới nước, thách thức cơ học đầu tiên là lực đẩy Ác-si-mét cực lớn sẽ thổi bay mọi cấu trúc nổi lên mặt hồ. Nhưng Thuyền Trưởng Tàu Ngầm Tơ đã giải bài toán kết cấu này bằng một giải pháp tân tiến không thua gì các kỹ sư khoan ngầm dầu khí ngoài khơi!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Đầu tiên, gã chọn những nhánh rong rêu thủy sinh vững chắc nhất, rồi bắn hàng trăm sợi tơ neo đa hướng hình mạng nhện để cố định một khung dầm chịu lực. Điểm kỳ diệu nằm ở chỗ: Tơ của loài nhện này chứa protein kỵ nước siêu việt. Khi tiếp xúc với nước ngọt, các sợi tơ không hề bị mủn hay tan rã, mà đan kết lại thành một màng lưới dẻo dai tựa như màng cao su tổng hợp chịu áp lực cao!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Sau khi hệ khung neo đã căng cứng, gã bắt đầu nhả tơ dệt thành một chiếc vòm hình chuông úp ngược. Chiếc vòm tơ ban đầu xẹp lép như một chiếc dù nhảy lơ lửng giữa dòng nước. Nhưng làm thế nào để bơm đầy không khí vào một chiếc chuông ngập nước sâu dưới đáy hồ?",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Kỹ sư ơi, tơ nhện dệt kín mít thế kia thì nước có thấm ngược vào làm ướt sũng tổ không ạ?",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "[laughter] Chú cá con ngơ ngác hoàn toàn yên tâm! Khoảng cách giữa các sợi nano tơ kỵ nước nhỏ đến mức sức căng bề mặt của nước biến màng tơ thành bức tường ngăn nước tuyệt đối! Nước bên ngoài không thể lọt vào một giọt, nhưng khí ga bên trong lại được giữ kín bưng. Bây giờ, chiếc chuông đã sẵn sàng, và màn vận chuyển khí thần sầu của thuyền trưởng tí hon chính thức bắt đầu!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chưa hết đâu nhé! Để quả chuông tơ không bị biến dạng khi dòng nước hồ chảy xiết, Thuyền Trưởng Tàu Ngầm Tơ còn dệt thêm một lớp tơ gia cường thứ hai bên trong lòng vòm. Gã dùng đầu húc thử vào thành chuông để kiểm tra độ đàn hồi, giống hệt như các chuyên viên kiểm định độ an toàn vỏ tàu ngầm trước khi hạ thủy! [surprise-wa] Một công trình xây dựng dưới đáy nước hoàn hảo không cần đến một chiếc đinh hay một giọt keo công nghiệp nào!",
+      "mood": "nghiem_trang_gia"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "ĐỘNG CƠ SINH HỌC",
+    "banner_title": "MANG NHÂN TẠO TỰ HÚT OXY 24H",
+    "chapter_title": "Động cơ vận tải: Bộ lông quặp bọt khí và mang nhân tạo 24 giờ",
+    "hook": "TỰ HÚT OXY TỪ NƯỚC NHƯ LÁ PHỔI NHÂN TẠO",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Hãy quan sát công nghệ vận tải khí độc nhất vô nhị của Thuyền Trưởng Tàu Ngầm Tơ! [surprise-oh] Gã ngoi lên mặt nước, nhưng không thò cả người lên để hít thở như rùa hay cá voi. Gã chỉ nhô đúng phần chóp bụng và cặp chân sau lên khỏi mặt thoáng, thực hiện một cú giật mình chớp nhoáng rồi lặn ngược xuống đáy!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Toàn bộ vùng bụng và chân sau của gã được bao phủ bởi hàng triệu sợi lông kỵ nước siêu nhỏ với mật độ dày đặc. Khi gã quẫy mình giật ngược xuống nước, lớp lông này bẫy chặt một lớp không khí bao quanh bụng, biến phần thân dưới thành một quả cầu bạc lấp lánh như gương soi! [surprise-wa] Đây chính là nguồn gốc tên gọi Ar-gy-ro-ne-ta trong tiếng Hy Lạp cổ, nghĩa là kẻ dệt sợi bạc!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Gã ôm quả bọt khí bạc bơi hối hả xuống đáy, luồn vào bên dưới vòm tơ xẹp lép, rồi dùng hai chân sau gạt mạnh bọt khí giải phóng vào trong chuông. Gã lặp lại chuyến xe buýt con thoi này từ hai mươi đến ba mươi chuyến liên tục, cho đến khi quả chuông căng tròn bóng loáng bằng hạt đậu phộng, tỏa sáng lung linh giữa đáy bùn!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Nhưng điều chấn động khoa học thế giới vừa được hai giáo sư Sey-mour và Hetz công bố trên Tạp chí Sinh học Thực nghiệm: Quả chuông tơ này không chỉ là một chiếc bình dưỡng khí tĩnh! [surprise-oh] Khi nhện tiêu thụ oxy bên trong, nồng độ oxy trong chuông tụt xuống thấp hơn lượng oxy hòa tan trong nước xung quanh.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Sự chênh lệch áp suất riêng phần biến toàn bộ bề mặt quả chuông thành một chiếc mang nhân tạo khổng lồ! [surprise-wa] Oxy từ nước xung quanh tự động thẩm thấu xuyên qua màng tơ chảy vào chuông, trong khi khí cac-bo-nic thở ra tự khuếch tán ra ngoài hồ! Nhờ động cơ thẩm thấu thụ động này, một lượng khí ban đầu có thể cung cấp dưỡng khí cho nhện sống suốt hai mươi tư giờ liên tục mà không cần bơi lên mặt hồ lấy thêm khí!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tuy nhiên, động cơ mang nhân tạo này cũng có một nhược điểm vật lý không thể tránh khỏi: Khí Ni-tơ trong bọt khí cũng dần dần hòa tan và thất thoát ra ngoài nước. Khi lượng Ni-tơ giảm đi, quả chuông sẽ từ từ xẹp lại sau một đến hai ngày. [surprise-oh] Chính vì vậy, Thuyền Trưởng Tàu Ngầm Tơ phải thực hiện một chuyến tuần tra bảo dưỡng định kỳ mỗi ngày một lần, ngoi lên mặt nước mang về vài bọt khí tươi mới để nạp lại áp suất cho căn cứ!",
+      "mood": "don_dap"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "NGHỊCH LÝ GIA ĐÌNH",
+    "banner_title": "GÃ ĐỰC TO XÁC VÀ BẤT ĐỘNG SẢN",
+    "chapter_title": "Nghịch lý giới tính: Nhện đực to hơn nhện cái 30% để giữ chuông lặn",
+    "hook": "LOÀI NHỆN DUY NHẤT CON ĐỰC LỚN HƠN CON CÁI",
+    "mood": "bi_hai",
+    "parts": [
+     {
+      "text": "Bây giờ, chúng ta bước vào hồ sơ gia đình đầy bi hài của Thuyền Trưởng Tàu Ngầm Tơ! [sigh] Nếu bạn đã quen với quy luật tàn khốc trên cạn của loài nhện, nơi các nàng nhện cái khổng lồ thường xơi tái chú nhện đực gầy gò ngay sau đêm tân hôn, thì dưới đáy hồ nước ngọt, tạo hóa đã lật ngược ván cờ một trăm tám mươi độ!",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Ở loài nhện lặn chuông, con đực có chiều dài cơ thể từ mười đến mười lăm mi-li-mét, trong khi con cái chỉ đạt từ tám đến mười ba mi-li-mét. [surprise-oh] Nhện đực to hơn nhện cái đến ba mươi phần trăm và sở hữu sải chân dài cơ bắp vượt trội! Đây là một hiện tượng dị hình giới tính đảo ngược cực kỳ hiếm hoi trong toàn bộ thế giới tám chân!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ủa các bác kỹ sư ơi, sao nhện đực dưới nước lại được ưu ái ăn sung mặc sướng to con thế ạ?",
+      "cast": "be_con"
+     },
+     {
+      "text": "[laughter] Bé con thắc mắc rất chí lý! Lý do là vì di chuyển trong môi trường nước đặc quánh đòi hỏi lực cản thủy động học cực lớn. Nhện đực không chịu ngồi yên một chỗ, gã phải liên tục bơi đường dài đi tuần tra và tìm kiếm bạn gái giữa các bụi rong. Thân hình to lớn và đôi chân dài giúp gã bơi nhanh hơn, quặp được bọt khí to hơn và không bị dòng nước cuốn trôi!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Khi tìm thấy chuông lặn của một nàng nhện ưng ý, chàng nhện đực không lao vào ẩu đả. Gã lịch sự xây ngay một chiếc chuông lặn phụ ngay sát vách căn hộ của nàng, rồi dệt một đường hầm tơ nối thông hai phòng khách lại với nhau! [surprise-wa] Một căn biệt thự thông tầng dưới đáy nước được hình thành lãng mạn vô cùng, nơi con đực bảo vệ đàn con mà không hề lo sợ bị người tình ăn thịt!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Sau tuần trăng mật ngọt ngào, nàng nhện cái bắt đầu công việc thiêng liêng nhất của một người mẹ: Đẻ từ năm mươi đến một trăm quả trứng bọc trong một chiếc kén tơ trắng muốt, treo lơ lửng ở phần vòm cao nhất của quả chuông lặn! [surprise-oh] Nơi đây chứa lượng oxy tinh khiết nhất để nuôi dưỡng các nhện con. Khi các chú nhện con chào đời, chúng bơi lội ngay trong phòng khách dưới nước của bố mẹ, học cách quặp bọt khí đầu tiên trước khi tự lập xây dựng vương quốc riêng!",
+      "mood": "am_ap"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "THỰC CHIẾN ĐÁY HỒ",
+    "banner_title": "BẪY TƠ THỦY SINH & NGỦ ĐÔNG 0 ĐỘ",
+    "chapter_title": "Thực chiến đáy hồ: Tàu ngầm săn mồi và giấc ngủ đông đóng băng",
+    "hook": "SĂN MỒI KHÔNG CẦN RA KHỎI PHÒNG KHÁCH DƯỚI NƯỚC",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Hãy chứng kiến cỗ máy săn ngầm hoạt động trong điều kiện chiến trường thực tế! [surprise-oh] Thuyền Trưởng Tàu Ngầm Tơ không cần bơi lội rượt đuổi con mồi cho tốn calo. Từ quả chuông lặn trung tâm, gã giăng ra hàng chục sợi tơ bẫy vô hình kết nối trực tiếp với các cành rong rêu xung quanh như những đường dây điện thoại bảo vệ căn cứ!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Gã ngồi thảnh thơi bên trong quả chuông ấm áp, chỉ thò những đầu móng chân nhạy cảm ra ngoài chạm vào các sợi tơ kích hoạt. Khi một con ấu trùng chuồn chuồn, bọ gậy hay một chú cá nhỏ bơi ngang qua vô tình chạm vào sợi tơ cảm biến, xung động rung lắc truyền thẳng vào màng chuông với tốc độ ánh sáng!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Vút! Thuyền trưởng phóng vọt ra khỏi cửa hầm, tung hai chiếc kìm kẹp chứa nọc độc tiêm thẳng vào con mồi làm nạn nhân tê liệt trong tích tắc! [surprise-wa] Sau đó, gã kéo chiến lợi phẩm ngược vào bên trong quả chuông lặn khô ráo để thưởng thức bữa tiệc thịnh soạn mà không sợ bị các loài cá săn mồi khác cướp mất miếng ăn!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nếu bất ngờ có một con cá chép đói khát bơi tới tấn công cắn rách vòm tơ, thuyền trưởng tí hon sẽ phản ứng thế nào? [surprise-oh] Gã không hề hoảng loạn! Với tốc độ cơ động cực nhanh, gã lập tức thoát hiểm qua cửa đáy khẩn cấp, núp vào khe đá ngầm. Đợi kẻ thù bỏ đi, gã quay lại hiện trường và chỉ mất chưa đầy ba mươi phút để vá lành mọi vết rách bằng những đường tơ kỵ nước mới toanh, tiếp tục làm chủ pháo đài dưới nước!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Thậm chí vào mùa đông băng giá, khi nhiệt độ nước tụt xuống không độ C và mặt hồ đóng băng dày cộp cắt đứt hoàn toàn nguồn không khí mặt thoáng, cỗ máy sinh học này vẫn vận hành ngoan cường! [surprise-oh] Nhện lặn chuông bò xuống lớp bùn sâu nhất, dệt một chiếc kén tơ siêu dày bọc kín một túi khí nhỏ, hạ thấp thân nhiệt và nhịp tim để ngủ đông suốt nhiều tháng ròng rã cho đến khi mùa xuân tan băng!",
+      "mood": "nghiem_trang_gia"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "BẢN TỔNG KẾT",
+    "banner_title": "KỲ QUAN CÔNG NGHỆ TỰ NHIÊN",
+    "chapter_title": "Bài học kỹ sư: Giới hạn chỉ là do bạn chưa dệt chuông khí",
+    "hook": "BÀI HỌC CUỘC SỐNG VÀ THÁCH THỨC ĐOÁN TẬP 42",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Hồ sơ vũ khí số bốn mươi mốt chính thức khép lại với những thông số kinh ngạc! Nhện Lặn Chuông minh chứng hùng hồn cho bài học tiến hóa vĩ đại: Khi môi trường sống cạn kiệt cơ hội, bạn không nhất thiết phải thay đổi toàn bộ nội tạng để thích nghi. Thuyền Trưởng Tàu Ngầm Tơ không mọc ra mang cá, gã chỉ đơn giản dệt nên một công nghệ đem theo bầu trời của chính mình xuống đáy đại dương!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Nếu trong cuộc sống bạn cảm thấy ngột ngạt và lạc lõng giữa một môi trường xa lạ, hãy nhớ tới chú nhện lặn chuông: [laughter] Đôi khi, chỉ cần một quả chuông kiên định dệt bằng sự sáng tạo và nỗ lực, bạn hoàn toàn có thể tự tạo ra bầu không khí thành công cho riêng mình ngay giữa nghịch cảnh!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nếu được trang bị một bộ đồ lặn bong bóng như nhện lặn chuông, bạn muốn lặn xuống đáy hồ nào để khám phá thế giới vi mô kỳ ảo? Hãy để lại ý kiến thú vị của bạn ở phần bình luận bên dưới nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Còn bây giờ, hãy nhìn vào bóng đen bí ẩn của hồ sơ số bốn mươi hai! [surprise-oh] Một sinh vật biển kỳ dị chán ghét đại dương, bỏ nước lên cạn leo trèo trên cây ngập mặn, nếu ngâm nước quá lâu thì lại bị chết đuối, và mỗi khi nuốt mồi lại phải tụt cả hai nhãn cầu mắt xuống tận cổ họng! Bạn có đoán được quái kiệt hai mang này là ai không?",
+      "mood": "tram_bi_an"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Bạn có tin trên đời có một loài nhện thở bằng phổi nhưng cả cuộc đời lại sống dưới đáy nước? [surprise-wa] Đây là Nhện Lặn Chuông, dài chỉ mười đến mười lăm mi-li-mét nhưng sở hữu công nghệ tàu ngầm vô tiền khoáng hậu! Gã ngoi lên mặt nước, dùng bộ lông kỵ nước quặp chặt một bọt khí bạc quanh bụng rồi lặn xuống đáy hồ. Tại đây, gã dệt một chiếc vòm tơ hình chuông úp ngược vào rong rêu, bơm đầy bọt khí vào trong để làm trạm không gian dưới nước! Điều chấn động là màng tơ này hoạt động như một chiếc mang nhân tạo, tự hút oxy hòa tan từ nước xung quanh để gã thở suốt hai mươi tư giờ mà không cần ngoi lên mặt hồ! Từ ăn ngủ, săn mồi đến đẻ trứng, gã làm trọn vẹn trong bong bóng không khí kỳ diệu, chứng minh giới hạn sinh tồn chỉ là chuyện nhỏ trước kỹ nghệ đỉnh cao của thiên nhiên!"
+ },
+ "seo": {
+  "title": "Tàu Ngầm Tơ Nhện: Bí Mật Sống 24 Giờ Dưới Đáy Hồ Của Kỹ Sư Tí Hon | Tập 41",
+  "hook_paragraph": "Loài nhện duy nhất trên thế giới từ bỏ mặt đất để định cư vĩnh viễn dưới đáy hồ nước ngọt: Nhện Lặn Chuông (Argyroneta aquatica). Dù thở bằng phổi nhưng gã tự chế tạo quả chuông lặn bằng tơ kỵ nước hoạt động như mang nhân tạo, tự hút oxy từ nước để sống 24 giờ liên tục!",
+  "bullets": [
+   "Hồ sơ kỹ thuật: Loài nhện duy nhất trong 50.000 loài sống cả đời dưới nước",
+   "Bản vẽ thiết kế: Tơ nhện kỵ nước dệt thành chuông lặn không thấm nước",
+   "Động cơ sinh học: Lông bụng quặp bọt khí bạc và mang nhân tạo tự thẩm thấu oxy",
+   "Nghịch lý giới tính: Nhện đực to hơn nhện cái 30% để bơi và giữ chuông",
+   "Thực chiến săn mồi: Hệ thống dây tơ cảm biến và giấc ngủ đông ở 0 độ C"
+  ],
+  "question": "Nếu được trang bị một quả chuông lặn tự hút oxy như Nhện Lặn Chuông, bạn sẽ mang nó lặn xuống đâu đầu tiên? Bình luận bên dưới nhé!",
+  "next_teaser": "Tập 42: Quái kiệt chán biển lên cạn leo cây, ngâm nước quá lâu thì chết đuối và thụt mắt xuống họng để nuốt mồi!",
+  "hashtags": [
+   "#độngvật",
+   "#nhệnlặnchuông",
+   "#VẽChuyệnHoangDã"
+  ],
+  "tags": [
+   "nhện lặn chuông",
+   "diving bell spider",
+   "argyroneta aquatica",
+   "tàu ngầm tơ nhện",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã",
+   "khoa học kỳ thú",
+   "whiteboard animation",
+   "động vật kỳ lạ"
+  ],
+  "shorts_title": "Tàu Ngầm Tơ Nhện Độc Nhất Vô Nhị Dưới Đáy Hồ! 🫧🕷️ #độngvật #nhệnlặnchuông",
+  "shorts_desc": "Loài nhện duy nhất thở bằng phổi nhưng sống cả đời dưới nước nhờ quả chuông tơ tự hút oxy như mang nhân tạo!\n\n#độngvật #nhệnlặnchuông #VẽChuyệnHoangDã",
+  "shorts_tags": [
+   "nhện lặn chuông",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ]
+ }
+}

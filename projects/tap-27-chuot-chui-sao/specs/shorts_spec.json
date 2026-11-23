@@ -1,0 +1,423 @@
+{
+ "episode": "tap-27-chuot-chui-sao",
+ "title_lines": [
+  "ĂN MỒI TRONG 0,12 GIÂY",
+  "& NGỬI DƯỚI NƯỚC?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 46.65,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-27-chuot-chui-sao_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  5.03,
+  11.51,
+  17.41,
+  19.05,
+  24.61,
+  31.07,
+  35.91,
+  38.97,
+  42.85
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.68,
+     "text": "Sinh vật mù"
+    },
+    {
+     "t": 1.12,
+     "text": "lòa này"
+    },
+    {
+     "t": 1.76,
+     "text": "ăn tối nhanh"
+    },
+    {
+     "t": 2.28,
+     "text": "đến mức khó tin:"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 3.23,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 3.98,
+     "side": "R",
+     "y": 560,
+     "value": "0,12 GIÂY",
+     "label": "ăn mồi siêu tốc",
+     "target": [
+      0.6,
+      0.48
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 3.48,
+     "text": "chỉ mất đúng"
+    },
+    {
+     "t": 3.98,
+     "text": "0,12 giây để"
+    },
+    {
+     "t": 5.24,
+     "text": "nhận diện và"
+    },
+    {
+     "t": 6.12,
+     "text": "nuốt chửng con"
+    },
+    {
+     "t": 6.76,
+     "text": "mồi, nhanh hơn"
+    },
+    {
+     "t": 7.76,
+     "text": "cả một cái"
+    },
+    {
+     "t": 8.12,
+     "text": "chớp mắt của"
+    },
+    {
+     "t": 8.7,
+     "text": "con người!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 9.71,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 13.06,
+     "side": "R",
+     "y": 720,
+     "value": "20 CM",
+     "label": "chiều dài cơ thể",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 9.96,
+     "text": "Xin giới thiệu"
+    },
+    {
+     "t": 10.82,
+     "text": "Chuột Chũi Sao,"
+    },
+    {
+     "t": 12.08,
+     "text": "cỗ máy săn"
+    },
+    {
+     "t": 12.64,
+     "text": "mồi dài 20cm"
+    },
+    {
+     "t": 13.78,
+     "text": "sống dưới các"
+    },
+    {
+     "t": 14.62,
+     "text": "đầm lầy Bắc Mỹ."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 15.61,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 15.86,
+     "text": "Hai mắt của"
+    },
+    {
+     "t": 16.3,
+     "text": "nó thoái hóa"
+    },
+    {
+     "t": 16.96,
+     "text": "mù tịt,"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 17.25,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 18.78,
+     "side": "L",
+     "y": 620,
+     "value": "22 XÚC TU",
+     "label": "mũi hoa sao",
+     "target": [
+      0.45,
+      0.52
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 17.5,
+     "text": "nhưng trên mũi"
+    },
+    {
+     "t": 18.32,
+     "text": "lại mọc ra"
+    },
+    {
+     "t": 18.78,
+     "text": "22 xúc tu"
+    },
+    {
+     "t": 19.62,
+     "text": "thịt màu hồng"
+    },
+    {
+     "t": 20.58,
+     "text": "xòe rộng như"
+    },
+    {
+     "t": 21.08,
+     "text": "một bông hoa"
+    },
+    {
+     "t": 21.62,
+     "text": "sao biển!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 22.81,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 24.46,
+     "side": "R",
+     "y": 650,
+     "value": "25.000 THỂ",
+     "label": "12 vị trí mỗi giây",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 23.06,
+     "text": "Chiếc mũi quái"
+    },
+    {
+     "t": 23.48,
+     "text": "đản này chứa"
+    },
+    {
+     "t": 24.28,
+     "text": "hơn 25.000 thụ"
+    },
+    {
+     "t": 25.38,
+     "text": "thể cảm giác,"
+    },
+    {
+     "t": 26.46,
+     "text": "gõ xuống bùn"
+    },
+    {
+     "t": 27.0,
+     "text": "đất tới 12"
+    },
+    {
+     "t": 27.6,
+     "text": "vị trí mỗi"
+    },
+    {
+     "t": 28.3,
+     "text": "giây để dò mồi!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 29.27,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 29.52,
+     "text": "Thậm chí khi"
+    },
+    {
+     "t": 30.18,
+     "text": "lặn xuống nước,"
+    },
+    {
+     "t": 31.28,
+     "text": "nó là loài"
+    },
+    {
+     "t": 31.88,
+     "text": "thú duy nhất"
+    },
+    {
+     "t": 32.62,
+     "text": "biết thổi những"
+    },
+    {
+     "t": 33.02,
+     "text": "quả bong bóng"
+    },
+    {
+     "t": 33.54,
+     "text": "khí ra khỏi mũi"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 34.11,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 34.36,
+     "text": "rồi hít ngược"
+    },
+    {
+     "t": 34.82,
+     "text": "trở lại để"
+    },
+    {
+     "t": 35.56,
+     "text": "ngửi mùi con"
+    },
+    {
+     "t": 36.08,
+     "text": "mồi dưới đáy suối!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 37.17,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "t": 39.0,
+     "side": "L",
+     "y": 680,
+     "value": "8 MS",
+     "label": "phân tích não bộ",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 37.42,
+     "text": "Bộ não của"
+    },
+    {
+     "t": 38.02,
+     "text": "nó chỉ mất"
+    },
+    {
+     "t": 38.78,
+     "text": "đúng 8 mili-giây"
+    },
+    {
+     "t": 39.82,
+     "text": "để quyết định"
+    },
+    {
+     "t": 40.36,
+     "text": "ăn hay bỏ!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 41.05,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 41.3,
+     "text": "Một tia chớp"
+    },
+    {
+     "t": 41.96,
+     "text": "lòng đất với"
+    },
+    {
+     "t": 42.48,
+     "text": "chiếc mũi quái"
+    },
+    {
+     "t": 43.14,
+     "text": "vật ngoài hành"
+    },
+    {
+     "t": 43.7,
+     "text": "tinh sở hữu"
+    },
+    {
+     "t": 44.8,
+     "text": "tốc độ săn"
+    },
+    {
+     "t": 45.44,
+     "text": "mồi nhanh nhất"
+    },
+    {
+     "t": 46.0,
+     "text": "hành tinh!"
+    }
+   ]
+  }
+ ]
+}

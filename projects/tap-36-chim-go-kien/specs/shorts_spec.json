@@ -1,0 +1,435 @@
+{
+ "episode": "tap-36-chim-go-kien",
+ "title_lines": [
+  "CỖ MÁY GIẢM CHẤN",
+  "1.200 G ĐỈNH CAO"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 42.04,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-36-chim-go-kien_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  7.43,
+  10.31,
+  12.57,
+  15.57,
+  17.45,
+  21.79,
+  25.77,
+  32.71,
+  35.17,
+  36.75,
+  40.93
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "t": 4.28,
+     "side": "R",
+     "y": 620,
+     "value": "20 LẦN/S",
+     "label": "tần số đập đầu",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 0.7,
+     "text": "Bạn có biết"
+    },
+    {
+     "t": 1.1,
+     "text": "điều gì sẽ"
+    },
+    {
+     "t": 1.66,
+     "text": "xảy ra nếu"
+    },
+    {
+     "t": 2.24,
+     "text": "một con người"
+    },
+    {
+     "t": 2.76,
+     "text": "đập đầu vào"
+    },
+    {
+     "t": 3.36,
+     "text": "thân gỗ với"
+    },
+    {
+     "t": 3.92,
+     "text": "tần số 20"
+    },
+    {
+     "t": 4.56,
+     "text": "lần mỗi giây không?"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 5.63,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 5.88,
+     "text": "Hộp sọ sẽ"
+    },
+    {
+     "t": 6.48,
+     "text": "vỡ vụn và"
+    },
+    {
+     "t": 7.12,
+     "text": "tử vong ngay"
+    },
+    {
+     "t": 7.72,
+     "text": "tức khắc!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 8.51,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 8.76,
+     "text": "Thế nhưng"
+    },
+    {
+     "t": 9.5,
+     "text": "loài Chim Gõ"
+    },
+    {
+     "t": 9.96,
+     "text": "Kiến lại làm việc"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 10.77,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 11.02,
+     "side": "R",
+     "y": 600,
+     "value": "12.000 LẦN",
+     "label": "mỗi ngày",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 10.78,
+     "text": "đó 12.000 lần"
+    },
+    {
+     "t": 11.88,
+     "text": "mỗi ngày"
+    },
+    {
+     "t": 12.72,
+     "text": "với lực va chạm"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 13.77,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 14.02,
+     "side": "L",
+     "y": 620,
+     "value": "1.200 G",
+     "label": "gia tốc va chạm",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 13.74,
+     "text": "lên tới 1.200"
+    },
+    {
+     "t": 14.793,
+     "text": "G —"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 15.65,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 15.9,
+     "side": "R",
+     "y": 640,
+     "value": "120 LẦN",
+     "label": "chịu tải người",
+     "target": [
+      0.68,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 15.8,
+     "text": "gấp 120 lần"
+    },
+    {
+     "t": 16.9,
+     "text": "giới hạn tử"
+    },
+    {
+     "t": 17.48,
+     "text": "vong của con"
+    },
+    {
+     "t": 18.02,
+     "text": "người! Bí mật"
+    },
+    {
+     "t": 19.06,
+     "text": "kinh thiên động"
+    },
+    {
+     "t": 19.58,
+     "text": "địa nằm"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 19.99,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 21.22,
+     "side": "L",
+     "y": 620,
+     "value": "DÀI GẤP 3",
+     "label": "chiều dài lưỡi",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 20.12,
+     "text": "ở chiếc lưỡi"
+    },
+    {
+     "t": 20.62,
+     "text": "kỳ dị dài"
+    },
+    {
+     "t": 21.22,
+     "text": "gấp ba lần"
+    },
+    {
+     "t": 21.86,
+     "text": "mỏ của nó:"
+    },
+    {
+     "t": 22.66,
+     "text": "Chiếc lưỡi không"
+    },
+    {
+     "t": 23.44,
+     "text": "nằm trong họng"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 23.97,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 24.04,
+     "text": "mà luồn ngược"
+    },
+    {
+     "t": 24.52,
+     "text": "ra sau gáy,"
+    },
+    {
+     "t": 25.4,
+     "text": "quấn trọn một"
+    },
+    {
+     "t": 25.92,
+     "text": "vòng quanh hộp"
+    },
+    {
+     "t": 26.54,
+     "text": "sọ như chiếc"
+    },
+    {
+     "t": 27.06,
+     "text": "dây đai an"
+    },
+    {
+     "t": 27.6,
+     "text": "toàn xe hơi!"
+    },
+    {
+     "t": 28.18,
+     "text": "Mỗi khi mỏ"
+    },
+    {
+     "t": 29.2,
+     "text": "đập vào gỗ,"
+    },
+    {
+     "t": 30.22,
+     "text": "chiếc lưỡi gồng cứng"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 30.91,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 30.92,
+     "text": "lại ghìm chặt"
+    },
+    {
+     "t": 31.7,
+     "text": "não bộ không"
+    },
+    {
+     "t": 32.36,
+     "text": "bị rung lắc, kết"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 33.37,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 33.32,
+     "text": "hợp cùng hộp"
+    },
+    {
+     "t": 33.86,
+     "text": "sọ xốp"
+    },
+    {
+     "t": 34.54,
+     "text": "bọt khí hấp"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 34.95,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [
+    {
+     "t": 35.2,
+     "side": "R",
+     "y": 620,
+     "value": "99,7%",
+     "label": "tiêu tán lực",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 35.0,
+     "text": "thụ 99,7%"
+    },
+    {
+     "t": 36.54,
+     "text": "xung lực thành"
+    },
+    {
+     "t": 37.24,
+     "text": "nhiệt năng! Thật"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 39.13,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 39.12,
+     "text": "là một kỳ"
+    },
+    {
+     "t": 39.66,
+     "text": "quan cơ khí"
+    },
+    {
+     "t": 40.46,
+     "text": "giảm chấn đỉnh"
+    },
+    {
+     "t": 41.08,
+     "text": "cao của rừng xanh!"
+    }
+   ]
+  }
+ ]
+}

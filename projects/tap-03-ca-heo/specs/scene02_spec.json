@@ -1,0 +1,580 @@
+{
+  "scene_id": "scene02",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 8,
+  "world_width": 3004,
+  "world_height": 1530,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 60,
+  "duration_ms": 80780,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-03-ca-heo/assets/scenes_composed/scene02_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      225,
+      8,
+      1054,
+      53
+    ],
+    "x": 237,
+    "y": 12,
+    "w": 805,
+    "h": 39,
+    "text": "[PHẦN 2]  BẢNG CHỈ SỐ SINH TỒN RPG — THIÊN TÀI TINH NGHỊCH BIỂN CẢ",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-03-ca-heo/assets/scenes_composed/scene02_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 15091,
+      "has_frame": false,
+      "pill_box": [
+        677,
+        60,
+        860,
+        95
+      ],
+      "art_only_box": [
+        452,
+        96,
+        1081,
+        449
+      ],
+      "caption": {
+        "text": "Trí tuệ BRAIN IQ 99/100: Tỷ lệ não bộ lớn thứ hai hành tinh!",
+        "x": 500,
+        "y": 449,
+        "w": 534,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        450,
+        60,
+        1083,
+        480
+      ],
+      "img_region": {
+        "x": 452,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 15091,
+      "end_ms": 31440,
+      "has_frame": false,
+      "pill_box": [
+        1377,
+        60,
+        1629,
+        98
+      ],
+      "art_only_box": [
+        1187,
+        96,
+        1816,
+        449
+      ],
+      "caption": {
+        "text": "Thực chiến IQ 99: Tự soi gương nhận diện bản thân và tạo dáng!",
+        "x": 1222,
+        "y": 449,
+        "w": 560,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1185,
+        60,
+        1818,
+        481
+      ],
+      "img_region": {
+        "x": 1187,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 31440,
+      "end_ms": 38198,
+      "has_frame": false,
+      "pill_box": [
+        2130,
+        60,
+        2346,
+        95
+      ],
+      "art_only_box": [
+        1922,
+        96,
+        2551,
+        449
+      ],
+      "caption": {
+        "text": "Ra-đa SONAR 100/100: Đôi mắt thần quét xuyên màn đêm đáy biển",
+        "x": 1935,
+        "y": 449,
+        "w": 604,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1920,
+        60,
+        2553,
+        484
+      ],
+      "img_region": {
+        "x": 1922,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_04",
+      "start_ms": 38198,
+      "end_ms": 45520,
+      "has_frame": false,
+      "pill_box": [
+        2114,
+        550,
+        2362,
+        587
+      ],
+      "art_only_box": [
+        1922,
+        586,
+        2551,
+        939
+      ],
+      "caption": {
+        "text": "Thực chiến Sonar 100: Quét sóng âm nhìn xuyên cát như X-quang!",
+        "x": 1950,
+        "y": 939,
+        "w": 574,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1920,
+        550,
+        2553,
+        971
+      ],
+      "img_region": {
+        "x": 1922,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_05",
+      "start_ms": 45520,
+      "end_ms": 52816,
+      "has_frame": false,
+      "pill_box": [
+        1379,
+        550,
+        1627,
+        585
+      ],
+      "art_only_box": [
+        1187,
+        586,
+        1816,
+        939
+      ],
+      "caption": {
+        "text": "Tốc độ SPEED 95/100: Da giảm ma sát và đuôi đập dọc cực khỏe",
+        "x": 1214,
+        "y": 939,
+        "w": 576,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1185,
+        550,
+        1818,
+        971
+      ],
+      "img_region": {
+        "x": 1187,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_06",
+      "start_ms": 52816,
+      "end_ms": 60720,
+      "has_frame": false,
+      "pill_box": [
+        656,
+        550,
+        881,
+        588
+      ],
+      "art_only_box": [
+        452,
+        586,
+        1081,
+        939
+      ],
+      "caption": {
+        "text": "Thực chiến Speed 95: Phóng vút 55 km/h, bật nhảy cao tới 6 mét!",
+        "x": 477,
+        "y": 939,
+        "w": 579,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        450,
+        550,
+        1083,
+        971
+      ],
+      "img_region": {
+        "x": 452,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_07",
+      "start_ms": 60720,
+      "end_ms": 69628,
+      "has_frame": false,
+      "pill_box": [
+        1033,
+        1040,
+        1237,
+        1077
+      ],
+      "art_only_box": [
+        819,
+        1076,
+        1448,
+        1429
+      ],
+      "caption": {
+        "text": "Độ ham chơi PLAYFULNESS 999: Phá vỡ hoàn toàn mọi thang đo!",
+        "x": 847,
+        "y": 1429,
+        "w": 574,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        817,
+        1040,
+        1450,
+        1460
+      ],
+      "img_region": {
+        "x": 819,
+        "y": 1076,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_08",
+      "start_ms": 69628,
+      "end_ms": 79280,
+      "has_frame": false,
+      "pill_box": [
+        1753,
+        1040,
+        1987,
+        1078
+      ],
+      "art_only_box": [
+        1554,
+        1076,
+        2183,
+        1429
+      ],
+      "caption": {
+        "text": "Nghệ sĩ đại dương: Tự thổi vòng bong bóng bạc rồi bơi xuyên qua!",
+        "x": 1584,
+        "y": 1429,
+        "w": 569,
+        "h": 31,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1552,
+        1040,
+        2185,
+        1462
+      ],
+      "img_region": {
+        "x": 1554,
+        "y": 1076,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 450.0,
+    "y_min": 60.0,
+    "x_max": 2553.0,
+    "y_max": 1462.0,
+    "bbox_w": 2103.0,
+    "bbox_h": 1402.0,
+    "center_x": 1501.5,
+    "center_y": 761.0,
+    "zoom_out_scale": 0.437,
+    "crop_w": 2929.1,
+    "crop_h": 1492.0
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 766.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 14471.0,
+      "cx": 766.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 15091.0,
+      "cx": 1501.5,
+      "cy": 270.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 30820.0,
+      "cx": 1501.5,
+      "cy": 270.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 31440.0,
+      "cx": 2236.5,
+      "cy": 272.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 3.08,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 37578.0,
+      "cx": 2236.5,
+      "cy": 272.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 3.08,
+      "phase": "transition",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 38198.0,
+      "cx": 2236.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "focus_hold",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 44900.0,
+      "cx": 2236.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "transition",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 45520.0,
+      "cx": 1501.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "focus_hold",
+      "target_node_id": "beat_05"
+    },
+    {
+      "time_ms": 52196.0,
+      "cx": 1501.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "transition",
+      "target_node_id": "beat_05"
+    },
+    {
+      "time_ms": 52816.0,
+      "cx": 766.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "focus_hold",
+      "target_node_id": "beat_06"
+    },
+    {
+      "time_ms": 60100.0,
+      "cx": 766.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "transition",
+      "target_node_id": "beat_06"
+    },
+    {
+      "time_ms": 60720.0,
+      "cx": 1133.5,
+      "cy": 1250.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "focus_hold",
+      "target_node_id": "beat_07"
+    },
+    {
+      "time_ms": 69008.0,
+      "cx": 1133.5,
+      "cy": 1250.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "transition",
+      "target_node_id": "beat_07"
+    },
+    {
+      "time_ms": 69628.0,
+      "cx": 1868.5,
+      "cy": 1251.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 3.1,
+      "phase": "focus_hold",
+      "target_node_id": "beat_08"
+    },
+    {
+      "time_ms": 79280.0,
+      "cx": 1868.5,
+      "cy": 1251.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 3.1,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_08"
+    },
+    {
+      "time_ms": 79780.0,
+      "cx": 1501.5,
+      "cy": 761.0,
+      "crop_w": 2929.1,
+      "crop_h": 1492.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 80780.0,
+      "cx": 1501.5,
+      "cy": 761.0,
+      "crop_w": 2929.1,
+      "crop_h": 1492.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

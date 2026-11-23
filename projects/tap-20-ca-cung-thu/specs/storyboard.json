@@ -1,0 +1,902 @@
+{
+ "_doc": "Storyboard Tập 20 — Cá Cung Thủ (Toxotes) F2 Kỹ Sư Vũ Khí. Chạy: python src/episode/build_plans.py projects/tap-20-ca-cung-thu",
+ "characters": {
+  "HERO": "chú Cá Cung Thủ hoạt hình màu bạc ánh kim sọc đen thẳng đứng, đôi mắt to lồi màu vàng rực rỡ đặc trưng, đầu đội một chiếc mũ beret màu đen kèm kính ngắm tròn một mắt viền đỏ ngộ nghĩnh (cute black beret and circular eye visor)",
+  "HERO_S": "chú Cá Cung Thủ sọc đen bạc, đội mũ beret đen và kính ngắm một mắt viền đỏ",
+  "NO_HERO": "KHÔNG có chú Cá Cung Thủ trong cảnh này",
+  "SPIDER": "chú nhện con hoạt hình nhiều mắt ngơ ngác, lông xù màu nâu, đeo ba lô tí hon bám trên lá cây",
+  "MANTIS": "chú bọ ngựa hoạt hình màu xanh lá, hai càng sắc nhọn giương lên đầy tự tin bám trên thân cây",
+  "CRICKET": "chú dế mèn hoạt hình màu nâu cầm chiếc ô che mưa tí hon ngơ ngác",
+  "ASSISTANT": "cô trợ lý sóc hoạt hình đeo kính cận to tròn, mặc áo blouse trắng phòng thí nghiệm, cầm thước đo góc quang học"
+ },
+ "side_characters": [
+  "SPIDER",
+  "MANTIS",
+  "CRICKET",
+  "ASSISTANT"
+ ],
+ "shorts_side_characters": [
+  "SPIDER",
+  "MANTIS"
+ ],
+ "shorts_title_lines": [
+  "BẮN TỈA 3 MÉT:",
+  "GIẢI ĐỊNH LUẬT VẬT LÝ!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Phòng phân tích tác chiến quân sự: một hồ sơ mật đóng dấu đỏ thẫm 'BÁO CÁO THỬ NGHIỆM SỐ 20' đặt giữa bàn kim loại, màn hình phía sau hiển thị hình ảnh rừng đước ngập mặn rậm rạp. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Toàn đội kỹ thuật",
+   "layout": "Bảng điều khiển công nghệ cao: các kỹ sư khởi động camera tốc độ cao và màn hình hiển thị thước ngắm hồng ngoại đang khóa mục tiêu. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chiến trường mà chúng",
+   "layout": "Rừng đước ngập mặn Đông Nam Á kỳ bí: rễ cây đước ngoằn ngoèo rủ xuống mặt nước phẳng lặng như gương; tia nắng ban mai xuyên qua kẽ lá mờ ảo. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nơi một sát thủ",
+   "layout": "Góc phục kích bí mật: sát mặt nước đục mờ, đôi mắt to lồi màu vàng của {HERO} nhô lên nhẹ nhàng không làm xao động một gợn sóng, kính ngắm laser đỏ phát sáng dò tìm mục tiêu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhân vật đứng trước",
+   "layout": "Chân dung oai phong: {HERO} bơi giữa làn nước trong xanh, thân hình vảy bạc ánh kim sọc đen quân sự, chiếc mũ beret đen kiêu hãnh, vây lưng bơi lượn điệu nghệ.",
+   "stickers": [
+    {
+     "at": "15-20cm",
+     "side": "L",
+     "y": 380,
+     "value": "15-20cm",
+     "label": "chiều dài cơ thể",
+     "target": [
+      0.3,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "khoác lên mình bộ",
+   "layout": "Cận cảnh bộ giáp vảy bạc sọc đen quân sự tinh xảo của {HERO}, ánh kim loại lấp lánh dưới làn nước trong vắt, vây ngực chuyển động uyển chuyển.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Trong giới quân sự",
+   "layout": "Tấm huy hiệu quân đội danh dự: {HERO} đứng trên bục danh dự vàng khắc dòng chữ 'THIỆN XẠ ĐẦM LẦY', vây trước chắp tay nghiêm trang, kính ngắm laser nhấp nháy chữ 'LOCKED'.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Quy tắc tác chiến",
+   "layout": "Hình ảnh so sánh hài hước: BÊN TRÁI một chú cá thường ngửa bụng há họng chờ thức ăn rơi xuống bị gạch chéo đỏ; BÊN PHẢI {HERO} ngẩng cao đầu giương vây đầy khí phách chiến đấu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhưng Thiện Xạ Đầm",
+   "layout": "{HERO} bơi ngẩng cao đầu sát mặt nước, ánh mắt sắc lẹm kiên quyết, biểu tượng nắm đấm sắt tự lực cánh sinh phát sáng bên cạnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nếu con mồi đậu",
+   "layout": "Thước đo cự ly bắn tỉa trên không: BÊN TRÁI {HERO} nằm sát mặt nước, tia ngắm laser đỏ hướng thẳng lên cành lá cao 2m có chú {SPIDER} đang đậu, thước đo đánh dấu các vạch 1,5m, 2m và kỷ lục 3m.",
+   "stickers": [
+    {
+     "at": "2m",
+     "side": "R",
+     "y": 380,
+     "value": "2 MÉT",
+     "label": "tầm bắn hiệu quả",
+     "target": [
+      0.75,
+      0.55
+     ]
+    },
+    {
+     "at": "3m",
+     "side": "R",
+     "y": 480,
+     "value": "3 MÉT",
+     "label": "kỷ lục cực đại",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hỏa lực của gã",
+   "layout": "Tia nước áp suất cao bắn phụt từ miệng {HERO} vút lên trời như viên đạn nước phát sáng, cắt ngang mặt nước như đường kiếm laser sắc bén.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Một phát bắn trúng",
+   "layout": "Cảnh tượng ngoạn mục: chú châu chấu béo múp bị tia nước đập văng khỏi cành lá, rơi tự do xoay vòng xuống mặt nước; {HERO} mở to miệng sẵn sàng đón mồi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hôm nay, ban chỉ",
+   "layout": "Phòng giải phẫu cơ học: {HERO} đứng cạnh mô hình phóng to của chiếc đầu cá trong suốt, tay cầm bút chỉ vào khoang miệng và hệ thống van nén nước.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Làm thế nào một",
+   "layout": "Ngòi bút vẽ tay đang phác họa tia nước cắt ngang mặt phân cách nước và không khí; một dấu hỏi chấm lớn màu vàng phát sáng tò mò.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Bản vẽ thiết kế Blueprint màu xanh thẫm: sơ đồ kỹ thuật khoang miệng của {HERO} với các đường kích thước ống nòng, góc phun và mũi tên áp lực nước. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Rất nhiều người nghĩ",
+   "layout": "Hình ảnh minh họa sai lầm: chú cá ngậm nước phồng má rồi phun nước yếu ớt như đồ chơi bồn tắm trẻ em, bên cạnh là dấu hỏi chấm mỉa mai. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Sai lầm hoàn toàn",
+   "layout": "Mô hình súng phun nước áp lực cao bằng kim loại sáng bóng, các ống dẫn thủy lực đan xen với van tiết lưu áp suất cao. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Ở vòm họng trên",
+   "layout": "Mổ xẻ vòm họng: cận cảnh rãnh chữ V sâu và hẹp trên trần miệng cá; chiếc lưỡi cơ bắp linh hoạt ép chặt vào rãnh chuẩn bị tạo thành nòng súng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "biến khoang miệng thành",
+   "layout": "Cận cảnh đầu ngòi nòng súng: khoang miệng khép kín thành chiếc nòng súng tròn xoe đường kính 1mm, vệt nước bắt đầu được dẫn hướng thẳng tắp chuẩn bị khai hỏa. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1mm",
+     "side": "L",
+     "y": 380,
+     "value": "1 mm",
+     "label": "đường kính nòng",
+     "target": [
+      0.3,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tiếp theo, hai nắp",
+   "layout": "Pha nén cơ học: hai nắp mang khổng lồ của {HERO} phồng to rồi đóng sập lại cực mạnh như hai pít-tông thủy lực, tống tia nước phụt ra với vận tốc 5 m/s kèm đồng hồ đo tốc độ.",
+   "stickers": [
+    {
+     "at": "4-5 m/s",
+     "side": "R",
+     "y": 380,
+     "value": "4-5 m/s",
+     "label": "vận tốc đạn nước",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng bí mật kinh",
+   "layout": "Tòa nhà Đại học Bayreuth ở Đức và các nhà vật lý học đang theo dõi camera quay chậm ghi lại từng hạt nước chuyển động trong không khí. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Báo cáo chỉ huy",
+   "layout": "Cô {ASSISTANT} chăm chú nhìn vào màn hình máy hiện sóng, chỉ tay vào biểu đồ hiển thị phần đuôi tia nước màu đỏ đang lao nhanh hơn phần đầu màu xanh 20%.",
+   "stickers": [
+    {
+     "at": "20%",
+     "side": "L",
+     "y": 380,
+     "value": "+20% SPD",
+     "label": "gia tốc phần đuôi",
+     "target": [
+      0.3,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đây chính là tuyệt",
+   "layout": "Cận cảnh khóe miệng {HERO}: miệng cá mở rộng dần đều trong từng mili-giây, làm phần nước phun ra sau nhận lực đẩy mạnh hơn, phóng vút lên không trung xé gió.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khi bay trên không",
+   "id": "L68",
+   "layout": "Pha tăng tốc kỳ diệu: trên không trung, phần đuôi tia nước lao nhanh hơn 20%, đuổi kịp và đập dồn vào phần đầu tạo thành dòng nước cuồn cuộn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Hiện tượng này biến",
+   "layout": "Pha dồn đạn nước ngoạn mục: trên không trung, phần đuôi nước đập dồn vào phần đầu, tạo thành một quả bóng nước khổng lồ cô đặc ngay trước khi va chạm chú {MANTIS} trên cành.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "tăng vọt gấp 5-10",
+   "layout": "Lực va chạm bùng nổ: quả cầu nước đập cực mạnh làm vỡ vụn cành lá, chú {MANTIS} bay tung móng vuốt ngã nhào; đồng hồ đo lực hiển thị va chạm mạnh gấp 10 lần dòng nước thường.",
+   "stickers": [
+    {
+     "at": "gấp 5-10 lần",
+     "side": "R",
+     "y": 380,
+     "value": "x10 LỰC",
+     "label": "động năng nén tụ",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chưa hết đâu các",
+   "layout": "Bắn liên thanh đại bác: {HERO} bắn liên tiếp 6-7 phát đạn nước 'bụp bụp bụp' thành một chuỗi đạn nước bay thẳng hàng lên không trung chỉ trong vòng 2 giây như súng máy tự động.",
+   "stickers": [
+    {
+     "at": "6-7",
+     "side": "L",
+     "y": 380,
+     "value": "6-7 PHÁT",
+     "label": "bắn liên thanh",
+     "target": [
+      0.3,
+      0.55
+     ]
+    },
+    {
+     "at": "2 giây",
+     "side": "R",
+     "y": 480,
+     "value": "2 GIÂY",
+     "label": "thời gian xả đạn",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Mỗi phát bắn đều",
+   "layout": "Các bia bắn thử nghiệm trên cao: 6-7 hồng tâm lá cây đều bị đạn nước xuyên thủng tâm điểm chính xác 100%, nước bắn tung tóe như súng máy cao xạ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Bài toán ngắm bắn quang học: mặt phân cách giữa nước và không khí gợn sóng lấp lánh; một tia sáng từ con mồi chiếu xuống bị bẻ gãy góc đột ngột khi chui qua mặt nước. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và trở ngại chết",
+   "layout": "Hình ảnh phóng to lăng kính khúc xạ nước: đường đi của ánh sáng bị gãy khúc tại bề mặt phân cách, tạo ra góc lệch lớn đánh lừa thị giác. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bất kỳ học sinh",
+   "layout": "Sơ đồ định luật khúc xạ Snell: BÊN TRÁI hình ảnh chú {SPIDER} thực tế trên cành; BÊN PHẢI hình ảnh bóng mờ ảo của chú nhện bị lệch đi một góc lớn do ánh sáng bị bẻ cong. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Do đó, vị trí",
+   "layout": "Mô phỏng tầm nhìn sai lệch: hình ảnh con nhện ảo trôi nổi phía trên cành cây, mũi tên chỉ rõ khoảng cách sai số giữa vị trí thực và vị trí ảo. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nếu bạn bắn thẳng",
+   "layout": "Minh họa bắn trượt: một viên đạn nước bắn thẳng vào ảnh ảo bị bay vút lên trời chệch mục tiêu; bên cạnh là chú nhện ung dung vẫy tay chào mỉa mai. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng bộ não của",
+   "layout": "Bộ vi xử lý lượng giác sinh học: bộ não tí hon của {HERO} phát sáng các vi mạch thuật toán giải phương trình sin khúc xạ chỉ trong vòng 50 mili-giây.",
+   "stickers": [
+    {
+     "at": "50 mili-giây",
+     "side": "L",
+     "y": 380,
+     "value": "50 ms",
+     "label": "tính toán khúc xạ",
+     "target": [
+      0.3,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Alo các bác xạ",
+   "layout": "Chú {SPIDER} bám trên cành nghiêng 45 độ, ôm đầu ngơ ngác khi tia nước bắn trúng ngay đỉnh đầu, chiếc ba lô tí hon văng ra ngoài trong ngỡ ngàng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đúng như chú nhện",
+   "layout": "Chiến thuật định vị góc bắn: {HERO} bơi vào vị trí tạo góc ngắm tối ưu 70°-80° gần vuông góc mặt nước, sẵn sàng ngắm chuẩn.",
+   "stickers": [
+    {
+     "at": "70°",
+     "side": "L",
+     "y": 380,
+     "value": "70°-80°",
+     "label": "góc ngắm chuẩn",
+     "target": [
+      0.3,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng ngay cả khi",
+   "id": "L69",
+   "layout": "Thử thách góc nghiêng cực hạn: cá bị ép bắn ở góc nghiêng 45° so với mặt nước, tia nước vẫn vút trúng đích với độ chính xác 95%.",
+   "stickers": [
+    {
+     "at": "95%",
+     "side": "R",
+     "y": 380,
+     "value": "95% HIT",
+     "label": "độ chính xác",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đôi mắt to tròn",
+   "layout": "Đặc tả đôi mắt {HERO}: nhãn cầu lớn màu vàng với 2 trục quang học độc lập xoay chuyển linh hoạt, xuyên qua lớp gương phản xạ mặt nước để tạo tầm nhìn 3D sắc bén.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thậm chí võng mạc",
+   "layout": "Võng mạc siêu cảm biến: các tế bào cảm quang chuyên biệt trong mắt cá tự động lọc sạch ánh sáng lóa mặt trời và bóc tách màu ngụy trang của bầy côn trùng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Một hệ thống kính",
+   "id": "L70",
+   "layout": "Kính ngắm hồng ngoại sinh học: giao diện nhìn từ mắt cá với các đường lưới ngắm màu xanh neon, đánh dấu đỏ vào mục tiêu ngụy trang trong kẽ lá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Trường bắn tân binh dưới đáy sông: các chú cá cung thủ non bé xíu xếp hàng ngay ngắn, phía trên là các cành cây có gắn bia tập bắn bằng lá tròn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nghiên cứu thực nghiệm",
+   "layout": "Phòng thí nghiệm nghiên cứu động vật: các nhà khoa học ghi chép sổ nhật ký theo dõi quá trình tập bắn từ thuở sơ sinh của bầy cá. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bản tin huấn luyện",
+   "layout": "Loa phát thanh quân sự: bảng kết quả tập bắn ghi dòng chữ 'BẮN TRƯỢT 99%'; một chú cá non bắn tia nước phì ra được 2cm rồi rơi tõm xuống nước mặt méo xẹo. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "99%",
+     "side": "L",
+     "y": 380,
+     "value": "99% TRƯỢT",
+     "label": "tân binh mới nở",
+     "target": [
+      0.3,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đúng là cảnh tượng",
+   "layout": "Hình ảnh huấn luyện gian khổ: chú cá non kiên trì bắn hàng trăm phát đạn nước liên tục, não bộ vẽ các đường vòng cung hiệu chỉnh góc ngẩng dần đều.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Cá cung thủ non",
+   "layout": "Biểu đồ tiến bộ kỹ năng: đường cong học tập đi lên dốc đứng theo số ngày rèn luyện, các tia nước bắn ngày càng xa và trúng đích nhiều hơn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nhưng điều làm kinh",
+   "layout": "Tạp chí Nature danh giá: trang bìa Nature mở ra hình ảnh một chú cá non đang bơi sát cạnh {HERO} kỳ cựu, chăm chú quan sát đàn anh ngắm bắn chuẩn xác.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Một con cá non",
+   "layout": "Cảnh học hỏi đàn anh: {HERO} giương vây bắn mẫu một phát đạn nước trúng đích, chú cá non bơi bên cạnh mở to mắt ngưỡng mộ và bắt chước tư thế ngắm bắn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Khả năng quan sát",
+   "layout": "Mô phỏng năng lực nhận thức xã hội: sơ đồ sóng não từ {HERO} truyền cảm hứng mô phỏng sang chú cá non, giúp tân binh bắn trúng ngay bia tập chỉ sau một lần quan sát.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Một minh chứng hùng",
+   "id": "L71",
+   "layout": "Biểu tượng trí tuệ vượt bậc: chú Cá Cung Thủ hoạt hình tỏa sáng rực rỡ với vương miện trí tuệ, đập tan định kiến thông thường về loài cá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Để kiểm chứng điều",
+   "layout": "Thí nghiệm của GS Stefan Schuster: một màn hình máy tính chiếu điểm sáng di động, {HERO} tính toán trước quỹ đạo và bắn tia nước đón đầu trúng phóc điểm sáng trên màn hình.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chỉ sau vài lượt",
+   "layout": "Màn hình máy tính hiển thị điểm 'TARGET DESTROYED': điểm sáng ảo vừa xuất hiện đã bị tia nước bắn hạ gục; các nhà khoa học vỗ tay kinh ngạc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Chiến trường cạnh tranh khốc liệt: con côn trùng vừa bị bắn rơi khỏi lá, xung quanh nhiều chú cá khác trong bầy đang giương mắt thèm thuồng chuẩn bị lao vào cướp mồi. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Trong thế giới đầm",
+   "layout": "Cảnh tượng bầy cá đói bụng há miệng chực chờ dưới mặt nước, mắt lăm lăm nhìn con mồi đang rơi lơ lửng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Ngay khoảnh khắc tia",
+   "layout": "Bộ xử lý đạn đạo siêu tốc: đường parabol màu vàng vẽ từ vị trí con bọ rơi xuống mặt nước, đồng hồ bấm giờ tính toán dừng ở mốc 100 mili-giây. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "100 mili-giây",
+     "side": "L",
+     "y": 380,
+     "value": "100 ms",
+     "label": "tính điểm rơi",
+     "target": [
+      0.3,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Không cần đợi nhìn",
+   "layout": "Pha bơi nước rút thần tốc: {HERO} bật vây bơi vút như quả ngư lôi xé toạc mặt nước, há rộng miệng đón lõng ngay vị trí con mồi chạm nước chỉ trong 0,1 giây.",
+   "stickers": [
+    {
+     "at": "0,1 giây",
+     "side": "R",
+     "y": 380,
+     "value": "0,1 GIÂY",
+     "label": "bơi nước rút",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Một pha đoán đầu",
+   "layout": "{HERO} đớp gọn con mồi đúng 0,1 giây khi vừa chạm mặt nước; xung quanh các chú cá đối thủ thắng gấp tạo vệt nước xoáy bất lực.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Cuộc đua cướp mồi",
+   "layout": "Cuộc đua bầy đàn náo loạn: 3-4 chú cá đối thủ cùng lao tới từ các hướng tạo sóng cuồn cuộn, nhưng {HERO} đã nhanh chân đớp gọn con mồi trước mũi đối thủ trong gang tấc.",
+   "stickers": [
+    {
+     "at": "3-4",
+     "side": "L",
+     "y": 380,
+     "value": "3-4 CON",
+     "label": "lao vào tranh cướp",
+     "target": [
+      0.25,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nếu tay súng chính",
+   "layout": "Hình ảnh minh họa đối thủ cướp mồi: con mồi rơi ngay sát miệng kẻ cơ hội bơi chậm 0,1s, {HERO} phóng vụt qua nẫng tay trên trong tích tắc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Tôi bắn tỉa trong",
+   "layout": "Chú xạ thủ quân đội lực lưỡng mặc quân phục rằn ri ngả mũ kính phục, giơ ngón tay cái tán thưởng chiếc camera quay cảnh tính toán đạn đạo của cá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thậm chí Thiện Xạ",
+   "layout": "Phương án tác chiến cận chiến: mục tiêu ở cành lá thấp 30cm, {HERO} ngưng hỏa lực nước, co vây đuôi tích lũy động năng.",
+   "stickers": [
+    {
+     "at": "30cm",
+     "side": "R",
+     "y": 380,
+     "value": "30 cm",
+     "label": "nhảy không đối không",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Con cá chỉ cần",
+   "layout": "Cú nhảy không kích ngoạn mục: {HERO} phóng vút toàn bộ cơ thể bay lên khỏi mặt nước 30cm như tên lửa mini ngoạm trọn con mồi trên không trung.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Tuy nhiên, cỗ máy",
+   "layout": "Tử huyệt thời tiết: mặt nước gió to nổi sóng dập dềnh cuồn cuộn, {HERO} ngắm bắn bị sóng làm méo hình ảnh, tia nước bắn chệch cành lá làm con mồi bay mất vẻ mặt tiếc nuối.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Bảng tổng kết đánh giá kỹ thuật số 20: biểu đồ sao radar với các chỉ số: Độ chính xác 95%, Tầm bắn 3m, Thời gian tính toán 50ms; {HERO} đứng trên bục chào quân sự nghiêm trang.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Sự am hiểu quy",
+   "layout": "Hình ảnh triết lý thiên nhiên: đại dương bao la với những sinh vật khổng lồ bơi qua, nhưng tâm điểm ánh sáng chiếu vào chú {HERO} bé nhỏ phát sáng rực rỡ với khẩu đại bác uy lực.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chính cơ chế nén",
+   "layout": "Nguồn cảm hứng vô giá: các kỹ sư hàng không vũ trụ và in 3D hiện đại say sưa nghiên cứu cơ chế đẩy dòng nước của Cá Cung Thủ trên bàn thiết kế. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "thiết kế ra những",
+   "id": "L72",
+   "layout": "Ứng dụng công nghệ tương lai: BÊN TRÁI vòi phun vi mô động cơ phản lực chất lỏng; BÊN PHẢI đầu in 3D sinh học siêu chính xác mô phỏng cơ chế gia tốc tia nước của Cá Cung Thủ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bạn khâm phục điều",
+   "layout": "Khung bình luận tương tác: {HERO} cầm micro hướng về người xem, bên cạnh là hai ô lựa chọn: 'ĐẠI BÁC NÉN ĐẠN NƯỚC' và 'BỘ NÃO GIẢI KHÚC XẠ 50ms' kèm dấu hỏi chấm to lớn.",
+   "stickers": [
+    {
+     "at": "Khẩu đại bác",
+     "side": "L",
+     "y": 380,
+     "value": "ĐẠI BÁC",
+     "label": "đạn nước gia tốc",
+     "target": [
+      0.25,
+      0.55
+     ]
+    },
+    {
+     "at": "giải định luật",
+     "side": "R",
+     "y": 480,
+     "value": "BỘ NÃO",
+     "label": "giải khúc xạ quang học",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và bây giờ, hãy",
+   "layout": "Chuyển cảnh rừng rậm châu Phi: ngòi bút vẽ tay phác thảo khu rừng mưa nhiệt đới sương mù mờ ảo, những thân cây rêu phong cổ thụ bí ẩn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hãy chiêm ngưỡng một",
+   "layout": "BÓNG ĐEN BÍ ẨN TẬP TIẾP THEO (TASTE-68): một bóng đen tuyền hình chú ếch nhỏ bé kỳ dị trong bóng tối, từ đầu ngón chân phát ra những tia sáng kim loại sắc nhọn kèm dấu hỏi chấm khổng lồ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một sinh vật lưỡng",
+   "layout": "Bóng đen chú ếch nhỏ bé giương mắt đỏ rực giữa đêm tối rậm rạp sương mù, thân mình phủ lớp lông gai mờ ảo đầy đe dọa. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Khi bị kẻ săn",
+   "layout": "Cận cảnh bộ vuốt sắc nhọn: xương ngón chân tự đâm xuyên qua da thịt tạo thành 3 chiếc móng vuốt dài nhọn hoắt như móng vuốt Người Sói Wolverine giương lên thách thức kẻ thù. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đố các chuyên viên",
+   "layout": "Khung hình tò mò kêu gọi bình luận: bóng đen chú ếch móng vuốt Wolverine bí ẩn dưới ánh trăng rọi, dấu hỏi chấm to vàng phát sáng '?', kêu gọi khán giả đoán tên con vật bên dưới. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Cảnh báo bắn tỉa giật gân: radar quân sự nhấp nháy phát hiện mục tiêu trên ngọn đước, còi báo động màu đỏ chớp sáng. {NO_HERO}.",
+   "stickers": []
+  },
+  {
+   "at": "Bạn có tin một",
+   "layout": "BÊN TRÁI cành cây cao 2m có chú {SPIDER} đang ung dung bám lá; BÊN DƯỚI mặt nước {HERO_S} giương kính ngắm laser đỏ rực lên trời đầy thách thức.",
+   "stickers": [
+    {
+     "at": "2m",
+     "side": "R",
+     "y": 620,
+     "value": "2 MÉT",
+     "label": "tầm bắn trên cạn",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Đây là Cá Cung",
+   "layout": "Chân dung oai phong: {HERO_S} bơi hiên ngang giữa rạn đước, mũ beret đen kiêu hãnh, vảy bạc sọc đen lấp lánh ánh kim, kính ngắm laser khóa chặt mục tiêu.",
+   "stickers": []
+  },
+  {
+   "at": "Thứ nhất, vòm họng",
+   "layout": "Cơ chế nòng súng chữ V: cận cảnh vòm họng ép sát với lưỡi thành nòng súng tí hon nén tia nước áp suất cao.",
+   "stickers": []
+  },
+  {
+   "at": "nén tia nước bắn",
+   "layout": "Tia nước bắn vút lên cao xuyên thủng không gian với thước đo đạt mốc kỷ lục 3 mét.",
+   "stickers": [
+    {
+     "at": "3m",
+     "side": "R",
+     "y": 620,
+     "value": "3 MÉT",
+     "label": "tầm bắn kỷ lục",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Thứ hai, phần đuôi",
+   "layout": "Động lực học chất lỏng: phần đuôi tia nước lao nhanh hơn phần đầu, thu hẹp khoảng cách trong không khí xé gió.",
+   "stickers": []
+  },
+  {
+   "at": "đập dồn lại thành",
+   "layout": "Hiệu ứng đạn nước gia tốc: phần đuôi tia nước đập dồn vào phần đầu biến thành quả cầu nước uy lực đập văng chú {MANTIS} khỏi cành cây.",
+   "stickers": [
+    {
+     "at": "gấp 10 lần",
+     "side": "L",
+     "y": 620,
+     "value": "x10 LỰC",
+     "label": "động năng nén tụ",
+     "target": [
+      0.25,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Thứ ba, mặt nước",
+   "layout": "Giải mã định luật khúc xạ Snell: sơ đồ ánh sáng bị bẻ cong qua mặt nước, tạo ảnh ảo lệch vị trí con mồi. {NO_HERO}.",
+   "stickers": []
+  },
+  {
+   "at": "nhưng bộ não của",
+   "layout": "Bộ não giải toán quang học: não bộ {HERO_S} tính toán góc bù trừ chỉ trong 50 mili-giây với độ chính xác 95%.",
+   "stickers": [
+    {
+     "at": "50 mili-giây",
+     "side": "L",
+     "y": 620,
+     "value": "50 ms",
+     "label": "giải khúc xạ Snell",
+     "target": [
+      0.25,
+      0.55
+     ]
+    },
+    {
+     "at": "95%",
+     "side": "R",
+     "y": 720,
+     "value": "95% HIT",
+     "label": "độ chính xác",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Chưa hết, nó còn",
+   "layout": "Tính toán điểm rơi đạn đạo: phương trình đạn đạo parabol nối từ cành cây xuống mặt nước trong 100ms.",
+   "stickers": []
+  },
+  {
+   "at": "để bơi nước rút",
+   "layout": "{HERO_S} lao vút như ngư lôi đón mồi trong 0,1 giây, nẫng tay trên trước mũi bầy đối thủ.",
+   "stickers": [
+    {
+     "at": "0,1 giây",
+     "side": "R",
+     "y": 620,
+     "value": "0,1 GIÂY",
+     "label": "bơi nước rút",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Độ chính xác và",
+   "layout": "Độ chính xác phi thường: chú {HERO_S} giương vây bơi lượn kiêu hãnh với tỷ lệ bắn trúng 95% bách phát bách trúng.",
+   "stickers": []
+  },
+  {
+   "at": "đó chính là vũ",
+   "id": "S13",
+   "layout": "Khoảnh khắc vinh quang trọn vẹn: {HERO_S} đớp gọn con mồi trên mặt nước, thống trị cả hai thế giới dưới nước và trên cạn giữa rặng rừng ngập mặn lung linh ánh nắng chiến thắng.",
+   "stickers": []
+  }
+ ]
+}

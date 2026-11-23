@@ -1,0 +1,1283 @@
+[
+  {
+    "word": "Lửng",
+    "clean": "Lửng",
+    "startMs": 200,
+    "endMs": 536,
+    "durationMs": 336
+  },
+  {
+    "word": "Mật",
+    "clean": "Mật",
+    "startMs": 536,
+    "endMs": 788,
+    "durationMs": 252
+  },
+  {
+    "word": "chính",
+    "clean": "chính",
+    "startMs": 788,
+    "endMs": 1209,
+    "durationMs": 421
+  },
+  {
+    "word": "là",
+    "clean": "là",
+    "startMs": 1209,
+    "endMs": 1377,
+    "durationMs": 168
+  },
+  {
+    "word": "minh",
+    "clean": "minh",
+    "startMs": 1377,
+    "endMs": 1713,
+    "durationMs": 336
+  },
+  {
+    "word": "chứng",
+    "clean": "chứng",
+    "startMs": 1713,
+    "endMs": 2134,
+    "durationMs": 421
+  },
+  {
+    "word": "sống",
+    "clean": "sống",
+    "startMs": 2134,
+    "endMs": 2470,
+    "durationMs": 336
+  },
+  {
+    "word": "động",
+    "clean": "động",
+    "startMs": 2470,
+    "endMs": 2806,
+    "durationMs": 336
+  },
+  {
+    "word": "nhất",
+    "clean": "nhất",
+    "startMs": 2806,
+    "endMs": 3142,
+    "durationMs": 336
+  },
+  {
+    "word": "cho",
+    "clean": "cho",
+    "startMs": 3142,
+    "endMs": 3394,
+    "durationMs": 252
+  },
+  {
+    "word": "việc",
+    "clean": "việc",
+    "startMs": 3394,
+    "endMs": 3730,
+    "durationMs": 336
+  },
+  {
+    "word": "kích",
+    "clean": "kích",
+    "startMs": 3730,
+    "endMs": 4066,
+    "durationMs": 336
+  },
+  {
+    "word": "thước",
+    "clean": "thước",
+    "startMs": 4066,
+    "endMs": 4487,
+    "durationMs": 421
+  },
+  {
+    "word": "không",
+    "clean": "không",
+    "startMs": 4487,
+    "endMs": 4908,
+    "durationMs": 421
+  },
+  {
+    "word": "quyết",
+    "clean": "quyết",
+    "startMs": 4908,
+    "endMs": 5329,
+    "durationMs": 421
+  },
+  {
+    "word": "định",
+    "clean": "định",
+    "startMs": 5329,
+    "endMs": 5665,
+    "durationMs": 336
+  },
+  {
+    "word": "vị",
+    "clean": "vị",
+    "startMs": 5665,
+    "endMs": 5833,
+    "durationMs": 168
+  },
+  {
+    "word": "thế",
+    "clean": "thế",
+    "startMs": 5833,
+    "endMs": 6085,
+    "durationMs": 252
+  },
+  {
+    "word": "của",
+    "clean": "của",
+    "startMs": 6085,
+    "endMs": 6337,
+    "durationMs": 252
+  },
+  {
+    "word": "bạn",
+    "clean": "bạn",
+    "startMs": 6337,
+    "endMs": 6589,
+    "durationMs": 252
+  },
+  {
+    "word": "trong",
+    "clean": "trong",
+    "startMs": 6589,
+    "endMs": 7010,
+    "durationMs": 421
+  },
+  {
+    "word": "tự",
+    "clean": "tự",
+    "startMs": 7010,
+    "endMs": 7178,
+    "durationMs": 168
+  },
+  {
+    "word": "nhiên.",
+    "clean": "nhiên",
+    "startMs": 7178,
+    "endMs": 7599,
+    "durationMs": 421
+  },
+  {
+    "word": "Một",
+    "clean": "Một",
+    "startMs": 8020,
+    "endMs": 8272,
+    "durationMs": 252
+  },
+  {
+    "word": "sinh",
+    "clean": "sinh",
+    "startMs": 8272,
+    "endMs": 8608,
+    "durationMs": 336
+  },
+  {
+    "word": "vật",
+    "clean": "vật",
+    "startMs": 8608,
+    "endMs": 8860,
+    "durationMs": 252
+  },
+  {
+    "word": "nhỏ",
+    "clean": "nhỏ",
+    "startMs": 8860,
+    "endMs": 9112,
+    "durationMs": 252
+  },
+  {
+    "word": "bé",
+    "clean": "bé",
+    "startMs": 9112,
+    "endMs": 9280,
+    "durationMs": 168
+  },
+  {
+    "word": "nhưng",
+    "clean": "nhưng",
+    "startMs": 9280,
+    "endMs": 9701,
+    "durationMs": 421
+  },
+  {
+    "word": "mang",
+    "clean": "mang",
+    "startMs": 9701,
+    "endMs": 10037,
+    "durationMs": 336
+  },
+  {
+    "word": "ý",
+    "clean": "ý",
+    "startMs": 10037,
+    "endMs": 10142,
+    "durationMs": 105
+  },
+  {
+    "word": "chí",
+    "clean": "chí",
+    "startMs": 10142,
+    "endMs": 10394,
+    "durationMs": 252
+  },
+  {
+    "word": "kiên",
+    "clean": "kiên",
+    "startMs": 10394,
+    "endMs": 10730,
+    "durationMs": 336
+  },
+  {
+    "word": "cường",
+    "clean": "cường",
+    "startMs": 10730,
+    "endMs": 11151,
+    "durationMs": 421
+  },
+  {
+    "word": "và",
+    "clean": "và",
+    "startMs": 11151,
+    "endMs": 11319,
+    "durationMs": 168
+  },
+  {
+    "word": "lòng",
+    "clean": "lòng",
+    "startMs": 11319,
+    "endMs": 11655,
+    "durationMs": 336
+  },
+  {
+    "word": "dũng",
+    "clean": "dũng",
+    "startMs": 11655,
+    "endMs": 11991,
+    "durationMs": 336
+  },
+  {
+    "word": "cảm",
+    "clean": "cảm",
+    "startMs": 11991,
+    "endMs": 12243,
+    "durationMs": 252
+  },
+  {
+    "word": "bất",
+    "clean": "bất",
+    "startMs": 12243,
+    "endMs": 12495,
+    "durationMs": 252
+  },
+  {
+    "word": "diệt.",
+    "clean": "diệt",
+    "startMs": 12495,
+    "endMs": 12831,
+    "durationMs": 336
+  },
+  {
+    "word": "Thế",
+    "clean": "Thế",
+    "startMs": 13252,
+    "endMs": 13504,
+    "durationMs": 252
+  },
+  {
+    "word": "nhưng,",
+    "clean": "nhưng",
+    "startMs": 13504,
+    "endMs": 13925,
+    "durationMs": 421
+  },
+  {
+    "word": "gã",
+    "clean": "gã",
+    "startMs": 14135,
+    "endMs": 14303,
+    "durationMs": 168
+  },
+  {
+    "word": "Chí",
+    "clean": "Chí",
+    "startMs": 14303,
+    "endMs": 14555,
+    "durationMs": 252
+  },
+  {
+    "word": "Phèo",
+    "clean": "Phèo",
+    "startMs": 14555,
+    "endMs": 14891,
+    "durationMs": 336
+  },
+  {
+    "word": "châu",
+    "clean": "châu",
+    "startMs": 14891,
+    "endMs": 15227,
+    "durationMs": 336
+  },
+  {
+    "word": "Phi",
+    "clean": "Phi",
+    "startMs": 15227,
+    "endMs": 15479,
+    "durationMs": 252
+  },
+  {
+    "word": "này",
+    "clean": "này",
+    "startMs": 15479,
+    "endMs": 15731,
+    "durationMs": 252
+  },
+  {
+    "word": "mới",
+    "clean": "mới",
+    "startMs": 15731,
+    "endMs": 15983,
+    "durationMs": 252
+  },
+  {
+    "word": "chỉ",
+    "clean": "chỉ",
+    "startMs": 15983,
+    "endMs": 16235,
+    "durationMs": 252
+  },
+  {
+    "word": "là",
+    "clean": "là",
+    "startMs": 16235,
+    "endMs": 16403,
+    "durationMs": 168
+  },
+  {
+    "word": "câu",
+    "clean": "câu",
+    "startMs": 16403,
+    "endMs": 16655,
+    "durationMs": 252
+  },
+  {
+    "word": "chuyện",
+    "clean": "chuyện",
+    "startMs": 16655,
+    "endMs": 17160,
+    "durationMs": 505
+  },
+  {
+    "word": "mở",
+    "clean": "mở",
+    "startMs": 17160,
+    "endMs": 17328,
+    "durationMs": 168
+  },
+  {
+    "word": "đầu.",
+    "clean": "đầu",
+    "startMs": 17328,
+    "endMs": 17580,
+    "durationMs": 252
+  },
+  {
+    "word": "Nếu",
+    "clean": "Nếu",
+    "startMs": 18001,
+    "endMs": 18253,
+    "durationMs": 252
+  },
+  {
+    "word": "bạn",
+    "clean": "bạn",
+    "startMs": 18253,
+    "endMs": 18505,
+    "durationMs": 252
+  },
+  {
+    "word": "nghĩ",
+    "clean": "nghĩ",
+    "startMs": 18505,
+    "endMs": 18841,
+    "durationMs": 336
+  },
+  {
+    "word": "sự",
+    "clean": "sự",
+    "startMs": 18841,
+    "endMs": 19009,
+    "durationMs": 168
+  },
+  {
+    "word": "tàn",
+    "clean": "tàn",
+    "startMs": 19009,
+    "endMs": 19261,
+    "durationMs": 252
+  },
+  {
+    "word": "bạo",
+    "clean": "bạo",
+    "startMs": 19261,
+    "endMs": 19513,
+    "durationMs": 252
+  },
+  {
+    "word": "và",
+    "clean": "và",
+    "startMs": 19513,
+    "endMs": 19681,
+    "durationMs": 168
+  },
+  {
+    "word": "khó",
+    "clean": "khó",
+    "startMs": 19681,
+    "endMs": 19933,
+    "durationMs": 252
+  },
+  {
+    "word": "lường",
+    "clean": "lường",
+    "startMs": 19933,
+    "endMs": 20354,
+    "durationMs": 421
+  },
+  {
+    "word": "chỉ",
+    "clean": "chỉ",
+    "startMs": 20354,
+    "endMs": 20606,
+    "durationMs": 252
+  },
+  {
+    "word": "tồn",
+    "clean": "tồn",
+    "startMs": 20606,
+    "endMs": 20858,
+    "durationMs": 252
+  },
+  {
+    "word": "tại",
+    "clean": "tại",
+    "startMs": 20858,
+    "endMs": 21110,
+    "durationMs": 252
+  },
+  {
+    "word": "trên",
+    "clean": "trên",
+    "startMs": 21110,
+    "endMs": 21446,
+    "durationMs": 336
+  },
+  {
+    "word": "đất",
+    "clean": "đất",
+    "startMs": 21446,
+    "endMs": 21698,
+    "durationMs": 252
+  },
+  {
+    "word": "liền",
+    "clean": "liền",
+    "startMs": 21698,
+    "endMs": 22034,
+    "durationMs": 336
+  },
+  {
+    "word": "thì",
+    "clean": "thì",
+    "startMs": 22034,
+    "endMs": 22286,
+    "durationMs": 252
+  },
+  {
+    "word": "bạn",
+    "clean": "bạn",
+    "startMs": 22286,
+    "endMs": 22538,
+    "durationMs": 252
+  },
+  {
+    "word": "đã",
+    "clean": "đã",
+    "startMs": 22538,
+    "endMs": 22706,
+    "durationMs": 168
+  },
+  {
+    "word": "nhầm",
+    "clean": "nhầm",
+    "startMs": 22706,
+    "endMs": 23042,
+    "durationMs": 336
+  },
+  {
+    "word": "to.",
+    "clean": "to",
+    "startMs": 23042,
+    "endMs": 23210,
+    "durationMs": 168
+  },
+  {
+    "word": "Bởi",
+    "clean": "Bởi",
+    "startMs": 23631,
+    "endMs": 23883,
+    "durationMs": 252
+  },
+  {
+    "word": "vì",
+    "clean": "vì",
+    "startMs": 23883,
+    "endMs": 24051,
+    "durationMs": 168
+  },
+  {
+    "word": "khi",
+    "clean": "khi",
+    "startMs": 24051,
+    "endMs": 24303,
+    "durationMs": 252
+  },
+  {
+    "word": "lặn",
+    "clean": "lặn",
+    "startMs": 24303,
+    "endMs": 24555,
+    "durationMs": 252
+  },
+  {
+    "word": "xuống",
+    "clean": "xuống",
+    "startMs": 24555,
+    "endMs": 24976,
+    "durationMs": 421
+  },
+  {
+    "word": "đại",
+    "clean": "đại",
+    "startMs": 24976,
+    "endMs": 25228,
+    "durationMs": 252
+  },
+  {
+    "word": "dương",
+    "clean": "dương",
+    "startMs": 25228,
+    "endMs": 25649,
+    "durationMs": 421
+  },
+  {
+    "word": "bao",
+    "clean": "bao",
+    "startMs": 25649,
+    "endMs": 25901,
+    "durationMs": 252
+  },
+  {
+    "word": "la,",
+    "clean": "la",
+    "startMs": 25901,
+    "endMs": 26069,
+    "durationMs": 168
+  },
+  {
+    "word": "có",
+    "clean": "có",
+    "startMs": 26279,
+    "endMs": 26447,
+    "durationMs": 168
+  },
+  {
+    "word": "một",
+    "clean": "một",
+    "startMs": 26447,
+    "endMs": 26699,
+    "durationMs": 252
+  },
+  {
+    "word": "loài",
+    "clean": "loài",
+    "startMs": 26699,
+    "endMs": 27035,
+    "durationMs": 336
+  },
+  {
+    "word": "sinh",
+    "clean": "sinh",
+    "startMs": 27035,
+    "endMs": 27371,
+    "durationMs": 336
+  },
+  {
+    "word": "vật",
+    "clean": "vật",
+    "startMs": 27371,
+    "endMs": 27623,
+    "durationMs": 252
+  },
+  {
+    "word": "nổi",
+    "clean": "nổi",
+    "startMs": 27623,
+    "endMs": 27875,
+    "durationMs": 252
+  },
+  {
+    "word": "tiếng",
+    "clean": "tiếng",
+    "startMs": 27875,
+    "endMs": 28296,
+    "durationMs": 421
+  },
+  {
+    "word": "với",
+    "clean": "với",
+    "startMs": 28296,
+    "endMs": 28548,
+    "durationMs": 252
+  },
+  {
+    "word": "vẻ",
+    "clean": "vẻ",
+    "startMs": 28548,
+    "endMs": 28716,
+    "durationMs": 168
+  },
+  {
+    "word": "ngoài",
+    "clean": "ngoài",
+    "startMs": 28716,
+    "endMs": 29137,
+    "durationMs": 421
+  },
+  {
+    "word": "siêu",
+    "clean": "siêu",
+    "startMs": 29137,
+    "endMs": 29473,
+    "durationMs": 336
+  },
+  {
+    "word": "đáng",
+    "clean": "đáng",
+    "startMs": 29473,
+    "endMs": 29809,
+    "durationMs": 336
+  },
+  {
+    "word": "yêu,",
+    "clean": "yêu",
+    "startMs": 29809,
+    "endMs": 30061,
+    "durationMs": 252
+  },
+  {
+    "word": "hay",
+    "clean": "hay",
+    "startMs": 30271,
+    "endMs": 30523,
+    "durationMs": 252
+  },
+  {
+    "word": "nằm",
+    "clean": "nằm",
+    "startMs": 30523,
+    "endMs": 30775,
+    "durationMs": 252
+  },
+  {
+    "word": "ngửa",
+    "clean": "ngửa",
+    "startMs": 30775,
+    "endMs": 31111,
+    "durationMs": 336
+  },
+  {
+    "word": "nắm",
+    "clean": "nắm",
+    "startMs": 31111,
+    "endMs": 31363,
+    "durationMs": 252
+  },
+  {
+    "word": "tay",
+    "clean": "tay",
+    "startMs": 31363,
+    "endMs": 31615,
+    "durationMs": 252
+  },
+  {
+    "word": "nhau",
+    "clean": "nhau",
+    "startMs": 31615,
+    "endMs": 31951,
+    "durationMs": 336
+  },
+  {
+    "word": "ngủ",
+    "clean": "ngủ",
+    "startMs": 31951,
+    "endMs": 32203,
+    "durationMs": 252
+  },
+  {
+    "word": "trên",
+    "clean": "trên",
+    "startMs": 32203,
+    "endMs": 32539,
+    "durationMs": 336
+  },
+  {
+    "word": "mặt",
+    "clean": "mặt",
+    "startMs": 32539,
+    "endMs": 32791,
+    "durationMs": 252
+  },
+  {
+    "word": "nước...",
+    "clean": "nước",
+    "startMs": 32791,
+    "endMs": 33127,
+    "durationMs": 336
+  },
+  {
+    "word": "nhưng",
+    "clean": "nhưng",
+    "startMs": 33548,
+    "endMs": 33969,
+    "durationMs": 421
+  },
+  {
+    "word": "ẩn",
+    "clean": "ẩn",
+    "startMs": 33969,
+    "endMs": 34137,
+    "durationMs": 168
+  },
+  {
+    "word": "sau",
+    "clean": "sau",
+    "startMs": 34137,
+    "endMs": 34389,
+    "durationMs": 252
+  },
+  {
+    "word": "đó",
+    "clean": "đó",
+    "startMs": 34389,
+    "endMs": 34557,
+    "durationMs": 168
+  },
+  {
+    "word": "lại",
+    "clean": "lại",
+    "startMs": 34557,
+    "endMs": 34809,
+    "durationMs": 252
+  },
+  {
+    "word": "là",
+    "clean": "là",
+    "startMs": 34809,
+    "endMs": 34977,
+    "durationMs": 168
+  },
+  {
+    "word": "những",
+    "clean": "những",
+    "startMs": 34977,
+    "endMs": 35398,
+    "durationMs": 421
+  },
+  {
+    "word": "hành",
+    "clean": "hành",
+    "startMs": 35398,
+    "endMs": 35734,
+    "durationMs": 336
+  },
+  {
+    "word": "vi",
+    "clean": "vi",
+    "startMs": 35734,
+    "endMs": 35902,
+    "durationMs": 168
+  },
+  {
+    "word": "tâm",
+    "clean": "tâm",
+    "startMs": 35902,
+    "endMs": 36154,
+    "durationMs": 252
+  },
+  {
+    "word": "lý",
+    "clean": "lý",
+    "startMs": 36154,
+    "endMs": 36322,
+    "durationMs": 168
+  },
+  {
+    "word": "rùng",
+    "clean": "rùng",
+    "startMs": 36322,
+    "endMs": 36658,
+    "durationMs": 336
+  },
+  {
+    "word": "rợn",
+    "clean": "rợn",
+    "startMs": 36658,
+    "endMs": 36910,
+    "durationMs": 252
+  },
+  {
+    "word": "và",
+    "clean": "và",
+    "startMs": 36910,
+    "endMs": 37078,
+    "durationMs": 168
+  },
+  {
+    "word": "tàn",
+    "clean": "tàn",
+    "startMs": 37078,
+    "endMs": 37330,
+    "durationMs": 252
+  },
+  {
+    "word": "bạo",
+    "clean": "bạo",
+    "startMs": 37330,
+    "endMs": 37582,
+    "durationMs": 252
+  },
+  {
+    "word": "bậc",
+    "clean": "bậc",
+    "startMs": 37582,
+    "endMs": 37834,
+    "durationMs": 252
+  },
+  {
+    "word": "nhất",
+    "clean": "nhất",
+    "startMs": 37834,
+    "endMs": 38170,
+    "durationMs": 336
+  },
+  {
+    "word": "thế",
+    "clean": "thế",
+    "startMs": 38170,
+    "endMs": 38422,
+    "durationMs": 252
+  },
+  {
+    "word": "giới",
+    "clean": "giới",
+    "startMs": 38422,
+    "endMs": 38758,
+    "durationMs": 336
+  },
+  {
+    "word": "động",
+    "clean": "động",
+    "startMs": 38758,
+    "endMs": 39094,
+    "durationMs": 336
+  },
+  {
+    "word": "vật:",
+    "clean": "vật",
+    "startMs": 39094,
+    "endMs": 39346,
+    "durationMs": 252
+  },
+  {
+    "word": "Đó",
+    "clean": "Đó",
+    "startMs": 39556,
+    "endMs": 39724,
+    "durationMs": 168
+  },
+  {
+    "word": "chính",
+    "clean": "chính",
+    "startMs": 39724,
+    "endMs": 40145,
+    "durationMs": 421
+  },
+  {
+    "word": "là",
+    "clean": "là",
+    "startMs": 40145,
+    "endMs": 40313,
+    "durationMs": 168
+  },
+  {
+    "word": "Rái",
+    "clean": "Rái",
+    "startMs": 40313,
+    "endMs": 40565,
+    "durationMs": 252
+  },
+  {
+    "word": "Cá",
+    "clean": "Cá",
+    "startMs": 40565,
+    "endMs": 40733,
+    "durationMs": 168
+  },
+  {
+    "word": "Biển!",
+    "clean": "Biển",
+    "startMs": 40733,
+    "endMs": 41069,
+    "durationMs": 336
+  },
+  {
+    "word": "Hãy",
+    "clean": "Hãy",
+    "startMs": 41490,
+    "endMs": 41742,
+    "durationMs": 252
+  },
+  {
+    "word": "bấm",
+    "clean": "bấm",
+    "startMs": 41742,
+    "endMs": 41994,
+    "durationMs": 252
+  },
+  {
+    "word": "ngay",
+    "clean": "ngay",
+    "startMs": 41994,
+    "endMs": 42330,
+    "durationMs": 336
+  },
+  {
+    "word": "vào",
+    "clean": "vào",
+    "startMs": 42330,
+    "endMs": 42582,
+    "durationMs": 252
+  },
+  {
+    "word": "video",
+    "clean": "video",
+    "startMs": 42582,
+    "endMs": 43003,
+    "durationMs": 421
+  },
+  {
+    "word": "đang",
+    "clean": "đang",
+    "startMs": 43003,
+    "endMs": 43339,
+    "durationMs": 336
+  },
+  {
+    "word": "hiển",
+    "clean": "hiển",
+    "startMs": 43339,
+    "endMs": 43675,
+    "durationMs": 336
+  },
+  {
+    "word": "thị",
+    "clean": "thị",
+    "startMs": 43675,
+    "endMs": 43927,
+    "durationMs": 252
+  },
+  {
+    "word": "trên",
+    "clean": "trên",
+    "startMs": 43927,
+    "endMs": 44263,
+    "durationMs": 336
+  },
+  {
+    "word": "màn",
+    "clean": "màn",
+    "startMs": 44263,
+    "endMs": 44515,
+    "durationMs": 252
+  },
+  {
+    "word": "hình",
+    "clean": "hình",
+    "startMs": 44515,
+    "endMs": 44851,
+    "durationMs": 336
+  },
+  {
+    "word": "để",
+    "clean": "để",
+    "startMs": 44851,
+    "endMs": 45019,
+    "durationMs": 168
+  },
+  {
+    "word": "cùng",
+    "clean": "cùng",
+    "startMs": 45019,
+    "endMs": 45355,
+    "durationMs": 336
+  },
+  {
+    "word": "vén",
+    "clean": "vén",
+    "startMs": 45355,
+    "endMs": 45607,
+    "durationMs": 252
+  },
+  {
+    "word": "màn",
+    "clean": "màn",
+    "startMs": 45607,
+    "endMs": 45859,
+    "durationMs": 252
+  },
+  {
+    "word": "bí",
+    "clean": "bí",
+    "startMs": 45859,
+    "endMs": 46027,
+    "durationMs": 168
+  },
+  {
+    "word": "mật",
+    "clean": "mật",
+    "startMs": 46027,
+    "endMs": 46279,
+    "durationMs": 252
+  },
+  {
+    "word": "rùng",
+    "clean": "rùng",
+    "startMs": 46279,
+    "endMs": 46615,
+    "durationMs": 336
+  },
+  {
+    "word": "rợn",
+    "clean": "rợn",
+    "startMs": 46615,
+    "endMs": 46867,
+    "durationMs": 252
+  },
+  {
+    "word": "của",
+    "clean": "của",
+    "startMs": 46867,
+    "endMs": 47119,
+    "durationMs": 252
+  },
+  {
+    "word": "loài",
+    "clean": "loài",
+    "startMs": 47119,
+    "endMs": 47455,
+    "durationMs": 336
+  },
+  {
+    "word": "vật",
+    "clean": "vật",
+    "startMs": 47455,
+    "endMs": 47707,
+    "durationMs": 252
+  },
+  {
+    "word": "dễ",
+    "clean": "dễ",
+    "startMs": 47707,
+    "endMs": 47875,
+    "durationMs": 168
+  },
+  {
+    "word": "thương",
+    "clean": "thương",
+    "startMs": 47875,
+    "endMs": 48380,
+    "durationMs": 505
+  },
+  {
+    "word": "này",
+    "clean": "này",
+    "startMs": 48380,
+    "endMs": 48632,
+    "durationMs": 252
+  },
+  {
+    "word": "trong",
+    "clean": "trong",
+    "startMs": 48632,
+    "endMs": 49053,
+    "durationMs": 421
+  },
+  {
+    "word": "tập",
+    "clean": "tập",
+    "startMs": 49053,
+    "endMs": 49305,
+    "durationMs": 252
+  },
+  {
+    "word": "tiếp",
+    "clean": "tiếp",
+    "startMs": 49305,
+    "endMs": 49641,
+    "durationMs": 336
+  },
+  {
+    "word": "theo",
+    "clean": "theo",
+    "startMs": 49641,
+    "endMs": 49977,
+    "durationMs": 336
+  },
+  {
+    "word": "nhé.",
+    "clean": "nhé",
+    "startMs": 49977,
+    "endMs": 50229,
+    "durationMs": 252
+  },
+  {
+    "word": "Đừng",
+    "clean": "Đừng",
+    "startMs": 50650,
+    "endMs": 50986,
+    "durationMs": 336
+  },
+  {
+    "word": "quên",
+    "clean": "quên",
+    "startMs": 50986,
+    "endMs": 51322,
+    "durationMs": 336
+  },
+  {
+    "word": "bấm",
+    "clean": "bấm",
+    "startMs": 51322,
+    "endMs": 51574,
+    "durationMs": 252
+  },
+  {
+    "word": "Đăng",
+    "clean": "Đăng",
+    "startMs": 51574,
+    "endMs": 51910,
+    "durationMs": 336
+  },
+  {
+    "word": "Ký",
+    "clean": "Ký",
+    "startMs": 51910,
+    "endMs": 52078,
+    "durationMs": 168
+  },
+  {
+    "word": "kênh",
+    "clean": "kênh",
+    "startMs": 52078,
+    "endMs": 52414,
+    "durationMs": 336
+  },
+  {
+    "word": "Vẽ",
+    "clean": "Vẽ",
+    "startMs": 52414,
+    "endMs": 52582,
+    "durationMs": 168
+  },
+  {
+    "word": "Chuyện",
+    "clean": "Chuyện",
+    "startMs": 52582,
+    "endMs": 53087,
+    "durationMs": 505
+  },
+  {
+    "word": "Muông",
+    "clean": "Muông",
+    "startMs": 53087,
+    "endMs": 53508,
+    "durationMs": 421
+  },
+  {
+    "word": "Thú",
+    "clean": "Thú",
+    "startMs": 53508,
+    "endMs": 53760,
+    "durationMs": 252
+  },
+  {
+    "word": "để",
+    "clean": "để",
+    "startMs": 53760,
+    "endMs": 53928,
+    "durationMs": 168
+  },
+  {
+    "word": "đồng",
+    "clean": "đồng",
+    "startMs": 53928,
+    "endMs": 54264,
+    "durationMs": 336
+  },
+  {
+    "word": "hành",
+    "clean": "hành",
+    "startMs": 54264,
+    "endMs": 54600,
+    "durationMs": 336
+  },
+  {
+    "word": "cùng",
+    "clean": "cùng",
+    "startMs": 54600,
+    "endMs": 54936,
+    "durationMs": 336
+  },
+  {
+    "word": "chúng",
+    "clean": "chúng",
+    "startMs": 54936,
+    "endMs": 55357,
+    "durationMs": 421
+  },
+  {
+    "word": "tôi",
+    "clean": "tôi",
+    "startMs": 55357,
+    "endMs": 55609,
+    "durationMs": 252
+  },
+  {
+    "word": "mỗi",
+    "clean": "mỗi",
+    "startMs": 55609,
+    "endMs": 55861,
+    "durationMs": 252
+  },
+  {
+    "word": "ngày!",
+    "clean": "ngày",
+    "startMs": 55861,
+    "endMs": 56197,
+    "durationMs": 336
+  }
+]

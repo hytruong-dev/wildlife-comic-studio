@@ -1,0 +1,14 @@
+{
+  "width": 556,
+  "height": 520,
+  "anchor": {
+    "x": 22,
+    "y": 47
+  },
+  "shadowAnchor": {
+    "x": 22,
+    "y": 47
+  },
+  "defaultScale": 0.8,
+  "wristFeatherPx": 12
+}

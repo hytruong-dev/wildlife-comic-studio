@@ -1,0 +1,515 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "00 SÁNG: BẮT ĐẦU CA TRỰC 24H THỰC ĐỊA THEO CHÂN KIẾN TRÚC SƯ ĐẠI TÀI",
+   "hook": "",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hôm nay, chiếc camera",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo phóng viên,",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hướng máy quay sang",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhìn dáng đi trên",
+     "image": "assets/long/L05.png",
+     "stickers": [
+      {
+       "at": "30kg",
+       "side": "L",
+       "y": 350,
+       "value": "NẶNG 30KG",
+       "label": "chuột khổng lồ",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng chỉ cần chạm",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và điều điên rồ",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trước khi gã bước",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi khi phát hiện",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "06:00 SÁNG: XUẤT PHÁT"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "00 SÁNG: CẬN CẢNH CỖ MÁY ĐỐN CÂY BẰNG BỘ RĂNG CỬA BỌC SẮT MÀU CAM",
+   "hook": "BỘ RĂNG MÀU CAM CHỨA ĐẦY OXIT SẮT CHÉM NGỌT CÂY GỖ CỔ THỤ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L10.png",
+     "stickers": [
+      {
+       "at": "9h",
+       "side": "L",
+       "y": 350,
+       "value": "09:00 SÁNG",
+       "label": "hiện trường đốn gỗ",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "2015, một nghiên",
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "2015",
+       "side": "R",
+       "y": 350,
+       "value": "NĂM 2015",
+       "label": "men răng oxit sắt",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Lớp kim loại tự nhiên",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa dừng lại ở",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy bấm giờ đếm",
+     "image": "assets/long/L14.png",
+     "stickers": [
+      {
+       "at": "15cm",
+       "side": "L",
+       "y": 350,
+       "value": "GỐC 15CM",
+       "label": "thân cây bạch dương",
+       "target": [
+        0.35,
+        0.45
+       ]
+      },
+      {
+       "at": "30 phút",
+       "side": "R",
+       "y": 350,
+       "value": "30 PHÚT",
+       "label": "đốn ngã cây to",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và điều kỳ diệu",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Người bản địa Bắc Mỹ",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết, gã kỹ",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gã thường đắp những",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và răng của hải",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "09:00 SÁNG: CỖ MÁY ĐỐN GỖ"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "00 CHIỀU: THÍ NGHIỆM KINH ĐIỂN VỚI CHIẾC LOA PHÁT TIẾNG NƯỚC CHẢY",
+   "hook": "PHÁT ĐIÊN VÌ TIẾNG NƯỚC CHẢY ĐẮP BÙN BỊT KÍN CẢ LOA PHÁT NHẠC",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L20.png",
+     "stickers": [
+      {
+       "at": "14h",
+       "side": "L",
+       "y": 350,
+       "value": "14:00",
+       "label": "thử thách tâm lý",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thứ khiến hải ly",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo hiện trường:",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quý vị hãy nhìn",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Dù dưới chân là",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí khi các",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sự kiên trì và",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây chính là chứng",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "14:00 CHIỀU: CƠN PHÁT ĐIÊN"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "00 TỐI: CÔNG TRƯỜNG XÂY ĐẬP VĨ ĐẠI CHẶN ĐỨNG DÒNG SÔNG",
+   "hook": "ĐAN CÀNH CÂY VÀ TRÁT BÙN TẠO CON ĐẬP DÀI 850M NHÌN THẤY TỪ VŨ TRỤ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L28.png",
+     "stickers": [
+      {
+       "at": "18h",
+       "side": "L",
+       "y": 350,
+       "value": "18:00 TỐI",
+       "label": "đại công trường",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chúng kéo những",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để vận chuyển những",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Công trình này kiên",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tại Vườn quốc gia",
+     "image": "assets/long/L32.png",
+     "stickers": [
+      {
+       "at": "850m",
+       "side": "R",
+       "y": 350,
+       "value": "DÀI 850M",
+       "label": "kỷ lục thế giới",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "gấp đôi chiều dài",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngày nay, các nhà",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Những con đập của chúng",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một sinh vật không có",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "18:00 TỐI: ĐẠI CÔNG TRƯỜNG"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "00 ĐÊM: PHÁO ĐÀI LÂU ĐÀI LODGE GIỮA HỒ VỚI CỬA VÀO NGẬP DƯỚI NƯỚC",
+   "hook": "LÂU ĐÀI HAI TẦNG GIỮA HỒ NƯỚC CỬA VÀO NGẬP SÂU TRÁNH THÚ DỮ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L37.png",
+     "stickers": [
+      {
+       "at": "23h",
+       "side": "L",
+       "y": 350,
+       "value": "23:00 ĐÊM",
+       "label": "pháo đài ngầm",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hãy quan sát mặt",
+     "image": "assets/long/L38.png",
+     "stickers": [
+      {
+       "at": "1m",
+       "side": "R",
+       "y": 350,
+       "value": "DÀY 1 MÉT",
+       "label": "vách thành bê tông",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và điều thiên tài",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chia làm hai tầng",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vào mùa đông băng",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Dưới lớp băng dày",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một công trình phòng",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "23:00 ĐÊM: PHÁO ĐÀI NGẦM"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "00 SÁNG HÔM SAU: KẾT THÚC CA TRỰC VÀ HÉ LỘ BÓNG ĐEN TÊN LỬA 389 KM/H",
+   "hook": "TỔNG KẾT 24H VÀ BÓNG ĐEN TÊN LỬA SỐNG CHIM CẮT TẬP 31",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L44.png",
+     "stickers": [
+      {
+       "at": "6h",
+       "side": "L",
+       "y": 350,
+       "value": "06:00 SÁNG",
+       "label": "kết thúc 24h",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo thực địa",
+     "image": "assets/long/L45.png",
+     "stickers": [
+      {
+       "at": "điểm 10",
+       "side": "R",
+       "y": 350,
+       "value": "ĐIỂM 10",
+       "label": "kỹ sư vĩ đại",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Còn anh em thì",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "xin được đóng",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một cỗ tên lửa",
+     "image": "assets/long/L48.png",
+     "stickers": [
+      {
+       "at": "389 km/h",
+       "side": "R",
+       "y": 350,
+       "value": "389 KM/H",
+       "label": "tên lửa sống",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "nhờ hai chiếc nón",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đố các bạn biết",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "06:00 SÁNG: KẾT THÚC 24H"
+  }
+ }
+}

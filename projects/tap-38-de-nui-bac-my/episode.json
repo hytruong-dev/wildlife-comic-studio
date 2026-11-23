@@ -1,0 +1,342 @@
+{
+  "title": "Tập 38: Dê Núi Bắc Mỹ — Vua Trọng Lực Thách Thức Vách Đá 90°",
+  "animal": "Dê Núi Bắc Mỹ",
+  "format": "F5",
+  "persona": "nha_khoa_hoc",
+  "nickname": "Vua Trọng Lực Chín Mươi Độ",
+  "episode_no": 38,
+  "sources": [
+    "Journal of Experimental Biology - Biomechanics of Locomotion on Steep Slopes in Mountain Goats",
+    "Zoological Society of London - Morphology and Friction Mechanics of Split Hooves in Oreamnos americanus",
+    "Alpine Sports & Bio-Robotics - Climbing Mechanics and Friction Grippers Inspired by Mountain Goats"
+  ],
+  "voice": {
+    "tempo_long": 1.11,
+    "tempo_shorts_min": 1.08,
+    "min_long_s": 510,
+    "max_long_s": 900
+  },
+  "whisper_prompt": "Dê Núi Bắc Mỹ, Oreamnos americanus, Vua Trọng Lực Chín Mươi Độ, vách đá dựng đứng, móng chẻ hai mảnh, đệm cao su ma sát, 90 độ, 4.000 mét, Rocky Mountains, NASA, cơ sinh học",
+  "display_fix": {
+    "Tập ba mươi tám": "Tập 38",
+    "Tập ba mươi chín": "Tập 39",
+    "chín mươi độ": "90°",
+    "tám mươi chín độ": "89°",
+    "tám mươi độ": "80°",
+    "sáu mươi độ": "60°",
+    "bốn mươi lăm độ": "45°",
+    "bốn ngàn mét": "4.000m",
+    "ba ngàn mét": "3.000m",
+    "một ngàn mét": "1.000m",
+    "bốn trăm mét": "400m",
+    "hai mét": "2m",
+    "bốn mét": "4m",
+    "năm mét": "5m",
+    "một mét": "1m",
+    "hai xăng-ti-mét": "2cm",
+    "ba xăng-ti-mét": "3cm",
+    "năm xăng-ti-mét": "5cm",
+    "một trăm bốn mươi kilôgam": "140 kg",
+    "bảy mươi kilôgam": "70 kg",
+    "một trăm": "100",
+    "một trăm kilôgam": "100 kg",
+    "một trăm phần trăm": "100%",
+    "năm mươi phần trăm": "50%",
+    "sáu mươi phần trăm": "60%",
+    "hai mươi bốn giờ": "24 giờ",
+    "mười lần": "10 lần",
+    "ba lần": "3 lần",
+    "hai lần": "2 lần",
+    "năm lần": "5 lần",
+    "âm ba mươi độ": "-30°C",
+    "một trăm tám mươi độ": "180°",
+    "thế kỷ hai mươi mốt": "thế kỷ 21",
+    "hàng triệu năm": "hàng triệu năm",
+    "triệu năm": "triệu năm",
+    "Vua Trọng Lực Chín Mươi Độ": "Vua Trọng Lực 90°",
+    "Oreamnos": "Oreamnos",
+    "americanus": "americanus",
+    "Rocky": "Rocky",
+    "NASA": "NASA",
+    "Isaac Newton": "Isaac Newton",
+    "keratin": "keratin",
+    "carabiner": "carabiner",
+    "polymer": "polymer"
+  },
+  "longform": {
+    "scenes": [
+      {
+        "id": "scene01",
+        "badge": "ĐẤU TRƯỜNG 90°",
+        "banner_title": "THÁCH THỨC TRỌNG LỰC VỰC THẲM",
+        "chapter_title": "Khởi động đường đua chín mươi độ: Thách thức trọng lực giữa vực sâu ngàn mét",
+        "hook": "Sinh vật thách thức định luật vạn vật hấp dẫn của Newton",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Chào mừng toàn thể các vận động viên leo núi, các chuyên gia cơ học chuyển động và các bạn đam mê khoa học sinh thái bước vào Đấu trường vách đá tử thần trên dãy núi Rocky hùng vĩ! [laughter] Hôm nay, phòng thí nghiệm cơ sinh học dã ngoại của chúng tôi xin trân trọng giới thiệu một cỗ máy tự nhiên kỳ dị bậc nhất hành tinh, kẻ biến những định luật vạn vật hấp dẫn của ngài Isaac Newton thành một màn giải trí ngoạn mục!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Trước ống kính viễn vọng của chúng ta là một bức tường đá hoa cương granite dựng đứng chín mươi độ, nhẵn thín và lạnh lẽo, cao chót vót bốn ngàn mét giữa tầng mây trắng xóa. Phía dưới chân vách đá là vực sâu thăm thẳm không đáy, nơi mà chỉ một cú trượt chân bằng nửa hạt cát cũng đủ khiến bất kỳ sinh vật to lớn nào rơi vào thảm kịch! Thế nhưng hãy phóng to ống kính lên mỏm đá nhọn hoắt kia: Một bóng dáng trắng muốt như tuyết đang ung dung gặm rêu cỏ, đứng vững vàng trên một gờ đá hẹp chưa đầy hai xăng-ti-mét!"
+          },
+          {
+            "speaker": "cameo",
+            "cast": "phat_thanh_vien",
+            "mood": "don_dap",
+            "text": "[surprise-oh] Thưa Giáo sư phụ trách, trạm đo laser địa hình ghi nhận độ dốc sườn núi tại vị trí con vật đang đứng đạt tới tám mươi chín độ, gần như song song hoàn hảo với dây dọi thẳng đứng mà không hề có dây thừng trợ lực!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Một kết quả đo đạc chính xác đến từng mi-crô-mét thưa phát thanh viên hiện trường! Đối tượng nghiên cứu lừng danh này mang danh pháp khoa học Oreamnos americanus, nhưng toàn thể cộng đồng leo núi thế giới đều nghiêng mình gọi nó bằng danh hiệu kiệt xuất: Vua Trọng Lực Chín Mươi Độ! Trong khi các kiện tướng thể thao đỉnh cao của loài người phải nai nịt giày đinh đặc chế, dây bảo hiểm chuyên dụng, móc treo carabiner và thoa đầy bột chống trơn mới dám mon men leo dốc, thì chú dê núi này chỉ dựa vào bốn chiếc móng guốc bẩm sinh để biến bức tường tử thần thành đường tản bộ êm ái!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Không chỉ đứng yên một chỗ, sinh vật này còn có thể chạy nước rút, xoay xở chuyển hướng và thậm chí phóng mình qua các hố sụt chết chóc với phong thái thong dong như đang dạo chơi công viên! Đằng sau vẻ ngoài điềm tĩnh tựa một thiền sư trên đỉnh núi tuyết là hàng triệu năm tiến hóa khắc nghiệt đã tôi luyện nên một hệ thống khung gầm cơ khí hoàn hảo đến từng chi tiết."
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Bí mật vật lý và sinh học nào đã biến Vua Trọng Lực Chín Mươi Độ thành kẻ cai trị tuyệt đối của những vách đá dựng đứng? Ngay bây giờ, xin mời quý vị cùng tôi mở hòm hồ sơ kỹ thuật tầng một để giải phẫu vũ khí kẹp đá đầu tiên mang tên bộ móng thủy lực!"
+          }
+        ]
+      },
+      {
+        "id": "scene02",
+        "badge": "VŨ KHÍ SỐ 1",
+        "banner_title": "BỘ MÓNG CHẺ KẸP ĐÁ THỦY LỰC",
+        "chapter_title": "Bí kíp số một: Bộ móng guốc hai mảnh kẹp đá như kìm bấm thủy lực",
+        "hook": "Cấu trúc móng chẻ độc lập ôm trọn từng gờ đá siêu nhỏ",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Xin mời các kỹ sư cơ khí hãy zoom cận cảnh vào bộ phận tiếp xúc tiền tuyến của cỗ máy vượt dốc: Bộ móng guốc chẻ đôi kỳ ảo! Khác biệt hoàn toàn với móng ngựa là một khối sừng liền mạch tròn xoe rất dễ trượt té khi gặp đá nghiêng, bàn chân của Vua Trọng Lực Chín Mươi Độ được xẻ đôi thành hai nửa móng guốc riêng biệt, vận hành tự chủ tựa như hai ngón tay kìm bấm thủy lực cực kỳ linh hoạt!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Mỗi nửa móng guốc được bao bọc bởi một lớp vỏ sừng chất đạm keratin cứng như thép tôi và sắc bén như lưỡi rìu đẽo đá. Khi bàn chân giẫm xuống bề mặt gồ ghề, hai nửa móng này lập tức xòe rộng ra theo hình chữ V để bao trọn lấy gờ đá, sau đó các bó gân gập ngón sẽ siết chặt hai nửa móng lại, khóa chặt điểm tì như gọng kìm kẹp ốc vít!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Chưa dừng lại ở đó, hai nửa móng này còn có khả năng cử động độc lập lệch pha nhau. Nghĩa là nửa móng bên trái có thể nâng cao lên ba mi-li-mét trong khi nửa móng bên phải hạ thấp xuống để thích ứng chính xác với độ mấp mô không đồng đều của mặt đá granite! Cơ chế vi chỉnh góc tiếp xúc này giúp phân bổ tải trọng đồng đều một trăm phần trăm, ngăn ngừa nguy cơ móng bị bẻ gãy khi tiếp đất với lực va đập lớn."
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Và hãy nhìn kỹ ra phía sau cổ chân: Dê núi còn sở hữu hai chiếc móng phụ thoái hóa nằm ở vị trí cao hơn, dân gian hay gọi là móng huyền. Đừng vội coi thường hai mẩu xương nhỏ bé này nhé! [laughter] Khi con vật phải tụt dốc khẩn cấp hoặc sườn núi bị lở cát, hai chiếc móng phụ này sẽ cắm phập xuống lớp sỏi đá như một cặp mỏ neo phanh phụ trợ, dập tắt quán tính trượt dốc trong chớp mắt!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Nhờ bộ móng kẹp hai tầng này, dù một con dê đực trưởng thành mang khối lượng cơ thể lên tới một trăm bốn mươi kilôgam, toàn bộ áp lực khổng lồ đó vẫn được truyền dẫn an toàn qua các điểm tiếp xúc tí hon chỉ bằng hạt đậu! Nhưng nếu chỉ có lớp vỏ sừng cứng cáp thì móng guốc vẫn có thể bị trượt khi gặp đá trơn bóng. Vì vậy, thiên nhiên đã lắp đặt thêm một vũ khí bí mật ngay trong lòng bàn chân!"
+          }
+        ]
+      },
+      {
+        "id": "scene03",
+        "badge": "VŨ KHÍ SỐ 2",
+        "banner_title": "ĐỆM CAO SU MA SÁT BÁM DÍNH",
+        "chapter_title": "Bí kíp số hai: Đệm cao su ma sát cao bám dính siêu cấp",
+        "hook": "Vật liệu phỏng sinh học lấy cảm hứng cho lốp xe đua",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Nếu viền sừng bên ngoài đóng vai trò là chiếc kẹp cơ học sắc lẹm, thì phần ruột bên trong lòng móng lại là một kiệt tác vật liệu sinh học đàn hồi: Lớp đệm thịt ma sát bám dính siêu cấp! Nằm lọt giữa hai nửa móng guốc là một khối mô xốp hữu cơ mềm dẻo đặc biệt, có bề mặt sần sùi chứa hàng vạn vi rãnh siêu nhỏ đóng vai trò như các giác hút chân không tí hon!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Mỗi khi móng chân ấn mạnh xuống phiến đá, khối đệm đàn hồi này sẽ lập tức biến dạng linh hoạt, lấp đầy mọi khe nứt vi mô trên mặt đá hoa cương, biến diện tích tiếp xúc từ một điểm nhỏ thành một bề mặt tì đè rộng lớn. Thử nghiệm trong phòng thí nghiệm vật lý cho thấy: Hệ số ma sát tĩnh của lớp đệm thịt dê núi cao gấp ba lần so với các loại đế cao su tổng hợp đắt giá nhất trang bị trên giày leo núi hiện đại của con người!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Đặc tính đáng kinh ngạc nhất của vật liệu sinh học này chính là khả năng chịu nhiệt độ âm cực thấp. Trên đỉnh núi Rocky cao hàng ngàn mét, khi mùa đông gõ cửa khiến nhiệt độ tụt sâu xuống âm ba mươi độ và băng giá phủ kín các vách đá, lốp xe cao su thông thường sẽ bị hóa cứng và trở nên giòn vụn, mất sạch độ bám. Nhưng lớp đệm của Vua Trọng Lực Chín Mươi Độ vẫn giữ nguyên độ dẻo dai ấm áp, không hề đóng băng hay trơn trượt!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Sự kết hợp ăn ý tuyệt đối giữa khung sừng cứng bên ngoài để móc vào gờ nứt và lõi đệm mềm bên trong để hút dính ma sát đã tạo nên một hợp kim cơ sinh học vô tiền khoáng hậu. Dù mặt đá bị phủ một lớp rêu ướt trơn tuột như bôi mỡ, bước chân của nó vẫn bám chặt như được gắn nam châm vĩnh cửu!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Thế nhưng, sở hữu bộ móng thần thánh thôi vẫn chưa đủ để chinh phục bức tường chín mươi độ nếu cơ thể thiếu đi một trung tâm điều khiển cân bằng hoàn hảo. Xin mời các bạn cùng tôi nâng tầng phân tích để khám phá hệ thống khung gầm của chú dê núi này!"
+          }
+        ]
+      },
+      {
+        "id": "scene04",
+        "badge": "VŨ KHÍ SỐ 3",
+        "banner_title": "TRỌNG TÂM THẤP VÀ KHỚP VAI XOAY",
+        "chapter_title": "Bí kíp số ba: Trọng tâm cơ thể siêu thấp và khớp bả vai xoay linh hoạt",
+        "hook": "Giải phẫu học tối ưu hóa cân bằng động lực học",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Hãy tưởng tượng nếu một chú hươu cao cổ hay một vận động viên thể hình bình thường đứng tựa lưng vào vách đá dựng đứng: Trọng tâm cơ thể của họ nằm ở vị trí rất cao, cách xa điểm tựa mặt đất, tạo ra một cánh tay đòn mô-men lật đổ cực kỳ nguy hiểm, chỉ cần gió thổi nhẹ một cơn là ngã ngửa xuống vực sâu ngay lập tức!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Để hóa giải nghịch lý trọng lực này, tạo hóa đã thiết kế cho dê núi Bắc Mỹ một cấu trúc giải phẫu học độc nhất vô nhị: Đôi chân trước của chúng ngắn hơn đáng kể so với đôi chân sau, lồng ngực nở rộng vạm vỡ dẹp ngang ép sát vào bề mặt đá, và toàn bộ khối lượng nội tạng nặng nề được dồn tụ xuống phần thân trước sát mặt đất!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Cấu tạo này kéo hạ thấp trọng tâm toàn bộ cơ thể xuống mức tối đa, dán chặt véc-tơ trọng lực vào lòng vách núi thay vì đẩy ra ngoài không trung. Khi đứng trên sườn dốc nghiêng tám mươi độ, cơ thể chú dê nghiêng nhẹ về phía vách đá, triệt tiêu hoàn toàn lực lật đổ, biến vách đá cheo leo thành chiếc giường tựa vững như bàn thạch!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Đặc biệt, khớp xương bả vai của dê núi sở hữu biên độ tự do xoay chuyển ngang rộng hơn bất kỳ loài thú móng guốc nào khác. Hai chân trước của nó có thể dang rộng sang hai bên như hai cánh tay người, ôm lấy những khối đá lồi để giữ thăng bằng và kéo toàn bộ cơ thể nặng hơn một tạ trèo lên gờ đá cao hơn một cách nhẹ nhàng như tập xà đơn!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Chẳng có một cỗ máy việt dã bánh xích nào của con người có thể điều chỉnh trọng tâm linh hoạt đến mức ấy. Và khi đã đạt đến đỉnh cao của sự thăng bằng tĩnh, chú dê núi bắt đầu phô diễn tuyệt kỹ chuyển động đỉnh cao nhất: Kỹ thuật parkour búng tường giữa tầng không!"
+          }
+        ]
+      },
+      {
+        "id": "scene05",
+        "badge": "VŨ KHÍ SỐ 4",
+        "banner_title": "CÚ BÚNG TƯỜNG NGOẠN MỤC",
+        "chapter_title": "Bí kíp số bốn: Cú nhảy búng tường ngoạn mục xoay người giữa không trung",
+        "hook": "Kỹ thuật parkour đỉnh cao của nhà vô địch vách đá",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Đỉnh cao nghệ thuật sinh tồn của Vua Trọng Lực Chín Mươi Độ chỉ thực sự phát hỏa rực rỡ nhất khi nó dồn mình vào bước đường cùng: Trước mặt là vách đá nhẵn thín không còn một gờ nứt nào để tiến bước, bên dưới là vực sâu ngàn trượng, và phía sau có thể là một con báo sư tử đang rình rập săn mồi! [dissatisfaction-hnn] Đối với mọi sinh vật khác, đây là bản án tử hình chắc chắn. Nhưng đối với dê núi, đây lại là thời khắc bắt đầu của màn trình diễn nhào lộn kinh điển!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Chẳng hề do dự hay run rẩy, nó dồn toàn bộ sức nén vào đôi chân sau hoạt động như cặp lò xo giảm xóc cỡ lớn, tung mình nhảy vọt ra khỏi gờ đá bay ngang qua hẻm vực sâu thăm thẳm sang bức tường đá đối diện cách xa tới bốn mét! Ngay khi chạm vào mặt đá thẳng đứng bên kia, nó không hề tìm cách bám lại để dừng rơi mà lập tức dùng cả bốn móng guốc đạp mạnh vào vách đá như một vận động viên parkour, búng ngược cơ thể trở lại bức tường ban đầu ở một độ cao vượt trội hơn!"
+          },
+          {
+            "speaker": "cameo",
+            "cast": "chu_ngo_ngac",
+            "mood": "hao_hung",
+            "text": "[surprise-oh] Thưa Giáo sư, một cú nhào lộn xoay người một trăm tám mươi độ giữa khoảng không vực thẳm như vậy đòi hỏi thời gian xử lý não bộ và phản xạ cơ bắp nhanh đến mức nào ạ?"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Toàn bộ cú búng tường xoay trục một trăm tám mươi độ ấy diễn ra trong vỏn vẹn chưa đầy nửa giây thưa bạn trẻ! Các xung thần kinh từ thị giác truyền thẳng về tiểu não khổng lồ để tính toán véc-tơ phản lực và điều chỉnh góc xòe của móng guốc với độ chính xác tuyệt đối. Bằng chuỗi động tác búng tường zig-zag liên hồi, nó có thể thăng tiến hàng chục mét vách đá dốc đứng chỉ trong vài giây ngắn ngủi, bỏ xa mọi kẻ săn mồi mặt đất đang run rẩy đứng nhìn dưới chân dốc!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Kẻ săn mồi dù dũng mãnh và nhanh nhẹn đến đâu cũng chỉ biết há hốc mồm bất lực trước bản lĩnh không gian ba chiều của chú dê núi tuyết. Nơi mà người ta nhìn thấy thần chết rình rập, sinh vật này lại tìm thấy một sân chơi tự do và bình yên tuyệt đối!"
+          }
+        ]
+      },
+      {
+        "id": "scene06",
+        "badge": "TRAO HUY CHƯƠNG",
+        "banner_title": "ĐỈNH CAO THỂ THAO MẠO HIỂM",
+        "chapter_title": "Trao huy chương vàng: Đỉnh cao thể thao mạo hiểm phỏng sinh học",
+        "hook": "Tôn vinh cỗ máy vượt dốc vĩ đại nhất của tạo hóa",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Kính thưa toàn thể quý khán giả và các nhà khoa học theo dõi buổi tổng kết, sau khi thẩm định chi tiết toàn bộ bốn tuyệt kỹ cơ học từ móng chẻ thủy lực kẹp đá, đệm cao su ma sát siêu bám, trọng tâm cơ thể hạ thấp ép sát vách cho đến cú búng tường zig-zag thần sầu, ban giám khảo nhất trí tuyệt đối trao tấm Huy chương Vàng Cơ Học Vách Đá cho Dê Núi Bắc Mỹ!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Sinh vật kiệt xuất này ngày nay chính là nguồn cảm hứng vàng ngọc cho các kỹ sư nghiên cứu robot địa hình của cơ quan hàng không vũ trụ NASA nhằm chế tạo các cánh tay bám kẹp cơ học phục vụ thám hiểm các hẻm vực dốc đứng trên Sao Hỏa và Mặt Trăng. Các thương hiệu thể thao dã ngoại danh tiếng cũng đang nghiên cứu mô phỏng lớp đệm thịt đàn hồi của móng dê để phát triển thế hệ giày leo núi siêu ma sát cho thế kỷ hai mươi mốt."
+          },
+          {
+            "speaker": "host",
+            "mood": "am_ap",
+            "text": "Bài học sinh tồn từ chú dê núi trên vách đá cheo leo nhắc nhở mỗi chúng ta rằng: Khi đối diện với những thử thách dựng đứng tưởng chừng như không thể vượt qua trong cuộc sống, việc tìm kiếm những điểm tựa vững chắc dù là nhỏ bé nhất, cùng một tinh thần thăng bằng kiên định, sẽ giúp chúng ta đứng vững và vươn lên đỉnh vinh quang!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Giữa bộ móng chẻ kìm bấm thủy lực và lớp đệm ma sát siêu cấp, cơ chế cơ sinh học nào của Vua Trọng Lực Chín Mươi Độ khiến bạn kinh ngạc và thán phục nhất? Hãy để lại cảm nghĩ và bình luận tâm đắc của bạn ngay bên dưới video này nhé!"
+          },
+          {
+            "speaker": "host",
+            "mood": "am_ap",
+            "text": "Và đừng quên nhấn nút Đăng Ký Kênh cùng chiếc chuông thông báo để đón xem Tập ba mươi chín: Giải mã sát thủ ngây thơ giấu mặt của Chim Bách Thanh! Xin chào tạm biệt và hẹn gặp lại toàn thể các bạn trong những hành trình khám phá thiên nhiên kỳ thú tiếp theo!"
+          }
+        ]
+      }
+    ]
+  },
+  "shorts": {
+    "text": "[surprise-oh] Bạn có tin trên Trái Đất có một loài động vật nặng tới một trăm bốn mươi kilôgam nhưng có thể đứng vững trên vách đá dựng đứng chín mươi độ nhẵn thín không? [laughter] Đó chính là Dê Núi Bắc Mỹ — Vua Trọng Lực Chín Mươi Độ vô địch thiên nhiên! Bí mật chấn động nằm ở bộ móng guốc chẻ đôi kẹp gờ đá như kìm bấm thủy lực, kết hợp cùng lớp đệm thịt cao su ma sát cực đại có độ bám dính gấp ba lần đế giày leo núi chuyên nghiệp! [dissatisfaction-hnn] Khi gặp ngõ cụt giữa vực sâu ngàn mét, nó có thể tung mình nhảy xa bốn mét và búng tường xoay người một trăm tám mươi độ chỉ trong nửa giây! [laughter] Thậm chí, loài dê này còn thong dong leo thẳng lên các bức tường đập thủy điện dốc đứng cao hàng trăm mét chỉ để liếm từng vệt muối khoáng! Quả là bậc thầy khinh công thách thức mọi định luật vật lý của Newton!"
+  },
+  "seo": {
+    "title": "Bản Vẽ Vách Đá 90°: Dê Núi Khinh Thường Trọng Lực 4.000m Nhờ Đôi Móng Kẹp Cao Su?! | Tập 38",
+    "hook_paragraph": "Dê Núi Bắc Mỹ (Oreamnos americanus) di chuyển nhẹ nhàng như bay trên những vách đá dựng đứng 89° đến 90° ở độ cao 4.000 mét giữa rặng núi Rocky tuyết trắng. Điều gì giúp chúng bất chấp mọi định luật vật lý của Isaac Newton mà không hề trượt chân rơi xuống vực sâu? Cùng Giáo sư trưởng giải mã cấu trúc cơ sinh học đỉnh cao!",
+    "bullets": [
+      "Móng chẻ hai mảnh độc lập: Tự động uốn cong và kẹp chặt từng mấu đá nhỏ 1 milimet",
+      "Lớp đệm lòng bàn chân ma sát cao: Da nhám đàn hồi triệt tiêu hoàn toàn lực trượt quán tính",
+      "Trọng tâm cơ thể cực thấp: Cặp chân trước lực lưỡng ôm sát vách đá như kìm kẹp cơ khí",
+      "Bật nhảy không gian hẹp 4 mét: Đảo chiều trên gờ đá chỉ bằng 1 đốt ngón tay",
+      "Bộ lông 2 lớp chịu rét âm 45°C: Lớp lông tơ cashmere dày 10cm chống gió bão Alpine",
+      "Ứng dụng robot địa hình: NASA và Boston Dynamics học tập cấu trúc móng kẹp thích ứng vách đá"
+    ],
+    "question": "Giữa móng chẻ khớp linh hoạt kẹp mấu đá và đệm chân ma sát nhám như lốp xe đua, vũ khí bám dính nào của Dê Núi khiến bạn choáng ngợp nhất?",
+    "next_teaser": "sát thủ bụi rậm với kỹ năng xiên cọc con mồi và phân giải độc tố",
+    "hashtag_broad": "#thếgiớiđộngvật",
+    "hashtag_animal": "#dênúi",
+    "tags": [
+      "dê núi bắc mỹ",
+      "oreamnos americanus",
+      "vua vách đá",
+      "cơ sinh học kỳ thú",
+      "vẽ chuyện hoang dã",
+      "whiteboard animation"
+    ],
+    "shorts_title": "Bí mật Dê Núi leo vách đá 90 độ ở độ cao 4.000 mét?!",
+    "shorts_desc": "Đôi móng chẻ uốn cong độc lập cùng đệm cao su ma sát cao giúp Dê Núi thách thức trọng lực!",
+    "shorts_tags": [
+      "dê núi",
+      "khoa học",
+      "vẽ chuyện hoang dã",
+      "shorts"
+    ],
+    "en_title": "Mountain Goat: The Gravity-Defying Beast of 90° Cliffs! | EP38",
+    "en_hook": "Discover how mountain goats scale 90-degree vertical cliffs at 4,000 meters altitude defying gravity!",
+    "en_shorts_title": "How Mountain Goats Climb 90° Vertical Cliffs Without Falling?!"
+  },
+  "art": {
+    "style_label": "phong cách sổ tay ký họa dã ngoại thám hiểm đỉnh núi cao (Alpine Mountaineering Field Sketchbook)",
+    "visual_style": "tỉ lệ {AR}; phong cách sổ tay ký họa dã ngoại thám hiểm đỉnh núi cao Bắc Mỹ (Alpine Mountaineering Field Sketchbook & Topographic Art): nét vẽ bút chì than charcoal mộc mạc phong trần kết hợp các đường đồng mức địa hình cao trình topographic uốn lượn sắc sảo, vách đá vôi dựng đứng gồ ghề, cấu trúc móng guốc giác hút phỏng sinh học độc đáo, phối màu xám đá hoa cương, xanh thông alpine và viền vàng kim trắc địa; NỀN TRẮNG TINH hoàn toàn, không watermark, không logo; chủ thể nằm gọn trong khung, chừa lề trắng",
+    "decor": "alpine rope coils, carabiners, ice axe, topographic contour lines, frosted pine branches, limestone rock fragments",
+    "shorts_mascot": "A brave cartoon mountain goat wearing climbing goggles and a warm scarf, holding an alpine flag",
+    "thumb_bg": "majestic snow-capped Rocky Mountains peak with dramatic vertical cliff face and drifting mountain mist",
+    "thumb_title": [
+      "LEO DỐC 89 ĐỘ?!",
+      "MÓNG GUỐC HÚT ĐÁ"
+    ],
+    "thumb_scene": "a brave cartoon white mountain goat standing effortlessly on a 90-degree vertical dam wall, licking mineral salt boldly",
+    "thumb_gag": "a grizzly bear with binoculars slipping down the rocks in total disbelief",
+    "shorts_banner_lines": [
+      "LEO DỐC 89 ĐỘ:",
+      "DÊ NÚI BẮC MỸ!"
+    ]
+  }
+}

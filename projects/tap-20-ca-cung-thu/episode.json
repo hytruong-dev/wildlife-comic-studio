@@ -1,0 +1,389 @@
+{
+ "episode_no": 20,
+ "animal": "Cá Cung Thủ",
+ "slug": "tap-20-ca-cung-thu",
+ "format": "F2",
+ "persona": "ky_su_vu_khi",
+ "_angle_from_roadmap": "Giải mã thuật toán bắn tỉa: Tính độ lệch khúc xạ ánh sáng mặt nước, rãnh vòm miệng nén tia nước hạ mục tiêu cách 3m.",
+ "_shorts_idea_from_roadmap": "Làm sao một con cá dưới nước giải được bài toán vật lý khúc xạ ánh sáng?",
+ "nickname": "Thiện Xạ Đầm Lầy",
+ "sources": [
+  "Schuster, S. et al. (2006). Animal cognition: how archer fish learn to down rapidly moving targets. Current Biology, 16(4), 378-383 (Học tập xã hội và dự đoán điểm rơi đạn đạo)",
+  "Vailati, A., Zinnato, L., & Cerbino, R. (2012). How archer fish achieve a powerful impact: hydrodynamic instability of a propelled water jet. PLoS ONE, 7(10), e47591 (Động lực học chất lỏng và gia tốc đuôi tia nước)",
+  "Timmermans, P. J., & Vossen, J. M. (2000). Prey catching in the archer fish: angle of aim and error correction. J. Comp. Psychol., 114(4), 382-389 (Độ lệch góc bắn và hiệu chỉnh khúc xạ Snell)",
+  "Schuster, S. et al. (2004). Archer fish learn to predict the future position of falling prey. Nature, 430, 560-563 (Tính toán quỹ đạo điểm rơi trong 100 mili-giây)",
+  "Dill, L. M. (1977). Refraction and the spitting behavior of the archerfish (Toxotes chatareus). Behavioral Ecology and Sociobiology, 2(2), 169-184"
+ ],
+ "whisper_prompt": "Cá Cung Thủ, Thiện Xạ Đầm Lầy, Toxotes, 20cm, 3m, 2m, 1,5m, 30cm, 5 m/s, 100 mili-giây, 50 mili-giây, 0,1 giây, 90%, 95%, 45 độ, 70 độ, 80 độ, Snell, Bayreuth, Stefan Schuster, Amazon, Châu Phi, Ếch Lông Wolverine, 860V",
+ "display_fix": {
+  "hai mươi xăng-ti-mét": "20cm",
+  "Hai mươi xăng-ti-mét": "20cm",
+  "mười lăm đến hai mươi xăng-ti-mét": "15-20cm",
+  "Mười lăm đến hai mươi xăng-ti-mét": "15-20cm",
+  "ba mươi xăng-ti-mét": "30cm",
+  "Ba mươi xăng-ti-mét": "30cm",
+  "hai lăm xăng-ti-mét": "25cm",
+  "ba mét": "3m",
+  "Ba mét": "3m",
+  "hai mét": "2m",
+  "Hai mét": "2m",
+  "một mét rưỡi": "1,5m",
+  "Một mét rưỡi": "1,5m",
+  "năm mét một giây": "5 m/s",
+  "Năm mét một giây": "5 m/s",
+  "bốn đến năm mét một giây": "4-5 m/s",
+  "Bốn đến năm mét một giây": "4-5 m/s",
+  "nửa mi-li-mét": "0,5mm",
+  "Nửa mi-li-mét": "0,5mm",
+  "một mi-li-mét": "1mm",
+  "Một mi-li-mét": "1mm",
+  "nửa giây": "0,5 giây",
+  "Nửa giây": "0,5 giây",
+  "không phẩy một giây": "0,1 giây",
+  "Không phẩy một giây": "0,1 giây",
+  "một trăm mili-giây": "100 mili-giây",
+  "Một trăm mili-giây": "100 mili-giây",
+  "năm mươi mili-giây": "50 mili-giây",
+  "Năm mươi mili-giây": "50 mili-giây",
+  "chín mươi lăm phần trăm": "95%",
+  "Chín mươi lăm phần trăm": "95%",
+  "chín mươi chín phần trăm": "99%",
+  "Chín mươi chín phần trăm": "99%",
+  "chín mươi phần trăm": "90%",
+  "Chín mươi phần trăm": "90%",
+  "một trăm phần trăm": "100%",
+  "Một trăm phần trăm": "100%",
+  "bốn mươi lăm độ": "45°",
+  "Bốn mươi lăm độ": "45°",
+  "bảy mươi độ": "70°",
+  "Bảy mươi độ": "70°",
+  "tám mươi độ": "80°",
+  "Tám mươi độ": "80°",
+  "chín mươi độ": "90°",
+  "Chín mươi độ": "90°",
+  "gấp năm đến mười lần": "gấp 5-10 lần",
+  "Gấp năm đến mười lần": "gấp 5-10 lần",
+  "gấp mười lần": "gấp 10 lần",
+  "Gấp mười lần": "gấp 10 lần",
+  "gấp đôi": "gấp đôi",
+  "gấp ba": "gấp 3",
+  "gấp năm": "gấp 5",
+  "hàng trăm lần": "hàng trăm lần",
+  "hàng ngàn lần": "hàng ngàn lần",
+  "hàng triệu năm": "hàng triệu năm",
+  "sáu đến bảy": "6-7",
+  "Sáu đến bảy": "6-7",
+  "hai giây": "2 giây",
+  "Hai giây": "2 giây",
+  "ba đến bốn": "3-4",
+  "Ba đến bốn": "3-4",
+  "hai mươi phần trăm": "20%",
+  "Hai mươi phần trăm": "20%",
+  "một phần mười giây": "0,1 giây",
+  "Một phần mười giây": "0,1 giây",
+  "thế kỷ hai mươi": "thế kỷ 20",
+  "Tập hai mươi": "Tập 20",
+  "Tập hai mươi mốt": "Tập 21",
+  "Tập mười sáu": "Tập 16",
+  "Tập mười lăm": "Tập 15",
+  "số hai mươi": "số 20",
+  "Số hai mươi": "Số 20",
+  "Tốc-xô-tét": "Toxotes",
+  "Bay-roi-tơ": "Bayreuth",
+  "Sơ-suýt-tơ": "Schuster",
+  "X-neo": "Snell",
+  "Oen-vơ-rin": "Wolverine",
+  "hai mươi": "20",
+  "ba mươi": "30",
+  "bốn mươi": "40",
+  "năm mươi": "50",
+  "sáu mươi": "60",
+  "bảy mươi": "70",
+  "tám mươi": "80",
+  "chín mươi": "90",
+  "một trăm": "100"
+ },
+ "voice": {},
+ "art": {
+  "decor": "tiny water droplets, target crosshairs, and sniper scope markings",
+  "shorts_mascot": "A clever cute cartoon archerfish wearing a black sniper beret with a glowing red target monocular scope on one eye, spitting a bright blue water laser beam",
+  "thumb_bg": "deep mangrove river at dusk with shimmering water reflections and glowing red laser target beams",
+  "thumb_title": [
+   "BẮN TỈA 3 MÉT?!",
+   "GIẢI ĐỊNH LUẬT VẬT LÝ!"
+  ],
+  "thumb_scene": "giant sharp cartoon archerfish wearing black sniper beret spitting a pressurized bullet of water upwards, blasting a shocked spider off a branch",
+  "thumb_gag": "a tiny cartoon cricket with an umbrella getting completely blasted away by a water blob"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "HỒ SƠ XẠ THỦ",
+    "banner_title": "THIỆN XẠ BẮN TỈA RỪNG NGẬP MẶN",
+    "chapter_title": "Hồ sơ vũ khí: Thiện Xạ Đầm Lầy 20cm bắn tia nước hạ gục mục tiêu cách 2m",
+    "hook": "LOÀI CÁ BẮN NƯỚC BÁCH PHÁT BÁCH TRÚNG LÊN CẠN",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Báo cáo thử nghiệm vũ khí tối mật số hai mươi. Toàn đội kỹ thuật hãy khóa mục tiêu và khởi động camera tốc độ cao! Chiến trường mà chúng ta khảo sát hôm nay không phải bầu trời rực lửa hay pháo đài thép kiên cố, mà là những rặng đước ngập mặn tĩnh lặng vùng Đông Nam Á. [surprise-oh] Nơi một sát thủ thầm lặng đang nằm phục kích ngay sát mặt nước!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Nhân vật đứng trước ống kính của chúng ta hôm nay có chiều dài cơ thể khiêm tốn chỉ từ mười lăm đến hai mươi xăng-ti-mét, khoác lên mình bộ vảy màu bạc ánh kim cùng những sọc đen quân sự sắc sảo. [laughter] Nhưng đừng để kích thước nhỏ bé này đánh lừa mắt thường! Trong giới quân sự tự nhiên, gã được phong tặng danh hiệu Thiện Xạ Đầm Lầy, hay còn gọi là Cá Cung Thủ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Quy tắc tác chiến của loài cá thông thường là: Muốn ăn thì phải chờ con mồi sảy chân rơi xuống nước. Nhưng Thiện Xạ Đầm Lầy của chúng ta thì tuyệt đối không có khái niệm ăn xin lòng thương hại! [surprise-wa] Nếu con mồi đậu trên cành lá cao tới một mét rưỡi, hai mét, thậm chí kỷ lục lên tới ba mét, gã sẽ tự tay phóng hỏa lực lên trời để kéo con mồi rơi thẳng xuống miệng!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Hỏa lực của gã không phải đạn chì hay thuốc nổ, mà chính là những giọt nước biển được nén áp suất cao, phụt ra từ miệng với độ chính xác đến từng mi-li-mét! Một phát bắn trúng đích đủ sức hất văng một con châu chấu to béo hay một chú nhện bám chặt trên lá cây rơi xuống nước trong nháy mắt!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hôm nay, ban chỉ huy kỹ thuật sẽ cùng giải phẫu toàn diện khẩu súng sinh học này: [surprise-oh] Làm thế nào một sinh vật sống hoàn toàn dưới nước lại có thể ngắm bắn bách phát bách trúng các mục tiêu di động trên không gian cạn?",
+      "mood": "tram_bi_an"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "BẢN VẼ NÒNG SÚNG",
+    "banner_title": "RÃNH CHỮ V VÀ ĐẠN NƯỚC GIA TỐC",
+    "chapter_title": "Bản vẽ cơ khí: Rãnh chữ V và kỹ thuật nén đạn nước gia tốc đuôi",
+    "hook": "NÒNG SÚNG RÃNH CHỮ V VÀ GIỌT ĐẠN NƯỚC KHỔNG LỒ",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Hãy trải bản vẽ kỹ thuật khoang miệng của Thiện Xạ Đầm Lầy lên màn hình phân tích! [surprise-oh] Rất nhiều người nghĩ rằng con cá này chỉ đơn giản là ngậm nước vào miệng rồi phun phì phì ra ngoài như trẻ con nghịch nước. Sai lầm hoàn toàn! Cấu trúc nòng súng của Cá Cung Thủ là một tuyệt tác cơ khí thủy lực đỉnh cao.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ở vòm họng trên của cá có một đường rãnh hình chữ V sâu và hẹp. Khi chuẩn bị khai hỏa, nó áp chặt chiếc lưỡi linh hoạt của mình ép sát vào rãnh chữ V này, biến khoang miệng thành một chiếc nòng súng ống tròn hoàn hảo có đường kính nòng chỉ vỏn vẹn nửa mi-li-mét đến một mi-li-mét!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Tiếp theo, hai nắp mang khổng lồ đóng sập cực mạnh lại với nhau, nén toàn bộ lượng nước trong khoang miệng và tống vọt ra ngoài qua khe nòng súng với vận tốc lên tới bốn đến năm mét một giây! Nhưng bí mật kinh hoàng nhất mà các nhà vật lý học thuộc Đại học Bayreuth ở Đức phát hiện ra lại nằm ở động lực học của dòng nước!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Báo cáo chỉ huy, cảm biến tốc độ đo được phần đuôi tia nước bay nhanh hơn phần đầu tới hai mươi phần trăm, hai phần nước đang nhập làm một!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-wa] Đây chính là tuyệt kỹ làm chấn động giới cơ học chất lỏng thế giới! Cá Cung Thủ liên tục điều chỉnh chuyển động của khóe miệng trong suốt thời gian bắn kéo dài vài mili-giây, khiến phần nước phun ra sau có vận tốc lớn hơn phần nước phun ra trước. Khi bay trên không trung, phần đuôi lao vút lên đuổi kịp và đập dồn vào phần đầu!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Hiện tượng này biến một tia nước mỏng manh thành một giọt đạn nước khổng lồ cô đặc ngay trước thời điểm chạm mục tiêu! Nhờ đó, động năng và lực va đập tại điểm tiếp xúc tăng vọt gấp năm đến mười lần so với dòng nước bình thường, đủ sức đập văng cả những con bọ ngựa đang găm chặt móng vuốt vào vỏ cây!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "[surprise-oh] Chưa hết đâu các đồng chí! Hộp tiếp đạn của khẩu súng này cũng thuộc hàng khủng: Cá Cung Thủ có thể bắn liên thanh tới sáu đến bảy phát đạn nước liên tiếp chỉ trong vòng hai giây mà không cần ngụp xuống nạp lại nước! Mỗi phát bắn đều giữ nguyên hỏa lực chính xác tuyệt đối như một khẩu súng máy tự động dưới nước!",
+      "mood": "don_dap"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "THUẬT TOÁN QUANG HỌC",
+    "banner_title": "GIẢI ĐỊNH LUẬT KHÚC XẠ ÁNH SÁNG",
+    "chapter_title": "Thuật toán quang học: Bộ não tự động giải định luật khúc xạ Snell",
+    "hook": "BỘ NÃO 0,1 GAM GIẢI BÀI TOÁN KHÚC XẠ TRONG 0,05 GIÂY",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Sở hữu một khẩu đại bác uy lực là một chuyện, nhưng ngắm bắn trúng mục tiêu lại là bài toán khó hơn gấp vạn lần! Và trở ngại chết người mà mọi xạ thủ dưới nước phải đối mặt chính là: [surprise-oh] Hiện tượng khúc xạ ánh sáng qua ranh giới giữa nước và không khí!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Bất kỳ học sinh nào từng học vật lý đều biết định luật bẻ gãy ánh sáng X-neo: Ánh sáng truyền từ không khí vào nước sẽ bị bẻ cong một góc đáng kể. Do đó, vị trí mà đôi mắt cá nhìn thấy chỉ là một ảnh ảo lơ lửng, lệch hẳn so với vị trí thực tế của con mồi trên cành cây!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Nếu bạn bắn thẳng vào vị trí bạn nhìn thấy, viên đạn nước chắc chắn sẽ bay chệch lên trời và con mồi sẽ ung dung bay mất. Nhưng bộ não của Thiện Xạ Đầm Lầy chỉ nặng chưa đầy không phẩy một gam lại có thể giải bài toán lượng giác khúc xạ phức tạp này trong vòng chưa đầy năm mươi mili-giây!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Alo các bác xạ thủ ơi, em đứng trên cành nghiêng bốn mươi lăm độ thế này mà tia nước bắn trúng ngay giữa trán là sao?",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "[laughter] Đúng như chú nhện con ngơ ngác vừa ôm đầu kêu trời! Để giảm thiểu tối đa sai số khúc xạ, Cá Cung Thủ thường bơi tới vị trí gần vuông góc dưới mục tiêu, tạo góc bắn từ bảy mươi độ đến tám mươi độ so với mặt nước. Nhưng ngay cả khi bị ép bắn ở góc nghiêng bốn mươi lăm độ, tỷ lệ bắn trúng mục tiêu ngay trong phát đạn đầu tiên của gã vẫn đạt tới chín mươi đến chín mươi lăm phần trăm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Đôi mắt to tròn của cá có cấu tạo nhãn cầu đặc biệt với hai trục quang học độc lập, vừa giúp bù trừ tự động độ cong mặt nước, vừa tạo ra tầm nhìn lập thể ba chiều cực kỳ sắc bén xuyên qua lớp gương phản chiếu của mặt hồ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "[surprise-wa] Thậm chí võng mạc của nó còn sở hữu các tế bào cảm quang chuyên biệt có khả năng lọc sạch ánh sáng lóa mặt trời và bóc tách các vệt màu ngụy trang của bầy côn trùng ẩn nấp sau kẽ lá xanh! Một hệ thống kính ngắm quang học hồng ngoại sinh học đỉnh cao mà các nhà thiết kế vũ khí hiện đại phải ghen tị!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "HUẤN LUYỆN TÁC CHIẾN",
+    "banner_title": "TÂN BINH TẬP BẮN VÀ HỌC TẬP ĐÀN",
+    "chapter_title": "Huấn luyện tác chiến: Tân binh bắn hụt trăm phát và năng lực học tập",
+    "hook": "KHÔNG PHẢI BẢN NĂNG CÓ SẴN MÀ PHẢI TẬP BẮN TỪ BÉ",
+    "mood": "nghiem_trang_gia",
+    "parts": [
+     {
+      "text": "Nhiều người lầm tưởng khả năng bắn tỉa thần sầu này là bản năng bẩm sinh được lập trình sẵn trong gen của Cá Cung Thủ. [surprise-oh] Nghiên cứu thực nghiệm chấn động của các nhà khoa học đã chứng minh điều ngược lại: Đây là một kỹ năng quân sự bắt buộc phải trải qua rèn luyện gian khổ!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Bản tin huấn luyện từ trường bắn tân binh: Những chú cá non mới nở chỉ có thể bắn ra những tia nước yếu ớt xa vài centimet, và chúng bắn trượt tới chín mươi chín phần trăm số mục tiêu trong những tuần đầu đời!",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "[laughter] Đúng là cảnh tượng bi hài của trường bắn quân sự! Cá cung thủ non phải trải qua hàng ngàn lần thử và sai, tự rút kinh nghiệm sau mỗi cú bắn lệch để não bộ dần dần học cách bù trừ góc khúc xạ theo cự ly thực tế.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng điều làm kinh ngạc giới nghiên cứu hành vi động vật là phát hiện công bố trên tạp chí Nature: Cá Cung Thủ sở hữu năng lực học tập xã hội đỉnh cao! Một con cá non nếu được bơi cạnh những xạ thủ kỳ cựu dày dặn kinh nghiệm chỉ cần đứng quan sát đàn anh bắn mồi vài lần là có thể tự điều chỉnh góc bắn của mình chuẩn xác hơn gấp nhiều lần mà không cần tự mình thử sai!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Khả năng quan sát, phân tích đường đạn của đồng loại rồi mô phỏng lại trong não bộ là một năng lực nhận thức cấp cao mà trước đây người ta ngỡ chỉ có ở các loài linh trưởng và con người! Một minh chứng hùng hồn cho thấy trí tuệ của loài cá vượt xa những định kiến nông cạn thường thấy.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Để kiểm chứng điều này, giáo sư Sơ-suýt-tơ tại Đức đã thiết lập một thí nghiệm độc lạ: Ông chiếu các điểm sáng nhân tạo di động trên màn hình máy tính với vận tốc thay đổi liên tục. [surprise-oh] Chỉ sau vài lượt thử, bầy Cá Cung Thủ đã tự tính toán được quy luật chuyển động và bắn đón đầu mục tiêu ảo cực kỳ chính xác! Một tư duy tác chiến bắn chặn ngang tầm tên lửa phòng không!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "ĐOÁN TRƯỚC ĐIỂM RƠI",
+    "banner_title": "TÍNH ĐIỂM RƠI VÀ CÚ NHẢY BẮT MỒI",
+    "chapter_title": "Đoán trước điểm rơi: Tính quỹ đạo rơi trong 100ms và cú nhảy ngoạm mồi",
+    "hook": "TÍNH TOÁN ĐIỂM RƠI TRONG 100 MILI-GIÂY VÀ CUỘC ĐUA CƯỚP MỒI",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Bắn trúng con mồi rớt khỏi cành lá mới chỉ là một nửa chặng đường của chiến dịch săn mồi. Trong thế giới đầm lầy cạnh tranh khốc liệt, bắn trúng mà không đớp kịp thì miếng ăn sẽ rơi ngay vào miệng đối thủ bên cạnh! [surprise-oh] Và đây là lúc bộ vi xử lý đạn đạo của Thiện Xạ Đầm Lầy phát huy uy lực tối đa.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Ngay khoảnh khắc tia nước vừa rời khỏi khóe miệng trong vòng chưa đầy một trăm mili-giây, Cá Cung Thủ đã tính toán xong toàn bộ phương trình parabol đường rơi của con mồi: Nó biết chính xác vị trí và thời điểm con côn trùng sẽ tiếp nước!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Không cần đợi nhìn thấy con mồi rơi tới đâu, con cá lập tức bật chế độ bơi nước rút với tốc độ xé nước, lao thẳng tới đúng tọa độ tiếp nhận trước khi con mồi chạm mặt nước chỉ trong không phẩy một giây! Một pha đoán đầu đường đạn thần tốc khiến mọi đối thủ xung quanh chỉ biết đứng nhìn trong bất lực!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "[surprise-wa] Cuộc đua cướp mồi trong bầy đàn khốc liệt đến mức ba đến bốn đối thủ bơi bên cạnh cũng lập tức tính toán điểm rơi để lao vào tranh cướp! Nếu tay súng chính chỉ cần chậm trễ một phần mười giây trong pha bơi nước rút, con mồi do chính mình tốn công bắn hạ sẽ biến mất tăm vào dạ dày của kẻ cơ hội đứng xem!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Tôi bắn tỉa trong quân đội cả đời mà nhìn pha tính toán đạn đạo của chú cá này cũng phải ngả mũ chào thua!",
+      "cast": "ga_khong_lo"
+     },
+     {
+      "text": "[laughter] Thậm chí Thiện Xạ Đầm Lầy còn trang bị một phương án tác chiến dự phòng cực kỳ thực dụng: Nếu con mồi đậu ở cành lá quá thấp dưới ba mươi xăng-ti-mét, gã sẽ không thèm tốn một giọt nước nào! Con cá chỉ cần quẫy mạnh chiếc đuôi vây khỏe khoắn, phóng vút toàn bộ cơ thể bay lên khỏi mặt nước như một chiếc tên lửa mini để ngoạm gọn con mồi ngay trên không trung!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tuy nhiên, cỗ máy săn mồi hoàn hảo này cũng có những tử huyệt kỹ thuật: Khi trời nổi gió to làm mặt nước dậy sóng cuồn cuộn hoặc khi váng dầu ô nhiễm che phủ mặt sông, thuật toán quang học bị nhiễu loạn hoàn toàn, biến tay súng cừ khôi thành một kẻ bắn trượt đáng thương!",
+      "mood": "bi_hai"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "BÁO CÁO THỬ NGHIỆM",
+    "banner_title": "BÁO CÁO KỸ THUẬT VÀ TẬP KẾ TIẾP",
+    "chapter_title": "Báo cáo kỹ thuật: Bài học độ chính xác và bóng đen Wolverine 860V tập sau",
+    "hook": "BÀI HỌC VỀ ĐỘ CHÍNH XÁC VÀ BẬT MÍ BÓNG ĐEN TẬP 21",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Báo cáo tổng kết thử nghiệm kỹ thuật số hai mươi: Cá Cung Thủ chứng minh cho chúng ta thấy rằng sức mạnh hủy diệt không nhất thiết phải đến từ kích thước cơ bắp đồ sộ hay vũ khí hủy diệt hàng loạt. Sự am hiểu quy luật tự nhiên, khả năng tính toán chuẩn xác và tinh thần học hỏi không ngừng mới là chìa khóa vạn năng để sinh tồn và làm chủ cuộc chơi.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Chính cơ chế nén dòng nước gia tốc đuôi của loài cá này đang là nguồn cảm hứng vô giá để các kỹ sư hàng không vũ trụ và công nghệ in ba chiều hiện đại thiết kế ra những vòi phun hạt siêu vi mô có độ chính xác tuyệt đối mà không cần sử dụng bất kỳ pít-tông cơ học phức tạp nào!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "[surprise-oh] Bạn khâm phục điều gì nhất ở Thiện Xạ Đầm Lầy Cá Cung Thủ: Khẩu đại bác nén đạn nước gia tốc đuôi, hay bộ não giải định luật khúc xạ ánh sáng trong chớp mắt? Hãy để lại ý kiến bình luận của đội kỹ thuật bên dưới nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và bây giờ, hãy hướng ngòi bút về phân cảnh kết thúc bí ẩn! Trong tập tiếp theo, chúng ta sẽ rời xa những cánh rừng ngập mặn châu Á để thâm nhập vào vùng rừng nhiệt đới âm u của lục địa đen Châu Phi. [surprise-wa] Hãy chiêm ngưỡng một bóng đen bí ẩn vô cùng kỳ dị! Một sinh vật lưỡng cư nhỏ bé, nhưng sở hữu cơ chế tự vệ được đánh giá là điên rồ và đau đớn nhất hành tinh: Khi bị kẻ săn mồi dồn vào chân tường, nó sẽ chủ động tự co thắt cơ bắp bẻ gãy chính đốt xương ngón chân của mình, đâm thủng lớp da thịt ra ngoài để tạo thành một bộ móng vuốt sắc nhọn như dao găm hệt như dị nhân Oen-vơ-rin trong truyện tranh! Đố các chuyên viên kỹ thuật biết danh tính của sát thủ tự bẻ xương kỳ lạ này là ai? Hãy viết ngay câu trả lời của bạn dưới phần bình luận nhé!",
+      "mood": "tram_bi_an"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Cảnh báo xạ thủ bắn tỉa! Bạn có tin một con cá dưới nước lại có thể ngắm bắn bách phát bách trúng các mục tiêu đậu trên cành cây cao tới hai mét? Đây là Cá Cung Thủ, tay súng bắn tỉa cừ khôi của các rạn rừng ngập mặn! Thứ nhất, vòm họng của nó có rãnh chữ V ép chặt với lưỡi, tạo thành chiếc nòng súng tí hon nén tia nước bắn xa kỷ lục tới ba mét! Thứ hai, phần đuôi tia nước bay nhanh hơn phần đầu, đập dồn lại thành một giọt đạn nước khổng lồ làm tăng lực va đập gấp mười lần để hạ gục con mồi! Thứ ba, mặt nước luôn bẻ cong ánh sáng theo định luật khúc xạ, nhưng bộ não của loài cá này giải bài toán quang học chỉ trong năm mươi mili-giây để bắn chính xác tới chín mươi lăm phần trăm! Chưa hết, nó còn tính toán trước điểm rơi đạn đạo để bơi nước rút cướp mồi trước đối thủ chỉ trong không phẩy một giây! Độ chính xác và khả năng thích nghi phi thường, đó chính là vũ khí tối thượng giúp Thiện Xạ Đầm Lầy thống trị cả hai thế giới dưới nước và trên cạn!"
+ },
+ "seo": {
+  "title": "Cá Cung Thủ Bắn Nước 3 Mét & Thuật Toán Khúc Xạ Ánh Sáng?! | Tập 20",
+  "hook_paragraph": "Cá Cung Thủ (Archerfish) chỉ dài 20cm nhưng sở hữu nòng súng vòm miệng nén tia nước bắn hạ con mồi cách 3m, tự động giải định luật khúc xạ ánh sáng Snell trong 50 mili-giây và tính toán trước điểm rơi đạn đạo trong 100ms! Giải mã vũ khí bắn tỉa sinh học tối thượng của Thiện Xạ Đầm Lầy.",
+  "bullets": [
+   "Nòng súng rãnh chữ V nén tia nước vận tốc 5 m/s bắn xa kỷ lục 3 mét",
+   "Động lực học chất lỏng: Gia tốc đuôi biến tia nước thành giọt đạn nước uy lực gấp 10 lần",
+   "Bộ não giải định luật khúc xạ ánh sáng Snell trong vòng 50 mili-giây với độ chính xác 95%",
+   "Năng lực học tập xã hội: Cá non học góc bắn từ xạ thủ kỳ cựu công bố trên Nature",
+   "Đoán trước điểm rơi đạn đạo và bơi nước rút cướp mồi trong 0,1 giây",
+   "Bật mí bóng đen bí ẩn tập tiếp theo: Sát thủ tự bẻ gãy xương làm móng vuốt Wolverine"
+  ],
+  "question": "Bạn khâm phục điều gì nhất ở Thiện Xạ Đầm Lầy Cá Cung Thủ: Khẩu súng nén đạn nước gia tốc đuôi, hay bộ não giải định luật khúc xạ ánh sáng trong chớp mắt? Đoán xem bóng đen tập sau là loài nào nhé!",
+  "next_teaser": "loài ếch tự bẻ gãy xương ngón chân đâm thủng da làm móng vuốt Wolverine",
+  "hashtags": [
+   "#CaCungThu",
+   "#Archerfish",
+   "#TheGioiDongVat",
+   "#VeChuyenHoangDa",
+   "#WhiteboardAnimation"
+  ],
+  "tags": [
+   "cá cung thủ",
+   "ca cung thu",
+   "archerfish",
+   "toxotes",
+   "cá cung thủ bắn nước",
+   "cá cung thủ săn mồi",
+   "khúc xạ ánh sáng",
+   "định luật snell",
+   "thiện xạ đầm lầy",
+   "cá bắn tỉa",
+   "động vật hài hước",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation việt nam"
+  ],
+  "shorts_title": "Làm Sao Con Cá Này Giải Được Định Luật Khúc Xạ Ánh Sáng?! 🎯 #shorts #cacungthu",
+  "shorts_desc": "Cá Cung Thủ chỉ dài 20cm nhưng nén tia nước bắn xa 3m, tự giải bài toán khúc xạ ánh sáng Snell trong 50ms và đoán trước điểm rơi đạn đạo trong 0,1s! Khám phá bí mật Thiện Xạ Đầm Lầy.",
+  "shorts_tags": [
+   "cá cung thủ",
+   "ca cung thu",
+   "archerfish",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ],
+  "en_title": "How the 20cm Archerfish Solves Physics Refraction to Snipe at 3m?! | Ep 20",
+  "en_hook": "The 20cm Archerfish compresses water jets to snipe down insects from branches 3 meters away, automatically calculating Snell's refraction law in under 50 milliseconds! Discover the biomechanical secrets of nature's ultimate sniper fish.",
+  "en_chapters": [
+   "Secret Sniper: 20cm fish with a 3-meter water cannon",
+   "Barrel Blueprint: V-groove palate and water bullet blob physics",
+   "Optical Algorithm: Solving Snell's refraction law in 50ms",
+   "Sniper Training: Rookie practice and social learning on Nature",
+   "Ballistic Trajectory: Predicting falling prey within 100ms",
+   "Technical Debrief & Next Episode Wolverine Frog Teaser"
+  ],
+  "en_shorts_title": "How This Fish Solves Physics Refraction to Snipe Prey?! 🎯 #shorts #archerfish"
+ }
+}

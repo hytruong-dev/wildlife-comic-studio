@@ -1,0 +1,525 @@
+{
+ "episode": "mega-04-biet-doi-dac-nhiem-sinh-hoc",
+ "title_lines": [
+  "BIỆT ĐỘI ĐẶC NHIỆM",
+  "PHI VỤ THẾ KỶ"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 52.99,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/mega-04-biet-doi-dac-nhiem-sinh-hoc_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  6.33,
+  10.61,
+  15.69,
+  20.91,
+  25.63,
+  30.37,
+  35.57,
+  40.51,
+  46.27,
+  50.83
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.0,
+     "text": "Mười đặc vụ"
+    },
+    {
+     "t": 0.98,
+     "text": "quái kiệt."
+    },
+    {
+     "t": 1.64,
+     "text": "Bảy cửa ải"
+    },
+    {
+     "t": 2.1,
+     "text": "an ninh."
+    },
+    {
+     "t": 2.84,
+     "text": "Một phi vụ"
+    },
+    {
+     "t": 3.2,
+     "text": "thế kỷ đột"
+    },
+    {
+     "t": 3.64,
+     "text": "nhập Pháo Đài"
+    },
+    {
+     "t": 4.06,
+     "text": "Tự Nhiên!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 4.53,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 6.66,
+     "side": "R",
+     "y": 640,
+     "value": "389 KM/H",
+     "label": "Bổ nhào kỷ lục",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 4.78,
+     "text": "Cửa Ải 1:"
+    },
+    {
+     "t": 5.3,
+     "text": "Chim Cắt Lớn"
+    },
+    {
+     "t": 5.92,
+     "text": "bổ nhào"
+    },
+    {
+     "t": 6.3,
+     "text": "xé gió 389"
+    },
+    {
+     "t": 7.32,
+     "text": "km/h vô hiệu"
+    },
+    {
+     "t": 8.24,
+     "text": "hóa lưới laser!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 8.81,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 11.94,
+     "side": "L",
+     "y": 620,
+     "value": "18 PHÚT",
+     "label": "Sống ở 0% Oxy",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 9.06,
+     "text": "Cửa Ải 2:"
+    },
+    {
+     "t": 10.1,
+     "text": "Chuột Chũi Trũi"
+    },
+    {
+     "t": 10.74,
+     "text": "thở bằng đường"
+    },
+    {
+     "t": 11.22,
+     "text": "hoa quả sống"
+    },
+    {
+     "t": 11.78,
+     "text": "sót 18 phút"
+    },
+    {
+     "t": 12.48,
+     "text": "ở mức 0% oxy!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 13.89,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 16.2,
+     "side": "R",
+     "y": 640,
+     "value": "65% NƯỚC",
+     "label": "Đóng băng cơ thể",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 14.14,
+     "text": "Cửa Ải 3:"
+    },
+    {
+     "t": 15.04,
+     "text": "Ếch Gỗ Bắc"
+    },
+    {
+     "t": 15.4,
+     "text": "Cực chủ động"
+    },
+    {
+     "t": 15.78,
+     "text": "đóng băng 65%"
+    },
+    {
+     "t": 16.84,
+     "text": "cơ thể,"
+    },
+    {
+     "t": 17.64,
+     "text": "tim ngừng đập"
+    },
+    {
+     "t": 18.02,
+     "text": "qua mặt cảm"
+    },
+    {
+     "t": 18.54,
+     "text": "biến tầm nhiệt!"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 19.11,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 19.36,
+     "text": "Cửa Ải 4:"
+    },
+    {
+     "t": 20.14,
+     "text": "Quạ Đen dùng"
+    },
+    {
+     "t": 20.82,
+     "text": "trí tuệ"
+    },
+    {
+     "t": 21.4,
+     "text": "giải mã chuỗi"
+    },
+    {
+     "t": 21.84,
+     "text": "bẫy cơ học"
+    },
+    {
+     "t": 22.24,
+     "text": "8 bước và"
+    },
+    {
+     "t": 22.66,
+     "text": "lóa mắt camera"
+    },
+    {
+     "t": 23.32,
+     "text": "an ninh!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 23.83,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 26.2,
+     "side": "L",
+     "y": 620,
+     "value": "225 DB",
+     "label": "Xung Sonar đỉnh",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 24.08,
+     "text": "Cửa Ải 5:"
+    },
+    {
+     "t": 24.94,
+     "text": "Cá Voi Sát"
+    },
+    {
+     "t": 25.38,
+     "text": "Thủ bắn xung"
+    },
+    {
+     "t": 25.978,
+     "text": "sonar 225 dB"
+    },
+    {
+     "t": 27.42,
+     "text": "quất sóng thần"
+    },
+    {
+     "t": 27.92,
+     "text": "phá đập nước ngầm!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 28.57,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 30.64,
+     "side": "R",
+     "y": 640,
+     "value": "1200G",
+     "label": "Lực chịu va đập",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 28.82,
+     "text": "Cửa Ải 6:"
+    },
+    {
+     "t": 29.8,
+     "text": "Chim Gõ Kiến"
+    },
+    {
+     "t": 30.3,
+     "text": "triệt tiêu 1200G"
+    },
+    {
+     "t": 31.08,
+     "text": "cùng Đại Đội"
+    },
+    {
+     "t": 31.78,
+     "text": "Kiến Cắt Lá"
+    },
+    {
+     "t": 32.38,
+     "text": "dùng răng thép"
+    },
+    {
+     "t": 33.0,
+     "text": "đục sập boong-ke!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 33.77,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 35.94,
+     "side": "L",
+     "y": 620,
+     "value": "VÁCH 90°",
+     "label": "Móng giác hút",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 34.02,
+     "text": "Cửa Ải 7:"
+    },
+    {
+     "t": 34.88,
+     "text": "Dê Núi phi"
+    },
+    {
+     "t": 35.28,
+     "text": "thân leo vách"
+    },
+    {
+     "t": 35.74,
+     "text": "đứng 90°"
+    },
+    {
+     "t": 36.44,
+     "text": "và Lạc Đà"
+    },
+    {
+     "t": 36.92,
+     "text": "vượt sa mạc"
+    },
+    {
+     "t": 37.56,
+     "text": "50°C hạ cầu treo!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 38.71,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 38.96,
+     "text": "Và kho báu"
+    },
+    {
+     "t": 39.38,
+     "text": "tối thượng là"
+    },
+    {
+     "t": 39.84,
+     "text": "gì? Không phải"
+    },
+    {
+     "t": 40.62,
+     "text": "vàng bạc,"
+    },
+    {
+     "t": 41.06,
+     "text": "mà là kiệt"
+    },
+    {
+     "t": 41.92,
+     "text": "tác tiến hóa"
+    },
+    {
+     "t": 42.5,
+     "text": "nằm ngay trong"
+    },
+    {
+     "t": 42.86,
+     "text": "chính bản thân"
+    },
+    {
+     "t": 43.36,
+     "text": "mỗi loài!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 44.47,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 44.72,
+     "text": "Bạn ấn tượng"
+    },
+    {
+     "t": 45.22,
+     "text": "với siêu năng"
+    },
+    {
+     "t": 45.8,
+     "text": "lực của đặc"
+    },
+    {
+     "t": 46.18,
+     "text": "vụ nào nhất?"
+    },
+    {
+     "t": 46.86,
+     "text": "Xem trọn bộ"
+    },
+    {
+     "t": 47.44,
+     "text": "phi vụ thế"
+    },
+    {
+     "t": 47.86,
+     "text": "kỷ trong video"
+    },
+    {
+     "t": 48.5,
+     "text": "dài nhé,"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 49.03,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 49.28,
+     "text": "vì ở đây"
+    },
+    {
+     "t": 49.6,
+     "text": "chỉ có 10"
+    },
+    {
+     "t": 49.96,
+     "text": "đặc vụ quái"
+    },
+    {
+     "t": 50.44,
+     "text": "kiệt, 7 cửa"
+    },
+    {
+     "t": 51.12,
+     "text": "ải sinh tử,"
+    },
+    {
+     "t": 51.66,
+     "text": "và một phi"
+    },
+    {
+     "t": 52.28,
+     "text": "vụ thế kỷ!"
+    }
+   ]
+  }
+ ]
+}

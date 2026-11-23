@@ -1,0 +1,733 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "KHỦNG LONG 6 SỪNG GIỮ NỤ CƯỜI ẤU TRÙNG",
+   "hook": "",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giữa làn nước trong",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Toàn thân màu hồng",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trên đầu xòe ra",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và đặc biệt nhất",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Viện trưởng ơi, mẫu",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trợ lý chớ vội",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây là Kỳ Nhông",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kích thước một cá",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "20-30cm",
+       "side": "R",
+       "y": 350,
+       "value": "20-30 CM",
+       "label": "kích thước mẫu vật",
+       "target": [
+        0.68,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng điều khiến cả",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tạo hóa đã ban",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nghĩa là dù đã",
+     "image": "assets/long/L12.png",
+     "stickers": [
+      {
+       "at": "15 năm",
+       "side": "L",
+       "y": 350,
+       "value": "15 NĂM",
+       "label": "ấu nhi vĩnh viễn",
+       "target": [
+        0.35,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Sáu chiếc sừng xù",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và chính vì giữ",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đêm nay, tôi tuyên",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": [
+      "kích hoạt"
+     ]
+    }
+   ],
+   "badge": "HỒ SƠ MẪU VẬT"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "MỌC LẠI CHÂN TAY HOÀN CHỈNH TỪ KHỐI TẾ BÀO MẦM",
+   "hook": "MỌC LẠI NGUYÊN VẸN CẢ CÁNH TAY TRONG 30 NGÀY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở con người hay",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng tại bàn thí",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ trong vòng chưa",
+     "image": "assets/long/L19.png",
+     "stickers": [
+      {
+       "at": "24 giờ",
+       "side": "R",
+       "y": 350,
+       "value": "24 GIỜ",
+       "label": "khép kín vết thương",
+       "target": [
+        0.58,
+        0.46
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Không hề có máu",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và ngay dưới lớp",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây là lúc khoa",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tự bẻ ngược bánh",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "phân chia điên cuồng",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuần thứ 1, một",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đến tuần thứ 4,",
+     "image": "assets/long/L26.png",
+     "stickers": [
+      {
+       "at": "5 ngón tay",
+       "side": "R",
+       "y": 350,
+       "value": "5 NGÓN TAY",
+       "label": "hoàn chỉnh như mới",
+       "target": [
+        0.62,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Sau đúng 30-40 ngày,",
+     "image": "assets/long/L27.png",
+     "stickers": [
+      {
+       "at": "30-40 ngày",
+       "side": "L",
+       "y": 350,
+       "value": "30-40 NGÀY",
+       "label": "mọc lại 100%",
+       "target": [
+        0.38,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học",
+     "image": "assets/long/L28.png",
+     "stickers": [
+      {
+       "at": "hàng trăm lần",
+       "side": "R",
+       "y": 350,
+       "value": "100 LẦN",
+       "label": "không hề tạo sẹo",
+       "target": [
+        0.65,
+        0.42
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "và đặc biệt nhất",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 1: TỨ CHI"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "TÁI TẠO TỦY SỐNG VÀ BƠI LỘI BÌNH THƯỜNG SAU VÀI TUẦN",
+   "hook": "BẮC CẦU TỦY SỐNG VÀ XÓA BỎ MỌI MÔ SẸO LIỆT",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tủy sống là đại",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi đại lộ đó",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo viện trưởng,",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhìn vào màn hình",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thay vì tạo sẹo",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chiếc cầu biểu mô",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hàng ngàn sợi trục",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ sau 3-4 tuần",
+     "image": "assets/long/L38.png",
+     "stickers": [
+      {
+       "at": "3-4 tuần",
+       "side": "L",
+       "y": 350,
+       "value": "3-4 TUẦN",
+       "label": "hàn gắn tủy sống",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "lại phe phẩy chiếc đuôi",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các viện nghiên cứu",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 2: TỦY SỐNG"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "CẮT 1/3 TÂM THẤT TIM VÀ MỌC LẠI TẾ BÀO NÃO BỘ",
+   "hook": "CẮT BỎ 1/3 TRÁI TIM VẪN TỰ ĐẬP VÀ MỌC LẠI SAU 30 NGÀY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chúng ta đưa lưỡi",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học",
+     "image": "assets/long/L43.png",
+     "stickers": [
+      {
+       "at": "1/3 tâm thất",
+       "side": "R",
+       "y": 350,
+       "value": "1/3 TIM",
+       "label": "cắt bỏ tâm thất",
+       "target": [
+        0.58,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Ở con người, một",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng khi nhìn vào",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngay tại vùng biên",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chúng phân chia ồ",
+     "image": "assets/long/L47.png",
+     "stickers": [
+      {
+       "at": "30 ngày",
+       "side": "R",
+       "y": 350,
+       "value": "30 NGÀY",
+       "label": "tim mọc lại 100%",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chưa dừng lại ở",
+     "image": "assets/long/L48.png",
+     "stickers": [
+      {
+       "at": "Science",
+       "side": "L",
+       "y": 350,
+       "value": "SCIENCE",
+       "label": "nghiên cứu não bộ",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và kết quả khiến",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trời đất ơi viện",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bị cắt mất một",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khả năng tự sửa",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 3: TIM & NÃO"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "NHẬN GHÉP TẠNG XUYÊN CÁ THỂ VÀ GIẢI MÃ BỘ GEN 32 TỶ",
+   "hook": "DUNG NẠP MỌI MẢNH GHÉP VÀ BỘ GEN GẤP 10 LẦN CON NGƯỜI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hệ miễn dịch của",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chỉ cần phát hiện",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thế nhưng trong cơ",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thay vì đào thải,",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí trong những",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bí mật đằng sau",
+     "image": "assets/long/L60.png",
+     "stickers": [
+      {
+       "at": "2018",
+       "side": "L",
+       "y": 350,
+       "value": "2018",
+       "label": "công bố Nature",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Các đồng nghiệp hãy",
+     "image": "assets/long/L61.png",
+     "stickers": [
+      {
+       "at": "32 tỷ",
+       "side": "R",
+       "y": 350,
+       "value": "32 TỶ",
+       "label": "cặp base ADN",
+       "target": [
+        0.68,
+        0.48
+       ]
+      },
+      {
+       "at": "10 lần",
+       "side": "L",
+       "y": 480,
+       "value": "GẤP 10 LẦN",
+       "label": "so với bộ gen người",
+       "target": [
+        0.28,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cả một đại dương",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 4: GHÉP TẠNG"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "HOÁ THÚ MẤT SIÊU NĂNG LỰC VÀ BÓNG ĐEN BÍ ẨN",
+   "hook": "CÁI GIÁ CỦA SỰ TRƯỞNG THÀNH: ĐÁNH MẤT SỰ BẤT TỬ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chặt chân chân mọc",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và đây là cú",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong tự nhiên, tuyến",
+     "image": "assets/long/L66.png",
+     "stickers": [
+      {
+       "at": "Thyroxine",
+       "side": "L",
+       "y": 350,
+       "value": "THYROXINE",
+       "label": "hoóc-môn tuyến giáp",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nó chọn sống cả",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng khi các nhà",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sáu chiếc sừng mang",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Toàn bộ cơ thể nó",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và cái giá phải",
+     "image": "assets/long/L71.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi đã bước lên",
+     "image": "assets/long/L72.png",
+     "stickers": [
+      {
+       "at": "1/2",
+       "side": "R",
+       "y": 350,
+       "value": "GIẢM 1/2",
+       "label": "tuổi thọ khi lên cạn",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hóa ra để giữ",
+     "image": "assets/long/L73.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tổng kết ghi chép",
+     "image": "assets/long/L74.png",
+     "stickers": [
+      {
+       "at": "điểm 10",
+       "side": "R",
+       "y": 350,
+       "value": "ĐIỂM 10",
+       "label": "sinh tồn tuyệt đối",
+       "target": [
+        0.58,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Kê đơn xuất viện:",
+     "image": "assets/long/L75.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn các trợ lý",
+     "image": "assets/long/L76.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hồ sơ cấp độ tối",
+     "image": "assets/long/L77.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một cục thịt dài",
+     "image": "assets/long/L78.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "và trong tích tắc",
+     "image": "assets/long/L79.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đố các bạn biết",
+     "image": "assets/long/L80.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP TỐI THƯỢNG"
+  }
+ }
+}

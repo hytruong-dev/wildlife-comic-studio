@@ -1,0 +1,14 @@
+## ĐẠI HỘI SINH TỒN #3 | 10 DỊ NHÂN ĐẠI CHIẾN!
+@ don_dap
+[surprise-oh] Mười dị nhân mới. Tám vòng đấu sinh tử. Một chiếc vương miện tối cao! :: {BOARD} dựng giữa sân vận động rực lửa ban đêm, phía trên lơ lửng chiếc vương miện vàng phát sáng, mười chiếc bóng tuyển thủ đứng bên dưới.
+Gấu Wombat ba mươi lăm ki-lô-gam và Hải Ly răng sắt được đặt cược sẽ thắng. Còn Sứa Bất Tử một miligram... chuyên gia bảo tham gia cho vui! [laughter] :: {WOMBAT} và {BEAVER} đứng oai vệ trên hai cột điểm cao vút rực lửa, bên dưới {IMMORTAL_JELLYFISH} và {SEA_CUCUMBER} đứng cạnh cột điểm thấp lè tè.
+Vòng một: Cá Mút Đá Hagfish sở hữu sợi tơ nhớt bền gấp mười lần tơ nhện và dai hơn sợi Kevlar! :: {HAGFISH} thắt nút thân số 8 phun ra luồng bọt nhớt phát sáng lấp lánh ngăn chặn kẻ thù dưới đáy biển. || gấp mười lần;R;640;GẤP 10 LẦN;Bền hơn tơ nhện;0.54,0.52
+Vòng hai: Chuột Chũi Mũi Sao đớp mồi trong không phẩy mười hai giây và ngửi mùi dưới nước bằng bong bóng khí! :: {STAR_MOLE} đeo kính râm xòe 22 xúc tu đỏ hồng hớp trọn ấu trùng trong nháy mắt. || không phẩy mười hai giây;L;620;0,12 GIÂY;Ăn nhanh nhất quả đất;0.58,0.28
+Vòng ba: Kỳ Nhông Axolotl sở hữu bộ gen ba mươi hai tỷ cặp base tái sinh não tim mà không để lại sẹo! :: {AXOLOTL} mỉm cười ngây thơ tỏa ánh hào quang hồng phấn, trái tim nhỏ lấp lánh phục hồi nguyên vẹn. || ba mươi hai tỷ;R;600;32 TỶ BASE;Gen tái sinh không sẹo;0.48,0.72
+Vòng bốn: Đập nước Hải Ly tạo vùng ngập nước kỳ diệu ngăn chặn bão lửa và hạn hán cả thung lũng! :: {BEAVER} đội mũ bảo hộ vàng tự hào đứng trên con đập gỗ vững chãi giữ dòng nước trong xanh.
+Vòng năm: Hải Sâm lầy lội tiêu hóa một trăm ba mươi tấn trầm tích mỗi năm để bảo vệ rạn san hô! :: {SEA_CUCUMBER} ung dung hút cát lọc sạch đáy biển rực rỡ sắc màu san hô. || một trăm ba mươi tấn;L;610;130 TẤN;Lọc sạch trầm tích;0.52,0.35
+Vòng sáu: Bạch Tuộc Mimic chín bộ não biến hình mười lăm loài kịch độc chỉ trong hai trăm mili-giây! :: {MIMIC_OCTOPUS} uốn 8 xúc tu chuyển đổi từ rắn biển sang cá sư tử gai góc trong tích tắc.
+Chung kết: ai mang lại công nghệ vĩ đại nhất cho loài người? Y học tái tạo mô của Axolotl hay gen telomere bất tử của Sứa? :: Nhà khoa học hoạt hình soi kính hiển vi chiêm ngưỡng chuỗi DNA phát sáng của {AXOLOTL} và {IMMORTAL_JELLYFISH}.
+[surprise-wa] Và tân vương Mùa ba là... sinh vật tí hon một miligram từng bị xem là mồi ngon dưới đáy biển! :: {IMMORTAL_JELLYFISH} bay lơ lửng trên bục cao nhất đội chiếc vương miện vàng rực rỡ giữa pháo hoa nổ vang trời.
+[question-ah] Bạn có đồng ý không? Xem trọn tám vòng đấu kịch tính trong video dài nhé, :: {JUDGE} và mười tuyển thủ cùng quay sang nhìn thẳng ra người xem, {IMMORTAL_JELLYFISH} ở giữa giơ cúp vô địch lên.
+vì ở đây có mười dị nhân mới, tám vòng đấu sinh tử, và một chiếc vương miện tối cao! :: {BOARD} dựng giữa sân vận động rực lửa ban đêm, phía trên lơ lửng chiếc vương miện vàng phát sáng, mười chiếc bóng tuyển thủ đứng bên dưới.

@@ -1,0 +1,324 @@
+{
+  "scene_id": "scene04",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 4,
+  "world_width": 2042,
+  "world_height": 1040,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 60,
+  "duration_ms": 88117,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-06-gau-nuoc/assets/scenes_composed/scene04_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      206,
+      9,
+      1074,
+      55
+    ],
+    "x": 218,
+    "y": 13,
+    "w": 844,
+    "h": 40,
+    "text": "CHƯƠNG 4  •  04. CHUYẾN DU HÀNH VŨ TRỤ & VỤ ĐÂM TÀU LÊN MẶT TRĂNG",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-06-gau-nuoc/assets/scenes_composed/scene04_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 21654,
+      "has_frame": false,
+      "pill_box": [
+        492,
+        60,
+        817,
+        99
+      ],
+      "art_only_box": [
+        338,
+        96,
+        967,
+        449
+      ],
+      "caption": {
+        "text": "Khi ngủ là kim cương bất hoại, khi thức lại mềm như bóng bay nước",
+        "x": 357,
+        "y": 449,
+        "w": 592,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        336,
+        60,
+        969,
+        481
+      ],
+      "img_region": {
+        "x": 338,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 21654,
+      "end_ms": 43308,
+      "has_frame": false,
+      "pill_box": [
+        1245,
+        60,
+        1534,
+        101
+      ],
+      "art_only_box": [
+        1073,
+        96,
+        1702,
+        449
+      ],
+      "caption": {
+        "text": "Ốc sên vô tình bò qua để lại vệt nhớt làm ngạt thở chú gấu nhỏ",
+        "x": 1114,
+        "y": 449,
+        "w": 547,
+        "h": 35,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1071,
+        60,
+        1704,
+        486
+      ],
+      "img_region": {
+        "x": 1073,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 43308,
+      "end_ms": 64962,
+      "has_frame": false,
+      "pill_box": [
+        1228,
+        550,
+        1550,
+        588
+      ],
+      "art_only_box": [
+        1073,
+        586,
+        1702,
+        939
+      ],
+      "caption": {
+        "text": "Chẳng có nanh vuốt hay giáp xác, dễ dàng bị giun vi mô nuốt chửng",
+        "x": 1094,
+        "y": 939,
+        "w": 588,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1071,
+        550,
+        1704,
+        974
+      ],
+      "img_region": {
+        "x": 1073,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_04",
+      "start_ms": 64962,
+      "end_ms": 86617,
+      "has_frame": false,
+      "pill_box": [
+        489,
+        550,
+        820,
+        590
+      ],
+      "art_only_box": [
+        338,
+        586,
+        967,
+        939
+      ],
+      "caption": {
+        "text": "Nước ấm lên từ từ khiến cơ thể không kịp bật cơ chế tạo kén Tun",
+        "x": 368,
+        "y": 939,
+        "w": 570,
+        "h": 31,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        336,
+        550,
+        969,
+        972
+      ],
+      "img_region": {
+        "x": 338,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 336.0,
+    "y_min": 60.0,
+    "x_max": 1704.0,
+    "y_max": 974.0,
+    "bbox_w": 1368.0,
+    "bbox_h": 914.0,
+    "center_x": 1020.0,
+    "center_y": 517.0,
+    "zoom_out_scale": 0.6494,
+    "crop_w": 1971.0,
+    "crop_h": 1004.0
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 652.5,
+      "cy": 270.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.09,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 21034.0,
+      "cx": 652.5,
+      "cy": 270.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.09,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 21654.0,
+      "cx": 1387.5,
+      "cy": 273.0,
+      "crop_w": 954.1,
+      "crop_h": 486.0,
+      "zoom_relative": 2.07,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 42688.0,
+      "cx": 1387.5,
+      "cy": 273.0,
+      "crop_w": 954.1,
+      "crop_h": 486.0,
+      "zoom_relative": 2.07,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 43308.0,
+      "cx": 1387.5,
+      "cy": 762.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 2.07,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 64342.0,
+      "cx": 1387.5,
+      "cy": 762.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 2.07,
+      "phase": "transition",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 64962.0,
+      "cx": 652.5,
+      "cy": 761.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 2.08,
+      "phase": "focus_hold",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 86617.0,
+      "cx": 652.5,
+      "cy": 761.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 2.08,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 87117.0,
+      "cx": 1020.0,
+      "cy": 517.0,
+      "crop_w": 1971.0,
+      "crop_h": 1004.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 88117.0,
+      "cx": 1020.0,
+      "cy": 517.0,
+      "crop_w": 1971.0,
+      "crop_h": 1004.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

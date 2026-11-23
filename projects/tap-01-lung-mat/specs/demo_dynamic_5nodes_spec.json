@@ -1,0 +1,383 @@
+{
+  "scene_id": "demo_dynamic_5nodes",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 5,
+  "world_width": 2740,
+  "world_height": 1396,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 150,
+  "duration_ms": 68160,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/assets/scenes_composed/demo_dynamic_5nodes_world.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      204,
+      8,
+      1075,
+      52
+    ],
+    "x": 216,
+    "y": 12,
+    "w": 847,
+    "h": 38,
+    "text": "[PHẦN 1 (DEMO N=5)]  DYNAMIC MULTI-NODE CANVAS & AUTO-FIT BOUNDING BOX",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/assets/scenes_composed/demo_dynamic_5nodes_world_header.png"
+  },
+  "panels": [
+    {
+      "id": "node_01",
+      "start_ms": 0,
+      "end_ms": 13800,
+      "has_frame": false,
+      "pill_box": [
+        427,
+        193,
+        596,
+        231
+      ],
+      "art_only_box": [
+        188,
+        229,
+        832,
+        582
+      ],
+      "caption": {
+        "text": "Bá chủ thảo nguyên: Sư tử, linh cẩu, voi & tê giác",
+        "x": 295,
+        "y": 582,
+        "w": 429,
+        "h": 31,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        186,
+        189,
+        834,
+        615
+      ],
+      "img_region": {
+        "x": 188,
+        "y": 229,
+        "width": 644,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "node_02",
+      "start_ms": 13800,
+      "end_ms": 27200,
+      "has_frame": false,
+      "pill_box": [
+        1278,
+        193,
+        1464,
+        228
+      ],
+      "art_only_box": [
+        1048,
+        229,
+        1691,
+        582
+      ],
+      "caption": {
+        "text": "Nghịch lý: Bầy sư tử toát mồ hôi tự động né đường",
+        "x": 1149,
+        "y": 582,
+        "w": 442,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1046,
+        189,
+        1693,
+        614
+      ],
+      "img_region": {
+        "x": 1048,
+        "y": 229,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "node_03",
+      "start_ms": 27200,
+      "end_ms": 40500,
+      "has_frame": false,
+      "pill_box": [
+        2134,
+        193,
+        2328,
+        231
+      ],
+      "art_only_box": [
+        1915,
+        229,
+        2544,
+        582
+      ],
+      "caption": {
+        "text": "Kỷ lục Guinness: Sinh vật 12kg gan lì nhất hành tinh",
+        "x": 2003,
+        "y": 582,
+        "w": 454,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1913,
+        189,
+        2546,
+        614
+      ],
+      "img_region": {
+        "x": 1915,
+        "y": 229,
+        "width": 629,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "node_04",
+      "start_ms": 40500,
+      "end_ms": 53200,
+      "has_frame": false,
+      "pill_box": [
+        1703,
+        773,
+        1899,
+        808
+      ],
+      "art_only_box": [
+        1478,
+        809,
+        2121,
+        1162
+      ],
+      "caption": {
+        "text": "Chí Phèo thảo nguyên: Thản nhiên đi dạo giữa bầy thú dữ",
+        "x": 1549,
+        "y": 1162,
+        "w": 502,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1476,
+        769,
+        2123,
+        1194
+      ],
+      "img_region": {
+        "x": 1478,
+        "y": 809,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "node_05",
+      "start_ms": 53200,
+      "end_ms": 68160,
+      "has_frame": false,
+      "pill_box": [
+        858,
+        773,
+        1025,
+        814
+      ],
+      "art_only_box": [
+        618,
+        809,
+        1262,
+        1162
+      ],
+      "caption": {
+        "text": "Cái giá quá đắt: Rách môi mẻ vuốt đổi miếng thịt dai nhách",
+        "x": 677,
+        "y": 1162,
+        "w": 525,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        616,
+        769,
+        1264,
+        1197
+      ],
+      "img_region": {
+        "x": 618,
+        "y": 809,
+        "width": 644,
+        "height": 353
+      },
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 186.0,
+    "y_min": 189.0,
+    "x_max": 2546.0,
+    "y_max": 1197.0,
+    "bbox_w": 2360.0,
+    "bbox_h": 1008.0,
+    "center_x": 1366.0,
+    "center_y": 693.0,
+    "zoom_out_scale": 0.51,
+    "crop_w": 2510.0,
+    "crop_h": 1278.5
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 643.6,
+      "cy": 402.0,
+      "crop_w": 1287.2,
+      "crop_h": 655.6,
+      "zoom_relative": 1.95,
+      "phase": "focus_hold",
+      "target_node_id": "node_01"
+    },
+    {
+      "time_ms": 13180.0,
+      "cx": 643.6,
+      "cy": 402.0,
+      "crop_w": 1287.2,
+      "crop_h": 655.6,
+      "zoom_relative": 1.95,
+      "phase": "transition",
+      "target_node_id": "node_01"
+    },
+    {
+      "time_ms": 13800.0,
+      "cx": 1369.5,
+      "cy": 401.5,
+      "crop_w": 1224.4,
+      "crop_h": 623.7,
+      "zoom_relative": 2.05,
+      "phase": "focus_hold",
+      "target_node_id": "node_02"
+    },
+    {
+      "time_ms": 26580.0,
+      "cx": 1369.5,
+      "cy": 401.5,
+      "crop_w": 1224.4,
+      "crop_h": 623.7,
+      "zoom_relative": 2.05,
+      "phase": "transition",
+      "target_node_id": "node_02"
+    },
+    {
+      "time_ms": 27200.0,
+      "cx": 2112.5,
+      "cy": 401.5,
+      "crop_w": 1255.0,
+      "crop_h": 639.2,
+      "zoom_relative": 2.0,
+      "phase": "focus_hold",
+      "target_node_id": "node_03"
+    },
+    {
+      "time_ms": 39880.0,
+      "cx": 2112.5,
+      "cy": 401.5,
+      "crop_w": 1255.0,
+      "crop_h": 639.2,
+      "zoom_relative": 2.0,
+      "phase": "transition",
+      "target_node_id": "node_03"
+    },
+    {
+      "time_ms": 40500.0,
+      "cx": 1799.5,
+      "cy": 981.5,
+      "crop_w": 1195.2,
+      "crop_h": 608.8,
+      "zoom_relative": 2.1,
+      "phase": "focus_hold",
+      "target_node_id": "node_04"
+    },
+    {
+      "time_ms": 52580.0,
+      "cx": 1799.5,
+      "cy": 981.5,
+      "crop_w": 1195.2,
+      "crop_h": 608.8,
+      "zoom_relative": 2.1,
+      "phase": "transition",
+      "target_node_id": "node_04"
+    },
+    {
+      "time_ms": 53200.0,
+      "cx": 940.0,
+      "cy": 983.0,
+      "crop_w": 1287.2,
+      "crop_h": 655.6,
+      "zoom_relative": 1.95,
+      "phase": "focus_hold",
+      "target_node_id": "node_05"
+    },
+    {
+      "time_ms": 65960.0,
+      "cx": 940.0,
+      "cy": 983.0,
+      "crop_w": 1287.2,
+      "crop_h": 655.6,
+      "zoom_relative": 1.95,
+      "phase": "overview_reveal",
+      "target_node_id": "node_05"
+    },
+    {
+      "time_ms": 66950.0,
+      "cx": 1366.0,
+      "cy": 693.0,
+      "crop_w": 2510.0,
+      "crop_h": 1278.5,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 68160.0,
+      "cx": 1366.0,
+      "cy": 693.0,
+      "crop_w": 2510.0,
+      "crop_h": 1278.5,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

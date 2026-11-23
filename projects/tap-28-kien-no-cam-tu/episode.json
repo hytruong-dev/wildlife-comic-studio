@@ -1,0 +1,315 @@
+{
+ "episode_no": 28,
+ "animal": "Kiến Nổ Cảm Tử",
+ "slug": "tap-28-kien-no-cam-tu",
+ "format": "F6",
+ "persona": "ong_trum",
+ "_angle_from_roadmap": "Quân đoàn cảm tử: Kiến thợ tự co cơ bụng nổ tung cơ thể phun keo độc vàng khóa chặt kẻ thù để bảo vệ tổ.",
+ "_shorts_idea_from_roadmap": "Những chiến binh kiến sẵn sàng tự kích nổ tung cơ thể mình như bom cảm tử!",
+ "nickname": "Chiến Binh Cảm Tử",
+ "sources": [
+  "Laciny et al. (2018), ZooKeys 751: 1-40 — Mô tả phân loại và cơ chế tự nổ (autothysis) của loài kiến mới Colobopsis explodens tại Borneo (Brunei, Malaysia, Thái Lan)",
+  "Jones et al. (2004), Journal of Chemical Ecology 30(8): 1479-1492 — Phân tích thành phần hóa học chất tiết màu vàng có độc tính cao từ tuyến hàm dưới khổng lồ",
+  "Maschwitz & Maschwitz (1974), Oecologia 16: 303-307 — Nghiên cứu tập tính phòng thủ tự sát đầu tiên ở nhóm kiến Colobopsis saundersi",
+  "Davidson et al. (2012), Myrmecological News 17: 81-89 — Tương tác bầy đàn và chiến thuật phong tỏa lãnh thổ trước kiến vàng dệt lá Oecophylla smaragdina",
+  "Schultz et al. (2019) & BMC Zoology — Hiện tượng phragmosis: kiến lính đầu phẳng cắm chốt bịt kín miệng tổ hình tròn trên thân cây gỗ"
+ ],
+ "whisper_prompt": "Kiến Nổ Cảm Tử, Chiến Binh Cảm Tử, Colobopsis explodens, Colobopsis saundersi, Bo-nê-ô, Borneo, Bru-nây, Brunei, Ma-lai-xi-a, Malaysia, Thái Lan, autothysis, phragmosis, tuyến hàm dưới, gaster, Oecophylla, kiến vàng dệt lá, 40m, 50m, 60m, 1 giây, 100%, 1916, 2018, Sứa Bất Tử, Turritopsis",
+ "display_fix": {
+  "hai mươi tám": "28",
+  "hai mươi chín": "29",
+  "bốn mươi đến năm mươi mét": "40-50m",
+  "năm mươi đến sáu mươi mét": "50-60m",
+  "bốn mươi mét": "40m",
+  "năm mươi mét": "50m",
+  "sáu mươi mét": "60m",
+  "hàng trăm ngàn": "hàng trăm ngàn",
+  "trăm ngàn": "trăm ngàn",
+  "hàng ngàn": "hàng ngàn",
+  "hàng triệu": "hàng triệu",
+  "hàng trăm": "hàng trăm",
+  "hàng chục": "hàng chục",
+  "một giây": "1 giây",
+  "hai giây": "2 giây",
+  "vài giây": "vài giây",
+  "một trăm phần trăm": "100%",
+  "bốn tầng": "4 tầng",
+  "bốn hạng mục": "4 hạng mục",
+  "năm cấp độ": "5 cấp độ",
+  "thứ nhất": "thứ 1",
+  "thứ hai": "thứ 2",
+  "thứ ba": "thứ 3",
+  "thứ tư": "thứ 4",
+  "thứ năm": "thứ 5",
+  "điểm mười": "điểm 10",
+  "Bo-nê-ô": "Borneo",
+  "Bru-nây": "Brunei",
+  "Ma-lai-xi-a": "Malaysia",
+  "Thái Lan": "Thái Lan",
+  "Ô-cô-phi-la": "Oecophylla",
+  "Năm hai ngàn mười tám": "2018",
+  "năm hai ngàn mười tám": "2018",
+  "năm một ngàn chín trăm mười sáu": "1916"
+ },
+ "voice": {},
+ "art": {
+  "decor": "explosion sparks, yellow toxic droplets, ant colony crowns, chemical flask",
+  "shorts_mascot": "A fierce brave cartoon reddish-brown worker ant holding a detonator button, with tiny yellow spark clouds popping behind its abdomen",
+  "thumb_bg": "vòm rừng mưa nhiệt đới Borneo tăm tối rực sáng vụ nổ keo độc vàng huỳnh quang",
+  "thumb_title": [
+   "TỰ KÍCH NỔ NỒNG BỤNG?!",
+   "KIẾN NỔ CẢM TỬ"
+  ],
+  "thumb_scene": "một chú Kiến Nổ Cảm Tử hoạt hình màu nâu đỏ to rõ, hai chân trước giơ cao quyết liệt, phần bụng gaster phát sáng nổ tung phóng ra dòng keo dính màu vàng tươi bọc chặt kẻ thù",
+  "thumb_gag": "chú kiến lính đầu phẳng hình phích cắm đang cắm chặt đầu bịt lỗ cây như một cánh cửa gỗ có biển Cấm Vào"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "HỒ SƠ ĐẾ CHẾ",
+    "banner_title": "QUY TẮC BĂNG ĐẢNG VÒM RỪNG",
+    "chapter_title": "Hồ sơ đế chế: Quy tắc sinh tử của gia tộc kiến vòm rừng",
+    "hook": "",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Trong thế giới ngầm của rừng mưa nhiệt đới Borneo, có những gia tộc sinh tồn bằng những đạo luật nghiệt ngã đến rợn người. Tại những ngọn cây cổ thụ cao bốn mươi đến năm mươi mét chọc thủng tầng mây, một đế chế khổng lồ với hàng trăm ngàn thần dân đang vận hành theo một nguyên tắc tối thượng: Kẻ sinh ra ở tầng đáy thấp nhất... phải là kẻ sẵn sàng nổ tung thân xác để bảo vệ ngai vàng của bà trùm!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Báo cáo bà trùm, đội lính thợ dò đường đã tiến vào khu vực tranh chấp, sẵn sàng nhận lệnh tử vì đạo!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-oh] Bật màn hình chỉ huy lên, hôm nay chúng ta giải mã hồ sơ của đội quân cảm tử trung thành nhất hành tinh! [laughter] Xin giới thiệu với toàn thể anh em: đây là Kiến Nổ Cảm Tử, tên khoa học là Colobopsis explodens, thuộc nhóm kiến thợ nổ đặc hữu của vùng rừng mưa Đông Nam Á như Brunei, Malaysia và Thái Lan. Dù kích thước cơ thể chỉ bé bằng hạt gạo, nhưng trong giới côn trùng học, chúng tôi gọi thẳng tên nó bằng biệt danh: Chiến Binh Cảm Tử!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Điều gì đã khiến một loài kiến nhỏ bé không hề có nọc châm độc ở đuôi lại khiến những tập đoàn kiến vàng dệt lá hung hãn nhất phải khiếp vía bỏ chạy? Bí mật nằm ở thứ vũ khí tự hủy giấu kín bên trong khoang bụng: một quả bom sinh học chứa keo độc màu vàng sẵn sàng phát nổ trong chớp mắt! Đêm nay, tôi mời anh em cùng lật mở bốn tầng cấu trúc quyền lực của đế chế cảm tử này!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Trên những tầng tán rừng rậm rạp cao chót vót cách mặt đất tới năm mươi đến sáu mươi mét, sự tranh giành từng giọt mật hoa và từng tấc cành cây diễn ra tàn bạo từng giây từng phút. Không có chỗ cho sự khoan nhượng hay đàm phán hòa bình. Một khi đã bước chân vào hàng ngũ lính thợ cảm tử, mỗi cá thể đều hiểu rõ bản án sinh tử đã được định sẵn ngay từ ngày chui ra khỏi kén ấu trùng!",
+      "mood": "tram_bi_an"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "CẤP BẬC ĐÁY",
+    "banner_title": "LÍNH THỢ VÀ TÚI HÓA CHẤT ĐỘC",
+    "chapter_title": "Cấp bậc đáy: Lính thợ minor và kho vũ khí tuyến hàm dưới",
+    "hook": "KHO VŨ KHÍ HÓA CHẤT DÀI SUỐT DỌC CƠ THỂ",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Tầng cấu trúc thứ nhất: Đội quân lính thợ mang quả bom cơ thể! Trong hệ thống phân cấp của gia tộc Colobopsis, những chú kiến thợ nhỏ bé này chiếm số lượng đông đảo nhất, ngày đêm bò trên những cành cây cao chót vót để kiếm mật hoa và tìm kiếm nguồn thức ăn thừa. Nhưng đằng sau vẻ ngoài cần mẫn ấy là một cấu tạo giải phẫu kỳ dị bậc nhất thế giới động vật!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Năm hai ngàn mười tám, một công trình chấn động công bố trên tạp chí ZooKeys bởi tiến sĩ Alice Laciny đã giải mã hoàn chỉnh cấu trúc bên trong cơ thể Chiến Binh Cảm Tử: chạy dọc suốt từ phần hàm dưới xuyên qua lồng ngực xuống tận khoang bụng là một cặp túi dự trữ chất nhầy khổng lồ của tuyến hàm dưới! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Cặp túi hóa chất này phình to đến mức chiếm phần lớn thể tích bên trong cơ thể chú kiến, đẩy các cơ quan nội tạng khác dồn về một góc chật chội! Bên trong túi chứa đầy một dung dịch keo dính màu vàng tươi có mùi cay nồng nặc như gia vị cà ri, chứa đầy các hợp chất hữu cơ độc hại đủ sức thiêu đốt và làm tê liệt các loài chân khớp khác! Nó sống cả cuộc đời để nuôi dưỡng một kho hóa chất tự hủy sẵn sàng kích nổ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Điều kỳ thú là bên trong dung dịch keo độc này còn nuôi dưỡng những quần thể vi khuẩn cộng sinh đặc biệt giúp ổn định độc tính và giữ cho khối keo luôn ở trạng thái lỏng nhớt hoàn hảo. Chừng nào túi tuyến còn nguyên vẹn, chú kiến vẫn sinh hoạt bươn chải bình thường. Nhưng chiếc ngòi nổ sinh học thì luôn được cài sẵn ở chế độ nhạy cảm cao nhất!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Các nhà khoa học từng quan sát thấy những chú kiến thợ già cỗi khi khả năng kiếm ăn giảm sút sẽ tự nguyện nhận những nhiệm vụ tuần tra nguy hiểm nhất ở bìa ngoài cùng của lãnh thổ. Một sự phân công lao động tàn khốc nhưng hoàn hảo đến mức lạnh gáy: đem những quả bom sắp hết hạn ra tiền tuyến làm lá chắn đầu tiên cho tổ quốc!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Để tiếp cận và nghiên cứu được biệt đội cảm tử này, các nhà côn trùng học quốc tế đã phải trèo lên những chiếc cẩu tháp nghiên cứu vòm rừng dựng giữa rừng nguyên sinh Brunei ở độ cao hơn năm mươi mét! Họ phải đu dây lơ lửng giữa không trung suốt hàng tuần liền để đặt bẫy và ghi hình từng hành vi nhỏ nhất của những quả bom di động tí hon này!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "ĐỘI QUÂN CẢM TỬ",
+    "banner_title": "VỤ NỔ AUTOTHYSIS PHUN KEO ĐỘC",
+    "chapter_title": "Đội quân cảm tử: Cú gồng cơ bụng nổ tung cơ thể Autothysis",
+    "hook": "TỰ XÉ RÁCH VỎ BỤNG NỔ TUNG KEO DÍNH TRÓI KẺ THÙ",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Tầng cấu trúc thứ hai: Hiện tượng tự nổ tung cơ thể Autothysis! Khi đang tuần tra đơn độc trên tán lá rừng, nếu chẳng may bị một con nhện săn mồi hay một con kiến quân đội đối thủ bao vây áp sát không lối thoát, Chiến Binh Cảm Tử sẽ không hề van xin tha mạng hay tìm cách tháo chạy hèn nhát!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Gã lập tức áp sát vào cơ thể kẻ địch, dùng hàm dưới cắn chặt vào chân hoặc râu của đối phương để khóa chết mục tiêu! Sau đó, gã gồng cực mạnh toàn bộ các bó cơ thành bụng... Bùm! Áp lực co bóp kinh hoàng làm nứt toạc lớp vỏ chitin ở phần bụng, xé rách màng túi tuyến và phóng ra một dòng keo độc màu vàng tươi bắn thẳng vào mặt kẻ thù! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Dòng keo dính màu vàng này bám chặt cứng vào mắt, râu và các khớp chân của đối thủ, đông cứng lại như một lớp keo dán sắt cực độc chỉ sau vài giây! Kẻ săn mồi hoảng loạn giãy giụa nhưng càng cựa quậy thì các khớp chân càng bị keo dính chặt khóa bất động! Hóa chất cay nồng ngấm vào các lỗ thở làm kẻ địch ngạt thở tê liệt và chết gục ngay tại chỗ!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Chiến Binh Cảm Tử đã hy sinh ngay khoảnh khắc vụ nổ diễn ra. Nhưng gã đã hoàn thành xuất sắc nhiệm vụ của một quả bom sống: tiêu diệt sạch sẽ mối đe dọa và gửi đi một thông điệp đẫm máu tới toàn bộ kẻ thù trong rừng: Đừng bao giờ đụng vào gia tộc này! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Mùi hương cay nồng giải phóng từ vụ nổ không chỉ thiêu đốt kẻ địch mà còn đóng vai trò như một tín hiệu báo động đỏ lan tỏa trong không khí. Những chú kiến thợ tuần tra xung quanh ngửi thấy mùi đặc trưng liền lập tức giương râu cảnh giác, tạo thành một hàng rào phòng ngự thứ hai sẵn sàng tiếp ứng nếu đối thủ kéo thêm viện binh!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Trong lịch sử sinh học, tập tính tự sát bảo vệ bầy đàn này được nhà tự nhiên học người Đức ghi nhận lần đầu tiên từ năm một ngàn chín trăm mười sáu. Trải qua hơn một thế kỷ nghiên cứu, con người vẫn chưa hết bàng hoàng trước cái giá sinh tồn nghiệt ngã mà tự nhiên đã tôi luyện nên cho loài kiến thợ nhỏ bé này!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "KẺ GÁC CỔNG",
+    "banner_title": "LÍNH ĐẦU PHẲNG CẮM CHỐT CỬA HANG",
+    "chapter_title": "Kẻ gác cổng: Hiện tượng Phragmosis dùng đầu làm cánh cửa sống",
+    "hook": "LÍNH ĐẦU PHẲNG CẮM CHẶT LỖ CÂY NHƯ NẮP NÚT CHAI",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Tầng cấu trúc thứ ba: Kẻ gác cổng hình nút chai sống! Nếu bên ngoài vòm cây là nơi lính thợ nhỏ nổ tung thân xác, thì ngay tại cửa tổ sổ gỗ trên thân cây cổ thụ, gia tộc này bố trí một lực lượng phòng thủ thụ động đỉnh cao mang tên kiến lính đầu phẳng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hãy quan sát hiện tượng cơ thể Phragmosis: phần đầu của những chú kiến lính này tiến hóa thành một chiếc đĩa tròn dẹt phẳng lì, phủ lớp vỏ cứng như gỗ và có kích thước khít khao một trăm phần trăm với lỗ khoét cửa tổ trên thân cây! Gã lính gác dùng chính chiếc đầu của mình cắm chặt vào lỗ cây như một chiếc nút chai rượu vang đóng chặt cửa hầm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Báo cáo gác cổng: Có kẻ địch đang cào cấu bên ngoài đòi đột nhập, chiếc đầu thép của em vẫn chốt cứng kín kẽ!",
+      "cast": "ga_khong_lo"
+     },
+     {
+      "text": "[laughter] Kẻ thù bên ngoài dù có hung hãn đến đâu cũng chỉ nhìn thấy một mảng vỏ cây phẳng lì trơn trượt, cắn không có chỗ bám, đẩy không tài nào lay chuyển nổi! Chỉ khi nào những chú kiến thợ cùng tổ đi kiếm ăn trở về, dùng râu gõ đúng nhịp mật mã bí mật lên trán, gã lính gác mới lùi nhẹ đầu vào trong mở lối cho đồng đội bước vào rồi lập tức cắm chốt đóng sập cửa lại! [surprise-oh]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Suốt cả cuộc đời mình, những gã kiến lính đầu phẳng này hầu như không bao giờ bước chân ra khỏi ngưỡng cửa tổ! Chúng ăn thức ăn do kiến thợ mớm lại qua đường miệng, và nhiệm vụ duy nhất từ lúc trưởng thành đến lúc nhắm mắt xuôi tay là làm một chiếc then cửa sống kiên cố bảo vệ sự bình yên cho hàng ngàn ấu trùng bên trong!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Nếu gã lính gác chẳng may bị kẻ thù dùng càng nhổ ra ngoài hoặc tử trận, một chú lính đầu phẳng dự bị ở phía sau sẽ lập tức tiến lên trám đúng vị trí, cắm đầu bịt kín lỗ cây chỉ trong vài giây! Một hệ thống cửa hầm phòng thủ tự động thay thế không bao giờ để lộ khe hở cho kẻ đột nhập!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "ĐẠI CHIẾN BẦY ĐÀN",
+    "banner_title": "CHIẾN TRANH VÒM CÂY & BÀ TRÙM",
+    "chapter_title": "Đại chiến bầy đàn: Cuộc chiến với kiến vàng Oecophylla và bà trùm",
+    "hook": "CHIẾN TRANH BẦY ĐÀN VÀ SỰ HY SINH BẢO VỆ KIẾN CHÚA",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Tầng cấu trúc thứ tư: Cuộc chiến tranh lãnh thổ khốc liệt nhất vòm rừng! Kẻ thù truyền kiếp số một của gia tộc Colobopsis là những đạo quân kiến vàng dệt lá Ô-cô-phi-la khổng lồ và hung bạo. Trong những trận đụng độ giáp lá cà trên tán lá cao năm mươi mét, hàng trăm Chiến Binh Cảm Tử sẵn sàng đồng loạt kích nổ bụng, biến chiến trường thành một bãi mìn keo vàng chết chóc để ngăn bước quân thù!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Sự hy sinh vị tha tột cùng này chỉ phục vụ cho một mục tiêu thiêng liêng duy nhất: Bảo vệ ngai vàng của Bà Trùm — kiến chúa mẫu nghi thiên hạ đang nằm sâu trong lõi thân cây gỗ cổ thụ! Kiến chúa là trái tim của cả đế chế, người đẻ ra hàng ngàn quả trứng mỗi ngày để liên tục bổ sung lực lượng cảm tử mới. Mất đi vài ngàn lính thợ chẳng là gì, miễn là bà trùm vẫn an toàn đẻ trứng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Đây là đỉnh cao của sự tiến hóa xã hội bậc cao: một cá thể sẵn sàng tự hủy diệt bản thân để duy trì sự trường tồn vĩnh cửu của cả tổ chức gia tộc! Đúng là tinh thần trung thành tuyệt đối khiến con người khi nhìn vào cũng phải rùng mình nể sợ! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Vào mùa giao phối sau những cơn mưa rào nhiệt đới, đế chế sẽ cho ra đời những công chúa và hoàng tử kiến có cánh bay vút lên bầu trời đêm để tìm kiếm bạn đời lập nên những vương quốc mới. Những thế hệ cảm tử tiếp theo lại tiếp tục sinh ra, kế thừa trọn vẹn bản thiết kế bom sinh học để tiếp tục thống trị vòm rừng nhiệt đới!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Một tổ kiến Colobopsis trưởng thành có thể chiếm giữ cả một cụm cây dầu cổ thụ khổng lồ, kết nối với nhau bằng những tuyến đường mòn hóa học chạy dọc theo các nhánh dây leo trên không. Hàng trăm ngàn cá thể phối hợp nhịp nhàng như một siêu sinh vật duy nhất, nơi lợi ích của cá nhân hoàn toàn biến mất trước sự tồn vong bất diệt của cả đế chế!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "BÁO CÁO GIA TỘC",
+    "banner_title": "BÁO CÁO GIA TỘC & BÓNG ĐEN SAU",
+    "chapter_title": "Báo cáo gia tộc: Lòng trung thành tuyệt đối và bóng đen đảo ngược thời gian",
+    "hook": "BÁO CÁO CUỐI CÙNG VÀ BÓNG ĐEN SỨA BẤT TỬ TẬP 29",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Tổng kết hồ sơ đế chế số hai mươi tám. Từ một loài côn trùng nhỏ bé trên vòm cây rừng Borneo, Kiến Nổ Cảm Tử đã viết nên một bản hùng ca sinh tồn bi tráng bậc nhất tự nhiên: biến cơ thể thành bom, lấy sự hy sinh làm lá chắn và dùng chiếc đầu phẳng làm bức tường thành bất khả xâm phạm!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Báo cáo điệp báo gia tộc: Đạt điểm mười cho lòng trung thành và kỷ luật quân đội thép! Ký tên: ông trùm thế giới vòm rừng! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Còn anh em thì sao? Nếu được chỉ huy một đội quân sinh học: anh em chọn đội cảm tử nổ tung keo độc vàng, hay đội lính gác đầu phẳng hình phích cắm bất khả xâm phạm? Hãy để lại bình luận bên dưới nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hồ sơ đế chế số hai mươi tám xin được khép lại tại đây. Nhưng tập sau, chúng ta sẽ quay trở lại phòng thí nghiệm năm cấp độ để chứng kiến một phép màu sinh học đảo ngược quy luật thời gian của vũ trụ! Một sinh vật nhỏ xíu trong suốt như giọt nước trôi lơ lửng giữa đại dương, nhưng nắm giữ bí mật bất tử vĩ đại nhất: khi già yếu hoặc bị thương nặng, nó không chết đi mà tự đảo ngược toàn bộ tế bào của mình quay trở lại thời kỳ ấu trùng sơ sinh để sống lại từ đầu một cuộc đời mới! Đố các bạn biết bóng đen bí ẩn kỳ sau là loài vật nào? Hãy đoán ngay ở phần bình luận nhé!",
+      "mood": "am_ap"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Những chiến binh kiến nhỏ bé này sẵn sàng tự gồng cơ bụng nổ tung cơ thể mình như bom cảm tử để tiêu diệt kẻ thù! [laughter] Xin giới thiệu Kiến Nổ Cảm Tử, sinh vật sống trên những ngọn cây cao năm mươi mét ở rừng mưa Đông Nam Á. Cơ thể nó mang một cặp túi dự trữ chất nhầy khổng lồ chạy dọc từ hàm xuống tận khoang bụng. Khi bị kẻ săn mồi bao vây, nó lao tới cắn chặt đối thủ rồi gồng rách lớp vỏ bụng để phóng ra một dòng keo độc màu vàng tươi cực dính! [surprise-wa] Dòng keo này khóa cứng hoàn toàn chân tay và làm ngạt thở kẻ địch chỉ trong vài giây! Trong khi đó, ở cửa tổ, những chú kiến lính có chiếc đầu phẳng lì hình nút chai sẽ cắm chặt đầu vào lỗ cây để làm cánh cửa sống chặn đứng mọi kẻ đột nhập! Một đế chế cảm tử vừa biết nổ tung tự sát, vừa dùng đầu làm cửa thành, đúng là đội quân liều chết kỳ quặc nhất hành tinh!"
+ },
+ "seo": {
+  "title": "Loài Kiến Tự Kích Nổ Tung Cơ Thể Phun Keo Độc Bảo Vệ Tổ?!",
+  "hook_paragraph": "Kiến Nổ Cảm Tử (Colobopsis explodens) ở rừng mưa Borneo sở hữu cơ chế tự sát Autothysis rùng rợn: tự gồng rách vỏ bụng nổ tung phóng dòng keo độc màu vàng dính chặt kẻ thù, cùng đội lính gác đầu phẳng hình nút chai dùng đầu làm cửa sống!",
+  "bullets": [
+   "Hồ sơ đế chế: Tuyến hàm dưới khổng lồ chạy dọc cơ thể chứa keo độc màu vàng",
+   "Cú nổ Autothysis: Gồng rách vỏ bụng chitin phóng keo dính khóa cứng kẻ săn mồi",
+   "Hiện tượng Phragmosis: Kiến lính đầu phẳng cắm chốt bịt kín lỗ cây như nắp nút chai",
+   "Đại chiến vòm cây: Hy sinh bầy đàn trước kiến vàng Oecophylla để bảo vệ kiến chúa"
+  ],
+  "question": "Nếu được chỉ huy 1 lực lượng của Kiến Nổ: đội quân cảm tử nổ tung keo độc hay đội lính gác đầu phẳng cắm chốt cửa hang, bạn chọn bên nào? Và đoán xem bóng đen tập sau là loài nào?",
+  "next_teaser": "Bóng đen sinh vật bất tử: khi già yếu tự đảo ngược toàn bộ tế bào thành ấu trùng sơ sinh để sống lại từ đầu!",
+  "hashtags": [
+   "#độngvật",
+   "#kiếnnổcảmtử",
+   "#VẽChuyệnHoangDã"
+  ],
+  "tags": [
+   "kiến nổ cảm tử",
+   "kien no cam tu",
+   "colobopsis explodens",
+   "exploding ants",
+   "kiến tự nổ",
+   "kiến đầu phẳng",
+   "động vật kỳ lạ",
+   "thế giới động vật",
+   "động vật hài hước",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị",
+   "kiến nổ"
+  ],
+  "shorts_title": "Loài Kiến Tự Nổ Tung Cơ Thể Phun Keo Độc?! 🐜 #độngvật #kiếnnổcảmtử",
+  "shorts_desc": "Kiến Nổ Cảm Tử tự gồng rách vỏ bụng nổ tung phóng dòng keo độc vàng khóa chặt kẻ thù, cùng kiến lính đầu phẳng dùng đầu làm cánh cửa sống! Giải mã đội quân cảm tử rừng mưa Đông Nam Á.",
+  "shorts_tags": [
+   "kiến nổ cảm tử",
+   "exploding ants",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ],
+  "en_title": "The Ant That Detonates Its Own Body to Spray Toxic Glue?! | Ep 28",
+  "en_hook": "Meet the Exploding Ant (Colobopsis explodens) of Borneo: worker ants contract their abdomens until their bodies rupture, detonating a spray of toxic yellow glue to immobilize enemies, while flat-headed soldier ants use their heads as living doors to plug nest holes!",
+  "en_chapters": [
+   "Empire File: The Rainforest Canopy Underworld Code",
+   "Bottom Caste: Minor Workers & The Giant Gland Reservoir",
+   "Suicide Squad: The Autothysis Body Rupturing Explosion",
+   "The Living Doorkeeper: Phragmotic Flat Heads Plugging Nests",
+   "Canopy Warfare: The Fight Against Weaver Ants & The Queen",
+   "Empire Final Report & Next Immortal Jellyfish Teaser"
+  ],
+  "en_shorts_title": "The Ant That Detonates Itself to Spray Toxic Glue?! 🐜 #animals #explodingant"
+ }
+}

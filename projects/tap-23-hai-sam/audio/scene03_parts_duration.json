@@ -1,0 +1,13 @@
+{
+ "total_duration": 116.632,
+ "parts": {
+  "part0": 12.342,
+  "part1": 19.858,
+  "part2": 6.009,
+  "part3": 19.115,
+  "part4": 5.732,
+  "part5": 23.861,
+  "part6": 27.215
+ },
+ "engine": "voicestudio-omnivoice"
+}

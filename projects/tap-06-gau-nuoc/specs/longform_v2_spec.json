@@ -1,0 +1,958 @@
+{
+ "episode": "tap-06-gau-nuoc",
+ "version": "longform v2 — 66 voice-matched beats, fixed captions, accurate chapter titles",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 6,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "cold_open_s": 9.83,
+ "intro_sting_s": 4.0,
+ "intro_mode": "full_first",
+ "output": "renders/tap06_gau_nuoc_long_v2.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 89.527,
+   "chapter_no": 1,
+   "title": "KẺ SỐNG SÓT CUỐI CÙNG CỦA TRÁI ĐẤT",
+   "card_hook": "",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/gemini_downloaded/scene01_01_meteor_extinction_survivor.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": [
+      2.12
+     ]
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 9.78,
+     "image": "assets/gemini_downloaded_long/L01.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 13.68,
+       "side": "R",
+       "y": 380,
+       "value": "< 1 mm",
+       "label": "nhỏ hơn hạt cát"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 20.3,
+     "image": "assets/gemini_downloaded/scene01_02_microscopic_cute_water_bear.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 27.44,
+     "image": "assets/gemini_downloaded_long/L09.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 33.7,
+     "image": "assets/gemini_downloaded_long/L03.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 38.74,
+       "side": "R",
+       "y": 420,
+       "value": "5 LẦN",
+       "label": "đại tuyệt chủng"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 40.5,
+     "image": "assets/gemini_downloaded/scene01_03_extreme_endurance_triad.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 42.0,
+       "side": "L",
+       "y": 330,
+       "value": "-272°C",
+       "label": "lạnh vũ trụ",
+       "target": [
+        0.19,
+        0.45
+       ]
+      },
+      {
+       "t": 44.72,
+       "side": "R",
+       "y": 330,
+       "value": "150°C",
+       "label": "nước sôi",
+       "target": [
+        0.58,
+        0.62
+       ]
+      },
+      {
+       "t": 47.72,
+       "side": "R",
+       "y": 610,
+       "value": "x6",
+       "label": "áp suất Mariana"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b07",
+     "start_s": 50.22,
+     "image": "assets/gemini_downloaded_long/L17.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 55.96,
+       "side": "L",
+       "y": 420,
+       "value": "10 NGÀY",
+       "label": "trần trụi ngoài vũ trụ"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b08",
+     "start_s": 56.06,
+     "image": "assets/gemini_downloaded/scene03_04_revival_single_water_drop.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b09",
+     "start_s": 62.34,
+     "image": "assets/gemini_downloaded_long/L07.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": [
+      66.96
+     ]
+    },
+    {
+     "id": "scene01_b10",
+     "start_s": 68.34,
+     "image": "assets/gemini_downloaded/scene01_04_space_vacuum_foton_mission.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 76.46,
+       "side": "R",
+       "y": 420,
+       "value": "x1.000",
+       "label": "tia UV Mặt Trời"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b11",
+     "start_s": 78.54,
+     "image": "assets/gemini_downloaded_long/L02.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 92.148,
+   "chapter_no": 2,
+   "title": "BẢNG CHỈ SỐ RPG — LỖI GAME TIẾN HÓA",
+   "card_hook": "Được tạo hóa buff chỉ số đến mức vô lý",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/gemini_downloaded_long/L21.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 9.14,
+     "image": "assets/gemini_downloaded/scene02_01_rpg_card_atk_spd_low.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 11.1,
+       "side": "L",
+       "y": 330,
+       "value": "ATK 5",
+       "label": "yếu xìu"
+      },
+      {
+       "t": 13.98,
+       "side": "L",
+       "y": 600,
+       "value": "SPD 2",
+       "label": "chậm như rùa"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 17.56,
+     "image": "assets/gemini_downloaded/scene02_02_rpg_card_def_max_temperature.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 21.26,
+       "side": "R",
+       "y": 420,
+       "value": "DEF 9999",
+       "label": "phòng thủ vô lý"
+      }
+     ],
+     "impacts": [
+      21.26
+     ]
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 23.76,
+     "image": "assets/gemini_downloaded/scene01_03_extreme_endurance_triad.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 25.06,
+       "side": "L",
+       "y": 330,
+       "value": "-272°C",
+       "label": "chịu lạnh",
+       "target": [
+        0.19,
+        0.45
+       ]
+      },
+      {
+       "t": 30.56,
+       "side": "R",
+       "y": 330,
+       "value": "150°C",
+       "label": "chịu nhiệt",
+       "target": [
+        0.58,
+        0.62
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 34.26,
+     "image": "assets/gemini_downloaded/scene02_03_radiation_lethal_dose_comparison.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 36.28,
+       "side": "R",
+       "y": 330,
+       "value": "6.000 Gray",
+       "label": "gấu nước chịu được"
+      },
+      {
+       "t": 39.6,
+       "side": "L",
+       "y": 330,
+       "value": "5 Gray",
+       "label": "đủ giết người"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b06",
+     "start_s": 43.32,
+     "image": "assets/gemini_downloaded_long/L08.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 46.82,
+       "side": "R",
+       "y": 420,
+       "value": "x1.000",
+       "label": "liều chết người"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b07",
+     "start_s": 48.64,
+     "image": "assets/gemini_downloaded/scene02_04_rpg_cryptobiosis_tun_state.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 53.68,
+       "side": "R",
+       "y": 420,
+       "value": "100/100",
+       "label": "Cryptobiosis"
+      }
+     ],
+     "impacts": [
+      53.68
+     ]
+    },
+    {
+     "id": "scene02_b08",
+     "start_s": 55.16,
+     "image": "assets/gemini_downloaded/scene03_01_water_desiccation_process.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 57.8,
+       "side": "L",
+       "y": 330,
+       "value": "99%",
+       "label": "nước bị rút ra"
+      },
+      {
+       "t": 63.04,
+       "side": "R",
+       "y": 600,
+       "value": "30 NĂM",
+       "label": "ngủ đông"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b09",
+     "start_s": 64.06,
+     "image": "assets/gemini_downloaded_long/L04.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 69.24,
+       "side": "L",
+       "y": 330,
+       "value": "11.000 m",
+       "label": "đáy Mariana"
+      },
+      {
+       "t": 71.38,
+       "side": "R",
+       "y": 330,
+       "value": "1.000 atm",
+       "label": "ép bẹp xe tải"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b10",
+     "start_s": 75.76,
+     "image": "assets/gemini_downloaded_long/L27.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 80.34,
+       "side": "R",
+       "y": 420,
+       "value": "6.000 atm",
+       "label": "vẫn sống!"
+      }
+     ],
+     "impacts": [
+      80.34
+     ]
+    },
+    {
+     "id": "scene02_b11",
+     "start_s": 81.4,
+     "image": "assets/gemini_downloaded_long/L05.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 85.56,
+       "side": "L",
+       "y": 420,
+       "value": "3.000 km/h",
+       "label": "bắn ra từ súng"
+      }
+     ],
+     "impacts": [
+      90.16
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 102.182,
+   "chapter_no": 3,
+   "title": "TUYỆT KỸ THỦY TINH HÓA",
+   "card_hook": "Ngừng sống — nhưng không hề chết",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/gemini_downloaded_long/L10.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 8.4,
+     "image": "assets/gemini_downloaded/scene02_04_rpg_cryptobiosis_tun_state.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 18.82,
+       "side": "R",
+       "y": 420,
+       "value": "TUN",
+       "label": "kén ngủ đông"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 19.92,
+     "image": "assets/gemini_downloaded/scene03_02_tdp_amorphous_glass_matrix.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 23.58,
+       "side": "L",
+       "y": 420,
+       "value": "TDP",
+       "label": "protein vô định hình"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 26.48,
+     "image": "assets/gemini_downloaded_long/L28.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b05",
+     "start_s": 37.82,
+     "image": "assets/gemini_downloaded_long/L25.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 41.42,
+       "side": "R",
+       "y": 420,
+       "value": "0,01%",
+       "label": "trao đổi chất"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b06",
+     "start_s": 47.12,
+     "image": "assets/gemini_downloaded/scene03_03_dsup_protein_radiation_shield.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 51.56,
+       "side": "L",
+       "y": 420,
+       "value": "Dsup",
+       "label": "khiên chắn ADN"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b07",
+     "start_s": 52.78,
+     "image": "assets/gemini_downloaded_long/L29.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 59.46,
+       "side": "R",
+       "y": 420,
+       "value": "30 NĂM",
+       "label": "ngủ trong băng"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b08",
+     "start_s": 60.32,
+     "image": "assets/gemini_downloaded_long/L11.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 63.02,
+       "side": "L",
+       "y": 420,
+       "value": "30 PHÚT",
+       "label": "là sống lại"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b09",
+     "start_s": 71.06,
+     "image": "assets/gemini_downloaded_long/L35.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b10",
+     "start_s": 85.54,
+     "image": "assets/gemini_downloaded_long/L06.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 90.76,
+       "side": "R",
+       "y": 420,
+       "value": "100+ NĂM",
+       "label": "tươi nguyên vẹn"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b11",
+     "start_s": 93.78,
+     "image": "assets/gemini_downloaded_long/L12.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 98.915,
+   "chapter_no": 4,
+   "title": "GÓT CHÂN A-SIN CỦA KẺ BẤT TỬ",
+   "card_hook": "Tạo hóa có khiếu hài hước rất cay nghiệt",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/gemini_downloaded/scene04_01_superhero_vs_glass_fragile.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 7.94,
+     "image": "assets/gemini_downloaded_long/L18.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 18.78,
+     "image": "assets/gemini_downloaded_long/L38.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 19.08,
+       "side": "R",
+       "y": 380,
+       "value": "#1",
+       "label": "chất nhầy ốc sên"
+      }
+     ],
+     "impacts": [
+      19.08
+     ]
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 22.18,
+     "image": "assets/gemini_downloaded/scene04_02_snail_slime_lethal_trap.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": [
+      33.96
+     ]
+    },
+    {
+     "id": "scene04_b05",
+     "start_s": 35.7,
+     "image": "assets/gemini_downloaded/scene04_03_nematode_worm_predator_snack.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 36.0,
+       "side": "L",
+       "y": 380,
+       "value": "#2",
+       "label": "không có giáp"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b06",
+     "start_s": 47.96,
+     "image": "assets/gemini_downloaded_long/L22.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": [
+      50.44
+     ]
+    },
+    {
+     "id": "scene04_b07",
+     "start_s": 51.6,
+     "image": "assets/gemini_downloaded/scene04_04_global_warming_water_temp.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 52.14,
+       "side": "L",
+       "y": 330,
+       "value": "#3",
+       "label": "nóng lên toàn cầu"
+      },
+      {
+       "t": 58.62,
+       "side": "R",
+       "y": 330,
+       "value": "37,6°C",
+       "label": "nước hơi ấm"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b08",
+     "start_s": 61.86,
+     "image": "assets/gemini_downloaded/scene04_01_superhero_vs_glass_fragile.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 64.18,
+       "side": "R",
+       "y": 420,
+       "value": "50%",
+       "label": "chết"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b09",
+     "start_s": 67.5,
+     "image": "assets/gemini_downloaded_long/L34.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b10",
+     "start_s": 70.94,
+     "image": "assets/gemini_downloaded_long/L30.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b11",
+     "start_s": 79.34,
+     "image": "assets/gemini_downloaded_long/L13.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b12",
+     "start_s": 85.04,
+     "image": "assets/gemini_downloaded_long/L31.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b13",
+     "start_s": 91.6,
+     "image": "assets/gemini_downloaded_long/L20.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": [
+      94.5
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 111.576,
+   "chapter_no": 5,
+   "title": "GẤU NƯỚC ĐANG NẰM TRÊN MẶT TRĂNG",
+   "card_hook": "Vụ tai nạn vũ trụ có thật năm 2019",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/gemini_downloaded_long/L26.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 12.48,
+       "side": "R",
+       "y": 420,
+       "value": "2019",
+       "label": "sự cố có thật"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 14.08,
+     "image": "assets/gemini_downloaded/scene05_01_beresheet_moon_lander_launch.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 20.34,
+     "image": "assets/gemini_downloaded_long/L32.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 29.12,
+     "image": "assets/gemini_downloaded/scene05_02_moon_crash_explosion_debris.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 34.66,
+       "side": "L",
+       "y": 420,
+       "value": "500 km/h",
+       "label": "lao xuống"
+      }
+     ],
+     "impacts": [
+      36.36
+     ]
+    },
+    {
+     "id": "scene05_b05",
+     "start_s": 37.64,
+     "image": "assets/gemini_downloaded/scene05_03_tardigrades_scattered_moon_craters.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b06",
+     "start_s": 45.32,
+     "image": "assets/gemini_downloaded_long/L23.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 48.22,
+       "side": "L",
+       "y": 330,
+       "value": "-170°C",
+       "label": "đêm",
+       "target": [
+        0.25,
+        0.6
+       ]
+      },
+      {
+       "t": 49.66,
+       "side": "R",
+       "y": 330,
+       "value": "+120°C",
+       "label": "ngày",
+       "target": [
+        0.68,
+        0.7
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b07",
+     "start_s": 54.84,
+     "image": "assets/gemini_downloaded/scene05_04_astronaut_water_revival_dream.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b08",
+     "start_s": 63.56,
+     "image": "assets/gemini_downloaded_long/L14.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b09",
+     "start_s": 73.92,
+     "image": "assets/gemini_downloaded_long/L36.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b10",
+     "start_s": 81.9,
+     "image": "assets/gemini_downloaded_long/L37.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b11",
+     "start_s": 91.72,
+     "image": "assets/gemini_downloaded_long/L39.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 97.4,
+       "side": "R",
+       "y": 420,
+       "value": "100+ NĂM",
+       "label": "ngủ đông"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b12",
+     "start_s": 98.3,
+     "image": "assets/gemini_downloaded_long/L19.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 62.041,
+   "chapter_no": 6,
+   "title": "BÀI HỌC SINH TỒN TỪ GẤU NƯỚC",
+   "card_hook": "Kẻ kiên cường mới là kẻ sống sót",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/gemini_downloaded/scene06_01_philosophical_adaptation_triumph.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 8.5,
+     "image": "assets/gemini_downloaded_long/L15.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 19.66,
+     "image": "assets/gemini_downloaded_long/L16.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b04",
+     "start_s": 26.78,
+     "image": "assets/gemini_downloaded/scene06_02_mantis_shrimp_boxing_teaser.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": [
+      32.54
+     ]
+    },
+    {
+     "id": "scene06_b05",
+     "start_s": 36.1,
+     "image": "assets/gemini_downloaded_long/L24.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b06",
+     "start_s": 40.64,
+     "image": "assets/gemini_downloaded/scene06_01_philosophical_adaptation_triumph.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b07",
+     "start_s": 52.36,
+     "image": "assets/gemini_downloaded_long/L33.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

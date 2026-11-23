@@ -1,0 +1,876 @@
+{
+ "_doc": "Storyboard Tập 11 Gấu Trúc Lớn — sinh specs/longform_plan.json, shorts_plan.json, image_prompts.json bằng build_plans.py.",
+ "characters": {
+  "HERO": "chú gấu trúc Panda hoạt hình béo tròn mập mạp: bộ lông hai màu đen trắng tương phản rõ nét, hai mắt có khoanh tròn đen to xoe như đeo kính râm, hai tai đen tròn dựng đứng, thân hình tròn ủng mũm mĩm, biểu cảm ngơ ngác đáng yêu nhưng đôi lúc nhếch mép tinh nghịch, đeo một chiếc đồng hồ đeo tay nhỏ xinh trên cổ tay",
+  "HERO_S": "chú Gấu Trúc béo tròn đen trắng, mắt thâm quầng kính râm, đeo đồng hồ nhỏ trên tay",
+  "REPORTER": "anh chàng phóng viên truyền hình hoạt hình mặc áo khoác dã ngoại màu be, tay cầm micro có logo 24H, đeo ba lô tác nghiệp",
+  "ANCHOR": "cô phát thanh viên tin tức hoạt hình xinh đẹp ngồi sau bàn trường quay tin tức thời sự",
+  "OLD_MAN": "ông cụ nhân chứng râu tóc bạc phơ chống gậy trúc",
+  "NO_HERO": "KHÔNG có chú Gấu Trúc trong cảnh này"
+ },
+ "side_characters": [
+  "REPORTER",
+  "ANCHOR",
+  "OLD_MAN"
+ ],
+ "shorts_side_characters": [
+  "REPORTER"
+ ],
+ "shorts_title_lines": [
+  "RUỘT ĂN THỊT NHƯNG",
+  "NHAI TRE 14 TIẾNG?!"
+ ],
+ "skip_numbers": [
+  16
+ ],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Rừng tre Tứ Xuyên mờ sương lúc 06:00 sáng: sương sớm lãng đãng quanh các rặng tre xanh ngắt; chiếc đồng hồ báo thức quả lắc khổng lồ cắm trên gờ đá; {REPORTER} mặc áo khoác dã ngoại cầm micro phát biểu trước ống kính máy quay.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Kính thưa quý vị",
+   "layout": "{REPORTER} chỉ tay về phía bụi tre lớn: {HERO} đang ngồi bệt dưới đất, hai mắt thâm quầng lim dim ngơ ngác, chiếc bụng mỡ tròn xoe lắc lư.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chiếc đồng hồ sinh",
+   "layout": "Chiếc đồng hồ báo thức khổng lồ rung bần bật chuông reo inh ỏi; {HERO} bật dậy ôm chân ngồi vào vị trí bệt quen thuộc, mắt còn dính gỉ ngủ ngơ ngác.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Không tập thể dục",
+   "layout": "Chia đôi khung hình: BÊN TRÁI người tập thể hình hoạt hình chạy bộ mồ hôi nhễ nhại bị gạch chéo đỏ; BÊN PHẢI {HERO} ngồi bệt bụng mỡ rung rinh lười biếng tận hưởng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "bốc một thanh",
+   "layout": "Cận cảnh {HERO} bốc cành tre to tướng cho thẳng vào mồm nhai rôm rốp; dăm tre và lá tre xanh bắn tung tóe quanh mép, mặt khoan khoái ngập tràn hạnh phúc.",
+   "stickers": [],
+   "impacts": [
+    "rôm rốp"
+   ]
+  },
+  {
+   "scene": "scene01",
+   "at": "Alo trường quay",
+   "layout": "Trường quay tin tức hiện đại: {ANCHOR} ngồi sau bàn phát thanh viên đeo tai nghe, tay cầm bút chỉ vào màn hình hiện trường ngạc nhiên hỏi phóng viên.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Báo cáo trường quay",
+   "layout": "Biểu đồ đồng hồ 24h: dải màu xanh lá kéo dài từ 10 tiếng đến 14 tiếng có hình cành tre nhai liên tục; {HERO} ngồi nhai tre bên cạnh chiếc đồng hồ.",
+   "stickers": [
+    {
+     "at": "14 tiếng",
+     "side": "R",
+     "y": 360,
+     "value": "14 TIẾNG",
+     "label": "nhai tre liên tục",
+     "target": [
+      0.7,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Điều nghịch lý đến",
+   "layout": "Cây phả hệ tiến hóa 19 triệu năm: nhánh trên là sư tử oai vệ, gấu xám hung tợn và chó sói đang gầm gừ; nhánh dưới rẽ nhánh là {HERO} đang ngồi nhai lá tre hiền khô.",
+   "stickers": [
+    {
+     "at": "19 triệu năm",
+     "side": "L",
+     "y": 380,
+     "value": "19 TR NĂM",
+     "label": "tổ tiên thú ăn thịt",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hộp sọ của nó",
+   "layout": "Sơ đồ giải phẫu X-quang: hộp sọ có hàm răng nanh sắc nhọn và đường ruột ngắn cũn cỡn màu đỏ đặc trưng của thú ăn thịt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "khoảng 2 triệu năm",
+   "layout": "Cỗ máy thời gian quay ngược 2 triệu năm trước: gấu tổ tiên quay ngoắt 180 độ quay lưng từ chối đùi thịt nướng bốc khói, chạy sang ôm chặt bụi tre xanh.",
+   "stickers": [
+    {
+     "at": "2 triệu năm",
+     "side": "R",
+     "y": 380,
+     "value": "2 TR NĂM",
+     "label": "pha bẻ lái ăn chay",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "mất đi cảm nhận",
+   "layout": "{HERO} ngồi lọt thỏm giữa núi tre trúc xanh mướt cao ngất, cười toe toét ngắt từng phiến lá tre nhét đầy mồm.",
+   "stickers": [
+    {
+     "at": "99%",
+     "side": "L",
+     "y": 360,
+     "value": "99%",
+     "label": "khẩu phần là tre",
+     "target": [
+      0.3,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Các nhà khoa học phát hiện",
+   "layout": "Mô hình chuỗi xoắn ADN phát sáng: đoạn gen Tas1r1 bị đứt gãy tia sét đỏ; bên cạnh là chiếc lưỡi gấu trúc có dấu gạch chéo đỏ trên đĩa thịt bò bít-tết.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đối với Chiến thần",
+   "layout": "Bàn ăn đối chiếu bi hài: BÊN TRÁI đĩa thịt bò bít-tết hảo hạng thơm phức bị {HERO} đẩy phũ phàng ra xa chê nhạt như bìa các-tông; BÊN PHẢI cành tre tươi được ôm chặt vào lòng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hãy cùng chúng tôi",
+   "layout": "{REPORTER} giơ ngón tay ra hiệu đếm ngược, phía sau là chiếc đồng hồ cát đang chảy và kim đồng hồ 24h quay tít mù báo hiệu hành trình kỳ thú.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Đồng hồ hiện số 10:00 trưa; {HERO} ngồi lọt thỏm giữa đống vỏ tre đã bị tước bỏ chất cao như núi nhỏ, tay vẫn thoăn thoắt bóc cành tre mới.",
+   "stickers": [
+    {
+     "at": "10kg",
+     "side": "L",
+     "y": 380,
+     "value": "10 KG",
+     "label": "xử lý trong 4 tiếng",
+     "target": [
+      0.4,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Quý vị có bao giờ",
+   "layout": "Cận cảnh bàn tay {HERO} bóc vỏ cành tre điệu nghệ như nghệ nhân gọt mía; bên cạnh là một người đầu bếp chuyên nghiệp đội mũ trắng kinh ngạc há hốc mồm học hỏi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Camera góc siêu cận",
+   "layout": "Bàn tay trước của Gấu Trúc xòe rộng dưới ống kính phóng đại: đếm rõ 5 ngón móng vuốt nhọn hoắt và ngón thứ 6 nhô ra bên cạnh ngón cái.",
+   "stickers": [
+    {
+     "at": "6 ngón tay",
+     "side": "R",
+     "y": 360,
+     "value": "6 NGÓN TAY",
+     "label": "bàn tay bóc vỏ tre",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Này phóng viên ơi",
+   "layout": "{OLD_MAN} chống gậy trúc bước vào khung hình, nheo mắt chỉ tay vào bàn tay gấu trúc vẻ mặt nghi ngờ bảo đạo cụ giả.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bác nhân chứng nói",
+   "layout": "{REPORTER} cầm bảng sơ đồ giải phẫu gật đầu giải thích thân thiện; {HERO} ngồi bên cạnh giơ bàn tay xòe 6 ngón vẫy chào vui vẻ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Trên thực tế, ngón",
+   "layout": "Bản vẽ X-quang xương bàn tay: xương vừng cổ tay (radial sesamoid) phình to dài ra bọc đệm thịt dẻo dai thành ngón cái giả linh hoạt; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "xương vừng",
+     "side": "L",
+     "y": 380,
+     "value": "XƯƠNG VỪNG",
+     "label": "ngón tay cái giả",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "giúp nó kẹp chặt",
+   "layout": "Hình minh họa kỹ thuật cơ khí: ngón cái giả kẹp đối diện 5 ngón kia như gọng kìm thợ máy, tước phăng dải vỏ tre đắng ngắt chuẩn xác từng milimet.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chưa dừng lại ở",
+   "layout": "Cận cảnh khuôn mặt bánh bao tròn xoe của {HERO}: má phồng to phúng phính, hai mắt khoanh đen chớp chớp ngây thơ đáng yêu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "hai bên má phúng",
+   "layout": "Sơ đồ cơ giải phẫu đầu gấu: hai búi cơ cắn khổng lồ màu đỏ kéo từ xương hàm dưới neo thẳng lên đỉnh sọ gấu trúc; lực cắn cực mạnh nghiền nát thân tre cứng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Toàn bộ niêm mạc",
+   "layout": "Mặt cắt phóng đại ống thực quản: lớp màng nhầy dày cộp tráng men bảo vệ, các mảnh dằm tre nhọn hoắt trượt tuột xuống dạ dày mà không gây xước xát; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Vũ khí của mãnh",
+   "layout": "Hình ảnh hài hước: {HERO} mặc giáp chiến binh hầm hố cơ bắp cuồn cuộn như đấu sĩ La Mã, nhưng tay lại cầm nhánh tre ngồi nhai thảnh thơi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Đồng hồ chỉ 14:00 chiều; {REPORTER} đeo khẩu trang bảo hộ lùi lại phía sau vài bước, tay cầm thước dây đo khoảng cách an toàn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Quý vị hãy giữ",
+   "layout": "{HERO} ngồi trước một xe cút kít chở đầy 38kg tre tươi xanh mướt; bụng chú phình to tròn xoe như quả bóng bay.",
+   "stickers": [
+    {
+     "at": "38kg",
+     "side": "R",
+     "y": 360,
+     "value": "38 KG",
+     "label": "tre nạp mỗi ngày",
+     "target": [
+      0.72,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng vì mang ruột",
+   "layout": "Sơ đồ đối chiếu hệ tiêu hóa: BÊN TRÁI ruột trâu bò 4 ngăn dài 40m tiêu hóa 80%; BÊN PHẢI ruột Gấu Trúc ngắn ngủn thẳng tuột chỉ tiêu hóa được 17%.",
+   "stickers": [
+    {
+     "at": "17%",
+     "side": "L",
+     "y": 380,
+     "value": "17%",
+     "label": "hấp thụ dinh dưỡng",
+     "target": [
+      0.35,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Tới 83% lượng",
+   "layout": "Ống tiêu hóa như máng trượt nước siêu tốc: thân tre đi vào miệng và trượt tuột ra ngoài thành các sợi tre nguyên vẹn chỉ trong 2 tiếng đồng hồ.",
+   "stickers": [
+    {
+     "at": "83%",
+     "side": "R",
+     "y": 380,
+     "value": "83%",
+     "label": "thải ra ngoài",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Xin thông báo một",
+   "layout": "Bảng đếm kỷ lục số điện tử nhảy số liên tục: con số 40 nhấp nháy phát sáng rực rỡ; {HERO} ngồi trên bô vệ sinh hoạt hình đọc báo tỉnh queo.",
+   "stickers": [
+    {
+     "at": "40 lần",
+     "side": "L",
+     "y": 360,
+     "value": "40 LẦN",
+     "label": "đi vệ sinh mỗi ngày",
+     "target": [
+      0.4,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "thải ra từ 20kg",
+   "layout": "Một chiếc cân tải trọng lớn chất đầy các viên phân tre màu xanh lá nặng 25kg; {HERO} đứng cạnh giơ hai ngón tay chiến thắng chữ V.",
+   "stickers": [
+    {
+     "at": "25kg",
+     "side": "R",
+     "y": 360,
+     "value": "25 KG",
+     "label": "phân tre mỗi ngày",
+     "target": [
+      0.68,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Vừa ngồi nhai cành",
+   "layout": "Cảnh bi hài: miệng phía trước {HERO} nhai tre nhồm nhoàm, phía sau đùn ra từng nắm phân tre cuộn tròn sạch sẽ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Các nhà sinh vật",
+   "layout": "Nhà khoa học hoạt hình đeo kính lúp đi trong rừng tre, vừa đếm từng bãi phân tre vừa bấm đồng hồ bấm giờ tính thời gian gấu ngồi ở gốc cây.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đây chính xác là",
+   "layout": "Biểu tượng cỗ máy nghiền tre chạy bằng xích: đầu vào là tre cây, đầu ra là các cuộn bã xơ tre đóng gói liên tục 24/7.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Vì 99% thức",
+   "layout": "Cận cảnh viên phân tre: xơ lá tre xanh ép chặt thơm ngát, tỏa ra các làn khói hương thảo mộc và lá trà xanh thoang thoảng; đàn bướm bay lượn xung quanh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Tại Tứ Xuyên, người",
+   "layout": "Xưởng thủ công mỹ nghệ: người thợ đang ép bã phân tre làm các tờ giấy mỹ thuật vàng nhạt cao cấp; bên cạnh là hộp trà phân gấu trúc gắn thẻ giá đô-la đắt đỏ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Ai mà ngờ chất",
+   "layout": "{HERO} ngồi trên ngai vàng làm bằng búp măng tre, hai tay ôm các thỏi vàng sinh thái cười khoái chí tột độ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Rừng tre chuyển sang màu hoàng hôn cam đỏ rực rỡ, đồng hồ chỉ 18:00 tối; {HERO} lạch bạch trèo lên một cây tre cao vút tìm chỗ ngủ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Quý vị hãy nhìn",
+   "layout": "Cành cây nhỏ cong oằn mình dưới sức nặng hơn một tạ của {HERO}; chú vắt vẻo ngủ say sưa bất chấp độ cao.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nó ngủ trong những",
+   "layout": "Ghép 3 tư thế ngủ quái đản của {HERO}: đầu chúc xuống đất như con dơi, nằm ngửa bụng chân gác lên trời, và vắt ngang chạc cây như bao tải gạo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ối ối bác phóng",
+   "layout": "{HERO} tỉnh giấc thấy cành cây uốn cong kêu rắc rắc, mặt hoảng hốt chới với kêu cứu {REPORTER} đang đứng quay phim bên dưới.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Rắc! Bịch! Một",
+   "layout": "Cành cây gãy đôi kêu rắc, {HERO} rơi tự do từ ngọn cây xuống đất, mặt méo xệch hài hước giơ 4 chân lên trời.",
+   "stickers": [],
+   "impacts": [
+    "Rắc",
+    "Bịch"
+   ]
+  },
+  {
+   "scene": "scene04",
+   "at": "Nhờ có lớp mỡ",
+   "layout": "{HERO} tiếp đất cuộn tròn tròn xoe lăn lông lốc như quả bóng bowling đâm ngã mấy khúc gỗ mục, rồi bật dậy gãi tai cười toe toét tỉnh bơ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Các nhà khoa học phát hiện",
+   "layout": "Các nhà khoa học mỉm cười gật gù ghi chép: hành vi lăn lộn giảm chấn và làm sạch lông dính bùn đất.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L65"
+  },
+  {
+   "scene": "scene04",
+   "at": "Ngay cả bộ lông",
+   "layout": "Phân tích trang phục ngụy trang: nửa trái nền tuyết trắng xóa chú hòa vào tuyết; nửa phải bụi râm tối chú hòa vào bóng râm rừng cây.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đốm đen quanh mắt",
+   "layout": "Cận cảnh đôi mắt {HERO}: hai khoanh đen quanh mắt như cặp kính râm thời trang giúp chống chói lóa ánh nắng phản chiếu từ tuyết trắng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chiếc đuôi ngắn ngủn",
+   "layout": "Phía sau mông {HERO}: chiếc đuôi cụt 15cm hoạt động như chiếc chổi phủi sạch tuyết ướt trên chạc cây trước khi ngồi bệt xuống.",
+   "stickers": [
+    {
+     "at": "15cm",
+     "side": "L",
+     "y": 380,
+     "value": "15 CM",
+     "label": "chiếc đuôi chổi quét",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ngã cây như cơm",
+   "layout": "{HERO} đứng dang hai tay chào như vận động viên xiếc vừa hoàn thành bài biểu diễn tiếp đất hoàn hảo, khán giả vỗ tay rào rào khen ngợi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Rừng tre đêm tĩnh mịch ánh trăng le lói, đồng hồ chỉ 22:00 đêm; {REPORTER} cầm đèn pin soi vào lối mòn trong rừng bí ẩn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chúng tôi xin chuyển",
+   "layout": "Bảng tin thời sự khẩn: biểu đồ đếm ngược nhấp nháy dòng chữ báo động đỏ về mùa sinh sản của Gấu Trúc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "mỗi năm, con cái",
+   "layout": "Tờ lịch 365 ngày rơi rụng, chỉ còn lại đúng một tờ giấy nhỏ khoanh tròn đỏ với chiếc đồng hồ đếm ngược 24 đến 72 giờ thụ thai duy nhất.",
+   "stickers": [
+    {
+     "at": "24-72 giờ",
+     "side": "R",
+     "y": 360,
+     "value": "24-72 GIỜ",
+     "label": "cửa sổ thụ thai",
+     "target": [
+      0.68,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đúng thế thưa quý",
+   "layout": "Cảnh bi hài: chàng Gấu Trúc ngồi mải mê nhai tre ở góc trái; cô Gấu Trúc ngồi chờ đợi ở góc phải thở dài, đồng hồ cát chảy hết cát.",
+   "stickers": [
+    {
+     "at": "365 ngày",
+     "side": "L",
+     "y": 380,
+     "value": "365 NGÀY",
+     "label": "chỉ có 1 cơ hội",
+     "target": [
+      0.35,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thậm chí các chuyên",
+   "layout": "Trong trung tâm bảo tồn: chiếc tivi phát cảnh hai chú gấu trúc hẹn hò; bên dưới hai chú gấu trúc ngồi xem vừa cắn búp măng vừa ngơ ngác không hiểu gì.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Và điều kỳ diệu",
+   "layout": "Cận cảnh bàn tay to lớn của gấu mẹ: trong lòng bàn tay là chú gấu trúc sơ sinh bé tí hin màu hồng, không có lông, nhỏ thó như thỏi son môi.",
+   "stickers": [
+    {
+     "at": "100g",
+     "side": "L",
+     "y": 360,
+     "value": "100 GAM",
+     "label": "bé như thỏi son",
+     "target": [
+      0.35,
+      0.45
+     ]
+    },
+    {
+     "at": "1/900",
+     "side": "R",
+     "y": 480,
+     "value": "1/900",
+     "label": "trọng lượng mẹ",
+     "target": [
+      0.65,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhỏ thó bằng một",
+   "layout": "Gấu trúc con đỏ hỏn mù lòa nằm lọt thỏm cạnh thỏi son môi và cục bơ nhỏ để so sánh kích thước tí hon kỳ lạ.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L66"
+  },
+  {
+   "scene": "scene05",
+   "at": "Chưa kể, các cô",
+   "layout": "Phòng điều hòa VIP trong viện bảo tồn: một cô gấu trúc giả vờ nằm rên rỉ ốm nghén, được bác sĩ bưng đĩa táo đỏ và bánh bao ngọt phục vụ tận mồm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Khi nhận thấy những",
+   "layout": "Cô nàng gấu trúc tinh ranh giả vờ đi lại chậm chạp ốm nghén để được tận hưởng dịch vụ khách sạn 5 sao ăn ngon ngủ kỹ.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L67"
+  },
+  {
+   "scene": "scene05",
+   "at": "Cho đến khi siêu",
+   "layout": "Bác sĩ cầm máy siêu âm rà bụng gấu trúc, màn hình siêu âm chỉ toàn là lá tre và hơi gas, không có em bé; cô gấu trúc nháy mắt cười tinh quái.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Bầu trời rạng sáng 04:00 sương đọng trên lá tre lung linh; {HERO} ngồi bình thản ngắm bình minh trên đỉnh núi đá tĩnh lặng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhiều người từng chế",
+   "layout": "Dòng thời gian 2 triệu năm: các loài hổ răng kiếm, voi ma-mút to xác ngã gục tuyệt chủng; riêng {HERO} vẫn ung dung ngồi gặm tre sống sót qua kỷ băng hà.",
+   "stickers": [
+    {
+     "at": "2 triệu năm",
+     "side": "L",
+     "y": 380,
+     "value": "2 TR NĂM",
+     "label": "chiến thần sinh tồn",
+     "target": [
+      0.35,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bằng cách hạ thấp",
+   "layout": "Triết lý sống an nhiên: {HERO} ngồi thiền trên tảng đá phẳng, biểu tượng thái cực và hoa sen tre tỏa sáng; chậm rãi, bình thản và yêu đời.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đồng hồ lại sắp",
+   "layout": "Chiếc đồng hồ 24h quay trọn một vòng trở về vạch 06:00 sáng; {HERO} vươn vai ngáp một cái thật to rồi với tay lấy cành tre mới.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Ở tập tiếp theo,",
+   "layout": "Bản đồ dịch chuyển từ rừng tre Trung Quốc sang dòng sông châu Phi rực lửa: một chú Hà Mã khổng lồ đang chạy bộ thình thịch dưới đáy sông nước cuồn cuộn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hà Mã! Tuyệt đối",
+   "layout": "Cận cảnh Hà Mã há ngoác mồm 150 độ lộ cặp răng nanh khủng khiếp cắn nát một khúc gỗ mục; lực cắn 1.800 PSI khủng khiếp.",
+   "stickers": [
+    {
+     "at": "1.800",
+     "side": "R",
+     "y": 360,
+     "value": "1.800 PSI",
+     "label": "lực cắn xe tăng",
+     "target": [
+      0.7,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Báo cáo trường quay,",
+   "layout": "{REPORTER} tháo tai nghe, ngả lưng vào đống lá tre ngáy khò khò; màn hình TV hiển thị chữ 'TẠM BIỆT & HẸN GẶP LẠI'.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Kính chúc quý vị",
+   "layout": "{HERO} và {REPORTER} cùng vẫy tay chào khán giả; các bóng bong bóng bình luận trái tim bay lên rực rỡ tươi vui.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Rừng tre dọc 9:16 lúc bình minh, đồng hồ báo thức chỉ 6 giờ: {HERO} to béo ngồi ôm đống cành tre to nhai rôm rốp; {REPORTER} cầm micro đứng cạnh.",
+   "stickers": [
+    {
+     "at": "14 tiếng",
+     "side": "R",
+     "y": 600,
+     "value": "14 TIẾNG",
+     "label": "nhai tre mỗi ngày",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ],
+   "id": "S01"
+  },
+  {
+   "at": "Đó là Gấu Trúc",
+   "layout": "Giới thiệu dọc: {HERO} đứng giữa vùng núi rừng tre Trung Quốc mờ sương; bên cạnh là một con gấu xám to lớn thân thiện như người họ hàng; một chiếc cân bàn dưới chân gấu trúc.",
+   "stickers": [],
+   "id": "S13"
+  },
+  {
+   "at": "2 triệu năm trước",
+   "layout": "Gấu trúc vứt miếng thịt sang một bên ôm chặt lấy thân tre xanh mát ăn chay 99%.",
+   "stickers": [
+    {
+     "at": "2 triệu năm",
+     "side": "L",
+     "y": 650,
+     "value": "2 TR NĂM",
+     "label": "đổi sang ăn tre",
+     "target": [
+      0.4,
+      0.45
+     ]
+    },
+    {
+     "at": "99%",
+     "side": "R",
+     "y": 900,
+     "value": "99%",
+     "label": "khẩu phần là tre",
+     "target": [
+      0.6,
+      0.6
+     ]
+    }
+   ],
+   "id": "S12"
+  },
+  {
+   "at": "Nhưng ruột ngắn",
+   "layout": "Máng trượt tiêu hóa: cành tre đi vào miệng và trôi tuột ra ngoài trong 2 tiếng, chỉ giữ lại 17% dinh dưỡng ít ỏi.",
+   "stickers": [
+    {
+     "at": "17%",
+     "side": "R",
+     "y": 580,
+     "value": "17%",
+     "label": "hấp thụ ít ỏi",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "id": "S04"
+  },
+  {
+   "at": "nên mỗi ngày nó",
+   "layout": "Dọc: {HERO} hì hục đẩy một chiếc xe cút kít chất đầy tre xanh cao ngất, mồ hôi nhễ nhại nhưng mặt vẫn hớn hở.",
+   "stickers": [
+    {
+     "at": "38kg",
+     "side": "L",
+     "y": 600,
+     "value": "38 KG",
+     "label": "tre mỗi ngày",
+     "target": [
+      0.45,
+      0.4
+     ]
+    }
+   ],
+   "id": "S14"
+  },
+  {
+   "at": "Hậu quả là",
+   "layout": "Một bên xe cút kít chở 38kg tre, một bên đống phân tre 40 bãi chất cao ngất; {HERO} ngồi ở giữa vừa nhai vừa xả.",
+   "stickers": [
+    {
+     "at": "40 lần",
+     "side": "R",
+     "y": 820,
+     "value": "40 LẦN",
+     "label": "vệ sinh/ngày",
+     "target": [
+      0.65,
+      0.65
+     ]
+    }
+   ],
+   "id": "S05"
+  },
+  {
+   "at": "Để bóc vỏ tre",
+   "layout": "Cận cảnh bàn tay 6 ngón: ngón cái giả từ xương cổ tay kẹp chặt thân tre tước phăng vỏ như thợ bóc mía lành nghề.",
+   "stickers": [
+    {
+     "at": "thứ 6",
+     "side": "L",
+     "y": 650,
+     "value": "NGÓN THỨ 6",
+     "label": "ngón cái giả",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ],
+   "id": "S06"
+  },
+  {
+   "at": "Ăn ít năng lượng",
+   "layout": "Dọc: {HERO} nằm ngủ vắt vẻo trên chạc cây tre, phía trên đầu là biểu tượng cục pin yếu màu đỏ đang ở chế độ tiết kiệm năng lượng.",
+   "stickers": [],
+   "id": "S15"
+  },
+  {
+   "at": "ngã xuống thì cuộn",
+   "layout": "{HERO} cuộn tròn lăn lông lốc như quả bóng bowling rồi bật dậy gãi tai nhai tre tỉnh queo như không có chuyện gì.",
+   "stickers": [],
+   "id": "S08"
+  },
+  {
+   "at": "Vậy là bí mật",
+   "layout": "Dọc: {HERO} ngồi giữa rừng tre, một tay gãi đầu ngượng ngùng, bên cạnh là dấu ngoặc kép to và biểu tượng chữ Zzz bị gạch chéo: không phải lười.",
+   "stickers": [],
+   "id": "S17"
+  },
+  {
+   "at": "mà nó đang sống",
+   "layout": "Dọc: {HERO} ngồi thư thái giữa rừng tre, ôm cành tre mỉm cười mãn nguyện; trên đầu là biểu tượng cục pin màu xanh lá đầy đủ với chiếc lá tre nhỏ (chế độ tiết kiệm pin); ánh nắng ấm áp.",
+   "stickers": [],
+   "id": "S16"
+  }
+ ]
+}

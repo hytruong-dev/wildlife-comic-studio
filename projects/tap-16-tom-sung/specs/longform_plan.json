@@ -1,0 +1,693 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "PHÁO THỦ TÍ HON 4CM BẮN TIA SÓNG ÂM 218 DB",
+   "hook": "SINH VẬT 4CM SỞ HỮU HỎA LỰC TO HƠN ĐỘNG CƠ PHẢN LỰC",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Toàn đội kỹ thuật",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quên đi những hàm",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đối tượng mang mã",
+     "image": "assets/long/L04.png",
+     "stickers": [
+      {
+       "at": "số 16",
+       "side": "L",
+       "y": 380,
+       "value": "MÃ SỐ 16",
+       "label": "đối tượng thử nghiệm",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chiều dài cơ thể",
+     "image": "assets/long/L05.png",
+     "stickers": [
+      {
+       "at": "3-5cm",
+       "side": "R",
+       "y": 380,
+       "value": "3-5cm",
+       "label": "chiều dài cơ thể",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng giới sinh học",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lý do khiến gã",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi khi chiếc càng",
+     "image": "assets/long/L08.png",
+     "stickers": [
+      {
+       "at": "218 dB",
+       "side": "R",
+       "y": 380,
+       "value": "218 dB",
+       "label": "âm thanh cực hạn",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Để các chuyên viên",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "140 dB",
+       "side": "L",
+       "y": 380,
+       "value": "140 dB",
+       "label": "phản lực cất cánh",
+       "target": [
+        0.25,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "còn phát súng trường",
+     "image": "assets/long/L10.png",
+     "stickers": [
+      {
+       "at": "160 dB",
+       "side": "R",
+       "y": 380,
+       "value": "160 dB",
+       "label": "tiếng súng trường",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Âm thanh 218 dB",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "và biến nó thành",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hôm nay chúng ta",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Làm thế nào một",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỒ SƠ MẬT"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "CÀNG SÚNG PIT-TÔNG VÀ GIA TỐC KHỦNG 8.000G",
+   "hook": "BẬT MÍ CƠ CHẾ KẸP KHÔNG BẮN ĐẠN VẬT LÝ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quên giả thuyết nghiệp",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Càng súng của Pháo",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi chuẩn bị khai",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thời điểm chốt hãm",
+     "image": "assets/long/L19.png",
+     "stickers": [
+      {
+       "at": "0,5 mili-giây",
+       "side": "L",
+       "y": 380,
+       "value": "0,5 ms",
+       "label": "thời gian bung chốt",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Mấu lồi pit-tông lao",
+     "image": "assets/long/L20.png",
+     "stickers": [
+      {
+       "at": "100 km/h",
+       "side": "L",
+       "y": 380,
+       "value": "100 km/h",
+       "label": "tốc độ sập càng",
+       "target": [
+        0.25,
+        0.55
+       ]
+      },
+      {
+       "at": "28 m/s",
+       "side": "R",
+       "y": 480,
+       "value": "28 m/s",
+       "label": "vận tốc cực đại",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cú đóng sập thần",
+     "image": "assets/long/L21.png",
+     "stickers": [
+      {
+       "at": "8.000g",
+       "side": "L",
+       "y": 380,
+       "value": "8.000g",
+       "label": "gia tốc kỷ lục",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Ủa các anh kỹ",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đúng như chú cá",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cơ chế ngòi nổ",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng điều điên rồ",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẢN VẼ CƠ KHÍ"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "BỌT KHÍ 5.000°C NÓNG NGANG BỀ MẶT MẶT TRỜI",
+   "hook": "BỌT KHÍ VỠ NẮNG TƯƠNG ĐƯƠNG BỀ MẶT MẶT TRỜI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi tia nước từ",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hiện tượng tụt áp",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bọt khí này lao",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bọt khí sụp đổ",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo kỹ sư trưởng",
+     "image": "assets/long/L31.png",
+     "stickers": [
+      {
+       "at": "5.000°C",
+       "side": "R",
+       "y": 380,
+       "value": "5.000°C",
+       "label": "nhiệt độ lõi nổ",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Các chuyên viên kỹ",
+     "image": "assets/long/L32.png",
+     "stickers": [
+      {
+       "at": "4.700°C",
+       "side": "L",
+       "y": 380,
+       "value": "4.700°C",
+       "label": "công bố Science",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhiệt độ này xấp",
+     "image": "assets/long/L33.png",
+     "stickers": [
+      {
+       "at": "5.500°C",
+       "side": "R",
+       "y": 380,
+       "value": "5.500°C",
+       "label": "bề mặt Mặt Trời",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Kèm theo nhiệt độ",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sóng xung kích tỏa",
+     "image": "assets/long/L35.png",
+     "stickers": [
+      {
+       "at": "2cm",
+       "side": "R",
+       "y": 380,
+       "value": "2cm",
+       "label": "tầm bắn sóng âm",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đó là lý do",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỎA LỰC SIÊU NHIỆT"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "ĐÀN TÔM RANG BẮP LÀM ĐIẾC RADAR TÀU NGẦM THẾ CHIẾN II",
+   "hook": "HẢI QUÂN MỸ ĐIÊN ĐẦU VÌ TIẾNG BỎNG NGÔ ĐÁY BIỂN",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L37.png",
+     "stickers": [
+      {
+       "at": "năm 1942",
+       "side": "L",
+       "y": 380,
+       "value": "NĂM 1942",
+       "label": "Thế chiến II",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hải quân Hoa Kỳ",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mục tiêu tác chiến",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bản tin đặc biệt",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thủy thủ đoàn hoang",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nghe chẳng khác nào",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bộ chỉ huy quân",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và kết quả điều",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Về sau, chính các",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "để âm thanh 218 dB",
+     "image": "assets/long/L46.png",
+     "stickers": [
+      {
+       "at": "218 dB",
+       "side": "R",
+       "y": 380,
+       "value": "218 dB",
+       "label": "bức tường âm thanh",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "HỒ SƠ TÁC CHIẾN"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "LÍNH GÁC CÁ BỐNG VÀ TỬ HUYỆT RỤNG CÀNG",
+   "hook": "MÙ DỞ ĐÀO HẦM THUÊ VỆ SĨ CÁ BỐNG BẢO VỆ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lớp vỏ giáp trên",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để khắc phục lỗi",
+     "image": "assets/long/L49.png",
+     "stickers": [
+      {
+       "at": "24/7",
+       "side": "L",
+       "y": 380,
+       "value": "24/7",
+       "label": "lính gác canh cửa",
+       "target": [
+        0.25,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trong khi đó, Tôm",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi khi phát hiện",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đổi lại Cá Bống",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo thử nghiệm",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây chính là cơ",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn tại vị trí",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuy nhiên, mỗi khi",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỢP TÁC TÁC CHIẾN"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "BÀI HỌC KÍCH THƯỚC VÀ BÓNG ĐEN 860V TẬP SAU",
+   "hook": "BÀI HỌC VŨ KHÍ TỐI THƯỢNG VÀ THỬ THÁCH 860 VÔN",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đôi khi những hỏa",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chính cơ chế nén",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bạn ấn tượng nhất",
+     "image": "assets/long/L60.png",
+     "stickers": [
+      {
+       "at": "218 dB",
+       "side": "L",
+       "y": 380,
+       "value": "218 dB",
+       "label": "nổ điếc tàu ngầm",
+       "target": [
+        0.25,
+        0.55
+       ]
+      },
+      {
+       "at": "5.000°C",
+       "side": "R",
+       "y": 480,
+       "value": "5.000°C",
+       "label": "nóng ngang Mặt Trời",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và bây giờ, hãy",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy chiêm ngưỡng một",
+     "image": "assets/long/L62.png",
+     "stickers": [
+      {
+       "at": "2m",
+       "side": "L",
+       "y": 380,
+       "value": "2m",
+       "label": "chiều dài bóng đen",
+       "target": [
+        0.25,
+        0.55
+       ]
+      },
+      {
+       "at": "6.000",
+       "side": "R",
+       "y": 480,
+       "value": "6.000 PIN",
+       "label": "tế bào phát điện",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "sẵn sàng phóng ra",
+     "image": "assets/long/L63.png",
+     "stickers": [
+      {
+       "at": "860V",
+       "side": "R",
+       "y": 380,
+       "value": "860V",
+       "label": "điện áp cực hạn",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng điều kỳ lạ",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BÁO CÁO KỸ THUẬT"
+  }
+ }
+}

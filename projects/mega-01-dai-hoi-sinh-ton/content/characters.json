@@ -1,0 +1,23 @@
+{
+ "_doc": "Nhân vật cố định của Đại Hội Sinh Tồn. Ngoại hình 10 con vật lấy từ storyboard/prompt tập gốc (giữ phụ kiện nhận dạng). HERO = MC (xuất hiện xuyên suốt).",
+ "characters": {
+  "HERO": "anh MC dẫn chương trình hoạt hình vui tính: tóc vuốt dựng, mặc bộ vest đỏ tươi, thắt nơ bướm vàng, cầm chiếc micro vàng, nụ cười rộng",
+  "HERO_S": "anh MC vest đỏ nơ bướm vàng cầm micro vàng và 10 tuyển thủ động vật hoạt hình của Đại Hội Sinh Tồn",
+  "MC": "anh MC hoạt hình vest đỏ nơ bướm vàng cầm micro vàng",
+  "JUDGE": "bà cú mèo giám khảo hoạt hình đeo kính tròn gọng vàng, khoác áo choàng tím, cầm búa gỗ nhỏ",
+  "BOARD": "tấm bảng điểm khổng lồ hình chiếc khiên dựng giữa sân vận động, có 10 cột đèn màu bên cạnh 10 hình đầu con vật nhỏ (không có chữ, không có số)",
+  "NO_HERO": "KHÔNG có anh MC trong cảnh này",
+  "KOALA": "chú gấu Koala hoạt hình mập tròn lông xám, tai tròn to xù mép trắng, mũi đen to hình quả lê, mắt to ngơ ngác, mặc áo choàng bệnh nhân trắng có chữ thập đỏ nhỏ",
+  "PLATYPUS": "chú Thú Mỏ Vịt hoạt hình lông nâu bùn, mỏ vịt mềm màu xám đen, đuôi dẹt như đuôi hải ly, chân có màng bơi, đeo băng đô thể thao màu xanh lá",
+  "PELICAN": "chú Chim Bồ Nông trắng hoạt hình to xác, chiếc mỏ dài màu cam vàng có túi da họng lớn",
+  "PENGUIN": "chú chim cánh cụt Adélie hoạt hình nhỏ tròn, đầu và lưng đen tuyền, bụng trắng, vòng trắng tròn quanh mắt, chân hồng cam, đeo nơ bướm đỏ ở cổ",
+  "OTTER": "chú Rái Cá Biển hoạt hình lông nâu sẫm, mặt tròn lông màu kem, râu trắng dài, hay nằm ngửa trên mặt nước, kẹp một hòn đá xám dưới nách",
+  "DOLPHIN": "chú Cá Heo mũi chai hoạt hình màu xám xanh, miệng luôn cong thành nụ cười tinh quái",
+  "WOLVERINE": "chú Chồn Gulo (Wolverine) hoạt hình lùn mập chắc nịch, lông nâu sẫm có hai dải sọc vàng kem dọc hai bên sườn, bàn chân bè rất to như ủng trượt tuyết, mắt tinh quái liều lĩnh",
+  "MANTIS": "chú Tôm Tít (peacock mantis shrimp) hoạt hình, mai xanh ngọc lục bảo, râu đỏ cam, chân và đuôi điểm màu cầu vồng, hai mắt to lồi trên cuống, hai càng búa gập trước ngực như võ sĩ quyền anh",
+  "BADGER": "chú Lửng Mật hoạt hình thân đen, lưng phủ một mảng lông trắng bạc từ đỉnh đầu xuống đuôi, chân ngắn móng vuốt dài, vẻ mặt ngông nghênh bất cần",
+  "TARDIGRADE": "chú Gấu Nước (tardigrade) hoạt hình tí hon mũm mĩm như gấu bông 8 chân ngắn có móng nhỏ, thân màu be nhạt có nếp gấp, miệng tròn dạng ống, mắt chấm nhỏ dễ thương"
+ },
+ "side_characters": ["JUDGE"],
+ "shorts_side_characters": ["JUDGE"]
+}

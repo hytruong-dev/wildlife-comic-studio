@@ -1,0 +1,519 @@
+import json
+import sys
+sys.path.insert(0, ".")
+from src.episode.pipeline import script_tokens, ptext
+
+p = "projects/tap-34-qua-den/episode.json"
+with open(p, "r", encoding="utf-8") as f:
+    ep = json.load(f)
+
+chars = {
+  "HERO": "chú Quạ Đen hoạt hình thông minh sắc sảo, mặc áo khoác măng tô thám tử màu nâu cổ điển, đeo kính một mắt monocle vàng và mỏ ngậm chiếc tẩu thuốc hoạt hình ngộ nghĩnh (cute clever cartoon black crow detective wearing a classic trench coat, golden monocle, and funny Sherlock hat)",
+  "HERO_S": "chú Quạ Đen thám tử mặc áo măng tô và kính monocle vàng",
+  "NO_HERO": "KHÔNG có chú Quạ Đen trong cảnh này",
+  "JUDGE": "thẩm phán cú mèo hoạt hình nghiêm nghị đội tóc giả cổ điển trắng, tay cầm chiếc búa gỗ tòa án",
+  "TRUCK": "chiếc xe tải lớn màu xanh đang lao qua vạch đường giao thông ngã tư phố",
+  "AESOP_JAR": "ống nghiệm thủy tinh hẹp chứa nước trong và miếng mồi thịt thơm nổi trên mặt",
+  "PROFESSOR": "giáo sư già nghiên cứu sinh vật học đeo chiếc mặt nạ quái vật cau có ngộ nghĩnh"
+}
+
+# Long-form beats (75 beats)
+long_beats = [
+  # --- SCENE 01: KHỞI TỐ VỤ ÁN (16 beats) ---
+  {
+    "scene": "scene01", "at": 0,
+    "layout": "Toàn cảnh phòng xử án Tự nhiên cổ điển trang nghiêm: {JUDGE} ngồi trên bục cao gõ mạnh chiếc búa gỗ xét xử. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene01", "at": "chính thức mở phiên tòa",
+    "layout": "Khung cảnh vành móng ngựa phòng xử án: {HERO} đứng khoanh cánh ngạo nghễ, nhếch mép cười khẩy trước ánh mắt dò xét của bồi thẩm đoàn.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene01", "at": "Nhìn vẻ ngoài đen nhánh",
+    "layout": "Hình ảnh so sánh đối lập: Bên trái là một chú quạ đen bình thường nhặt rác trong thùng rác, bên phải là sơ đồ não bộ phát sáng rực rỡ của {HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene01", "at": "Đây không phải là",
+    "layout": "Bảng hồ sơ mật thám tử dán ghim giấy kraft: Tấm ảnh chụp lén {HERO} đang đứng trên cột đèn giao thông quan sát xã hội loài người. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene01", "at": "Lời khai của nhân chứng",
+    "layout": "Hiện trường ngã tư đường phố Tokyo đông đúc: Một chú chim bồ câu ngơ ngác giơ cánh khai báo trước tòa, phía sau là dòng xe cộ tấp nập. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene01", "at": "đặt ngay trước lốp",
+    "layout": "Cận cảnh góc thấp mặt đường: Quả óc chó rừng vỏ cứng như đá cuội đặt ngay trước bánh lốp khổng lồ của {TRUCK}. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene01", "at": "Một quả óc chó",
+    "layout": "{HERO} đậu trên biển báo giao thông, mỏ ngậm quả óc chó to tướng, nghiêng đầu quan sát dòng xe đang chạy với ánh mắt đầy mưu tính.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene01", "at": "Nó bay vút lên",
+    "layout": "Đèn tín hiệu giao thông ngã tư chuyển sang Đèn xanh: {HERO} thả quả óc chó rơi chuẩn xác xuống đúng làn bánh xe tải đang lăn bánh.",
+    "stickers": [{"at": "Đèn xanh", "value": "ĐÈN XANH", "label": "thả hạt xuống", "side": "R", "y": 280, "target": [0.65, 0.42]}],
+    "impacts": ["Đèn xanh"]
+  },
+  {
+    "scene": "scene01", "at": "lốp xe nghiền nát",
+    "layout": "Hiệu ứng va chạm mạnh mẽ: Bánh xe tải nặng nề cán qua làm vỏ quả óc chó nứt toác thành nhiều mảnh vỡ, để lộ phần nhân béo ngậy bên trong. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene01", "at": "Nó bình thản đậu",
+    "layout": "{HERO} kiên nhẫn đậu trên cành cây ven đường, bình thản nhìn đồng hồ đeo tay đếm ngược chờ đợi thời cơ chín muồi.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene01", "at": "Đèn đỏ bật sáng",
+    "layout": "Đèn tín hiệu chuyển sang Đèn đỏ rực: Toàn bộ dòng xe dừng bánh thẳng hàng trước vạch sơn trắng. {NO_HERO}.",
+    "stickers": [{"at": "Đèn đỏ", "value": "ĐÈN ĐỎ", "label": "xe dừng hẳn", "side": "L", "y": 280, "target": [0.35, 0.42]}],
+    "impacts": ["Đèn đỏ"]
+  },
+  {
+    "scene": "scene01", "at": "ung dung sà xuống",
+    "layout": "{HERO} thong thả sải cánh đáp xuống vạch kẻ sang đường cho người đi bộ, khoan thai gắp từng miếng nhân óc chó thơm bùi ăn ngon lành.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene01", "at": "Một chiến thuật hoàn hảo",
+    "layout": "{HERO} vừa nhai hạt dẻ thơm ngon vừa nháy mắt cười hóm hỉnh với bác tài xế xe tải đang nhìn qua kính chắn gió.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene01", "at": "Các nhà khoa học thần kinh",
+    "layout": "Sơ đồ giải phẫu thần kinh so sánh kích thước não bộ: Não của {HERO} và não của tinh tinh đặt cạnh nhau với tỷ lệ trọng lượng cơ thể cân bằng tuyệt đối.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene01", "at": "mật độ tế bào nơ-ron",
+    "layout": "Kính hiển vi phóng to cấu trúc tế bào thần kinh vùng não trước của {HERO}: Hàng triệu nơ-ron liên kết phát sáng như một mạng lưới internet siêu tốc. {NO_HERO}.",
+    "stickers": [{"at": "7 tuổi", "value": "IQ 7 TUỔI", "label": "ngang trẻ em", "side": "R", "y": 320, "target": [0.68, 0.5]}],
+    "impacts": ["7 tuổi"]
+  },
+  {
+    "scene": "scene01", "at": "bốn chuỗi bằng chứng",
+    "layout": "Tập hồ sơ án mạng mở ra: Bốn con dấu đỏ đánh số 1, 2, 3, 4 đóng lên các trang tài liệu điều tra giật gân. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+
+  # --- SCENE 02: BẰNG CHỨNG #1 (15 beats) ---
+  {
+    "scene": "scene02", "at": 0,
+    "layout": "Trang sách tranh ngụ ngôn cổ tích Aesop mở ra với hình minh họa chú quạ cổ điển đứng cạnh chiếc bình gốm khát nước. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene02", "at": "Suốt hàng thế kỷ",
+    "layout": "Một nhà bác học cổ xưa ngồi dưới ngọn đèn dầu đang vẽ lại sơ đồ chiếc bình Aesop vào cuốn da cừu ố vàng. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene02", "at": "Năm 2014",
+    "layout": "Phòng thí nghiệm vật lý hiện đại: Các nhà khoa học mang áo blouse trắng chuẩn bị dàn ống nghiệm thí nghiệm thủy động học cho {HERO}.",
+    "stickers": [{"at": "Năm 2014", "value": "NĂM 2014", "label": "thí nghiệm aesop", "side": "L", "y": 300, "target": [0.3, 0.45]}],
+    "impacts": ["Năm 2014"]
+  },
+  {
+    "scene": "scene02", "at": "Báo cáo giám định",
+    "layout": "Cận cảnh ống nghiệm thủy tinh cao mười lăm centimet chứa nước: Miếng thịt thơm phức nổi lơ lửng ở giữa, mỏ quạ thò vào bị kẹt ở miệng ống.",
+    "stickers": [{"at": "15cm", "value": "15CM", "label": "độ sâu ống", "side": "R", "y": 320, "target": [0.65, 0.52]}],
+    "impacts": ["15cm"]
+  },
+  {
+    "scene": "scene02", "at": "Các nhà khoa học bày sẵn",
+    "layout": "Hai khay vật liệu đặt cạnh ống nghiệm: Bên trái là khay sỏi đá nặng trĩu màu xám, bên phải là khay xốp nhẹ bồng bềnh màu trắng. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene02", "at": "Một đứa trẻ dưới",
+    "layout": "Hình ảnh so sánh hài hước: Một em bé hoạt hình đang lúng túng ném lung tung các khối xốp vào nước làm nước bắn tung tóe. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene02", "at": "Nó nghiêng đầu quan sát",
+    "layout": "{HERO} nghiêng đầu góc bốn mươi lăm độ, dùng kính monocle soi xét trọng lượng từng viên sỏi đá trên bàn trong đúng mười giây.",
+    "stickers": [{"at": "10 giây", "value": "10 GIÂY", "label": "thời gian tính toán", "side": "L", "y": 320, "target": [0.38, 0.5]}],
+    "impacts": ["10 giây"]
+  },
+  {
+    "scene": "scene02", "at": "dùng chiếc mỏ sắc nhọn",
+    "layout": "{HERO} cắp lấy một viên sỏi đá nặng đặc, cẩn thận thả rơi thẳng đứng xuống đáy ống nghiệm thủy tinh.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene02", "at": "Nó hoàn toàn phớt lờ",
+    "layout": "{HERO} dùng chân gạt phăng đống mẩu xốp nhẹ sang một bên với vẻ mặt coi thường, hoàn toàn không chạm vào chúng.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene02", "at": "Từng viên sỏi nặng",
+    "layout": "Mặt cắt ống nghiệm: Dưới đáy ống nghiệm là lớp sỏi đá dâng cao, đẩy cột nước dâng lên từng milimét mang theo miếng thịt mồi.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene02", "at": "6 lượt thả sỏi",
+    "layout": "Miếng thịt trôi lên tới sát miệng ống nghiệm: {HERO} ung dung dùng mỏ ngoạm lấy miếng mồi ngon lành trong tiếng vỗ tay tán thưởng.",
+    "stickers": [{"at": "6 lượt", "value": "6 LƯỢT", "label": "thả sỏi chuẩn xác", "side": "R", "y": 320, "target": [0.72, 0.45]}],
+    "impacts": ["6 lượt"]
+  },
+  {
+    "scene": "scene02", "at": "tiếp tục nâng độ khó",
+    "layout": "Bài kiểm tra nâng cao: Hai chiếc ống nghiệm đặt song song, một ống chứa nước trong veo, chiếc ống còn lại chứa đầy cát vàng đặc quánh. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene02", "at": "chỉ thả sỏi vào",
+    "layout": "{HERO} chỉ thả sỏi vào ống nước, hoàn toàn ngó lơ ống cát bên cạnh vì nhận thức được tính chất vật lý của chất lỏng so với chất rắn.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene02", "at": "đây chính là nhận thức",
+    "layout": "Bảng công thức tính toán thể tích vật lý nổi: Hình vẽ minh họa thể tích nước dâng lên đúng bằng thể tích viên sỏi chìm. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene02", "at": "Archimedes",
+    "layout": "Chân dung nhà bác học Archimedes hoạt hình trong bồn tắm giơ tay hô Eureka, bên cạnh là {HERO} nháy mắt đầy tự tin.",
+    "stickers": [{"at": "Archimedes", "value": "VẬT LÝ NỔI", "label": "định luật acsimet", "side": "L", "y": 300, "target": [0.4, 0.45]}],
+    "impacts": []
+  },
+
+  # --- SCENE 03: BẰNG CHỨNG #2 (13 beats) ---
+  {
+    "scene": "scene03", "at": 0,
+    "layout": "Bảng hồ sơ phân tích tâm lý học tội phạm: Sơ đồ não bộ với hai luồng suy nghĩ đan xen giữa kẻ lừa gạt và kẻ rình mò. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene03", "at": "Thuyết tâm trí",
+    "layout": "Biểu tượng Thuyết tâm trí: Hai chiếc bóng đầu người và đầu quạ đối diện nhau, bên trong là những bánh răng suy luận logic xoay tròn. {NO_HERO}.",
+    "stickers": [{"at": "Thuyết tâm trí", "value": "TÂM LÝ HỌC", "label": "đọc vị đối phương", "side": "R", "y": 320, "target": [0.7, 0.45]}],
+    "impacts": []
+  },
+  {
+    "scene": "scene03", "at": "từ đó dự đoán trước",
+    "layout": "Kỳ thủ cờ vua thám tử: {HERO} ngồi đối diện bàn cờ vua, tính toán trước ba nước đi tiếp theo của đối thủ một cách lạnh lùng.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene03", "at": "Lời tố cáo",
+    "layout": "Tại tòa án: Nhân chứng chim bồ câu đang run rẩy chỉ cánh về phía {HERO}, tố cáo chiêu trò giấu thức ăn giả mạo tinh vi.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene03", "at": "Khi một con quạ kiếm được",
+    "layout": "{HERO} cắp một miếng thịt mồi béo bở, mắt liếc sang cành cây đối diện nơi có một con quạ khác đang lén lút dòm ngó.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene03", "at": "Nếu phát hiện có một con",
+    "layout": "Góc nhìn qua lăng kính thám tử: Kẻ rình mò núp sau tán lá cây bị khoanh vùng vòng tròn đỏ nét đứt phát hiện tức thì. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene03", "at": "Nó giả vờ ung dung",
+    "layout": "{HERO} hạ cánh xuống bụi cỏ ven đường, dùng mỏ hì hục đào một cái hố sâu, làm điệu bộ vô cùng vất vả và chân thực.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene03", "at": "nhét miếng mồi vào",
+    "layout": "Động tác ngụy trang điêu luyện: {HERO} phủ lá cây và cành khô lên miệng hố rồi dậm chân lên thật chặt như vừa chôn kho báu xong.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene03", "at": "Nhưng thực chất",
+    "layout": "Tia X-quang soi chiếu cổ họng {HERO}: Miếng mồi thịt béo ngậy vẫn được giấu kín mít an toàn sâu dưới đáy cuống họng.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene03", "at": "kẻ rình mò hăm hở",
+    "layout": "Con quạ rình mò hăm hở lao xuống đào bới tung bụi cỏ, vẻ mặt ngơ ngác tột độ khi thấy chiếc hố rỗng không chẳng có gì. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene03", "at": "sải cánh bay tít",
+    "layout": "{HERO} sải cánh bay lượn trên bầu trời xanh, hướng về một cánh rừng già bí mật và vắng vẻ không bóng người.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene03", "at": "Điều này chứng minh",
+    "layout": "Sơ đồ chiến thuật tình báo hai mang: Quân cờ vua Vua đen trên bàn cờ đang thực hiện nước đi chiếu tướng kẻ thù. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene03", "at": "điều khiển hành vi",
+    "layout": "{HERO} đứng trên cành cây cao, tay cầm những sợi dây điều khiển con rối hoạt hình mô phỏng kẻ đối thủ đang bị dắt mũi.",
+    "stickers": [], "impacts": []
+  },
+
+  # --- SCENE 04: BẰNG CHỨNG #3 (12 beats) ---
+  {
+    "scene": "scene04", "at": 0,
+    "layout": "Bảng tiến hóa công cụ lao động: Rái cá dùng đá, chim sẻ dùng cọng cỏ, và phía trước là bục danh dự dành cho bộ óc của {HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene04", "at": "Nhưng sử dụng một công cụ",
+    "layout": "Bản vẽ phân loại công cụ: Bên trái là cành cây đá cuội tự nhiên, bên phải là bản vẽ thiết kế công cụ kim loại uốn cong tinh xảo. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene04", "at": "Năm 2002",
+    "layout": "Phòng nghiên cứu Đại học Oxford: Giáo sư khoa học đặt đoạn dây kim loại thẳng đứng và chiếc xô nhỏ đựng thịt trước mặt chú quạ Betty. {NO_HERO}.",
+    "stickers": [{"at": "Năm 2002", "value": "NĂM 2002", "label": "đại học oxford", "side": "L", "y": 300, "target": [0.35, 0.45]}],
+    "impacts": ["Năm 2002"]
+  },
+  {
+    "scene": "scene04", "at": "Báo cáo thực nghiệm",
+    "layout": "Cận cảnh chiếc xô kim loại nhỏ đựng mồi nằm kẹt dưới đáy ống hẹp, sợi dây kẽm thẳng đuột trơn tuột không tài nào móc được quai xô. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene04", "at": "Betty không hề cắn xé",
+    "layout": "Quạ Betty dùng móng chân kẹp chặt một đầu sợi dây kẽm xuống mặt bàn gỗ, dùng mỏ ngậm đầu kia chuẩn bị uốn cong. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene04", "at": "kéo gập một góc",
+    "layout": "Quá trình chế tạo kỳ diệu: Chiếc mỏ quạ bẻ gập sợi dây kẽm một góc chín mươi độ, biến thanh kẽm thẳng thành một chiếc móc câu chữ J hoàn hảo. {NO_HERO}.",
+    "stickers": [{"at": "90°", "value": "GÓC 90°", "label": "uốn cong móc câu", "side": "R", "y": 320, "target": [0.65, 0.5]}],
+    "impacts": ["90°"]
+  },
+  {
+    "scene": "scene04", "at": "thọc thẳng xuống khe",
+    "layout": "Chiếc móc câu tự chế móc chuẩn xác vào quai xô thịt, nhấc bổng chiếc xô lên khỏi miệng ống hẹp trong sự kinh ngạc của các nhà khoa học. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene04", "at": "Đây là lần đầu tiên",
+    "layout": "Tờ báo khoa học danh tiếng Nature in trang nhất hình ảnh chú quạ tự chế tạo công cụ kim loại với hàng tít giật gân. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene04", "at": "8 bước liên hoàn",
+    "layout": "Mê cung giải đố công cụ tám bước: Dãy que ngắn, que vừa và que dài xếp thành chuỗi mắt xích liên hoàn giải mã câu đố hóc búa. {NO_HERO}.",
+    "stickers": [{"at": "8 bước", "value": "8 BƯỚC", "label": "logic liên hoàn", "side": "L", "y": 320, "target": [0.35, 0.48]}],
+    "impacts": ["8 bước"]
+  },
+  {
+    "scene": "scene04", "at": "Dùng chiếc que ngắn",
+    "layout": "{HERO} ngậm que ngắn để lấy que vừa, dùng que vừa khều lấy que dài nhất đặt trong chiếc hộp trong suốt.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene04", "at": "chọc thủng ổ khóa",
+    "layout": "{HERO} dùng chiếc que dài nhất chọc bật then cài ổ khóa, hộp thức ăn bật mở bung ra phần thưởng thơm lừng.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene04", "at": "lập kế hoạch tương lai",
+    "layout": "Sơ đồ não bộ dự báo tương lai: Bản đồ lộ trình từng bước đi trong đầu {HERO} hiển thị rõ nét trước khi chú quạ bắt tay hành động.",
+    "stickers": [], "impacts": []
+  },
+
+  # --- SCENE 05: BẰNG CHỨNG #4 (11 beats) ---
+  {
+    "scene": "scene05", "at": 0,
+    "layout": "Hồ sơ đen tối thù hận truyền kiếp: Dấu vân tay và hồ sơ nhận diện khuôn mặt tội phạm được dán lên bảng điều tra trinh thám. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene05", "at": "Nếu bạn từng trót dại",
+    "layout": "Một người đàn ông hoạt hình đang ném sỏi xua đuổi chú quạ trên vỉa hè, ánh mắt chú quạ nhìn lại sắc như dao cạo.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene05", "at": "Lời khai của giáo sư",
+    "layout": "{PROFESSOR} đứng trước bục làm chứng, tay cầm chiếc mặt nạ quái vật bằng cao su xù xì đáng sợ từng dùng để bắt quạ. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene05", "at": "Dù giáo sư có thay đổi",
+    "layout": "Giáo sư thay đổi sang trang phục áo khoác dài khác, đi lẫn giữa đám đông sinh viên trường đại học tấp nập. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene05", "at": "chỉ cần ông đeo chiếc",
+    "layout": "Giáo sư vừa đeo chiếc mặt nạ lên: Một chú quạ trên cây lập tức rướn cổ kêu tiếng báo động đỏ chói tai vang vọng khắp khuôn viên.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene05", "at": "đồng loạt lao bổ xuống",
+    "layout": "Cơn ác mộng bầu trời: Cả đàn quạ đen đông đúc từ tứ phía lao xuống bổ nhào, mổ túi bụi vào chiếc mặt nạ của vị giáo sư hoảng loạn.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene05", "at": "suốt 5 năm",
+    "layout": "Tờ lịch lật qua các năm: Dòng chữ năm năm trôi qua in đậm trên nền khung cảnh mùa thu sân trường đại học. {NO_HERO}.",
+    "stickers": [{"at": "5 năm", "value": "5 NĂM", "label": "thù dai truyền kiếp", "side": "L", "y": 320, "target": [0.4, 0.48]}],
+    "impacts": ["5 năm"]
+  },
+  {
+    "scene": "scene05", "at": "Bằng một hệ thống ngôn ngữ",
+    "layout": "Quạ bố mẹ đứng trên tổ chỉ mỏ vào bức vẽ khuôn mặt kẻ thù, giảng dạy truyền khẩu cho những chú quạ con non nớt mới nở.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene05", "at": "Ngược lại",
+    "layout": "Sự đối lập rõ rệt: Một bên là người đàn ông đeo mặt nạ quái vật bị tấn công, một bên là người đeo mặt nạ tổng thống hiền từ được chào đón. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene05", "at": "Dick Cheney",
+    "layout": "Người đàn ông đeo mặt nạ tổng thống hiền từ rải hạt đậu phộng ngon lành, bầy quạ bay quanh thân thiện và đậu lên vai ông. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene05", "at": "Loài quạ không chỉ nhớ",
+    "layout": "{HERO} cầm chiếc kính lúp soi rọi cuốn sổ thù oán và sổ ân nghĩa, nở nụ cười thám tử đầy thâm thúy.",
+    "stickers": [], "impacts": []
+  },
+
+  # --- SCENE 06: PHÁN QUYẾT & KẾT THÚC (10 beats) ---
+  {
+    "scene": "scene06", "at": 0,
+    "layout": "Toàn cảnh phòng xử án ấm áp: Ánh nắng vàng rọi qua cửa sổ kính lớn, không khí căng thẳng biến mất thay bằng sự khâm phục. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene06", "at": "Hành vi của bị cáo",
+    "layout": "{HERO} đứng trên vành móng ngựa, ánh mắt ngời sáng tự tin, ngẩng cao đầu trước toàn thể hội đồng xét xử.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene06", "at": "Tuyên án",
+    "layout": "{JUDGE} mỉm cười gõ nhẹ chiếc búa gỗ tuyên án trắng án, trên bàn là tấm huy chương vàng lấp lánh danh dự.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene06", "at": "Một tràng pháo tay",
+    "layout": "{HERO} được trao tấm huy chương vàng danh dự Kẻ Thông Minh Nhất Bầu Trời Tự Nhiên, pháo hoa giấy tung bay rực rỡ.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene06", "at": "Trí tuệ và khả năng tư duy",
+    "layout": "Bức tranh biểu tượng sự hòa hợp: Con người và loài quạ đen cùng đứng ngắm nhìn bầu trời bao la rộng lớn. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene06", "at": "Lần tới nếu bạn vô tình",
+    "layout": "Một cô bé hoạt hình mỉm cười cúi chào và đặt vài quả óc chó lên bậc thềm cho chú quạ đen đứng gần đó. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene06", "at": "Còn bây giờ",
+    "layout": "Cân đo so sánh hai siêu năng lực: Một bên là bánh xe ô tô bóc hạt óc chó, một bên là bộ nhớ khuôn mặt năm năm truyền kiếp. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene06", "at": "ý kiến bình luận của bạn",
+    "layout": "{HERO} giơ chiếc kính lúp thám tử chỉ vào ô bình luận nhấp nháy bên dưới màn hình, mời gọi khán giả thảo luận.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "scene": "scene06", "at": "Tập 35",
+    "layout": "Khung cảnh đại dương sâu thẳm: Chiếc bóng khổng lồ của Kẻ Thống Trị Đại Dương Cá Voi Sát Thủ lao vút qua với hàm răng sắc nhọn. {NO_HERO}.",
+    "stickers": [{"at": "Tập 35", "value": "TẬP 35", "label": "cá voi sát thủ", "side": "R", "y": 300, "target": [0.7, 0.45]}],
+    "impacts": ["Tập 35"]
+  },
+  {
+    "scene": "scene06", "at": "Sát Thủ Biển Đen",
+    "layout": "Cảnh quay rượt đuổi nghẹt thở dưới biển: Bầy Cá Voi Sát Thủ bơi đồng bộ tạo nên ngọn sóng thần hất văng tảng băng trôi. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  }
+]
+
+# Shorts beats (12 beats)
+shorts_beats = [
+  {
+    "at": 0,
+    "layout": "{HERO_S} mặc áo khoác măng tô thám tử, giơ một ngón cánh cảnh báo khán giả với nụ cười bí hiểm.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "at": "truy sát suốt",
+    "layout": "Hình ảnh gia tộc quạ đen đông đúc đeo kính râm thám tử bay lượn rợp trời tạo thành đội hình truy lùng gắt gao. {NO_HERO}.",
+    "stickers": [{"at": "5 năm", "value": "5 NĂM", "label": "thù dai truyền kiếp", "side": "L", "y": 450, "target": [0.35, 0.45]}],
+    "impacts": ["5 năm"]
+  },
+  {
+    "at": "Quạ Đen sở hữu bộ não",
+    "layout": "Sơ đồ não bộ phát sáng của quạ đen đặt cạnh não tinh tinh với mật độ nơ-ron dày đặc ngang ngửa đứa trẻ bảy tuổi.",
+    "stickers": [{"at": "7 tuổi", "value": "IQ 7 TUỔI", "label": "ngang trẻ em", "side": "R", "y": 420, "target": [0.65, 0.48]}],
+    "impacts": ["7 tuổi"]
+  },
+  {
+    "at": "Ở Nhật Bản",
+    "layout": "{HERO_S} đứng trên cột đèn tín hiệu Shibuya, mỏ ngậm quả óc chó vỏ cứng nhìn dòng xe cộ chạy bên dưới.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "at": "Đèn xanh để xe nghiền",
+    "layout": "Đèn xanh bật sáng: {HERO_S} thả quả óc chó xuống đường, bánh xe tải khổng lồ cán qua làm vỏ hạt nứt toác tung tóe.",
+    "stickers": [{"at": "Đèn xanh", "value": "ĐÈN XANH", "label": "nhờ xe cán hộ", "side": "L", "y": 420, "target": [0.3, 0.45]}],
+    "impacts": ["Đèn xanh"]
+  },
+  {
+    "at": "Đèn đỏ xe dừng hẳn",
+    "layout": "Đèn đỏ bật lên: Dòng xe dừng lại hoàn toàn, {HERO_S} ung dung sà xuống vạch sang đường gắp hạt béo ngậy ăn ngon lành.",
+    "stickers": [{"at": "Đèn đỏ", "value": "ĐÈN ĐỎ", "label": "an toàn tuyệt đối", "side": "R", "y": 420, "target": [0.7, 0.45]}],
+    "impacts": ["Đèn đỏ"]
+  },
+  {
+    "at": "Trong phòng thí nghiệm",
+    "layout": "{HERO_S} gắp từng viên sỏi đặc thả vào ống nghiệm thủy tinh hẹp chứa nước để mực nước dâng lên lấy miếng thịt.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "at": "ngụ ngôn Aesop",
+    "layout": "Cuốn sách ngụ ngôn Aesop mở ra với hình minh họa chú quạ thả sỏi dâng nước chuẩn xác như định luật vật lý.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "at": "Đặc biệt",
+    "layout": "{PROFESSOR} đeo chiếc mặt nạ quái vật bị bầy quạ nhào xuống tập kích báo thù dữ dội khắp sân trường. {NO_HERO}.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "at": "Quạ có thể ghi nhớ",
+    "layout": "Kính lúp phóng to hồ sơ nhận diện khuôn mặt người: Các đường nét góc cạnh trên gương mặt kẻ thù được quạ lưu trữ trong bộ nhớ.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "at": "tả lại mặt kẻ đó",
+    "layout": "Quạ bố mẹ đứng trên cành cây mô tả chi tiết khuôn mặt kẻ thù cho quạ con và cả bầy đàn cùng ghi nhớ.",
+    "stickers": [], "impacts": []
+  },
+  {
+    "at": "Hãy đối xử thật tử tế",
+    "layout": "{HERO_S} mỉm cười thân thiện, nghiêng đầu nháy mắt chào khán giả với một quả óc chó thơm ngon trên cánh.",
+    "stickers": [], "impacts": []
+  }
+]
+
+storyboard = {
+  "_doc": "Storyboard Tập 34 — Quạ Đen (Corvus corone) F3 Phiên Tòa Trí Tuệ. Chạy: python src/episode/build_plans.py projects/tap-34-qua-den",
+  "visual_style": "tỉ lệ {AR}; phong cách Sherlock Noir trinh thám cổ điển thập niên 1920 kết hợp hoạt hình comic 2D whiteboard, nét bút lông mực sắc sảo, chi tiết kính lúp và dấu vết hiện trường tinh tế, màu sắc hoài cổ điểm xuyết vàng hoàng gia và đỏ sáp; NỀN TRẮNG TINH hoàn toàn, không watermark, không logo; chủ thể nằm gọn trong khung, chừa lề trắng",
+  "style_label": "Sherlock Noir & Vintage Newspaper Clipping",
+  "characters": chars,
+  "side_characters": ["JUDGE", "TRUCK", "AESOP_JAR", "PROFESSOR"],
+  "shorts_side_characters": ["PROFESSOR"],
+  "shorts_title_lines": ["TRÍ TUỆ QUÁI VẬT:", "QUẠ ĐEN BÁO THÙ?!"],
+  "skip_numbers": [],
+  "long": long_beats,
+  "shorts": shorts_beats
+}
+
+sb_path = "projects/tap-34-qua-den/specs/storyboard.json"
+with open(sb_path, "w", encoding="utf-8") as f:
+    json.dump(storyboard, f, ensure_ascii=False, indent=2)
+
+print(f"Generated storyboard.json with {len(long_beats)} long beats and {len(shorts_beats)} shorts beats.")

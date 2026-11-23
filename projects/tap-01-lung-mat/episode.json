@@ -1,0 +1,120 @@
+{
+  "episode_no": 1,
+  "animal": "Lửng Mật",
+  "slug": "tap-01-lung-mat",
+  "format": "LEGACY_6CH",
+  "persona": "legacy_hao_hung",
+  "nickname": "Chí Phèo Thảo Nguyên",
+  "sources": [
+    "Guinness World Records: Most Fearless Creature in the World",
+    "Bégin-Heick et al. 2015: Honey badger nicotinic acetylcholine receptor resistance to snake neurotoxins",
+    "Moholoholo Wildlife Rehabilitation Centre: Stoffel the Honey Badger escapes & tool use"
+  ],
+  "whisper_prompt": "Lửng Mật, Honey Badger, Mellivora capensis, Guinness, Stoffel, rắn hổ mang, acetylcholine, 12kg, 6mm, 180 độ, 2 tiếng, sư tử, châu Phi",
+  "display_fix": {
+    "mười hai ki-lô-gam": "12kg",
+    "sáu mi-li-mét": "6mm",
+    "một trăm tám mươi độ": "180 độ",
+    "hai tiếng": "2 tiếng",
+    "mười lăm ki-lô-gam": "15kg",
+    "số một": "số 1"
+  },
+  "longform": {
+    "scenes": [
+      {
+        "id": "scene01",
+        "badge": "PHẦN 1",
+        "banner_title": "CHÍ PHÈO THẢO NGUYÊN",
+        "parts": [
+          "Bạn nghĩ ai mới thực sự là bá chủ tối cao của thảo nguyên hoang dã châu Phi? Là chúa sơn lâm sư tử với tiếng gầm rung chuyển cả núi rừng? Là đàn linh cẩu tàn nhẫn và tham lam, hay những gã khổng lồ như voi và tê giác? Quên tất cả những điều đó đi! Trong từ điển sinh tồn của thế giới hoang dã, có một sinh vật kỳ dị chỉ cao chưa đầy ba mươi centimet, nặng vỏn vẹn mười hai kilôgam, nhưng lại khiến cả một bầy sư tử nhìn thấy từ xa cũng phải toát mồ hôi hột, tự động né sang một bên đường. Giới khoa học đặt tên cho nó là Mellivora capensis. Còn trên giang hồ của muôn loài, nó được phong tặng danh hiệu kẻ Chí Phèo số một hành tinh: Lửng Mật!"
+        ],
+        "chapter_title": "Chí Phèo thảo nguyên: Kẻ khiến sư tử né đường"
+      },
+      {
+        "id": "scene02",
+        "badge": "PHẦN 2",
+        "banner_title": "BẢNG CHỈ SỐ RPG",
+        "parts": [
+          "Bảng chỉ số sinh tồn RPG điên rồ của Lửng Mật với sức mạnh thể chất, độ lì đòn và cảm giác sợ hãi bằng không."
+        ],
+        "chapter_title": "Bảng chỉ số RPG cực hạn của Lửng Mật"
+      },
+      {
+        "id": "scene03",
+        "badge": "PHẦN 3",
+        "banner_title": "GIẢI PHẪU VŨ KHÍ",
+        "parts": [
+          "Giải phẫu ba vũ khí sinh học: Áo khoác da lỏng dày 6mm, khả năng xoay ngược 180 độ và tuyến xạ hương bốc mùi."
+        ],
+        "chapter_title": "Giải phẫu 3 vũ khí sinh học: Áo giáp da 6mm & xoay 180 độ"
+      },
+      {
+        "id": "scene04",
+        "badge": "PHẦN 4",
+        "banner_title": "KHIÊN KHÁNG ĐỘC",
+        "parts": [
+          "Khiên phân tử Acetylcholine: Ngủ 2 tiếng lọc sạch nọc độc rắn hổ mang chúa rồi tỉnh dậy ăn tiếp."
+        ],
+        "chapter_title": "Khiên phân tử Acetylcholine: Ngủ 2 tiếng giải độc rắn hổ mang"
+      },
+      {
+        "id": "scene05",
+        "badge": "PHẦN 5",
+        "banner_title": "THOÁT HIỂM VƯỢT NGỤC",
+        "parts": [
+          "Huyền thoại vượt ngục Stoffel nặn bùn, lăn đá xếp thang trèo tường rào và đại chiến 1 chọi 3 sư tử đực."
+        ],
+        "chapter_title": "Huyền thoại vượt ngục Stoffel & đại chiến 3 sư tử"
+      },
+      {
+        "id": "scene06",
+        "badge": "PHẦN 6",
+        "banner_title": "BÀI HỌC SINH TỒN",
+        "parts": [
+          "Bài học sinh tồn từ gã Chí Phèo thảo nguyên và bật mí quái kiệt đại dương ở tập tiếp theo."
+        ],
+        "chapter_title": "Bài học sinh tồn từ kẻ không biết sợ & bật mí tập tiếp theo"
+      }
+    ]
+  },
+  "shorts": {
+    "target_s": 49.0,
+    "mood": "hao_hung",
+    "text": "[surprise-oh] Với cân nặng chỉ mười hai ki-lô-gam, loài vật này chính là kẻ duy nhất khiến cả bầy sư tử toát mồ hôi né đường! [laughter] Xin giới thiệu Lửng Mật, quái kiệt được Kỷ lục Guinness vinh danh là sinh vật dũng cảm nhất hành tinh. Toàn thân nó được bọc bởi lớp da dày sáu mi-li-mét dai như lốp xe cao su, lỏng lẻo tới mức bị ngoạm chặt gáy vẫn có thể xoay ngược người một trăm tám mươi độ phản đòn! [surprise-wa] Đỉnh cao hơn, nhờ thụ thể thần kinh đột biến kháng độc, khi bị rắn hổ mang cắn trúng, nó chỉ việc nằm ngủ mê hai tiếng rồi tỉnh dậy ăn tiếp con rắn như món tráng miệng! Không chỉ lì đòn, chú lửng Stoffel từng nặn bùn, lăn đá xếp thang trèo tường rào vượt ngục. Một kẻ vừa có giáp cao su, vừa miễn nhiễm độc xà lại không biết sợ, đúng là đại ca giang hồ số một của thế giới hoang dã!"
+  },
+  "seo": {
+    "title": "Lửng Mật: Kẻ Chí Phèo 12kg Chấp 3 Sư Tử & Nhai Nọc Rắn Hổ Mang Chúa!",
+    "hook_paragraph": "Lửng Mật nặng 12kg nhưng được Kỷ lục Guinness vinh danh là sinh vật dũng cảm nhất hành tinh: da cao su 6mm xoay 180 độ, ngủ 2 tiếng giải nọc rắn hổ mang và chuyên gia vượt ngục Stoffel!",
+    "bullets": [
+      "Kỷ lục Guinness sinh vật dũng cảm nhất hành tinh",
+      "Lớp da cao su dày 6mm xoay ngược người 180 độ phản đòn",
+      "Kháng độc thần kinh acetylcholine: ngủ mê 2 tiếng rồi dậy ăn tiếp rắn",
+      "Thiên tài vượt ngục Stoffel nặn bùn lăn đá trèo tường rào"
+    ],
+    "question": "Theo bạn, nếu Lửng Mật đối đầu với một con trăn khổng lồ thì ai sẽ giành chiến thắng? Hãy bình luận nhé!",
+    "next_teaser": "Rái Cá Biển — vẻ ngoài đáng yêu nhưng sở hữu những góc khuất rùng rợn!",
+    "hashtags": [
+      "#độngvật",
+      "#lửngmật",
+      "#VẽChuyệnHoangDã"
+    ],
+    "tags": [
+      "lửng mật",
+      "lung mat",
+      "honey badger",
+      "thế giới động vật",
+      "động vật hoang dã",
+      "vẽ chuyện hoang dã",
+      "kỷ lục guinness"
+    ],
+    "shorts_title": "Chí Phèo 12kg Khiến Cả Bầy Sư Tử Toát Mồ Hôi Né Đường?! 🦡 #độngvật #lửngmật",
+    "shorts_desc": "Lửng Mật nặng chỉ 12kg nhưng sở hữu lớp da cao su 6mm xoay 180 độ, kháng nọc rắn hổ mang ngủ 2 tiếng dậy ăn tiếp và trí khôn vượt ngục đỉnh cao! Kỷ lục Guinness sinh vật dũng cảm nhất hành tinh.\n\n#độngvật #lửngmật #VẽChuyệnHoangDã",
+    "shorts_tags": [
+      "lửng mật",
+      "honey badger",
+      "shorts",
+      "thế giới động vật",
+      "vẽ chuyện hoang dã"
+    ]
+  }
+}

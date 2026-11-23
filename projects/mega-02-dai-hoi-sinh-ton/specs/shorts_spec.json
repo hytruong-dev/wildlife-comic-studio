@@ -1,0 +1,453 @@
+{
+ "episode": "mega-02-dai-hoi-sinh-ton",
+ "title_lines": [
+  "ĐẠI HỘI SINH TỒN #2",
+  "AI LÊN NGÔI VƯƠNG?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 49.75,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/mega-02-dai-hoi-sinh-ton_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  5.49,
+  10.79,
+  15.29,
+  19.15,
+  23.93,
+  29.23,
+  33.71,
+  39.89,
+  43.83,
+  47.49
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.0,
+     "text": "Mười quái kiệt"
+    },
+    {
+     "t": 0.92,
+     "text": "mới. Tám vòng"
+    },
+    {
+     "t": 1.84,
+     "text": "đấu sinh tử."
+    },
+    {
+     "t": 2.88,
+     "text": "Một chiếc vương miện!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 3.69,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 3.94,
+     "text": "Tôm Súng và"
+    },
+    {
+     "t": 4.44,
+     "text": "Lươn Điện được"
+    },
+    {
+     "t": 4.92,
+     "text": "đặt cược sẽ"
+    },
+    {
+     "t": 5.44,
+     "text": "thắng. Còn Bọ"
+    },
+    {
+     "t": 6.4,
+     "text": "Pháo Thủ nửa"
+    },
+    {
+     "t": 7.12,
+     "text": "gam... chuyên gia"
+    },
+    {
+     "t": 8.02,
+     "text": "bảo tham gia"
+    },
+    {
+     "t": 8.5,
+     "text": "cho vui!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 8.99,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 12.12,
+     "side": "R",
+     "y": 640,
+     "value": "GẤP 10 LẦN",
+     "label": "Tạo plasma dưới nước",
+     "target": [
+      0.54,
+      0.52
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 9.24,
+     "text": "Vòng một:"
+    },
+    {
+     "t": 10.32,
+     "text": "Tôm Súng tạo"
+    },
+    {
+     "t": 10.82,
+     "text": "dòng plasma dưới"
+    },
+    {
+     "t": 11.66,
+     "text": "nước hiệu suất"
+    },
+    {
+     "t": 12.12,
+     "text": "gấp 10 lần"
+    },
+    {
+     "t": 12.74,
+     "text": "máy laser!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 13.49,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 15.14,
+     "side": "L",
+     "y": 620,
+     "value": "44 MẶT",
+     "label": "Nhận diện chính xác",
+     "target": [
+      0.58,
+      0.28
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 13.74,
+     "text": "Vòng hai:"
+    },
+    {
+     "t": 14.26,
+     "text": "Cá Cung Thủ"
+    },
+    {
+     "t": 14.64,
+     "text": "nhận diện được"
+    },
+    {
+     "t": 15.14,
+     "text": "44 khuôn mặt"
+    },
+    {
+     "t": 15.94,
+     "text": "người dù không"
+    },
+    {
+     "t": 16.74,
+     "text": "có vỏ não!"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 17.35,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 17.6,
+     "text": "Vòng ba:"
+    },
+    {
+     "t": 18.26,
+     "text": "Gấu Trúc tắm"
+    },
+    {
+     "t": 18.92,
+     "text": "phân ngựa tươi"
+    },
+    {
+     "t": 19.4,
+     "text": "để khóa thụ"
+    },
+    {
+     "t": 19.88,
+     "text": "thể lạnh,"
+    },
+    {
+     "t": 20.46,
+     "text": "còn Quỷ Gai"
+    },
+    {
+     "t": 21.0,
+     "text": "hất cát ẩm"
+    },
+    {
+     "t": 21.62,
+     "text": "lên lưng giải"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 22.13,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 22.2,
+     "text": "khát! Vòng bốn:"
+    },
+    {
+     "t": 23.3,
+     "text": "Hà Mã bơm"
+    },
+    {
+     "t": 23.96,
+     "text": "400kg Silicon mỗi"
+    },
+    {
+     "t": 25.02,
+     "text": "ngày xuống sông"
+    },
+    {
+     "t": 25.58,
+     "text": "nuôi cả hệ"
+    },
+    {
+     "t": 26.26,
+     "text": "sinh thái hồ"
+    },
+    {
+     "t": 26.76,
+     "text": "châu Phi!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 27.43,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 27.68,
+     "text": "Vòng năm:"
+    },
+    {
+     "t": 28.4,
+     "text": "Lươn Điện bỏ"
+    },
+    {
+     "t": 28.88,
+     "text": "lối sống cô"
+    },
+    {
+     "t": 29.4,
+     "text": "độc, hợp tác"
+    },
+    {
+     "t": 30.18,
+     "text": "săn mồi theo"
+    },
+    {
+     "t": 30.68,
+     "text": "bầy đàn hơn"
+    },
+    {
+     "t": 31.2,
+     "text": "100 con!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 31.91,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 32.16,
+     "text": "Chung kết:"
+    },
+    {
+     "t": 32.48,
+     "text": "ai mang lại"
+    },
+    {
+     "t": 33.02,
+     "text": "công nghệ đỉnh"
+    },
+    {
+     "t": 33.52,
+     "text": "cao nhất cho"
+    },
+    {
+     "t": 34.0,
+     "text": "loài người?"
+    },
+    {
+     "t": 34.9,
+     "text": "Nấm lông lười"
+    },
+    {
+     "t": 35.42,
+     "text": "diệt ung thư"
+    },
+    {
+     "t": 35.98,
+     "text": "hay vòi phun"
+    },
+    {
+     "t": 36.62,
+     "text": "tên lửa Bọ"
+    },
+    {
+     "t": 37.08,
+     "text": "Pháo Thủ?"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 38.09,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 38.34,
+     "text": "Và tân vương"
+    },
+    {
+     "t": 38.72,
+     "text": "Mùa 2 là..."
+    },
+    {
+     "t": 39.32,
+     "text": "chú bọ nửa"
+    },
+    {
+     "t": 40.18,
+     "text": "gam từng bị"
+    },
+    {
+     "t": 40.62,
+     "text": "gạch tên ngay"
+    },
+    {
+     "t": 41.18,
+     "text": "từ vòng cân ký!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 42.03,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 42.28,
+     "text": "Bạn có đồng"
+    },
+    {
+     "t": 42.78,
+     "text": "ý không?"
+    },
+    {
+     "t": 43.68,
+     "text": "Xem trọn tám"
+    },
+    {
+     "t": 44.32,
+     "text": "vòng đấu trong"
+    },
+    {
+     "t": 44.82,
+     "text": "video dài nhé,"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 45.69,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 45.94,
+     "text": "vì ở đây"
+    },
+    {
+     "t": 46.3,
+     "text": "có mười quái"
+    },
+    {
+     "t": 46.78,
+     "text": "kiệt mới,"
+    },
+    {
+     "t": 47.64,
+     "text": "tám vòng đấu"
+    },
+    {
+     "t": 48.26,
+     "text": "sinh tử,"
+    },
+    {
+     "t": 48.66,
+     "text": "và một chiếc"
+    },
+    {
+     "t": 49.14,
+     "text": "vương miện!"
+    }
+   ]
+  }
+ ]
+}

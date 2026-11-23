@@ -1,0 +1,350 @@
+{
+ "episode_no": 16,
+ "animal": "Tôm Súng",
+ "slug": "tap-16-tom-sung",
+ "format": "F2",
+ "persona": "ky_su_vu_khi",
+ "_angle_from_roadmap": "Giải mã khẩu đại bác kẹp nước 218 dB làm cá chết đứng từ xa, làm nhiễu sóng định vị tàu ngầm quân sự.",
+ "_shorts_idea_from_roadmap": "Cú búng càng tạo ra ánh sáng và tiếng nổ làm điếc cả cảm biến tàu ngầm!",
+ "nickname": "Pháo Thủ Tí Hon",
+ "sources": [
+  "Versluis, M. et al. (2000). How at 5,000 K, snapping shrimp make flash of light. Science, 289(5487), 2114-2117 (Nhiệt độ 4.700°C - 5.000°C và hiện tượng phát quang sonoluminescence)",
+  "Lohse, D., Schmitz, B., & Versluis, M. (2001). Snapping shrimp make flash of light. Nature, 413, 477-478 (Cơ chế bọt khí cavitation sụp đổ dưới 1 mili-giây)",
+  "Au, W. W., & Banks, K. (1998). The acoustics of the snapping shrimp Synalpheus paraneomeris. J. Acoust. Soc. Am., 103(1), 41-47 (Cường độ âm thanh 218 dB)",
+  "Johnson, M. W. et al. (1947). The role of snapping shrimp in military underwater acoustics. US Navy Reports (Thế chiến II làm nhiễu hệ thống sonar tàu ngầm)",
+  "Karplus, I. (1987). The association between gobiid fishes and burrowing alpheid shrimps. Oceanogr. Mar. Biol. Ann. Rev., 25, 507-562 (Cộng sinh Tôm Súng và Cá Bống)"
+ ],
+ "whisper_prompt": "Tôm Súng, Pháo Thủ Tí Hon, Alpheidae, 218 dB, 140 dB, 160 dB, 8.000g, 100 km/h, 28 m/s, 5.000°C, 4.700°C, 5.500°C, Cavitation, Sonoluminescence, Sonar, UCLA, Thái Bình Dương, Thế chiến II, Cá Bống, 860V, Lươn Điện",
+ "display_fix": {
+  "hai trăm mười tám đề-xi-ben": "218 dB",
+  "Hai trăm mười tám đề-xi-ben": "218 dB",
+  "một trăm bốn mươi đề-xi-ben": "140 dB",
+  "Một trăm bốn mươi đề-xi-ben": "140 dB",
+  "một trăm sáu mươi đề-xi-ben": "160 dB",
+  "Một trăm sáu mươi đề-xi-ben": "160 dB",
+  "năm ngàn độ C": "5.000°C",
+  "Năm ngàn độ C": "5.000°C",
+  "bốn ngàn bảy trăm độ C": "4.700°C",
+  "Bốn ngàn bảy trăm độ C": "4.700°C",
+  "năm ngàn năm trăm độ C": "5.500°C",
+  "Năm ngàn năm trăm độ C": "5.500°C",
+  "hàng ngàn độ C": "hàng ngàn độ C",
+  "Hàng ngàn độ C": "hàng ngàn độ C",
+  "tám ngàn gờ": "8.000g",
+  "Tám ngàn gờ": "8.000g",
+  "chín gờ": "9g",
+  "Chín gờ": "9g",
+  "một trăm cây số một giờ": "100 km/h",
+  "Một trăm cây số một giờ": "100 km/h",
+  "hai mươi tám mét một giây": "28 m/s",
+  "Hai mươi tám mét một giây": "28 m/s",
+  "ba đến năm xăng-ti-mét": "3-5cm",
+  "Ba đến năm xăng-ti-mét": "3-5cm",
+  "bốn xăng-ti-mét": "4cm",
+  "Bốn xăng-ti-mét": "4cm",
+  "năm xăng-ti-mét": "5cm",
+  "Năm xăng-ti-mét": "5cm",
+  "ba xăng-ti-mét": "3cm",
+  "Ba xăng-ti-mét": "3cm",
+  "hai xăng-ti-mét": "2cm",
+  "vài mi-li-mét": "vài mm",
+  "hai mi-li-mét": "2mm",
+  "một mili-giây": "1 mili-giây",
+  "Một mili-giây": "1 mili-giây",
+  "nửa mili-giây": "0,5 mili-giây",
+  "năm phút": "5 phút",
+  "hai mét": "2m",
+  "Hai mét": "2m",
+  "năm một ngàn chín trăm bốn mươi hai": "năm 1942",
+  "Năm một ngàn chín trăm bốn mươi hai": "Năm 1942",
+  "Thế chiến thứ hai": "Thế chiến II",
+  "Thế chiến hai": "Thế chiến II",
+  "sáu ngàn": "6.000",
+  "Sáu ngàn": "6.000",
+  "tám trăm sáu mươi Vôn": "860V",
+  "Tám trăm sáu mươi Vôn": "860V",
+  "hai mươi tư trên bảy": "24/7",
+  "Tập mười sáu": "Tập 16",
+  "Tập mười bảy": "Tập 17",
+  "Tập mười lăm": "Tập 15",
+  "số mười sáu": "số 16",
+  "Số mười sáu": "Số 16",
+  "mười sáu": "16",
+  "Mười sáu": "16",
+  "Ca-vi-tây-sơn": "Cavitation",
+  "Sô-nô-lu-mi-nét-xơn": "Sonoluminescence",
+  "Xô-na": "Sonar",
+  "U-C-L-A": "UCLA",
+  "Al-phe-i-đe": "Alpheidae",
+  "hai mươi": "20",
+  "ba mươi": "30",
+  "bốn mươi": "40",
+  "năm mươi": "50",
+  "sáu mươi": "60",
+  "bảy mươi": "70",
+  "tám mươi": "80",
+  "chín mươi": "90",
+  "một trăm": "100",
+  "gấp đôi": "gấp đôi",
+  "gấp ba": "gấp ba",
+  "gấp mười": "gấp 10",
+  "hàng triệu năm": "hàng triệu năm",
+  "hàng triệu": "hàng triệu"
+ },
+ "voice": {},
+ "art": {
+  "decor": "tiny mechanical gears, water bubble sparks, and military crosshairs",
+  "shorts_mascot": "A tiny cute cartoon pistol shrimp wearing a bright yellow engineer hard hat, triumphantly posing with its giant robotic-looking claw that emits glowing spark bubbles",
+  "thumb_bg": "dark dramatic ocean trench with turquoise underwater glowing light beams and explosive cavitation bubble sparks",
+  "thumb_title": [
+   "ĐẠI BÁC 218 dB?!",
+   "NÓNG 5000 ĐỘ C!"
+  ],
+  "thumb_scene": "giant energetic cartoon pistol shrimp wearing yellow safety helmet snapping its massive claw, shooting a blinding blue plasma shockwave towards a startled submarine",
+  "thumb_gag": "a tiny confused clownfish wearing broken earmuffs floating dizzily with spiral eyes"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "HỒ SƠ MẬT",
+    "banner_title": "ĐẠI BÁC 218 DECIBEL PHÁO THỦ",
+    "chapter_title": "Hồ sơ vũ khí: Pháo Thủ Tí Hon 4cm bắn tia sóng âm 218 dB",
+    "hook": "SINH VẬT 4CM SỞ HỮU HỎA LỰC TO HƠN ĐỘNG CƠ PHẢN LỰC",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Báo cáo thử nghiệm vũ khí tối mật cấp độ đỏ. Mở khóa toàn bộ dữ liệu lưu trữ! Toàn đội kỹ thuật hãy chuẩn bị sẵn thiết bị bảo hộ thính giác, bởi vì cỗ máy hủy diệt mà chúng ta giải mã hôm nay sẽ làm đảo lộn hoàn toàn mọi định luật vật lý mà bạn từng biết. [surprise-oh] Quên đi những hàm răng cá mập hay xúc tu bạch tuộc khổng lồ, hãy nhìn xuống một góc đá ngầm tối tăm dưới đáy đại dương!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Đối tượng mang mã định danh số mười sáu của chúng ta có ngoại hình đánh lừa thị giác cực độ: Chiều dài cơ thể chỉ vỏn vẹn từ ba đến năm xăng-ti-mét, nặng chưa đầy vài gam, trông yếu ớt chẳng khác nào một con tép riu bơi lội trong hồ cá cảnh. [laughter] Nhưng giới sinh học hải quân quốc tế lại đặt cho gã một biệt danh vô cùng đáng sợ: Pháo Thủ Tí Hon, hay còn gọi là Tôm Súng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Lý do khiến gã tí hon này được xếp vào hàng ngũ vũ khí tối thượng nằm ở chiếc càng bên phải dị dạng to bằng một nửa chiều dài cơ thể. [surprise-wa] Mỗi khi chiếc càng này đóng sập lại, nó tạo ra một xung âm thanh kinh hoàng lên tới hai trăm mười tám đề-xi-ben! Để các chuyên viên kỹ thuật dễ hình dung, tiếng động cơ máy bay phản lực cất cánh gầm rú ở mức một trăm bốn mươi đề-xi-ben, còn phát súng trường bắn sát màng nhĩ chỉ đạt một trăm sáu mươi đề-xi-ben!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Âm thanh hai trăm mười tám đề-xi-ben của một con tôm dài bốn xăng-ti-mét đủ sức xé toạc màng nhĩ con người nếu lặn quá gần, và biến nó thành một trong những sinh vật tạo ra âm thanh lớn nhất trên toàn bộ hành tinh Trái Đất, sánh ngang với những tiếng gầm xuyên đại dương của loài cá voi nhà táng khổng lồ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hôm nay chúng ta sẽ cùng tháo dỡ từng chi tiết cơ khí bên trong chiếc càng súng độc nhất vô nhị này để xem: [surprise-oh] Làm thế nào một sinh vật bé bằng ngón tay lại có thể tạo ra hỏa lực rung chuyển cả một vùng biển?",
+      "mood": "tram_bi_an"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "BẢN VẼ CƠ KHÍ",
+    "banner_title": "GIA TỐC 8000G VÀ CƠ CHẾ NẠP ĐẠN",
+    "chapter_title": "Bản vẽ cơ khí: Càng súng pit-tông và gia tốc khủng 8.000g",
+    "hook": "BẬT MÍ CƠ CHẾ KẸP KHÔNG BẮN ĐẠN VẬT LÝ",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Hãy trải bản vẽ kỹ thuật chi tiết của chiếc càng súng lên bàn phân tích! [surprise-oh] Đa số mọi người đều lầm tưởng Tôm Súng dùng chiếc càng khổng lồ của mình để kẹp trực tiếp vào cổ con mồi hoặc bắn ra một mảnh xương nhọn hoắt như súng phóng lao. Quên giả thuyết nghiệp dư đó đi! Cỗ máy này hoạt động theo nguyên lý cơ học chất lỏng phức tạp hơn thế gấp bội phần.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Càng súng của Pháo Thủ Tí Hon gồm hai nửa bất đối xứng: Nửa dưới cố định có một rãnh lõm sâu chứa nước, trong khi nửa trên di động sở hữu một mấu lồi hình pit-tông đặc bằng chất sừng cứng như thép nguội. Khi chuẩn bị khai hỏa, cơ bắp bên trong càng co rút cực đại, kéo nửa trên ngửa ra sau một góc chín mươi độ và khóa chặt vào một cái chốt hãm sinh học tự nhiên!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Thời điểm chốt hãm mở bung, toàn bộ năng lượng đàn hồi tích lũy được giải phóng trong chưa đầy nửa mili-giây! Mấu lồi pit-tông lao thẳng vào rãnh nước với vận tốc lên tới một trăm cây số một giờ, tương đương hai mươi tám mét một giây. [surprise-wa] Cú đóng sập thần tốc này tạo ra mức gia tốc kỷ lục lên tới tám ngàn gờ! Hãy nhớ rằng phi công lái máy bay chiến đấu tối tân chỉ cần chịu gia tốc chín gờ là mạch máu đã dồn xuống chân và ngất lịm!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ủa các anh kỹ sư ơi, em bơi cách nó tận hai gang tay mà sao sóng đánh gãy cả vây lưng thế này?",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "[laughter] Đúng như chú cá con ngơ ngác vừa than vãn! Khi mấu lồi pit-tông dập cực mạnh vào rãnh hẹp, nó ép toàn bộ lượng nước bên trong phụt ra ngoài thành một tia nước phản lực siêu tốc. Cơ chế ngòi nổ đàn hồi này bền bỉ đến mức Tôm Súng có thể búng liên tục hàng ngàn lần mà càng không hề bị nứt mỏi hay thoái hóa khớp sụn! Nhưng điều điên rồ nhất vẫn chưa dừng lại ở đó, bởi vì chính tia nước phản lực này mới là ngòi nổ kích hoạt quả bom năng lượng tiếp theo!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "HỎA LỰC SIÊU NHIỆT",
+    "banner_title": "BỌT KHÍ 5000 ĐỘ VÀ CHỚP SÁNG",
+    "chapter_title": "Hỏa lực siêu nhiệt: Bọt khí 5.000°C nóng ngang bề mặt Mặt Trời",
+    "hook": "BỌT KHÍ VỠ NẮNG TƯƠNG ĐƯƠNG BỀ MẶT MẶT TRỜI",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Bây giờ, chúng ta bước vào giai đoạn nguy hiểm nhất của cuộc thử nghiệm vũ khí: Hiện tượng vật lý mang tên bong bóng Ca-vi-tây-sơn! [surprise-oh] Khi tia nước từ càng Tôm Súng bắn ra với vận tốc một trăm cây số một giờ, áp suất cục bộ xung quanh dòng chảy tụt dốc không phanh xuống dưới cả áp suất bốc hơi của nước biển. Hiện tượng tụt áp cực hạn này khiến nước bốc hơi tức thì ở nhiệt độ thường, tạo ra một bọt khí chân không li ti có đường kính chỉ vài mi-li-mét!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Bọt khí này lao vút đi với tốc độ xé toạc dòng nước. Nhưng khi nó vừa bay được khoảng vài xăng-ti-mét, áp suất khổng lồ của khối nước đại dương xung quanh lập tức ép chặt và nghiền nát bọt khí chân không này! Bọt khí sụp đổ và nổ tung trong thời gian chỉ tính bằng một phần tỷ giây!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Báo cáo kỹ sư trưởng, cảm biến quang phổ ghi nhận nhiệt độ lõi bọt khí vừa chạm mốc năm ngàn độ C, chíp đo quang đã nổ tung rồi ạ!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-wa] Các chuyên viên kỹ thuật không hề nghe nhầm đâu! Theo công bố chính thức trên tạp chí khoa học danh tiếng Science, sự sụp đổ đột ngột của bọt khí Ca-vi-tây-sơn nén ép các phân tử khí đến mức sinh nhiệt từ bốn ngàn bảy trăm độ C đến năm ngàn độ C! Nhiệt độ này xấp xỉ với nhiệt độ năm ngàn năm trăm độ C trên bề mặt của chính Mặt Trời!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Kèm theo nhiệt độ bề mặt Mặt Trời là một chớp sáng xanh lơ lóe lên trong tích tắc, hiện tượng mà giới vật lý gọi là Sô-nô-lu-mi-nét-xơn, tức là ánh sáng sinh ra từ sóng âm thanh! Sóng xung kích tỏa ra từ vụ nổ bọt khí đủ sức làm choáng váng hoặc tiêu diệt gọn gàng một con cá nhỏ hay làm vỡ nát mai cua cứng cách xa hai xăng-ti-mét mà ngòi nổ Tôm Súng thậm chí chưa từng chạm vào người con mồi! Đó là lý do vì sao các bảo tàng thủy cung không bao giờ dám nuôi Tôm Súng trong các bể kính thông thường, vì cú nổ bọt khí ở cự ly gần có thể tạo ra vi chấn làm rạn nứt cả kính cường lực dày!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "HỒ SƠ TÁC CHIẾN",
+    "banner_title": "VỤ ÁN ĐIẾC SONAR HẢI QUÂN MỸ",
+    "chapter_title": "Hồ sơ tác chiến: Đàn tôm rang bắp làm điếc radar tàu ngầm Thế chiến II",
+    "hook": "HẢI QUÂN MỸ ĐIÊN ĐẦU VÌ TIẾNG BỎNG NGÔ ĐÁY BIỂN",
+    "mood": "nghiem_trang_gia",
+    "parts": [
+     {
+      "text": "Lật mở hồ sơ tác chiến lịch sử năm một ngàn chín trăm bốn mươi hai giữa đỉnh điểm Thế chiến thứ hai tại mặt trận Thái Bình Dương! [surprise-oh] Hải quân Hoa Kỳ bắt đầu trang bị hệ thống định vị thủy âm Xô-na tối tân nhất thời bấy giờ cho toàn bộ hạm đội tàu ngầm và tàu khu trục. Mục tiêu tác chiến là lắng nghe âm thanh động cơ chân vịt của tàu ngầm đối phương ẩn nấp dưới lòng biển sâu.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Bản tin đặc biệt từ trạm tác chiến Thái Bình Dương: Toàn bộ hệ thống cảm biến âm thanh đang bị gây nhiễu trắng! Đáy biển phát ra tiếng nổ liên thanh như hàng vạn máy súng đang bắn đồng loạt!",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "[laughter] Thủy thủ đoàn hoang mang cực độ! Thay vì nghe thấy tiếng ù ù trầm đục của tàu ngầm phe địch, trên tai nghe của các nhân viên Xô-na liên tục dội về những âm thanh lách tách đinh tai nhức óc, nghe chẳng khác nào ai đó đang đổ hàng triệu gói bắp ngô vào lò vi sóng khổng lồ rồi rang nổ liên tục dưới đáy biển!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bộ chỉ huy quân sự Mỹ lập tức đặt diện tình nghi vào một loại vũ khí gây nhiễu sóng âm bí mật của phe đối phương. Họ phải khẩn cấp mời các nhà sinh vật học và chuyên gia âm thanh từ Đại học U-C-L-A đến khảo sát thực địa. [surprise-wa] Và kết quả điều tra khiến các tướng lĩnh quân sự phải ôm đầu cười trừ: Thủ phạm phá hoại hệ thống radar trị giá hàng triệu đô la không phải vũ khí tối mật nào, mà chính là hàng triệu con Pháo Thủ Tí Hon Tôm Súng đang đua nhau búng càng săn mồi dưới rạn san hô!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Về sau, chính các thuyền trưởng tàu ngầm Mỹ đã tận dụng sự cố này như một chiến thuật ngụy trang tài tình: Họ thường xuyên chủ động lái tàu ngầm ẩn nấp sâu vào các rạn san hô nơi bầy Tôm Súng đang nổ đại bác liên thanh, để âm thanh hai trăm mười tám đề-xi-ben của chúng che giấu hoàn toàn tiếng động cơ tàu ngầm trước sự lùng sục của đối phương!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "HỢP TÁC TÁC CHIẾN",
+    "banner_title": "LÍNH GÁC CÁ BỐNG VÀ TỬ HUYỆT",
+    "chapter_title": "Hợp tác tác chiến: Lính gác cá bống và tử huyệt rụng càng",
+    "hook": "MÙ DỞ ĐÀO HẦM THUÊ VỆ SĨ CÁ BỐNG BẢO VỆ",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Một vũ khí hỏa lực hạng nặng dù uy lực đến đâu cũng luôn tồn tại những lỗ hổng kỹ thuật chết người. Và tử huyệt số một của Pháo Thủ Tí Hon chính là: [surprise-oh] Gã gần như mù tịt! Lớp vỏ giáp trên đầu phát triển quá đà đã che khuất gần như toàn bộ nhãn cầu, khiến thị lực của Tôm Súng vô cùng mờ mạt, chỉ phân biệt được sáng tối mà không nhìn rõ hình thù kẻ thù đang tiến lại gần.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Để khắc phục lỗi thiết kế tai hại này, Tôm Súng đã ký một hợp đồng liên minh quân sự đỉnh cao với loài Cá Bống biển! Cá Bống có đôi mắt lồi to tròn cực kỳ tinh tường, đảm nhận vị trí trinh sát canh gác cửa hang hai mươi tư trên bảy. Trong khi đó, Tôm Súng dùng chiếc râu dài của mình liên tục chạm nhẹ vào vây đuôi của Cá Bống để nhận tín hiệu rung động.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Mỗi khi phát hiện bóng dáng kẻ săn mồi nguy hiểm, Cá Bống chỉ cần quẫy nhẹ đuôi báo động: [surprise-wa] Tôm Súng lập tức lùi tọt vào hang sâu an toàn, đổi lại Cá Bống được quyền dọn vào ở ké miễn phí trong căn hầm kiên cố do chính Tôm Súng cặm cụi đào bới suốt ngày đêm! Một hợp đồng đôi bên cùng có lợi mẫu mực của tự nhiên.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Báo cáo thử nghiệm độ bền: Nếu khẩu đại bác bên phải bị gãy rụng thì cỗ máy này có tự hủy luôn không?",
+      "cast": "ga_khong_lo"
+     },
+     {
+      "text": "[laughter] Đây chính là cơ chế đảo chiều kỳ diệu nhất của tạo hóa! Nếu trong giao chiến chiếc càng súng khổng lồ bị đứt rời, chiếc càng gắp nhỏ xíu bên trái sẽ lập tức nhận lệnh sinh học: Nó bắt đầu phình to dần và biến đổi thành một khẩu đại bác mới toanh sau vài lần lột xác! Còn tại vị trí chiếc càng cũ bị gãy, một chiếc càng gắp nhỏ sẽ mọc lại thay thế. Tuy nhiên, mỗi khi lột xác thì toàn bộ cơ thể mềm oặt như cọng bún, đại bác mất hoàn toàn tác dụng. Trong những ngày hiểm nghèo đó, gã pháo thủ lừng danh đành ngoan ngoãn nép mình sau lưng chú cá bống canh cửa, chờ lớp vỏ giáp cứng cáp trở lại!",
+      "mood": "bi_hai"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "BÁO CÁO KỸ THUẬT",
+    "banner_title": "BÁO CÁO KỸ THUẬT VÀ TẬP KẾ TIẾP",
+    "chapter_title": "Báo cáo kỹ thuật: Bài học kích thước và bóng đen 860V tập sau",
+    "hook": "BÀI HỌC VŨ KHÍ TỐI THƯỢNG VÀ THỬ THÁCH 860 VÔN",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Báo cáo tổng kết thử nghiệm kỹ thuật số mười sáu: Sinh vật bé nhỏ Tôm Súng để lại cho giới khoa học một bài học công nghệ vô cùng sâu sắc. Kích thước cơ thể chưa bao giờ là thước đo duy nhất cho sức mạnh sinh tồn. Đôi khi những hỏa lực khủng khiếp và tinh vi nhất của tự nhiên lại được ẩn giấu bên trong một thân xác tí hon khiêm nhường dưới đáy biển sâu.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Chính cơ chế nén bọt khí Ca-vi-tây-sơn và hiện tượng phát quang âm thanh của Pháo Thủ Tí Hon đã và đang mở ra cho các kỹ sư hiện đại vô số ứng dụng đột phá trong công nghệ làm sạch sóng siêu âm, y học tán sỏi thận và động cơ phản lực chất lỏng tương lai!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "[surprise-oh] Bạn ấn tượng nhất với điều gì ở Pháo Thủ Tí Hon Tôm Súng: Cú nổ hai trăm mười tám đề-xi-ben làm điếc tai hải quân, hay bọt khí nóng năm ngàn độ C ngang bề mặt Mặt Trời? Hãy để lại ý kiến bình luận của đội kỹ thuật bên dưới nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và bây giờ, hãy hướng ngòi bút về phân cảnh kết thúc bí ẩn! Trong tập tiếp theo, chúng ta sẽ rời xa đáy biển mặn để tiến vào vùng nước ngọt đục ngầu của lưu vực rừng rậm Amazon. [surprise-wa] Hãy chiêm ngưỡng một bóng đen bí ẩn uốn lượn dài tới hai mét! Một sinh vật trơn trượt không hề có răng nanh nhọn hoắt hay nọc độc chết người, nhưng bên trong cơ thể lại chứa tới sáu ngàn tế bào pin sinh học nối tiếp nhau, sẵn sàng phóng ra luồng xung điện kinh hoàng lên tới tám trăm sáu mươi Vôn! Cú giật điện đủ sức đánh ngất lịm cả cá sấu khổng lồ và ngựa trưởng thành ngay dưới dòng nước! Nhưng điều kỳ lạ nhất là tại sao chính bản thân sinh vật này lại không hề bị điện giật? Đố các chuyên viên kỹ thuật biết danh tính của cỗ máy phát điện sống bí ẩn này là ai? Hãy viết ngay câu trả lời của bạn dưới phần bình luận nhé!",
+      "mood": "tram_bi_an"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Cảnh báo thử nghiệm vũ khí! Bạn có tin một sinh vật bé nhỏ dài chưa đầy bốn xăng-ti-mét lại sở hữu hỏa lực nổ to hơn cả động cơ máy bay phản lực? Đây là Tôm Súng, hay còn gọi là Pháo Thủ Tí Hon của các rạn san hô nhiệt đới! Thứ nhất, chiếc càng súng khổng lồ của nó có thể kẹp lại với gia tốc kinh hoàng tám ngàn gờ, tạo ra âm thanh lên tới hai trăm mười tám đề-xi-ben làm rung chuyển đáy biển! Thứ hai, cú kẹp phụt ra tia nước phản lực xé toạc áp suất, sinh ra bọt khí phát nổ ở nhiệt độ gần năm ngàn độ C, nóng ngang bề mặt Mặt Trời và phát ra chớp sáng lóe mắt! Thứ ba, vào Thế chiến thứ hai, hàng triệu con tôm súng đã đồng thanh nổ càng làm điếc đặc toàn bộ hệ thống định vị thủy âm Sonar của Hải quân Hoa Kỳ! Dù sở hữu đại bác hủy diệt nhưng mắt nó lại gần như mù tịt, phải thuê vệ sĩ cá bống canh cửa để đổi lấy chỗ ở an toàn! Đừng bao giờ đánh giá thấp những kẻ tí hon, bởi hỏa lực khủng khiếp nhất đôi khi lại nằm trong bàn tay nhỏ bé nhất!"
+ },
+ "seo": {
+  "title": "Vũ Khí 218 dB Nóng 5.000°C Làm Điếc Sonar Hải Quân Mỹ?! | Tôm Súng | Tập 16",
+  "hook_paragraph": "Tôm Súng (Pistol Shrimp) chỉ dài 4cm nhưng sở hữu chiếc càng đại bác búng ra âm thanh 218 dB, tạo bọt khí Cavitation nóng tới 5.000°C ngang bề mặt Mặt Trời và từng làm điếc đặc hệ thống Sonar của Hải quân Mỹ trong Thế chiến II! Giải mã hồ sơ vũ khí tối mật của Pháo Thủ Tí Hon.",
+  "bullets": [
+   "Càng súng kẹp nước tạo xung âm thanh 218 dB to hơn động cơ máy bay phản lực",
+   "Gia tốc 8.000g và cơ chế pit-tông bắn tia nước vận tốc 100 km/h",
+   "Bọt khí Cavitation sụp đổ đạt nhiệt độ 5.000°C phát quang Sonoluminescence",
+   "Vụ án Thế chiến II năm 1942: Đàn tôm san hô làm tê liệt hệ thống Sonar Hải quân Mỹ",
+   "Hợp đồng liên minh với vệ sĩ Cá Bống và cơ chế đảo chiều mọc lại càng súng",
+   "Bật mí bóng đen bí ẩn tập tiếp theo: Sinh vật phóng điện 860V sông Amazon"
+  ],
+  "question": "Bạn ấn tượng nhất với điều gì ở Pháo Thủ Tí Hon Tôm Súng: Cú nổ 218 dB làm điếc radar tàu ngầm, hay bọt khí nóng 5.000°C ngang bề mặt Mặt Trời? Đoán xem bóng đen tập sau là loài nào nhé!",
+  "next_teaser": "sinh vật Amazon phóng luồng điện 860V giật ngất cá sấu và ngựa",
+  "hashtags": [
+   "#TomSung",
+   "#PistolShrimp",
+   "#TheGioiDongVat",
+   "#VeChuyenHoangDa",
+   "#WhiteboardAnimation"
+  ],
+  "tags": [
+   "tôm súng",
+   "tom sung",
+   "pistol shrimp",
+   "snapping shrimp",
+   "tôm súng 218 db",
+   "tôm súng bắn bọt khí 5000 độ",
+   "cavitation",
+   "sonoluminescence",
+   "pháo thủ tí hon",
+   "tôm súng hải quân mỹ",
+   "tôm súng và cá bống",
+   "động vật hài hước",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation việt nam"
+  ],
+  "shorts_title": "Tại Sao Con Tôm 4cm Này Lại Bắn Nổ To Hơn Động Cơ Máy Bay?! 🦐 #shorts #tomsung",
+  "shorts_desc": "Tôm Súng chỉ dài 4cm nhưng búng càng tạo âm thanh 218 dB, bọt khí nổ nóng 5.000°C ngang Mặt Trời và từng làm điếc hệ thống Sonar Hải quân Mỹ! Khám phá bí mật Pháo Thủ Tí Hon.",
+  "shorts_tags": [
+   "tôm súng",
+   "tom sung",
+   "pistol shrimp",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ],
+  "en_title": "The 4cm Pistol Shrimp That Snaps at 218 dB & 5,000°C Sun Plasma?! | Ep 16",
+  "en_hook": "The tiny 4cm Pistol Shrimp creates a deafening 218 dB shockwave and a collapsing cavitation bubble hotter than 5,000°C - matching the surface of the Sun! Learn how this reef gunslinger blinded US Navy submarine sonars in World War II.",
+  "en_chapters": [
+   "Secret Weapon: 4cm shrimp with a 218 dB sonic cannon",
+   "Mechanical Blueprint: 8,000g piston snap mechanism",
+   "Hyperthermal Firepower: 5,000°C cavitation bubble and light flash",
+   "Military Record: Blinded US Navy sonars in 1942",
+   "Goby Fish Bodyguard & Regenerative Claw Switch",
+   "Technical Debrief & Next Episode 860V Teaser"
+  ],
+  "en_shorts_title": "How a 4cm Shrimp Shoots Louder Than a Jet Engine?! 🦐 #shorts #pistolshrimp"
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "title_lines": [
+  "MÔNG BỌC THÉP ÉP",
+  "NÁT SỌ CHÓ HOANG?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "chuyên bẫy lừa chó",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "Xin giới thiệu Gấu",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "35kg",
+     "side": "R",
+     "y": 620,
+     "value": "35 KG",
+     "label": "xe tăng đào hầm",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Toàn bộ vùng mông",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "at": "3cm",
+     "side": "L",
+     "y": 620,
+     "value": "DÀY 3CM",
+     "label": "khiên sụn bọc thép",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "khi bị rượt đuổi,",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "Chưa hết, nó là",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "Nhờ đoạn ruột già",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "mỗi đêm nó đúc",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "at": "100",
+     "side": "R",
+     "y": 650,
+     "value": "100 VIÊN",
+     "label": "gạch phân lập phương",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Khi cần chạy trốn,",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "at": "40km/h",
+     "side": "L",
+     "y": 680,
+     "value": "40 KM/H",
+     "label": "nước rút thần tốc",
+     "target": [
+      0.38,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Một cỗ xe bọc",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  }
+ ]
+}

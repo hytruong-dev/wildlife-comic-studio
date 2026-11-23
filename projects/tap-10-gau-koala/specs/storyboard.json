@@ -1,0 +1,906 @@
+{
+ "_doc": "Storyboard Tập 10 Gấu Koala — sinh specs/longform_plan.json, shorts_plan.json, image_prompts.json bằng build_plans.py.",
+ "characters": {
+  "HERO": "chú gấu Koala hoạt hình mập mạp tròn xoe: bộ lông màu xám ấm áp, hai tai tròn to xù lông màu trắng ở mép tai, chiếc mũi to hình quả lê màu đen bóng ngộ nghĩnh, mắt to tròn đen láy luôn mở ngơ ngác, mặc chiếc áo choàng bệnh nhân màu trắng có in hình chữ thập đỏ nhỏ xíu ở ngực trái",
+  "HERO_S": "chú Koala mập lông xám, tai tròn xù, mũi đen to ngơ ngác, áo bệnh nhân trắng chữ thập đỏ",
+  "DOCTOR": "ông bác sĩ thú y hoạt hình đeo kính tròn gọng đen, mặc áo blouse trắng, đeo ống nghe y tế quanh cổ",
+  "NURSE": "cô y tá trợ lý hoạt hình dễ thương đeo kính, mặc đồng phục y tế màu xanh pastel, kẹp bảng hồ sơ",
+  "NO_HERO": "KHÔNG có chú Koala áo bệnh nhân trong cảnh này"
+ },
+ "side_characters": [
+  "DOCTOR",
+  "NURSE"
+ ],
+ "shorts_side_characters": [
+  "DOCTOR"
+ ],
+ "shorts_title_lines": [
+  "BÀY ĐỒ ĂN RA ĐĨA",
+  "NHƯNG THÀ NHỊN ĐÓI?!"
+ ],
+ "skip_numbers": [
+  3,
+  5
+ ],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Phòng khám bệnh viện thú y sáng sủa: Ở GIỮA là bàn khám bệnh bằng kim loại sáng bóng, {DOCTOR} ngồi bên trái đang lật mở một cuốn sổ bệnh án dày cộp; {HERO} ngồi trên bàn khám, vẻ mặt ngơ ngác đờ đẫn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hồ sơ bệnh án hôm",
+   "layout": "{DOCTOR} đứng BÊN TRÁI giơ tay ôm trán vẻ mặt bất lực, mồ hôi chảy ròng ròng; trên bàn là tập hồ sơ bệnh án dày cộp có dán tấm ảnh chụp {HERO} đang ôm cây ngủ gật.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nghề nghiệp: ôm cây",
+   "layout": "{HERO} đang đu chặt trên một chạc cây khuynh diệp, hai mắt nhắm nghiền ngáy khò khò, bóng chữ 'Zzz' bay lên; một biển hiệu nhỏ cắm bên cạnh ghi hình vẽ chiếc đồng hồ 24/7.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Điều gì sẽ xảy",
+   "layout": "Một bàn ăn sang trọng trải khăn trắng: BÊN PHẢI {HERO} ngồi thắt khăn ăn ở cổ, trước mặt là một chiếc đĩa sứ trắng tinh bày đầy những cành lá khuynh diệp xanh tươi bóng bẩy; bụng chú réo lên biểu tượng sóng âm đói bụng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bất kỳ loài thú",
+   "layout": "Chia đôi khung hình: BÊN TRÁI một chú thỏ và chú hươu hoạt hình đang há miệng ăn ngấu nghiến đĩa rau củ trong tích tắc; BÊN PHẢI {HERO} vẫn ngồi bất động nhìn chiếc đĩa lá, không hề nhúc nhích.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhưng Bệnh nhân ngơ",
+   "layout": "Cận cảnh biểu cảm cực hài của {HERO}: ngồi nhìn chằm chằm vào chiếc đĩa sứ trắng trước mặt, ánh mắt vô hồn trống rỗng, trên đầu là một đám mây suy nghĩ rỗng tuếch có một chú ruồi bay qua và một dấu chấm hỏi to tướng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "thà chịu chết đói",
+   "layout": "{HERO} quay ngoắt mặt đi, hai tay khoanh trước ngực, môi bĩu ra kiên quyết từ chối chiếc đĩa lá; chiếc đĩa lá để trước mặt vẫn nguyên vẹn; bóng dáng bộ xương nhỏ hoạt hình mờ ảo phía sau trêu đùa sự nhịn đói.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Ủa bác sĩ ơi,",
+   "layout": "{HERO} nhướng mày, một tay chỉ vào chiếc đĩa sứ, miệng há to hỏi ngơ ngác; BÊN TRÁI {DOCTOR} trố mắt kinh ngạc làm rơi chiếc bút chì xuống đất.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Các đồng nghiệp nghe",
+   "layout": "{DOCTOR} quay người hướng ra phía người xem, hai tay giơ lên trời vẻ mặt cạn lời sâu sắc; trên bảng đen phía sau vẽ một cành cây có lá mọc dính và dấu tích xanh, bên cạnh là chiếc đĩa đựng lá rời có dấu gạch chéo đỏ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đối với nó, đồ",
+   "layout": "Tâm trí của Koala: một cành cây khuynh diệp xanh tốt đung đưa trong gió có hào quang phát sáng lấp lánh (đồ ăn hợp lệ); bên cạnh chiếc đĩa sứ đựng lá rụng bị vẽ hình thùng rác đồ chơi bốc mùi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chưa hết, bệnh nhân",
+   "layout": "{HERO} đang kéo khóa cởi bỏ bộ đồ hóa trang Gấu Nâu lông dày, lộ ra chiếc túi trước bụng có chú Koala con đang thò đầu ra; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "200 năm",
+     "side": "L",
+     "y": 380,
+     "value": "200 NĂM",
+     "label": "cú lừa mạo danh gấu",
+     "target": [
+      0.35,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chúng là thú có",
+   "layout": "{HERO} đứng giữa hai người họ hàng: BÊN TRÁI là chú Wombat béo tròn mông bọc thép, BÊN PHẢI là chú Kangaroo chuột túi đang đứng trên hai chân sau; cả ba đều có chiếc túi trước bụng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hôm nay, phòng khám",
+   "layout": "{DOCTOR} bật công tắc đèn mổ sáng rực; trên tường chiếu 4 biểu tượng khám bệnh: một hộp sọ X-quang, một dạ dày cuốn ruột dài, bàn tay 2 ngón cái và cặp vân tay xoắn ốc; {HERO} nằm trên bàn khám ôm gối.",
+   "stickers": [
+    {
+     "at": "4 hạng mục",
+     "side": "R",
+     "y": 400,
+     "value": "4 HẠNG MỤC",
+     "label": "khám nghiệm tiến hóa",
+     "target": [
+      0.72,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Phòng chụp X-quang: {NURSE} đang điều chỉnh chiếc máy chụp X-quang khổng lồ hướng vào đầu {HERO}; {HERO} ngồi ngay ngắn, hai tai rung rung, mắt tò mò nhìn ống kính máy chụp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhìn từ bên ngoài,",
+   "layout": "Cận cảnh chiếc đầu to bự của {HERO}: đầu tròn xoe, hai tai xù lông to như hai chiếc quạt con, chiếc mũi đen bóng nổi bật; một chiếc thước kẹp đo vòng đầu to đùng đang đo quanh sọ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng khi cắm tấm",
+   "layout": "{DOCTOR} cắm tấm phim chụp X-quang lên bảng đèn sáng: phim chụp cho thấy một hộp sọ to lớn nhưng bên trong chứa đầy chất lỏng màu xanh nước biển, ở giữa chỉ có một bộ não bé xíu như hạt nho đang nổi lơ lửng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bộ não của Koala",
+   "layout": "BÊN TRÁI là một chiếc cân tiểu ly điện tử đặt bộ não Koala bé tí; BÊN PHẢI {HERO} ngồi nhìn chiếc cân ngạc nhiên.",
+   "stickers": [
+    {
+     "at": "17g",
+     "side": "L",
+     "y": 350,
+     "value": "17 GAM",
+     "label": "khối lượng não",
+     "target": [
+      0.3,
+      0.55
+     ]
+    },
+    {
+     "at": "0,2%",
+     "side": "R",
+     "y": 480,
+     "value": "0,2%",
+     "label": "tỷ lệ não trên cơ thể",
+     "target": [
+      0.7,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tới 40% thể tích",
+   "layout": "Mô hình cắt ngang hộp sọ Koala: chiếc hộp sọ được vẽ như một bể cá cảnh mini chứa đầy nước xanh lỏng, bên trong có bộ não nhỏ nổi bồng bềnh, vài chú cá nhỏ hoạt hình bơi lượn quanh não; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "40%",
+     "side": "L",
+     "y": 360,
+     "value": "40%",
+     "label": "hộp sọ là dịch lỏng",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bác sĩ ơi, em",
+   "layout": "{NURSE} cầm tấm phim chụp X-quang soi lên trước mắt, vẻ mặt sửng sốt lắc đầu; bên cạnh chiếc máy chụp X-quang phát ra tia sáng quét.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đúng thế các đồng",
+   "layout": "So sánh đối đầu giữa 2 bộ não: BÊN TRÁI là bộ não cá heo/con người chằng chịt nếp nhăn lấp lánh tia sét trí tuệ; BÊN PHẢI là bộ não Koala nhẵn bóng, phẳng lì như hai miếng ức gà luộc màu hồng phấn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Sự thiếu vắng nếp",
+   "layout": "Cảnh trời mưa bão sấm chớp ầm ĩ: các loài thú khác chạy tìm hang trú ẩn, riêng {HERO} vẫn ngồi đơ trên chạc cây ướt sũng như chuột lột, mắt mở to nhìn trời mưa không hiểu chuyện gì xảy ra.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "nếu lá cây rụng",
+   "layout": "Một chiếc lá khuynh diệp rụng từ cành cây xuống mặt đất ngay trước chân {HERO}; {HERO} cúi đầu nhìn chiếc lá với biểu cảm hoang mang như nhìn thấy đĩa bay của người ngoài hành tinh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng chớ vội chê",
+   "layout": "Biểu đồ năng lượng cơ thể: trên đầu {HERO} là biểu tượng cục pin cạn đáy nhấp nháy màu đỏ 5%; bộ não thu nhỏ được khoanh vùng tiết kiệm năng lượng.",
+   "stickers": [
+    {
+     "at": "20%",
+     "side": "L",
+     "y": 380,
+     "value": "20%",
+     "label": "tiết kiệm pin cơ thể",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và đặc biệt nhất,",
+   "layout": "Hộp sọ Koala được vẽ như một chiếc mũ bảo hiểm có túi khí đệm nước dày cộp bao quanh não; một chiếc búa đồ chơi gõ vào mũ bảo hiểm bị bật nảy ra ngoài êm ái.",
+   "stickers": [
+    {
+     "at": "40%",
+     "side": "R",
+     "y": 380,
+     "value": "ĐỆM NƯỚC",
+     "label": "chống chấn thương sọ",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Vì tính tình ngơ",
+   "layout": "{HERO} đang ngủ gật ôm cành cây thì trượt tay ngã lộn cổ từ trên cao xuống đất; đầu chạm đất nảy tưng tưng như quả bóng cao su, chú đứng dậy chớp mắt tỉnh bơ không hề hấn gì.",
+   "stickers": [],
+   "impacts": [
+    "ngã tự do"
+   ]
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Phòng nội soi tiêu hóa: {DOCTOR} cầm ống nội soi mềm có camera gắn đèn soi vào bụng {HERO}; trên màn hình máy tính hiển thị hình ảnh đoạn ruột dài ngoằn ngoèo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bởi vì thực đơn",
+   "layout": "Cây khuynh diệp tỏa ra luồng khói xanh hình đầu lâu xương chéo độc hại; các loài thỏ rừng, chuột túi chạy dạt ra xa bịt mũi ho sặc sụa; {HERO} vắt vẻo trên cành nhai lá ngon lành.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thứ lá này cứng",
+   "layout": "BÊN TRÁI lá khuynh diệp được vẽ cứng như một tấm da thuộc đóng đinh gỉ sét, bên cạnh có lọ độc chất Xyanua; BÊN PHẢI {HERO} ngoạm chiếc lá nghe tiếng 'răng rắc' mà miệng vẫn cười.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Để nhai thứ thuốc",
+   "layout": "Sơ đồ giải phẫu dạ dày Koala: BÊN TRÁI lá gan đeo mặt nạ phòng độc lọc hóa chất; BÊN PHẢI đoạn manh tràng (ruột thừa) dài ngoằn ngoèo 2 mét uốn lượn như con trăn khổng lồ.",
+   "stickers": [
+    {
+     "at": "2m",
+     "side": "R",
+     "y": 360,
+     "value": "2 MÉT",
+     "label": "chiều dài ruột thừa",
+     "target": [
+      0.72,
+      0.5
+     ]
+    },
+    {
+     "at": "3 lần",
+     "side": "L",
+     "y": 480,
+     "value": "3 LẦN",
+     "label": "dài gấp 3 cơ thể",
+     "target": [
+      0.3,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bên trong đoạn ruột",
+   "layout": "Bên trong lòng ruột Koala: hàng ngàn chú vi khuẩn tí hon đội mũ công nhân, cầm búa và kéo mini miệt mài cắt nhỏ và nghiền nát các phiến lá độc suốt 4 ngày đêm.",
+   "stickers": [
+    {
+     "at": "4 ngày",
+     "side": "L",
+     "y": 380,
+     "value": "4 NGÀY",
+     "label": "thời gian tiêu hóa",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và xin đính chính",
+   "layout": "{HERO} nằm dài trên chạc cây ngáy khò khò, ôm chặt thân cây, cục pin trên đầu báo cạn 0%; không có chất kích thích nào, chỉ là cơ thể đang tắt nguồn để nạp lại calo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chúng bắt buộc phải",
+   "layout": "Koala ngủ li bì 22 tiếng mỗi ngày trên cây vì cơ thể kiệt quệ calo; chiếc đồng hồ chỉ 22 giờ ngủ.",
+   "stickers": [
+    {
+     "at": "22 tiếng",
+     "side": "R",
+     "y": 360,
+     "value": "22 TIẾNG",
+     "label": "ngủ li bì mỗi ngày",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": [],
+   "id": "L69"
+  },
+  {
+   "scene": "scene03",
+   "at": "Ngay cả cái tên",
+   "layout": "Bản đồ sa mạc Úc dưới cái nắng chói chang: BÊN TRÁI một thổ dân Úc cổ xưa giơ tay vẽ biểu tượng 'không uống nước'; BÊN PHẢI {HERO} ngồi trên cây nhai lá tươi ngậm đầy giọt nước tinh khiết.",
+   "stickers": [
+    {
+     "at": "90%",
+     "side": "R",
+     "y": 400,
+     "value": "90% NƯỚC",
+     "label": "hấp thụ từ lá cây",
+     "target": [
+      0.68,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "và chỉ trong những",
+   "layout": "Ngày hè nắng gắt bốc hơi: {HERO} tụt xuống đất đứng cạnh chiếc xe đạp, hai tay ôm bình nước của một vận động viên đạp xe đang tươi cười dốc nước cho chú uống từng ngụm lớn.",
+   "stickers": [
+    {
+     "at": "40°C",
+     "side": "L",
+     "y": 360,
+     "value": "40°C",
+     "label": "nắng nóng kỷ lục",
+     "target": [
+      0.3,
+      0.4
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng ly kỳ nhất",
+   "layout": "Một chú Koala sơ sinh bé xíu chỉ bằng hạt đậu đỏ nằm trong túi mẹ màu hồng nhạt, cơ thể trong suốt vô trùng; phía trên chiếc lá độc đe dọa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Mẹ ơi, con đói",
+   "layout": "Chú Koala con lông tơ thò đầu ra khỏi túi bụng của Koala mẹ, hai mắt to long lanh há mỏ chờ đợi; Koala mẹ cúi đầu âu yếm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bác sĩ đề nghị",
+   "layout": "{DOCTOR} hốt hoảng giơ hai tay ra hiệu 'dừng đũa' về phía màn hình; trên bàn ăn bên cạnh là bát cơm và đôi đũa bị gác lại.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khi con non được",
+   "layout": "Bữa ăn dặm kỳ lạ: Koala mẹ tiết ra chất sệt màu xanh lá cây từ phía sau; Koala con thò đầu ra ăn ngon lành, khuôn mặt rạng rỡ hạnh phúc.",
+   "stickers": [
+    {
+     "at": "6 tháng",
+     "side": "L",
+     "y": 360,
+     "value": "6 THÁNG",
+     "label": "bắt đầu ăn dặm",
+     "target": [
+      0.3,
+      0.45
+     ]
+    },
+    {
+     "at": "1 tháng",
+     "side": "R",
+     "y": 480,
+     "value": "1 THÁNG",
+     "label": "ăn cháo phân mẹ",
+     "target": [
+      0.7,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nghe thì rùng mình",
+   "layout": "Các chú vi khuẩn có lợi thân thiện màu xanh ngọc nhảy múa diễu hành từ bát cháo phân đi thẳng vào dạ dày của Koala con, tạo nên tấm khiên bảo vệ phát sáng chống lại độc tố lá cây.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Phòng khám kiểm tra chi: {DOCTOR} cầm kính lúp to soi vào bàn tay trước của {HERO}; {HERO} giơ hai bàn tay xòe các ngón ra khoe móng vuốt sắc nhọn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Câu trả lời nằm",
+   "layout": "Cận cảnh bàn tay trước của Koala như một bản vẽ kỹ thuật: bàn tay có 2 ngón cái đối diện với 3 ngón thường, tạo thành chiếc gọng kìm kẹp chặt lấy thân cành cây tròn.",
+   "stickers": [
+    {
+     "at": "2 ngón cái",
+     "side": "L",
+     "y": 350,
+     "value": "2 NGÓN CÁI",
+     "label": "đối diện 3 ngón",
+     "target": [
+      0.35,
+      0.5
+     ]
+    },
+    {
+     "at": "3 ngón",
+     "side": "R",
+     "y": 480,
+     "value": "3 NGÓN",
+     "label": "gọng kìm kẹp cây",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Cấu trúc 2 ngón",
+   "layout": "Hình minh họa chiếc kìm bấm chết cơ khí bằng thép kẹp cứng ngắc vào ống cành cây; bên cạnh bàn tay Koala bấm ngập móng vuốt vào vỏ cây, không thể lay chuyển.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Thậm chí bàn chân",
+   "layout": "Cận cảnh bàn chân sau của Koala: ngón số 2 và ngón số 3 dính liền nhau có hai chiếc móng vuốt song song như răng lược, đang chải chuốt lớp lông tơ mượt mà gạt bọ chét rơi lả tả.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chưa dừng lại ở",
+   "layout": "Mặt sau của {HERO}: chú không hề có đuôi, vùng mông tròn trĩnh có một lớp sụn cứng lót đệm dày như chiếc gối sofa êm ái.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nhờ có chiếc đệm",
+   "layout": "{HERO} ngồi lọt thỏm êm ru trên chạc cây chữ V cứng nhọn, mặt thư giãn nhắm nghiền mắt mỉm cười như đang ngồi ghế massage hạng thương gia.",
+   "stickers": [
+    {
+     "at": "22 tiếng",
+     "side": "L",
+     "y": 380,
+     "value": "22 TIẾNG",
+     "label": "ngồi không biết mỏi",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bộ lông của nó",
+   "layout": "Cơn mưa rào trút nước xuống: những giọt nước mưa rơi vào lưng {HERO} lập tức trượt tròn lăn ra ngoài như nước đổ lá khoai; bên trong lớp lông vẫn khô ráo ấm cúng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bác sĩ chúng tôi",
+   "layout": "{DOCTOR} ngồi còng lưng trên chiếc ghế xoay phòng khám, tay đấm lưng 'thùm thụp' vì đau cột sống; quay sang nhìn {HERO} ngồi ung dung trên cây với ánh mắt ghen tị.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "{NURSE} chạy vội vào phòng khám cầm theo một bìa hồ sơ cảnh sát có dấu mộc đỏ 'TỐI MẬT' và một tấm kính soi dấu vân tay màu đen.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Báo cáo với các",
+   "layout": "Bản tin pháp y chấn động: hai thám tử cảnh sát mặc áo măng-tô cầm kính lúp soi dấu vân tay xoắn ốc trên khung cửa sổ hiện trường vụ án trộm cắp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Dù cách xa loài",
+   "layout": "So sánh vân tay dưới kính hiển vi điện tử: BÊN TRÁI dấu vân tay người xoắn ốc; BÊN PHẢI dấu vân tay đầu ngón tay Koala có các đường vân, vòng xoáy và móc giống hệt nhau đến từng chi tiết.",
+   "stickers": [
+    {
+     "at": "70 triệu năm",
+     "side": "L",
+     "y": 380,
+     "value": "70 TR NĂM",
+     "label": "tiến hóa độc lập",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Giống đến mức ngay",
+   "layout": "Các chuyên gia giám định hình sự cảnh sát Úc cầm kính hiển vi và máy tính quét vân tay hiện trường bối rối không phân biệt nổi vân tay người hay Koala.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L70"
+  },
+  {
+   "scene": "scene05",
+   "at": "Nếu có một vụ",
+   "layout": "Phòng thẩm vấn cảnh sát: một thám tử cảnh sát ngồi đối diện {HERO} dưới ánh đèn bàn thẩm vấn; {HERO} ngồi trên ghế bị cáo hai tai xù ngáp ngủ dài ngoẵng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Con đực trưởng thành",
+   "layout": "Một chú Koala đực lực lưỡng đứng cọ ngực vào thân cây khuynh diệp: giữa ngực có một vệt màu nâu sẫm tiết ra tinh dầu thơm ngát mùi kẹo ngậm bạc hà lan tỏa khắp không gian.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhưng nếu bạn nghĩ",
+   "layout": "BÊN TRÁI hình ảnh chú Koala thú nhồi bông kêu 'chít chít' dễ thương bị gạch chéo đỏ; BÊN PHẢI {HERO} đang hít một hơi thật sâu phồng to lồng ngực chuẩn bị gầm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Vào mùa giao phối,",
+   "layout": "{HERO} mở toang mồm phát ra luồng sóng âm khổng lồ hình đầu quái vật bạo chúa gầm rú; một du khách cắm trại trong lều phía dưới giật nảy mình dựng đứng tóc gáy, rơi cốc trà.",
+   "stickers": [],
+   "impacts": [
+    "tiếng rống"
+   ]
+  },
+  {
+   "scene": "scene05",
+   "at": "Các nhà giải phẫu",
+   "layout": "Sơ đồ cấu tạo họng Koala: ngoài thanh quản thông thường, phía trên vòm họng mềm có một cặp dây thanh âm phụ khổng lồ màu đỏ phát ra các vòng sóng âm thanh tần số siêu trầm 27 Hz.",
+   "stickers": [
+    {
+     "at": "27 Hz",
+     "side": "R",
+     "y": 360,
+     "value": "27 HZ",
+     "label": "tần số siêu trầm",
+     "target": [
+      0.72,
+      0.45
+     ]
+    },
+    {
+     "at": "20 lần",
+     "side": "L",
+     "y": 480,
+     "value": "GẤP 20 LẦN",
+     "label": "uy lực âm thanh",
+     "target": [
+      0.3,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Ngoại hình gấu bông",
+   "layout": "Ngoại hình gấu bông ngây thơ nhưng phát ra tiếng gầm rung chuyển cả khu rừng rậm đêm khiến du khách cắm trại bên dưới rùng mình hoảng hốt.",
+   "stickers": [],
+   "impacts": [],
+   "id": "L71"
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "{DOCTOR} đứng bên bảng chẩn đoán y khoa, vẻ mặt trầm ngâm thương cảm; {HERO} ngồi cạnh bàn ôm một cành lá khuynh diệp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Thứ nhất, vì lá",
+   "layout": "Cận cảnh hàm răng Koala già: những chiếc răng hàm bị mài phẳng lì trơ trụi như đá mài mòn, không còn gờ nhọn để nghiền nát phiến lá cứng; xung quanh là các hạt cát silicat nhỏ li ti.",
+   "stickers": [
+    {
+     "at": "15 năm",
+     "side": "L",
+     "y": 380,
+     "value": "15 NĂM",
+     "label": "răng mòn phẳng lì",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và vì không có",
+   "layout": "Cảnh thương cảm: một chú Koala già ngồi ôm cành cây giữa rừng lá xanh bạt ngàn nhưng không thể nhai được, chiếc bụng đói xẹp xuống; bóng hoàng hôn buông dịu dàng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Thứ hai, bản năng",
+   "layout": "Cảnh báo cháy rừng: phía dưới chân cây là ngọn lửa đỏ rực bốc khói; thay vì chạy xuống đất, {HERO} lại leo tót lên ngọn cây cao nhất rồi cuộn tròn nhắm tịt mắt chờ đợi trong sợ hãi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "biến chúng thành",
+   "layout": "Người lính cứu hỏa Úc tốt bụng mặc áo bảo hộ vàng quỳ xuống cạnh gốc cây, ân cần đưa chai nước mát cho {HERO} vừa được cứu thoát; ánh mắt biết ơn ấm áp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Tập sau, phòng khám",
+   "layout": "Phòng khám hé mở cánh cửa tiếp theo: một chú Gấu Trúc Lớn mập mạp đen trắng đang ngồi bệt dưới đất nhai cây tre rôm rốp, mắt đeo kính cận, vẻ mặt hề hước.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhai tre 14 tiếng",
+   "layout": "Chia 2 nửa: BÊN TRÁI Gấu Trúc nhai tre đống tre cao ngất; BÊN PHẢI chú trèo cây bị gãy cành ngã lộn nhào chổng vó lên trời như diễn viên xiếc.",
+   "stickers": [
+    {
+     "at": "14 tiếng",
+     "side": "L",
+     "y": 360,
+     "value": "14 TIẾNG",
+     "label": "nhai tre mỗi ngày",
+     "target": [
+      0.35,
+      0.45
+     ]
+    },
+    {
+     "at": "40 lần",
+     "side": "R",
+     "y": 480,
+     "value": "40 LẦN",
+     "label": "đi vệ sinh/ngày",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": [
+    "ngã lộn cổ"
+   ]
+  },
+  {
+   "scene": "scene06",
+   "at": "Hẹn gặp lại các",
+   "layout": "{DOCTOR} đứng vẫy tay chào tạm biệt cùng chú Gấu Trúc đang ngậm cành tre; tấm biển 'HẸN GẶP LẠI TẬP 11' treo phía trên.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bác sĩ ơi, vậy",
+   "layout": "{NURSE} cầm cây bút bi và cuốn sổ đơn thuốc đưa cho {DOCTOR}, nghiêng đầu mỉm cười hỏi ý kiến.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Kê đơn: Cho bệnh",
+   "layout": "{DOCTOR} ký ngoáy lên tờ đơn thuốc có ghi dòng chữ hài hước; bên cạnh {HERO} đã ôm cành cây ngủ tít mít tự bao giờ, chiếc đĩa sứ để xa tít tắp.",
+   "stickers": [
+    {
+     "at": "22 tiếng",
+     "side": "R",
+     "y": 380,
+     "value": "22 TIẾNG",
+     "label": "đơn thuốc ngủ ngon",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Ký tên: bác sĩ",
+   "layout": "{DOCTOR} giơ hai tay ra hiệu chào thua; {HERO} hé một bên mắt ngơ ngác nhìn khán giả, hai tai vẫy vẫy dễ thương.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Còn bạn, bạn ấn",
+   "layout": "Hàng ghế khán giả các bạn nhỏ và gia đình đang giơ các biểu tượng mặt cười, trái tim và bóng bình luận sáng rực; {HERO} ngồi ở giữa mỉm cười thân thiện.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Phòng khám dọc 9:16: {HERO} ngồi trên bàn ăn trước một chiếc đĩa sứ trắng đựng lá khuynh diệp tươi ngon nhưng mặt đờ đẫn quay đi thà chết đói; {DOCTOR} đứng bên cạnh ôm trán.",
+   "stickers": []
+  },
+  {
+   "at": "Lý do là vì",
+   "layout": "Cận cảnh đầu {HERO}: trên đầu là đám mây suy nghĩ rỗng tuếch có hình một cành cây (thức ăn ✓) và một chiếc đĩa sứ (rác rưởi ✗), vẻ mặt ngơ ngác không nhận diện được.",
+   "stickers": []
+  },
+  {
+   "at": "Khi chụp X-quang hộp",
+   "layout": "Phòng chụp X-quang dọc: {DOCTOR} và {NURSE} trố mắt ngã ngửa khi nhìn vào máy quét X-quang đầu Koala phát sáng xanh.",
+   "stickers": []
+  },
+  {
+   "at": "tới 40% hộp",
+   "layout": "Tấm phim X-quang đầu Koala dọc khung hình: chiếc sọ to đùng chứa 40% nước xanh, bên trong bộ não nhỏ xíu bồng bềnh như bể cá.",
+   "stickers": [
+    {
+     "at": "40%",
+     "side": "L",
+     "y": 650,
+     "value": "40% NƯỚC",
+     "label": "hộp sọ đệm lỏng",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "còn bộ não bên",
+   "layout": "So sánh bộ não phẳng lì như hai miếng ức gà luộc bóc vỏ, trơn nhẵn không có lấy một nếp nhăn; dấu hỏi chấm to tướng.",
+   "stickers": []
+  },
+  {
+   "at": "Nó ăn thứ lá",
+   "layout": "Cây khuynh diệp bốc khói độc Xyanua màu xanh lá hình đầu lâu; {HERO} ngồi vắt vẻo trên ngọn cây nhai lá ngon lành.",
+   "stickers": []
+  },
+  {
+   "at": "sở hữu đoạn ruột",
+   "layout": "Sơ đồ cơ thể Koala dọc màn hình: đoạn ruột thừa dài ngoằn ngoèo 2 mét uốn lượn như con trăn, các công nhân vi khuẩn tí hon đang làm việc.",
+   "stickers": [
+    {
+     "at": "2m",
+     "side": "R",
+     "y": 580,
+     "value": "RUỘT 2M",
+     "label": "lọc độc Xyanua",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "và phải ngủ li",
+   "layout": "{HERO} nằm ôm cành cây ngủ say sưa, cục pin trên đầu báo cạn đáy 0% nhấp nháy, tiếng ngáy khò khò.",
+   "stickers": [
+    {
+     "at": "22 tiếng",
+     "side": "L",
+     "y": 850,
+     "value": "NGỦ 22H",
+     "label": "tiết kiệm pin",
+     "target": [
+      0.35,
+      0.7
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Chưa hết, đầu ngón",
+   "layout": "So sánh dấu vân tay dọc: phía trên là dấu vân tay người, phía dưới là bàn tay {HERO} có các đường vân xoắn ốc giống hệt 100%, kính lúp phóng đại soi chi tiết.",
+   "stickers": []
+  },
+  {
+   "at": "Bạn có tin một",
+   "layout": "{HERO} ngồi ôm cành cây giữa rừng khuynh diệp bạt ngàn nước Úc, ánh nắng xuyên qua kẽ lá lấp lánh; chú chớp mắt ngơ ngác đáng yêu như muốn hỏi 'sao mọi người nhìn tớ thế?'.",
+   "stickers": []
+  },
+  {
+   "at": "Xem trọn bộ hồ",
+   "layout": "{DOCTOR} đứng cạnh {HERO} đang giơ ngón tay cái chỉ xuống phía dưới màn hình; mũi tên vàng nhấp nháy chỉ link video dài phía dưới; phong cách vui nhộn mời gọi.",
+   "stickers": []
+  }
+ ]
+}

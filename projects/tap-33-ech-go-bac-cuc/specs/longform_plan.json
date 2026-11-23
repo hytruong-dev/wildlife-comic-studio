@@ -1,0 +1,715 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "KHÁM PHÁ QUÁI KIỆT BĂNG GIÁ GIỮA BÃO TUYẾT ÂM 20 ĐỘ C Ở ALASKA",
+   "hook": "BÁO ĐỘNG SINH TỒN VÙNG CỰC: ÂM HAI MƯƠI ĐỘ C VÀ KẺ THÁCH THỨC TỬ THẦN",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tiểu bang Alaska",
+     "image": "assets/long/L03.png",
+     "stickers": [
+      {
+       "at": "-20°C",
+       "side": "L",
+       "y": 340,
+       "value": "-20°C",
+       "label": "nhiệt độ bắc cực",
+       "target": [
+        0.45,
+        0.55
+       ]
+      }
+     ],
+     "impacts": [
+      "-20°C"
+     ]
+    },
+    {
+     "at": "Gió bắc cực gầm rú",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "và các mặt hồ",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lũ gấu Bắc Cực",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "còn lũ chuột đồng",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tôi không có lông vũ",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ấy thế mà ngay dưới chân",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Xin giới thiệu nhân vật chính",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "toàn cầu ngả mũ",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Toàn thân chú ếch gỗ",
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "5-7cm",
+       "side": "L",
+       "y": 330,
+       "value": "5-7CM",
+       "label": "chiều dài cơ thể",
+       "target": [
+        0.4,
+        0.5
+       ]
+      },
+      {
+       "at": "8-15g",
+       "side": "R",
+       "y": 410,
+       "value": "8-15G",
+       "label": "trọng lượng tí hon",
+       "target": [
+        0.65,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Làn da của nó",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "như chiếc mặt nạ",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ở xứ ôn đới",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ở lì ngay trên nền rừng",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BÁO ĐỘNG VÙNG CỰC"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "CƠ CHẾ TỰ ĐÓNG BĂNG 70% LƯỢNG NƯỚC CƠ THỂ MÀ KHÔNG RÁCH TẾ BÀO",
+   "hook": "BÍ MẬT MẦM ĐÁ NGOẠI BÀO: BIẾN NƯỚC THÀNH GIÁP BĂNG BẢO VỆ NỘI TẠNG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "dưới 0°C",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu hiện tượng đóng băng",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "trong tích tắc",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kính thưa các tinh thể đá",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và đó chính là lúc chiến thuật",
+     "image": "assets/long/L17.png",
+     "stickers": [
+      {
+       "at": "Năm 1993",
+       "side": "L",
+       "y": 350,
+       "value": "NĂM 1993",
+       "label": "công bố khoa học",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đại học Miami",
+     "image": "assets/long/L74.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "protein chuyên biệt",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hạ xuống mức -1°C đến -2°C",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "-1°C đến -2°C",
+       "side": "R",
+       "y": 360,
+       "value": "-1°..-2°C",
+       "label": "ngưỡng mầm đá",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thay vì để băng đá",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "rút dần nước lỏng",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "65-70%",
+     "image": "assets/long/L21.png",
+     "stickers": [
+      {
+       "at": "65-70%",
+       "side": "L",
+       "y": 340,
+       "value": "70% BĂNG",
+       "label": "nước hóa băng đá",
+       "target": [
+        0.4,
+        0.55
+       ]
+      }
+     ],
+     "impacts": [
+      "65-70%"
+     ]
+    },
+    {
+     "at": "70% cơ thể",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "MẦM ĐÁ NGOẠI BÀO"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "GAN PHÌNH TO BƠM GLUCOSE SIÊU ĐẬM ĐẶC GẤP 300 LẦN CHỐNG ĐÔNG TẾ BÀO",
+   "hook": "BÁO ĐỘNG ĐỎ TRONG GAN: CƠN BÃO ĐƯỜNG HUYẾT CỨU MẠNG KỲ DIỆU",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "khiến tế bào bị mất nước",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngay vào khoảnh khắc",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo chỉ huy trưởng",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Những nghiên cứu đột phá",
+     "image": "assets/long/L26.png",
+     "stickers": [
+      {
+       "at": "năm 1988",
+       "side": "L",
+       "y": 350,
+       "value": "NĂM 1988",
+       "label": "nghiên cứu Storey",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "chiếm tới mười phần trăm",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ trong vòng vài giờ",
+     "image": "assets/long/L27.png",
+     "stickers": [
+      {
+       "at": "100-300 lần",
+       "side": "R",
+       "y": 340,
+       "value": "300 LẦN",
+       "label": "glucose chống đông",
+       "target": [
+        0.65,
+        0.55
+       ]
+      }
+     ],
+     "impacts": [
+      "100-300 lần"
+     ]
+    },
+    {
+     "at": "Nếu nồng độ đường huyết",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tiêm insulin cấp cứu",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Song song với đường Glucose",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Siro này hạ điểm đông đặc",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BÃO ĐƯỜNG CẤP TỐC"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "TRÁI TIM NGỪNG ĐẬP 0 NHỊP SUỐT 7 THÁNG MÙA ĐÔNG HÓA ĐÁ",
+   "hook": "ĐỒNG HỒ ĐẾM NGƯỢC CHẠM SỐ KHÔNG: CHẾT LÂM SÀNG HOÀN TOÀN GIỮA MÙA ĐÔNG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L31.png",
+     "stickers": [
+      {
+       "at": "24h",
+       "side": "L",
+       "y": 340,
+       "value": "24H",
+       "label": "đồng hồ sinh tồn",
+       "target": [
+        0.4,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "giai đoạn quyết định",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trái tim bé bỏng của chú ếch gỗ",
+     "image": "assets/long/L32.png",
+     "stickers": [
+      {
+       "at": "100 nhịp/phút",
+       "side": "L",
+       "y": 330,
+       "value": "100 NHỊP",
+       "label": "nhịp tim ban đầu",
+       "target": [
+        0.35,
+        0.5
+       ]
+      },
+      {
+       "at": "số không tròn trĩnh",
+       "side": "R",
+       "y": 410,
+       "value": "0 NHỊP/P",
+       "label": "tim ngừng đập hẳn",
+       "target": [
+        0.65,
+        0.55
+       ]
+      }
+     ],
+     "impacts": [
+      "số không tròn trĩnh"
+     ]
+    },
+    {
+     "at": "Cốc cốc cốc",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không còn một nhịp tim nào",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đường chân trời thẳng tắp",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Xét theo mọi tiêu chuẩn",
+     "image": "assets/long/L75.png",
+     "stickers": [
+      {
+       "at": "100%",
+       "side": "R",
+       "y": 350,
+       "value": "100%",
+       "label": "chết lâm sàng y học",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đôi mắt của nó đã chuyển sang",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "từ độ cao 30cm",
+     "image": "assets/long/L36.png",
+     "stickers": [
+      {
+       "at": "30cm",
+       "side": "L",
+       "y": 360,
+       "value": "30CM",
+       "label": "thử nghiệm rơi",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "tiến sĩ Đôn Lác-xơn tại Viện Sinh học",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tim ngừng đập hoàn toàn này",
+     "image": "assets/long/L65.png",
+     "stickers": [
+      {
+       "at": "7 tháng",
+       "side": "L",
+       "y": 330,
+       "value": "7 THÁNG",
+       "label": "thời gian đông đá",
+       "target": [
+        0.35,
+        0.5
+       ]
+      },
+      {
+       "at": "200 ngày",
+       "side": "R",
+       "y": 410,
+       "value": "200 NGÀY",
+       "label": "chịu cực lạnh",
+       "target": [
+        0.65,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "CHẾT LÂM SÀNG"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "TRÁI TIM TỰ RÃ ĐÔNG VÀ TỰ ĐẬP LẠI MÀ KHÔNG CẦN MÁY SỐC ĐIỆN",
+   "hook": "ÁNH NẮNG MÙA XUÂN CHẠM TỚI: PHÉP MÀU HỒI SINH KHÔNG CẦN SỐC ĐIỆN",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nước tuyết tan nhỏ từng giọt",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và ngay tại giây phút này",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bề mặt da bên ngoài",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thình thịch! Thình thịch",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": [
+      "Thình thịch"
+     ]
+    },
+    {
+     "at": "Trái tim nằm sâu trong lồng ngực",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "những xung điện sinh học",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Dòng máu ấm nóng giàu đường",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ trong vòng một đến hai giờ",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và điều kỳ diệu nhất là",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lao thẳng xuống những vũng nước",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "KỲ TÍCH HỒI SINH"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "MỞ KHÓA BÍ MẬT BẢO QUẢN TẠNG NGƯỜI VÀ CÂU ĐỐ LINH THÚ TẬP 34",
+   "hook": "TỔNG KẾT HỒ SƠ SINH TỒN: TỪ QUÁI KIỆT BĂNG GIÁ ĐẾN GIẤC MƠ DU HÀNH VŨ TRỤ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sinh tồn ngoạn mục",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng giá trị của chú ếch gỗ",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bí kíp chống đông hóa đá",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sự thật đau lòng này không",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "một quả tim hoặc một lá phổi người",
+     "image": "assets/long/L49.png",
+     "stickers": [
+      {
+       "at": "4-6 tiếng",
+       "side": "L",
+       "y": 340,
+       "value": "4-6 GIỜ",
+       "label": "giới hạn tạng người",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "không thể cấy ghép được nữa",
+     "image": "assets/long/L71.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hiện nay, các nhà khoa học hàng đầu",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đông lạnh sâu an toàn",
+     "image": "assets/long/L72.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và xa hơn nữa, đó chính là giấc mơ",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn bây giờ, chương trình xin gửi",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "làm lưỡi câu bắt ấu trùng",
+     "image": "assets/long/L73.png",
+     "stickers": [
+      {
+       "at": "suốt 5 năm trời",
+       "side": "R",
+       "y": 360,
+       "value": "5 NĂM",
+       "label": "nhớ mặt kẻ thù",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hãy để lại câu trả lời",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BÀI HỌC VÙNG CỰC"
+  }
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "title_lines": [
+  "BÍ MẬT NỤ CƯỜI",
+  "CỦA CÁ HEO?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Nụ cười vĩnh cửu ấy",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "Đằng sau nụ cười thiên",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "Chúng biết tự soi gương",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "dùng khối mỡ Melon trên",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "at": "1.000",
+     "side": "R",
+     "y": 620,
+     "value": "1.000",
+     "label": "tiếng click siêu âm",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "và sở hữu tuyệt kỹ",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "at": "canh chừng",
+     "side": "L",
+     "y": 620,
+     "value": "NGỦ MỞ MẮT",
+     "label": "canh chừng cá mập",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Đỉnh cao lầy lội là",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "và cú húc mõm thép",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "at": "55 km/h",
+     "side": "R",
+     "y": 620,
+     "value": "55 KM/H",
+     "label": "húc tan tác cá mập",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ]
+  }
+ ]
+}

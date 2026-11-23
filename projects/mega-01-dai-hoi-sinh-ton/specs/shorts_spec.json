@@ -1,0 +1,425 @@
+{
+ "episode": "mega-01-dai-hoi-sinh-ton",
+ "title_lines": [
+  "10 QUÁI KIỆT THI ĐẤU",
+  "AI LÊN NGÔI?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 47.09,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/mega-01-dai-hoi-sinh-ton_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  4.71,
+  8.97,
+  13.67,
+  18.05,
+  22.27,
+  26.45,
+  30.41,
+  37.05,
+  41.87,
+  45.39
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.0,
+     "text": "Mười quái kiệt."
+    },
+    {
+     "t": 1.4,
+     "text": "Tám vòng thi."
+    },
+    {
+     "t": 2.26,
+     "text": "Một chiếc vương miện!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 2.91,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 3.16,
+     "text": "Lửng Mật,"
+    },
+    {
+     "t": 3.54,
+     "text": "Tôm Tít,"
+    },
+    {
+     "t": 4.1,
+     "text": "Gấu Nước được"
+    },
+    {
+     "t": 4.52,
+     "text": "dự đoán"
+    },
+    {
+     "t": 5.12,
+     "text": "sẽ thắng."
+    },
+    {
+     "t": 5.86,
+     "text": "Còn Thú Mỏ"
+    },
+    {
+     "t": 6.4,
+     "text": "Vịt... tham gia cho"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 7.17,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 10.08,
+     "side": "R",
+     "y": 640,
+     "value": "0°C",
+     "label": "bơi 5 tiếng",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 7.16,
+     "text": "vui! Vòng một:"
+    },
+    {
+     "t": 8.36,
+     "text": "Thú Mỏ Vịt"
+    },
+    {
+     "t": 9.22,
+     "text": "bơi 5 tiếng"
+    },
+    {
+     "t": 9.76,
+     "text": "trong nước 0°C"
+    },
+    {
+     "t": 11.06,
+     "text": "mà thân nhiệt"
+    },
+    {
+     "t": 11.5,
+     "text": "không hề"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 11.87,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 13.74,
+     "side": "L",
+     "y": 620,
+     "value": "13.000 KM",
+     "label": "mỗi năm",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 11.9,
+     "text": "tụt! Vòng hai:"
+    },
+    {
+     "t": 13.0,
+     "text": "Chim Cánh Cụt"
+    },
+    {
+     "t": 13.62,
+     "text": "đi 13.000km mỗi"
+    },
+    {
+     "t": 14.72,
+     "text": "năm, theo mặt"
+    },
+    {
+     "t": 15.56,
+     "text": "trời quanh Nam Cực!"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 16.25,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 16.5,
+     "text": "Vòng sáu:"
+    },
+    {
+     "t": 16.8,
+     "text": "Cá Heo bắt"
+    },
+    {
+     "t": 17.28,
+     "text": "cá cùng ngư"
+    },
+    {
+     "t": 17.82,
+     "text": "dân Brazil,"
+    },
+    {
+     "t": 18.74,
+     "text": "giúp họ bắt"
+    },
+    {
+     "t": 19.16,
+     "text": "được cá cao"
+    },
+    {
+     "t": 19.7,
+     "text": "gấp 17 lần!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 20.47,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 20.72,
+     "text": "Vòng bảy:"
+    },
+    {
+     "t": 21.4,
+     "text": "tin đồn gấu"
+    },
+    {
+     "t": 21.88,
+     "text": "nước còn sống"
+    },
+    {
+     "t": 22.42,
+     "text": "trên Mặt Trăng"
+    },
+    {
+     "t": 22.9,
+     "text": "bị khoa học..."
+    },
+    {
+     "t": 23.68,
+     "text": "bắn hạ bằng"
+    },
+    {
+     "t": 24.1,
+     "text": "súng khí!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 24.65,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 24.9,
+     "text": "Lửng Mật thì"
+    },
+    {
+     "t": 25.26,
+     "text": "sao? Lần đầu"
+    },
+    {
+     "t": 26.36,
+     "text": "tiên trong đời..."
+    },
+    {
+     "t": 27.32,
+     "text": "chịu thừa nhận"
+    },
+    {
+     "t": 27.84,
+     "text": "mình chưa chắc đúng!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 28.61,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 28.86,
+     "text": "Chung kết:"
+    },
+    {
+     "t": 30.0,
+     "text": "ai giúp ích"
+    },
+    {
+     "t": 30.6,
+     "text": "cho loài người"
+    },
+    {
+     "t": 31.0,
+     "text": "nhiều nhất?"
+    },
+    {
+     "t": 31.9,
+     "text": "Sữa Thú Mỏ"
+    },
+    {
+     "t": 32.54,
+     "text": "Vịt diệt khuẩn,"
+    },
+    {
+     "t": 33.18,
+     "text": "nọc độc có"
+    },
+    {
+     "t": 33.62,
+     "text": "thể thành thuốc"
+    },
+    {
+     "t": 34.16,
+     "text": "chữa tiểu đường!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 35.25,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 35.5,
+     "text": "Và nhà vô"
+    },
+    {
+     "t": 36.24,
+     "text": "địch là..."
+    },
+    {
+     "t": 37.28,
+     "text": "con vật từng"
+    },
+    {
+     "t": 37.74,
+     "text": "bị các nhà"
+    },
+    {
+     "t": 38.08,
+     "text": "khoa học tưởng"
+    },
+    {
+     "t": 38.76,
+     "text": "là đồ giả"
+    },
+    {
+     "t": 39.26,
+     "text": "khâu ghép!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 40.07,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 40.32,
+     "text": "Bạn có đồng"
+    },
+    {
+     "t": 40.92,
+     "text": "ý không?"
+    },
+    {
+     "t": 41.72,
+     "text": "Xem trọn tám"
+    },
+    {
+     "t": 42.24,
+     "text": "vòng thi trong"
+    },
+    {
+     "t": 42.8,
+     "text": "video dài nhé,"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 43.59,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 43.84,
+     "text": "vì ở đây"
+    },
+    {
+     "t": 44.26,
+     "text": "chỉ có mười"
+    },
+    {
+     "t": 44.66,
+     "text": "quái kiệt,"
+    },
+    {
+     "t": 45.28,
+     "text": "tám vòng thi,"
+    },
+    {
+     "t": 45.88,
+     "text": "và một chiếc"
+    },
+    {
+     "t": 46.54,
+     "text": "vương miện!"
+    }
+   ]
+  }
+ ]
+}

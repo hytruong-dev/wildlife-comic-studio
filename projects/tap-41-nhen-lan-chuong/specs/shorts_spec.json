@@ -1,0 +1,379 @@
+{
+ "episode": "tap-41-nhen-lan-chuong",
+ "title_lines": [
+  "TÀU NGẦM TƠ NHỆN",
+  "SỐNG 24H DƯỚI NƯỚC?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 41.94,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-41-nhen-lan-chuong_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  7.65,
+  13.65,
+  19.25,
+  25.87,
+  28.91,
+  34.45,
+  38.77
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.64,
+     "text": "Bạn có tin"
+    },
+    {
+     "t": 1.12,
+     "text": "trên đời có"
+    },
+    {
+     "t": 1.68,
+     "text": "một loài nhện"
+    },
+    {
+     "t": 2.26,
+     "text": "thở bằng phổi"
+    },
+    {
+     "t": 3.22,
+     "text": "nhưng cả cuộc"
+    },
+    {
+     "t": 3.6,
+     "text": "đời lại sống"
+    },
+    {
+     "t": 4.22,
+     "text": "dưới đáy nước?"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 5.85,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 7.64,
+     "side": "R",
+     "y": 520,
+     "value": "10-15 MM",
+     "label": "kích thước tí hon",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 6.1,
+     "text": "Đây là Nhện"
+    },
+    {
+     "t": 6.44,
+     "text": "Lặn Chuông,"
+    },
+    {
+     "t": 7.2,
+     "text": "dài chỉ 10-15mm"
+    },
+    {
+     "t": 8.96,
+     "text": "nhưng sở hữu"
+    },
+    {
+     "t": 9.92,
+     "text": "công nghệ tàu"
+    },
+    {
+     "t": 10.44,
+     "text": "ngầm vô tiền"
+    },
+    {
+     "t": 11.06,
+     "text": "khoáng hậu!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 11.85,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 15.0,
+     "side": "L",
+     "y": 560,
+     "value": "BỌC BẠC",
+     "label": "quặp bọt khí",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 12.1,
+     "text": "Gã ngoi lên"
+    },
+    {
+     "t": 12.66,
+     "text": "mặt nước,"
+    },
+    {
+     "t": 13.58,
+     "text": "dùng bộ lông"
+    },
+    {
+     "t": 14.0,
+     "text": "kỵ nước quặp"
+    },
+    {
+     "t": 14.64,
+     "text": "chặt một bọt"
+    },
+    {
+     "t": 15.24,
+     "text": "khí bạc quanh"
+    },
+    {
+     "t": 15.8,
+     "text": "bụng rồi lặn"
+    },
+    {
+     "t": 16.62,
+     "text": "xuống đáy hồ."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 17.45,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 17.7,
+     "text": "Tại đây,"
+    },
+    {
+     "t": 18.44,
+     "text": "gã dệt một"
+    },
+    {
+     "t": 18.88,
+     "text": "chiếc vòm tơ"
+    },
+    {
+     "t": 19.48,
+     "text": "hình chuông úp"
+    },
+    {
+     "t": 20.2,
+     "text": "ngược vào rong"
+    },
+    {
+     "t": 20.84,
+     "text": "rêu, bơm đầy"
+    },
+    {
+     "t": 21.86,
+     "text": "bọt khí vào"
+    },
+    {
+     "t": 22.42,
+     "text": "trong để làm"
+    },
+    {
+     "t": 23.0,
+     "text": "trạm không gian"
+    },
+    {
+     "t": 23.56,
+     "text": "dưới nước!"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 24.07,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 26.58,
+     "side": "R",
+     "y": 500,
+     "value": "MANG TƠ",
+     "label": "tự hút oxy từ nước",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 24.32,
+     "text": "Điều chấn động"
+    },
+    {
+     "t": 25.04,
+     "text": "là màng tơ"
+    },
+    {
+     "t": 25.58,
+     "text": "này hoạt động"
+    },
+    {
+     "t": 26.1,
+     "text": "như một chiếc"
+    },
+    {
+     "t": 26.58,
+     "text": "mang nhân tạo,"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 27.11,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 30.28,
+     "side": "L",
+     "y": 620,
+     "value": "24 GIỜ",
+     "label": "thở dưới nước",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 27.36,
+     "text": "tự hút oxy"
+    },
+    {
+     "t": 28.12,
+     "text": "hòa tan từ"
+    },
+    {
+     "t": 28.66,
+     "text": "nước xung quanh"
+    },
+    {
+     "t": 29.52,
+     "text": "để gã thở"
+    },
+    {
+     "t": 30.06,
+     "text": "suốt 24 giờ"
+    },
+    {
+     "t": 31.0,
+     "text": "mà không cần"
+    },
+    {
+     "t": 31.54,
+     "text": "ngoi lên mặt hồ!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 32.65,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 32.9,
+     "text": "Từ ăn ngủ,"
+    },
+    {
+     "t": 33.92,
+     "text": "săn mồi đến"
+    },
+    {
+     "t": 34.34,
+     "text": "đẻ trứng,"
+    },
+    {
+     "t": 34.94,
+     "text": "gã làm trọn"
+    },
+    {
+     "t": 35.4,
+     "text": "vẹn trong bong"
+    },
+    {
+     "t": 36.08,
+     "text": "bóng không khí"
+    },
+    {
+     "t": 36.58,
+     "text": "kỳ diệu,"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 36.97,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 37.222,
+     "text": "chứng minh giới"
+    },
+    {
+     "t": 38.26,
+     "text": "hạn sinh tồn"
+    },
+    {
+     "t": 39.04,
+     "text": "chỉ là chuyện"
+    },
+    {
+     "t": 39.64,
+     "text": "nhỏ trước kỹ"
+    },
+    {
+     "t": 40.32,
+     "text": "nghệ đỉnh cao"
+    },
+    {
+     "t": 41.12,
+     "text": "của thiên nhiên!"
+    }
+   ]
+  }
+ ]
+}

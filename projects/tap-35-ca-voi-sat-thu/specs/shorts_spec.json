@@ -1,0 +1,363 @@
+{
+ "episode": "tap-35-ca-voi-sat-thu",
+ "title_lines": [
+  "ĐẾ CHẾ MAFIA:",
+  "CÁ VOI SÁT THỦ!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 39.81,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-35-ca-voi-sat-thu_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  8.57,
+  10.63,
+  12.39,
+  18.55,
+  20.07,
+  22.31,
+  24.39,
+  27.15,
+  31.03,
+  35.57,
+  39.41
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.62,
+     "text": "Bạn có biết"
+    },
+    {
+     "t": 1.1,
+     "text": "tại sao chúa"
+    },
+    {
+     "t": 1.84,
+     "text": "tể săn mồi"
+    },
+    {
+     "t": 2.42,
+     "text": "Cá Mập Trắng"
+    },
+    {
+     "t": 3.04,
+     "text": "lại phải hoảng"
+    },
+    {
+     "t": 3.84,
+     "text": "loạn bỏ chạy"
+    },
+    {
+     "t": 4.58,
+     "text": "suốt cả năm"
+    },
+    {
+     "t": 5.02,
+     "text": "trời chỉ vì"
+    },
+    {
+     "t": 5.96,
+     "text": "đánh hơi thấy"
+    },
+    {
+     "t": 6.48,
+     "text": "bóng dáng"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 6.77,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 6.92,
+     "text": "của Cá Voi"
+    },
+    {
+     "t": 7.36,
+     "text": "Sát Thủ không?"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 8.83,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 9.08,
+     "text": "Tại vùng biển"
+    },
+    {
+     "t": 9.84,
+     "text": "Nam Phi,"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 10.59,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 10.84,
+     "text": "hai sát thủ"
+    },
+    {
+     "t": 11.38,
+     "text": "mang tên Port"
+    },
+    {
+     "t": 11.98,
+     "text": "và Starboard đã"
+    },
+    {
+     "t": 13.24,
+     "text": "thực hiện những"
+    },
+    {
+     "t": 13.74,
+     "text": "phi vụ trừng"
+    },
+    {
+     "t": 14.36,
+     "text": "phạt chấn động"
+    },
+    {
+     "t": 15.16,
+     "text": "giới sinh vật biển."
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 16.75,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 16.72,
+     "text": "Chúng không thèm"
+    },
+    {
+     "t": 17.48,
+     "text": "ăn thịt cá"
+    },
+    {
+     "t": 17.9,
+     "text": "mập mà"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 18.27,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 18.34,
+     "text": "dùng chiến thuật"
+    },
+    {
+     "t": 18.96,
+     "text": "húc lật ngửa"
+    },
+    {
+     "t": 19.54,
+     "text": "con mồi để kích"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 20.51,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 20.54,
+     "text": "hoạt trạng thái"
+    },
+    {
+     "t": 21.18,
+     "text": "tê liệt bất"
+    },
+    {
+     "t": 21.68,
+     "text": "động, sau"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 22.59,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 22.66,
+     "text": "đó rạch một"
+    },
+    {
+     "t": 23.16,
+     "text": "đường chính xác"
+    },
+    {
+     "t": 23.76,
+     "text": "đến từng milimét"
+    },
+    {
+     "t": 25.0,
+     "text": "chỉ để"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 25.35,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 25.3,
+     "text": "xé lấy buồng"
+    },
+    {
+     "t": 25.88,
+     "text": "gan giàu chất"
+    },
+    {
+     "t": 26.62,
+     "text": "béo rồi vứt"
+    },
+    {
+     "t": 27.18,
+     "text": "bỏ toàn bộ"
+    },
+    {
+     "t": 27.66,
+     "text": "phần xác còn lại!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 29.23,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 29.48,
+     "text": "Cuộc phẫu thuật"
+    },
+    {
+     "t": 30.24,
+     "text": "tinh vi đến"
+    },
+    {
+     "t": 30.76,
+     "text": "mức khiến toàn"
+    },
+    {
+     "t": 31.46,
+     "text": "bộ đàn cá"
+    },
+    {
+     "t": 31.94,
+     "text": "mập trắng trong"
+    },
+    {
+     "t": 32.58,
+     "text": "bán kính hàng"
+    },
+    {
+     "t": 33.1,
+     "text": "trăm dặm lập"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 33.77,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 33.88,
+     "text": "tức sơ tán"
+    },
+    {
+     "t": 34.4,
+     "text": "khẩn cấp"
+    },
+    {
+     "t": 35.06,
+     "text": "không dám quay"
+    },
+    {
+     "t": 35.7,
+     "text": "lại suốt cả"
+    },
+    {
+     "t": 36.26,
+     "text": "năm trời."
+    },
+    {
+     "t": 37.18,
+     "text": "Đó chính"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 37.61,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 37.7,
+     "text": "là uy quyền"
+    },
+    {
+     "t": 38.22,
+     "text": "tuyệt đối của"
+    },
+    {
+     "t": 38.84,
+     "text": "Bố Già Đại Dương!"
+    }
+   ]
+  }
+ ]
+}

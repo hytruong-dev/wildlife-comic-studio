@@ -1,0 +1,74 @@
+{
+ "title_lines": [
+  "CHỈ ĂN LÁ CÂY",
+  "CƠ BẮP 800KG?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "tại sao Khỉ Đột",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01b.png",
+   "stickers": []
+  },
+  {
+   "at": "Hãy nhìn Vua Đấu Trường",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "Cơ bắp của nó khỏe",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "với lực cắn 1300",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03b.png",
+   "stickers": []
+  },
+  {
+   "at": "Bí mật sức mạnh không",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "Bên trong ruột già khổng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "lá cây mỗi ngày",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05b.png",
+   "stickers": []
+  },
+  {
+   "at": "Khi thị uy nó đứng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "sóng âm sấm",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "Một cỗ máy cơ bắp",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  }
+ ]
+}

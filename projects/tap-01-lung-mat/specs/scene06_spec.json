@@ -1,0 +1,257 @@
+{
+  "scene_id": "scene06",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 3,
+  "world_width": 2416,
+  "world_height": 1230,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 150,
+  "duration_ms": 62320,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/assets/scenes_composed/scene06_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      340,
+      8,
+      940,
+      52
+    ],
+    "x": 352,
+    "y": 12,
+    "w": 576,
+    "h": 38,
+    "text": "[PHẦN 6]  BÀI HỌC SINH TỒN & BẬT MÍ TẬP TIẾP THEO",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/assets/scenes_composed/scene06_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 24680,
+      "has_frame": false,
+      "pill_box": [
+        685,
+        110,
+        873,
+        147
+      ],
+      "art_only_box": [
+        456,
+        146,
+        1099,
+        499
+      ],
+      "caption": {
+        "text": "Bài học sinh tồn: Kích thước không quyết định vị thế kẻ chiến thắng",
+        "x": 488,
+        "y": 499,
+        "w": 580,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        454,
+        106,
+        1101,
+        534
+      ],
+      "img_region": {
+        "x": 456,
+        "y": 146,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 24680,
+      "end_ms": 41618,
+      "has_frame": false,
+      "pill_box": [
+        1533,
+        110,
+        1746,
+        145
+      ],
+      "art_only_box": [
+        1316,
+        146,
+        1959,
+        499
+      ],
+      "caption": {
+        "text": "Đại dương bao la: Rái Cá Biển có vẻ ngoài siêu đáng yêu, nằm ngửa đập vỏ sò",
+        "x": 1300,
+        "y": 499,
+        "w": 675,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1296,
+        106,
+        1979,
+        534
+      ],
+      "img_region": {
+        "x": 1316,
+        "y": 146,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 41618,
+      "end_ms": 62320,
+      "has_frame": false,
+      "pill_box": [
+        1080,
+        690,
+        1338,
+        730
+      ],
+      "art_only_box": [
+        886,
+        726,
+        1529,
+        1079
+      ],
+      "caption": {
+        "text": "Bật mí Tập 2: Góc khuất rùng rợn của Rái Cá Biển — bắt cóc hải cẩu con!",
+        "x": 881,
+        "y": 1079,
+        "w": 653,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        877,
+        686,
+        1538,
+        1114
+      ],
+      "img_region": {
+        "x": 886,
+        "y": 726,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 454.0,
+    "y_min": 106.0,
+    "x_max": 1979.0,
+    "y_max": 1114.0,
+    "bbox_w": 1525.0,
+    "bbox_h": 1008.0,
+    "center_x": 1216.5,
+    "center_y": 610.0,
+    "zoom_out_scale": 0.563,
+    "crop_w": 2273.4,
+    "crop_h": 1158.0
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 777.5,
+      "cy": 320.0,
+      "crop_w": 1165.8,
+      "crop_h": 593.8,
+      "zoom_relative": 1.95,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 24060.0,
+      "cx": 777.5,
+      "cy": 320.0,
+      "crop_w": 1165.8,
+      "crop_h": 593.8,
+      "zoom_relative": 1.95,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 24680.0,
+      "cx": 1637.5,
+      "cy": 320.0,
+      "crop_w": 1165.8,
+      "crop_h": 593.8,
+      "zoom_relative": 1.95,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 40998.0,
+      "cx": 1637.5,
+      "cy": 320.0,
+      "crop_w": 1165.8,
+      "crop_h": 593.8,
+      "zoom_relative": 1.95,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 41618.0,
+      "cx": 1207.5,
+      "cy": 900.0,
+      "crop_w": 1165.8,
+      "crop_h": 593.8,
+      "zoom_relative": 1.95,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 60120.0,
+      "cx": 1207.5,
+      "cy": 900.0,
+      "crop_w": 1165.8,
+      "crop_h": 593.8,
+      "zoom_relative": 1.95,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 61110.0,
+      "cx": 1216.5,
+      "cy": 610.0,
+      "crop_w": 2273.4,
+      "crop_h": 1158.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 62320.0,
+      "cx": 1216.5,
+      "cy": 610.0,
+      "crop_w": 2273.4,
+      "crop_h": 1158.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

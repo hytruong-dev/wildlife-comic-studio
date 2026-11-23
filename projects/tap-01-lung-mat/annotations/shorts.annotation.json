@@ -1,0 +1,75 @@
+{
+  "version": "1.0",
+  "canvas": {
+    "width": 1080,
+    "height": 1920
+  },
+  "sceneDurationMs": 50700,
+  "elements": [
+    {
+      "id": "sh_header",
+      "region": {
+        "x": 30,
+        "y": 30,
+        "width": 1020,
+        "height": 130
+      },
+      "reveal": {
+        "startMs": 0,
+        "durationMs": 1500
+      }
+    },
+    {
+      "id": "sh_card1",
+      "region": {
+        "x": 40,
+        "y": 185,
+        "width": 1000,
+        "height": 510
+      },
+      "reveal": {
+        "startMs": 1500,
+        "durationMs": 15000
+      }
+    },
+    {
+      "id": "sh_card2",
+      "region": {
+        "x": 40,
+        "y": 720,
+        "width": 1000,
+        "height": 510
+      },
+      "reveal": {
+        "startMs": 16500,
+        "durationMs": 15000
+      }
+    },
+    {
+      "id": "sh_card3",
+      "region": {
+        "x": 40,
+        "y": 1255,
+        "width": 1000,
+        "height": 510
+      },
+      "reveal": {
+        "startMs": 31500,
+        "durationMs": 14000
+      }
+    },
+    {
+      "id": "sh_cta",
+      "region": {
+        "x": 40,
+        "y": 1785,
+        "width": 1000,
+        "height": 105
+      },
+      "reveal": {
+        "startMs": 45500,
+        "durationMs": 5200
+      }
+    }
+  ]
+}

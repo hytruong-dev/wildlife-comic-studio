@@ -1,0 +1,456 @@
+{
+ "episode": "tap-12-ha-ma",
+ "title_lines": [
+  "CỖ XE TĂNG 3 TẤN",
+  "NHƯNG KHÔNG BIẾT BƠI?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 42.42,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-12-ha-ma_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  6.73,
+  10.83,
+  15.03,
+  19.81,
+  24.47,
+  28.15,
+  31.51,
+  36.15,
+  39.01
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "t": 1.32,
+     "side": "L",
+     "y": 560,
+     "value": "3 TẤN",
+     "label": "cỗ xe tăng",
+     "target": [
+      0.35,
+      0.4
+     ]
+    },
+    {
+     "t": 2.46,
+     "side": "R",
+     "y": 820,
+     "value": "16 TIẾNG",
+     "label": "ngâm nước/ngày",
+     "target": [
+      0.65,
+      0.65
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 0.44,
+     "text": "Một sinh vật"
+    },
+    {
+     "t": 0.9,
+     "text": "nặng tới 3"
+    },
+    {
+     "t": 1.54,
+     "text": "tấn ngâm mình"
+    },
+    {
+     "t": 2.08,
+     "text": "dưới nước 16"
+    },
+    {
+     "t": 2.92,
+     "text": "tiếng mỗi ngày,"
+    },
+    {
+     "t": 3.5,
+     "text": "nhưng lại hoàn"
+    },
+    {
+     "t": 4.34,
+     "text": "toàn không biết"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 4.93,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 4.96,
+     "text": "bơi! Đó chính"
+    },
+    {
+     "t": 6.1,
+     "text": "là Hà Mã,"
+    },
+    {
+     "t": 7.0,
+     "text": "cỗ xe tăng"
+    },
+    {
+     "t": 7.46,
+     "text": "bọc thịt hung"
+    },
+    {
+     "t": 8.12,
+     "text": "hãn nhất đầm"
+    },
+    {
+     "t": 8.72,
+     "text": "lầy châu"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 9.03,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 9.08,
+     "text": "Phi! Xương của"
+    },
+    {
+     "t": 10.2,
+     "text": "nó đặc và"
+    },
+    {
+     "t": 10.72,
+     "text": "nặng đến mức"
+    },
+    {
+     "t": 11.24,
+     "text": "ném xuống nước"
+    },
+    {
+     "t": 11.84,
+     "text": "là chìm nghỉm"
+    },
+    {
+     "t": 12.52,
+     "text": "như một khối đá"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 13.23,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "t": 16.68,
+     "side": "L",
+     "y": 650,
+     "value": "8 KM/H",
+     "label": "chạy bộ đáy sông",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 13.22,
+     "text": "tảng, nên thay"
+    },
+    {
+     "t": 14.36,
+     "text": "vì bơi,"
+    },
+    {
+     "t": 14.8,
+     "text": "nó chọn cách"
+    },
+    {
+     "t": 15.3,
+     "text": "chạy bộ dưới"
+    },
+    {
+     "t": 15.92,
+     "text": "đáy sông với"
+    },
+    {
+     "t": 16.42,
+     "text": "tốc độ 8km/h!"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 18.01,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 19.34,
+     "side": "R",
+     "y": 580,
+     "value": "30 KM/H",
+     "label": "tốc độ trên cạn",
+     "target": [
+      0.65,
+      0.45
+     ]
+    },
+    {
+     "t": 21.76,
+     "side": "L",
+     "y": 880,
+     "value": "5 CM",
+     "label": "da dày chống đạn",
+     "target": [
+      0.35,
+      0.7
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 18.26,
+     "text": "Trên bờ,"
+    },
+    {
+     "t": 18.68,
+     "text": "nó có thể"
+    },
+    {
+     "t": 19.04,
+     "text": "bứt tốc 30km/h,"
+    },
+    {
+     "t": 20.24,
+     "text": "sở hữu lớp"
+    },
+    {
+     "t": 21.32,
+     "text": "da dày 5cm chống"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 22.67,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 22.72,
+     "text": "đạn và tự"
+    },
+    {
+     "t": 23.28,
+     "text": "tiết ra lớp"
+    },
+    {
+     "t": 23.92,
+     "text": "mồ hôi đỏ"
+    },
+    {
+     "t": 24.38,
+     "text": "rực như máu"
+    },
+    {
+     "t": 25.04,
+     "text": "để chống nắng"
+    },
+    {
+     "t": 25.54,
+     "text": "kiêm diệt khuẩn."
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 26.35,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 28.02,
+     "side": "L",
+     "y": 600,
+     "value": "1.800 PSI",
+     "label": "lực cắn cực hạn",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 26.6,
+     "text": "Đáng sợ"
+    },
+    {
+     "t": 27.4,
+     "text": "nhất là lực"
+    },
+    {
+     "t": 27.9,
+     "text": "cắn 1.800 PSI"
+    },
+    {
+     "t": 29.1,
+     "text": "gấp 3 lần sư"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 29.71,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 31.06,
+     "side": "L",
+     "y": 650,
+     "value": "50 CM",
+     "label": "răng nanh giáo thép",
+     "target": [
+      0.4,
+      0.5
+     ]
+    },
+    {
+     "t": 33.48,
+     "side": "R",
+     "y": 900,
+     "value": "3 MÉT",
+     "label": "cắn đôi cá sấu",
+     "target": [
+      0.65,
+      0.7
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 29.7,
+     "text": "tử, kết hợp"
+    },
+    {
+     "t": 30.58,
+     "text": "cặp răng nanh"
+    },
+    {
+     "t": 31.06,
+     "text": "50cm đủ sức"
+    },
+    {
+     "t": 32.16,
+     "text": "cắn đứt đôi"
+    },
+    {
+     "t": 32.66,
+     "text": "một con cá"
+    },
+    {
+     "t": 33.06,
+     "text": "sấu dài 3m"
+    },
+    {
+     "t": 33.76,
+     "text": "chỉ trong một chớp"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 34.35,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 34.4,
+     "text": "mắt! Vậy là"
+    },
+    {
+     "t": 35.38,
+     "text": "bí mật đã"
+    },
+    {
+     "t": 35.82,
+     "text": "rõ: hà mã"
+    },
+    {
+     "t": 36.76,
+     "text": "không cần học"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 37.21,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 37.2,
+     "text": "bơi, vì dưới"
+    },
+    {
+     "t": 37.86,
+     "text": "đáy sông hay"
+    },
+    {
+     "t": 38.44,
+     "text": "trên cạn,"
+    },
+    {
+     "t": 38.9,
+     "text": "nó sinh ra"
+    },
+    {
+     "t": 39.86,
+     "text": "đã là một"
+    },
+    {
+     "t": 40.2,
+     "text": "cỗ xe bọc"
+    },
+    {
+     "t": 40.86,
+     "text": "thép bất khả"
+    },
+    {
+     "t": 41.4,
+     "text": "chiến bại của"
+    },
+    {
+     "t": 41.82,
+     "text": "tự nhiên!"
+    }
+   ]
+  }
+ ]
+}

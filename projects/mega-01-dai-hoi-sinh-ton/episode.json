@@ -1,0 +1,1689 @@
+{
+ "_doc": "Meta của episode.json — TẬP ĐẶC BIỆT nội dung MỚI HOÀN TOÀN (không cắt ghép tập lẻ, render như tập thường, KHÔNG dùng assemble.py). Lời + ảnh ở content/sNN.md, shorts.md. Sinh lại: python src/mega/build_from_content.py projects/mega-01-dai-hoi-sinh-ton",
+ "episode_no": 0,
+ "animal": "10 quái kiệt — Đại Hội Sinh Tồn",
+ "slug": "mega-01-dai-hoi-sinh-ton",
+ "format": "F_SPECIAL",
+ "persona": "giai_dau",
+ "nickname": "Đại Hội Sinh Tồn",
+ "sources": [
+  "Koala ôm cây giải nhiệt: Briscoe et al. 2014, Biology Letters (thân cây keo mát hơn không khí ~5°C, giảm ~1/2 nước làm mát)",
+  "Koala liếm nước mưa trên thân cây: Mella et al. 2020, Ethology (46 lần quan sát 2006-2019, một con uống liên tục 15 phút)",
+  "Thú mỏ vịt giữ thân nhiệt ~32°C khi bơi trong nước 0°C ít nhất 5 giờ: Grant & Dawson 1983, Australian Journal of Zoology; Grigg et al. 1992; lông cách nhiệt hơn gấu Bắc Cực và hải ly: Grant & Dawson 1978 (dẫn trong Nicol 2017, Frontiers)",
+  "Rái cá biển giơ bàn tay khỏi mặt nước để giữ nhiệt: Oregon Zoo; Smithsonian Magazine",
+  "Chồn Gulo: 562 hang sinh sản đều ở vùng tuyết xuân dai dẳng: Copeland et al. 2010, Canadian Journal of Zoology; hang dưới >1m tuyết: Magoun & Copeland 1998",
+  "Gấu nước không già khi đông đá (-30°C luân phiên mỗi tuần, sống gấp đôi): Sieger et al. 2022, Journal of Zoology (ĐH Stuttgart)",
+  "Lửng mật Kalahari: con đực đi ~13,8km/đêm (tới 27km/ngày): Begg et al. 2005, Journal of Zoology; tới 50 hố mỗi lần kiếm ăn: honeybadger.com (Begg)",
+  "Chim ưng xám (pale chanting goshawk) bám theo lửng mật, tới 6 con; lửng không được/mất gì: Begg et al., Small Carnivores (Wiley 2016)",
+  "Chồn Gulo M56 đi ~800km (500 dặm) từ Grand Teton tới Colorado 2009, con đầu tiên ở Colorado từ 1919: WCS 2009; Colorado Parks & Wildlife",
+  "Chồn Gulo đầu tiên được xác nhận ở Michigan sau ~200 năm (2004, Ubly): AP/NBC News 2004",
+  "Chim cánh cụt Adélie di cư trung bình 12.760km/năm, dài nhất 17.600km, theo ánh sáng: Ballard et al. 2010, Ecology",
+  "Tên Adélie đặt theo vợ nhà thám hiểm Dumont d'Urville (1840): Australian Antarctic Program",
+  "Tôm tít Nannosquilla decemspinosa lộn nhào 20-40 vòng, 72 vòng/phút, tới 2m: Full et al. 1993, Nature 'Locomotion like a wheel?'",
+  "Bồ nông bay theo luồng khí nóng, lên cao hàng km; hồ Eyre 1989 ~100.000 chim non; chưa rõ cách định vị nước: ABC News (Kingsford), Region Canberra",
+  "Thú mỏ vịt ăn 13-28% cân nặng/ngày, mẹ cho con bú tới 90-100%: Holland & Jackson 2002 (dẫn trong Hawke et al. 2019, J. Mammalogy)",
+  "Đạm sữa thú mỏ vịt (MLP) kháng khuẩn, cấu trúc 'Shirley Temple': Newman et al. 2018, Acta Cryst F; CSIRO 2018",
+  "Rái cá biển dùng công cụ ít hỏng răng, con cái ăn mồi cứng hơn ~197%: Law et al. 2024, Science (196 cá thể)",
+  "Cá heo đá cá (fish-whacking) ở Florida: National Geographic (Gazda, ĐH Florida)",
+  "Bồ nông bay chữ V giảm nhịp tim 11,4-14,5%: Weimerskirch et al. 2001, Nature",
+  "Lửng mật ăn ~2.800 ấu trùng ong trong 53,2 giờ, ấu trùng sâu 50-70cm: Begg et al. 2003, J. Zoology (diet)",
+  "Chim dẫn mật dẫn lửng mật: chưa có bằng chứng (Dean, Siegfried & Macdonald 1990, Conservation Biology); phim cũ dàn dựng bằng chim nhồi bông; 394 phỏng vấn ở 9 nước: van der Wal et al. 2023, J. Zoology",
+  "Cá heo hợp tác ngư dân Laguna, Brazil: bắt được cá cao gấp 17 lần, nhiều gần gấp 4 lần, cá heo sống sót +13%: Cantor et al. 2023, PNAS",
+  "Cá heo nhớ tiếng huýt sáo bạn cũ sau 20 năm 6 tháng (Bailey & Allie): Bruck 2013, Proc. R. Soc. B (53 cá thể, 6 cơ sở)",
+  "Bè rái cá biển 10-100 con, lớn nhất hơn 2.000 con ở Alaska; bè đực/cái riêng: BBC Earth; Alaska Dept. Fish & Game",
+  "Cape Crozier ~150.000 cặp cánh cụt Adélie: Antarctic Sun 2010 (Ballard)",
+  "Tôm tít đấm khiên đuôi (telson sparring) để đo sức, >60 trận: Green & Patek 2018, Proc. R. Soc. B",
+  "Tôm tít phân biệt màu kém dù có 12 loại thụ thể: Thoen et al. 2014, Science",
+  "Gấu nước sống sót va chạm ~825 m/s, chết trên ~900 m/s; gấu nước trên Beresheet gần như chắc chắn không sống: Traspas & Burchell 2021, Astrobiology",
+  "Huyền thoại bồ nông lấy máu nuôi con ('pelican in her piety') bắt nguồn từ động tác ép túi họng vào ngực và chóp mỏ đỏ: Durham World Heritage Site; Oxford 'The Angus'",
+  "Lông nhân tạo mô phỏng rái cá/hải ly giữ khí — bộ đồ lặn: Nasto et al. 2016, Physical Review Fluids (MIT)",
+  "Lưới thép mô phỏng lông cánh cụt Gentoo giảm ~95% độ bám băng: Wood et al. 2022, ACS Applied Materials & Interfaces (McGill)",
+  "Airbus fello'fly: 2 chiếc A350 bay cách 3km, Toulouse–Montreal 2021, tiết kiệm >6 tấn CO2: Airbus 2021",
+  "Mắt tôm tít truyền cảm hứng cảm biến/máy ảnh mới: nhiều nhóm nghiên cứu (đã nêu như hướng nghiên cứu, không chấm điểm)",
+  "Đạm Dsup của gấu nước giảm ~40% hư hại ADN do tia X trong tế bào người: Hashimoto et al. 2016, Nature Communications",
+  "GLP-1 bền vững trong nọc thú mỏ vịt — hướng thuốc tiểu đường type 2: Tsiantis et al. 2016, Scientific Reports (ĐH Adelaide & Flinders); thử nghiệm trên chuột: AusHealth Platypep",
+  "Hóa thạch bồ nông ~30 triệu năm ở Luberon (Pháp), mỏ gần như không đổi: Louchart et al. 2011, Journal of Ornithology",
+  "Tên khoa học: Mellivora = 'kẻ ăn mật', capensis = mũi Hảo Vọng (Vanderhaar & Hwang 2003, Mammalian Species); Stomatopoda = 'chân miệng'; Goeze 1773 'gấu nước nhỏ', Spallanzani 1776 Tardigrada = 'kẻ bước chậm'; tên Platypus trùng chi bọ cánh cứng -> Ornithorhynchus anatinus 'mỏ chim, giống vịt' (San Diego Zoo fact sheet)",
+  "Gấu nước đi bộ giống côn trùng to gấp ~500.000 lần, ~0,5 thân/giây, tối đa ~2 thân/giây: Nirody et al. 2021, PNAS",
+  "Cá heo Nicklo (FB15) 67 tuổi, cá heo hoang dã thọ nhất, >820 lần nhìn thấy, sinh con cuối lúc 48 tuổi: Sarasota Dolphin Research Program",
+  "Thú mỏ vịt hoang dã 24 tuổi (Monbulk Creek, Melbourne), vượt kỷ lục 21 năm: Serena et al. 2024, Australian Mammalogy",
+  "Lửng mật Kalahari sống 3-8 năm: Begg et al. 2005 (life-history)",
+  "Thú mỏ vịt lặn TB 31,3 giây, nổi 10,1 giây, 75 lần/giờ, tới 1.600 lần/chuyến, 88.906 lần lặn của 11 con: Bethge et al. 2003",
+  "Rái cá biển còn ~1.000-2.000 con năm 1911, hiệp ước 1911, nay >100.000: USFWS; California DFG",
+  "Koala ngửi lá trước khi ăn, chọn theo hợp chất bay hơi: Nakamura et al. 2019, JZAR; tránh cây nhiều FPC, theo dõi 10 năm đảo Phillip: Moore & Foley 2005, Nature",
+  "Cá heo lấy >90% nước từ thức ăn và nước chuyển hóa: Séon et al. 2023, JEB",
+  "Gấu nước dùng kim chích hút dịch tế bào rêu/tảo, có loài ăn thịt: Carolina Biological; Massey Univ.",
+  "Thú mỏ vịt kiếm ăn ~10-12 giờ/ngày (TB 12,4 giờ): Bethge 2002 (PhD)",
+  "Lửng mật mẹ chuyển hang ~3 ngày/lần, cách ~2,1km, con phụ thuộc ≥14 tháng: Begg et al. 2005",
+  "Thú mỏ vịt mẹ: hầm làm tổ ~20m, 2-9 nút đất, 1-3 trứng, ấp ~10 ngày giữa bụng và đuôi: Australian Platypus Conservancy; Tasmania NRE",
+  "Rái cá con lông nổi, mẹ quấn tảo bẹ, phụ thuộc 6-8 tháng: UC Davis Wildlife Health Center",
+  "Cá heo mẹ nói 'giọng nựng con' (19 cá heo mẹ, Sarasota): Sayigh et al. 2023, PNAS",
+  "Chồn Gulo mẹ dùng nhiều hang trước khi cai sữa (9-10 tuần), chồn bố thăm hang: Copeland & Glacier NP reports; Science News",
+  "Cánh cụt Adélie thay ca ấp ~12 ngày, con trống nhịn ~1 tháng, chim con vào 'nhà trẻ' ~3 tuần: Davis (penguinworld); Wikipedia/ADW",
+  "Tôm tít Pullosquilla: cả bố lẫn mẹ chăm trứng, đẻ ổ chồng: Wright & Caldwell 2015, J. Crustacean Biology",
+  "Rái cá Selka phân biệt rãnh ~0,3mm, nhanh ~30 lần người: Strobel et al. 2018, JEB",
+  "Giác mạc phẳng giúp cánh cụt nhìn cả trên cạn lẫn dưới nước: Hadden & Zhang 2023, Vision",
+  "Tiếng rống koala đực mang dấu hiệu cá thể (20 con) và kích thước; con cái thích giọng trầm: Charlton et al. 2011, 2012",
+  "Cá heo canh gác bằng định vị 15 ngày liên tục: Branstetter et al. 2012, PLoS ONE",
+  "Cánh cụt quai mũ ngủ >10.000 giấc/ngày, mỗi giấc ~4 giây, tổng >11 giờ: Libourel et al. 2023, Science",
+  "Thú mỏ vịt ngủ REM >8 giờ/ngày, nhiều nhất từng đo: Siegel et al. 1999",
+  "Chồn Gulo đi 150-200km/tuần ở Glacier NP, ít đi vòng: Science News (Copeland)",
+  "Rái cá ngủ/nghỉ ~11 giờ, ăn ~8 giờ, chải lông và chơi ~5 giờ: UC Davis Wildlife Health Center",
+  "Koala nguy cấp từ 12/2/2022 (QLD, NSW, ACT): DCCEEW; Chồn Gulo lục địa Mỹ 'bị đe dọa' 11/2023: USFWS",
+  "Càng búa tôm tít cấu trúc xoắn ốc -> vật liệu mũ bảo hiểm, áo giáp: Kisailus et al. (UC Riverside) 2012-2019",
+  "Cánh cụt có tuyến muối trên mắt, hắt/lắc đầu để thải muối; ăn tuyết: tài liệu sinh lý chim biển (đã nêu ở mức phổ thông)",
+  "Đốm phát quang vàng của tôm tít (Lysiosquillina glabriuscula) giữ tín hiệu ở ~40m, lần đầu ghi nhận phát quang dùng để ra tín hiệu dưới biển: Mazel et al. 2004, Science (UC Berkeley 2003)",
+  "Bồ nông nâu là loài bồ nông duy nhất bổ nhào bắt cá, túi khí dưới da đệm va chạm: Smithsonian National Zoo; San Diego Zoo",
+  "Tên 'ratel' theo tiếng gầm lục cục (người Hà Lan ở Nam Phi); tiếng Luganda 'ntaulira' = 'kẻ không nghe thấy' vì tai nhỏ: Vanderhaar & Hwang 2003, Mammalian Species",
+  "Gulo = 'kẻ tham ăn' (Latin): Alaska Dept. Fish & Game; PBS Nature",
+  "Túi koala mở thẳng ra trước, có cơ vòng; 'mở ngược' là ảo giác khi con lớn: Australian Koala Foundation",
+  "Cơ bắp rái cá tạo nhiệt bằng 'rò rỉ' ty thể (21 cá thể, cả con non): Wright et al. 2021, Science",
+  "Cá heo Hải quân Mỹ giúp dò >100 thủy lôi ở cảng Umm Qasr (Iraq) 3/2003, REMUS phát hiện >200 vật thể đáng ngờ, cảng mở lại sau ~1 tuần: Smithsonian Magazine; DVIDS; NPR"
+ ],
+ "whisper_prompt": "Đại Hội Sinh Tồn, Vẽ Chuyện Hoang Dã, Lửng Mật, Tôm Tít, Gấu Nước, Chồn Gu-lô, Chim Cánh Cụt, Rái Cá Biển, Cá Heo, Chim Bồ Nông, Thú Mỏ Vịt, Cô-a-la, Ka-la-ha-ri, Ta-xma-ni-a, Uai-ô-minh, Cô-lô-ra-đô, Mi-si-gân, A-đê-li, Pa-na-ma, Ây-rơ, La-gu-na, Bra-xin, Bây-li, Ê-li, A-lát-xca, Crô-di-ê, Bê-rê-sít, Shơ-li Tem-pồ, Đi-súp, Ê-bớt, Gờ-lờ-pê-một, in-su-lin",
+ "display_fix": {
+  "mười hai ki-lô-gam": "12kg",
+  "năm mươi ki-lô-gam": "50kg",
+  "hai giây": "2 giây",
+  "Năm hai ngàn mười bốn": "Năm 2014",
+  "năm hai ngàn mười bốn": "năm 2014",
+  "âm ba mươi độ C": "-30°C",
+  "ba mươi hai độ C": "32°C",
+  "ba mươi độ C": "30°C",
+  "năm độ C": "5°C",
+  "không độ C": "0°C",
+  "năm độ": "5 độ",
+  "không độ": "0 độ",
+  "Năm hai ngàn hai mươi ba": "Năm 2023",
+  "năm hai ngàn hai mươi ba": "năm 2023",
+  "Năm hai ngàn hai mươi tư": "Năm 2024",
+  "Năm hai ngàn hai mươi hai": "Năm 2022",
+  "năm hai ngàn hai mươi mốt": "năm 2021",
+  "Năm hai ngàn hai mươi": "Năm 2020",
+  "năm hai ngàn hai mươi": "năm 2020",
+  "Năm hai ngàn mười chín": "Năm 2019",
+  "năm hai ngàn mười tám": "năm 2018",
+  "Năm hai ngàn mười sáu": "Năm 2016",
+  "Năm hai ngàn mười ba": "Năm 2013",
+  "năm hai ngàn lẻ chín": "năm 2009",
+  "năm hai ngàn lẻ bốn": "năm 2004",
+  "năm hai ngàn lẻ một": "năm 2001",
+  "Năm một ngàn chín trăm chín mươi": "Năm 1990",
+  "Năm một ngàn chín trăm tám mươi chín": "Năm 1989",
+  "năm một ngàn chín trăm mười chín": "năm 1919",
+  "Năm một ngàn tám trăm bốn mươi": "Năm 1840",
+  "bốn mươi sáu lần": "46 lần",
+  "mười lăm phút": "15 phút",
+  "năm tiếng": "5 tiếng",
+  "năm trăm sáu mươi hai": "562",
+  "một mét": "1 mét",
+  "hai mét": "2 mét",
+  "hai mươi lăm con": "25 con",
+  "mười bốn cây số": "14km",
+  "hai mươi bảy cây số": "27km",
+  "năm mươi cái hố": "50 cái hố",
+  "sáu con": "6 con",
+  "số tám mươi": "số 80",
+  "tám trăm cây số": "800km",
+  "Chín mươi năm": "90 năm",
+  "hai trăm năm": "200 năm",
+  "bảy mươi xăng-ti-mét": "70cm",
+  "mười ba ngàn cây số": "13.000km",
+  "mười bảy ngàn sáu trăm cây số": "17.600km",
+  "bốn mươi vòng": "40 vòng",
+  "Bảy mươi hai vòng": "72 vòng",
+  "một trăm ngàn": "100.000",
+  "một trăm chín mươi sáu con": "196 con",
+  "gần gấp ba lần": "gần gấp 3 lần",
+  "Bốn con": "4 con",
+  "năm mươi tiếng": "50 tiếng",
+  "hai ngàn tám trăm con": "2.800 con",
+  "năm mươi đến bảy mươi xăng-ti-mét": "50 đến 70cm",
+  "bốn trăm thợ săn": "400 thợ săn",
+  "chín nước": "9 nước",
+  "mười bảy lần": "17 lần",
+  "gấp bốn lần": "gấp 4 lần",
+  "mười ba phần trăm": "13%",
+  "một trăm năm": "100 năm",
+  "năm mươi ba": "53",
+  "sáu thủy cung": "6 thủy cung",
+  "hai mươi năm sáu tháng": "20 năm 6 tháng",
+  "hai mươi năm": "20 năm",
+  "mười đến một trăm con": "10 đến 100 con",
+  "hai ngàn con": "2.000 con",
+  "một trăm năm mươi ngàn": "150.000",
+  "sáu mươi trận": "60 trận",
+  "mười hai loại": "12 loại",
+  "mười hai ngăn": "12 ngăn",
+  "Năm trăm mét": "500 mét",
+  "Bảy trăm": "700",
+  "Tám trăm": "800",
+  "tám trăm hai mươi lăm mét": "825m",
+  "hai lần": "2 lần",
+  "một ngàn năm": "1.000 năm",
+  "chín mươi lăm phần trăm": "95%",
+  "ba cây số": "3km",
+  "bốn mươi phần trăm": "40%",
+  "sáu tấn": "6 tấn",
+  "Gờ-lờ-pê-một": "GLP-1",
+  "in-su-lin": "insulin",
+  "Ka-la-ha-ri": "Kalahari",
+  "Ta-xma-ni-a": "Tasmania",
+  "Uai-ô-minh": "Wyoming",
+  "Cô-lô-ra-đô": "Colorado",
+  "Mi-si-gân": "Michigan",
+  "Rốc-ky": "Rocky",
+  "Tê-tôn": "Teton",
+  "A-đê-li": "Adélie",
+  "Duy-moong Đuy-vin": "Dumont d'Urville",
+  "A-đen": "Adèle",
+  "Pa-na-ma": "Panama",
+  "Nây-chơ": "Nature",
+  "Ây-rơ": "Eyre",
+  "Shơ-li Tem-pồ": "Shirley Temple",
+  "Ca-li-phoóc-ni-a": "California",
+  "Phlo-ri-đa": "Florida",
+  "Bra-xin": "Brazil",
+  "La-gu-na": "Laguna",
+  "Tan-da-ni-a": "Tanzania",
+  "Bây-li": "Bailey",
+  "Ê-li": "Allie",
+  "Bơ-mu-đa": "Bermuda",
+  "A-lát-xca": "Alaska",
+  "Crô-di-ê": "Crozier",
+  "Bê-rê-sít": "Beresheet",
+  "I-xra-en": "Israel",
+  "Ma-xa-chu-xét": "Massachusetts",
+  "Ca-na-đa": "Canada",
+  "Ê-bớt": "Airbus",
+  "cac-bon": "carbon",
+  "Đi-súp": "Dsup",
+  "hóc-môn": "hormone",
+  "la-de": "laser",
+  "Cô-a-la": "Koala",
+  "Gu-lô": "Gulo",
+  "ba phần mười mi-li-mét": "0,3mm",
+  "hai mi-li-mét": "2mm",
+  "hai phần mười giây": "0,2 giây",
+  "ba mươi lần": "30 lần",
+  "một hai phút": "1-2 phút",
+  "Năm hai ngàn mười hai": "Năm 2012",
+  "năm hai ngàn mười một": "năm 2011",
+  "Năm hai ngàn mười một": "Năm 2011",
+  "hai mươi chú": "20 chú",
+  "mười lăm ngày": "15 ngày",
+  "mười ngàn lần": "10.000 lần",
+  "bốn giây": "4 giây",
+  "mười một tiếng": "11 tiếng",
+  "tám tiếng": "8 tiếng",
+  "ba ngày": "3 ngày",
+  "hai cây số": "2km",
+  "mười bốn tháng": "14 tháng",
+  "hai mươi mét": "20 mét",
+  "chín lớp": "9 lớp",
+  "một đến ba trứng": "1 đến 3 trứng",
+  "mười ngày": "10 ngày",
+  "sáu đến tám tháng": "6 đến 8 tháng",
+  "mười chín cá heo": "19 cá heo",
+  "chín, mười tuần": "9-10 tuần",
+  "mười một đến mười bốn phần trăm": "11 đến 14%",
+  "bảy điểm": "7 điểm",
+  "sáu điểm": "6 điểm",
+  "tám điểm": "8 điểm",
+  "mười bốn điểm": "14 điểm",
+  "bốn điểm": "4 điểm",
+  "ba điểm": "3 điểm",
+  "hai điểm": "2 điểm",
+  "một điểm": "1 điểm",
+  "Xen-ca": "Selka",
+  "một trăm năm mươi đến hơn sáu trăm ki-lô-gam": "150 đến hơn 600kg",
+  "hai mét rưỡi": "2,5 mét",
+  "một đến hai ký": "1-2kg",
+  "một mi-li-mét": "1mm",
+  "mười chú Cô-a-la": "10 chú Koala",
+  "mười năm": "10 năm",
+  "chín mươi phần trăm": "90%",
+  "mười đến mười hai tiếng": "10-12 tiếng",
+  "một trăm năm mươi đến hai trăm cây số": "150-200km",
+  "năm trăm ngàn lần": "500.000 lần",
+  "mười hai ngày": "12 ngày",
+  "Chín trăm": "900",
+  "chín trăm mét": "900 mét",
+  "năm một ngàn chín trăm bảy mươi": "năm 1970",
+  "tám trăm hai mươi lần": "820 lần",
+  "năm hai ngàn mười bảy": "năm 2017",
+  "sáu mươi bảy tuổi": "67 tuổi",
+  "Sáu mươi bảy năm": "67 năm",
+  "bốn con": "4 con",
+  "bốn mươi tám tuổi": "48 tuổi",
+  "hai mươi bốn tuổi": "24 tuổi",
+  "hai mươi mốt tuổi": "21 tuổi",
+  "ba đến tám năm": "3-8 năm",
+  "chín mươi ngàn lần": "90.000 lần",
+  "mười một chú": "11 chú",
+  "ba mươi mốt giây": "31 giây",
+  "mười giây": "10 giây",
+  "bảy mươi lăm lần": "75 lần",
+  "một ngàn sáu trăm lần": "1.600 lần",
+  "năm một ngàn chín trăm mười một": "năm 1911",
+  "một đến hai ngàn con": "1.000 đến 2.000 con",
+  "một ngàn con": "1.000 con",
+  "một trăm ngàn con": "100.000 con",
+  "mười hai tháng Hai năm hai ngàn hai mươi hai": "12/2/2022",
+  "tháng Mười Một năm hai ngàn hai mươi ba": "tháng 11/2023",
+  "Tháng Mười Một năm hai ngàn hai mươi ba": "Tháng 11/2023",
+  "Ních-lô": "Nicklo",
+  "Xa-ra-xô-ta": "Sarasota",
+  "Men-bơn": "Melbourne",
+  "Pu-lô-xơ-qui-la": "Pullosquilla",
+  "Glây-xi-ơ": "Glacier",
+  "Phi-líp": "Phillip",
+  "em năm mươi sáu": "M56",
+  "hàng triệu năm": "hàng triệu năm",
+  "hàng trăm năm": "hàng trăm năm",
+  "mỗi năm một vòng": "mỗi năm một vòng",
+  "hàng ngàn năm": "hàng ngàn năm",
+  "một ngàn nhà hàng": "1.000 nhà hàng",
+  "mười ngàn giấc": "10.000 giấc",
+  "hơn một năm": "hơn một năm",
+  "một trăm ngàn chú": "100.000 chú",
+  "mười sáu loại": "16 loại",
+  "hàng trăm ngàn": "hàng trăm ngàn",
+  "hai ngàn thành viên": "2.000 thành viên",
+  "Con số mười sáu": "Con số 16",
+  "hiểu lầm trăm năm": "hiểu lầm trăm năm",
+  "ba mươi triệu năm": "30 triệu năm",
+  "Ba mươi triệu năm": "30 triệu năm",
+  "năm một ngàn bảy trăm bảy mươi ba": "năm 1773",
+  "Lu-bê-rông": "Luberon",
+  "Me-li-vo-ra ca-pen-xít": "Mellivora capensis",
+  "Me-li-vo-ra": "Mellivora",
+  "ca-pen-xít": "capensis",
+  "Pla-ti-pớt": "Platypus",
+  "Ba năm sau": "Ba năm sau",
+  "năm hai ngàn lẻ hai": "năm 2002",
+  "bốn mươi mét": "40 mét",
+  "hơn hai mươi mét": "hơn 20 mét",
+  "Ba-ha-mát": "Bahamas",
+  "Ra-ten": "Ratel",
+  "U-gan-đa": "Uganda",
+  "Gan-đa": "Ganda",
+  "chín mươi năm": "90 năm",
+  "đồng đội trăm năm": "đồng đội trăm năm",
+  "hai mươi mốt chú": "21 chú",
+  "I-rắc": "Iraq",
+  "tháng Ba năm hai ngàn lẻ ba": "tháng 3/2003",
+  "hơn một trăm quả": "hơn 100 quả",
+  "hơn hai trăm vật thể": "hơn 200 vật thể",
+  "tám chú cá heo": "8 chú cá heo",
+  "mười bốn cây số mỗi đêm": "14km mỗi đêm",
+  "hai mươi hai tiếng": "22 tiếng"
+ },
+ "voice": {
+  "min_long_s": 3600,
+  "gap_breathing_s": 0.39
+ },
+ "art": {
+  "decor": "golden stars, tiny medals, confetti",
+  "thumb_badge": "TẬP ĐẶC BIỆT",
+  "shorts_banner_lines": [
+   "10 QUÁI KIỆT THI ĐẤU",
+   "AI LÊN NGÔI?!"
+  ],
+  "shorts_mascot": "a small cute cartoon platypus with brown fur and a soft dark grey duck bill, wearing a green sweatband and a tiny golden crown, holding a gold medal",
+  "thumb_bg": "sân vận động ban đêm màu tím than với đèn spotlight vàng chiếu xuống và pháo hoa",
+  "thumb_title": [
+   "10 QUÁI KIỆT",
+   "AI LÊN NGÔI?!"
+  ],
+  "thumb_scene": "bục vô địch số 1 rực sáng dưới luồng đèn spotlight vàng kim chói lọi, phía trên đỉnh bục là chiếc vương miện vàng quyền lực lơ lửng tỏa sáng cùng một bóng đen bí ẩn (silhouette mờ ảo không nhận ra con vật nào) phủ hào quang tím và dấu hỏi chấm khổng lồ màu vàng phát sáng rực rỡ '?'; bên dưới là các đấu thủ (Lửng Mật đeo kính râm nhe nanh gườm gườm, Tôm Tít giơ đôi găng búa quyền anh rực lửa, Chồn Gulo mắt lóe sáng hung hãn) chuẩn bị lao vào tranh ngôi nghẹt thở",
+  "thumb_prop": "",
+  "thumb_gag": "chú Gấu Koala mặc áo bệnh nhân ngủ gật ôm cột cờ ở góc dưới phải, bong bóng ngủ phồng ở mũi tỉnh bơ giữa trận đấu"
+ },
+ "seo": {
+  "title": "[TẬP ĐẶC BIỆT] 10 Quái Kiệt Thi Đấu 8 Vòng Sinh Tồn: Ai Lên Ngôi Vô Địch?",
+  "hook_paragraph": "Mười sinh vật kỳ dị nhất kênh Vẽ Chuyện Hoang Dã — Lửng Mật, Tôm Tít, Gấu Nước, Chồn Gulo, Chim Cánh Cụt, Rái Cá Biển, Cá Heo, Chim Bồ Nông, Thú Mỏ Vịt và Gấu Koala — bước vào Đại Hội Sinh Tồn với 8 vòng thi và giải phụ: chịu nóng lạnh, marathon, bếp trưởng, giác quan, cha mẹ, đồng đội, phúc khảo tin đồn, giải thưởng phụ và chung kết món quà cho loài người. Toàn bộ là sự thật khoa học MỚI chưa từng kể trong 10 tập lẻ, kèm nguồn nghiên cứu: Koala ôm cây làm điều hòa, chồn Gulo đi bộ 800km, cánh cụt đi 13.000km mỗi năm theo mặt trời, cá heo bắt cá cùng ngư dân Brazil, gấu nước bị bắn bằng súng khí… và một nhà vô địch không ai ngờ tới!",
+  "bullets": [
+   "Vòng 1 – Nóng & lạnh: Koala ôm cây mát hơn 5°C, Thú Mỏ Vịt bơi 5 tiếng trong nước 0°C, gấu nước không già khi đông đá",
+   "Vòng 2 – Marathon: Lửng Mật 14km/đêm, chồn Gulo M56 đi 800km, cánh cụt 13.000km/năm, tôm tít lăn như bánh xe",
+   "Vòng 3 – Bếp trưởng: sữa thú mỏ vịt diệt khuẩn, rái cá dùng đá giữ răng, bồ nông bay chữ V, sự thật chim dẫn mật",
+   "Vòng 4 – Giác quan: rái cá sờ nhanh gấp 30 lần người, cá heo canh gác 15 ngày không ngủ, cánh cụt ngủ 4 giây",
+   "Vòng 5 – Cha mẹ: lửng mẹ chuyển hang 3 ngày/lần, thú mỏ vịt ấp trứng 10 ngày, cá heo mẹ nói giọng nựng con",
+   "Vòng 6 – Đồng đội: cá heo bắt cá cùng ngư dân Laguna, cá heo nhớ tên bạn sau 20 năm, tôm tít đấm khiên đo sức",
+   "Vòng 7 – Phúc khảo: mắt tôm tít, gấu nước trên Mặt Trăng, bồ nông lấy máu nuôi con, Koala không uống nước",
+   "Giải phụ & Chung kết: cá heo Nicklo 67 tuổi, cơ bắp rái cá rò nhiệt, gen gấu nước, nọc thú mỏ vịt chữa tiểu đường"
+  ],
+  "question": "Nếu bạn là giám khảo, bạn sẽ trao vương miện cho ai? Viết tên nhà vô địch của bạn ở phần bình luận nhé!",
+  "next_teaser": "Đại Hội Sinh Tồn #2 — 10 gương mặt mới, có cả tôm súng bắn đại bác nước",
+  "hashtags": [
+   "#VeChuyenHoangDa",
+   "#TheGioiDongVat",
+   "#DaiHoiSinhTon",
+   "#DongVatKyLa",
+   "#KhoaHoc"
+  ],
+  "tags": [
+   "vẽ chuyện hoang dã",
+   "đại hội sinh tồn",
+   "thế giới động vật",
+   "động vật kỳ lạ",
+   "thú mỏ vịt",
+   "lửng mật",
+   "tôm tít",
+   "gấu nước",
+   "chồn gulo",
+   "chim cánh cụt",
+   "rái cá biển",
+   "cá heo",
+   "chim bồ nông",
+   "gấu koala",
+   "khoa học thú vị",
+   "whiteboard animation",
+   "sự thật động vật",
+   "nghe trước khi ngủ"
+  ],
+  "shorts_title": "10 Quái Kiệt Thi Đấu – Ai Lên Ngôi?! 👑 #shorts #dongvat",
+  "shorts_desc": "Lửng Mật, Tôm Tít hay Gấu Nước? Kết quả Đại Hội Sinh Tồn khiến cả khán đài sững sờ — nhà vô địch là con vật từng bị tưởng là đồ giả! 👑\n👉 Xem trọn Đại Hội Sinh Tồn — tập đặc biệt trên kênh Vẽ Chuyện Hoang Dã.",
+  "shorts_tags": [
+   "đại hội sinh tồn",
+   "thú mỏ vịt",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã",
+   "động vật kỳ lạ"
+  ],
+  "en_title": "[SPECIAL] 10 Animal Champions In The Ultimate Survival Tournament: Who Wins?!"
+ },
+ "special": "mega-original",
+ "series_label": "Tập đặc biệt Đại Hội Sinh Tồn #1 (sau 10 tập đầu)",
+ "next_label": "tập 11 (Gấu Trúc Lớn)",
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "LỄ KHAI MẠC",
+    "banner_title": "ĐẠI HỘI SINH TỒN LẦN THỨ NHẤT",
+    "chapter_title": "Khai mạc: 10 quái kiệt bước vào Đại Hội Sinh Tồn",
+    "hook": "8 VÒNG THI – 1 VƯƠNG MIỆN",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Một sân vận động khổng lồ chìm trong bóng tối... Mười chiếc bục thi đấu đứng im lặng giữa sân. Và ở chính giữa, một chiếc vương miện bé xíu đang lặng lẽ phát sáng. Đêm nay, mười sinh vật kỳ dị nhất từng bước qua kênh Vẽ Chuyện Hoang Dã sẽ quay trở lại. Nhưng lần này, không phải để kể chuyện của riêng mình... mà để thi đấu với nhau, trực tiếp, trên cùng một sân chơi!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "[surprise-oh] Bật đèn! Chào mừng toàn thể khán đài đến với Đại Hội Sinh Tồn lần thứ nhất! Tôi là người dẫn chương trình đêm nay, và tôi xin hứa một điều: tất cả những gì bạn sắp nghe đều là chuyện chưa từng được kể trong mười tập phim lẻ. Hoàn toàn mới, có nguồn khoa học đàng hoàng, và... hơi điên rồ một chút! [laughter] Luật chơi rất đơn giản. Tám vòng thi, mỗi vòng một thử thách sinh tồn khác nhau. Chịu nóng và chịu lạnh. Chạy đường dài. Ăn uống. Giác quan. Nuôi con. Làm việc nhóm. Phúc khảo tin đồn. Và cuối cùng... ai giúp ích cho loài người nhiều nhất. Mỗi vòng, giám khảo sẽ trao ba tấm huy chương. Vàng được ba điểm, bạc được hai điểm, đồng được một điểm. Ai nhiều điểm nhất sẽ đội vương miện!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Giám khảo xin nhắc: không cắn, không đấm, không xịt mùi hôi vào đối thủ!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Nghe rõ chưa, toàn thể tuyển thủ? Đặc biệt là... một vài cá nhân có tiền sử hơi nóng tính! [laughter] Và bây giờ, xin mời các tuyển thủ bước ra sân!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tuyển thủ số một! Nặng chưa tới mười hai ki-lô-gam! Từng nhai rắn hổ mang như nhai bim bim! Lửng Mật! Tuyển thủ số hai! Võ sĩ có cú đấm nhanh nhất đại dương! Tôm Tít! Tuyển thủ số ba! Kẻ bất tử tí hon! Gấu Nước! Ban tổ chức phải phát kính lúp cho khán giả mới nhìn thấy cậu ấy! [laughter] Tuyển thủ số bốn! Gã liều mạng xứ tuyết! Chồn Gu-lô!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Tuyển thủ số năm, quý ông mặc vest của Nam Cực, Chim Cánh Cụt! Số sáu, Rái Cá Biển! Số bảy, Cá Heo! Tuyển thủ số tám, Chim Bồ Nông, và cái mỏ đi trước chủ nhân... hai giây! [laughter] Tuyển thủ số chín, Thú Mỏ Vịt! Và tuyển thủ số mười...",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tuyển thủ số mười... xin lỗi toàn thể khán đài, tuyển thủ số mười hiện vẫn đang ngủ.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Ủa... đến lượt cháu chưa ạ? Cháu vừa mơ thấy một cái cây to ơi là to!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Rồi, Gấu Cô-a-la cũng đã có mặt! Nhưng trước khi xem dự đoán, theo đúng truyền thống của mọi giải đấu lớn, chúng ta có... lễ cân ký! Mời các tuyển thủ lần lượt bước lên bàn cân.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Cá Heo bước lên! Kim cân quay vù vù! Một chú cá heo mũi chai trưởng thành có thể nặng từ một trăm năm mươi đến hơn sáu trăm ki-lô-gam! Tuyển thủ nặng ký nhất đại hội! Chim Bồ Nông bước lên! Cân nặng thì vừa phải, nhưng đôi cánh dang ra dài hơn hai mét rưỡi! Ban tổ chức phải mở rộng cả cửa phòng cân! [laughter] Rái Cá Biển bước lên, ôm theo hòn đá! Ban tổ chức yêu cầu bỏ hòn đá ra. Rái Cá... từ chối. Thôi, cân luôn cả đá! [laughter]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Lửng Mật và Chồn Gu-lô bước lên cùng lúc, vì không ai chịu nhường ai. Hai gã nặng chừng một bao gạo nhỏ, nhưng nhìn cách hai gã gườm nhau thì... tưởng nặng cả tấn! Chim Cánh Cụt, Cô-a-la, Thú Mỏ Vịt lần lượt bước lên. Thú Mỏ Vịt nhẹ nhất trong ba bạn, chỉ khoảng một đến hai ký, nhẹ hơn cả một con mèo nhà. Tôm Tít bước lên, dài chưa tới một gang tay. Và cuối cùng... Gấu Nước. Kim cân không nhúc nhích. Chiếc cân điện tử cũng không nhúc nhích. Ban tổ chức phải mang tới... một chiếc kính hiển vi. [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Gấu Nước dài chưa tới một mi-li-mét. Chênh lệch giữa tuyển thủ nặng nhất và nhẹ nhất đại hội lớn đến mức... các nhà toán học của ban tổ chức đã xin nghỉ phép. [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Cân ký xong! Đủ mười tuyển thủ! Và trước khi vào vòng một, chúng ta cùng xem dự đoán của các chuyên gia. Theo dự đoán, Lửng Mật, Tôm Tít và Gấu Nước là ba ứng cử viên nặng ký nhất. Còn Thú Mỏ Vịt và Cô-a-la... chuyên gia chỉ ghi chú đúng một câu: tham gia cho vui. [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng các chuyên gia đâu phải lúc nào cũng đúng. Đêm nay, mọi con số sẽ được kiểm chứng lại từ đầu. Không có chuyện cũ. Không có huyền thoại. Chỉ có khoa học, chỉ có những bằng chứng được đo đạc thật... và một chiếc vương miện.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Vòng một bắt đầu ngay sau đây, và nó sẽ khiến các tuyển thủ... hoặc là đóng băng, hoặc là chín luôn!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "VÒNG 1",
+    "banner_title": "THỬ THÁCH NÓNG & LẠNH",
+    "chapter_title": "Vòng 1: Thử thách nóng và lạnh — ai giữ ấm, ai giải nhiệt giỏi nhất",
+    "hook": "ĐÓNG BĂNG HAY CHÍN LUÔN?",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Vòng một: thử thách nóng và lạnh! Câu hỏi rất đơn giản: khi trời nóng như lò nướng, hoặc lạnh như tủ đá, cơ thể bạn làm gì để sống sót? Ban giám khảo không chấm ai to khỏe nhất. Ban giám khảo chấm ai thông minh nhất trong việc điều khiển nhiệt độ của chính mình. Phần thi nóng mở màn. Và người đầu tiên bước vào sân là một tuyển thủ mà ai cũng nghĩ là... sẽ ngủ gật ngay lập tức.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hồ sơ tuyển thủ Gấu Cô-a-la. Bộ lông: dày. Nơi ở: trên cây, không có hang, không có điều hòa. Kế hoạch chống nóng: chưa rõ. Nhưng các nhà khoa học ở Úc đã phát hiện ra một bí mật mà chính Cô-a-la giữ kín suốt hàng triệu năm.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Năm hai ngàn mười bốn, họ mang máy ảnh nhiệt vào rừng, theo dõi những con Cô-a-la hoang dã trong những ngày nắng gắt trên ba mươi độ C. Và họ thấy một hành động rất lạ: trời càng nóng, Cô-a-la càng leo xuống thấp, rồi dang tay dang chân... ôm chặt lấy thân cây như ôm gối ôm! Hình ảnh nhiệt cho thấy lý do: thân cây keo mát hơn không khí xung quanh hơn năm độ C. Cô-a-la đang dùng cái cây như một chiếc tủ lạnh khổng lồ! [laughter] Và đây không phải ôm cho vui. Theo tính toán của các nhà khoa học, chỉ riêng việc ôm cây đã giúp Cô-a-la tiết kiệm khoảng một nửa lượng nước cần để làm mát cơ thể trong một ngày nóng. Điều buồn cười nhất: cây keo này Cô-a-la không hề ăn. Nó leo sang cây keo chỉ để... ôm cho mát, xong lại leo về cây khuynh diệp để ăn. Một cây làm phòng ăn, một cây làm phòng điều hòa! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Nhưng chống nóng mới chỉ là một nửa. Nửa còn lại là chuyện... uống nước. Trong hàng trăm năm, người ta tin rằng Cô-a-la lấy gần hết nước từ lá, chỉ uống khi nắng nóng khắc nghiệt. Cho đến năm hai ngàn hai mươi, khi một nhóm nhà khoa học tập hợp bốn mươi sáu lần quan sát Cô-a-la hoang dã... đang uống nước.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Và cách uống thì... không giống ai. Khi trời mưa, nước chảy thành dòng dọc theo thân cây trơn. Cô-a-la ôm cây, thè lưỡi... và liếm từng dòng nước mưa từ trên xuống! [laughter] Có một cô Cô-a-la mẹ đã uống liên tục như thế suốt mười lăm phút không nghỉ. Cây cối với Cô-a-la vừa là nhà, vừa là bếp, vừa là điều hòa, vừa là... vòi nước!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Giám khảo ghi nhận: chiến thuật tiết kiệm, khoa học, và... rất đáng yêu.",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Phần thi nóng tiếp theo, chúng ta có hai tuyển thủ đến từ biển lạnh. Rái Cá Biển và Chim Cánh Cụt đều đứng nhìn nửa sân sa mạc với ánh mắt... không mấy thiện cảm. [laughter] Hai bạn xin phép chuyển sang phần thi lạnh. Và giám khảo đồng ý, vì phần thi lạnh mới là chiến trường thật sự!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Phần thi lạnh. Nhiệt độ nước: gần bằng không độ C. Ở mức này, một con người không được bảo hộ chỉ trụ được rất ngắn trước khi cơ thể bắt đầu mất kiểm soát. Tuyển thủ đầu tiên nhảy xuống, và cả sân vận động cùng... há hốc mồm. Không phải Rái Cá, không phải Cánh Cụt. Mà là Thú Mỏ Vịt!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Tin khẩn từ hồ băng: tuyển thủ được dự đoán \"tham gia cho vui\" vừa nhảy xuống nước lạnh nhất sân!",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "Nhiều người quên mất rằng Thú Mỏ Vịt không chỉ sống ở những con suối ấm. Ở đảo Ta-xma-ni-a và những dòng sông trên núi cao nước Úc, mùa đông nước sông lạnh gần bằng không độ C. Các nhà khoa học đã gắn thiết bị đo nhiệt độ vào những con Thú Mỏ Vịt hoang dã và theo dõi chúng suốt mùa đông. Kết quả khiến họ phải đo lại mấy lần. Một con Thú Mỏ Vịt đã bơi trong dòng nước không độ C ở một con sông đóng băng một phần suốt ít nhất năm tiếng liền, mà nhiệt độ cơ thể vẫn giữ nguyên, không hề tụt.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và nhiệt độ cơ thể ấy là bao nhiêu? Chỉ khoảng ba mươi hai độ C, thấp hơn người chúng ta khoảng năm độ. Tức là Thú Mỏ Vịt chạy máy sưởi ở mức tiết kiệm điện... mà vẫn ấm áp giữa nước đá. Nghe như quảng cáo điều hòa inverter! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Bí quyết nằm ở ba lớp bảo vệ. Thứ nhất là bộ lông: lớp lông tơ xoăn tít bên dưới giữ lại một lớp không khí sát da, giống chiếc áo phao bằng không khí. Theo các nhà nghiên cứu, khả năng cách nhiệt của bộ lông này còn cao hơn cả lông gấu Bắc Cực và lông hải ly! Thứ hai, ở gốc chân sau và gốc đuôi có một mạng lưới mạch máu đặc biệt, hoạt động như bộ trao đổi nhiệt: máu nóng chảy ra sưởi ấm cho máu lạnh chảy về, nên hơi ấm không bị thất thoát ra nước. Và thứ ba: khi lạnh hơn, Thú Mỏ Vịt chỉ đơn giản là... đốt năng lượng nhiều hơn. Lò sưởi bên trong cứ thế cháy đều, không hề tắt.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Giám khảo xin ghi nhận: tuyển thủ số chín... đã gây bất ngờ lớn đầu tiên của đêm nay.",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Rái Cá Biển cũng không chịu thua. Không có lớp mỡ dày như hải cẩu, Rái Cá có một mẹo giữ ấm cực kỳ đơn giản mà khán giả có thể tự quan sát. Khi nghỉ ngơi trên mặt nước, Rái Cá Biển giơ bàn tay và bàn chân lên khỏi mặt nước. Vì bàn tay ít lông, mà nước lại hút hơi nóng nhanh hơn không khí rất nhiều lần. Đôi khi Rái Cá còn úp hai bàn tay lên mắt khi ngủ, trông như đang ngại ngùng, nhưng thật ra là đang... giữ ấm cho đôi bàn tay! [laughter]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Tuyển thủ tiếp theo không cần nước lạnh. Hắn cần tuyết. Rất nhiều tuyết. Chồn Gu-lô bước vào khu băng giá, nhìn quanh... và bắt đầu đào. Các nhà khoa học đã đánh dấu toàn bộ năm trăm sáu mươi hai hang sinh con của Chồn Gu-lô từng được tìm thấy ở Bắc Mỹ và Bắc Âu lên bản đồ vệ tinh. Và kết quả trùng khớp đến kinh ngạc: tất cả các hang đều nằm ở nơi tuyết vẫn còn phủ dày cho đến cuối mùa xuân. Không có ngoại lệ.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Chồn mẹ đào đường hầm dưới lớp tuyết dày hơn một mét, có khi là cả một mê cung nhiều ngã rẽ, để sinh con giữa mùa đông. Tuyết nghe thì lạnh, nhưng lớp tuyết dày lại là tấm chăn cách nhiệt tuyệt vời: bên ngoài gió bão gào thét, bên trong hang vẫn yên ổn như trong một chiếc túi ngủ.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "[sigh] Và cũng vì thế mà Chồn Gu-lô sợ nhất là... mùa xuân đến quá sớm. Tuyết tan sớm thì hang sụp, nhà không còn, chồn con phơi mình giữa trời. Kẻ dám cướp mồi của gấu xám lại có một nỗi lo mà ai nghe cũng thấy thương: lo trái đất ấm lên.",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Và cuối cùng, tuyển thủ được đặt cược nhiều nhất vòng này: Gấu Nước, kẻ từng sống sót ở nhiệt độ thấp đến khó tin. Cậu ấy bước vào tủ đông... Năm hai ngàn hai mươi hai, các nhà khoa học Đức làm một thí nghiệm thú vị: cứ một tuần cho Gấu Nước đông đá ở âm ba mươi độ C, rồi tuần sau rã đông, cho ăn, rồi lại đông đá. Lặp lại như vậy cho đến khi chúng chết vì tuổi già. Và nhóm Gấu Nước được đông đá sống lâu gấp đôi nhóm không đông đá!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng phần thú vị nằm ở phép trừ: nếu bỏ đi thời gian nằm trong tủ đông, thì tuổi thọ của hai nhóm... bằng nhau. Nghĩa là khi bị đông đá, Gấu Nước không già đi chút nào. Đồng hồ sinh học dừng hẳn, như nàng công chúa ngủ trong rừng!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Giám khảo xin thông báo: tuyển thủ Gấu Nước hiện đang đông đá và... từ chối tham gia chấm điểm.",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Đúng vậy! Đông đá thì không già, nhưng cũng không thi được! Gấu Nước tự loại mình khỏi vòng một vì... ngủ quá ngon! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và đây là kết quả vòng một! Huy chương đồng: Gấu Cô-a-la, bậc thầy ôm cây giải nhiệt và uống nước mưa! Huy chương bạc: Chồn Gu-lô, kiến trúc sư đường hầm dưới tuyết dày! Và huy chương vàng vòng một thuộc về... tuyển thủ mà chuyên gia nói tham gia cho vui: Thú Mỏ Vịt, người bơi năm tiếng trong nước không độ mà vẫn ấm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bảng điểm sau vòng một: Thú Mỏ Vịt ba điểm, Chồn Gu-lô hai điểm, Cô-a-la một điểm. Còn Lửng Mật và Tôm Tít, hai ứng cử viên nặng ký... vẫn chưa có điểm nào! Đừng lo, vòng hai sẽ là vòng của những đôi chân. Và có người sẽ phải đi bộ... nửa vòng trái đất!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "VÒNG 2",
+    "banner_title": "MARATHON SINH TỒN",
+    "chapter_title": "Vòng 2: Marathon sinh tồn — ai đi xa nhất, di chuyển lạ nhất",
+    "hook": "AI ĐI XA NHẤT HÀNH TINH?",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Vòng hai: marathon sinh tồn! Trong tự nhiên, thức ăn không tự bò đến miệng. Muốn sống, phải đi. Và có những tuyển thủ đi xa đến mức... bản đồ phải vẽ thêm trang! Giám khảo sẽ chấm hai tiêu chí: quãng đường đi được, và độ khó của hành trình. Mời tuyển thủ đầu tiên!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Lửng Mật xuất phát! Không cần khởi động! Không cần bản đồ! Chỉ cần cái mũi! Các nhà khoa học ở sa mạc Ka-la-ha-ri đã đeo vòng cổ định vị cho hai mươi lăm con Lửng Mật, rồi kiên nhẫn đi theo chúng suốt nhiều năm. Kết quả: mỗi đêm đi kiếm ăn, một con Lửng Mật đực đi trung bình gần mười bốn cây số. Có những ngày còn đi tới hai mươi bảy cây số! Và đi không phải để dạo chơi. Trong một lần đi kiếm ăn, Lửng Mật có thể đào tới năm mươi cái hố để lôi chuột và thằn lằn ra khỏi hang.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và có một chuyện mà ít ai biết: Lửng Mật không bao giờ đi một mình. Trên đầu nó thường có... một đoàn tùy tùng bay theo! Đó là loài chim ưng xám có tiếng hót như đang hát. Chúng bám theo Lửng Mật, chờ nó đào hang. Con chuột nào hoảng hốt chạy thoát lên mặt đất... là chim ưng sà xuống chộp liền! [laughter] Các nhà khoa học đã từng thấy tới sáu con chim ưng cùng đi theo một con Lửng Mật. Và chim ưng săn mồi thành công hơn hẳn khi đi theo Lửng Mật so với khi tự săn.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Còn Lửng Mật được gì từ đoàn tùy tùng này? Các nhà khoa học đo đạc kỹ và trả lời: không được gì cả. Không mất gì, cũng chẳng được gì. Một gã giang hồ đi đâu cũng có đàn em bám theo hưởng sái, mà bản thân gã... chẳng thèm để ý! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Nhưng nếu Lửng Mật đi xa trong một đêm, thì có một tuyển thủ đi xa... trong cả một mùa xuân. Hồ sơ em năm mươi sáu. Mùa xuân năm hai ngàn lẻ chín, một chú Chồn Gu-lô đực còn trẻ, được đặt mã số em năm mươi sáu, rời khỏi vùng núi gần công viên quốc gia Grand Tê-tôn ở bang Uai-ô-minh, nước Mỹ.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Nó đi về phía Nam. Băng qua núi đá! Băng qua đồng cỏ! Và băng qua cả đường cao tốc liên bang số tám mươi, nơi xe tải chạy ầm ầm ngày đêm! Hai tháng sau, các nhà nghiên cứu nhận được tín hiệu từ... bang Cô-lô-ra-đô. Chú chồn đã đi khoảng tám trăm cây số!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và đây là điều khiến cả nước Mỹ xôn xao: đó là con Chồn Gu-lô đầu tiên được ghi nhận ở bang Cô-lô-ra-đô kể từ năm một ngàn chín trăm mười chín. Chín mươi năm vắng bóng! Có một nhiếp ảnh gia còn chụp được nó trong công viên quốc gia núi Rốc-ky, khiến giới yêu thiên nhiên phát sốt.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chuyện vui hơn nữa. Ở nước Mỹ, bang Mi-si-gân có biệt danh là \"bang Chồn Gu-lô\". Đội thể thao của trường đại học lớn nhất bang cũng tên là Chồn Gu-lô. Thế nhưng suốt hai trăm năm, chưa hề có ai chứng minh được Chồn Gu-lô thật sự sống ở Mi-si-gân! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Cho đến đầu năm hai ngàn lẻ bốn, một nhóm thợ săn đang đuổi theo dấu chân lạ thì thấy một con vật leo tót lên cây. Nhà sinh vật học được gọi đến, chụp ảnh, xác nhận: đó là một con Chồn Gu-lô thật! Bang Chồn Gu-lô cuối cùng cũng có một con Chồn Gu-lô thật, sau hai trăm năm chờ đợi. Như đội bóng đá cuối cùng cũng tìm được... linh vật thật của mình! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Nhưng cả Lửng Mật lẫn Chồn Gu-lô đều phải ngả mũ trước tuyển thủ tiếp theo. Một chú chim cao chưa tới bảy mươi xăng-ti-mét. Không biết bay. Và đi bộ thì... lạch bạch. Các nhà khoa học đã gắn những thiết bị định vị nhỏ xíu lên những chú Chim Cánh Cụt A-đê-li ở đảo Rốt, vùng cực Nam của Trái Đất, và theo dõi chúng suốt mùa đông.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Kết quả: mỗi năm, những chú chim này di chuyển trung bình khoảng mười ba ngàn cây số! Chuyến dài nhất được ghi nhận lên tới mười bảy ngàn sáu trăm cây số! Để dễ hình dung: quãng đường đó dài hơn đi từ Hà Nội sang tận nước Mỹ! Bằng đôi chân ngắn củn và cái bụng làm ván trượt! [laughter]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Vì sao phải đi xa đến thế? Vì mùa đông ở Nam Cực, mặt trời biến mất hoàn toàn. Không có ánh sáng, chim cánh cụt không nhìn thấy để săn mồi. Thế là chúng đi theo mặt trời. Cả đàn trôi trên những tảng băng, đi dần về phía Bắc, đến những nơi mỗi ngày còn vài tiếng chạng vạng, đủ sáng để bắt cá.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Đến mùa xuân, chúng lại hối hả quay về đúng bãi đá cũ để làm tổ. Một chú chim không biết bay, đi theo mặt trời, mỗi năm một vòng lớn quanh đáy Trái Đất.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Mà khoan, khán giả có biết vì sao loài chim này tên là A-đê-li không? Năm một ngàn tám trăm bốn mươi, nhà thám hiểm người Pháp Duy-moong Đuy-vin đặt tên cho một vùng đất ở Nam Cực theo tên vợ mình, bà A-đen. Và loài chim cánh cụt sống ở đó được đặt theo tên vùng đất. Vậy là Quý ông Vest Đuôi Tôm thật ra... mang tên của một quý bà! [laughter]",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Trong khi đó, ở đường đua dưới nước, một tuyển thủ bị sóng đánh dạt lên bãi cát. Tôm Tít mắc cạn! Chân ngắn, không đi được trên cạn. Các đối thủ đã nghĩ: thế là xong. Nhưng ở bờ biển Pa-na-ma, có một loài tôm tít nhỏ tí xíu có cách thoát thân độc nhất vô nhị.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nó nằm ngửa, cong người lại thành một vòng tròn... rồi lộn nhào ra phía sau! Một vòng! Hai vòng! Rồi hàng chục vòng liên tục, có khi tới bốn mươi vòng không nghỉ! Bảy mươi hai vòng mỗi phút, lăn được tới hai mét để quay về biển! Các nhà khoa học công bố trên tạp chí Nây-chơ với tựa đề: Di chuyển như một cái bánh xe?",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Loài người mất hàng ngàn năm mới phát minh ra cái bánh xe. Còn tôm tít... tự biến mình thành bánh xe! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Cuối cùng, Chim Bồ Nông bước vào đường đua... và không chạy. Nó dang cánh, lấy đà, và bay lên. Ban giám khảo cho phép, vì đây là cách di chuyển của nó. Bồ Nông rất ít khi đập cánh liên tục. Nó tìm những luồng khí nóng bốc lên từ mặt đất, rồi xoay vòng tròn để được nâng lên cao, như ngồi thang máy miễn phí. Bồ Nông Úc từng được ghi nhận bay ở độ cao hàng ngàn mét, cao đến mức người dưới đất không còn nhìn thấy, rồi lượn đi hàng chục cây số mà gần như không tốn sức.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và đây là bí ẩn lớn nhất của vòng thi. Giữa nước Úc có một hồ nước mặn khổng lồ tên là hồ Ây-rơ. Phần lớn thời gian, hồ khô cạn, chỉ còn lớp muối trắng xóa. Nhưng cứ vài năm, mưa lớn ở tận phía Bắc lại đổ nước về hồ. Và chỉ ít lâu sau, hàng chục ngàn con Bồ Nông từ khắp nước Úc bỗng nhiên... bay đến, dù cách xa cả ngàn cây số. Năm một ngàn chín trăm tám mươi chín, các nhà khoa học ước tính đã có khoảng một trăm ngàn chú Bồ Nông con ra đời trên hồ này. Một trận bùng nổ dân số giữa sa mạc!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Câu hỏi: làm sao Bồ Nông biết hồ có nước, khi nó cách xa cả ngàn cây số? Câu trả lời của khoa học hiện nay là: chưa ai biết chắc. Có giả thuyết cho rằng chúng ngửi được, có giả thuyết cho rằng chúng nghe được sóng âm từ xa, có giả thuyết cho rằng có những con bồ nông già đi do thám trước rồi về... rủ cả nhóm! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Tổng kết đường đua: một gã đào hố mười bốn cây số mỗi đêm, một chú chồn băng qua cả đường cao tốc, một chú chim không biết bay đi vòng quanh Nam Cực, một chú tôm tự biến thành bánh xe, và một chú bồ nông đi tìm hồ nước bằng một giác quan mà khoa học còn chưa gọi được tên.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Giám khảo xin tuyên bố kết quả vòng hai. Đây là vòng thi khó chấm nhất từ trước đến nay.",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Huy chương đồng: Tôm Tít, nhà phát minh ra bánh xe sống! Huy chương bạc: Chồn Gu-lô, tám trăm cây số và một tấm ảnh lên trang nhất! Và huy chương vàng: Chim Cánh Cụt, mười ba ngàn cây số mỗi năm, đi theo mặt trời quanh đáy Trái Đất!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bảng điểm sau hai vòng: Chồn Gu-lô vươn lên dẫn đầu với bốn điểm! Thú Mỏ Vịt và Chim Cánh Cụt cùng ba điểm. Cô-a-la và Tôm Tít mỗi bạn một điểm. Còn Lửng Mật... vẫn chưa có điểm nào!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ủa... đi bộ xa vậy có được ăn gì không ạ? Cháu đói rồi.",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Câu hỏi hay lắm, tuyển thủ Cô-a-la! Vì vòng ba chính là... vòng ăn uống!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "VÒNG 3",
+    "banner_title": "BẾP TRƯỞNG HOANG DÃ",
+    "chapter_title": "Vòng 3: Bếp trưởng hoang dã — ai ăn khéo, ăn nhiều, ăn lạ nhất",
+    "hook": "AI LÀ VUA ĂN UỐNG?",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Vòng ba: bếp trưởng hoang dã! Mỗi tuyển thủ phải trình bày cách mình kiếm ăn trước ban giám khảo. Điểm cộng cho sự khéo léo, cho sự sáng tạo, và cho... độ khó tin!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Mở màn là Thú Mỏ Vịt, nhà vô địch vòng một. Và bí mật đầu tiên của Thú Mỏ Vịt là: nó ăn khỏe đến mức khó tin. Một con Thú Mỏ Vịt trưởng thành ăn mỗi ngày lượng thức ăn bằng khoảng một phần năm trọng lượng cơ thể. Nhưng một Thú Mỏ Vịt mẹ đang nuôi con còn ăn khủng khiếp hơn nhiều!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Có những tài liệu ghi nhận Thú Mỏ Vịt mẹ đang cho con bú có thể ăn gần bằng cả cân nặng của chính mình mỗi ngày. Tức là nếu một người mẹ nặng năm mươi ki-lô-gam ăn theo kiểu này, mỗi ngày phải ăn... năm mươi ki-lô-gam cơm! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Mà ăn khỏe như vậy là có lý do. Thú Mỏ Vịt mẹ không có núm vú, sữa tiết ra qua da bụng, nên con non phải liếm. Và chính sữa ấy đã làm các nhà khoa học bất ngờ vào năm hai ngàn mười tám. Các nhà khoa học ở Úc đã tách ra từ sữa Thú Mỏ Vịt một loại đạm có khả năng diệt vi khuẩn. Và khi nhìn hình dạng ba chiều của nó, họ thấy một cấu trúc chưa từng gặp bao giờ. Phân tử ấy xoăn tít như những lọn tóc lò xo, nên các nhà khoa học đặt tên cho kiểu cấu trúc này theo tên một ngôi sao nhí tóc xoăn nổi tiếng của Hollywood: Shơ-li Tem-pồ! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Vì sao sữa Thú Mỏ Vịt cần chất diệt khuẩn mạnh như vậy? Vì sữa chảy ra ngoài da, dính đầy bụi bẩn và vi khuẩn, mà con non lại liếm trực tiếp. Không có lớp bảo vệ này, con non dễ bị nhiễm khuẩn. Ngày nay, các nhà khoa học hy vọng loại đạm này có thể giúp tìm ra cách mới chống lại những loại vi khuẩn kháng thuốc. Từ một con vật từng bị tưởng là đồ giả khâu ghép!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Giám khảo ghi nhận: món ăn chưa ngon, nhưng sữa thì... có thể cứu người. Rất ấn tượng.",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Quầy bếp tiếp theo: Rái Cá Biển. Và Rái Cá mang theo một dụng cụ nấu ăn rất đặc biệt: một hòn đá. Năm hai ngàn hai mươi tư, các nhà khoa học công bố một nghiên cứu theo dõi một trăm chín mươi sáu con Rái Cá Biển ở bang Ca-li-phoóc-ni-a, nước Mỹ, trong nhiều năm. Họ muốn biết: dùng công cụ thì được lợi gì?",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Câu trả lời: những con dùng đá đập vỏ thì răng ít bị mẻ hơn hẳn những con chỉ dùng răng cắn. Và răng mà hỏng thì Rái Cá không ăn được, nghĩa là không sống nổi! Điều thú vị: rái cá cái dùng đá nhiều hơn rái cá đực. Nhờ hòn đá, những con cái nhỏ con hơn vẫn ăn được những con mồi vỏ cứng hơn gần gấp ba lần so với những con không dùng công cụ.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Bài học từ bếp Rái Cá: nếu bạn bóc được vỏ cua bằng dụng cụ, đừng bao giờ dùng răng! Nha sĩ của kênh Vẽ Chuyện Hoang Dã xin cảm ơn. [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Quầy bếp số ba: Cá Heo. Và Cá Heo không nấu ăn. Cá Heo... chơi thể thao với đồ ăn! Ở vùng biển Phlo-ri-đa nước Mỹ, người ta quay được cảnh Cá Heo dùng chiếc đuôi quất mạnh vào con cá, khiến con cá bay vút lên không trung như một quả bóng bị sút! Con cá rơi xuống, choáng váng, và Cá Heo chỉ việc bơi tới ăn. Các nhà khoa học gọi đây là kỹ thuật \"đá cá\", và nó được học từ bố mẹ sang con cái.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng màn trình diễn đỉnh cao nhất của Cá Heo không phải đá cá. Mà là... làm việc cùng con người. Và nó diễn ra ở một thị trấn nhỏ của nước Bra-xin. Câu chuyện này sẽ được kể đầy đủ ở vòng sáu. Giờ thì xin mời thí sinh tiếp theo vào bếp. Thí sinh này có chiếc nồi lớn nhất cuộc thi!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chim Bồ Nông! Và chiếc nồi chính là... cái mỏ của nó. Nhưng hôm nay, Bồ Nông không khoe cái mỏ. Nó muốn khoe một chiến thuật săn mồi bằng... cả đội. Đầu tiên, các bạn đã biết bồ nông bay theo hình chữ V. Nhưng chỉ đến năm hai ngàn lẻ một, các nhà khoa học mới đo được lợi ích thật sự của đội hình này.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Họ huấn luyện những con bồ nông trắng bay theo một chiếc thuyền máy và một chiếc máy bay siêu nhẹ, rồi gắn máy đo nhịp tim lên lưng chúng. Kết quả: khi bay theo đội hình, nhịp tim của bồ nông thấp hơn khoảng mười một đến mười bốn phần trăm so với khi bay một mình. Bay cùng nhau thì đỡ mệt hơn hẳn! Bí quyết là con bay sau lướt trên luồng khí bốc lên từ đầu cánh con bay trước, như người đạp xe nép sau lưng người khác để đỡ gió.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Và con bồ nông bay đầu đàn thì sao? Nó vất vả nhất. Nhưng đừng lo, các thành viên trong đàn thường thay phiên nhau dẫn đầu. Rất công bằng, rất dân chủ. [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Quầy bếp tiếp theo... trống trơn. Tuyển thủ Lửng Mật đã biến mất. Và ở góc sân, có tiếng đào đất loạt soạt. Lửng Mật tên tiếng Anh là \"lửng mật ong\". Ai cũng nghĩ món khoái khẩu của nó là mật ong. Nhưng các nhà khoa học ở Ka-la-ha-ri đã ngồi đếm từng miếng nó ăn suốt nhiều năm.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Và họ phát hiện ra: thứ Lửng Mật đào được nhiều nhất là chuột, thằn lằn, bọ cạp, và một món đặc biệt: những ấu trùng của một loài ong sống đơn độc dưới cát. Bốn con Lửng Mật đực đã được quan sát đào ấu trùng ong suốt hơn năm mươi tiếng, và ăn tổng cộng khoảng hai ngàn tám trăm con ấu trùng. Những con ấu trùng ấy nằm sâu tới năm mươi đến bảy mươi xăng-ti-mét dưới cát!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Vậy còn câu chuyện nổi tiếng về loài chim dẫn mật dẫn đường cho Lửng Mật tới tổ ong, rồi hai bên chia nhau chiến lợi phẩm? Đây là lúc ban giám khảo... phải nói thật.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Năm một ngàn chín trăm chín mươi, ba nhà điểu học công bố một bài báo, viết rằng: hơn hai trăm năm nghiên cứu ở châu Phi, không có nhà khoa học nào tận mắt thấy chim dẫn mật dẫn đường cho Lửng Mật cả. Thậm chí có một bộ phim tài liệu cũ quay cảnh này, và sau này người làm phim kể lại: đó là một con lửng đã được thuần hóa, đi theo một con chim nhồi bông treo trên dây câu! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Một nghiên cứu năm hai ngàn hai mươi ba đã phỏng vấn gần bốn trăm thợ săn mật ong ở chín nước châu Phi. Phần lớn họ không tin hai loài này hợp tác. Nhưng ở một vài cộng đồng ở Tan-da-ni-a, có những người kể rằng họ từng thấy. Nên kết luận cuối cùng của khoa học hiện nay là: có thể có, nhưng rất hiếm, và chưa ai quay được một bằng chứng rõ ràng.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Giám khảo kết luận: Lửng Mật được điểm cao vì đào giỏi, nhưng bị trừ điểm vì... nổi tiếng nhờ một câu chuyện chưa được kiểm chứng!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Kết quả vòng ba! Huy chương đồng: Rái Cá Biển, đầu bếp có hòn đá bảo vệ hàm răng! Huy chương bạc: Chim Bồ Nông, đội bay tiết kiệm sức nhất bầu trời! Và huy chương vàng vòng ba: Thú Mỏ Vịt! Ăn khỏe nhất cuộc thi, và có dòng sữa có thể giúp con người chống lại vi khuẩn kháng thuốc!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bảng điểm sau ba vòng: Thú Mỏ Vịt vươn lên dẫn đầu với sáu điểm! Chồn Gu-lô bốn điểm. Chim Cánh Cụt ba điểm. Chim Bồ Nông hai điểm. Cô-a-la, Tôm Tít và Rái Cá mỗi bạn một điểm.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Còn Lửng Mật, ứng cử viên nặng ký nhất trước giải, vẫn chưa có điểm nào. Và Cá Heo, Gấu Nước cũng vậy.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Nhưng đừng vội loại họ. Đại hội mới đi được ba trên tám chặng đường. Và vòng bốn sẽ thử thách thứ mà cơ bắp không thể thay thế: các giác quan!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "GIỜ GIẢI LAO",
+    "banner_title": "CĂNG TIN CỦA ĐẠI HỘI",
+    "chapter_title": "Giờ giải lao: Căng tin đại hội — mỗi tuyển thủ uống nước và chọn món thế nào",
+    "hook": "ĂN GÌ, UỐNG GÌ GIỮA HIỆP?",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Giờ giải lao! Sau ba vòng thi căng thẳng, các tuyển thủ được mời vào căng tin của đại hội. Và ngay tại đây, chúng ta phát hiện ra mỗi người có một kiểu ăn uống... không ai giống ai.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Cô-a-la đến quầy lá khuynh diệp đầu tiên. Nhưng thay vì ăn ngay, nó làm một việc rất lạ: cúi xuống... ngửi từng chiếc lá. Các nhà khoa học ở Nhật Bản đã quan sát mười chú Cô-a-la trong vườn thú và thấy rằng chúng ngửi lá nhiều hơn hẳn trước khi ăn. Và mùi hương của lá có thể dự đoán chú Cô-a-la sẽ ăn lá nào.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Vì sao phải ngửi kỹ như vậy? Vì có những cây khuynh diệp chứa nhiều một nhóm chất gây buồn nôn. Ăn phải, Cô-a-la sẽ thấy khó chịu, và từ đó nó học cách nhận ra mùi của chiếc lá \"có vấn đề\". Một nghiên cứu theo dõi suốt mười năm trên đảo Phi-líp ở Úc còn cho thấy: Cô-a-la thích leo những cây to, nhưng tránh những cây có lá chứa nhiều chất gây buồn nôn, hoặc lá nghèo đạm.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Có nhà khoa học còn ví von: chọn cây để ăn đối với Cô-a-la giống như phải chọn một trong một ngàn nhà hàng khắp thành phố... mà không có ứng dụng đánh giá nào! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Cá Heo đến quầy nước. Và lúc này, một câu hỏi được đặt ra: sống giữa biển nước mặn mênh mông, Cá Heo uống nước gì? Câu trả lời là: gần như không uống. Cá Heo lấy nước chủ yếu từ chính thức ăn, vì con cá và con mực chứa rất nhiều nước, và từ nước mà cơ thể tự tạo ra khi đốt cháy mỡ. Một nghiên cứu năm hai ngàn hai mươi ba dùng phương pháp đo đồng vị ô-xy trong máu cá heo đã tính ra: nước từ thức ăn và nước tự tạo trong cơ thể chiếm hơn chín mươi phần trăm lượng nước cá heo nhận vào.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Sống giữa đại dương mà không uống nước biển. Giống như người sống trên đảo mà chỉ uống... nước dừa! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chim Cánh Cụt thì ngược lại. Cánh Cụt nuốt nước biển mỗi lần ăn tôm, ăn cá. Nhưng nó có một bộ lọc muối riêng: một tuyến lọc nằm ngay phía trên mắt. Tuyến này lọc muối thừa ra khỏi máu, tạo thành một dung dịch nước muối đậm đặc chảy xuống mỏ. Rồi Cánh Cụt chỉ việc... hắt xì một cái, hoặc lắc đầu thật mạnh để vẩy muối ra! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và chúng không uống nước biển bừa bãi. Những lúc có thể, cánh cụt vẫn thích uống nước tuyết tan, hoặc ăn tuyết cho đỡ khát. Có máy lọc trong người, nhưng vẫn thích nước tinh khiết!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Gấu Nước đến quầy... nhưng quầy nào cũng quá to. Ban tổ chức phải dùng kính hiển vi mới phục vụ được cậu ấy. Phần lớn các loài gấu nước ăn thực vật: rêu, tảo. Trong miệng chúng có một cặp kim nhọn cực nhỏ. Chúng dùng kim chọc thủng thành tế bào của cây rêu, rồi hút lấy dịch bên trong như uống... trà sữa trân châu! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng không phải gấu nước nào cũng ăn chay. Có những loài gấu nước ăn thịt, săn những sinh vật tí hon khác, và có loài còn ăn thịt... cả gấu nước khác!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Thú Mỏ Vịt, người đã có hai huy chương vàng, đến quầy cuối cùng. Và nó gọi... cả quầy! Vì như vòng ba đã kể, Thú Mỏ Vịt ăn khỏe không ai bằng. Để ăn được nhiều như vậy, Thú Mỏ Vịt dành khoảng mười đến mười hai tiếng mỗi ngày để lặn tìm mồi dưới đáy suối. Và mùa đông nước càng lạnh, nó càng phải kiếm ăn lâu hơn nữa.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Lửng Mật thì không đến quầy nào cả. Ban tổ chức tìm thấy Lửng Mật đang... đào tung sàn căng tin để tìm ấu trùng ong! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Giám khảo xin nhắc tuyển thủ Lửng Mật: căng tin không phải là sa mạc Ka-la-ha-ri! Đề nghị lấp hố lại ngay!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Cháu ăn no rồi ạ! Nhưng mà cháu vẫn muốn ngửi thêm vài chiếc lá nữa, nhỡ đâu có chiếc nào thơm hơn...",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Hết giờ giải lao! Ăn no, uống đủ, ngửi kỹ, hắt xì xong. Và giờ, các tuyển thủ quay lại sân cho vòng bốn: vòng của những giác quan siêu phàm!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "VÒNG 4",
+    "banner_title": "GIÁC QUAN SIÊU PHÀM",
+    "chapter_title": "Vòng 4: Giác quan siêu phàm — ai nhìn, nghe, sờ giỏi nhất",
+    "hook": "MẮT THẦN, TAI THÍNH, TAY NHẠY",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Vòng bốn: giác quan siêu phàm! Trong thế giới hoang dã, ai phát hiện ra đồ ăn trước, và phát hiện ra kẻ thù trước, người đó sống sót. Ban giám khảo sẽ thử thách các tuyển thủ bằng những bài kiểm tra giác quan mà chính các nhà khoa học đã làm. Mời tuyển thủ đầu tiên!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Rái Cá Biển bước tới. Và Rái Cá được thử thách đúng thứ mà nó giỏi nhất: không phải nhìn, mà là... sờ. Ở bang Ca-li-phoóc-ni-a, các nhà khoa học huấn luyện một cô rái cá tên Xen-ca chạm tay vào những tấm bảng có rãnh, rồi chọn đúng tấm có rãnh rộng hai mi-li-mét. Kết quả: Xen-ca phân biệt được những rãnh chỉ chênh nhau khoảng ba phần mười mi-li-mét. Mỏng hơn cả... một sợi tóc to!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và Xen-ca quyết định cực nhanh! Chỉ khoảng hai phần mười giây cho mỗi lần chạm tay! Nhanh hơn những người tình nguyện làm cùng bài kiểm tra gần ba mươi lần!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Vì sao Rái Cá cần đôi tay nhanh như thế? Vì mỗi lần lặn chỉ kéo dài một hai phút, dưới đáy biển tối và đục. Nó phải sờ, chọn, và nhét đồ ăn vào túi dưới nách trong chớp mắt.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Giám khảo xin ghi nhận: đôi bàn tay của Rái Cá nhạy chẳng kém bàn tay người, mà nhanh gấp bội.",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Tuyển thủ tiếp theo: Chim Cánh Cụt. Và thử thách của Cánh Cụt là... nhìn rõ ở cả hai thế giới. Trên cạn, và dưới nước. Bạn đã bao giờ mở mắt dưới nước chưa? Mọi thứ nhòe nhoẹt. Vì giác mạc của mắt người cong, nó chỉ hội tụ ánh sáng tốt trong không khí. Xuống nước, nó gần như mất tác dụng.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chim cánh cụt giải bài toán này bằng một mẹo khác: giác mạc của chúng phẳng hơn mắt người rất nhiều. Phần việc hội tụ được giao gần hết cho thủy tinh thể, một chiếc thấu kính mềm có thể bóp phồng lên khi cần. Nhờ vậy, Chim Cánh Cụt nhìn rõ trên băng để tìm đường về tổ, và nhìn rõ dưới nước để bắt cá. Như một chiếc máy ảnh tự động đổi ống kính khi lặn xuống! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Tuyển thủ tiếp theo, Cô-a-la, bước lên với một bài thi... âm nhạc. Như các bạn đã biết, Cô-a-la đực có giọng rống trầm như quái vật. Nhưng giọng rống ấy còn chứa một bí mật. Năm hai ngàn mười một, các nhà khoa học thu âm tiếng rống của hai mươi chú Cô-a-la đực và phân tích bằng máy tính. Họ phát hiện mỗi chú có một chất giọng riêng, như dấu vân tay âm thanh.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và quan trọng hơn: chính những chú Cô-a-la khác cũng nhận ra sự khác nhau ấy. Khi nghe một giọng lạ, chúng lập tức quay đầu nhìn về phía loa lâu hơn hẳn. Các nghiên cứu sau đó còn cho thấy: giọng rống của con đực tiết lộ kích thước cơ thể. Giọng càng trầm, con đực càng to. Và các cô Cô-a-la cái... thích những giọng trầm hơn! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Cháu biết rồi, cháu sẽ hát trầm hơn ạ! Ừm... ọ ọ ọ!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Tuyển thủ tiếp theo, Cá Heo, mang đến một bài thi về... sự tỉnh táo. Năm hai ngàn mười hai, các nhà khoa học ở Mỹ thử xem cá heo có thể canh gác liên tục được bao lâu. Nhiệm vụ: liên tục dùng tiếng định vị để quét quanh hồ, khi nào phát hiện mục tiêu giả do máy phát ra thì bấm nút báo. Mục tiêu xuất hiện bất ngờ, ở bất kỳ hướng nào, vào bất kỳ lúc nào.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Một chú cá heo cái đã làm nhiệm vụ này suốt mười lăm ngày liền. Ngày lẫn đêm! Không nghỉ! Và độ chính xác gần như tuyệt đối từ ngày đầu đến ngày cuối!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và cuộc thử nghiệm chỉ dừng lại vì... một cơn bão mùa đông kéo đến. Không phải vì cá heo mệt! [laughter] Khán giả của kênh đã biết cá heo ngủ luân phiên từng nửa bộ não. Nhưng phải đến thí nghiệm này, người ta mới thấy cách ngủ ấy cho phép nó canh gác lâu đến mức nào.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Nhưng Chim Cánh Cụt không chịu thua ở môn ngủ! Năm hai ngàn hai mươi ba, các nhà khoa học gắn máy đo sóng não lên những chú chim cánh cụt quai mũ đang ấp trứng ở Nam Cực, họ hàng gần của A-đê-li. Và họ phát hiện: những chú chim này ngủ gật hơn mười ngàn lần mỗi ngày! Mỗi giấc chỉ kéo dài khoảng bốn giây!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Cộng tất cả những giấc ngủ bốn giây ấy lại, chúng ngủ được hơn mười một tiếng mỗi ngày. Mà vẫn kịp canh trứng trước những con chim cướp biển lượn ngay trên đầu! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Giám khảo xin tổng kết vòng bốn: đôi tay nhạy, đôi mắt hai thế giới, giọng hát mang tên riêng, và người lính gác không bao giờ ngủ trọn giấc. Một vòng thi rất khó chấm!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Kết quả vòng bốn! Huy chương đồng: Chim Cánh Cụt, đôi mắt hai thế giới và giấc ngủ bốn giây! Huy chương bạc: Rái Cá Biển, bàn tay nhạy và nhanh gấp ba mươi lần người! Và huy chương vàng... Thuộc về Cá Heo, người lính gác mười lăm ngày không ngủ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bảng điểm sau bốn vòng: Thú Mỏ Vịt vẫn dẫn đầu với sáu điểm! Chồn Gu-lô bốn điểm. Chim Cánh Cụt bốn điểm. Rái Cá ba điểm. Cá Heo ba điểm. Bồ Nông hai điểm. Cô-a-la và Tôm Tít một điểm. Lửng Mật và Gấu Nước: vẫn chưa có điểm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Vòng tiếp theo sẽ không chấm khả năng tìm đồ ăn. Mà chấm khả năng chăm sóc một sinh mạng nhỏ bé. Vòng năm: những người cha, người mẹ phi thường.",
+      "mood": "tram_bi_an"
+     }
+    ]
+   },
+   {
+    "id": "scene07",
+    "badge": "HẬU TRƯỜNG",
+    "banner_title": "ĐÊM TRƯỚC VÒNG QUYẾT ĐỊNH",
+    "chapter_title": "Hậu trường: Đêm trước vòng quyết định — ai ngủ, ai thức, ai tập luyện",
+    "hook": "ĐÊM KHÔNG NGỦ Ở ĐẠI HỘI",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Đêm buông xuống sân vận động. Đại hội tạm nghỉ trước bốn vòng cuối. Các tuyển thủ trở về khu nghỉ ngơi. Nhưng không phải ai cũng ngủ... Máy quay hậu trường của chúng tôi đi một vòng khu nghỉ ngơi. Và những gì nó ghi lại được... rất đáng xem.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Phòng số một: Chồn Gu-lô. Không ngủ. Đang... leo núi. Ngay trong đêm.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ở công viên quốc gia Glây-xi-ơ nước Mỹ, các nhà nghiên cứu theo dõi bằng vòng cổ định vị nhận xét: Chồn Gu-lô có thể đi một trăm năm mươi đến hai trăm cây số mỗi tuần trong công viên. Và chúng rất ít khi đi đường vòng. Gặp núi thì leo, gặp đường thì băng qua. Đúng là đi đâu cũng... đi thẳng! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Phòng số hai: Thú Mỏ Vịt. Đèn tắt. Tuyển thủ đang dẫn đầu bảng điểm đang ngủ say. Nhưng hãy nhìn kỹ... cái mỏ đang giật giật, và mắt đang đảo liên tục dưới mí.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Đó là giai đoạn ngủ mơ, giai đoạn mà ở người, chúng ta thường nằm mơ. Và Thú Mỏ Vịt giữ kỷ lục: hơn tám tiếng ngủ mơ mỗi ngày, nhiều hơn bất kỳ loài động vật nào từng được đo. Các nhà khoa học đoán rằng giấc ngủ mơ có thể đã xuất hiện từ rất sớm ở những loài thú đầu tiên, và Thú Mỏ Vịt, thuộc nhóm thú đẻ trứng đã tách ra từ rất xa xưa, có thể đang giữ lại dấu vết đó.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Phòng số ba: Chim Cánh Cụt. Mắt nhắm. Mở. Nhắm. Mở. Nó không ngủ một giấc dài. Nó ngủ... hàng ngàn giấc ngắn. Như vòng bốn đã kể, họ hàng của nó, chim cánh cụt quai mũ, có thể ngủ hơn mười ngàn giấc mỗi ngày, mỗi giấc khoảng bốn giây. Ngủ kiểu ấy để làm gì? Để không bao giờ lơ là canh tổ.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Phòng số bốn: Rái Cá Biển. Phòng này... có bể nước. Và Rái Cá đang nằm ngửa trên mặt nước, hai bàn tay úp lên mắt, ngủ ngon lành. Các nhà khoa học cho biết, mỗi ngày Rái Cá Biển dành khoảng mười một tiếng để nghỉ ngơi và ngủ, khoảng tám tiếng để kiếm ăn, và năm tiếng để chải lông và vui chơi. Một lịch trình... đáng mơ ước! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Phòng số năm: Gấu Nước. Máy quay soi qua kính hiển vi... và thấy Gấu Nước đang tập thể dục! Nó đi tới đi lui trên tấm thảm thạch rau câu. Năm hai ngàn hai mươi mốt, các nhà khoa học đã quay phim gấu nước đi bộ trên những tấm thạch, và phát hiện ra một điều bất ngờ: gấu nước đi giống hệt... côn trùng! Dù côn trùng to gấp khoảng năm trăm ngàn lần.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Lúc đi dạo, gấu nước đi khoảng nửa thân mình mỗi giây. Khi gấp gáp, nó có thể tăng tốc lên khoảng hai thân mình mỗi giây. Nghe thì chậm, nhưng với một sinh vật nhỏ hơn hạt cát, đó là... chạy nước rút! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Phòng số sáu, phòng cuối cùng: Lửng Mật. Cửa phòng mở. Giường trống. Trên tường có một cái lỗ to. Lửng Mật... đã vượt ngục. Một lần nữa.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Máy quay chạy theo dấu chân và tìm thấy Lửng Mật đang ngồi ngoài sân, dưới ánh trăng, bên cạnh... chú lửng con của mình. Hai mẹ con đang tập đào hang.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hóa ra gã giang hồ nổi tiếng nhất đại hội, đêm nay không đi gây sự. Nó chỉ dành thời gian dạy con. Mai là vòng thi về cha mẹ. Và Lửng Mật... đã sẵn sàng.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Máy quay hậu trường xin phép tắt đèn đỏ, rút êm khỏi khu nghỉ ngơi. Vì nếu Lửng Mật phát hiện ra mình bị quay lén... thì người tiếp theo phải đào hầm trốn chính là đội quay phim! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Trời sáng dần. Mặt trời mọc trên sân vận động. Và còn đúng... bốn vòng thi nữa.",
+      "mood": "tram_bi_an"
+     }
+    ]
+   },
+   {
+    "id": "scene08",
+    "badge": "VÒNG 5",
+    "banner_title": "CHA MẸ PHI THƯỜNG",
+    "chapter_title": "Vòng 5: Cha mẹ phi thường — ai nuôi con giỏi nhất hoang dã",
+    "hook": "NUÔI CON KIỂU HOANG DÃ",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Vòng năm: cha mẹ phi thường! Sống sót một mình đã khó. Vừa sống sót, vừa nuôi một đứa con bé bỏng, còn khó hơn gấp bội. Giám khảo sẽ chấm: ai chăm con chu đáo nhất, ai dạy con kiên nhẫn nhất, và ai có chiêu nuôi con... độc nhất vô nhị.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Mở màn là Lửng Mật, tuyển thủ vẫn đang trắng điểm sau bốn vòng. Và Lửng Mật mẹ khiến cả khán đài bất ngờ: gã giang hồ dữ dằn ấy hóa ra là một bà mẹ... vô cùng cẩn thận. Ở sa mạc Ka-la-ha-ri, Lửng Mật mẹ thường chỉ nuôi một con mỗi lứa. Lửng con mới sinh không có lông, mắt nhắm nghiền, và phải hai tháng sau mới mở mắt.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và để giữ an toàn cho con, cứ vài ngày Lửng Mật mẹ lại ngậm con trong miệng, mang sang một cái hang mới. Trung bình chỉ ở mỗi hang khoảng ba ngày, hang này cách hang kia khoảng hai cây số!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Lửng con ở với mẹ ít nhất mười bốn tháng. Suốt thời gian ấy, mẹ dạy con đào hang, leo cây, bắt chuột, và cả cách đối phó với rắn độc. Một khóa học sinh tồn kéo dài hơn một năm!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Giám khảo xin ghi nhận: bà mẹ chuyển nhà nhiều nhất, và dạy con lâu nhất cuộc thi.",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Tuyển thủ tiếp theo, Thú Mỏ Vịt mẹ, trình bày cách làm tổ đẻ trứng. Đúng vậy, một loài thú có sữa... mà lại đẻ trứng! Trước khi đẻ, Thú Mỏ Vịt mẹ đào một đường hầm dài dọc bờ sông, có khi tới hai mươi mét. Rồi tha lá ướt và cành nhỏ vào trải ổ, bằng cách... kẹp chúng giữa đuôi và chân sau! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và mỗi lần ra khỏi hang, mẹ lại đắp đất bịt kín đường hầm thành nhiều lớp, có khi tới chín lớp. Để ngăn kẻ thù, và để giữ cho ổ không bị ngập khi nước sông dâng.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Thú Mỏ Vịt mẹ đẻ từ một đến ba trứng, thường là hai. Rồi mẹ cuộn tròn người, ôm trứng giữa bụng và đuôi suốt khoảng mười ngày để ấp, cho đến khi những chú con bé như hạt đậu chui ra.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Tuyển thủ tiếp theo, Rái Cá Biển mẹ, bước lên với một chú con nằm trên ngực. Rái cá con mới sinh có bộ lông xù đến mức... không thể lặn xuống nước được. Nó nổi bồng bềnh như cái phao! Nên khi mẹ phải lặn xuống đáy biển kiếm ăn, mẹ để con nổi trên mặt nước, có khi còn quấn con vào tảo bẹ cho khỏi trôi. Rồi mẹ ngoi lên, lại đặt con lên ngực, chải lông, cho bú.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Rái cá con phụ thuộc vào mẹ khoảng sáu đến tám tháng. Mẹ dạy con lặn, dạy con chọn món ăn, và quan trọng nhất: dạy con dùng hòn đá đập vỏ. Rái cá con thường thích ăn những món giống hệt món mẹ thích!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Tuyển thủ tiếp theo, Cá Heo mẹ, trình bày một thứ mà các nhà khoa học mới phát hiện năm hai ngàn hai mươi ba: cá heo mẹ cũng nói giọng... nựng con! Các nhà khoa học ở bang Phlo-ri-đa đã ghi âm mười chín cá heo mẹ, khi có con bên cạnh, và khi không có con. Và tất cả các cá heo mẹ đều thay đổi tiếng huýt sáo khi có con ở gần.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tiếng huýt sáo cao hơn, và rộng giọng hơn. Giống hệt cách các bà mẹ con người tự nhiên nói giọng cao, ngân nga khi nựng em bé. Hai loài khác nhau, sống ở hai thế giới khác nhau, mà lại có chung một cách nói với con.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Và cuối cùng, Chồn Gu-lô mẹ. Như vòng một đã kể, chồn mẹ đào hang dưới lớp tuyết dày để sinh con. Nhưng chồn mẹ còn một chiêu nữa: khi cần, chồn mẹ dời con sang hang khác, có khi dùng nhiều hang khác nhau trước khi con cai sữa. Chồn con được nuôi trong hang đến khoảng chín, mười tuần tuổi, rồi mới bắt đầu theo mẹ ra ngoài. Và ở Bắc Mỹ, các nhà khoa học còn thấy chồn bố thỉnh thoảng quay lại thăm con, dẫn con đi khám phá lãnh thổ.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tuyển thủ tiếp theo, Chim Cánh Cụt, trình bày một hệ thống chăm con kiểu... đổi ca trực. Chim Cánh Cụt A-đê-li thường đẻ hai trứng, và bố mẹ thay phiên nhau ấp, mỗi ca thường kéo dài khoảng mười hai ngày.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng ca đầu tiên là ca khổ nhất. Chim bố ở lại ấp trong khi chim mẹ ra biển kiếm ăn. Tính cả mùa tán tỉnh trước đó, chim bố có thể nhịn đói khoảng một tháng liền mà không rời tổ.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Khi chim con được khoảng ba tuần tuổi, chúng đã đủ lớn để không cần bố mẹ ủ ấm. Chúng tụ tập thành những nhóm đông gọi là \"nhà trẻ\", đứng sát vào nhau để giữ ấm và chống lại chim săn mồi. Còn bố mẹ thì cùng nhau ra biển, kiếm cá về nuôi con.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Và một bất ngờ đến từ Tôm Tít! Gã võ sĩ đại dương có một người họ hàng nhỏ xíu, loài tôm tít Pu-lô-xơ-qui-la, sống ở Ấn Độ Dương và Thái Bình Dương. Và loài này... nuôi con bằng cả bố lẫn mẹ! Cả bố và mẹ đều quạt nước cho trứng để trứng có đủ ô-xy, nhặt bỏ trứng hỏng, và di chuyển ổ trứng trong hang. Khi thức ăn dồi dào, tôm mẹ có thể đẻ thêm ổ thứ hai khi ổ thứ nhất chưa nở. Và lúc ấy, cả hai vợ chồng cùng chăm hai ổ trứng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Theo các nhà khoa học, trong số các loài giáp xác sống ở biển, đây là nhóm duy nhất từng được nghiên cứu kỹ về việc cả bố lẫn mẹ cùng chăm trứng. Võ sĩ ngoài đời, ông bố mẫu mực trong hang!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Ban giám khảo xin phép nghỉ giải lao một chút... để lau nước mắt. Đây là vòng thi xúc động nhất từ đầu đại hội đến giờ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Kết quả vòng năm! Huy chương đồng: Cá Heo mẹ, giọng nựng con của đại dương! Huy chương bạc: Thú Mỏ Vịt mẹ, kỹ sư đường hầm chín lớp cửa! Và huy chương vàng... Thuộc về Lửng Mật! Bà mẹ ngậm con chuyển nhà mỗi ba ngày, và dạy con suốt hơn một năm trời!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Lửng Mật cuối cùng cũng có điểm! Bảng điểm sau năm vòng: Thú Mỏ Vịt tám điểm! Cá Heo bốn điểm, Chồn Gu-lô bốn điểm, Chim Cánh Cụt bốn điểm! Lửng Mật ba điểm. Rái Cá ba điểm. Bồ Nông hai điểm. Cô-a-la, Tôm Tít một điểm. Gấu Nước vẫn trắng tay.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Gấu Nước ngước nhìn bảng điểm, và lần đầu tiên, sinh vật bất tử ấy có vẻ... lo lắng. Vì vòng sáu sẽ không cần đến những siêu năng lực chịu đựng. Vòng sáu cần sự đoàn kết.",
+      "mood": "tram_bi_an"
+     }
+    ]
+   },
+   {
+    "id": "scene09",
+    "badge": "VÒNG 6",
+    "banner_title": "SỨC MẠNH ĐỒNG ĐỘI",
+    "chapter_title": "Vòng 6: Sức mạnh đồng đội — ai biết hợp tác, ai nhớ bạn lâu nhất",
+    "hook": "MỘT CÂY LÀM CHẲNG NÊN NON",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Vòng sáu: sức mạnh đồng đội! Một cây làm chẳng nên non, ba cây chụm lại... thì thành một đàn cá heo! [laughter] Giám khảo chấm ba tiêu chí: biết làm việc với đồng loại, biết hợp tác với loài khác, và quan trọng nhất: biết... nhớ bạn bè.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Cá Heo bước vào sân, và lần này, giám khảo đồng ý cho Cá Heo kể trọn câu chuyện còn dang dở ở vòng ba. Câu chuyện ở thị trấn La-gu-na, miền Nam nước Bra-xin. Ở đây, mỗi mùa cá đối di cư, những người đánh cá đứng thành hàng dưới nước, nước ngập ngang hông, tay cầm sẵn chiếc lưới quăng tròn. Nhưng họ không nhìn mặt nước. Họ nhìn... cá heo.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Cá Heo dồn đàn cá đối vào sát bờ. Rồi bất ngờ, nó lặn sâu xuống thật nhanh, hoặc quẫy đầu, quẫy đuôi ngay trước mặt người đánh cá. Đó là tín hiệu! Người đánh cá lập tức quăng lưới! Lưới chụp xuống, cá đối hoảng loạn tán loạn, và Cá Heo lao vào bắt những con cá chạy khỏi đàn.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Năm hai ngàn hai mươi ba, các nhà khoa học dùng máy bay không người lái, thiết bị định vị đeo tay và cả micro dưới nước để đo đạc sự hợp tác này. Và các con số khiến họ kinh ngạc. Khi có Cá Heo ra tín hiệu, người đánh cá có khả năng bắt được cá cao gấp mười bảy lần, và bắt được số cá nhiều gần gấp bốn lần so với khi không có Cá Heo! Và Cá Heo cũng được lợi: những con cá heo tham gia hợp tác có tỷ lệ sống sót cao hơn khoảng mười ba phần trăm, vì chúng ít phải đi kiếm ăn ở những vùng có lưới đánh bắt nguy hiểm.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Điều kỳ diệu là sự hợp tác này đã diễn ra ở đây hơn một trăm năm, truyền từ đời ông sang đời cháu của cả người lẫn cá heo. Người dân còn đặt tên riêng cho từng chú cá heo quen mặt.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "[sigh] Nhưng các nhà khoa học cũng cảnh báo: cá đối đang ít dần, và số lần hợp tác cũng ít dần. Đây là một trong những mối hợp tác hiếm hoi còn sót lại giữa con người và động vật hoang dã. Nếu cá biến mất, tình bạn ấy cũng có thể biến mất theo.",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Nhưng Cá Heo còn một tuyệt chiêu đồng đội nữa: trí nhớ. Mỗi chú cá heo có một tiếng huýt sáo riêng, hoạt động giống như... một cái tên. Năm hai ngàn mười ba, một nhà khoa học đã thu âm tiếng huýt sáo của năm mươi ba chú cá heo ở sáu thủy cung, rồi phát lại cho những chú cá heo từng sống chung với chúng... cách đây rất nhiều năm.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Có một chú cá heo cái tên Bây-li, sống ở Bơ-mu-đa. Khi được nghe lại tiếng huýt sáo của người bạn cũ Ê-li, chú lập tức bơi nhanh đến chiếc loa, lượn quanh, và huýt sáo gọi lại. Hai bạn đã xa nhau hai mươi năm sáu tháng. Đó là trí nhớ xã hội dài nhất từng được ghi nhận ở một loài không phải con người.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Giám khảo... xin phép lau nước mắt một chút.",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Tuyển thủ tiếp theo cũng sở hữu một đội hình huyền thoại: Rái Cá Biển. Khán giả đã biết rái cá nắm tay nhau ngủ thành \"bè\" để khỏi trôi. Nhưng một chiếc bè có thể lớn đến mức nào? Thông thường mỗi bè có từ mười đến một trăm con. Nhưng ở A-lát-xca từng ghi nhận những chiếc bè khổng lồ có tới hơn hai ngàn con Rái Cá Biển nằm cạnh nhau!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và bè rái cá có luật lệ rõ ràng: rái cá đực nằm một bè riêng, rái cá cái và con nhỏ nằm một bè riêng. Một ký túc xá nam, một ký túc xá nữ, ngay giữa đại dương! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Tuyển thủ tiếp theo không phải là đội ở cùng nhau. Đó là cả một thành phố! Chim Cánh Cụt A-đê-li sống trong những đàn hàng chục ngàn, có khi hàng trăm ngàn cặp vợ chồng. Ở mũi đất Crô-di-ê trên đảo Rốt, các nhà khoa học đếm được khoảng một trăm năm mươi ngàn cặp chim cánh cụt làm tổ cùng một chỗ. Ồn ào, đông đúc, và... chật chội như phố cổ giờ tan tầm! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Trong một thành phố đông như thế, chim bố và chim mẹ vẫn tìm ra nhau, vẫn tìm ra con mình, chỉ bằng tiếng gọi. Mỗi cặp có một tiếng gọi riêng mà giữa hàng chục ngàn tiếng ồn ào, chúng vẫn nhận ra.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Và giờ, đến lượt những tuyển thủ thích... làm một mình. Chồn Gu-lô, Lửng Mật, Tôm Tít. Ba kẻ cô độc nổi tiếng nhất cuộc thi, đứng ở ba góc sân, không ai nhìn ai.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Nhưng giám khảo có một câu hỏi bất ngờ dành cho Tôm Tít: khi hai võ sĩ tôm tít tranh nhau một cái hang, chúng có đánh nhau đến chết không? Câu trả lời của khoa học: không. Các nhà nghiên cứu đã dàn dựng hơn sáu mươi trận tranh hang giữa những chú tôm tít, và thấy chúng đánh nhau theo một nghi thức rất... lịch sự.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Đầu tiên, dang càng ra dọa nhau! Không ăn thua thì vẫy râu đánh hơi đối thủ! Vẫn không ăn thua, thì mới chuyển sang... đấm! Nhưng không phải đấm vào mặt. Mà là đấm vào tấm khiên ở đuôi! Con bị đánh cuộn đuôi lại, giơ tấm khiên dày cứng ra đỡ, hai bên thay nhau đấm vào khiên, như hai võ sĩ đấm vào găng của nhau.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và mục đích của màn đấm khiên này là để... đo sức nhau. Sau vài cú, con nào nhẹ cân hơn tự hiểu là mình yếu hơn, và lặng lẽ rút lui. Không ai phải chết. Một võ sĩ có cú đấm mạnh nhất đại dương, nhưng lại biết dùng nó để nói chuyện thay vì để giết nhau. Đúng là võ sĩ có võ đức! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Còn Lửng Mật? Lửng Mật vẫn đi một mình... nhưng như vòng hai đã kể, phía sau nó luôn có sáu con chim ưng bám theo. Giám khảo hỏi: như vậy có tính là đồng đội không?",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Giám khảo xin trả lời: không. Có người đi theo mình, nhưng mình không quan tâm tới họ, thì không phải là đồng đội.",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Vừa giành huy chương vàng ở vòng nuôi con, Lửng Mật lại trắng tay ở vòng này. Giỏi chăm con mình, nhưng làm việc với người ngoài thì... chưa biết cách!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Kết quả vòng sáu! Huy chương đồng: Rái Cá Biển, với những chiếc bè hai ngàn thành viên! Huy chương bạc: Tôm Tít, võ sĩ biết dùng nắm đấm để... thương lượng hòa bình! Và huy chương vàng... Thuộc về Cá Heo, huy chương vàng thứ hai! Đồng đội của cả con người suốt hơn một trăm năm, và là người bạn nhớ tên bạn mình sau hai mươi năm xa cách!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bảng điểm sau sáu vòng: Thú Mỏ Vịt tám điểm! Cá Heo bám sát với bảy điểm! Chồn Gu-lô, Chim Cánh Cụt và Rái Cá cùng bốn điểm. Lửng Mật và Tôm Tít ba điểm. Bồ Nông hai điểm, Cô-a-la một điểm. Gấu Nước: vẫn chưa có điểm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng vòng bảy sẽ đảo lộn tất cả. Vì vòng bảy sẽ không chấm năng lực. Vòng bảy là phiên phúc khảo: những tin đồn nổi tiếng nhất về các tuyển thủ sẽ được mang ra kiểm chứng. Và có những tuyển thủ sắp phát hiện ra rằng... danh tiếng của mình được xây trên một câu chuyện không có thật.",
+      "mood": "tram_bi_an"
+     }
+    ]
+   },
+   {
+    "id": "scene10",
+    "badge": "HỌP BÁO",
+    "banner_title": "PHÒNG HỌP BÁO GIỮA GIẢI",
+    "chapter_title": "Họp báo: Phóng viên hỏi khó — tuyển thủ trả lời bằng sự thật",
+    "hook": "HỎI XOÁY, ĐÁP... KHOA HỌC",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Trước vòng bảy, ban tổ chức mở một buổi họp báo. Phóng viên được hỏi bất cứ điều gì. Và các tuyển thủ phải trả lời... bằng sự thật khoa học!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Câu hỏi đầu tiên dành cho Tôm Tít: ở dưới đáy biển sâu, ánh sáng gần như chỉ còn màu xanh lam. Vậy những đốm màu trên người anh có còn ai nhìn thấy không?",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "Câu trả lời đến từ một lần lặn đêm năm hai ngàn lẻ hai ở vùng biển Ba-ha-mát. Một thợ lặn chiếu đèn xanh xuống một chú tôm tít đang thò đầu khỏi hang, và thấy hai đốm trên người nó... sáng rực lên màu vàng, như hai chiếc đèn pha.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Các nhà khoa học giải thích: ở độ sâu khoảng bốn mươi mét, màu vàng gần như biến mất trong làn nước xanh. Nhưng những đốm này có chất phát quang, hấp thụ ánh sáng xanh rồi phát ra ánh sáng vàng. Nhờ vậy, tín hiệu vẫn rõ ràng ở dưới sâu. Và những đốm sáng ấy được dùng trong màn dọa nạt đối thủ. Tôm Tít dang càng, khoe đốm vàng phát sáng như muốn nói: \"Đây là nhà của tôi, tránh ra!\". Đây là trường hợp đầu tiên được ghi nhận về việc một sinh vật biển dùng ánh sáng phát quang để ra tín hiệu.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Tôm Tít trả lời xong, dang càng khoe đốm sáng ngay giữa phòng họp báo. Các phóng viên phải... đeo kính râm! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Câu hỏi thứ hai dành cho Chim Bồ Nông: người ta đồn có một loài bồ nông lao đầu từ trên cao xuống biển để bắt cá. Lao mạnh như vậy, anh không đau đầu sao?",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "Đó là anh họ của Bồ Nông, loài bồ nông nâu ở châu Mỹ, loài bồ nông duy nhất săn mồi bằng cú bổ nhào ngoạn mục. Từ độ cao có khi tới hơn hai mươi mét, nó gập cánh và lao thẳng xuống biển như một mũi tên.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bí mật nằm ở những túi khí dưới da. Khi đập xuống mặt nước, các túi khí này đệm lại cú va chạm như túi khí ô tô, rồi giúp nó nổi bật trở lên như một cái nút chai.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Câu hỏi thứ ba dành cho Lửng Mật: ở Nam Phi, người ta còn gọi anh bằng một cái tên khác. Anh có biết đó là tên gì không?",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "Đó là tên \"Ra-ten\". Những người định cư Hà Lan ở Nam Phi đặt tên này theo tiếng gầm gừ lục cục rất đặc trưng mà Lửng Mật phát ra mỗi khi nổi giận. Nghe như tiếng... ai đó đang lắc một hộp sỏi! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Còn ở U-gan-đa, người Gan-đa gọi nó bằng một cái tên có nghĩa là \"kẻ không nghe thấy\", vì đôi tai của Lửng Mật rất nhỏ, gần như không nhìn thấy.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "\"Kẻ không nghe thấy\"... Có lẽ đó là lý do vì sao Lửng Mật chưa bao giờ nghe lời ai can ngăn! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Câu hỏi thứ tư dành cho Chồn Gu-lô: tên khoa học của anh có nghĩa là gì?",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "Tên khoa học của Chồn Gu-lô bắt nguồn từ một chữ La-tinh có nghĩa là... \"kẻ tham ăn\".",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Và cả phòng họp báo nhìn xuống khúc xương trên tay Chồn Gu-lô... Chồn Gu-lô lặng lẽ giấu khúc xương ra sau lưng. Không có gì để bàn thêm! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng các nhà khoa học cho rằng cái tên ấy có phần oan. Sống ở nơi lạnh giá, thức ăn khan hiếm, việc ăn được mọi thứ tìm thấy là một chiến lược sinh tồn chứ không phải tính xấu.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Câu hỏi cuối cùng dành cho Cô-a-la: có người nói túi của Cô-a-la mẹ mở ngược xuống dưới. Như vậy Cô-a-la con không bị rơi ra ngoài sao?",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "Đây là một hiểu lầm rất phổ biến. Theo Quỹ Cô-a-la Úc, khi mới sinh con, túi của Cô-a-la mẹ không mở ngược lên cũng không mở ngược xuống, mà mở thẳng ra phía trước, ở giữa bụng.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Miệng túi có một cơ vòng rất khỏe mà mẹ có thể thắt chặt lại, giữ cho con không rơi ra ngoài. Chỉ khi con đã lớn và thò người ra ngoài, sức nặng của con mới kéo miệng túi trễ xuống, trông như túi... mở ngược.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Hồi nhỏ cháu toàn thò đầu ra ngắm cây đó ạ! Mẹ cháu bảo... đừng có thò ra nhiều quá, nặng lắm!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Xin cảm ơn các tuyển thủ. Và nhắn riêng tuyển thủ Chồn Gu-lô: phòng họp báo không cho phép mang xương vào nhé!",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "Buổi họp báo kết thúc! Năm câu hỏi, năm câu trả lời, và không ai phải... nói dối! Và giờ, đúng như tên gọi, chúng ta bước sang vòng thi về sự thật: phiên phúc khảo tin đồn!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene11",
+    "badge": "VÒNG 7",
+    "banner_title": "PHÚC KHẢO TIN ĐỒN",
+    "chapter_title": "Vòng 7: Phúc khảo tin đồn — huyền thoại nào đúng, huyền thoại nào sai",
+    "hook": "TIN ĐỒN HAY SỰ THẬT?",
+    "mood": "nghiem_trang_gia",
+    "parts": [
+     {
+      "text": "Vòng bảy: phúc khảo tin đồn. Luật chơi: giám khảo đọc một tin đồn nổi tiếng về tuyển thủ. Khoa học sẽ xác nhận hoặc bác bỏ. Tin đồn đúng: tuyển thủ được điểm. Tin đồn sai mà tuyển thủ dám thừa nhận: cũng được điểm!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Hồ sơ phúc khảo số một, và lần này kênh Vẽ Chuyện Hoang Dã tự phúc khảo chính mình! Trong tập phim về Tôm Tít, chúng tôi kể mắt nó có tới mười sáu loại tế bào cảm thụ ánh sáng. Và tin đồn đi kèm là: \"Tôm Tít nhìn màu sắc rực rỡ hơn con người gấp nhiều lần\".",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Con số mười sáu là đúng, và trong đó có mười hai loại chuyên cảm nhận màu, trong khi mắt người chỉ có ba. Nhưng năm hai ngàn mười bốn, các nhà khoa học ở Úc làm một thí nghiệm đơn giản: dạy tôm tít nhận một màu để được thưởng đồ ăn, rồi cho chọn giữa hai màu gần giống nhau. Kết quả bất ngờ: khi hai màu khác nhau ít, kiểu như vàng với cam, Tôm Tít bắt đầu chọn sai. Có lúc chọn đúng không hơn gì... đoán bừa! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hóa ra mười hai loại tế bào ấy không phối hợp để phân biệt sắc độ như mắt người. Mỗi loại làm việc riêng, giống như mười hai ngăn kéo phân loại màu: nhanh, nhưng không tinh. Các nhà khoa học cho rằng cách nhìn này giúp Tôm Tít nhận ra màu cực nhanh mà không cần não xử lý nhiều, rất hợp với cuộc sống chớp nhoáng dưới đáy biển.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Phán quyết: tin đồn \"nhìn màu đẹp hơn người\" là sai. Nhưng Tôm Tít có một cách nhìn màu độc nhất vô nhị. Tuyển thủ có chấp nhận không?",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Tôm Tít gật đầu. Nó không cần nhìn màu đẹp hơn người. Nó chỉ cần nhìn thấy con mồi nhanh hơn con mồi kịp chạy! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hồ sơ phúc khảo số hai: Lửng Mật và chim dẫn mật. Như các bạn đã nghe ở vòng ba, khoa học hiện nay nói rằng: chưa có bằng chứng rõ ràng.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Giám khảo hỏi Lửng Mật: tuyển thủ có thừa nhận câu chuyện chim dẫn đường là chưa được chứng minh không?",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Lửng Mật im lặng một lúc lâu... rồi gật đầu. Gã giang hồ nổi tiếng không bao giờ lùi bước, lần đầu tiên chịu nhận là: ừ, chuyện đó chưa ai chứng minh được!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Phán quyết: tin đồn chưa được chứng minh. Nhưng tuyển thủ dám thừa nhận. Giám khảo ghi nhận tinh thần... trung thực!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Hồ sơ phúc khảo số ba: Gấu Nước. Tin đồn: \"Năm hai ngàn mười chín, tàu vũ trụ Bê-rê-sít của I-xra-en rơi xuống Mặt Trăng, và hàng ngàn con Gấu Nước trên tàu hiện vẫn đang nằm ngủ trên Mặt Trăng, chờ ngày được hồi sinh\". Khán giả của kênh còn nhớ: gấu nước từng bị bắn ra khỏi nòng súng cao tốc mà vẫn sống. Nhưng chính thí nghiệm ấy còn một phần hai ít ai kể. Năm hai ngàn hai mươi mốt, các nhà khoa học Anh tăng tốc độ bắn để tìm ra... giới hạn cuối cùng.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Họ cho Gấu Nước ngủ đông, nhét vào viên đạn nhựa, rồi bắn vào bao cát, mỗi lần một nhanh hơn! Năm trăm mét mỗi giây! Bảy trăm! Tám trăm! Chín trăm! Kết quả: đến khoảng tám trăm hai mươi lăm mét mỗi giây, Gấu Nước vẫn sống. Nhưng chỉ nhích lên khoảng chín trăm mét mỗi giây, các nhà khoa học chỉ còn tìm thấy... những mảnh vụn. Siêu nhân cũng có giới hạn.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "[sigh] Và cú va chạm khi tàu Bê-rê-sít rơi xuống Mặt Trăng tạo ra áp lực mạnh hơn rất nhiều so với giới hạn ấy. Kết luận của nhóm nghiên cứu: những chú Gấu Nước trên tàu gần như chắc chắn đã không sống sót.",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Phán quyết: tin đồn Gấu Nước đang ngủ trên Mặt Trăng... khả năng rất cao là sai.",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Nhưng khoan, Gấu Nước tỉnh dậy từ tủ đông và giơ tay xin phát biểu: \"Tôi không bất tử. Tôi chỉ... rất, rất cứng\". Và giám khảo đánh giá cao: dám nhận giới hạn của mình, đó cũng là một kiểu sức mạnh!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hồ sơ phúc khảo số bốn: Chim Bồ Nông. Tin đồn này đã có từ hơn một ngàn năm trước. Người xưa tin rằng: khi không còn thức ăn, Bồ Nông mẹ sẽ tự mổ ngực mình, lấy máu nuôi con. Hình ảnh này nổi tiếng đến mức xuất hiện trên huy hiệu, trên cửa kính nhà thờ, trên biểu tượng của nhiều trường đại học ở châu Âu.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Khoa học trả lời: không có chuyện đó. Khi cho con ăn, Bồ Nông mẹ ép cái túi họng vào ngực để đẩy cá đã nuốt ra cho con. Nhìn từ xa, trông như nó đang mổ vào ngực mình. Thêm nữa, đầu mỏ của một số loài bồ nông có màu đỏ, và có loài túi họng chuyển sang đỏ thẫm vào mùa sinh sản. Người xưa nhìn thấy màu đỏ ở ngực... thế là thêu dệt thành chuyện máu!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Phán quyết: tin đồn sai. Nhưng giám khảo ghi nhận: Bồ Nông là loài chim có biểu tượng tình mẫu tử... dễ thương nhất lịch sử, dù là nhờ hiểu lầm! [laughter]",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Hồ sơ phúc khảo số năm, và là hồ sơ cuối cùng: Gấu Cô-a-la. Tin đồn: \"Cô-a-la chỉ lấy nước từ lá, ngoài những ngày nắng nóng khắc nghiệt thì gần như không bao giờ uống\".",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Vòng một đã trả lời rồi! Năm hai ngàn hai mươi, khoa học đã ghi nhận bốn mươi sáu lần Cô-a-la hoang dã liếm nước mưa từ thân cây, kể cả những ngày trời không hề nóng. Cô-a-la uống thường xuyên hơn chúng ta tưởng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Cháu có uống mà! Có điều... cháu chỉ uống khi trời mưa thôi ạ.",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Phán quyết: tin đồn \"gần như không bao giờ uống\" là chưa đúng. Và Cô-a-la chính là tuyển thủ giúp khoa học sửa lại một hiểu lầm trăm năm!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Kết quả vòng bảy, và đây là vòng có kết quả bất ngờ nhất đêm nay! Huy chương đồng: Gấu Nước, sinh vật siêu cứng dám thừa nhận mình không bất tử! Huy chương bạc: Cô-a-la, người giúp khoa học sửa sai! Và huy chương vàng vòng bảy thuộc về... Lửng Mật, huy chương vàng thứ hai! Vì lần đầu tiên trong lịch sử, gã giang hồ chịu nhận mình... chưa chắc đúng! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bảng điểm sau bảy vòng: Thú Mỏ Vịt tám điểm! Cá Heo bảy điểm! Lửng Mật bứt lên mạnh mẽ với sáu điểm! Chồn Gu-lô, Chim Cánh Cụt, Rái Cá bốn điểm. Tôm Tít và Cô-a-la ba điểm. Bồ Nông hai điểm, Gấu Nước một điểm.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ba tuyển thủ dẫn đầu chỉ cách nhau đúng hai điểm! Chỉ còn một vòng cuối. Và vòng cuối có điểm nhân đôi: vàng sáu điểm, bạc bốn điểm, đồng hai điểm. Câu hỏi của vòng chung kết không phải là ai mạnh nhất. Mà là: ai đã giúp ích cho loài người nhiều nhất.",
+      "mood": "tram_bi_an"
+     }
+    ]
+   },
+   {
+    "id": "scene12",
+    "badge": "GIẢI PHỤ",
+    "banner_title": "ĐÊM TRAO GIẢI PHỤ",
+    "chapter_title": "Giải thưởng phụ: Thọ nhất, lặn chăm nhất, ăn khỏe nhất, hồi sinh ngoạn mục nhất",
+    "hook": "NHỮNG KỶ LỤC BÊN LỀ",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Trước khi bước vào vòng chung kết, ban tổ chức có một bất ngờ: lễ trao giải phụ! Những giải này không tính điểm, nhưng mỗi giải là một kỷ lục có thật mà khán giả xứng đáng được biết.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Giải phụ thứ nhất: tuyển thủ có thành viên sống thọ nhất! Và giải thuộc về... Cá Heo! Mời khán giả làm quen với bà cụ Ních-lô. Ních-lô là một cô cá heo hoang dã sống ở vịnh Xa-ra-xô-ta, bang Phlo-ri-đa. Một nhóm nghiên cứu đã theo dõi cá heo ở vịnh này từ năm một ngàn chín trăm bảy mươi, và họ đã nhìn thấy Ních-lô hơn tám trăm hai mươi lần.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Để biết tuổi của cô, các nhà khoa học đã đếm các lớp vân trên một chiếc răng, giống như đếm vòng gỗ trên thân cây. Và lần cuối cùng Ních-lô được nhìn thấy, vào năm hai ngàn mười bảy, cô đã sáu mươi bảy tuổi. Ních-lô là cá heo hoang dã sống thọ nhất từng được ghi nhận. Cô sinh ít nhất bốn con, con út ra đời khi cô đã bốn mươi tám tuổi. Và đứa con út ấy sau này cũng có con, nối dài ba thế hệ trong cùng một vịnh biển.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Giám khảo xin cúi đầu chào bà cụ Ních-lô. Sáu mươi bảy năm giữa biển khơi, quả là một hành trình sinh tồn đáng nể.",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Giải phụ thứ hai: thọ nhất trong nhóm... nhỏ con. Và giải thuộc về Thú Mỏ Vịt! Năm hai ngàn hai mươi ba, ở một con suối nhỏ gần thành phố Men-bơn, nước Úc, các nhà nghiên cứu bắt lại một chú Thú Mỏ Vịt đực đã được gắn thẻ từ hơn hai mươi năm trước. Chú được gắn thẻ khi mới khoảng một tuổi, và khi bị bắt lại, chú đã hai mươi bốn tuổi. Đây là Thú Mỏ Vịt hoang dã sống thọ nhất từng được ghi nhận, vượt kỷ lục cũ hai mươi mốt tuổi.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Trong khi đó, ở sa mạc Ka-la-ha-ri, Lửng Mật hoang dã thường chỉ sống khoảng ba đến tám năm. Gã giang hồ dũng cảm nhất đại hội... lại có cuộc đời khá ngắn ngủi.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Giải phụ thứ ba: thợ lặn chăm chỉ nhất! Và lại là Thú Mỏ Vịt! Ở một hồ nước trên núi ở Ta-xma-ni-a, các nhà khoa học đã gắn thiết bị đo độ sâu lên mười một chú Thú Mỏ Vịt và ghi lại gần chín mươi ngàn lần lặn.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Mỗi lần lặn trung bình chỉ khoảng ba mươi mốt giây! Ngoi lên thở mười giây, rồi lại lặn tiếp! Trung bình bảy mươi lăm lần mỗi giờ! Và có những chuyến kiếm ăn, nó lặn tới một ngàn sáu trăm lần liên tục!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Giải phụ thứ tư: lò sưởi bí ẩn nhất! Và giải thuộc về Rái Cá Biển. Khán giả của kênh đã biết Rái Cá đốt năng lượng rất nhanh để giữ ấm. Nhưng suốt nhiều chục năm, không ai biết chính xác hơi ấm ấy được tạo ra ở đâu trong cơ thể. Năm hai ngàn hai mươi mốt, các nhà khoa học lấy mẫu cơ bắp của hai mươi mốt chú Rái Cá Biển, từ con non đến con trưởng thành, và đo cách các tế bào cơ sử dụng ô-xy. Và họ phát hiện ra: những nhà máy năng lượng tí hon trong tế bào cơ của Rái Cá bị... rò rỉ, có chủ đích. Thay vì biến hết năng lượng thành sức để cử động, chúng để một phần lớn thoát ra dưới dạng nhiệt. Cơ bắp sưởi ấm cơ thể mà không cần cử động! Điều bất ngờ nhất: ngay cả Rái Cá con mới sinh, cơ bắp còn non nớt, các tế bào cơ đã có khả năng tạo nhiệt ngang bằng con trưởng thành. Lò sưởi được lắp sẵn... từ lúc chào đời! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Giải phụ thứ năm: thiết kế không cần sửa lâu nhất! Và giải thuộc về... Chim Bồ Nông! Ở vùng Lu-bê-rông, miền Nam nước Pháp, người ta tìm thấy hóa thạch của một chú bồ nông sống cách đây khoảng ba mươi triệu năm.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và điều khiến các nhà khoa học kinh ngạc: chiếc mỏ của chú bồ nông ba mươi triệu năm tuổi ấy... gần như giống hệt mỏ bồ nông ngày nay. Ba mươi triệu năm, tạo hóa gần như không phải sửa gì thêm! Các nhà khoa học đoán rằng chiếc mỏ ấy đã quá phù hợp để bắt cá, nên không cần thay đổi. Một sản phẩm ra mắt từ ba mươi triệu năm trước... mà chưa từng phải tung bản cập nhật! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Giải phụ thứ sáu: tên gọi thú vị nhất! Ban tổ chức đã tra tên khoa học của từng tuyển thủ, và phát hiện ra mỗi cái tên là một câu chuyện. Tên khoa học của Lửng Mật là Me-li-vo-ra ca-pen-xít. Me-li-vo-ra nghĩa là \"kẻ ăn mật\", còn ca-pen-xít là \"đến từ mũi Hảo Vọng\", nơi mẫu vật đầu tiên được thu thập ở Nam Phi. Tên của Tôm Tít trong khoa học là bộ Chân Miệng, vì những chiếc chân bắt mồi của nó nằm ngay gần miệng. Một võ sĩ mà tay nằm ở... cằm! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Gấu Nước được mô tả lần đầu vào năm một ngàn bảy trăm bảy mươi ba bởi một mục sư người Đức. Ông nhìn qua kính hiển vi, thấy sinh vật này lạch bạch như một chú gấu, nên gọi nó là \"chú gấu nước nhỏ\". Ba năm sau, một nhà khoa học người Ý đặt cho nó cái tên khoa học có nghĩa là \"kẻ bước chậm\". Và hơn hai trăm năm sau, các nhà khoa học hiện đại đo được tốc độ đi dạo của nó: khoảng nửa thân mình mỗi giây. Đúng là danh bất hư truyền! [laughter]",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Còn Thú Mỏ Vịt? Ban đầu, nó được đặt tên khoa học là Pla-ti-pớt, nghĩa là \"chân dẹt\". Nhưng các nhà khoa học sớm phát hiện ra: cái tên ấy đã thuộc về... một loài bọ cánh cứng! Thế là Thú Mỏ Vịt phải nhận một tên khoa học mới, có nghĩa là \"mỏ chim, giống vịt\". Nhưng cái tên cũ \"chân dẹt\" vẫn ở lại làm tên gọi thường ngày bằng tiếng Anh đến tận bây giờ. Mất tên khoa học vào tay một con bọ... nhưng vẫn giữ được biệt danh! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Giải phụ cuối cùng, và là giải mà ban tổ chức trân trọng nhất: giải hồi sinh ngoạn mục. Giải này thuộc về Rái Cá Biển, và câu chuyện của nó bắt đầu từ hơn hai trăm năm trước. Bộ lông dày nhất thế giới động vật từng khiến Rái Cá Biển trở thành món hàng săn lùng. Suốt hơn một thế kỷ rưỡi, người ta săn bắt chúng để lấy da. Đến năm một ngàn chín trăm mười một, trên toàn thế giới chỉ còn khoảng một đến hai ngàn con Rái Cá Biển.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Và cũng chính năm một ngàn chín trăm mười một ấy, bốn quốc gia đã ký một hiệp ước cấm săn bắt. Những nhóm rái cá nhỏ bé còn sót lại bắt đầu sinh sôi trở lại. Ngày nay, đã có hơn một trăm ngàn con Rái Cá Biển trên khắp các vùng biển xưa của chúng. Từ một ngàn con lên hơn một trăm ngàn con. Đó là bằng chứng rõ ràng nhất rằng: khi con người dừng tay đúng lúc, thiên nhiên biết cách tự chữa lành.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Giám khảo xin trao giải đặc biệt này cho Rái Cá Biển. Và cũng xin gửi lời cảm ơn tới những người đã ký hiệp ước năm ấy.",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Ủa, vậy là năm nay không có giải phụ nào cho người ngủ giỏi nhất hả chú? Cháu ngủ hai mươi hai tiếng mỗi ngày đó!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Câu hỏi rất hợp lý! Nhưng chuyện Cô-a-la ngủ hai mươi hai tiếng thì khán giả của kênh đã biết rồi. Đại hội này chỉ trao giải cho những điều mới. Hẹn bạn ở... đại hội ngủ trưa! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Lễ trao giải phụ khép lại! Và giờ, xin mời tất cả các tuyển thủ bước vào sân khấu chính, cho vòng thi cuối cùng của Đại Hội Sinh Tồn!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene13",
+    "badge": "CHUNG KẾT",
+    "banner_title": "MÓN QUÀ CHO LOÀI NGƯỜI",
+    "chapter_title": "Chung kết: Ai đã giúp ích cho loài người nhiều nhất",
+    "hook": "ĐIỂM NHÂN ĐÔI – AI LÊN NGÔI?",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Vòng chung kết: món quà cho loài người! Mỗi tuyển thủ sẽ trình bày một phát minh, một loại thuốc, hay một công nghệ mà con người đã học được, hoặc đang học, từ chính cơ thể mình.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Rái Cá Biển mở hộp quà đầu tiên. Bên trong là... một bộ đồ lặn có lông! [laughter] Năm hai ngàn mười sáu, các kỹ sư ở Viện Công nghệ Ma-xa-chu-xét đã làm những tấm cao su phủ lông nhân tạo, mô phỏng bộ lông của rái cá và hải ly, rồi nhúng chúng vào chất lỏng ở nhiều tốc độ khác nhau. Họ phát hiện: lông càng dày, lặn xuống càng nhanh, thì càng giữ lại được nhiều không khí. Từ đó, họ tìm ra công thức để có thể chế tạo những bộ đồ lặn ấm áp lấy cảm hứng từ bộ lông rái cá.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chim Cánh Cụt mở hộp quà thứ hai: một tấm lưới thép nhỏ xíu, lấp lánh. Các nhà khoa học ở Ca-na-đa thắc mắc: tại sao chim cánh cụt sống giữa băng giá mà lông không bao giờ bị đóng băng? Họ soi lông chim cánh cụt dưới kính hiển vi, và thấy những sợi lông nhỏ đan móc vào nhau như một tấm lưới, trên bề mặt có những rãnh siêu nhỏ. Họ bắt chước cấu trúc ấy bằng lưới thép không gỉ, khắc thêm rãnh siêu nhỏ bằng tia la-de. Kết quả: băng bám vào tấm lưới yếu hơn khoảng chín mươi lăm phần trăm so với tấm thép phẳng thông thường!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Các nhà khoa học hy vọng vật liệu này sẽ giúp chống đóng băng cho đường dây điện, tuabin gió và máy bay, mà không cần hóa chất. Quý ông Vest Đuôi Tôm... đang góp phần giữ điện cho cả một thành phố mùa đông!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Bồ Nông mở hộp quà thứ ba. Bên trong là... một chiếc máy bay đồ chơi! Từ việc nghiên cứu cách những đàn chim lớn bay theo hình chữ V để tiết kiệm sức, hãng máy bay Ê-bớt đã thử nghiệm cho hai chiếc máy bay chở khách cỡ lớn bay nối đuôi nhau, cách nhau khoảng ba cây số. Chiếc bay sau lướt trên luồng khí của chiếc bay trước, giống hệt bồ nông. Chuyến bay thử năm hai ngàn hai mươi mốt từ Pháp sang Ca-na-đa đã tiết kiệm được hơn sáu tấn khí thải cac-bon.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tôm Tít mở hộp quà thứ tư, và bên trong là... một chiếc mũ bảo hiểm! Một chiếc càng búa của Tôm Tít phải chịu hàng chục ngàn cú đấm trong đời mà không vỡ. Các kỹ sư ở Đại học Ca-li-phoóc-ni-a đã soi vào bên trong để tìm hiểu bí mật. Họ thấy những lớp sợi xếp xoắn như cầu thang xoắn ốc. Mỗi khi có cú va chạm, vết nứt bị buộc phải đi vòng vèo theo các lớp xoắn, nên không thể xuyên thẳng qua.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Cấu trúc xoắn ốc ấy đang được các kỹ sư bắt chước để làm ra những vật liệu nhẹ mà chịu va đập tốt, hướng tới mũ bảo hiểm, áo giáp và khung xe, khung máy bay. Giám khảo ghi nhận, nhưng xin để dành huy chương chờ những sản phẩm đầu tiên ra đời!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Cá Heo xin chen ngang mở một hộp quà... ngoài danh sách. Bên trong là một chiếc phao nhỏ màu cam. Và câu chuyện của chiếc phao này bắt đầu ở một bến cảng nước I-rắc, tháng Ba năm hai ngàn lẻ ba.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bến cảng ấy bị thả hơn một trăm quả thủy lôi và vật nổ dưới nước. Máy dò dưới nước đã phát hiện hơn hai trăm vật thể đáng ngờ, nhưng máy không phân biệt được đâu là thủy lôi, đâu là rác hay đá. Đó là lúc tám chú cá heo của Hải quân Mỹ được gửi xuống. Bằng tiếng định vị, cá heo phân biệt được vật thể tự nhiên và vật thể do con người làm ra, kể cả những thứ bị vùi trong bùn. Khi phát hiện thủy lôi, chúng bơi về báo cho người huấn luyện, rồi mang chiếc phao xuống đánh dấu vị trí.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Nhờ vậy, chỉ khoảng một tuần sau, bến cảng đã được mở lại để những con tàu chở gạo và lương thực cập bến. Các nhà khoa học hải quân thừa nhận: trong vùng nước đục và nhiều vật cản, khả năng định vị của cá heo vẫn vượt mọi máy móc hiện có.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Giám khảo ghi nhận món quà ngoài danh sách của Cá Heo. Nhưng vì đây là phần chen ngang... nên chỉ được tính là điểm cộng tinh thần!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Gấu Nước mở hộp quà thứ năm. Bên trong là... một đoạn gen phát sáng. Năm hai ngàn mười sáu, các nhà khoa học Nhật Bản giải mã bộ gen của một loài gấu nước cực kỳ khỏe, và tìm thấy một loại đạm chỉ gấu nước mới có. Họ đặt tên nó là Đi-súp, nghĩa là \"chất chống hư hại\".",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Rồi họ làm một thí nghiệm táo bạo: đưa đoạn gen này vào tế bào người nuôi trong phòng thí nghiệm, rồi chiếu tia X. Kết quả: tế bào người có đạm Đi-súp bị hư hại ADN ít hơn khoảng bốn mươi phần trăm! Một chú gấu nước bé hơn hạt cát đã cho tế bào người... mượn tạm một chiếc áo giáp chống phóng xạ! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Và cuối cùng, tuyển thủ dẫn đầu: Thú Mỏ Vịt. Ở vòng ba, Thú Mỏ Vịt đã kể về chất kháng khuẩn trong sữa. Hôm nay, nó mở hộp quà thứ sáu, và bên trong là... một giọt nọc độc. Thú Mỏ Vịt đực có chiếc cựa độc ở chân sau. Năm hai ngàn mười sáu, các nhà khoa học Úc phát hiện trong nọc độc ấy có một loại hóc-môn gọi là Gờ-lờ-pê-một. Ở người, hóc-môn này giúp cơ thể tiết ra in-su-lin để hạ đường huyết.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Vấn đề là ở người, hóc-môn này bị phân hủy chỉ trong vài phút. Còn hóc-môn trong nọc Thú Mỏ Vịt thì bền hơn hẳn, vì nó vừa phải làm việc trong ruột, vừa phải làm việc trong nọc độc. Và một hóc-môn bền hơn chính là điều mà các nhà khoa học tìm kiếm để làm thuốc điều trị bệnh tiểu đường loại hai. Hiện nay các nhóm nghiên cứu ở Úc đang thử nghiệm những phân tử lấy cảm hứng từ nọc Thú Mỏ Vịt trên chuột.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Sữa có chất diệt khuẩn. Nọc độc có thể thành thuốc chữa tiểu đường. Con vật từng bị các nhà khoa học cầm kéo đi tìm đường chỉ khâu, hóa ra lại là một... hiệu thuốc biết bơi! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Giám khảo ra hiệu chuẩn bị công bố. Cả sân vận động im phăng phắc.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Huy chương đồng vòng chung kết, hai điểm: Chim Bồ Nông, người thầy dạy máy bay cách bay đỡ tốn sức!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Huy chương bạc, bốn điểm: Gấu Nước, người cho tế bào người mượn áo giáp!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Và huy chương vàng vòng chung kết, sáu điểm, thuộc về... Thú Mỏ Vịt!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Và đây là bảng điểm cuối cùng của Đại Hội Sinh Tồn lần thứ nhất!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hạng ba: Lửng Mật, sáu điểm! Trắng tay suốt bốn vòng đầu, rồi bùng nổ với hai huy chương vàng: bà mẹ chuyển nhà mỗi ba ngày, và gã giang hồ dám nhận mình chưa chắc đúng! Hạng hai: Cá Heo, bảy điểm! Người lính gác mười lăm ngày không ngủ, và người bạn của ngư dân Bra-xin suốt hơn một trăm năm!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và nhà vô địch Đại Hội Sinh Tồn lần thứ nhất, với ba huy chương vàng, một huy chương bạc và mười bốn điểm... Thú Mỏ Vịt! Tuyển thủ mà các chuyên gia dự đoán chỉ \"tham gia cho vui\"!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene14",
+    "badge": "BẾ MẠC",
+    "banner_title": "NHÀ VÔ ĐỊCH BẤT NGỜ",
+    "chapter_title": "Bế mạc: Nhà vô địch bất ngờ và bài học của đại hội",
+    "hook": "KẺ BỊ CHÊ LÊN NGÔI",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Thú Mỏ Vịt đứng trên bục cao nhất, chiếc vương miện bé xíu hơi lệch trên đầu. Hơn hai trăm năm trước, khi mẫu vật đầu tiên đến châu Âu, các nhà khoa học tưởng nó là đồ giả. Đêm nay, nó là nhà vô địch.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Ủa... vậy là bạn mỏ vịt thắng thật ạ? Chúc mừng bạn! Bạn có muốn ôm cây với cháu không?",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Nhìn lại cả tám vòng thi, có một điều thú vị: những tuyển thủ được dự đoán là mạnh nhất, Tôm Tít và Gấu Nước, lại không lên được bục vinh quang. Vì sinh tồn không chỉ là đánh nhau. Sinh tồn còn là giữ ấm giữa nước đá, là đi theo mặt trời mười ba ngàn cây số, là hợp tác với người đánh cá, là ôm cây cho mát.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và có một điểm chung giữa những tuyển thủ chiến thắng ở vòng cuối: con người đã học được từ chúng. Từ lông rái cá, lông cánh cụt, đội hình bồ nông, đến gen gấu nước và sữa, nọc độc của thú mỏ vịt. Thiên nhiên không chỉ là nơi để chúng ta ngắm nhìn. Đó còn là một thư viện khổng lồ, nơi mỗi loài vật là một cuốn sách chứa những lời giải mà con người chưa nghĩ ra.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "[sigh] Và cũng có những cuốn sách đang bị đe dọa. Ngày mười hai tháng Hai năm hai ngàn hai mươi hai, Cô-a-la ở ba bang miền Đông nước Úc chính thức bị xếp vào danh sách nguy cấp, sau hạn hán kéo dài, cháy rừng và mất nơi sống. Tháng Mười Một năm hai ngàn hai mươi ba, đến lượt Chồn Gu-lô ở lục địa nước Mỹ được đưa vào danh sách loài bị đe dọa, vì những lớp tuyết mùa xuân mà nó cần để sinh con đang ngày một ít đi. Chồn Gu-lô cần tuyết mùa xuân. Cá heo ở La-gu-na cần cá đối. Cô-a-la cần những cái cây để ôm, và những cơn mưa để uống.",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Nếu những loài vật này biến mất, chúng ta không chỉ mất đi những sinh vật đáng yêu. Chúng ta còn mất đi những lời giải mà có khi... chưa ai kịp đọc. Nhưng câu chuyện Rái Cá Biển ở lễ trao giải phụ đã cho thấy: chưa bao giờ là quá muộn.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Trước khi chia tay, mời toàn thể khán đài cùng nhìn lại bảng tổng sắp cuối cùng của Đại Hội Sinh Tồn lần thứ nhất!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Vô địch: Thú Mỏ Vịt, mười bốn điểm! Ba huy chương vàng, một huy chương bạc! Bơi năm tiếng trong nước không độ, ăn khỏe nhất cuộc thi, và mang đến cho loài người cả sữa diệt khuẩn lẫn nọc độc chữa bệnh! Á quân: Cá Heo, bảy điểm! Người lính gác mười lăm ngày, đồng đội trăm năm của ngư dân Bra-xin, và bà cụ Ních-lô sáu mươi bảy tuổi! Hạng ba: Lửng Mật, sáu điểm! Trắng tay bốn vòng đầu, rồi bùng nổ với hai huy chương vàng nhờ làm mẹ giỏi và dám nhận mình chưa chắc đúng!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Hạng tư: Gấu Nước, năm điểm, tuyển thủ được dự đoán vô địch đã bứt phá ở hai vòng cuối. Tiếp theo là nhóm bám đuổi, cùng bốn điểm: Chồn Gu-lô với hai huy chương bạc, Chim Cánh Cụt với một vàng một đồng, Rái Cá Biển với một bạc hai đồng, và Chim Bồ Nông với một bạc một đồng. Và cuối bảng, cùng ba điểm: Tôm Tít, võ sĩ biết đấm khiên thay vì đấm người, và Cô-a-la, tuyển thủ ngủ nhiều nhất nhưng đã giúp khoa học sửa một hiểu lầm. Không ai ra về tay trắng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và nếu phải chọn những khoảnh khắc đáng nhớ nhất của đại hội, thì đó là: Cô-a-la ôm cây keo làm điều hòa. Chồn Gu-lô đi bộ tám trăm cây số và trở thành con chồn đầu tiên ở Cô-lô-ra-đô sau chín mươi năm. Chim Cánh Cụt đi theo mặt trời mười ba ngàn cây số. Gấu Nước bị bắn khỏi nòng súng khí và dám thừa nhận mình không bất tử. Và ông lão ngư dân Bra-xin đứng dưới nước, chờ tín hiệu của người bạn cá heo.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Và bây giờ, đến lượt bạn làm giám khảo! Bạn đồng ý với kết quả này không? Nếu là bạn, bạn sẽ trao vương miện cho ai? Hãy viết tên nhà vô địch của riêng bạn ở phần bình luận nhé. Biết đâu, ở đại hội lần sau, kết quả sẽ thay đổi hoàn toàn!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Vì Đại Hội Sinh Tồn lần thứ hai đã có danh sách tuyển thủ. Mười gương mặt mới, đến từ khắp nơi trên thế giới: từ khu rừng tre ở Tứ Xuyên, đến dòng sông bùn ở châu Phi, đến những cánh rừng mưa Nam Mỹ.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Và lần này, có một tuyển thủ mang theo cả một khẩu đại bác nước trên càng! Hẹn gặp lại toàn thể khán đài ở Đại Hội Sinh Tồn lần thứ hai!",
+      "mood": "hao_hung"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "don_dap",
+  "text": "[surprise-oh] Mười quái kiệt. Tám vòng thi. Một chiếc vương miện! Lửng Mật, Tôm Tít, Gấu Nước được dự đoán sẽ thắng. Còn Thú Mỏ Vịt... tham gia cho vui! [laughter] Vòng một: Thú Mỏ Vịt bơi năm tiếng trong nước không độ C mà thân nhiệt không hề tụt! Vòng hai: Chim Cánh Cụt đi mười ba ngàn cây số mỗi năm, theo mặt trời quanh Nam Cực! Vòng sáu: Cá Heo bắt cá cùng ngư dân Bra-xin, giúp họ bắt được cá cao gấp mười bảy lần! Vòng bảy: tin đồn gấu nước còn sống trên Mặt Trăng bị khoa học... bắn hạ bằng súng khí! Lửng Mật thì sao? Lần đầu tiên trong đời... chịu thừa nhận mình chưa chắc đúng! [laughter] Chung kết: ai giúp ích cho loài người nhiều nhất? Sữa Thú Mỏ Vịt diệt khuẩn, nọc độc có thể thành thuốc chữa tiểu đường! [surprise-wa] Và nhà vô địch là... con vật từng bị các nhà khoa học tưởng là đồ giả khâu ghép! [question-ah] Bạn có đồng ý không? Xem trọn tám vòng thi trong video dài nhé, vì ở đây chỉ có mười quái kiệt, tám vòng thi, và một chiếc vương miện!"
+ }
+}

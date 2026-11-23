@@ -1,0 +1,164 @@
+{
+  "title_lines": [
+    "CHÍ PHÈO 12KG",
+    "KHIẾN SƯ TỬ DẠT ĐƯỜNG?!"
+  ],
+  "beats": [
+    {
+      "at_s": 0.0,
+      "draw_s": 1.0,
+      "image": "assets/shorts/S01.png",
+      "stickers": [
+        {
+          "at": "12kg,",
+          "side": "R",
+          "y": 620,
+          "value": "12 KG",
+          "label": "thách thức thú dữ",
+          "target": [
+            0.55,
+            0.52
+          ]
+        }
+      ]
+    },
+    {
+      "at": "khiến cả bầy sư tử",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S02.png",
+      "stickers": [
+        {
+          "at": "né đường!",
+          "side": "L",
+          "y": 620,
+          "value": "NÉ ĐƯỜNG",
+          "label": "sư tử khiếp vía",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "Xin giới thiệu Lửng Mật,",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S03.png",
+      "stickers": [
+        {
+          "at": "Kỷ lục Guinness",
+          "side": "R",
+          "y": 620,
+          "value": "GUINNESS",
+          "label": "dũng cảm số 1",
+          "target": [
+            0.5,
+            0.48
+          ]
+        }
+      ]
+    },
+    {
+      "at": "Toàn thân nó được bọc",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S04.png",
+      "stickers": [
+        {
+          "at": "6mm",
+          "side": "L",
+          "y": 620,
+          "value": "6 MM",
+          "label": "giáp da cao su",
+          "target": [
+            0.52,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "vẫn có thể xoay ngược",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S05.png",
+      "stickers": [
+        {
+          "at": "180 độ",
+          "side": "R",
+          "y": 620,
+          "value": "180 ĐỘ",
+          "label": "xoay người phản đòn",
+          "target": [
+            0.48,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "Đỉnh cao hơn, nhờ thụ",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S06.png",
+      "stickers": []
+    },
+    {
+      "at": "khi bị rắn hổ mang",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S07.png",
+      "stickers": [
+        {
+          "at": "2 tiếng",
+          "side": "L",
+          "y": 620,
+          "value": "2 TIẾNG",
+          "label": "ngủ mê lọc nọc độc",
+          "target": [
+            0.52,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "Không chỉ lì đòn, chú",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S08.png",
+      "stickers": [
+        {
+          "at": "vượt ngục.",
+          "side": "R",
+          "y": 620,
+          "value": "VƯỢT NGỤC",
+          "label": "thiên tài bẻ khóa",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "Một kẻ vừa có giáp",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S09.png",
+      "stickers": []
+    },
+    {
+      "at": "đúng là đại ca giang",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S10.png",
+      "stickers": [
+        {
+          "at": "số 1",
+          "side": "L",
+          "y": 620,
+          "value": "SỐ 1",
+          "label": "chí phèo thảo nguyên",
+          "target": [
+            0.5,
+            0.5
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+ "episode_no": 14,
+ "animal": "Chim Tu Hú",
+ "slug": "tap-14-chim-tu-hu",
+ "format": "F3",
+ "persona": "phien_toa",
+ "_angle_from_roadmap": "Hồ sơ tội phạm lừa đảo: Đẻ trứng giả mạo trong $10text{ giây}$, sát thủ chưa mở mắt đẩy hết trứng chủ nhà khỏi tổ.",
+ "_shorts_idea_from_roadmap": "Bản năng sát thủ của chim Tu Hú non ngay giây phút đầu tiên chui khỏi vỏ trứng!",
+ "nickname": "Siêu Trộm Tổ Ấm",
+ "sources": [
+  "Tác giả năm, tạp chí/nguồn — số liệu dùng trong tập (mỗi con số phải có nguồn)"
+ ],
+ "whisper_prompt": "Chim Tu Hú, biệt danh, tên riêng phiên âm, số liệu khó (giúp Whisper nghe đúng)",
+ "display_fix": {
+  "hai mươi xăng-ti-mét": "20cm",
+  "Ma-ri-a-na": "Mariana",
+  "mười giây": "10 giây",
+  "mười lăm giây": "15 giây",
+  "hai mươi tư giờ": "24 giờ",
+  "bốn mươi tám giờ": "48 giờ",
+  "hai đến ba ngày": "2-3 ngày",
+  "hai mươi phút": "20 phút",
+  "nửa tiếng": "30 phút",
+  "ba đến bốn lần": "3-4 lần",
+  "gấp ba lần": "gấp 3 lần",
+  "gấp bốn lần": "gấp 4 lần",
+  "gấp hai lần": "gấp 2 lần",
+  "gấp mười lần": "gấp 10 lần",
+  "năm phút": "5 phút",
+  "mười bốn tiếng": "14 tiếng",
+  "chín mươi chín phần trăm": "99%",
+  "hai gam": "2g",
+  "sáu mươi lăm ki-lô-gam": "65kg",
+  "năm mươi sáu phần trăm": "56%",
+  "dưới mười phần trăm": "dưới 10%",
+  "một trăm phần trăm": "100%",
+  "Hu-vơ": "Hoover",
+  "Rô-bin-xơn": "Robinson",
+  "P-N-A-S": "PNAS",
+  "Bằng chứng số một": "Bằng chứng số 1",
+  "Bằng chứng số hai": "Bằng chứng số 2",
+  "Bằng chứng số ba": "Bằng chứng số 3",
+  "Bằng chứng số bốn": "Bằng chứng số 4",
+  "Cáo trạng thứ nhất": "Cáo trạng thứ 1",
+  "Cáo trạng thứ hai": "Cáo trạng thứ 2",
+  "Cáo trạng thứ ba": "Cáo trạng thứ 3",
+  "Cáo trạng thứ tư": "Cáo trạng thứ 4",
+  "Tập mười lăm": "Tập 15",
+  "Một giây": "1 giây",
+  "Hai giây": "2 giây",
+  "Ba giây": "3 giây",
+  "Năm giây": "5 giây",
+  "hai tuần": "2 tuần",
+  "thứ ba": "thứ 3",
+  "hai ngàn lẻ bảy": "2007",
+  "hàng triệu năm qua": "hàng triệu năm qua",
+  "hàng triệu năm": "hàng triệu năm"
+ },
+ "voice": {},
+ "art": {
+  "decor": "tiny spotted eggs, broken eggshells, green tree leaves, small wooden gavels, scales of justice",
+  "shorts_mascot": "A small cunning cartoon Cuckoo chick with a hollow back and huge red open beak holding a small wooden judge gavel",
+  "thumb_bg": "khung cảnh tổ chim trên cành cây rừng rậm mờ ảo kịch tính ánh tím đêm thẫm",
+  "thumb_title": [
+   "SÁT THỦ 10 GIÂY?!",
+   "PHIÊN TÒA TU HÚ"
+  ],
+  "thumb_scene": "một chú chim Tu Hú non lông xù khổng lồ to gấp 3 lần chim bố mẹ, há miệng đỏ lòm như hố ga đòi ăn, đứng trong vành móng ngựa gỗ của tòa án, chim bố mẹ nhỏ xíu sợ hãi bón sâu trên đầu",
+  "thumb_gag": "góc dưới một quả trứng chim chủ bị hất rơi lơ lửng vỡ đôi và một chiếc búa thẩm phán gõ vang hài hước"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "VỤ ÁN TỔ ẤM",
+    "banner_title": "BỊ CÁO SIÊU TRỘM TỔ ẤM",
+    "chapter_title": "Vụ án tổ ấm: Bị cáo siêu trộm 10 giây",
+    "hook": "PHIÊN TÒA HÌNH SỰ XÉT XỬ CHIM TU HÚ",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Tòa án tối cao thế giới tự nhiên! Cốc, cốc, cốc! Tiếng búa gõ vang dội giữa rừng già trong một buổi sáng đầy căng thẳng. Trên cành cây cổ thụ râm mát, một vụ án hình sự đặc biệt nghiêm trọng đang được đưa ra xét xử công khai trước sự chứng kiến của muôn loài chim muông!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Trật tự phiên tòa! Đề nghị công tố viên đọc to cáo trạng!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Kính thưa quý tòa và hội đồng bồi thẩm đoàn! Kẻ đang đứng trước vành móng ngựa hôm nay là một kẻ có hành tung thoắt ẩn thoắt hiện, sở hữu bộ lông hoa râm đốm xám và tiếng kêu tu hú vang vọng khắp các cánh đồng mỗi mùa vải chín! Vâng, đó chính là chim Tu Hú — loài chim được giang hồ thế giới tự nhiên đặt cho biệt danh khét tiếng: Siêu Trộm Tổ Ấm! [surprise-oh]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bị cáo trông bề ngoài thì có vẻ phong nhã, hiền lành, nhưng lật giở hồ sơ tiền án tiền sự của Siêu Trộm Tổ Ấm thì ai nấy đều phải rùng mình kinh hãi! Không xây tổ, không ấp trứng, không nuôi con, lười biếng đến mức tận cùng nhưng lại sở hữu những ngón nghề lừa đảo tinh vi bậc nhất lịch sử tiến hóa!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Hôm nay, công tố viên tôi xin đại diện cho hàng vạn nạn nhân chim chích, chim sáo, chim chích chòe đệ trình lên tòa bốn bằng chứng không thể chối cãi: Đột nhập đẻ trộm trứng trong mười giây; Sát thủ sơ sinh mù mắt đẩy trứng chủ nhà rơi xuống đất; Thao túng tâm lý bắt cha mẹ nuôi bón mồi cho đứa con to gấp ba lần; Và chiến thuật mafia đập phá tổ để trả thù! Liệu một kẻ mang đầy tội trạng rợn người như thế này có xứng đáng nhận án phạt thích đáng? Kính mời bồi thẩm đoàn cùng theo dõi!",
+      "mood": "don_dap"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "BẰNG CHỨNG #1",
+    "banner_title": "VỤ CƯỚP TRỨNG TRONG 10 GIÂY",
+    "chapter_title": "Bằng chứng #1: Vụ cướp trứng thần tốc trong 10 giây",
+    "hook": "ĐỘT NHẬP VÀ ĐẺ TRỘM TRỨNG THẦN TỐC",
+    "mood": "nghiem_trang_gia",
+    "parts": [
+     {
+      "text": "Bằng chứng số một: Hành vi xâm nhập gia cư bất hợp pháp và đánh tráo tài sản với tốc độ kinh hoàng chỉ trong mười giây! Thông thường, một cô chim mái cần từ hai mươi phút đến nửa tiếng đồng hồ tĩnh tâm để đẻ xong một quả trứng. Nhưng với Siêu Trộm Tổ Ấm, việc sinh nở diễn ra nhanh như một tên trộm giật túi xách trên phố! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Để thực hiện phi vụ hoàn hảo, vợ chồng Tu Hú đã phối hợp tác chiến với kịch bản ăn ý đến từng mi-li-giây! Chim Tu Hú bố sở hữu bộ lông đen tuyền bóng bẩy sẽ bay lượn sát tổ của nạn nhân, phát ra những tiếng kêu khiêu khích chói tai làm chim chủ nhà nổi giận bay ra đuổi đánh. Và ngay khi chim chủ nhà vừa rời khỏi tổ, chim Tu Hú mẹ lập tức từ bụi cây lao vút xuống như một bóng ma!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Bấm đồng hồ: Một giây đáp xuống tổ! Hai giây cúi xuống dùng mỏ ngoạm lấy một quả trứng của chim chủ nhà nuốt chửng hoặc vứt văng ra ngoài! Ba giây ép sát bụng xuống đáy tổ và rặn đẻ đúng một quả trứng của mình thay vào vị trí đó! Năm giây tiếp theo: đập cánh bay biến vào tán lá rậm rạp! Toàn bộ vụ đột nhập đánh tráo diễn ra vỏn vẹn đúng mười giây đồng hồ, đến nỗi chiếc lá trên tổ còn chưa kịp ngừng rung rinh thì kẻ gian đã cao chạy xa bay! [surprise-wa]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng tại sao chim chủ nhà khi quay về lại không phát hiện ra quả trứng lạ? Đây chính là đỉnh cao của công nghệ làm giả trong tự nhiên: trứng của Tu Hú có màu sắc, đốm hoa văn và kích thước giống trứng của chim chủ tới chín mươi chín phần trăm! Nếu gửi mẫu trứng này đi giám định ở phòng thí nghiệm hình sự, bảo đảm các chuyên gia cũng phải hoa mắt chóng mặt mới phân biệt nổi! [laughter]",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Chưa dừng lại ở đó, vỏ trứng của Siêu Trộm Tổ Ấm còn tiến hóa dày hơn và cứng hơn trứng bình thường gấp hai lần! Để làm gì quý vị biết không? Một là để khi chim mẹ thả rơi vội vã từ trên cao xuống đáy tổ lót đá nó không bị nứt vỡ; và hai là nếu chim chủ nhà có sinh nghi dùng mỏ mổ thử, quả trứng Tu Hú vẫn trơ trơ như đá tảng khiến chim chủ đành bất lực chấp nhận ấp tiếp!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "BẰNG CHỨNG #2",
+    "banner_title": "SÁT THỦ CHƯA MỞ MẮT",
+    "chapter_title": "Bằng chứng #2: Sát thủ sơ sinh và chiếc lưng lõm tử thần",
+    "hook": "BẢN NĂNG SÁT THỦ NGAY KHI VỪA NỞ",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Kính thưa quý tòa! Tội ác của chim mẹ mới chỉ là màn dạo đầu. Cáo trạng thứ hai mới thực sự là nỗi ám ảnh kinh hoàng nhất trong lịch sử sinh học: Tội ác của sát thủ sơ sinh chưa mở mắt! [surprise-oh]",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Trứng của Tu Hú luôn được thiên nhiên ban cho đặc quyền nở sớm hơn trứng của chim chủ nhà từ hai mươi tư giờ đến bốn mươi tám giờ. Lý do là vì phôi thai của Tu Hú đã bắt đầu phát triển ngay từ khi còn nằm trong ống dẫn trứng của chim mẹ! Khi chui ra khỏi vỏ, chú chim Tu Hú non chỉ nặng vỏn vẹn hai gam, trần trụi chẳng có cọng lông nào, mắt nhắm nghiền tịt mít như một hạt đậu đỏ!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Nhưng đừng để vẻ ngoài yếu ớt ấy đánh lừa! Trên lưng của quái kiệt sơ sinh này có một vết lõm bẩm sinh hình chiếc thìa, tập trung hàng vạn đầu dây thần kinh cực kỳ nhạy cảm. Chỉ cần bất kỳ vật thể nào chạm nhẹ vào chiếc lưng lõm ấy, một công tắc sát thủ man rợ trong não bộ lập tức được kích hoạt!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Chú chim non đỏ hỏn lùi dần từng bước về phía những quả trứng của chim chủ nhà. Nó dùng đôi cánh cụt ngủn quặp chặt lấy quả trứng, gồng hai chân non nớt quắp chặt vào thành tổ, rồi từ từ nâng quả trứng to bằng cả cơ thể mình lên trên lưng! Nó bước lùi từng xăng-ti-mét một, thở dốc vì kiệt sức, leo lên tận mép tổ rồi... Hất mạnh một cú dứt khoát! Quả trứng của chim chủ nhà rơi thẳng từ trên ngọn cây xuống đất, vỡ tan tành thành từng mảnh vụn! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Trời ơi! Con tôi! Trứng của tôi! Tôi đi kiếm mồi về thấy tổ trống trơn, chỉ còn mỗi cục thịt đỏ lòm này nằm thở phì phò!",
+      "cast": "be_con"
+     },
+     {
+      "text": "Tiếng khóc xé lòng của nạn nhân chim chích chính là minh chứng đanh thép nhất! Quái vật sơ sinh ấy không chỉ hất một quả, mà nó lặp đi lặp lại hành động tàn nhẫn này suốt hai đến ba ngày đêm ròng rã, hất sạch toàn bộ trứng hoặc chim non của chủ nhà rơi xuống vực thẳm cho đến khi trong tổ chỉ còn lại duy nhất một mình nó độc chiếm ngai vàng! Quả là một bản năng sinh tồn lạnh lùng đến rợn tóc gáy! [surprise-oh]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "BẰNG CHỨNG #3",
+    "banner_title": "LỪA ĐẢO CON NUÔI KHỔNG LỒ",
+    "chapter_title": "Bằng chứng #3: Thao túng tâm lý và đứa con to gấp 3 lần",
+    "hook": "THAO TÚNG BỐ MẸ NUÔI BẰNG SIÊU KÍCH THÍCH",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Sau khi đã thanh trừng sạch sẽ mọi đối thủ trong tổ, Siêu Trộm Tổ Ấm bước sang giai đoạn phạm tội thứ ba: Thao túng tâm lý đỉnh cao và bóc lột sức lao động của cha mẹ nuôi đến kiệt quệ! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chỉ sau hai tuần được chăm bẵm độc quyền, chú Tu Hú non lớn nhanh như thổi, béo tròn núc ních và phổng phao gấp mười lần lúc mới sinh. Đến tuần thứ ba, nó to gấp ba lần, thậm chí gấp bốn lần thân hình còi cọc của đôi chim bố mẹ nuôi! Đứng trong chiếc tổ nhỏ xíu, thân hình hộ pháp của nó làm chiếc tổ muốn gãy làm đôi, còn chim bố mẹ đứng cạnh trông chẳng khác nào hạt tiêu đứng cạnh quả dưa hấu!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Tôi phản đối! Tôi lớn con là do gen di truyền, chứ tôi đâu có ép bố mẹ nuôi phải đi bắt sâu cho tôi ăn đâu!",
+      "cast": "ga_khong_lo"
+     },
+     {
+      "text": "Bị cáo cãi cùn rất trắng trợn! Nhưng khoa học đã lật tẩy mánh khóe ma quái của bị cáo! Các nhà sinh học thần kinh gọi đây là hiện tượng Siêu Kích Thích. Mỗi khi chim bố mẹ mang mồi về, Tu Hú non liền há toang chiếc miệng rộng ngoác màu đỏ tươi viền vàng rực rỡ như một cái hố ga không đáy! Vòm họng đỏ rực ấy phát ra tín hiệu thị giác mãnh liệt đến mức thôi miên não bộ của chim bố mẹ, khiến chúng không tài nào cưỡng lại được mệnh lệnh phải nhét mồi vào!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Chưa hết, tiếng kêu đòi ăn chíp chíp liên hồi của một con Tu Hú non có tần số rung động tương đương với tiếng kêu gào thảm thiết của cả một đàn bốn con chim non cộng lại! Chim bố mẹ nuôi bị tra tấn màng nhĩ, hoảng hốt bay đi lùng sục sâu bọ suốt mười bốn tiếng mỗi ngày, bay hàng trăm chuyến từ sáng sớm tới tối mịt chỉ để lấp đầy cái dạ dày không đáy của đứa con nuôi trời đánh! Thậm chí chim mẹ nhỏ xíu phải đậu hẳn lên đầu, lên lưng của con Tu Hú khổng lồ để với tới cái mỏ há to của nó, tạo nên một cảnh tượng bi hài bậc nhất trần đời! [laughter]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "BẰNG CHỨNG #4",
+    "banner_title": "CHIẾN THUẬT MAFIA RỪNG RẬP",
+    "chapter_title": "Bằng chứng #4: Chiến thuật mafia trả thù tàn độc",
+    "hook": "BẢO KÊ TỐNG TIỀN VÀ ĐẬP PHÁ TRẢ THÙ",
+    "mood": "nghiem_trang_gia",
+    "parts": [
+     {
+      "text": "Đến đây, chắc hẳn quý vị trong bồi thẩm đoàn sẽ đặt câu hỏi: Chẳng lẽ loài chim chủ nhà ngốc nghếch đến mức không bao giờ nhận ra đứa con quái vật này sao? Câu trả lời là: Có! Nhiều loài chim chủ có đôi mắt tinh tường đã phát hiện ra quả trứng lạ và dùng mỏ hất quả trứng Tu Hú ra khỏi tổ! Nhưng quý vị có biết hậu quả sau đó là gì không? Đó chính là Cáo trạng thứ tư: Chiến thuật mafia tàn độc!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Năm hai ngàn lẻ bảy, hai nhà khoa học Hu-vơ và Rô-bin-xơn đã công bố một nghiên cứu chấn động trên tạp chí khoa học danh tiếng PNAS. Hóa ra, sau khi đẻ trộm trứng vào tổ người khác, chim Tu Hú mẹ không hề bỏ đi xa mà luôn lén lút nấp ở cành cây gần đó để theo dõi diễn biến, y hệt một tên trùm mafia đang giám sát đàn em!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Nếu chim chủ nhà ngoan ngoãn ấp trứng Tu Hú, tổ của chúng sẽ hoàn toàn bình yên vô sự. Nhưng nếu phát hiện quả trứng của mình bị vứt bỏ hoặc bị đục thủng, chim Tu Hú mẹ sẽ lập tức dẫn theo đồng bọn lao tới tấn công điên cuồng! Nó mổ nát toàn bộ số trứng còn lại của chim chủ nhà, cắn chết những con chim non vừa nở và giật sập tan tành cả chiếc tổ để dằn mặt! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Các số liệu nghiên cứu đã chỉ ra: những chiếc tổ dám vứt bỏ trứng ký sinh có tỷ lệ bị đập phá tan hoang lên tới hơn năm mươi sáu phần trăm, trong khi những chiếc tổ cam chịu ấp hộ chỉ bị quấy rầy dưới mười phần trăm! Đây chính là chiến thuật tống tiền bảo kê kinh điển: Mày nuôi con tao thì tổ mày còn, mày dám vứt con tao thì cả gia đình mày tuyệt diệt! Đối mặt với họng súng mafia tàn nhẫn như vậy, chim chủ nhà đành phải ngậm đắng nuốt cay nuôi giùm con kẻ thù để bảo toàn tính mạng! [surprise-oh]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "PHÁN QUYẾT",
+    "banner_title": "PHÁN QUYẾT & BÓNG ĐEN TẬP 15",
+    "chapter_title": "Phán quyết của tự nhiên và bóng đen bí ẩn Tập 15",
+    "hook": "LỜI BÀO CHỮA BẤT NGỜ VÀ PHÁN QUYẾT TỐI CAO",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Kính thưa quý tòa! Bốn cáo trạng vừa nêu tưởng chừng đã đóng đinh tội danh của Siêu Trộm Tổ Ấm. Nhưng ngay trước giờ tuyên án, luật sư bào chữa xin được đưa ra một góc nhìn hoàn toàn bất ngờ từ đại cục của tự nhiên!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Xin các bác tòa nương tay! Bị cáo này ăn sâu róm độc giỏi lắm, mùa màng nhà tôi nhờ nó mà không bị sâu bọ cắn nát đấy ạ!",
+      "cast": "ong_gia_ke"
+     },
+     {
+      "text": "Lời làm chứng của bác nông dân hoàn toàn có cơ sở khoa học vững chắc! Trong thế giới loài chim, sâu róm độc có lông ngứa chứa đầy độc tố là món ăn cấm kỵ mà chín mươi chín phần trăm các loài chim khác đều phải tránh xa. Nhưng chim Tu Hú trưởng thành lại là khắc tinh số một của loài sâu độc này! Dạ dày của Tu Hú có một lớp niêm mạc đặc biệt có thể tự bong tróc để đào thải toàn bộ đống lông sâu độc ra ngoài mà không hề bị tổn thương!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chính vì được giải phóng hoàn toàn khỏi gánh nặng ấp trứng và mớm mồi, Tu Hú trưởng thành mới có thể dành trọn vẹn một trăm phần trăm thời gian bay khắp các cánh rừng để săn lùng sâu róm, dập tắt những đại dịch sâu hại bảo vệ thảm thực vật cho toàn bộ hệ sinh thái! Đồng thời, sự lừa đảo tinh vi của Tu Hú cũng chính là động lực thúc đẩy các loài chim chủ tiến hóa thị giác tinh tường hơn và bộ não nhạy bén hơn qua hàng triệu năm qua chạy đua vũ trang tiến hóa!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Tòa tuyên án: Bị cáo Chim Tu Hú không có tội! Đó là quy luật sinh tồn nghiệt ngã nhưng hoàn hảo của tự nhiên!",
+      "cast": "tham_phan"
+     },
+     {
+      "text": "Vụ án thế kỷ của Siêu Trộm Tổ Ấm đã chính thức khép lại với phán quyết đầy tính nhân văn! Nhưng ngay lúc này, xin mời quý vị khán giả hãy hướng mắt lên màn hình lớn để chiêm ngưỡng BÓNG ĐEN BÍ ẨN của nhân vật sẽ xuất hiện trong Tập mười lăm tiếp theo! [surprise-oh]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Xin gửi tới quý vị ba manh mối chấn động về nhân vật bí ẩn này: Thứ nhất, đây là vị Bộ trưởng Ngoại giao hòa bình nhất hành tinh, dù nằm giữa đàn cá sấu ăn thịt khổng lồ hay đàn trăn gấm Nam Mỹ thì vẫn thảnh thơi nằm ngửa bụng ngủ ngon lành mà chẳng có ai thèm tấn công! Thứ hai, đây là siêu quái kiệt gặm nhấm lớn nhất thế giới với cân nặng lên tới sáu mươi lăm ki-lô-gam, sở hữu tài bơi lặn cừ khôi và có thể nín thở dưới đáy sông suốt năm phút đồng hồ! Và thứ ba, một nghịch lý cực kỳ khó đỡ: thói quen ăn lại chính phân của mình vào mỗi buổi sáng sớm để hấp thu dinh dưỡng! [laughter]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Quý vị khán giả có nhận ra bóng đen bí ẩn mang phong thái ung dung tự tại này là ai không? Hãy để lại dự đoán của bạn ngay dưới phần bình luận nhé! Phóng viên phiên tòa xin chào tạm biệt và hẹn gặp lại quý vị trong tập tiếp theo!",
+      "mood": "hao_hung"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Bị cáo, mời đứng lên! Một loài chim không bao giờ xây tổ, không ấp trứng, không nuôi con, nhưng lại sở hữu bản năng sát thủ ngay từ giây phút đầu tiên chui ra khỏi vỏ! Đó chính là Chim Tu Hú, kẻ lừa đảo khét tiếng bậc nhất thế giới tự nhiên. Chim mẹ chỉ mất đúng mười giây để đột nhập tổ chim chích, nuốt chửng một quả trứng của chủ nhà và đẻ thay vào đó quả trứng của mình với hoa văn giả mạo giống tới chín mươi chín phần trăm! [surprise-wa] Đáng sợ hơn cả, con non vừa nở chỉ nặng hai gam, mắt còn nhắm nghiền chưa mở, nhưng đã dùng chiếc lưng lõm bẩm sinh gồng mình hất tung toàn bộ trứng của chim chủ nhà rơi xuống đất vỡ nát! Để rồi sau đó, đứa con nuôi khổng lồ lớn nhanh như thổi, to gấp ba lần chim bố mẹ, há to chiếc miệng đỏ lòm như hố ga thôi miên cha mẹ nuôi phải hầu hạ mớm mồi suốt ngày đêm! [laughter] Vậy là vụ án đã sáng tỏ: một chiến thuật ký sinh tàn nhẫn nhưng là cách sinh tồn hoàn hảo giúp loài chim này trường tồn qua hàng triệu năm qua!"
+ },
+ "seo": {
+  "title": "Bản Năng Sát Thủ Của Chim Non Chưa Mở Mắt?! | Chim Tu Hú | Tập 14",
+  "hook_paragraph": "Chim Tu Hú đẻ trộm trứng trong 10 giây, ngụy trang hoa văn 99%, con non mù mắt hất vỡ toàn bộ trứng chủ nhà và còng lưng nuôi con to gấp 3 lần! Khám phá hồ sơ vụ án chấn động của Siêu Trộm Tổ Ấm tại Tòa án Tối cao thế giới tự nhiên.",
+  "bullets": [
+   "Đột nhập và đẻ trộm trứng thần tốc chỉ trong 10 giây",
+   "Sát thủ sơ sinh chưa mở mắt dùng lưng lõm hất trứng rơi tự do",
+   "Thao túng tâm lý bằng siêu kích thích họng đỏ, con to gấp 3 lần cha mẹ nuôi",
+   "Chiến thuật mafia bảo kê đập phá tổ nếu chim chủ dám vứt trứng"
+  ],
+  "question": "Bạn có đoán ra BÓNG ĐEN BÍ ẨN ở cuối video là quái kiệt nào không? (Gợi ý: Bộ trưởng Ngoại giao hòa bình, nằm cạnh cá sấu, nặng 65kg). Bình luận dự đoán nhé!",
+  "next_teaser": "Bóng đen bí ẩn — vị Bộ trưởng Ngoại giao hòa bình nằm cạnh cá sấu và quái kiệt gặm nhấm 65kg",
+  "hashtags": [
+   "#ChimTuHu #Cuckoo #TheGioiDongVat #VeChuyenHoangDa #KhoaHoc"
+  ],
+  "tags": [
+   "chim tu hú",
+   "chim tu hu",
+   "cuckoo",
+   "chim tu hú đẻ trộm trứng",
+   "bản năng sát thủ chim non",
+   "chim tu hú nuôi con",
+   "thế giới động vật",
+   "động vật kỳ lạ",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị",
+   "phiên tòa động vật"
+  ],
+  "shorts_title": "Bản Năng Sát Thủ Của Chim Non Chưa Mở Mắt?! 🐣 #shorts #chimtuhu",
+  "shorts_desc": "Chim Tu Hú đẻ trộm trứng trong 10 giây và chim non mới nở chưa mở mắt đã biết hất sạch trứng chủ nhà khỏi tổ! Khám phá bí mật sinh tồn của Siêu Trộm Tổ Ấm! 🐣⚖️",
+  "shorts_tags": [
+   "chim tu hú",
+   "cuckoo",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã",
+   "động vật hài hước"
+  ],
+  "en_title": "The Blind Newborn Chick with Killer Instinct?! | Cuckoo Bird | Ep 14",
+  "en_desc": "The Cuckoo bird sneaks eggs into host nests in just 10 seconds, mimics shell patterns with 99% accuracy, and its blind newborn chick uses a hollow back to evict all host eggs to their death! Explore the shocking crime file of the avian master manipulator at the Nature Supreme Court.\n\nCHAPTERS:\n00:00 Intro\n00:10 Case File: The 10-Second Egg Heist\n01:36 Evidence #1: High-Speed Invasion in 10 Seconds\n03:29 Evidence #2: The Blind Newborn Killer & Hollow Back Eviction\n04:52 Evidence #3: Psychological Manipulation & Giant Foster Chick\n06:32 Evidence #4: Retaliatory Mafia Tactics in the Forest\n07:47 Nature's Verdict & Episode 15 Mystery Silhouette\n09:07 Ending\n\nWild Tales Sketch (Vẽ Chuyện Hoang Dã) explains real, fact-checked animal science with funny hand-drawn whiteboard animation. Narration is in Vietnamese: turn on CC and choose Auto-translate for subtitles in your language.\n\n#WildTalesSketch #Cuckoo #AnimalFacts #WhiteboardAnimation #FunnyAnimals",
+  "en_shorts_title": "The Blind Newborn Chick with Killer Instinct?! 🐣 #shorts #cuckoo",
+  "en_shorts_desc": "The Cuckoo lays stolen eggs in 10 seconds, and its blind newborn chick evicts all host eggs out of the nest! Discover the wild survival strategy of nature's sneakiest bird! 🐣🌿\n\n#shorts #Cuckoo #AnimalFacts #WildTalesSketch"
+ }
+}

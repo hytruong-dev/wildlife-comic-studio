@@ -1,0 +1,260 @@
+{
+  "scene_id": "scene06",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 3,
+  "world_width": 2042,
+  "world_height": 1040,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 60,
+  "duration_ms": 48780,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-03-ca-heo/assets/scenes_composed/scene06_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      257,
+      8,
+      1023,
+      52
+    ],
+    "x": 269,
+    "y": 12,
+    "w": 742,
+    "h": 38,
+    "text": "[PHẦN 6]  THÔNG ĐIỆP ĐẠI DƯƠNG XANH & BẬT MÍ TẬP 4: THÚ MỎ VỊT",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-03-ca-heo/assets/scenes_composed/scene06_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 10899,
+      "has_frame": false,
+      "pill_box": [
+        530,
+        60,
+        778,
+        98
+      ],
+      "art_only_box": [
+        338,
+        96,
+        967,
+        449
+      ],
+      "caption": {
+        "text": "Bảo vệ đại dương: Giữ biển sạch để cá heo mãi tự do nhảy múa!",
+        "x": 374,
+        "y": 449,
+        "w": 557,
+        "h": 31,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        336,
+        60,
+        969,
+        482
+      ],
+      "img_region": {
+        "x": 338,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 10899,
+      "end_ms": 20960,
+      "has_frame": false,
+      "pill_box": [
+        1300,
+        60,
+        1479,
+        98
+      ],
+      "art_only_box": [
+        1073,
+        96,
+        1702,
+        449
+      ],
+      "caption": {
+        "text": "Góc họa sĩ nhí: Cùng vẽ chú cá heo từ một nét cong lượn sóng!",
+        "x": 1118,
+        "y": 449,
+        "w": 539,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1071,
+        60,
+        1704,
+        480
+      ],
+      "img_region": {
+        "x": 1073,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 20960,
+      "end_ms": 47280,
+      "has_frame": false,
+      "pill_box": [
+        919,
+        550,
+        1126,
+        589
+      ],
+      "art_only_box": [
+        706,
+        586,
+        1335,
+        939
+      ],
+      "caption": {
+        "text": "Bật mí Tập 4: Thú Mỏ Vịt — Mỏ vịt, đẻ trứng, tiết sữa qua da!",
+        "x": 745,
+        "y": 939,
+        "w": 551,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        704,
+        550,
+        1337,
+        971
+      ],
+      "img_region": {
+        "x": 706,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 336.0,
+    "y_min": 60.0,
+    "x_max": 1704.0,
+    "y_max": 971.0,
+    "bbox_w": 1368.0,
+    "bbox_h": 911.0,
+    "center_x": 1020.0,
+    "center_y": 515.5,
+    "zoom_out_scale": 0.6513,
+    "crop_w": 1965.2,
+    "crop_h": 1001.0
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 652.5,
+      "cy": 271.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 2.08,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 10279.0,
+      "cx": 652.5,
+      "cy": 271.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 2.08,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 10899.0,
+      "cx": 1387.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.09,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 20340.0,
+      "cx": 1387.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.09,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 20960.0,
+      "cx": 1020.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.08,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 47280.0,
+      "cx": 1020.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.08,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 47780.0,
+      "cx": 1020.0,
+      "cy": 515.5,
+      "crop_w": 1965.2,
+      "crop_h": 1001.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 48780.0,
+      "cx": 1020.0,
+      "cy": 515.5,
+      "crop_w": 1965.2,
+      "crop_h": 1001.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

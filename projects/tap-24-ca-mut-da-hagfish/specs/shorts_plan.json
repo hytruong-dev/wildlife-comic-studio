@@ -1,0 +1,134 @@
+{
+ "title_lines": [
+  "BIẾN 20 LÍT NƯỚC",
+  "THÀNH KEO NHỚT?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "loài vật này có thể",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "at": "20 lít",
+     "side": "R",
+     "y": 560,
+     "value": "20 LÍT KEO",
+     "label": "trong 0,4 giây",
+     "target": [
+      0.58,
+      0.48
+     ]
+    }
+   ]
+  },
+  {
+   "at": "chỉ trong 0,4 giây",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  },
+  {
+   "at": "Đây là Cá Mút",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "300 triệu năm",
+     "side": "L",
+     "y": 720,
+     "value": "300 TR NĂM",
+     "label": "cổ đại không xương",
+     "target": [
+      0.42,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Cơ thể nó không",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "at": "4 quả tim",
+     "side": "R",
+     "y": 620,
+     "value": "4 QUẢ TIM",
+     "label": "bơm máu độc lập",
+     "target": [
+      0.62,
+      0.52
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Khi bị tấn công,",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "at": "10.000 lần",
+     "side": "L",
+     "y": 650,
+     "value": "10.000 LẦN",
+     "label": "dãn nở bít mang",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "khiến kẻ đi săn ho",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "Để gạt sạch đờm",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "2017, một xe",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "at": "3.400kg",
+     "side": "R",
+     "y": 650,
+     "value": "3.400 KG",
+     "label": "lật xe Oregon 2017",
+     "target": [
+      0.58,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "đã biến cả đường",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  },
+  {
+   "at": "Một cỗ máy tạo",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  }
+ ]
+}

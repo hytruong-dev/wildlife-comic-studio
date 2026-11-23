@@ -1,0 +1,623 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "LOÀI NHỆN DUY NHẤT SỐNG CẢ ĐỜI DƯỚI NƯỚC",
+   "hook": "THỞ BẰNG PHỔI NHƯNG SỐNG CẢ ĐỜI DƯỚI ĐÁY NƯỚC",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quên đi những tàu ngầm",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đối tượng mang mã định danh",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": [
+      "Thuyền Trưởng Tàu Ngầm Tơ"
+     ]
+    },
+    {
+     "at": "Đây là loài nhện duy nhất",
+     "image": "assets/long/L34.png",
+     "stickers": [
+      {
+       "at": "50.000",
+       "side": "R",
+       "y": 380,
+       "value": "50.000",
+       "label": "loài nhện duy nhất",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Điều gây chấn động phòng thí",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu bạn thả một con nhện",
+     "image": "assets/long/L35.png",
+     "stickers": [
+      {
+       "at": "24/7",
+       "side": "R",
+       "y": 360,
+       "value": "24/7",
+       "label": "sống dưới nước",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo kỹ thuật trưởng, cảm",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đúng như cô trợ lý",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": [
+      "trạm không gian dưới nước"
+     ]
+    },
+    {
+     "at": "Hôm nay, xưởng cơ khí sinh học",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỒ SƠ TỐI MẬT"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "TÀU NGẦM TƠ KỴ NƯỚC VÀ KHOANG KHÍ ÁP SUẤT",
+   "hook": "TƠ NHỆN DƯỚI NƯỚC KHÔNG HỀ BỊ RÃ NƯỚC",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L06.png",
+     "stickers": [
+      {
+       "at": "Ác-si-mét",
+       "side": "L",
+       "y": 380,
+       "value": "ÁC-SI-MÉT",
+       "label": "kết cấu thủy lực",
+       "target": [
+        0.5,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng Thuyền Trưởng Tàu Ngầm Tơ",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đầu tiên, gã chọn những",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Điểm kỳ diệu nằm ở chỗ:",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sau khi hệ khung neo đã",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kỹ sư ơi, tơ nhện dệt",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chú cá con ngơ ngác hoàn",
+     "image": "assets/long/L10.png",
+     "stickers": [
+      {
+       "at": "ngăn nước tuyệt đối",
+       "side": "R",
+       "y": 360,
+       "value": "KỴ NƯỚC",
+       "label": "ngăn nước tuyệt đối",
+       "target": [
+        0.55,
+        0.45
+       ]
+      }
+     ],
+     "impacts": [
+      "bức tường ngăn nước"
+     ]
+    },
+    {
+     "at": "Nước bên ngoài không thể",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết đâu nhé! Để quả",
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "thứ 2",
+       "side": "L",
+       "y": 420,
+       "value": "LỚP THỨ 2",
+       "label": "chống biến dạng",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Gã dùng đầu húc thử",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẢN VẼ THIẾT KẾ"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "BỘ LÔNG QUẶP BỌT KHÍ VÀ MANG NHÂN TẠO 24 GIỜ",
+   "hook": "TỰ HÚT OXY TỪ NƯỚC NHƯ LÁ PHỔI NHÂN TẠO",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gã chỉ nhô đúng phần chóp bụng",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Toàn bộ vùng bụng và chân",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": [
+      "kẻ dệt sợi bạc"
+     ]
+    },
+    {
+     "at": "Đây chính là nguồn gốc",
+     "image": "assets/long/L42.png",
+     "stickers": [
+      {
+       "at": "kẻ dệt sợi bạc",
+       "side": "L",
+       "y": 360,
+       "value": "Argyroneta",
+       "label": "kẻ dệt sợi bạc",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Gã ôm quả bọt khí bạc",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gã lặp lại chuyến xe buýt",
+     "image": "assets/long/L43.png",
+     "stickers": [
+      {
+       "at": "20",
+       "side": "R",
+       "y": 360,
+       "value": "20-30 LẦN",
+       "label": "con thoi nạp khí",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng điều chấn động khoa học",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sự chênh lệch áp suất riêng",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": [
+      "mang nhân tạo khổng lồ"
+     ]
+    },
+    {
+     "at": "Nhờ động cơ thẩm thấu",
+     "image": "assets/long/L44.png",
+     "stickers": [
+      {
+       "at": "24 giờ",
+       "side": "R",
+       "y": 360,
+       "value": "24 GIỜ",
+       "label": "thở thẩm thấu",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tuy nhiên, động cơ mang nhân",
+     "image": "assets/long/L17.png",
+     "stickers": [
+      {
+       "at": "1-2 ngày",
+       "side": "L",
+       "y": 420,
+       "value": "1-2 NGÀY",
+       "label": "chu kỳ nạp khí",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chính vì vậy, Thuyền Trưởng",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "ĐỘNG CƠ SINH HỌC"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "NHỆN ĐỰC TO HƠN NHỆN CÁI 30% ĐỂ GIỮ CHUÔNG LẶN",
+   "hook": "LOÀI NHỆN DUY NHẤT CON ĐỰC LỚN HƠN CON CÁI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nơi các nàng nhện cái",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở loài nhện lặn chuông, con",
+     "image": "assets/long/L19.png",
+     "stickers": [
+      {
+       "at": "10-15mm",
+       "side": "R",
+       "y": 360,
+       "value": "10-15 MM",
+       "label": "con đực to hơn 30%",
+       "target": [
+        0.4,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhện đực to hơn nhện cái",
+     "image": "assets/long/L47.png",
+     "stickers": [
+      {
+       "at": "30%",
+       "side": "R",
+       "y": 360,
+       "value": "+30%",
+       "label": "đực lớn hơn cái",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Ủa các bác kỹ sư ơi,",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bé con thắc mắc rất chí",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thân hình to lớn và đôi chân",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi tìm thấy chuông lặn của",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": [
+      "biệt thự thông tầng"
+     ]
+    },
+    {
+     "at": "Một căn biệt thự thông tầng",
+     "image": "assets/long/L49.png",
+     "stickers": [
+      {
+       "at": "biệt thự thông tầng",
+       "side": "R",
+       "y": 360,
+       "value": "2 PHÒNG",
+       "label": "biệt thự thông tầng",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Sau tuần trăng mật ngọt ngào,",
+     "image": "assets/long/L23.png",
+     "stickers": [
+      {
+       "at": "50-100 trứng",
+       "side": "R",
+       "y": 380,
+       "value": "50-100",
+       "label": "kén ấp trong chuông",
+       "target": [
+        0.5,
+        0.35
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nơi đây chứa lượng oxy",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "NGHỊCH LÝ GIA ĐÌNH"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "TÀU NGẦM SĂN MỒI VÀ GIẤC NGỦ ĐÔNG ĐÓNG BĂNG",
+   "hook": "SĂN MỒI KHÔNG CẦN RA KHỎI PHÒNG KHÁCH DƯỚI NƯỚC",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ quả chuông lặn trung tâm,",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gã ngồi thảnh thơi bên trong",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vút! Thuyền trưởng phóng vọt ra",
+     "image": "assets/long/L26.png",
+     "stickers": [
+      {
+       "at": "nọc độc",
+       "side": "R",
+       "y": 380,
+       "value": "NỌC ĐỘC",
+       "label": "hạ gục tức thì",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": [
+      "Vút!",
+      "tê liệt trong tích tắc"
+     ]
+    },
+    {
+     "at": "Sau đó, gã kéo chiến lợi phẩm",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu bất ngờ có một con",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Với tốc độ cơ động cực nhanh,",
+     "image": "assets/long/L53.png",
+     "stickers": [
+      {
+       "at": "30 phút",
+       "side": "R",
+       "y": 360,
+       "value": "30 PHÚT",
+       "label": "vá lành pháo đài",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí vào mùa đông băng",
+     "image": "assets/long/L28.png",
+     "stickers": [
+      {
+       "at": "0°C",
+       "side": "R",
+       "y": 360,
+       "value": "0°C",
+       "label": "ngủ đông đáy bùn",
+       "target": [
+        0.5,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhện lặn chuông bò xuống lớp bùn",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "THỰC CHIẾN ĐÁY HỒ"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "GIỚI HẠN CHỈ LÀ DO BẠN CHƯA DỆT CHUÔNG KHÍ",
+   "hook": "BÀI HỌC CUỘC SỐNG VÀ THÁCH THỨC ĐOÁN TẬP 42",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L29.png",
+     "stickers": [
+      {
+       "at": "tiến hóa vĩ đại",
+       "side": "L",
+       "y": 380,
+       "value": "KỲ QUAN",
+       "label": "tàu ngầm tơ",
+       "target": [
+        0.5,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi môi trường sống cạn kiệt",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu trong cuộc sống bạn cảm",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đôi khi, chỉ cần một quả chuông",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu được trang bị một bộ",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn bây giờ, hãy nhìn vào",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": [
+      "bóng đen bí ẩn"
+     ]
+    },
+    {
+     "at": "nếu ngâm nước quá lâu thì lại",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẢN TỔNG KẾT"
+  }
+ }
+}

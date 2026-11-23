@@ -1,0 +1,407 @@
+{
+  "episode_no": 33,
+  "animal": "Ếch Gỗ Bắc Cực",
+  "slug": "tap-33-ech-go-bac-cuc",
+  "format": "F4",
+  "persona": "phong_vien_24h",
+  "_angle_from_roadmap": "Đồng hồ sinh học 4 mùa: Mùa đông tim ngừng đập hóa viên đá lạnh, gan bơm đường chống đông và màn rã đông mùa xuân.",
+  "_shorts_idea_from_roadmap": "Trái tim ngừng đập hoàn toàn suốt 7 tháng mùa đông rồi tự rã đông nhảy đi!",
+  "nickname": "Quái Kiệt Băng Giá",
+  "sources": [
+    "Storey, K. B. & Storey, J. M. (1988), Physiological Reviews — Freeze tolerance in animals: Cơ chế sinh học chịu đông đá và phân giải Glycogen thành Glucose chống đông ở ếch gỗ",
+    "Costanzo, J. P. & Lee, R. E. (2013), Journal of Experimental Biology — Cryoprotection by glucose in freeze-tolerant wood frogs (Lithobates sylvaticus)",
+    "Larson, D. J. et al. (2014), Journal of Experimental Biology — Wood frog adaptations to extreme Alaskan winters: Chịu đựng nhiệt độ âm 16 độ C đến âm 20 độ C suốt 7 tháng",
+    "Costanzo, J. P. et al. (1993), American Journal of Physiology — Ice nucleation and freeze tolerance in the wood frog Lithobates sylvaticus",
+    "Rubinsky, B. et al. (1990), Cryobiology — Ứng dụng phân tử chống đông tự nhiên của ếch gỗ trong bảo tồn cơ quan nội tạng người ghép tạng"
+  ],
+  "whisper_prompt": "Ếch Gỗ Bắc Cực, Quái Kiệt Băng Giá, Lithobates sylvaticus, Rana sylvatica, Kenneth Storey, Jack Costanzo, Richard Lee, Don Larson, Alaska, Glucose, Glycogen, Urea, Urê, Cryoprotectant, Ice-nucleating proteins, mầm đá, -20°C, -16°C, -2°C, 0 nhịp/phút, 7 tháng, 200 ngày, 70%, 65%, 300 lần, 100 lần, 5-7cm, 8-15g, 4-6 tiếng, Quạ Đen, Tập 33, Tập 34",
+  "display_fix": {
+    "âm hai mươi độ C": "-20°C",
+    "Âm hai mươi độ C": "-20°C",
+    "âm mười sáu độ C": "-16°C",
+    "Âm mười sáu độ C": "-16°C",
+    "âm mười lăm độ C": "-15°C",
+    "âm mười hai độ C": "-12°C",
+    "âm năm độ C": "-5°C",
+    "âm hai độ C": "-2°C",
+    "Âm hai độ C": "-2°C",
+    "âm một đến âm hai độ C": "-1°C đến -2°C",
+    "không độ C": "0°C",
+    "Không độ C": "0°C",
+    "bảy tháng": "7 tháng",
+    "Bảy tháng": "7 tháng",
+    "tám tháng": "8 tháng",
+    "hai trăm ngày": "200 ngày",
+    "Hai trăm ngày": "200 ngày",
+    "ba trăm lần": "300 lần",
+    "Ba trăm lần": "300 lần",
+    "một trăm đến ba trăm lần": "100-300 lần",
+    "một trăm lần": "100 lần",
+    "bảy mươi phần trăm": "70%",
+    "Bảy mươi phần trăm": "70%",
+    "sáu mươi lăm đến bảy mươi phần trăm": "65-70%",
+    "sáu mươi lăm phần trăm": "65%",
+    "năm mươi phần trăm": "50%",
+    "không nhịp một phút": "0 nhịp/phút",
+    "Không nhịp một phút": "0 nhịp/phút",
+    "mười nhịp một phút": "10 nhịp/phút",
+    "năm mươi nhịp một phút": "50 nhịp/phút",
+    "một trăm nhịp một phút": "100 nhịp/phút",
+    "năm đến bảy xăng-ti-mét": "5-7cm",
+    "Năm đến bảy xăng-ti-mét": "5-7cm",
+    "tám đến mười lăm gam": "8-15g",
+    "Tám đến mười lăm gam": "8-15g",
+    "bốn đến sáu tiếng": "4-6 tiếng",
+    "Bốn đến sáu tiếng": "4-6 tiếng",
+    "bốn đến sáu giờ": "4-6 giờ",
+    "vài tiếng": "vài tiếng",
+    "hai mươi bốn giờ": "24h",
+    "Hai mươi bốn giờ": "24h",
+    "một trăm phần trăm": "100%",
+    "Một trăm phần trăm": "100%",
+    "mười nhịp": "10 nhịp",
+    "năm mươi nhịp": "50 nhịp",
+    "năm nhịp": "5 nhịp",
+    "một trăm nhịp": "100 nhịp",
+    "ba mươi phân": "30cm",
+    "thế kỷ hai mươi mốt": "thế kỷ 21",
+    "suốt năm năm": "suốt 5 năm",
+    "năm năm": "5 năm",
+    "Năm một ngàn chín trăm chín mươi ba": "Năm 1993",
+    "Năm một ngàn chín trăm tám mươi tám": "Năm 1988",
+    "số ba mươi ba": "số 33",
+    "ba mươi ba": "33",
+    "Ba mươi ba": "33",
+    "tập ba mươi ba": "Tập 33",
+    "Tập ba mươi ba": "Tập 33",
+    "tập ba mươi tư": "Tập 34",
+    "Tập ba mươi tư": "Tập 34",
+    "năm một ngàn chín trăm tám mươi tám": "năm 1988",
+    "năm một ngàn chín trăm chín mươi": "năm 1990",
+    "năm một ngàn chín trăm chín mươi ba": "năm 1993",
+    "năm hai ngàn không trăm mười ba": "năm 2013",
+    "năm hai ngàn không trăm mười bốn": "năm 2014",
+    "A-lát-xka": "Alaska",
+    "Li-thô-ba-tét xin-va-ti-cút": "Lithobates sylvaticus",
+    "Kên-nét Xtô-ri": "Kenneth Storey",
+    "Giắc Cốt-xtan-dô": "Jack Costanzo",
+    "gờ-lu-cô-zơ": "Glucose",
+    "gờ-ly-cô-gien": "Glycogen",
+    "u-rê": "Urea",
+    "cờ-rai-ô-prô-tếch-tần": "Cryoprotectant"
+  },
+  "voice": {
+    "max_long_s": 900
+  },
+  "art": {
+    "style_label": "phong cách Cryo-Noir Graphic Novel 2D",
+    "visual_style": "tỉ lệ {AR}; phong cách tranh minh họa truyện tranh sinh tồn Bắc Cực Cryo-Noir Graphic Novel 2D: nét mực đen sắc sảo gai góc, các tinh thể băng tuyết lam ngọc sắc nhọn, phối hợp dải màu cam nhiệt kế sinh tồn rực rỡ tương phản mạnh mẽ, nền trắng tinh hoàn toàn, không watermark, không chữ, biểu cảm nhân vật hài hước kịch tính theo chuẩn khoa học.",
+    "decor": "sharp frost crystals, subzero thermometers, glowing compass needles, cracked permafrost chunks",
+    "shorts_banner_lines": [
+      "TIM NGỪNG ĐẬP 7 THÁNG:",
+      "TỰ RÃ ĐÔNG BẬT NHẢY?!"
+    ],
+    "shorts_mascot": "a tough cute cartoon Alaskan wood frog wearing a cozy wool scarf and holding an icy survival timer",
+    "thumb_title": [
+      "TIM 0 NHỊP 7 THÁNG?!",
+      "HỒI SINH TỪ TẢNG ĐÁ"
+    ],
+    "thumb_scene": "a brave cartoon wood frog frozen solid inside a glowing translucent crystal ice cube, smiling boldly beside a subzero -20°C survival timer",
+    "thumb_gag": "a shocked polar bear tapping the frozen frog with a wooden stick, hearing a loud clinking stone sound",
+    "thumb_bg": "howling Alaskan blizzard with glowing emerald aurora borealis and cracked blue permafrost"
+  },
+  "longform": {
+    "scenes": [
+      {
+        "id": "scene01",
+        "badge": "BÁO ĐỘNG VÙNG CỰC",
+        "banner_title": "ÂM 20 ĐỘ C Ở ALASKA",
+        "card_sub": "ĐỒNG HỒ ĐẾM NGƯỢC SINH TỒN BẮC CỰC",
+        "card_style": "a large ornate 2D cartoon extreme-survival arctic mission chapter title board isolated on a pure solid white background: a rugged dark titanium expedition plaque framed by sharp crystalline blue ice stalactites and glowing subzero thermometers on the corners; at the top is a bright sunrise-orange countdown timer badge containing bold white uppercase Vietnamese text \"{badge}\"; in the center is huge glowing bright yellow uppercase Vietnamese headline \"{title}\"; at the bottom is a frozen compass needle ribbon containing bold cyan-white uppercase Vietnamese subtitle \"{sub}\"",
+        "banner_bar_style": "on the left is a glowing sunrise-orange survival timer badge with a frosted compass icon containing bold dark-outlined white uppercase Vietnamese text \"{badge}\"; immediately to the right is a rugged dark slate arctic expedition bar with sharp translucent frost crystal borders containing bold bright yellow uppercase Vietnamese text \"{title}\"",
+        "chapter_title": "Báo động cực hàn: Khám phá Quái Kiệt Băng Giá giữa bão tuyết âm 20 độ C ở Alaska",
+        "hook": "BÁO ĐỘNG SINH TỒN VÙNG CỰC: ÂM HAI MƯƠI ĐỘ C VÀ KẺ THÁCH THỨC TỬ THẦN",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Báo cáo khẩn cấp từ hiện trường vùng cực! Phóng viên hai mươi bốn giờ đang có mặt trực tiếp tại cánh rừng lá kim taiga phủ đầy tuyết trắng ở tiểu bang A-lát-xka, nơi chiếc nhiệt kế chuyên dụng vừa tụt thẳng đứng xuống mức âm hai mươi độ C! Gió bắc cực gầm rú rít từng cơn lạnh buốt thấu tận xương tủy, làm cho lớp hơi nước thở ra vừa chạm vào không khí là đông đặc thành bụi băng li ti. Mọi nhánh cây ngọn cỏ đều phủ một lớp sương muối trắng toát, và các mặt hồ nước ngọt sâu thẳm đã hóa thành những khối đá tảng hoa cương chẳng hề có một vết rạn nứt.",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Trong điều kiện thời tiết tử thần khắc nghiệt đến rợn người này, hãy quan sát cách các cư dân bản địa đối phó với mùa đông: Lũ gấu Bắc Cực to lớn phải cuộn tròn trong hang tuyết với lớp mỡ dày hàng chục xăng-ti-mét, đàn chim di cư thiện chiến đã vỗ cánh bay hàng ngàn cây số về phương Nam ấm áp từ ba tháng trước, còn lũ chuột đồng thì rúc sâu cả mét dưới lòng đất nơi nhiệt độ còn giữ được trên mức không độ C.",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Alo phóng viên ơi! Tôi không có lông vũ, không có mỡ dày, cũng chẳng thèm đào hang sâu luôn! Chỉ có mỗi chiếc quần đùi da cóc mỏng manh này thôi thì có trụ nổi qua đêm nay không ạ?",
+            "cast": "chu_ngo_ngac"
+          },
+          {
+            "text": "[surprise-oh] Ấy thế mà ngay dưới chân của chúng tôi, chỉ cách mặt tuyết chừng vài phân bên dưới lớp lá rụng và rêu mục mỏng manh, một sinh vật bé nhỏ lại đang thản nhiên chờ đón lưỡi hái tử thần của mùa đông! Xin giới thiệu nhân vật chính của hồ sơ sinh tồn số ba mươi ba: Ếch Gỗ Bắc Cực, mang danh pháp khoa học Li-thô-ba-tét xin-va-ti-cút, kẻ được giới sinh học toàn cầu ngả mũ thán phục với biệt danh Quái Kiệt Băng Giá của muôn loài!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Hãy nhìn vào những thông số trắc lượng cơ thể vô cùng khiêm tốn của sinh vật này: Toàn thân chú ếch gỗ trưởng thành chỉ dài từ năm đến bảy xăng-ti-mét, và cân nặng vỏn vẹn từ tám đến mười lăm gam, nghĩa là chỉ nhẹ tương đương một quả nho nhỏ hoặc hai quả trứng cút luộc! Làn da của nó có màu nâu đồng pha lẫn xám của vỏ cây rừng, và điểm nhận dạng đặc trưng nhất chính là hai vệt sọc đen sẫm kéo dài từ khóe mắt vòng qua tai, trông hệt như chiếc mặt nạ hiệp sĩ bí ẩn trong các bộ truyện tranh!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Thế nhưng, điểm điên rồ và kỳ quặc nhất trong tập tính sinh học của chú ếch này là gì? Các loài ếch nhái thông thường khác ở xứ ôn đới bắt buộc phải lặn sâu xuống đáy bùn lầy của đáy hồ không đóng băng để sống sót qua mùa đông. Còn Ếch Gỗ Bắc Cực thì không! Nó không thể bơi xuống đáy hồ vì phổi và da của nó sẽ chết ngạt. Thay vào đó, nó chọn cách ở lì ngay trên nền rừng lạnh giá, nơi nhiệt độ sẽ chạm đáy âm hai mươi độ C, và sẵn sàng để toàn bộ cơ thể mình bị đóng băng thành một tảng đá vô tri giác!",
+            "mood": "tram_bi_an"
+          }
+        ]
+      },
+      {
+        "id": "scene02",
+        "badge": "MẦM ĐÁ NGOẠI BÀO",
+        "badge_icon": "snowflake",
+        "banner_title": "TỰ ĐÓNG BĂNG 70% CƠ THỂ",
+        "card_sub": "VŨ KHÍ PROTEIN ĐIỀU HƯỚNG TINH THỂ ĐÁ",
+        "card_style": "a large ornate 2D cartoon cellular frost-nucleation chapter title plaque isolated on a pure solid white background: a dark navy cellular membrane board bordered by glowing sharp cyan ice crystal spikes and microscope measurement scales on the corners; at the top is a warning amber ice-crystal shield badge containing bold white uppercase Vietnamese text \"{badge}\"; in the center is huge glowing bright yellow uppercase Vietnamese headline \"{title}\"; at the bottom is a glowing blue bio-scanner ribbon containing bold white uppercase Vietnamese subtitle \"{sub}\"",
+        "banner_bar_style": "on the left is a warning amber ice-crystal shield badge with a snowflake icon containing bold dark-outlined white uppercase Vietnamese text \"{badge}\"; immediately to the right is a cellular membrane dark navy bar framed with glowing sharp cyan ice spikes containing bold bright yellow uppercase Vietnamese text \"{title}\"",
+        "chapter_title": "Vũ khí tạo mầm đá: Cơ chế tự đóng băng 70% lượng nước cơ thể mà không rách tế bào",
+        "hook": "BÍ MẬT MẦM ĐÁ NGOẠI BÀO: BIẾN NƯỚC THÀNH GIÁP BĂNG BẢO VỆ NỘI TẠNG",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Để thấy được sự phi thường của Quái Kiệt Băng Giá, trước hết chúng ta cần hiểu rõ vì sao đối với hầu hết mọi sinh vật trên Trái Đất, việc bị đóng băng đồng nghĩa với một bản án tử hình không thể đảo ngược! Khi nước nguyên chất chuyển từ thể lỏng sang thể rắn ở nhiệt độ dưới không độ C, thể tích của nó sẽ giãn nở đột ngột thêm khoảng chín phần trăm. Nguy hiểm hơn nữa, các tinh thể đá hình thành tự do trong môi trường sống sẽ phát triển thành những cấu trúc gai nhọn li ti, sắc bén hệt như hàng triệu lưỡi dao găm siêu nhỏ sắc lẹm!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Nếu hiện tượng đóng băng vô kiểm soát này xảy ra bên trong cơ thể con người hay bất kỳ loài động vật nào khác, những mũi dao băng sắc nhọn đó sẽ lập tức đâm thủng lớp màng lipid mỏng manh của tế bào, xé toạc các vi mạch máu trong tích tắc và phá nát toàn bộ cấu trúc nội tạng! Hậu quả là ngay khi vừa tan đá, các mô tế bào sẽ vỡ vụn và hoại tử hoàn toàn, dẫn đến cái chết gần như tức thì mà chẳng thiết bị y khoa nào có thể cứu vãn!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Kính thưa các tinh thể đá mũi nhọn hung dữ! Tuyệt đối cấm bén mảng vào khoang tim và lá gan của tôi nhé! Ai muốn đóng băng thì xếp hàng ngay ngắn ra ngoài da và dưới bụng đứng hết cho tôi!",
+            "cast": "chu_ngo_ngac"
+          },
+          {
+            "text": "[surprise-oh] Và đó chính là lúc chiến thuật tạo mầm đá ngoại bào thần kỳ của chú ếch gỗ phát huy uy lực tối thượng! Năm một ngàn chín trăm chín mươi ba, nhóm nghiên cứu của tiến sĩ Giắc Cốt-xtan-dô tại Đại học Miami đã công bố một phát hiện chấn động trên Tạp chí Sinh lý học Hoa Kỳ: Trong huyết tương và dịch ngoại bào của Ếch Gỗ Bắc Cực chứa một họ protein chuyên biệt mang tên protein tạo mầm đá! Khi nhiệt độ môi trường vừa hạ xuống mức âm một đến âm hai độ C, những protein này lập tức đóng vai trò như những thỏi nam châm định hướng, kích thích các phân tử nước bên ngoài tế bào kết tinh thành đá trước tiên!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Thay vì để băng đá xuất hiện ngẫu nhiên và bừa bãi, cơ thể của ếch gỗ chủ động kiểm soát tuyệt đối vị trí đóng băng: Băng chỉ được phép hình thành ở các khoang trống nằm ngoài màng tế bào, trong ổ bụng, dưới lớp da lưng và xung quanh các bó cơ bắp! Khi nước ở bên ngoài đóng băng, hiện tượng thẩm thấu tự nhiên sẽ rút dần nước lỏng từ bên trong tế bào ra ngoài, giống như việc bạn rút ruột nước ra khỏi một quả bóng bay để nó xẹp lại một cách có tính toán.",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Khối lượng băng hình thành bên ngoài tế bào này tăng dần lên một cách đáng kinh ngạc, cho đến khi chiếm tới sáu mươi lăm đến bảy mươi phần trăm tổng dung tích nước của toàn bộ cơ thể! Hãy tưởng tượng: Bảy mươi phần trăm cơ thể của bạn biến thành băng cứng ngắc như một hòn đá hoa cương, nhưng nhờ có cơ chế điều hướng mầm đá tài tình, chẳng có tinh thể nhọn nào được phép chạm vào không gian thiêng liêng bên trong tế bào!",
+            "mood": "tram_bi_an"
+          }
+        ]
+      },
+      {
+        "id": "scene03",
+        "badge": "BÃO ĐƯỜNG CẤP TỐC",
+        "badge_icon": "glucose",
+        "banner_title": "GLUCOSE TĂNG VỌT 300 LẦN",
+        "card_sub": "GAN BƠM SIÊU CHẤT CHỐNG ĐÔNG TỰ NHIÊN",
+        "card_style": "a large ornate 2D cartoon liver biochemistry flood chapter title board isolated on a pure solid white background: a glowing crimson metabolic chamber board framed by golden syrup droplets, honeycombs, and chemical glucose hexagonal rings on the corners; at the top is an urgent red bio-alarm tag containing bold white uppercase Vietnamese text \"{badge}\"; in the center is huge glowing bright yellow uppercase Vietnamese headline \"{title}\"; at the bottom is a bubbling glucose syringe ribbon containing bold cyan uppercase Vietnamese subtitle \"{sub}\"",
+        "banner_bar_style": "on the left is an urgent red bio-alarm tag with a golden glucose molecule icon containing bold dark-outlined white uppercase Vietnamese text \"{badge}\"; immediately to the right is a crimson metabolic chamber bar flanked with golden syrup tubes containing bold bright yellow uppercase Vietnamese text \"{title}\"",
+        "chapter_title": "Bão đường khẩn cấp: Gan phình to bơm glucose siêu đậm đặc gấp 300 lần chống đông tế bào",
+        "hook": "BÁO ĐỘNG ĐỎ TRONG GAN: CƠN BÃO ĐƯỜNG HUYẾT CỨU MẠNG KỲ DIỆU",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Thế nhưng, một bài toán hóc búa khác lập tức xuất hiện ngay tại đây! Nếu nước bên ngoài tế bào liên tục bị hút đi để tạo thành lớp giáp băng, chẳng phải áp suất thẩm thấu sẽ vắt kiệt từng giọt nước bên trong tế bào, khiến tế bào bị mất nước nghiêm trọng, teo tóp lại thành một mảnh vụn khô cằn và chết vì suy kiệt hay sao? Đúng là như vậy, nếu không có vũ khí bí mật thứ hai mang tên siêu chất chống đông sinh học!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Ngay vào khoảnh khắc những cảm biến nhiệt độ trên da của ếch cảm nhận được tinh thể băng chạm vào lớp biểu bì, một tín hiệu báo động đỏ cấp quốc gia được phát đi dọc theo tủy sống, truyền thẳng đến cơ quan nội tạng quan trọng nhất: Nhà máy hóa chất lá gan!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Báo cáo chỉ huy trưởng! Bộ phận gan đã nhận lệnh báo động khẩn cấp! Kho dự trữ đường năng lượng đang mở hết van xả lũ, chuẩn bị biến toàn bộ máu thành siro ngọt lịm đây!",
+            "cast": "chu_ngo_ngac"
+          },
+          {
+            "text": "[surprise-oh] Những nghiên cứu đột phá mang tính lịch sử của vợ chồng giáo sư Kên-nét Xtô-ri từ năm một ngàn chín trăm tám mươi tám đã hé lộ một kỳ quan chuyển hóa sinh hóa: Trong suốt mùa thu, lá gan của ếch gỗ tích lũy một lượng đường phức gờ-ly-cô-gien khổng lồ, khiến lá gan phình to chiếm tới mười phần trăm trọng lượng cơ thể. Và ngay khi quá trình đóng băng bắt đầu, lá gan này lập tức kích hoạt enzyme phân giải gờ-ly-cô-gien với tốc độ tên lửa, biến toàn bộ thành đường đơn gờ-lu-cô-zơ tự do!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Chỉ trong vòng vài giờ đồng hồ ngắn ngủi, lượng đường gờ-lu-cô-zơ được bơm ồ ạt vào dòng máu, đẩy nồng độ đường huyết của chú ếch vọt lên gấp từ một trăm đến ba trăm lần so với mức bình thường! Để dễ hình dung độ kinh hoàng của con số này: Nếu nồng độ đường huyết của một người trưởng thành chỉ cần tăng lên gấp ba đến bốn lần bình thường, người đó đã rơi vào trạng thái hôn mê tiểu đường cấp tính và tử vong nếu không được tiêm insulin cấp cứu! Nhưng với Quái Kiệt Băng Giá, nồng độ đường gấp ba trăm lần lại chính là chiếc phao cứu sinh vĩ đại nhất của nó!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Song song với đường gờ-lu-cô-zơ, thận của ếch gỗ cũng giữ lại hợp chất u-rê ở nồng độ cực cao. Hai hợp chất này hòa quyện tạo thành một dung dịch siro chống đông cờ-rai-ô-prô-tếch-tần tự nhiên siêu đậm đặc, thấm đẫm vào từng milimet khối chất nguyên sinh bên trong tế bào. Siro này hạ điểm đông đặc của dịch nội bào xuống rất sâu, khiến nước bên trong tế bào không thể đóng băng thành đá được nữa mà vẫn duy trì ở trạng thái sền sệt dạng gel. Nhờ đó, tế bào không bị mất nước, màng tế bào giữ nguyên hình dạng và sự sống bên trong được bảo tồn tuyệt đối an toàn!",
+            "mood": "tram_bi_an"
+          }
+        ]
+      },
+      {
+        "id": "scene04",
+        "badge": "CHẾT LÂM SÀNG",
+        "badge_icon": "flatline",
+        "banner_title": "TIM 0 NHỊP SUỐT 7 THÁNG",
+        "card_sub": "ĐÓNG BĂNG HÓA ĐÁ 200 NGÀY BẮC CỰC",
+        "card_style": "a large ornate 2D cartoon suspended-animation clinical death chapter title board isolated on a pure solid white background: a dark obsidian cryo-stasis sarcophagus plaque framed by solid frost icicles and a flatline ECG monitor on the corners; at the top is a deep violet cryogenic stasis badge containing bold white uppercase Vietnamese text \"{badge}\"; in the center is huge glowing bright yellow uppercase Vietnamese headline \"{title}\"; at the bottom is a flatline pulse ribbon containing bold white uppercase Vietnamese subtitle \"{sub}\"",
+        "banner_bar_style": "on the left is a deep violet cryogenic stasis badge with a frozen heart icon containing bold dark-outlined white uppercase Vietnamese text \"{badge}\"; immediately to the right is a dark obsidian cryo-stasis bar framed with flatline ECG neon lines containing bold bright yellow uppercase Vietnamese text \"{title}\"",
+        "chapter_title": "Trạng thái chết lâm sàng: Trái tim ngừng đập 0 nhịp suốt 7 tháng mùa đông hóa đá",
+        "hook": "ĐỒNG HỒ ĐẾM NGƯỢC CHẠM SỐ KHÔNG: CHẾT LÂM SÀNG HOÀN TOÀN GIỮA MÙA ĐÔNG",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Và bây giờ, kim đồng hồ đếm ngược sinh tồn hai mươi bốn giờ chính thức chạm mốc số không tử thần! Khi màn đêm vùng cực buông xuống và nhiệt độ không khí bên ngoài tụt sâu từ âm mười hai độ C, âm mười sáu độ C cho đến âm hai mươi độ C, quá trình đông cứng toàn thân của chú ếch bước vào giai đoạn quyết định. Dòng máu chứa đầy siro đường trở nên đặc quánh như mật mía rồi ngưng tụ hoàn toàn.",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Trái tim bé bỏng của chú ếch gỗ đập chậm dần từng nhịp: Từ một trăm nhịp một phút xuống năm mươi nhịp, rồi mười nhịp, năm nhịp... và rồi chiếc van tim cuối cùng khép lại. Nhịp tim dừng hẳn ở con số không tròn trĩnh! Không còn một giọt máu nào được bơm đi nuôi cơ thể, hệ tuần hoàn tê liệt một trăm phần trăm!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Cốc cốc cốc! Bác ếch gỗ ơi còn nghe thấy em nói gì không đấy? Chân tay bác cứng đơ rồi, em gõ thử cái que vào bụng bác nghe kêu cộp cộp giòn tan như gõ vào hòn đá cuội vậy nè!",
+            "cast": "chu_ngo_ngac"
+          },
+          {
+            "text": "[surprise-oh] Không còn một nhịp tim nào đập trong lồng ngực! Hai lá phổi ngừng phập phồng co bóp hoàn toàn, không có một phân tử khí oxy nào được hít vào hay thải ra! Nếu bạn gắn một bộ cảm biến điện não đồ siêu nhạy lên hộp sọ của chú ếch lúc này, chiếc kim ghi nhận tín hiệu sẽ chỉ vẽ ra một đường chân trời thẳng tắp phẳng lì: Không còn bất kỳ xung điện thần kinh nào được truyền đi giữa các tế bào não! Xét theo mọi tiêu chuẩn và định nghĩa y khoa khắt khe nhất của con người, chú ếch gỗ lúc này đã bước vào trạng thái chết lâm sàng toàn diện một trăm phần trăm!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Hãy quan sát diện mạo bên ngoài của chú ếch lúc này: Đôi mắt của nó đã chuyển sang màu đục ngầu và đông cứng hệt như hai viên bi ve bằng thủy tinh. Cơ bắp toàn thân cứng như thép nguội, các khớp xương chân không thể bẻ cong. Nếu bạn nhấc chú ếch lên và thả rơi từ độ cao ba mươi phân xuống mặt băng, nó sẽ nảy tưng tưng phát ra âm thanh côm cốp vang dội như một viên sỏi cuội lăn lóc ven đường!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Trong nghiên cứu đột phá xuất bản năm hai ngàn không trăm mười bốn trên Tạp chí Sinh học Thực nghiệm, tiến sĩ Đôn Lác-xơn tại Viện Sinh học Bắc Cực thuộc Đại học A-lát-xka Fairbanks đã chứng minh rằng: Những cá thể Ếch Gỗ Bắc Cực hoang dã có thể duy trì trạng thái đóng băng hóa đá, tim ngừng đập hoàn toàn này liên tục suốt bảy tháng, tức là hơn hai trăm ngày đêm ròng rã giữa mùa đông vùng cực mà không hề chịu bất kỳ di chứng tổn thương nào khi rã đông!",
+            "mood": "tram_bi_an"
+          }
+        ]
+      },
+      {
+        "id": "scene05",
+        "badge": "KỲ TÍCH HỒI SINH",
+        "badge_icon": "heartbeat",
+        "banner_title": "TRÁI TIM TỰ ĐẬP LẠI",
+        "card_sub": "RÃ ĐÔNG TỪ TRONG RA NGOÀI MÙA XUÂN",
+        "card_style": "a large ornate 2D cartoon spring thaw resurrection chapter title plaque isolated on a pure solid white background: a radiant sunrise gold plaque framed by melting water droplets, fresh green spring moss sprouts, and blooming tundra flowers on the corners; at the top is a blazing solar-flare golden emblem containing bold white uppercase Vietnamese text \"{badge}\"; in the center is huge glowing bright yellow uppercase Vietnamese headline \"{title}\"; at the bottom is a spring heartbeat wave ribbon containing bold cyan-white uppercase Vietnamese subtitle \"{sub}\"",
+        "banner_bar_style": "on the left is a blazing solar-flare golden emblem with a beating heart-flame icon containing bold dark-outlined white uppercase Vietnamese text \"{badge}\"; immediately to the right is a radiant sunrise gold bar draped with melting frost droplets and fresh green leaves containing bold bright yellow uppercase Vietnamese text \"{title}\"",
+        "chapter_title": "Phép màu mùa xuân: Trái tim tự rã đông và tự đập lại mà không cần máy sốc điện",
+        "hook": "ÁNH NẮNG MÙA XUÂN CHẠM TỚI: PHÉP MÀU HỒI SINH KHÔNG CẦN SỐC ĐIỆN",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Bảy tháng mùa đông dài đằng đẵng cuối cùng cũng trôi qua. Khi tháng tư và tháng năm gõ cửa cánh rừng Bắc Cực, những tia nắng ấm áp đầu tiên của mùa xuân bắt đầu len lỏi qua các tán cây thông, làm tan chảy lớp tuyết dày trắng xóa bên trên mặt đất. Nước tuyết tan nhỏ từng giọt róc rách, thấm dần xuống lớp thảm rêu và lá mục ẩm ướt, nơi viên đá ếch gỗ đang nằm im lìm suốt hơn hai trăm ngày đêm.",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Và ngay tại giây phút này, một trong những kỳ quan sinh học ngoạn mục nhất hành tinh chính thức bắt đầu vận hành: Quy trình rã đông thần tốc từ trong ra ngoài! Ở các loài động vật có vú, nếu bị đóng băng rồi đem sưởi ấm, cơ thể sẽ rã đông từ bề mặt da bên ngoài vào trong, khiến các mô bên ngoài ấm lên và đòi hỏi oxy trong khi trái tim bên trong vẫn còn là khối băng đông cứng, dẫn đến tử vong ngay tức khắc. Nhưng ếch gỗ thì sở hữu quy luật hoàn toàn ngược lại!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Thình thịch! Thình thịch! Cảm ơn bác mặt trời mùa xuân nhé! Máy bơm sự sống trong lồng ngực em đã khởi động lại trơn tru rồi nè, chuẩn bị xả van cho máu ấm chạy khắp người thôi!",
+            "cast": "chu_ngo_ngac"
+          },
+          {
+            "text": "[surprise-oh] Trái tim nằm sâu trong lồng ngực chú ếch chính là cơ quan đầu tiên được rã đông và tan chảy hoàn toàn! Không cần bất kỳ một cú sốc điện khử rung tim nào từ bác sĩ cấp cứu, các tế bào cơ tim của ếch gỗ tự động phát ra những xung điện sinh học tự nhiên. Ban đầu là một nhịp co bóp yếu ớt, rồi nhịp thứ hai, nhịp thứ ba... Từng nhịp đập bắt đầu dồn dập và mạnh mẽ trở lại, khôi phục dòng chảy tuần hoàn huyết áp khắp cơ thể!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Dòng máu ấm nóng giàu đường gờ-lu-cô-zơ được trái tim bơm đi khắp nơi, nhanh chóng làm tan chảy lớp băng bao quanh phổi, gan và thận. Chỉ trong vòng một đến hai giờ đồng hồ sau đó, hai lá phổi bắt đầu phập phồng hít thở trở lại từng luồng không khí trong lành của mùa xuân! Máu giàu oxy được đưa lên não bộ, kích hoạt hàng triệu tế bào thần kinh bừng tỉnh sau một giấc ngủ đông kéo dài nửa năm ròng!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Và điều kỳ diệu nhất là chỉ sau khoảng vài tiếng đồng hồ ngắn ngủi, lớp băng cứng ngắc ngoài các chi tan biến hoàn toàn. Chú ếch gỗ khẽ chớp đôi mắt trong veo, vươn vai cựa quậy bốn chân, rồi bất ngờ bật nhảy tanh tách từng bước dài đầy uy lực! Nó lao thẳng xuống những vũng nước băng tan đầu mùa để cất tiếng kêu ộp ộp vang dội gọi bạn tình, giành lấy vị trí đẻ trứng thuận lợi nhất trước khi bất kỳ loài sinh vật nào khác trong rừng kịp tỉnh giấc ngủ đông!",
+            "mood": "tram_bi_an"
+          }
+        ]
+      },
+      {
+        "id": "scene06",
+        "badge": "BÀI HỌC VÙNG CỰC",
+        "badge_icon": "organ",
+        "banner_title": "BẢO QUẢN TẠNG GHÉP NGƯỜI",
+        "card_sub": "CÔNG NGHỆ NGỦ ĐÔNG VÀ BẬT MÍ TẬP 34",
+        "card_style": "a large ornate 2D cartoon future medical biotechnology chapter title plaque isolated on a pure solid white background: a high-tech chrome medical chamber board framed by glowing cryogenic organ transplant pods and DNA double helixes on the corners; at the top is a medical cyan breakthrough badge containing bold white uppercase Vietnamese text \"{badge}\"; in the center is huge glowing bright yellow uppercase Vietnamese headline \"{title}\"; at the bottom is a futuristic galaxy spacesuit ribbon containing bold white uppercase Vietnamese subtitle \"{sub}\"",
+        "banner_bar_style": "on the left is a medical cyan breakthrough badge with a futuristic cryo-pod icon containing bold dark-outlined white uppercase Vietnamese text \"{badge}\"; immediately to the right is a high-tech chrome medical bar framed with glowing cyan DNA helixes containing bold bright yellow uppercase Vietnamese text \"{title}\"",
+        "chapter_title": "Bài học sinh tồn: Mở khóa bí mật bảo quản tạng người và câu đố linh thú Tập 34",
+        "hook": "TỔNG KẾT HỒ SƠ SINH TỒN: TỪ QUÁI KIỆT BĂNG GIÁ ĐẾN GIẤC MƠ DU HÀNH VŨ TRỤ",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Báo cáo tổng kết hồ sơ sinh tồn số ba mươi ba từ phóng viên hai mươi bốn giờ: Bảy tháng tim ngừng đập hoàn toàn, bảy mươi phần trăm lượng nước trong cơ thể hóa thành băng đá, sinh tồn ngoạn mục ở mức âm hai mươi độ C mà không hề suy suyển một tế bào nào! Quái Kiệt Băng Giá xứng đáng là một trong những kỳ tích tiến hóa vĩ đại nhất của sự sống trên hành tinh chúng ta!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Nhưng giá trị của chú ếch gỗ bé nhỏ này không chỉ dừng lại ở thế giới tự nhiên hoang dã. Cơ chế sinh học độc nhất vô nhị của nó đang trở thành chiếc chìa khóa vàng mở ra cuộc cách mạng y học lớn nhất thế kỷ hai mươi mốt dành cho nhân loại!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Bí kíp chống đông hóa đá của dòng họ nhà ếch chúng tôi xin kính tặng lại cho các bác sĩ và nhà khoa học loài người nhé! Nhớ nghiên cứu thành công để cứu thật nhiều bệnh nhân trên đời nha!",
+            "cast": "chu_ngo_ngac"
+          },
+          {
+            "text": "[surprise-oh] Các bạn có biết một sự thật đau lòng này không: Trong nền y học ghép tạng hiện đại, một quả tim hoặc một lá phổi người sau khi được hiến tặng chỉ có thể bảo quản lạnh trong thùng đá chuyên dụng tối đa từ bốn đến sáu tiếng đồng hồ! Sau khoảng thời gian ngắn ngủi đó, các mô tế bào sẽ hoại tử và không thể cấy ghép được nữa. Mỗi năm có hàng chục ngàn bệnh nhân trên toàn thế giới qua đời trong tuyệt vọng chỉ vì khoảng cách địa lý quá xa, không kịp vận chuyển tạng ghép đến phòng mổ!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Hiện nay, các nhà khoa học hàng đầu tại Đại học Harvard và Bệnh viện Đa khoa Massachusetts đang tích cực nghiên cứu tổng hợp các phân tử mầm đá và hợp chất cờ-rai-ô-prô-tếch-tần mô phỏng từ loài ếch gỗ. Mục tiêu tối thượng là có thể đưa các cơ quan nội tạng người vào trạng thái đông lạnh sâu an toàn suốt nhiều tuần, thậm chí nhiều tháng trời mà không bị tổn thương tế bào! Khi công nghệ này thành công, nó sẽ tạo ra những ngân hàng nội tạng toàn cầu, cứu sống hàng triệu sinh mạng mỗi năm!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Và xa hơn nữa, đó chính là giấc mơ đưa các phi hành gia tương lai vào trạng thái ngủ đông sâu kéo dài hàng bao thế kỷ để thực hiện những chuyến du hành không gian xuyên qua các dải ngân hà xa xôi! Còn bây giờ, chương trình xin gửi tới các bạn câu đố hóc búa để hé lộ nhân vật chính của Tập ba mươi tư: Sinh vật nào sở hữu tỷ lệ kích thước bộ não so với cơ thể tương đương loài tinh tinh, biết tự uốn cong que sắt làm lưỡi câu bắt ấu trùng, và đặc biệt có thể ghi nhớ chính xác khuôn mặt của kẻ thù suốt năm năm trời để truyền lại cho đàn con cháu đời sau tiếp tục báo thù? Hãy để lại câu trả lời của bạn dưới phần bình luận, bấm like và đăng ký kênh để không bỏ lỡ những thước phim kỳ thú tiếp theo!",
+            "mood": "tram_bi_an"
+          }
+        ]
+      }
+    ]
+  },
+  "shorts": {
+    "target_s": 54.0,
+    "mood": "hao_hung",
+    "text": "Cảnh báo sinh tồn vùng cực âm hai mươi độ C! [surprise-oh] Tại sao loài ếch tí hon này có thể để tim ngừng đập hoàn toàn suốt bảy tháng mùa đông rồi tự rã đông bật nhảy sống dậy? Đây là Ếch Gỗ Bắc Cực, Quái Kiệt Băng Giá của xứ sở A-lát-xka! Khi mùa đông ập đến, thay vì trốn sâu dưới lòng đất, nó ở lì trên mặt đất và chủ động để cơ thể mình bị đóng băng! Một loại protein tạo mầm đá đặc biệt ép sáu mươi lăm đến bảy mươi phần trăm lượng nước trong cơ thể nó hóa thành băng đá ngoại bào. Để tế bào không bị xé rách, lá gan của nó lập tức phình to, bơm một lượng đường gờ-lu-cô-zơ siêu đậm đặc gấp ba trăm lần vào bên trong từng tế bào như siro chống đông sinh học! Kết quả: Trái tim ngừng đập hoàn toàn ở mức không nhịp một phút. Máu ngừng chảy, sóng não phẳng lì, cơ thể cứng như đá gõ côm cốp suốt hai trăm ngày! Về mặt y học, nó đã chết lâm sàng một trăm phần trăm! Thế nhưng khi ánh nắng mùa xuân rọi xuống, trái tim tự rã đông đầu tiên, tự động đập lại mà không cần sốc điện, và chỉ vài tiếng sau chú ếch đã bật dậy nhảy tanh tách đi tìm bạn tình! Một kiệt tác hồi sinh đang mở ra cuộc cách mạng bảo quản tạng ghép cho loài người!"
+  },
+  "seo": {
+    "title": "Sinh Vật Tự Đóng Băng Tim Ngừng Đập & Hồi Sinh Sau Mùa Đông?! | Tập 33",
+    "hook_paragraph": "Ếch Gỗ Bắc Cực (Lithobates sylvaticus) sống sót qua mùa đông Alaska âm 20°C bằng khả năng không tưởng: để tim ngừng đập 0 nhịp/phút suốt 7 tháng, 70% cơ thể hóa đá, gan bơm đường glucose gấp 300 lần chống đông tế bào và tự đập lại hồi sinh thần kỳ vào mùa xuân!",
+    "bullets": [
+      "Sinh tồn giữa bão tuyết Alaska -20°C mà không cần đào hang sâu hay lớp mỡ dày",
+      "Protein tạo mầm đá ngoại bào ép 70% lượng nước cơ thể đóng băng có kiểm soát",
+      "Lá gan phình to bơm glucose siêu đậm đặc gấp 300 lần làm siro chống đông tế bào",
+      "Trạng thái chết lâm sàng hoàn toàn: tim 0 nhịp, máu ngừng chảy, cơ thể hóa đá 200 ngày",
+      "Phép màu mùa xuân: Trái tim tự rã đông và tự đập lại đầu tiên không cần máy sốc điện",
+      "Ứng dụng y học đột phá: Mở rộng thời gian bảo quản nội tạng người ghép tạng từ vài giờ lên nhiều tháng"
+    ],
+    "question": "Giữa khả năng tự đóng băng 70% cơ thể thành đá và trái tim tự đập lại sau 7 tháng chết lâm sàng, bạn thấy điều kỳ diệu nào của Ếch Gỗ Bắc Cực đỉnh cao hơn?",
+    "next_teaser": "loài chim đen huyền bí sở hữu bộ não có tỷ lệ tương đương tinh tinh, biết uốn que sắt làm câu mồi và nhớ mặt kẻ thù suốt 5 năm",
+    "hashtag_broad": "#độngvật",
+    "hashtag_animal": "#ếchgỗ",
+    "hashtags": [
+      "#độngvật",
+      "#ếchgỗ",
+      "#VẽChuyệnHoangDã"
+    ],
+    "tags": [
+      "ếch gỗ bắc cực",
+      "ếch gỗ",
+      "wood frog",
+      "lithobates sylvaticus",
+      "động vật đóng băng",
+      "tim ngừng đập hồi sinh",
+      "sinh tồn bắc cực",
+      "chất chống đông sinh học",
+      "alaska âm 20 độ",
+      "thế giới động vật",
+      "vẽ chuyện hoang dã",
+      "whiteboard animation",
+      "khoa học vui",
+      "tập 33"
+    ],
+    "shorts_title": "Tại Sao Trái Tim Loài Ếch Này Ngừng Đập 7 Tháng Rồi Tự Sống Dậy?!",
+    "shorts_desc": "Ếch Gỗ Bắc Cực (Lithobates sylvaticus) để tim ngừng đập hoàn toàn suốt 7 tháng mùa đông Alaska -20°C, 70% cơ thể hóa đá nhờ gan bơm glucose gấp 300 lần chống đông và tự rã đông nhảy đi vào mùa xuân!",
+    "shorts_tags": [
+      "ếch gỗ bắc cực",
+      "wood frog",
+      "shorts",
+      "động vật",
+      "khoa học",
+      "vẽ chuyện hoang dã"
+    ],
+    "en_title": "The Creature That Freezes Solid With 0 Heartbeat & Resurrects in Spring?! | Ep 33",
+    "en_hook": "The Alaskan Wood Frog (Lithobates sylvaticus) survives extreme -20°C winters by doing the impossible: stopping its heart for 7 months, turning 70% of its body into solid ice, flooding its cells with 300x glucose as natural antifreeze, and resurrecting inside-out when spring arrives!",
+    "en_chapters": [
+      "Subzero Arctic Alert: The Masked Survivor at -20°C in Alaska",
+      "Extracellular Ice Nucleation: Freezing 70% Body Water Without Cell Damage",
+      "Emergency Glucose Surge: Liver Floods Cells with 300x Natural Antifreeze",
+      "Clinical Cryostasis: 0 Heartbeat and Frozen Solid for 7 Months",
+      "Spring Resurrection Miracle: Heart Restarts Itself Inside-Out Without Shock",
+      "Arctic Survival Legacy: Unlocking Human Organ Cryopreservation"
+    ],
+    "en_shorts_title": "Why Does This Frog's Heart Stop for 7 Months Then Jump Back to Life?!"
+  }
+}

@@ -1,0 +1,537 @@
+{
+ "episode": "tap-33-ech-go-bac-cuc",
+ "title_lines": [
+  "TIM NGỪNG ĐẬP 7 THÁNG:",
+  "TỰ RÃ ĐÔNG BẬT NHẢY?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 53.99,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-33-ech-go-bac-cuc_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  7.89,
+  13.03,
+  19.13,
+  24.25,
+  30.71,
+  33.03,
+  37.31,
+  40.77,
+  42.99,
+  45.03,
+  48.27,
+  52.07
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "t": 1.48,
+     "side": "R",
+     "y": 480,
+     "value": "-20°C",
+     "label": "bão tuyết Alaska",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 0.0,
+     "text": "Cảnh báo sinh"
+    },
+    {
+     "t": 0.78,
+     "text": "tồn vùng cực"
+    },
+    {
+     "t": 1.48,
+     "text": "-20°C! Tại sao"
+    },
+    {
+     "t": 3.42,
+     "text": "loài ếch tí"
+    },
+    {
+     "t": 3.82,
+     "text": "hon này có"
+    },
+    {
+     "t": 4.28,
+     "text": "thể để tim"
+    },
+    {
+     "t": 4.66,
+     "text": "ngừng đập hoàn"
+    },
+    {
+     "t": 5.18,
+     "text": "toàn suốt 7"
+    },
+    {
+     "t": 5.76,
+     "text": "tháng mùa"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 6.09,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 6.16,
+     "text": "đông rồi tự"
+    },
+    {
+     "t": 6.66,
+     "text": "rã đông bật"
+    },
+    {
+     "t": 7.2,
+     "text": "nhảy sống dậy?"
+    },
+    {
+     "t": 8.12,
+     "text": "Đây là Ếch"
+    },
+    {
+     "t": 8.64,
+     "text": "Gỗ Bắc Cực,"
+    },
+    {
+     "t": 9.48,
+     "text": "Quái Kiệt Băng"
+    },
+    {
+     "t": 9.92,
+     "text": "Giá của xứ"
+    },
+    {
+     "t": 10.4,
+     "text": "sở Alaska!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 11.23,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 11.48,
+     "text": "Khi mùa đông"
+    },
+    {
+     "t": 11.86,
+     "text": "ập đến,"
+    },
+    {
+     "t": 12.64,
+     "text": "thay vì trốn"
+    },
+    {
+     "t": 13.14,
+     "text": "sâu dưới lòng"
+    },
+    {
+     "t": 13.7,
+     "text": "đất, nó ở"
+    },
+    {
+     "t": 14.42,
+     "text": "lì trên mặt"
+    },
+    {
+     "t": 14.9,
+     "text": "đất và chủ"
+    },
+    {
+     "t": 15.7,
+     "text": "động để cơ"
+    },
+    {
+     "t": 16.28,
+     "text": "thể mình bị"
+    },
+    {
+     "t": 16.74,
+     "text": "đóng băng!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 17.33,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 19.57,
+     "side": "L",
+     "y": 450,
+     "value": "70% BĂNG",
+     "label": "giáp băng ngoại bào",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 17.58,
+     "text": "Một loại protein"
+    },
+    {
+     "t": 18.2,
+     "text": "tạo mầm đá"
+    },
+    {
+     "t": 18.86,
+     "text": "đặc biệt ép"
+    },
+    {
+     "t": 19.573,
+     "text": "65-70% lượng nước"
+    },
+    {
+     "t": 21.04,
+     "text": "trong cơ thể"
+    },
+    {
+     "t": 21.5,
+     "text": "nó hóa thành"
+    },
+    {
+     "t": 22.0,
+     "text": "băng đá ngoại"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 22.45,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 28.46,
+     "side": "R",
+     "y": 480,
+     "value": "300 LẦN",
+     "label": "glucose chống đông",
+     "target": [
+      0.55,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 22.48,
+     "text": "bào. Để tế"
+    },
+    {
+     "t": 23.48,
+     "text": "bào không bị"
+    },
+    {
+     "t": 24.02,
+     "text": "xé rách,"
+    },
+    {
+     "t": 24.82,
+     "text": "lá gan của"
+    },
+    {
+     "t": 25.24,
+     "text": "nó lập tức"
+    },
+    {
+     "t": 25.72,
+     "text": "phình to,"
+    },
+    {
+     "t": 26.46,
+     "text": "bơm một lượng"
+    },
+    {
+     "t": 26.92,
+     "text": "đường Glucose siêu"
+    },
+    {
+     "t": 27.96,
+     "text": "đậm đặc gấp"
+    },
+    {
+     "t": 28.46,
+     "text": "300 lần"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 28.91,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 29.04,
+     "text": "vào bên trong"
+    },
+    {
+     "t": 29.46,
+     "text": "từng tế bào"
+    },
+    {
+     "t": 30.0,
+     "text": "như siro chống"
+    },
+    {
+     "t": 30.62,
+     "text": "đông sinh học!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 31.23,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 33.74,
+     "side": "L",
+     "y": 460,
+     "value": "0 NHỊP/P",
+     "label": "tim ngừng đập hẳn",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 31.48,
+     "text": "Kết quả:"
+    },
+    {
+     "t": 32.3,
+     "text": "Trái tim ngừng"
+    },
+    {
+     "t": 32.74,
+     "text": "đập hoàn toàn"
+    },
+    {
+     "t": 33.4,
+     "text": "ở mức 0"
+    },
+    {
+     "t": 33.813,
+     "text": "nhịp/phút. Máu ngừng chảy,"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 35.51,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S13.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 35.52,
+     "text": "sóng não phẳng"
+    },
+    {
+     "t": 36.12,
+     "text": "lì, cơ thể"
+    },
+    {
+     "t": 36.86,
+     "text": "cứng như đá"
+    },
+    {
+     "t": 37.4,
+     "text": "gõ côm cốp"
+    },
+    {
+     "t": 37.98,
+     "text": "suốt 200 ngày!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 38.97,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 40.78,
+     "side": "R",
+     "y": 480,
+     "value": "100%",
+     "label": "chết lâm sàng",
+     "target": [
+      0.55,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 39.22,
+     "text": "Về mặt y"
+    },
+    {
+     "t": 39.64,
+     "text": "học, nó đã"
+    },
+    {
+     "t": 40.26,
+     "text": "chết lâm sàng 100%!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 41.19,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 41.44,
+     "text": "Thế nhưng khi"
+    },
+    {
+     "t": 42.24,
+     "text": "ánh nắng mùa"
+    },
+    {
+     "t": 42.74,
+     "text": "xuân rọi xuống,"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 43.23,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 43.48,
+     "text": "trái tim tự"
+    },
+    {
+     "t": 44.02,
+     "text": "rã đông đầu"
+    },
+    {
+     "t": 44.5,
+     "text": "tiên, tự động"
+    },
+    {
+     "t": 45.32,
+     "text": "đập lại mà"
+    },
+    {
+     "t": 45.8,
+     "text": "không cần sốc điện,"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 46.47,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 46.72,
+     "text": "và chỉ vài"
+    },
+    {
+     "t": 47.36,
+     "text": "tiếng sau chú"
+    },
+    {
+     "t": 47.76,
+     "text": "ếch đã bật"
+    },
+    {
+     "t": 48.22,
+     "text": "dậy nhảy tanh"
+    },
+    {
+     "t": 48.94,
+     "text": "tách đi tìm"
+    },
+    {
+     "t": 49.44,
+     "text": "bạn tình!"
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "start_s": 50.27,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 50.52,
+     "text": "Một kiệt tác"
+    },
+    {
+     "t": 51.04,
+     "text": "hồi sinh đang"
+    },
+    {
+     "t": 51.44,
+     "text": "mở ra cuộc"
+    },
+    {
+     "t": 52.04,
+     "text": "cách mạng bảo"
+    },
+    {
+     "t": 52.58,
+     "text": "quản tạng ghép"
+    },
+    {
+     "t": 53.24,
+     "text": "cho loài người!"
+    }
+   ]
+  }
+ ]
+}

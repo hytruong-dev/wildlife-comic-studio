@@ -1,0 +1,480 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "THÁCH THỨC TRỌNG LỰC GIỮA VỰC SÂU NGÀN MÉT",
+   "hook": "Sinh vật thách thức định luật vạn vật hấp dẫn của Newton",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "phòng thí nghiệm cơ sinh học dã ngoại",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bức tường đá hoa cương",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vực sâu thăm thẳm",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "mỏm đá nhọn hoắt kia",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "trạm đo laser địa hình",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "kết quả đo đạc chính xác",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong khi các kiện tướng thể thao đỉnh cao",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "biến bức tường tử thần",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "phóng mình qua các hố sụt",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bí mật vật lý và sinh học",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "ĐẤU TRƯỜNG 90°"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "BỘ MÓNG GUỐC HAI MẢNH KẸP ĐÁ NHƯ KÌM BẤM THỦY LỰC",
+   "hook": "Cấu trúc móng chẻ độc lập ôm trọn từng gờ đá siêu nhỏ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "móng ngựa là một khối sừng liền mạch",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lớp vỏ sừng chất đạm keratin",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "xòe rộng ra theo hình chữ V",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cử động độc lập lệch pha nhau",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "phân bổ tải trọng đồng đều",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "phía sau cổ chân",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "mẩu xương nhỏ bé này nhé",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "dập tắt quán tính trượt dốc",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "áp lực khổng lồ đó vẫn được truyền dẫn",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "móng guốc vẫn có thể bị trượt",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vũ khí bí mật ngay trong lòng bàn chân",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VŨ KHÍ SỐ 1"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "ĐỆM CAO SU MA SÁT CAO BÁM DÍNH SIÊU CẤP",
+   "hook": "Vật liệu phỏng sinh học lấy cảm hứng cho lốp xe đua",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lớp đệm thịt ma sát",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "giác hút chân không tí hon",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "phòng thí nghiệm vật lý",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chịu nhiệt độ âm cực thấp",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lốp xe cao su thông thường sẽ bị hóa cứng",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "giữ nguyên độ dẻo dai ấm áp",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hợp kim cơ sinh học vô tiền khoáng hậu",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "phủ một lớp rêu ướt trơn tuột",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bước chân của nó vẫn bám chặt",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sở hữu bộ móng thần thánh",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thiếu đi một trung tâm điều khiển cân bằng",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VŨ KHÍ SỐ 2"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "TRỌNG TÂM CƠ THỂ SIÊU THẤP VÀ KHỚP BẢ VAI XOAY LINH HOẠT",
+   "hook": "Giải phẫu học tối ưu hóa cân bằng động lực học",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cánh tay đòn mô-men lật đổ",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đôi chân trước của chúng ngắn hơn",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "toàn bộ khối lượng nội tạng nặng nề",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "dán chặt véc-tơ trọng lực",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nghiêng nhẹ về phía vách đá",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "khớp xương bả vai của dê núi",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "dang rộng sang hai bên như hai cánh tay người",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nặng hơn một tạ trèo lên gờ đá",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cỗ máy việt dã bánh xích nào của con người",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kỹ thuật parkour búng tường",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VŨ KHÍ SỐ 3"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "CÚ NHẢY BÚNG TƯỜNG NGOẠN MỤC XOAY NGƯỜI GIỮA KHÔNG TRUNG",
+   "hook": "Kỹ thuật parkour đỉnh cao của nhà vô địch vách đá",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "báo sư tử đang rình rập săn mồi",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đôi chân sau hoạt động như cặp lò xo",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bay ngang qua hẻm vực sâu thăm thẳm",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "dùng cả bốn móng guốc đạp mạnh",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ở một độ cao vượt trội hơn",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "xoay người 180° giữa khoảng không",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vỏn vẹn chưa đầy nửa giây",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "truyền thẳng về tiểu não khổng lồ",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thăng tiến hàng chục mét vách đá",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "há hốc mồm bất lực",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sân chơi tự do và bình yên tuyệt đối",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VŨ KHÍ SỐ 4"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "ĐỈNH CAO THỂ THAO MẠO HIỂM PHỎNG SINH HỌC",
+   "hook": "Tôn vinh cỗ máy vượt dốc vĩ đại nhất của tạo hóa",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "toàn bộ bốn tuyệt kỹ cơ học",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương Vàng Cơ Học Vách Đá",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hẻm vực dốc đứng trên Sao Hỏa",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thế hệ giày leo núi siêu ma sát",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thử thách dựng đứng tưởng chừng như không thể vượt qua",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "điểm tựa vững chắc dù là nhỏ bé nhất",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "móng chẻ kìm bấm thủy lực và lớp đệm ma sát",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "để lại cảm nghĩ và bình luận tâm đắc",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhấn nút Đăng Ký Kênh",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tập 39",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chim Bách Thanh",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "TRAO HUY CHƯƠNG"
+  }
+ }
+}

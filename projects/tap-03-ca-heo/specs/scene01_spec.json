@@ -1,0 +1,452 @@
+{
+  "scene_id": "scene01",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 6,
+  "world_width": 2290,
+  "world_height": 1168,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 60,
+  "duration_ms": 69660,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-03-ca-heo/assets/scenes_composed/scene01_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      247,
+      8,
+      1032,
+      52
+    ],
+    "x": 259,
+    "y": 12,
+    "w": 761,
+    "h": 38,
+    "text": "[PHẦN 1]  BÍ MẬT ĐẰNG SAU NỤ CƯỜI HOẠT HÌNH VĨNH CỬU CỦA CÁ HEO",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-03-ca-heo/assets/scenes_composed/scene01_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 14515,
+      "has_frame": false,
+      "pill_box": [
+        307,
+        124,
+        515,
+        160
+      ],
+      "art_only_box": [
+        95,
+        160,
+        724,
+        513
+      ],
+      "caption": {
+        "text": "Ra khơi xa: Gặp gỡ ngôi sao thông thái Cá Heo Đại Dương",
+        "x": 155,
+        "y": 513,
+        "w": 510,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        93,
+        124,
+        726,
+        544
+      ],
+      "img_region": {
+        "x": 95,
+        "y": 160,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 14515,
+      "end_ms": 30240,
+      "has_frame": false,
+      "pill_box": [
+        1024,
+        124,
+        1268,
+        164
+      ],
+      "art_only_box": [
+        830,
+        160,
+        1459,
+        513
+      ],
+      "caption": {
+        "text": "Hình tượng hoạt hình: Thiên thần hiền lành cứu người vượt sóng",
+        "x": 871,
+        "y": 513,
+        "w": 548,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        828,
+        124,
+        1461,
+        545
+      ],
+      "img_region": {
+        "x": 830,
+        "y": 160,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 30240,
+      "end_ms": 41616,
+      "has_frame": false,
+      "pill_box": [
+        1775,
+        124,
+        1988,
+        159
+      ],
+      "art_only_box": [
+        1565,
+        160,
+        2194,
+        513
+      ],
+      "caption": {
+        "text": "Bí mật nụ cười: Xương hàm dưới uốn cong cố định từ khi mới sinh!",
+        "x": 1594,
+        "y": 513,
+        "w": 572,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1563,
+        124,
+        2196,
+        545
+      ],
+      "img_region": {
+        "x": 1565,
+        "y": 160,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_04",
+      "start_ms": 41616,
+      "end_ms": 51096,
+      "has_frame": false,
+      "pill_box": [
+        1759,
+        614,
+        2003,
+        654
+      ],
+      "art_only_box": [
+        1565,
+        650,
+        2194,
+        1003
+      ],
+      "caption": {
+        "text": "Học sinh siêu quậy: Tinh nghịch và thông minh bậc nhất biển cả",
+        "x": 1604,
+        "y": 1003,
+        "w": 551,
+        "h": 31,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1563,
+        614,
+        2196,
+        1036
+      ],
+      "img_region": {
+        "x": 1565,
+        "y": 650,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_05",
+      "start_ms": 51096,
+      "end_ms": 59817,
+      "has_frame": false,
+      "pill_box": [
+        1030,
+        614,
+        1263,
+        651
+      ],
+      "art_only_box": [
+        830,
+        650,
+        1459,
+        1003
+      ],
+      "caption": {
+        "text": "Trò đùa lầy lội: Chọc Cá Nóc phồng tròn như quả bóng chuyền!",
+        "x": 871,
+        "y": 1003,
+        "w": 548,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        828,
+        614,
+        1461,
+        1035
+      ],
+      "img_region": {
+        "x": 830,
+        "y": 650,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_06",
+      "start_ms": 59817,
+      "end_ms": 68160,
+      "has_frame": false,
+      "pill_box": [
+        307,
+        614,
+        516,
+        654
+      ],
+      "art_only_box": [
+        95,
+        650,
+        724,
+        1003
+      ],
+      "caption": {
+        "text": "Bất ngờ tột độ: Hợp sức rượt đuổi cả hung thần Cá Mập Trắng!",
+        "x": 132,
+        "y": 1003,
+        "w": 556,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        93,
+        614,
+        726,
+        1038
+      ],
+      "img_region": {
+        "x": 95,
+        "y": 650,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 93.0,
+    "y_min": 124.0,
+    "x_max": 2196.0,
+    "y_max": 1038.0,
+    "bbox_w": 2103.0,
+    "bbox_h": 914.0,
+    "center_x": 1144.5,
+    "center_y": 581.0,
+    "zoom_out_scale": 0.5837,
+    "crop_w": 2193.0,
+    "crop_h": 1117.1
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 409.5,
+      "cy": 334.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.33,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 13895.0,
+      "cx": 409.5,
+      "cy": 334.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.33,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 14515.0,
+      "cx": 1144.5,
+      "cy": 334.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.32,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 29620.0,
+      "cx": 1144.5,
+      "cy": 334.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.32,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 30240.0,
+      "cx": 1879.5,
+      "cy": 334.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.32,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 40996.0,
+      "cx": 1879.5,
+      "cy": 334.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.32,
+      "phase": "transition",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 41616.0,
+      "cx": 1879.5,
+      "cy": 825.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 2.32,
+      "phase": "focus_hold",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 50476.0,
+      "cx": 1879.5,
+      "cy": 825.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 2.32,
+      "phase": "transition",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 51096.0,
+      "cx": 1144.5,
+      "cy": 824.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.32,
+      "phase": "focus_hold",
+      "target_node_id": "beat_05"
+    },
+    {
+      "time_ms": 59197.0,
+      "cx": 1144.5,
+      "cy": 824.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.32,
+      "phase": "transition",
+      "target_node_id": "beat_05"
+    },
+    {
+      "time_ms": 59817.0,
+      "cx": 409.5,
+      "cy": 826.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 2.31,
+      "phase": "focus_hold",
+      "target_node_id": "beat_06"
+    },
+    {
+      "time_ms": 68160.0,
+      "cx": 409.5,
+      "cy": 826.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 2.31,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_06"
+    },
+    {
+      "time_ms": 68660.0,
+      "cx": 1144.5,
+      "cy": 581.0,
+      "crop_w": 2193.0,
+      "crop_h": 1117.1,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 69660.0,
+      "cx": 1144.5,
+      "cy": 581.0,
+      "crop_w": 2193.0,
+      "crop_h": 1117.1,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

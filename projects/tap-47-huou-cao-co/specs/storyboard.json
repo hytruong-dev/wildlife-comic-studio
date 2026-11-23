@@ -1,0 +1,590 @@
+{
+  "_doc": "specs/storyboard.json cho tap-47-huou-cao-co",
+  "characters": {
+    "HERO": "chú hươu cao cổ hoạt hình ngộ nghĩnh (cao lớn, cổ dài 2m với các van thủy lực phát sáng, biểu cảm sinh động)",
+    "HERO_S": "chú hươu cao cổ hoạt hình ngộ nghĩnh đeo kính bảo hộ kỹ sư cầm đồng hồ áp suất",
+    "NO_HERO": "",
+    "ENG": "kỹ sư trưởng mặc đồ bảo hộ xưởng cơ khí, cầm cờ lê và bản vẽ đường ống thủy lực",
+    "ASSISTANT": "cô trợ lý kỹ thuật đeo kính bảo hộ cầm bảng kẹp tài liệu ghi chép áp suất",
+    "NAIVE": "chú ngơ ngác gãi đầu hoảng hốt trước đồng hồ đo áp suất",
+    "KID": "bé con đội mũ safari đeo ba lô tò mò chỉ tay hỏi",
+    "LION": "sư tử châu phi bờm rậm hoảng hốt né đòn đạp hậu của hươu",
+    "HEART": "mô hình quả tim thép 11kg với đồng hồ đo áp suất 300 mmHg",
+    "RETE": "sơ đồ mạng lưới vi mạch xốp giảm áp búa nước dưới đáy sọ"
+  },
+  "side_characters": [
+    "ENG",
+    "ASSISTANT",
+    "NAIVE",
+    "KID",
+    "LION",
+    "HEART",
+    "RETE"
+  ],
+  "shorts_side_characters": [
+    "ENG",
+    "HEART",
+    "RETE"
+  ],
+  "shorts_title_lines": [
+    "CÚI ĐẦU 2M",
+    "NỔ NÃO KHÔNG?!"
+  ],
+  "skip_numbers": [],
+  "long": [
+    {
+      "scene": "scene01",
+      "id": "L01",
+      "at": 0,
+      "layout": "{ENG}: kỹ sư trưởng mở cuộn bản vẽ tháp cẩu 5 mét trên bàn vẽ kỹ thuật",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L02",
+      "at": "nay, ống nhòm",
+      "layout": "{HERO}: chú hươu cao cổ bước đi uy nghiêm giữa thảo nguyên hoàng hôn như cỗ máy tháp cẩu di động",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L03",
+      "at": "học đồ sộ",
+      "layout": "{HERO}: sơ đồ giải phẫu chịu lực của cơ thể 2 tấn trên 4 cẳng chân khẳng khiu",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L04",
+      "at": "quen thuộc là",
+      "layout": "{HERO} {ENG}: kỹ sư chỉ thước đo vào chiếc cổ 2m với nhãn kỹ thuật THÁP CẨU SAVANNAH",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L05",
+      "at": "túy: Làm thế",
+      "layout": "{HERO}: sơ đồ cắt dọc cổ cho thấy cột máu đỏ rực leo dốc 2m ngược chiều trọng lực",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L06",
+      "at": "ống nhựa sẽ",
+      "layout": "{ASSISTANT}: cô trợ lý cầm đường ống vỡ tung tóe vì áp lực quá tải cảnh báo nguy cơ nổ ống",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L07",
+      "at": "cơ thể một",
+      "layout": "{NAIVE}: chú ngơ ngác hoa mắt chóng mặt khi tưởng tượng cổ mình dài 2m thiếu máu não",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L08",
+      "at": "vì cạn kiệt",
+      "layout": "{HERO}: cận cảnh chiếc lưỡi dài 50cm màu tím đen tước lá gai keo nhọn hoắt không hề hấn",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L09",
+      "at": "thậm chí khi",
+      "layout": "{ENG} {HERO}: kỹ sư vặn van khóa áp suất mở toang khoang động cơ tim phổi của hươu",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L10",
+      "at": 0,
+      "layout": "{HEART}: mô hình quả tim 11kg khổng lồ đập thình thịch với các ống dẫn áp lực cao",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L11",
+      "at": "Tháp Cẩu Di Động hoàn",
+      "layout": "{HEART} {ENG}: kỹ sư đo kích thước quả tim dài 60cm nặng 11kg so với tim người tí hon",
+      "stickers": [
+        {
+          "at": "11kg",
+          "side": "L",
+          "y": 360,
+          "value": "11 kg",
+          "label": "Động cơ tim siêu áp",
+          "target": [
+            0.35,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L12",
+      "at": "lên động mạch",
+      "layout": "{HEART}: mặt cắt thành tâm thất trái dày 7cm đanh chắc như lốp xe tải bọc thép",
+      "stickers": [
+        {
+          "at": "300 mmHg",
+          "side": "R",
+          "y": 320,
+          "value": "300 mmHg",
+          "label": "Áp lực bơm cực đại",
+          "target": [
+            0.8,
+            0.4
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L13",
+      "at": "động viên điền",
+      "layout": "{HEART}: đồng hồ đo áp suất kim loại chỉ vạch đỏ 300 mmHg xả hơi nước cảnh báo",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L14",
+      "at": "qua lực hút",
+      "layout": "{HERO}: sơ đồ sụt giảm áp suất thủy tĩnh: từ 300 mmHg ở ngực giảm dần còn 100 mmHg ở não",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L15",
+      "at": "đã giảm về",
+      "layout": "{NAIVE} {HERO}: sơ đồ so sánh huyết áp người 120 mmHg bị tắc nghẽn giữa chừng ở độ cao 1m",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L16",
+      "at": "trì hoàn hảo",
+      "layout": "{HERO}: não bộ hươu trên đỉnh đầu sáng rực nhận dòng máu 100 mmHg êm ái hoàn hảo",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L17",
+      "at": "chẳng mấy chốc",
+      "layout": "{HEART}: biểu đồ sóng điện tim nhịp đập chậm rãi uy nghi 40-90 nhịp mỗi phút",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L18",
+      "at": "gia cố bằng",
+      "layout": "{HERO} {ENG}: kỹ sư kiểm tra buồng giãn nở đàn hồi Windkessel của động mạch chủ duy trì dòng chảy liên tục",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L19",
+      "at": 0,
+      "layout": "{HERO}: hươu xoạc rộng hai chân trước cúi chiếc cổ 2m rơi tự do xuống vũng nước",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L20",
+      "at": "đất. Để uống",
+      "layout": "{HERO}: mô phỏng áp suất dồn xuống đầu vọt lên 500 mmHg với biểu tượng cảnh báo nguy hiểm",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L21",
+      "at": "được cộng dồn",
+      "layout": "{NAIVE}: chú ngơ ngác ôm đầu hoảng hốt sợ đầu hươu nổ tung như quả bóng cao su bơm căng",
+      "stickers": [
+        {
+          "at": "500 mmHg",
+          "side": "R",
+          "y": 320,
+          "value": "500 mmHg",
+          "label": "Áp lực dồn đỉnh sọ",
+          "target": [
+            0.8,
+            0.4
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L22",
+      "at": "mạch não mỏng",
+      "layout": "{RETE} {ENG}: kỹ sư soi kính lúp vào mạng lưới Rete Mirabile dưới đáy sọ hươu",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L23",
+      "at": "tiết cơ khí",
+      "layout": "{RETE}: kính hiển vi phóng đại ma trận vi mạch xốp Rete Mirabile phình to hấp thụ xung lực búa nước",
+      "stickers": [
+        {
+          "at": "Mạng Lưới Kỳ Diệu",
+          "side": "L",
+          "y": 340,
+          "value": "RETE",
+          "label": "Ma trận xả áp não",
+          "target": [
+            0.4,
+            0.45
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L24",
+      "at": "hạ thấp đầu",
+      "layout": "{HERO}: mặt cắt tĩnh mạch cổ 2m với chuỗi van một chiều cơ học sập chặt khóa dòng máu đen",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L25",
+      "at": "nhạy cảm. Chưa",
+      "layout": "{HERO} {LION}: hươu giật phắt đầu vụt cao 5m trong 1 giây khi sư tử phục kích trong bụi rậm",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L26",
+      "at": "ngược trở lại",
+      "layout": "{RETE} {HERO}: mạng lưới Rete Mirabile xả lượng máu dự trữ nuôi não giúp hươu tỉnh táo phóng chạy",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L27",
+      "at": "tụt dốc về",
+      "layout": "{ENG}: kỹ sư giơ ngón tay cái tán thưởng cơ chế giảm chấn thủy lực hai chiều hoàn mỹ",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L28",
+      "at": 0,
+      "layout": "{ENG} {HERO}: kỹ sư rọi đèn pin vào đôi chân khẳng khiu chịu áp lực thủy tĩnh khổng lồ",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L29",
+      "at": "thẳng trên bốn",
+      "layout": "{HERO}: sơ đồ cột máu dồn xuống bàn chân với áp lực vượt ngưỡng 200 mmHg",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L30",
+      "at": "200 mmHg. Để",
+      "layout": "{NAIVE}: chú ngơ ngác ôm mắt cá chân sưng phù đau đớn vì đứng lâu tụ máu",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L31",
+      "at": "mao mạch tạo",
+      "layout": "{HERO}: cận cảnh cẳng chân hươu khô ráo thanh thoát không hề có một vết phù nề",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L32",
+      "at": "tất áp lực",
+      "layout": "{ENG} {ASSISTANT}: cô trợ lý giới thiệu bộ đồ phi hành gia G-suit NASA lấy cảm hứng từ chân hươu",
+      "stickers": [
+        {
+          "at": "bộ đồ kháng áp",
+          "side": "R",
+          "y": 350,
+          "value": "G-SUIT",
+          "label": "Đồ nén chân NASA",
+          "target": [
+            0.8,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L33",
+      "at": "gia khi chịu",
+      "layout": "{HERO}: mặt cắt lớp da dày và bao cân cơ siêu căng bó chặt như sợi carbon composite",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L34",
+      "at": "dày đặc và",
+      "layout": "{HERO}: mũi tên áp lực ngoại sinh ép ngược lại triệt tiêu áp lực thủy tĩnh nội mạch",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L35",
+      "at": "mạch đang đẩy",
+      "layout": "{HERO}: cơ vòng tiền mao mạch co thắt như van tiết lưu thông minh điều hòa lưu lượng máu",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L36",
+      "at": "kết hợp với",
+      "layout": "{HERO}: hươu đứng vững chãi giữa nắng gắt sa mạc sẵn sàng phi nước đại 50km/h",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L37",
+      "at": 0,
+      "layout": "{HERO}: ánh mắt hươu biến chuyển sắc lạnh đầy sát khí bước vào trận chiến lãnh thổ",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L38",
+      "at": "giao phối tranh",
+      "layout": "{HERO}: hai con hươu đực giao đấu quăng cổ búa tạ Necking với vòng cung khổng lồ",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L39",
+      "at": "nặng với sức",
+      "layout": "{HERO} {ENG}: kỹ sư giơ bản vẽ 7 đốt sống cổ khổng lồ dài 30cm khớp nối linh hoạt",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L40",
+      "at": "Necking, tức là",
+      "layout": "{KID}: bé con đội mũ safari nhòm ống nhòm thấy cặp sừng bọc da đặc xương và xương trán gồ ghề",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L41",
+      "at": "toàn bộ chiếc",
+      "layout": "{HERO}: đồ họa vệt sáng chuyển động cho thấy đầu sọ hươu quất với vận tốc 100km/h xé gió",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L42",
+      "at": "thợ máy ơi,",
+      "layout": "{HERO}: hình ảnh nổ tung động năng: quả tạ xương 20kg nện xuống mạn sườn với lực hàng tấn",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L43",
+      "at": "tới hơn 100km/h",
+      "layout": "{HERO}: tia X quét qua khung xương đối thủ gãy rạn trước uy lực của cú quật búa tạ",
+      "stickers": [
+        {
+          "at": "100km/h",
+          "side": "R",
+          "y": 320,
+          "value": "100 km/h",
+          "label": "Vận tốc búa sừng",
+          "target": [
+            0.8,
+            0.4
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L44",
+      "at": "này tương đương",
+      "layout": "{HERO} {LION}: hươu tung cú đạp hậu sấm sét bằng chiếc chân sau nặng như cột đình hất văng sư tử",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L45",
+      "at": "gục ngã tức",
+      "layout": "{ENG}: kỹ sư đóng dấu đỏ ĐÒN BẨY HẠNG NẶNG vào hồ sơ năng lực chiến đấu của hươu",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L46",
+      "at": 0,
+      "layout": "{HERO} {HEART} {RETE}: bản tổng hợp sơ đồ cơ khí: tim 11kg, mạng xả áp Rete, tất nén chân và đòn bẩy cổ",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L47",
+      "at": "hứng chế tạo",
+      "layout": "{HERO}: hươu vươn cao ngạo nghễ ăn chồi non trên đỉnh cây keo bao báp dưới ánh bình minh rực rỡ",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L48",
+      "at": "tinh tế nhất",
+      "layout": "{HERO}: chân dung hươu trầm tĩnh bất khả chiến bại làm chủ áp lực khắc nghiệt của tự nhiên",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L49",
+      "at": "nhận sống chung",
+      "layout": "{ENG} {ASSISTANT}: kỹ sư và cô trợ lý đứng trên đỉnh núi đón ánh dương chia sẻ bài học về áp lực cuộc sống",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L50",
+      "at": "chúng ta cũng",
+      "layout": "{ENG}: kỹ sư cầm trái tim bánh răng vàng lan tỏa năng lượng bản lĩnh vượt qua thử thách",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L51",
+      "at": "lên vai. Nhưng",
+      "layout": "{HEART} {RETE}: màn hình bình chọn đối kháng: tim 300 mmHg đối đầu mạng lưới xả áp Rete Mirabile",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L52",
+      "at": "cảm xúc, và",
+      "layout": "{ENG} {ASSISTANT} {NAIVE} {KID}: toàn bộ dàn nhân vật vẫy tay chào khán giả và chỉ xuống phần bình luận",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L53",
+      "at": "chống nổ não?",
+      "layout": "NO_HERO: hình bóng bí ẩn của Cò Mỏ Giày đứng bất động trong đầm lầy tiền sử nhá hàng tập sau",
+      "stickers": [],
+      "impacts": []
+    }
+  ],
+  "shorts": [
+    {
+      "id": "S01",
+      "at": 0,
+      "layout": "{HERO_S}: cận cảnh hươu cao cổ cúi đầu uống nước đối diện nguy cơ nổ mạch máu não",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S02",
+      "at": "Hãy nhìn chiếc cổ dài",
+      "layout": "{HERO_S}: toàn cảnh hươu cao cổ 5 mét với thước đo cổ 2 mét vươn cao",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S03",
+      "at": "Để bơm máu đỏ ngược",
+      "layout": "{HEART}: quả tim khổng lồ 11kg bơm áp lực tâm thu 300 mmHg",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S04",
+      "at": "Khi nó hạ đầu rơi",
+      "layout": "{HERO_S}: hươu cúi đầu rơi tự do làm áp lực máu dồn xuống não tăng vọt 500 mmHg",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S05",
+      "at": "Nhưng kỳ diệu thay dưới",
+      "layout": "{RETE}: mạng lưới mạch máu xốp Rete Mirabile dưới đáy sọ hấp thụ xung lực búa nước",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S06",
+      "at": "Khi đầu chúi xuống mạng",
+      "layout": "{HERO_S}: chuỗi van một chiều tĩnh mạch cổ sập chặt ngăn máu đen trào ngược",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S07",
+      "at": "Chưa hết cẳng chân của",
+      "layout": "{HERO_S}: so sánh chân hươu bọc màng cân cơ siêu căng với bộ đồ G-suit phi hành gia NASA",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S08",
+      "at": "Đúng là một tuyệt tác",
+      "layout": "{HERO_S} {ENG}: hươu cao cổ ngẩng cao đầu kiêu hãnh cùng kỹ sư trưởng giơ cúp chiến thắng",
+      "stickers": [],
+      "impacts": []
+    }
+  ]
+}

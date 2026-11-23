@@ -1,0 +1,29 @@
+{
+ "total_duration": 299.541,
+ "parts": {
+  "part0": 9.15,
+  "part1": 23.857,
+  "part2": 27.07,
+  "part3": 9.722,
+  "part4": 23.393,
+  "part5": 19.99,
+  "part6": 10.857,
+  "part7": 9.983,
+  "part8": 21.883,
+  "part9": 11.306,
+  "part10": 7.009,
+  "part11": 12.602,
+  "part12": 13.992,
+  "part13": 19.945,
+  "part14": 18.26,
+  "part15": 9.527,
+  "part16": 3.268,
+  "part17": 5.109,
+  "part18": 3.99,
+  "part19": 3.763,
+  "part20": 3.329,
+  "part21": 13.397,
+  "part22": 9.16
+ },
+ "engine": "voicestudio-omnivoice"
+}

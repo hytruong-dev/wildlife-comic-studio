@@ -1,0 +1,339 @@
+{
+ "episode": "tap-42-ca-thoi-loi",
+ "title_lines": [
+  "CÁ NGẠT THỞ DƯỚI NƯỚC?!",
+  "THỤT MẮT ĐỂ NUỐT MỒI"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 40.85,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-42-ca-thoi-loi_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  7.79,
+  13.95,
+  19.99,
+  25.33,
+  31.03,
+  33.51,
+  40.39
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.54,
+     "text": "Bạn có tin"
+    },
+    {
+     "t": 0.96,
+     "text": "trên đời có"
+    },
+    {
+     "t": 1.5,
+     "text": "một con cá"
+    },
+    {
+     "t": 2.34,
+     "text": "nếu bị ép"
+    },
+    {
+     "t": 2.92,
+     "text": "ở dưới nước"
+    },
+    {
+     "t": 3.4,
+     "text": "quá lâu"
+    },
+    {
+     "t": 4.16,
+     "text": "thì sẽ bị..."
+    },
+    {
+     "t": 4.64,
+     "text": "chết đuối?"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 5.89,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 6.14,
+     "text": "Đây là Cá"
+    },
+    {
+     "t": 6.56,
+     "text": "Thòi Lòi,"
+    },
+    {
+     "t": 7.28,
+     "text": "loài cá chán"
+    },
+    {
+     "t": 7.76,
+     "text": "biển lên cạn"
+    },
+    {
+     "t": 8.3,
+     "text": "sống rải rác"
+    },
+    {
+     "t": 8.94,
+     "text": "khắp các cánh"
+    },
+    {
+     "t": 9.52,
+     "text": "rừng ngập mặn!"
+    },
+    {
+     "t": 10.44,
+     "text": "Mang của gã"
+    },
+    {
+     "t": 11.06,
+     "text": "đã bị thoái"
+    },
+    {
+     "t": 11.56,
+     "text": "hóa nặng,"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 12.05,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S02b.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 12.3,
+     "text": "nhưng bù lại"
+    },
+    {
+     "t": 12.94,
+     "text": "gã hô hấp"
+    },
+    {
+     "t": 13.38,
+     "text": "trực tiếp qua"
+    },
+    {
+     "t": 13.96,
+     "text": "da và vòm"
+    },
+    {
+     "t": 14.64,
+     "text": "họng ẩm ướt"
+    },
+    {
+     "t": 15.28,
+     "text": "để hấp thụ"
+    },
+    {
+     "t": 15.94,
+     "text": "hơn 50%"
+    },
+    {
+     "t": 16.76,
+     "text": "lượng oxy ngoài trời."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 18.09,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 18.34,
+     "text": "Để không bị"
+    },
+    {
+     "t": 18.8,
+     "text": "khô mang,"
+    },
+    {
+     "t": 19.58,
+     "text": "gã hớp đầy"
+    },
+    {
+     "t": 20.0,
+     "text": "nước vào hai"
+    },
+    {
+     "t": 20.56,
+     "text": "má phồng to"
+    },
+    {
+     "t": 21.08,
+     "text": "như hai bình"
+    },
+    {
+     "t": 21.52,
+     "text": "dưỡng khí di"
+    },
+    {
+     "t": 22.02,
+     "text": "động! Chưa hết,"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 23.43,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 23.68,
+     "text": "cặp vây ngực"
+    },
+    {
+     "t": 24.18,
+     "text": "của gã biến"
+    },
+    {
+     "t": 24.72,
+     "text": "tính thành hai"
+    },
+    {
+     "t": 25.32,
+     "text": "cánh tay có"
+    },
+    {
+     "t": 25.8,
+     "text": "khớp khuỷu để"
+    },
+    {
+     "t": 26.52,
+     "text": "chống bùn chạy"
+    },
+    {
+     "t": 27.14,
+     "text": "bộ và leo"
+    },
+    {
+     "t": 27.8,
+     "text": "thoăn thoắt lên"
+    },
+    {
+     "t": 28.36,
+     "text": "rễ cây đước."
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 29.13,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 29.38,
+     "text": "Nhưng dị nhất"
+    },
+    {
+     "t": 30.18,
+     "text": "là đôi mắt"
+    },
+    {
+     "t": 30.72,
+     "text": "lồi trên đỉnh sọ:"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 31.61,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 31.86,
+     "text": "Mỗi khi đớp"
+    },
+    {
+     "t": 32.48,
+     "text": "mồi trên cạn,"
+    },
+    {
+     "t": 33.54,
+     "text": "gã co cơ"
+    },
+    {
+     "t": 34.1,
+     "text": "kéo tụt cả"
+    },
+    {
+     "t": 34.7,
+     "text": "hai nhãn cầu"
+    },
+    {
+     "t": 35.3,
+     "text": "mắt xuống cổ"
+    },
+    {
+     "t": 35.82,
+     "text": "họng để làm"
+    },
+    {
+     "t": 36.72,
+     "text": "chiếc pit-tông ép"
+    },
+    {
+     "t": 37.5,
+     "text": "thức ăn trôi"
+    },
+    {
+     "t": 38.0,
+     "text": "xuống dạ dày,"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 38.49,
+   "draw_s": 1.1,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 38.74,
+     "text": "vừa làm ẩm"
+    },
+    {
+     "t": 39.34,
+     "text": "mắt vừa nuốt"
+    },
+    {
+     "t": 39.94,
+     "text": "mồi trong tích tắc!"
+    }
+   ]
+  }
+ ]
+}

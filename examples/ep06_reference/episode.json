@@ -1,0 +1,128 @@
+{
+ "episode_no": 6,
+ "animal": "Gấu Nước",
+ "slug": "tap-06-gau-nuoc",
+ "whisper_prompt": "Gấu Nước Tardigrade bất tử, âm 272 độ C, 150 độ C, Ma-ri-a-na, Gray, ốc sên, Mặt Trăng, Bê-rê-shít",
+ "display_fix": {
+  "Ma-ri-a-na": "Mariana",
+  "Bê-rê-shít": "Beresheet",
+  "E-vơ-rét": "Everest",
+  "T-D-Ps": "TDP",
+  "A-T-K": "ATK",
+  "S-P-D": "SPD",
+  "D-E-F": "DEF",
+  "D-súp": "Dsup"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "chapter_title": "Kẻ sống sót cuối cùng của Trái Đất",
+    "hook": "",
+    "parts": [
+     "Nếu ngày mai một quả thiên thạch khổng lồ đâm sầm vào Trái Đất, xóa sổ toàn bộ loài người, khủng long hay muôn loài thú dữ, bạn nghĩ sinh vật nào sẽ là kẻ sống sót cuối cùng? Không phải gián, cũng chẳng phải chuột chũi. Đó là một sinh vật dài chưa đầy một mi-li-mét trông giống hệt một chú gấu bông tám chân bước ra từ phim hoạt hình: Gấu Nước Tardigrade! Nhìn qua kính hiển vi, chú ta béo tròn núc ních, ngọ nguậy tám cái chân ngắn củn như một chú lợn con đội mũ phi hành gia. Các nhà khoa học phương Tây âu yếm gọi nó là chú gấu con trong đám rêu vì dáng đi lạch bạch vô cùng vụng về và đáng yêu. Nhưng ẩn sau vẻ ngoài ngơ ngác đó là sinh vật duy nhất trên hành tinh này từng sống sót qua cả năm cuộc đại tuyệt chủng lịch sử! Nó trơ trơ trước nhiệt độ âm 272 độ C của vũ trụ, lội qua nước sôi 150 độ C, và chịu áp suất khủng khiếp gấp sáu lần nơi sâu nhất của rãnh Ma-ri-a-na! Thậm chí vào năm 2007, người ta phóng hàng ngàn con gấu nước bay trần trụi ngoài không gian vũ trụ suốt mười ngày. Khi đem về tưới một giọt nước, chúng tỉnh dậy, ăn uống và sinh con như chưa từng có chuyện gì xảy ra! Nhưng bi hài thay, kẻ thách thức cả Thần Chết này lại có thể mất mạng chỉ vì một con ốc sên bò ngang qua!",
+     "Trong sứ mệnh Foton M3 do Cơ quan Vũ trụ Châu Âu tiến hành, các nhà khoa học đã cố tình để những chú gấu nước tiếp xúc trực tiếp với bức xạ tử ngoại mặt trời mạnh gấp một ngàn lần so với trên bề mặt Trái Đất. Không gian chân không vũ trụ lạnh lẽo và bức xạ gay gắt đã giết chết gần như mọi vi khuẩn khác ngay lập tức, nhưng phần lớn gấu nước sau khi trở về Trái Đất vẫn đẻ trứng và nở ra thế hệ con cháu hoàn toàn khỏe mạnh!"
+    ]
+   },
+   {
+    "id": "scene02",
+    "chapter_title": "Bảng chỉ số RPG — lỗi game tiến hóa",
+    "hook": "Được tạo hóa buff chỉ số đến mức vô lý",
+    "parts": [
+     "Để hiểu vì sao giới khoa học gọi Gấu Nước là nhân vật lỗi game được tạo hóa buff chỉ số sinh tồn đến mức vô lý, hãy nhìn vào Bảng Chỉ Số RPG Sinh Tồn của nó: Sức mạnh tấn công A-T-K: 5 trên 100. Tốc độ di chuyển S-P-D: 2 trên 100, bò cả ngày không nổi vài xăng-ti-mét! Nhưng hãy nhìn sang cột phòng ngự: Chỉ số phòng thủ D-E-F: 9999 trên 100! Khả năng chịu lạnh: âm 272 độ C, điểm mà mọi chuyển động nguyên tử gần như đóng băng! Khả năng chịu nhiệt: 150 độ C, nướng trong lò nướng bánh ngọt vẫn không hề hấn gì! Khả năng kháng phóng xạ hạt nhân: 5000 đến 6000 Gray! Bạn nên biết, chỉ cần một liều phóng xạ 5 Gray là đã đủ tiễn một người trưởng thành về với tổ tiên. Vậy mà Gấu Nước có thể thản nhiên tắm trong chùm tia X-quang mạnh gấp một ngàn lần liều chết người đó! Và tuyệt chiêu tối thượng mang tên Cryptobiosis, tức Trạng Thái Ngủ Đông Thủy Tinh Hóa: 100 trên 100! Khi đối mặt hiểm họa diệt vong, nó tự rút 99 phần trăm nước ra khỏi cơ thể, biến thành một hạt bụi thủy tinh bất động và có thể ngủ đông suốt 30 năm trời!",
+     "Để dễ hình dung sức chịu đựng này, nếu bạn đưa một con gấu nước xuống đáy vực Ma-ri-a-na ở độ sâu mười một ngàn mét, áp suất ở đó lên tới một ngàn atmosphere, đủ để ép bẹp một chiếc xe tải bọc thép như vỏ lon nước ngọt. Thế nhưng gấu nước vẫn có thể chịu được áp suất cao gấp sáu lần con số đó, tức là sáu ngàn atmosphere! Các nhà vật lý học thậm chí đã bắn gấu nước ra khỏi nòng súng cao tốc với vận tốc gần ba ngàn cây số một giờ, tương đương với một vụ va chạm thiên thạch cực mạnh, vậy mà khi chạm đích, chúng vẫn sống sót nguyên vẹn!"
+    ]
+   },
+   {
+    "id": "scene03",
+    "chapter_title": "Tuyệt kỹ thủy tinh hóa (Cryptobiosis)",
+    "hook": "Ngừng sống — nhưng không hề chết",
+    "parts": [
+     "Mọi sinh vật sống trên Trái Đất đều cần nước để duy trì tế bào; nếu bạn mất nước, tế bào sẽ teo tóp, ADN vỡ vụn và bạn sẽ qua đời. Nhưng Gấu Nước thì bảo: Nước hả? Quên nó đi! Khi môi trường xung quanh khô cạn, nó kích hoạt quy trình thu mình cực hạn, co rút tám cái chân vào bụng tạo thành một cái kén tròn xoe gọi là Trạng thái Tun. Bí mật giúp nó không bị vỡ tế bào nằm ở một loại protein đặc biệt gọi là T-D-Ps, tức Protein vô định hình của Gấu Nước. Thay vì để tế bào bị sụp đổ, các phân tử protein này tự đan xen lại với nhau, biến toàn bộ nội tạng và ADN của nó thành một khối thủy tinh sinh học cứng cáp, cố định mọi cấu trúc mong manh như tượng sáp! Ở trạng thái này, mọi hoạt động trao đổi chất của Gấu Nước giảm xuống chỉ còn 0,01 phần trăm so với bình thường, về cơ bản, nó đã chính thức ngừng sống nhưng lại không hề chết! Bức xạ hạt nhân chiếu vào không phá được ADN vì nó được bọc bởi tấm khiên protein D-súp độc nhất vô nhị. Cứ thế, cái hạt bụi thủy tinh tí hon này có thể nằm im lìm trong cát sa mạc, đóng băng dưới đáy sông băng Nam Cực suốt ba thập kỷ. Chỉ cần bạn nhỏ vào đó một giọt nước lọc, chỉ sau ba mươi phút, khối thủy tinh tan ra, tế bào ngậm nước trở lại và chú gấu nước lồm cồm bò dậy, vươn vai đi tìm rêu ăn như vừa thức dậy sau giấc ngủ trưa!",
+     "Điều kỳ diệu nhất ở phân tử protein T-D-Ps của gấu nước là chúng không có cấu trúc cố định khi ở trong nước. Nhưng ngay khoảnh khắc nước bốc hơi, chúng lập tức khóa chặt lại, biến thành một mạng lưới vô định hình bao bọc toàn bộ phân tử ADN và màng tế bào. Cơ chế này giống hệt như việc bạn đổ nhựa thông lỏng lên một bông hoa mỏng manh để giữ nó tươi nguyên vẹn suốt hàng trăm năm mà không bị thối rữa hay biến dạng! Nhờ phát hiện chấn động này, các nhà khoa học đang thử nghiệm ứng dụng gen của gấu nước để bảo quản vắc-xin và thuốc sinh học ở nhiệt độ phòng mà không cần tủ đông chuyên dụng."
+    ]
+   },
+   {
+    "id": "scene04",
+    "chapter_title": "Gót chân A-sin của kẻ bất tử",
+    "hook": "Tạo hóa có khiếu hài hước rất cay nghiệt",
+    "parts": [
+     "Nghe đến đây, bạn hẳn sẽ nghĩ Gấu Nước là vị thần bất tử vô đối không có đối thủ đúng không? Nhưng tạo hóa luôn có khiếu hài hước rất cay nghiệt! Tất cả những siêu năng lực thần thánh kia chỉ kích hoạt khi nó kịp thời co mình vào trạng thái Tun. Còn khi nó đang bơi lội, ăn uống tung tăng bình thường thì nó mong manh dễ vỡ như một hạt đậu! Điểm yếu bi hài số một: Chất nhầy của loài ốc sên! Một nghiên cứu khoa học đã phát hiện ra rằng, nếu một con ốc sên tình cờ bò ngang qua đám rêu nơi gấu nước đang nằm, lớp chất nhờn đặc quánh của ốc sên sẽ phủ kín cơ thể gấu nước, bịt nghẽn hoàn toàn đường hô hấp và khiến nó ngạt thở chết ngay lập tức! Điểm yếu số hai: Nó không hề có vỏ giáp cơ học chống lại kẻ săn mồi. Trong thế giới vi mô, một con giun tròn nhỏ bé hay một con bọ ve rêu chỉ cần ngoạm một phát là có thể nhai ngấu nghiến gấu nước như một viên kẹo dẻo mọng nước. Kháng được bom nguyên tử nhưng lại thua một cú cắn của con giun! Và trớ trêu nhất: Khủng hoảng nóng lên toàn cầu! Các thí nghiệm năm 2020 chứng minh rằng nếu nhiệt độ nước tăng lên trên 37,6 độ C kéo dài trong 24 giờ, gấu nước đang hoạt động sẽ chết với tỷ lệ lên tới 50 phần trăm vì không kịp chuyển hóa sang trạng thái Tun. Bất tử ngoài vũ trụ nhưng lại chết vì nước tắm quá ấm!",
+     "Chính vì toàn bộ năng lượng tiến hóa của gấu nước đều dồn hết vào cơ chế phòng ngự cực đoan khi ngủ đông, nên cơ thể sống hàng ngày của nó lại cực kỳ mỏng manh. Nó không có lớp vỏ ki-tin cứng cáp như loài bọ cánh cứng, cũng không có nọc độc hay càng kẹp để tự vệ. Trong thế giới của một giọt sương trên lá rêu, gấu nước thực chất là một con mồi béo bở, chậm chạp và dễ bị bắt nạt nhất. Một con bọ đuôi bật hay một ấu trùng ruồi nhỏ cũng có thể xé toạc lớp màng mỏng manh của nó chỉ trong tích tắc nếu nó không kịp co mình lại!"
+    ]
+   },
+   {
+    "id": "scene05",
+    "chapter_title": "Gấu Nước đang nằm trên Mặt Trăng",
+    "hook": "Vụ tai nạn vũ trụ có thật năm 2019",
+    "parts": [
+     "Bạn có biết rằng hiện tại, ngay lúc bạn đang xem video này, có thể có hàng ngàn con Gấu Nước đang nằm rải rác trên bề mặt Mặt Trăng không? Đây hoàn toàn không phải chuyện viễn tưởng mà là một sự cố có thật chấn động lịch sử thám hiểm vũ trụ năm 2019! Vào tháng 4 năm 2019, tàu đổ bộ vũ trụ Bê-rê-shít của Israel được phóng lên Mặt Trăng. Bên trong tàu mang theo một kho lưu trữ sinh học chứa hàng ngàn cá thể Gấu Nước đã được đưa về trạng thái ngủ đông Tun để thử nghiệm khả năng lưu trữ sự sống ngoài Trái Đất. Nhưng một trục trặc động cơ ở phút chót đã khiến con tàu lao thẳng xuống bề mặt Mặt Trăng với vận tốc gần 500 cây số một giờ và phát nổ tan tành! Vỏ tàu vỡ nát, nhưng khoang chứa gấu nước siêu bền đã bung ra, gieo rắc hàng ngàn hạt mầm gấu nước thủy tinh khắp vùng miệng núi lửa Mặt Trăng! Vì Mặt Trăng không có khí quyển, nhiệt độ dao động từ âm 170 đến dương 120 độ C, đúng mức nhiệt mà Gấu Nước Tun hoàn toàn có thể chịu đựng được. Giới khoa học tin rằng hàng ngàn chú gấu nước Trái Đất vẫn đang nằm ngủ yên bình trên lớp cát bụi Mặt Trăng, chờ một ngày phi hành gia tới nhỏ một giọt nước hồi sinh!",
+     "Vụ tai nạn của tàu Bê-rê-shít đã làm dấy lên một cuộc tranh luận đạo đức và khoa học dữ dội trên toàn thế giới: Liệu con người có vô tình làm ô nhiễm Mặt Trăng bằng sự sống Trái Đất hay không? Mặc dù gấu nước trên Mặt Trăng không thể tự thức dậy vì hoàn toàn không có nước lỏng và oxy, nhưng chúng vẫn nằm đó như những hạt mầm ngủ đông vĩnh cửu. Nếu một ngày nào đó căn cứ Mặt Trăng của nhân loại được xây dựng, rất có thể những nhà du hành vũ trụ đầu tiên sẽ tìm thấy những chú gấu nước này và đón chúng trở về trong phòng thí nghiệm!",
+     "Các nhà sinh học vũ trụ nhận định rằng, gấu nước trên Mặt Trăng có thể tồn tại trong trạng thái ngủ đông này tới hàng trăm năm. Dù không có bầu khí quyển bảo vệ, lớp bụi regolith trên bề mặt Mặt Trăng lại vô tình đóng vai trò như một tấm chăn che chắn bớt bức xạ vũ trụ, biến nơi đây thành một bảo tàng sự sống tự nhiên kỳ lạ nhất trong toàn bộ hệ Mặt Trời của chúng ta!"
+    ]
+   },
+   {
+    "id": "scene06",
+    "chapter_title": "Bài học sinh tồn từ Gấu Nước",
+    "hook": "Kẻ kiên cường mới là kẻ sống sót",
+    "parts": [
+     "Từ đáy vực sâu tăm tối, trên đỉnh núi băng E-vơ-rét đến cả bề mặt Mặt Trăng, Gấu Nước đã chứng minh một triết lý sinh tồn vĩ đại của tự nhiên: Bạn không cần phải to lớn, hung dữ hay mọc nanh vuốt nhọn hoắt để trở thành kẻ bất tử; đôi khi, biết cách thu mình, kiên nhẫn chờ đợi cơn bão qua đi mới là đỉnh cao của sự thích nghi! Bạn ấn tượng nhất với khả năng nào của chú gấu nước: Chịu phóng xạ hạt nhân hay màn đổ bộ lên Mặt Trăng? Hãy bình luận bên dưới nhé! Và ở tập tiếp theo, chúng ta sẽ lặn xuống đáy đại dương để diện kiến võ sĩ quyền anh có cú đấm nổ tung mặt kính bể cá: Tôm Tít Mantis Shrimp!",
+     "Tự nhiên không tạo ra kẻ mạnh nhất, mà tạo ra kẻ kiên cường và biết thích nghi nhất. Gấu Nước nhắc nhở chúng ta rằng, đôi khi giữa những biến cố khủng khiếp nhất của cuộc đời, lùi lại một bước, giữ vững giá trị cốt lõi bên trong và kiên nhẫn chờ thời cơ sẽ giúp bạn vượt qua mọi giông bão. Nếu bạn thấy video hôm nay thú vị và mở mang thêm nhiều kiến thức bổ ích, đừng quên bấm nút Thích, Đăng ký kênh và nhấn Chuông thông báo để không bỏ lỡ tập 7 về Tôm Tít nhé!"
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "text": "Chỉ một con ốc sên nhỏ bé cũng đủ hạ gục kẻ bất tử này ngay lập tức! Dù đây là sinh vật duy nhất trên Trái Đất sống sót qua cả năm cuộc đại tuyệt chủng từng xóa sổ loài khủng long! Chỉ dài nửa mi-li-mét bằng một dấu chấm câu, nhưng Gấu Nước chịu được cái lạnh âm hai trăm bảy mươi hai độ C, nước sôi một trăm năm mươi độ, và từng bị ném trần trụi ra ngoài vũ trụ suốt mười ngày mà vẫn về Trái Đất đẻ con bình thường! Bí mật nằm ở tuyệt kỹ rút chín mươi chín phần trăm nước khỏi cơ thể, tiết chất đạm biến nội tạng thành một khối thủy tinh bất hoại! Chỉ cần nhỏ một giọt nước, nó lập tức sống dậy sau ba mươi năm đóng băng! Thế nhưng, vì quá trình hóa thủy tinh mất tới vài tiếng đồng hồ để chuẩn bị, nên khi một con ốc sên bất ngờ bò qua đám rêu và nuốt gọn, vị thần bất tử này hoàn toàn không kịp biến hình! Bí ẩn về hàng ngàn chú Gấu Nước đang nằm trên Mặt Trăng đã có ở video dài bên dưới kênh. Dù bất tử ngoài vũ trụ nhưng trước một con ốc sên, nó vẫn sẽ tiêu đời ngay lập tức! Bấm xem ngay nhé!"
+ },
+ "seo": {
+  "title": "Sống Sót 5 Lần Tận Thế... Nhưng Chết Vì Một Con Ốc Sên! | Gấu Nước | Tập 6",
+  "hook_paragraph": "Gấu Nước (Tardigrade) nhỏ hơn hạt cát, chịu được âm 272°C, nước sôi 150°C, phóng xạ gấp 1.000 lần liều chết người và từng bị thả trần trụi ngoài vũ trụ 10 ngày mà vẫn sống. Vậy mà một con ốc sên lại có thể giết chết nó! Và ngay lúc này, hàng ngàn con Gấu Nước đang nằm ngủ trên Mặt Trăng...",
+  "bullets": [
+   "Vì sao Gấu Nước sống sót qua cả 5 cuộc đại tuyệt chủng",
+   "Protein TDP biến cơ thể thành \"thủy tinh\", Dsup che chắn ADN khỏi phóng xạ",
+   "3 điểm yếu bi hài: chất nhầy ốc sên, giun tròn và… nước hơi ấm 37,6°C",
+   "Vụ rơi tàu Beresheet năm 2019 rải Gấu Nước lên Mặt Trăng"
+  ],
+  "question": "Nếu có siêu năng lực ngủ đông như Gấu Nước, bạn muốn thức dậy vào năm nào? Bình luận cho mình biết nhé!",
+  "next_teaser": "Tôm Tít — cú đấm nhanh như đạn bắn!",
+  "hashtags": [
+   "#GauNuoc",
+   "#Tardigrade",
+   "#TheGioiDongVat",
+   "#VeChuyenHoangDa",
+   "#KhoaHoc"
+  ],
+  "tags": [
+   "gấu nước",
+   "tardigrade",
+   "gau nuoc",
+   "water bear",
+   "sinh vật bất tử",
+   "sinh vật bất tử nhất trái đất",
+   "gấu nước mặt trăng",
+   "gấu nước ốc sên",
+   "cryptobiosis",
+   "động vật kỳ lạ",
+   "thế giới động vật",
+   "khám phá động vật",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị",
+   "beresheet",
+   "đại tuyệt chủng"
+  ],
+  "shorts_title": "Bất Tử Ngoài Vũ Trụ Nhưng Chết Vì Ốc Sên?! 🐌 #shorts #gaunuoc",
+  "shorts_desc": "Sống qua 5 cuộc đại tuyệt chủng, chịu âm 272°C và nước sôi 150°C… nhưng Gấu Nước lại thua một con ốc sên! 🐌\n👉 Xem bản đầy đủ: hàng ngàn Gấu Nước đang nằm trên Mặt Trăng — video Tập 6 trên kênh Vẽ Chuyện Hoang Dã.",
+  "shorts_tags": [
+   "gấu nước",
+   "tardigrade",
+   "sinh vật bất tử",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã",
+   "động vật kỳ lạ"
+  ]
+ }
+}

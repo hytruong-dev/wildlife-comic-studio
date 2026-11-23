@@ -1,0 +1,74 @@
+{
+  "title_lines": [
+    "30.000 MŨI TÊN",
+    "TỰ RÚT SÂU?!"
+  ],
+  "beats": [
+    {
+      "at_s": 0.0,
+      "draw_s": 1.0,
+      "image": "assets/shorts/S01.png",
+      "stickers": []
+    },
+    {
+      "at": "gục cả một con",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S02.png",
+      "stickers": [
+        {
+          "at": "30.000",
+          "side": "R",
+          "y": 540,
+          "value": "30.000 GAI",
+          "label": "VŨ KHÍ TỰ VỆ",
+          "target": [
+            350,
+            600
+          ]
+        }
+      ]
+    },
+    {
+      "at": "hoàn toàn không hề",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S03.png",
+      "stickers": []
+    },
+    {
+      "at": "chiếc lông nhím chứa",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S04.png",
+      "stickers": []
+    },
+    {
+      "at": "nép sát giúp giảm",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S05.png",
+      "stickers": []
+    },
+    {
+      "at": "Đáng sợ hơn cả,",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S06.png",
+      "stickers": []
+    },
+    {
+      "at": "bên trong cơ thể",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S07.png",
+      "stickers": []
+    },
+    {
+      "at": "còn phủ lớp mỡ",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S08.png",
+      "stickers": []
+    },
+    {
+      "at": "Một cỗ máy bọc thép",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S08b.png",
+      "stickers": []
+    }
+  ]
+}

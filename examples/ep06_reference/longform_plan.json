@@ -1,0 +1,793 @@
+{
+ "targets": {
+  "ICE": [
+   0.19,
+   0.45
+  ],
+  "HOT": [
+   0.58,
+   0.62
+  ],
+  "COLD": [
+   0.25,
+   0.6
+  ],
+  "HOTMOON": [
+   0.68,
+   0.7
+  ]
+ },
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "KẺ SỐNG SÓT CUỐI CÙNG CỦA TRÁI ĐẤT",
+   "hook": "",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/gemini_downloaded/scene01_01_meteor_extinction_survivor.png",
+     "stickers": [],
+     "impacts": [
+      "đâm sầm"
+     ]
+    },
+    {
+     "at": "Không phải gián",
+     "image": "assets/gemini_downloaded_long/L01.png",
+     "stickers": [
+      {
+       "at": "chưa đầy một",
+       "side": "R",
+       "y": 380,
+       "value": "< 1 mm",
+       "label": "nhỏ hơn hạt cát"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhìn qua kính hiển vi",
+     "image": "assets/gemini_downloaded/scene01_02_microscopic_cute_water_bear.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học phương",
+     "image": "assets/gemini_downloaded_long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng ẩn sau",
+     "image": "assets/gemini_downloaded_long/L03.png",
+     "stickers": [
+      {
+       "at": "năm cuộc đại",
+       "side": "R",
+       "y": 420,
+       "value": "5 LẦN",
+       "label": "đại tuyệt chủng"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nó trơ trơ",
+     "image": "assets/gemini_downloaded/scene01_03_extreme_endurance_triad.png",
+     "stickers": [
+      {
+       "at": "âm 272",
+       "side": "L",
+       "y": 330,
+       "value": "-272°C",
+       "label": "lạnh vũ trụ",
+       "target": "ICE"
+      },
+      {
+       "at": "nước sôi 150",
+       "side": "R",
+       "y": 330,
+       "value": "150°C",
+       "label": "nước sôi",
+       "target": "HOT"
+      },
+      {
+       "at": "gấp sáu lần",
+       "side": "R",
+       "y": 610,
+       "value": "x6",
+       "label": "áp suất Mariana"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí vào năm 2007",
+     "image": "assets/gemini_downloaded_long/L17.png",
+     "stickers": [
+      {
+       "at": "mười ngày",
+       "side": "L",
+       "y": 420,
+       "value": "10 NGÀY",
+       "label": "trần trụi ngoài vũ trụ"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi đem về tưới",
+     "image": "assets/gemini_downloaded/scene03_04_revival_single_water_drop.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng bi hài thay",
+     "image": "assets/gemini_downloaded_long/L07.png",
+     "stickers": [],
+     "impacts": [
+      "ốc sên bò"
+     ]
+    },
+    {
+     "at": "Trong sứ mệnh Foton",
+     "image": "assets/gemini_downloaded/scene01_04_space_vacuum_foton_mission.png",
+     "stickers": [
+      {
+       "at": "gấp một ngàn lần",
+       "side": "R",
+       "y": 420,
+       "value": "x1.000",
+       "label": "tia UV Mặt Trời"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Không gian chân không",
+     "image": "assets/gemini_downloaded_long/L02.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "BẢNG CHỈ SỐ RPG — LỖI GAME TIẾN HÓA",
+   "hook": "Được tạo hóa buff chỉ số đến mức vô lý",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/gemini_downloaded_long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sức mạnh tấn công",
+     "image": "assets/gemini_downloaded/scene02_01_rpg_card_atk_spd_low.png",
+     "stickers": [
+      {
+       "at": "5 trên 100",
+       "side": "L",
+       "y": 330,
+       "value": "ATK 5",
+       "label": "yếu xìu"
+      },
+      {
+       "at": "2 trên 100",
+       "side": "L",
+       "y": 600,
+       "value": "SPD 2",
+       "label": "chậm như rùa"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng hãy nhìn sang cột",
+     "image": "assets/gemini_downloaded/scene02_02_rpg_card_def_max_temperature.png",
+     "stickers": [
+      {
+       "at": "9999 trên 100",
+       "side": "R",
+       "y": 420,
+       "value": "DEF 9999",
+       "label": "phòng thủ vô lý"
+      }
+     ],
+     "impacts": [
+      "9999 trên 100"
+     ]
+    },
+    {
+     "at": "Khả năng chịu lạnh",
+     "image": "assets/gemini_downloaded/scene01_03_extreme_endurance_triad.png",
+     "stickers": [
+      {
+       "at": "âm 272 độ C, điểm",
+       "side": "L",
+       "y": 330,
+       "value": "-272°C",
+       "label": "chịu lạnh",
+       "target": "ICE"
+      },
+      {
+       "at": "150 độ C, nướng",
+       "side": "R",
+       "y": 330,
+       "value": "150°C",
+       "label": "chịu nhiệt",
+       "target": "HOT"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khả năng kháng phóng xạ",
+     "image": "assets/gemini_downloaded/scene02_03_radiation_lethal_dose_comparison.png",
+     "stickers": [
+      {
+       "at": "5000 đến 6000",
+       "side": "R",
+       "y": 330,
+       "value": "6.000 Gray",
+       "label": "gấu nước chịu được"
+      },
+      {
+       "at": "liều phóng xạ 5 Gray",
+       "side": "L",
+       "y": 330,
+       "value": "5 Gray",
+       "label": "đủ giết người"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Vậy mà Gấu Nước có thể thản",
+     "image": "assets/gemini_downloaded_long/L08.png",
+     "stickers": [
+      {
+       "at": "gấp một ngàn lần",
+       "side": "R",
+       "y": 420,
+       "value": "x1.000",
+       "label": "liều chết người"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và tuyệt chiêu tối thượng",
+     "image": "assets/gemini_downloaded/scene02_04_rpg_cryptobiosis_tun_state.png",
+     "stickers": [
+      {
+       "at": "100 trên 100",
+       "side": "R",
+       "y": 420,
+       "value": "100/100",
+       "label": "Cryptobiosis"
+      }
+     ],
+     "impacts": [
+      "100 trên 100"
+     ]
+    },
+    {
+     "at": "Khi đối mặt hiểm họa",
+     "image": "assets/gemini_downloaded/scene03_01_water_desiccation_process.png",
+     "stickers": [
+      {
+       "at": "99 phần trăm",
+       "side": "L",
+       "y": 330,
+       "value": "99%",
+       "label": "nước bị rút ra"
+      },
+      {
+       "at": "30 năm trời",
+       "side": "R",
+       "y": 600,
+       "value": "30 NĂM",
+       "label": "ngủ đông"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Để dễ hình dung",
+     "image": "assets/gemini_downloaded_long/L04.png",
+     "stickers": [
+      {
+       "at": "mười một ngàn mét",
+       "side": "L",
+       "y": 330,
+       "value": "11.000 m",
+       "label": "đáy Mariana"
+      },
+      {
+       "at": "một ngàn atmosphere",
+       "side": "R",
+       "y": 330,
+       "value": "1.000 atm",
+       "label": "ép bẹp xe tải"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thế nhưng gấu nước vẫn",
+     "image": "assets/gemini_downloaded_long/L27.png",
+     "stickers": [
+      {
+       "at": "sáu ngàn atmosphere",
+       "side": "R",
+       "y": 420,
+       "value": "6.000 atm",
+       "label": "vẫn sống!"
+      }
+     ],
+     "impacts": [
+      "sáu ngàn atmosphere"
+     ]
+    },
+    {
+     "at": "Các nhà vật lý học",
+     "image": "assets/gemini_downloaded_long/L05.png",
+     "stickers": [
+      {
+       "at": "ba ngàn cây số",
+       "side": "L",
+       "y": 420,
+       "value": "3.000 km/h",
+       "label": "bắn ra từ súng"
+      }
+     ],
+     "impacts": [
+      "chạm đích"
+     ]
+    }
+   ]
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "TUYỆT KỸ THỦY TINH HÓA",
+   "hook": "Ngừng sống — nhưng không hề chết",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/gemini_downloaded_long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng Gấu Nước thì bảo",
+     "image": "assets/gemini_downloaded/scene02_04_rpg_cryptobiosis_tun_state.png",
+     "stickers": [
+      {
+       "at": "Trạng thái Tun",
+       "side": "R",
+       "y": 420,
+       "value": "TUN",
+       "label": "kén ngủ đông"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bí mật giúp nó",
+     "image": "assets/gemini_downloaded/scene03_02_tdp_amorphous_glass_matrix.png",
+     "stickers": [
+      {
+       "at": "TDP, tức",
+       "side": "L",
+       "y": 420,
+       "value": "TDP",
+       "label": "protein vô định hình"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thay vì để tế bào",
+     "image": "assets/gemini_downloaded_long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở trạng thái này",
+     "image": "assets/gemini_downloaded_long/L25.png",
+     "stickers": [
+      {
+       "at": "0,01 phần trăm",
+       "side": "R",
+       "y": 420,
+       "value": "0,01%",
+       "label": "trao đổi chất"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bức xạ hạt nhân chiếu",
+     "image": "assets/gemini_downloaded/scene03_03_dsup_protein_radiation_shield.png",
+     "stickers": [
+      {
+       "at": "Dsup",
+       "side": "L",
+       "y": 420,
+       "value": "Dsup",
+       "label": "khiên chắn ADN"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cứ thế, cái hạt",
+     "image": "assets/gemini_downloaded_long/L29.png",
+     "stickers": [
+      {
+       "at": "ba thập kỷ",
+       "side": "R",
+       "y": 420,
+       "value": "30 NĂM",
+       "label": "ngủ trong băng"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ cần bạn nhỏ",
+     "image": "assets/gemini_downloaded_long/L11.png",
+     "stickers": [
+      {
+       "at": "ba mươi phút",
+       "side": "L",
+       "y": 420,
+       "value": "30 PHÚT",
+       "label": "là sống lại"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Điều kỳ diệu nhất",
+     "image": "assets/gemini_downloaded_long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cơ chế này giống hệt",
+     "image": "assets/gemini_downloaded_long/L06.png",
+     "stickers": [
+      {
+       "at": "hàng trăm năm",
+       "side": "R",
+       "y": 420,
+       "value": "100+ NĂM",
+       "label": "tươi nguyên vẹn"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ phát hiện chấn động",
+     "image": "assets/gemini_downloaded_long/L12.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "GÓT CHÂN A-SIN CỦA KẺ BẤT TỬ",
+   "hook": "Tạo hóa có khiếu hài hước rất cay nghiệt",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/gemini_downloaded/scene04_01_superhero_vs_glass_fragile.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tất cả những siêu năng lực",
+     "image": "assets/gemini_downloaded_long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Điểm yếu bi hài số một",
+     "image": "assets/gemini_downloaded_long/L38.png",
+     "stickers": [
+      {
+       "at": "Điểm yếu bi hài",
+       "side": "R",
+       "y": 380,
+       "value": "#1",
+       "label": "chất nhầy ốc sên"
+      }
+     ],
+     "impacts": [
+      "Điểm yếu bi hài"
+     ]
+    },
+    {
+     "at": "Một nghiên cứu khoa học",
+     "image": "assets/gemini_downloaded/scene04_02_snail_slime_lethal_trap.png",
+     "stickers": [],
+     "impacts": [
+      "ngạt thở chết"
+     ]
+    },
+    {
+     "at": "Điểm yếu số hai",
+     "image": "assets/gemini_downloaded/scene04_03_nematode_worm_predator_snack.png",
+     "stickers": [
+      {
+       "at": "Điểm yếu số hai",
+       "side": "L",
+       "y": 380,
+       "value": "#2",
+       "label": "không có giáp"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Kháng được bom",
+     "image": "assets/gemini_downloaded_long/L22.png",
+     "stickers": [],
+     "impacts": [
+      "cú cắn"
+     ]
+    },
+    {
+     "at": "Và trớ trêu nhất",
+     "image": "assets/gemini_downloaded/scene04_04_global_warming_water_temp.png",
+     "stickers": [
+      {
+       "at": "trớ trêu nhất",
+       "side": "L",
+       "y": 330,
+       "value": "#3",
+       "label": "nóng lên toàn cầu"
+      },
+      {
+       "at": "37,6 độ C",
+       "side": "R",
+       "y": 330,
+       "value": "37,6°C",
+       "label": "nước hơi ấm"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "gấu nước đang hoạt động sẽ chết",
+     "image": "assets/gemini_downloaded/scene04_01_superhero_vs_glass_fragile.png",
+     "stickers": [
+      {
+       "at": "50 phần trăm",
+       "side": "R",
+       "y": 420,
+       "value": "50%",
+       "label": "chết"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bất tử ngoài vũ trụ",
+     "image": "assets/gemini_downloaded_long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chính vì toàn bộ",
+     "image": "assets/gemini_downloaded_long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó không có lớp vỏ",
+     "image": "assets/gemini_downloaded_long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong thế giới của một giọt",
+     "image": "assets/gemini_downloaded_long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một con bọ đuôi bật",
+     "image": "assets/gemini_downloaded_long/L20.png",
+     "stickers": [],
+     "impacts": [
+      "xé toạc"
+     ]
+    }
+   ]
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "GẤU NƯỚC ĐANG NẰM TRÊN MẶT TRĂNG",
+   "hook": "Vụ tai nạn vũ trụ có thật năm 2019",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/gemini_downloaded_long/L26.png",
+     "stickers": [
+      {
+       "at": "năm 2019!",
+       "side": "R",
+       "y": 420,
+       "value": "2019",
+       "label": "sự cố có thật"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Vào tháng 4",
+     "image": "assets/gemini_downloaded/scene05_01_beresheet_moon_lander_launch.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bên trong tàu mang",
+     "image": "assets/gemini_downloaded_long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng một trục trặc",
+     "image": "assets/gemini_downloaded/scene05_02_moon_crash_explosion_debris.png",
+     "stickers": [
+      {
+       "at": "500 cây số",
+       "side": "L",
+       "y": 420,
+       "value": "500 km/h",
+       "label": "lao xuống"
+      }
+     ],
+     "impacts": [
+      "phát nổ"
+     ]
+    },
+    {
+     "at": "Vỏ tàu vỡ nát",
+     "image": "assets/gemini_downloaded/scene05_03_tardigrades_scattered_moon_craters.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vì Mặt Trăng không",
+     "image": "assets/gemini_downloaded_long/L23.png",
+     "stickers": [
+      {
+       "at": "âm 170",
+       "side": "L",
+       "y": 330,
+       "value": "-170°C",
+       "label": "đêm",
+       "target": "COLD"
+      },
+      {
+       "at": "dương 120",
+       "side": "R",
+       "y": 330,
+       "value": "+120°C",
+       "label": "ngày",
+       "target": "HOTMOON"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Giới khoa học tin",
+     "image": "assets/gemini_downloaded/scene05_04_astronaut_water_revival_dream.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vụ tai nạn của tàu",
+     "image": "assets/gemini_downloaded_long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mặc dù gấu nước trên",
+     "image": "assets/gemini_downloaded_long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu một ngày nào đó",
+     "image": "assets/gemini_downloaded_long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà sinh học vũ trụ",
+     "image": "assets/gemini_downloaded_long/L39.png",
+     "stickers": [
+      {
+       "at": "hàng trăm năm",
+       "side": "R",
+       "y": 420,
+       "value": "100+ NĂM",
+       "label": "ngủ đông"
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Dù không có bầu",
+     "image": "assets/gemini_downloaded_long/L19.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "BÀI HỌC SINH TỒN TỪ GẤU NƯỚC",
+   "hook": "Kẻ kiên cường mới là kẻ sống sót",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/gemini_downloaded/scene06_01_philosophical_adaptation_triumph.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bạn không cần phải",
+     "image": "assets/gemini_downloaded_long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bạn ấn tượng nhất",
+     "image": "assets/gemini_downloaded_long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và ở tập tiếp theo",
+     "image": "assets/gemini_downloaded/scene06_02_mantis_shrimp_boxing_teaser.png",
+     "stickers": [],
+     "impacts": [
+      "nổ tung"
+     ]
+    },
+    {
+     "at": "Tự nhiên không tạo",
+     "image": "assets/gemini_downloaded_long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gấu Nước nhắc nhở chúng ta",
+     "image": "assets/gemini_downloaded/scene06_01_philosophical_adaptation_triumph.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu bạn thấy video",
+     "image": "assets/gemini_downloaded_long/L33.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ }
+}

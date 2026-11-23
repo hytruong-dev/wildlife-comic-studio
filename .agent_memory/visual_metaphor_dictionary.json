@@ -1,0 +1,141 @@
+{
+  "version": "1.0.0",
+  "metaphors": {
+    "lạm phát": {
+      "approvedCount": 3,
+      "layoutPattern": "split-scale-imbalance",
+      "primitives": [
+        "icon:flame",
+        "rough:rising_arrow_red",
+        "icon:shopping_cart_shrinking"
+      ],
+      "preferredColors": [
+        "#D9381E",
+        "#2C2A29"
+      ],
+      "notes": "Vẽ ngọn lửa đốt tờ tiền bên trái kết hợp mũi tên đỏ kéo giá hàng hóa đi lên bên phải."
+    },
+    "lãi kép": {
+      "approvedCount": 2,
+      "layoutPattern": "snowball-exponential-curve",
+      "primitives": [
+        "rough:exponential_curve_green",
+        "icon:sprout_to_tree",
+        "icon:coins_stack"
+      ],
+      "preferredColors": [
+        "#2F855A",
+        "#D69E2E"
+      ],
+      "notes": "Vẽ đường cong dốc đứng ở nửa sau, đặt 3 chồng đồng xu cao dần theo cấp số nhân."
+    },
+    "chia giỏ": {
+      "approvedCount": 3,
+      "layoutPattern": "three-buckets-distribution",
+      "primitives": [
+        "rough:chart_buckets_50_30_20",
+        "rough:arrow_curved"
+      ],
+      "preferredColors": [
+        "#3182CE",
+        "#DD6B20",
+        "#38A169"
+      ],
+      "notes": "3 hũ chi tiêu: 50% Thiết yếu (xanh lam), 30% Mong muốn (cam), 20% Tiết kiệm (xanh lá)."
+    },
+    "nguyên lý bàn tay trái": {
+      "approvedCount": 5,
+      "layoutPattern": "physics-left-hand-rule-fbi",
+      "primitives": [
+        "physics:hand_rule_fleming",
+        "physics:fbi_card",
+        "physics:magnetic_field_arrows"
+      ],
+      "preferredColors": [
+        "#D9381E",
+        "#2B6CB0",
+        "#2F855A"
+      ],
+      "notes": "Mô hình bàn tay trái 3 ngón vuông góc: Ngón cái (Lực F - Đỏ), Ngón trỏ (Từ trường B - Lam), Ngón giữa (Dòng điện I - Lục)."
+    },
+    "nam châm điện": {
+      "approvedCount": 4,
+      "layoutPattern": "electromagnet-circuit-setup",
+      "primitives": [
+        "physics:core_and_coils",
+        "physics:battery_and_switch",
+        "physics:paperclips_attracted"
+      ],
+      "preferredColors": [
+        "#D9381E",
+        "#2B6CB0",
+        "#718096"
+      ],
+      "notes": "Lõi sắt quấn cuộn dây đồng nối nguồn pin và công tắc đóng mở hút các ghim kẹp giấy."
+    },
+    "động cơ điện": {
+      "approvedCount": 4,
+      "layoutPattern": "motor-rotational-torque",
+      "primitives": [
+        "physics:stator_magnets",
+        "physics:rotor_armature",
+        "physics:split_ring_commutator"
+      ],
+      "preferredColors": [
+        "#D9381E",
+        "#2B6CB0",
+        "#D69E2E"
+      ],
+      "notes": "Khung dây chữ nhật nằm giữa hai cực nam châm N-S chịu lực F đối nghịch tạo ngẫu lực quay liên tục."
+    },
+    "quy_tac_ban_tay_trai": {
+      "approvedCount": 1,
+      "layoutPattern": "split_screen_horizontal",
+      "primitives": [
+        "physics_hand_rule",
+        "physics_fbi_card"
+      ],
+      "preferredColors": [
+        "#2563EB",
+        "#DC2626",
+        "#16A34A"
+      ],
+      "notes": "Quy tac FBI: Ngon Cai = Luc F, Ngon Tro = Tu truong B, Ngon Giua = Dong dien I",
+      "updatedAt": "2026-10-29 15:57"
+    },
+    "chu_ky_giac_ngu_90_phut": {
+      "approvedCount": 1,
+      "layoutPattern": "sleep-cycle-sine-wave-timeline",
+      "primitives": [
+        "photo:sleeping_person_cutout",
+        "diagram:sleep_stages_sine_curve",
+        "icon:alarm_clock_ring",
+        "icon:alert_brain"
+      ],
+      "preferredColors": [
+        "#2C2A29",
+        "#D9381E",
+        "#2B6CB0",
+        "#2F855A"
+      ],
+      "notes": "Đồ thị sóng hình sin 5 giai đoạn: Ru ngủ -> Ngủ nông (50%) -> Ngủ sâu -> Ngủ rất sâu -> Ngủ mơ (REM). Đi kèm ảnh thật người ngủ và chuông báo thức chỉ ra vùng nguy hiểm vs vùng vàng.",
+      "updatedAt": "2026-10-29 16:45"
+    },
+    "cong_thuc_tinh_gio_thuc_day": {
+      "approvedCount": 1,
+      "layoutPattern": "formula-box-breakdown",
+      "primitives": [
+        "box:math_formula_container",
+        "photo:morning_sun_fresh_person",
+        "diagram:cycle_calculator_steps"
+      ],
+      "preferredColors": [
+        "#D9381E",
+        "#2B6CB0",
+        "#2C2A29"
+      ],
+      "notes": "Khung công thức: Giờ thức dậy = Giờ đi ngủ + 14p + (90p x N). Mũi tên phân giải từng biến số kèm ví dụ 22h00 -> 5h44 sáng.",
+      "updatedAt": "2026-10-29 16:45"
+    }
+  }
+}

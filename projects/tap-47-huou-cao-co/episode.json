@@ -1,0 +1,239 @@
+{
+  "episode_no": 47,
+  "animal": "Hươu Cao Cổ",
+  "slug": "tap-47-huou-cao-co",
+  "format": "F2",
+  "persona": "ky_su_vu_khi",
+  "_angle_from_roadmap": "Giải mã hệ thống thủy lực cổ dài 2m: Tim nặng 11 kg, van tĩnh mạch chống nổ não khi cúi đầu, tất chân bó cơ tự nhiên.",
+  "_shorts_idea_from_roadmap": "Tại sao Hươu Cao Cổ không bị vỡ mạch máu não mỗi khi cúi cổ dài 2m uống nước?",
+  "nickname": "Tháp Cẩu Di Động",
+  "sources": [
+    "Hargens et al. 1987, Nature — Giảm áp suất mao mạch và bao cân chân hươu",
+    "Mitchell & Skinner 2009, Transactions of the Royal Society of South Africa — Giải phẫu tim mạch và mạng lưới kỳ diệu Rete Mirabile",
+    "Simmons & Scheepers 1996, The American Naturalist — Cổ dài như vũ khí giao tranh chọn lọc giới tính",
+    "Badlangana et al. 2009, Anatomy & Physiology — Dây chằng gáy và giải phẫu đốt sống cổ"
+  ],
+  "whisper_prompt": "Hươu Cao Cổ, Giraffa camelopardalis",
+  "display_fix": {
+    "hai mươi tư trên hai mươi tư": "24/24",
+    "mười một ki-lô-gam": "11kg",
+    "ba trăm mi-li-mét thủy ngân": "300 mmHg",
+    "năm trăm mi-li-mét thủy ngân": "500 mmHg",
+    "hai trăm mi-li-mét thủy ngân": "200 mmHg",
+    "một trăm hai mươi": "120",
+    "một trăm mi-li-mét thủy ngân": "100 mmHg",
+    "hai mươi lăm mi-li-mét thủy ngân": "25 mmHg",
+    "hai mươi ki-lô-gam": "20kg",
+    "sáu mươi xăng-ti-mét": "60cm",
+    "bảy xăng-ti-mét": "7cm",
+    "ba mươi xăng-ti-mét": "30cm",
+    "hai mét": "2m",
+    "năm mét": "5m",
+    "hai tấn": "2 tấn",
+    "mười lít": "10 lít",
+    "năm mươi cây số": "50km/h",
+    "một trăm cây số": "100km/h",
+    "bốn mươi đến chín mươi nhịp": "40-90 nhịp",
+    "Re-te Mi-ra-bi-le": "Rete Mirabile"
+  },
+  "voice": {
+    "speed": 1.05,
+    "tempo_long": 1.12,
+    "max_long_s": 750
+  },
+  "art": {
+    "decor": "brass hydraulic pressure gauges, steampunk copper valves, stylized Savannah acacia silhouette",
+    "shorts_mascot": "A clever cartoon giraffe wearing an engineer helmet holding a brass hydraulic pressure meter",
+    "thumb_bg": "Dark amber sunset African Savannah with blueprints of mechanical neck hydraulics",
+    "thumb_title": [
+      "CÚI ĐẦU 2M",
+      "NỔ NÃO KHÔNG?!"
+    ],
+    "thumb_scene": "Huge cartoon giraffe bending down to drink water with illuminated glowing hydraulic valves in its 2m neck",
+    "thumb_gag": "A tiny engineer mouse holding an emergency pressure release valve shouting in panic"
+  },
+  "longform": {
+    "scenes": [
+      {
+        "id": "scene01",
+        "badge": "SƠ ĐỒ THỦY LỰC",
+        "banner_title": "HỆ THỐNG TIM ÁP SUẤT CAO",
+        "chapter_title": "Bản vẽ tháp cẩu 5 mét giữa Savannah",
+        "hook": "MỔ XẺ THÁP CẨU SAVANNAH 2M",
+        "mood": "tram_bi_an",
+        "parts": [
+          {
+            "text": "Chào mừng toàn thể các kỹ sư cơ khí sinh học và các chuyên gia giải mã vũ khí tự nhiên đã quay trở lại với xưởng nghiên cứu tối mật của chúng tôi! Hôm nay, ống nhòm viễn vọng của chúng ta sẽ hướng thẳng ra thảo nguyên châu Phi nắng cháy rực lửa, nơi một công trình kiến trúc cơ động cao nhất trên cạn đang lừng lững sải bước giữa đường chân trời. Hãy quan sát thật kỹ khối kết cấu sinh học đồ sộ ấy! Một khối lượng lừng lững nặng tới gần hai tấn, đỉnh đầu chót vót cách mặt đất hơn năm mét, vươn cao ngạo nghễ như một tháp truyền hình di động giữa bầy thú ăn cỏ. Giới động vật học thông thường gọi nó bằng cái tên quen thuộc là Hươu Cao Cổ, nhưng trong mắt ban thiết kế công trình của chúng tôi, đây đích thị là cỗ máy Tháp Cẩu Di Động vĩ đại nhất từng được tự nhiên tạo tác. Bạn có bao giờ tự đặt câu hỏi dưới góc nhìn vật lý thuần túy: Làm thế nào để bơm một cột máu đỏ nặng trịch ngược chiều trọng lực trái đất lên độ cao hai mét suốt hai mươi tư trên hai mươi tư giờ không ngừng nghỉ mà không làm nổ tung động cơ?",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Báo cáo chỉ huy, nếu dùng máy bơm bình thường đẩy nước lên tầng năm, ống nhựa sẽ nổ tung vì áp lực quá tải!",
+            "cast": "co_tro_ly"
+          },
+          {
+            "text": "[laughter] Nhận định hoàn toàn chuẩn xác không cần chỉnh cô trợ lý kỹ thuật ạ! [surprise-oh] Định luật thủy tĩnh cơ bản quy định rằng cứ mỗi mét chất lỏng dâng cao, áp suất đáy sẽ tăng lên dữ dội. Nếu cơ thể một người bình thường chúng ta bị kéo giãn chiếc cổ ra hai mét như thế này, quả tim con người sẽ bất lực hoàn toàn, không thể bơm nổi một giọt máu nào lên tới đỉnh đầu, và toàn bộ hệ thần kinh trung ương sẽ chết đói vì cạn kiệt oxy chỉ sau đúng ba giây ngắn ngủi. Ấy vậy mà Tháp Cẩu Di Động không những không hề choáng váng, nó còn thong dong vươn chiếc lưỡi dài nửa mét màu tím đen để tước từng chiếc lá gai nhọn hoắt của cây keo bao báp, thậm chí khi cần nó có thể bứt tốc phi nước đại với vận tốc năm mươi cây số một giờ. Mọi linh kiện bên trong con vật này đều được tôi luyện với dung sai cực hạn, vượt xa mọi tiêu chuẩn công nghiệp cơ khí nặng hiện đại nhất. Ngay bây giờ, hãy cầm cờ-lê tháo bu-lông và mở tung bản vẽ khoang động cơ chính ra xem!",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene02",
+        "badge": "ĐỘNG CƠ TIM 11KG",
+        "banner_title": "ÁP LỰC MÁU 300 MMHG",
+        "chapter_title": "Động cơ V8 bơm máu cao áp",
+        "hook": "TRÁI TIM GẤP ĐÔI ÁP LỰC NGƯỜI",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "text": "Để nâng được một cột chất lỏng nhớt có tỷ trọng nặng hơn nước lên độ cao thẳng đứng hai mét ngược chiều gia tốc trọng trường, yêu cầu tiên quyết đầu tiên trên bản vẽ chính là một khối động cơ bơm áp lực siêu cường. Trái tim của Tháp Cẩu Di Động hoàn toàn không phải dạng vừa, nó là một khối cơ bắp rắn rỏi nặng tới mười một ki-lô-gam, dài hơn sáu mươi xăng-ti-mét và sở hữu thể tích buồng chứa cực lớn, có khả năng luân chuyển hàng chục lít máu mỗi phút. Đặc biệt nhất chính là thành tâm thất trái của nó, nơi trực tiếp tạo ra lực đẩy lên động mạch chủ, dày tới bảy xăng-ti-mét, đanh chắc và kiên cố như một tấm lốp xe tải bọc thép chuyên dụng. Khi cỗ máy sinh học này thực hiện một chu kỳ co bóp toàn phần, nó tạo ra một áp lực tâm thu khủng khiếp lên tới ba trăm mi-li-mét thủy ngân, tức là gấp đôi mức huyết áp đỉnh cao của một vận động viên điền kinh Olympic khỏe mạnh nhất!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Tại sao hệ thống này lại bắt buộc phải vận hành ở mức áp lực bạo lực đến như vậy? Bởi vì định luật thủy tĩnh không hề có sự nhân nhượng cho bất kỳ sinh vật nào! Dòng máu đỏ xuất phát từ van tim ở lồng ngực phải leo dốc thẳng đứng vượt qua lực hút trái đất trên quãng đường dài hai mét để chạm tới vỏ não. Cứ mỗi ba mươi xăng-ti-mét chiều cao tăng thêm, áp suất thủy tĩnh sẽ sụt giảm khoảng hai mươi lăm mi-li-mét thủy ngân. Nếu như áp lực bơm tim của hươu chỉ duy trì ở mức một trăm hai mươi như con người chúng ta, thì khi dòng máu leo tới nửa đoạn cổ, áp suất đẩy đã giảm về mức số không, khiến máu ngừng chảy và chảy ngược trở lại, dẫn đến tình trạng thiếu máu não tức thì. Nhờ việc duy trì công suất cực đại ba trăm mi-li-mét thủy ngân ngay tại cửa xả của tim, khi dòng máu chạm tới đỉnh đầu sau hành trình leo dốc gian nan, áp suất còn lại ở não bộ vẫn duy trì hoàn hảo ở mức một trăm mi-li-mét thủy ngân, vừa vặn tuyệt đối để hệ thần kinh trung ương xử lý tín hiệu sắc bén như dao cạo.",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Nhưng các kỹ sư cơ khí hãy đặc biệt chú ý đến một bí mật thiết kế đắt giá này! Một khối động cơ tim áp suất cao như vậy nếu đập dồn dập liên tục thì chẳng mấy chốc sẽ bị nổ van hoặc suy tim sớm. Thiên nhiên đã lập trình cho trái tim của Tháp Cẩu Di Động một nhịp đập cực kỳ điềm tĩnh, dao động từ bốn mươi đến chín mươi nhịp mỗi phút. Mỗi nhịp co bóp tống đi một thể tích máu khổng lồ vào gốc động mạch chủ. Thành của động mạch chủ ở hươu được gia cố bằng nhiều lớp sợi elastin siêu đàn hồi, hoạt động giống hệt như một bình tích áp thủy lực Windkessel trong kỹ thuật cơ khí đường ống. Bình tích áp này giãn nở để hấp thụ chấn động từ mỗi cú nén cao áp cực mạnh của tim, rồi co lại nhịp nhàng để duy trì dòng chảy liên tục và êm ái, biến dòng máu giật cục thành một dòng chảy ổn định tuần hoàn khắp cơ thể đồ sộ năm mét.",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene03",
+        "badge": "MẠNG LƯỚI VAN KỲ DIỆU",
+        "banner_title": "CHỐNG NỔ NÃO KHI CÚI ĐẦU",
+        "chapter_title": "Hệ thống xả áp Rete Mirabile",
+        "hook": "HỆ THỐNG RETE MIRABILE XẢ ÁP",
+        "mood": "don_dap",
+        "parts": [
+          {
+            "text": "Bây giờ mới thực sự là bài kiểm tra ứng suất kinh hoàng nhất trong toàn bộ quy trình vận hành của Tháp Cẩu Di Động. Mặc dù sở hữu chiều cao năm mét để với tới những cành cây cao chót vót, nhưng vũng nước uống duy nhất giữa sa mạc lại nằm sát sàn sạt dưới mặt đất. Để uống được nước, con vật không thể quỳ gối quá lâu vì dễ bị thú săn mồi phục kích. Nó buộc phải xoạc rộng hai chân trước sang hai bên rồi hạ thấp phần đầu xuống trong một cú rơi tự do sâu tới gần ba mét. Các bạn hãy làm một phép tính vật lý đơn giản: Một hệ thống ống dẫn đang chịu áp suất ba trăm mi-li-mét thủy ngân, nay lại được cộng dồn thêm toàn bộ trọng lượng của cột máu cao hai mét đổ dồn thẳng đứng từ trên ngực xuống đáy hộp sọ theo chiều gia tốc trọng trường. Áp lực máu tại khoang não lúc này sẽ lập tức tăng vọt lên tới gần năm trăm mi-li-mét thủy ngân! Ở bất kỳ loài động vật có vú nào khác, mức áp suất bạo tàn này thừa sức phá hủy toàn bộ mạng lưới mao mạch não mỏng manh, gây xuất huyết ồ ạt và tử vong tại chỗ chỉ trong tích tắc!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Khoan đã thầy ơi, vậy tại sao đầu của nó không phát nổ tung toé như một quả bóng bay bằng cao su bị bơm quá áp suất?",
+            "cast": "chu_ngo_ngac"
+          },
+          {
+            "text": "[laughter] Một câu hỏi vô cùng thực tế và đáng giá triệu đô đấy người anh em ngơ ngác! [surprise-oh] Bí mật sống còn nằm ở một cụm chi tiết cơ khí sinh học tối mật được giấu kín ngay dưới đáy hộp sọ của hươu, mang tên khoa học là Rete Mirabile, tiếng Latin có nghĩa là Mạng Lưới Kỳ Diệu. Đây là một ma trận chằng chịt gồm hàng ngàn mạch máu nhỏ li ti, lồng ghép đan xen vào nhau giống hệt như một miếng bọt biển hấp thụ lực va đập thủy tĩnh. Khi Tháp Cẩu Di Động hạ thấp đầu xuống vũng nước, lượng máu áp suất cao ồ ạt đổ xuống sẽ lập tức bị mạng lưới này phân tán vào vô số nhánh rẽ nhỏ li ti. Thiết diện tổng của dòng chảy tăng vọt làm vận tốc dòng máu giảm xuống đột ngột, triệt tiêu hoàn toàn xung lực búa nước va đập trước khi những giọt máu có thể chạm tới các tế bào thần kinh nhạy cảm.",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Chưa dừng lại ở đó đâu nhé! Dọc theo suốt chiều dài hai mét của tĩnh mạch cổ là cả một hệ thống các van một chiều cơ học đóng mở tự động cực kỳ tinh xảo. Ngay khoảnh khắc chiếc đầu hạ thấp quá tim, các van tĩnh mạch một chiều này lập tức sập chặt lại, ngăn chặn tuyệt đối tình trạng máu đen ứ đọng từ khoang ngực chảy ngược trở lại đầu gây tăng áp nội sọ. Và điều kỳ diệu nhất diễn ra khi con vật bất ngờ phát hiện thấy một con sư tử đang rình rập trong bụi rậm! Nó lập tức giật phắt chiếc đầu nặng nề cao vụt lên trời ở độ cao năm mét chỉ trong vòng chưa đầy một giây. Một cú giật ngược đột ngột như thế bình thường sẽ làm toàn bộ máu tụt dốc về tim, khiến não bộ rơi vào trạng thái thiếu oxy cục bộ và gây ngất xỉu ngay tức thì. Nhưng mạng lưới Rete Mirabile lại đóng vai trò như một kho dự trữ máu khẩn cấp, từ từ xả lượng máu tích trữ ra để nuôi dưỡng não trong lúc tim điều chỉnh lại nhịp đập, giúp con vật giữ vững sự tỉnh táo hoàn toàn để phóng nước đại tẩu thoát. Đó là một cơ chế giảm chấn thủy lực hai chiều hoàn mỹ đến từng phân tử!",
+            "mood": "don_dap"
+          }
+        ]
+      },
+      {
+        "id": "scene04",
+        "badge": "TẤT ÁP LỰC CHỐNG PHÙ",
+        "banner_title": "CƠ CHẾ BÓ CHÂN TỰ NHIÊN",
+        "chapter_title": "Bộ đồ phi hành gia ở cẳng chân",
+        "hook": "LỚP DA BẢO HỘ CHỐNG TĨNH MẠCH",
+        "mood": "nghiem_trang_gia",
+        "parts": [
+          {
+            "text": "Giải quyết xong bài toán áp suất phức tạp ở phần đỉnh tháp, bây giờ mời toàn thể ban kỹ sư cùng chuyển ống kính xuống kiểm tra phần gầm của cỗ máy Tháp Cẩu Di Động. Với một sinh vật có tầm vóc khổng lồ đứng thẳng trên bốn chiếc chân khẳng khiu cao tới gần hai mét, áp lực thủy tĩnh ở cẳng chân dưới là một cơn ác mộng kỹ thuật không kém phần nan giải. Trọng lực đè nặng toàn bộ thể tích máu trong cơ thể dồn xuống các mao mạch ở bàn chân, tạo ra một áp suất nội mạch thường xuyên vượt ngưỡng hai trăm mi-li-mét thủy ngân. Để các bạn dễ hình dung, ở cơ thể con người chúng ta, chỉ cần phải đứng im bất động trong vài giờ liên tục, máu sẽ dồn xuống bàn chân làm tăng áp suất mao mạch, khiến huyết tương rò rỉ vào khoang gian bào gây phù nề mắt cá chân, suy giãn tĩnh mạch hoặc thậm chí vỡ mao mạch tạo thành các vết xuất huyết bầm tím dưới da.",
+            "mood": "nghiem_trang_gia"
+          },
+          {
+            "text": "Vậy thì điều kỳ diệu gì đã bảo vệ bốn chiếc chân khẳng khiu như những que tăm của hươu không bị nứt toác và phù nề sau hàng chục năm đứng liên tục giữa thảo nguyên? Câu trả lời là thiên nhiên đã trang bị cho nó một bộ tất áp lực sinh học hoàn hảo bậc nhất thế giới! Đây chính là cấu trúc cơ học mà sau này các nhà khoa học của cơ quan hàng không vũ trụ NASA đã phải cất công nghiên cứu tỉ mỉ để chế tạo ra bộ đồ kháng áp G-suit dành cho phi công tiêm kích siêu âm và các phi hành gia khi chịu gia tốc phóng cực đại. Bao bọc lấy toàn bộ phần cẳng chân của hươu là một lớp da dày cộm, cứng cáp và có độ đàn hồi cực kỳ thấp, ôm sát rạt lấy cơ thể giống như một lớp vỏ bọc bằng sợi carbon composite. Ngay bên dưới lớp da dày ấy là một màng cân cơ dày đặc và rắn chắc, bọc kín lấy từng thớ cơ và mạch máu như một chiếc băng cuốn y tế chuyên dụng được siết chặt tối đa.",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Lớp vỏ bọc cơ học siêu bền này tạo ra một lực ép ngoại sinh cực mạnh tác động ngược trở lại thành mạch, cân bằng hoàn hảo với áp lực thủy tĩnh nội mạch đang đẩy từ bên trong ra. Nhờ có áp suất đối kháng này, huyết tương và dịch lỏng hoàn toàn không thể thoát ra ngoài khoang mô để gây sưng phù chân. Hơn thế nữa, thành của các tiểu động mạch và mao mạch ở chân hươu dày hơn bất kỳ loài động vật có vú nào từng được ghi nhận, kết hợp với các cơ vòng tiền mao mạch hoạt động như những chiếc van tiết lưu thông minh, chủ động ngắt dòng máu khi áp suất cục bộ vượt ngưỡng cho phép. Cỗ máy Tháp Cẩu Di Động có thể thong thả đứng cả ngày lẫn đêm dưới ánh mặt trời thiêu đốt mà bốn cẳng chân vẫn khô ráo, thanh thoát, chẳng hề bị phù nề, luôn trong tư thế sẵn sàng tung ra những cú đạp sấm sét.",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene05",
+        "badge": "VŨ KHÍ CỔ BÚA ĐẬP TẤN",
+        "banner_title": "CÚ QUẤT ĐOẠT MẠNG 100KM/H",
+        "chapter_title": "Cỗ máy đập phá nặng hai tấn",
+        "hook": "CẶP SỪNG BỌC DA VÀ ĐÒN BẨY",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "text": "Đừng bao giờ để vẻ bề ngoài hiền lành, đôi mắt to tròn ngơ ngác và dáng điệu nhai lá cây chậm rãi của Tháp Cẩu Di Động ru ngủ bạn! Khi mùa giao phối tranh giành lãnh thổ bắt đầu hoặc khi con vật bị dồn vào bước đường cùng đối đầu với bầy dã thú săn mồi, chiếc cần cẩu dài hai mét thanh mảnh này sẽ ngay lập tức chuyển hóa thành một thứ vũ khí va đập hạng nặng với sức tàn phá kinh hoàng bậc nhất thảo nguyên châu Phi. Những con hươu đực không hề húc đầu trực diện như trâu rừng hay dùng móng guốc cào xé, mà chúng triển khai một tuyệt kỹ cận chiến tàn bạo mang tên khoa học là Necking, tức là màn giao đấu quăng cổ búa tạ. Chiếc cổ dài hai mét tuy chỉ gồm đúng bảy đốt sống cổ giống như loài người chúng ta, nhưng mỗi đốt sống lại dài tới gần ba mươi xăng-ti-mét, liên kết với nhau bằng các khớp cầu linh hoạt biến toàn bộ chiếc cổ thành một cánh tay đòn bẩy khổng lồ gia tốc cho phần đầu hồi chuyển.",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Ủa các bác kỹ sư ơi, sừng của nó bọc da đặc xương, trán dày cộm như một khối đá tảng nguyên khối luôn hả?",
+            "cast": "be_con"
+          },
+          {
+            "text": "[laughter] Rất chuẩn xác bác thợ máy ơi, đó chính là đầu búa công phá đấy! [surprise-oh] Khi một con hươu đực trưởng thành gồng mình vung chiếc cổ dài hai mét hết biên độ vòng cung, phần đầu sọ của nó có thể xé toạc không khí và đạt vận tốc va đập lên tới hơn một trăm cây số một giờ. Hãy tưởng tượng một quả tạ đặc bằng xương và sừng nặng gần hai mươi ki-lô-gam được phóng đi với vận tốc đó và nện thẳng vào mạn sườn hoặc cuống họng của đối thủ! Lực xung kích sinh ra từ cú quất búa tạ này tương đương với hàng tấn động năng tập trung vào một điểm tiếp xúc nhỏ hẹp. Cú va chạm kinh hoàng ấy thừa sức bẻ gãy vụn các xương sườn, đâm thủng lá phổi, hoặc thậm chí làm gãy gập cột sống của đối thủ khiến nó gục ngã tức tưởi tại chỗ. Và chưa hết đâu nhé, nếu một con sư tử châu Phi đói khát dại dột tiếp cận từ phía sau trong góc chết, chiếc chân sau dài hai mét nặng như cột đình của hươu có thể tung ra một cú đạp hậu sấm sét, thừa đủ lực để làm nát vụn xương sọ của chúa sơn lâm trong chớp mắt!",
+            "mood": "don_dap"
+          }
+        ]
+      },
+      {
+        "id": "scene06",
+        "badge": "KẾT LUẬN",
+        "banner_title": "TUYỆT TÁC CƠ KHÍ SINH HỌC",
+        "chapter_title": "Bài học từ tháp cẩu tự nhiên",
+        "hook": "BÀI HỌC CÂN BẰNG ÁP LỰC SỐNG",
+        "mood": "am_ap",
+        "parts": [
+          {
+            "text": "Từ khối động cơ tim áp lực cao mười một ki-lô-gam, mạng lưới van xả chấn động kỳ diệu Rete Mirabile bảo vệ não bộ khỏi nguy cơ nổ mạch máu, bộ đồ nén sinh học ở cẳng chân truyền cảm hứng chế tạo trang phục phi hành gia cho NASA, cho đến hệ thống dây chằng gáy đàn hồi dày như cáp treo nâng đỡ chiếc cổ hai mét, Tháp Cẩu Di Động chính là một minh chứng hùng hồn nhất cho thấy thiên nhiên chính là vị tổng công trình sư vĩ đại và tinh tế nhất của vũ trụ. Để có thể vươn tầm mắt lên độ cao năm mét và thưởng thức những chồi non ngọt ngào nhất trên đỉnh ngọn cây keo gai mà chẳng có loài động vật ăn cỏ nào khác trên thảo nguyên có thể với tới, con vật đã dũng cảm chấp nhận sống chung với một môi trường áp suất khắc nghiệt gấp đôi bình thường, và nó đã tự trang bị cho mình những giải pháp cơ khí tối ưu nhất để biến áp lực hiểm nghèo thành lợi thế sinh tồn tuyệt đối.",
+            "mood": "am_ap"
+          },
+          {
+            "text": "Trong hành trình cuộc sống và sự nghiệp của mỗi chúng ta cũng vậy! Bất kỳ ai khao khát đứng ở một vị trí cao hơn, nhìn xa trông rộng hơn đám đông và chạm tới những đỉnh cao rực rỡ đều sẽ phải đối diện với những áp lực vô hình cực kỳ dữ dội và những thử thách khắc nghiệt đè nặng lên vai. Nhưng thay vì than vãn hay để áp lực cuộc sống đè bẹp ý chí, chúng ta hãy học hỏi cỗ máy Tháp Cẩu Di Động kiên cường: Tôi luyện cho mình một trái tim quả cảm đầy nhiệt huyết, xây dựng một cơ chế xả stress thông minh để cân bằng cảm xúc, và khoác lên mình một bản lĩnh vững vàng để vượt qua mọi bão giông thử thách! Các bạn cảm thấy ấn tượng và khâm phục bộ phận cơ khí nào nhất của chú hươu: Khối động cơ tim ba trăm mi-li-mét thủy ngân phi thường, hay mạng lưới xả áp Rete Mirabile tài tình chống nổ não? Hãy chia sẻ quan điểm thú vị của bạn ở phần bình luận bên dưới nhé! Còn trong tập tiếp theo, chúng ta sẽ cùng nhau bay tới những đầm lầy tiền sử rậm rạp ở châu Phi để giải mã một sát thủ đứng im như tượng đá hàng giờ liền với chiếc mỏ khổng lồ gõ đanh thép như súng máy liên thanh! Hãy cùng đón chờ nhé!",
+            "mood": "am_ap"
+          }
+        ]
+      }
+    ]
+  },
+  "shorts": {
+    "target_s": 53.0,
+    "mood": "hao_hung",
+    "text": "[surprise-oh] Bạn có biết một con Hươu Cao Cổ nặng hai tấn có thể bị nổ tung mạch máu não mỗi khi cúi đầu xuống đất uống nước không?! Hãy nhìn chiếc cổ dài hai mét của Tháp Cẩu Di Động lừng lững giữa thảo nguyên này xem! Để bơm máu đỏ ngược chiều trọng lực lên độ cao năm mét, quả tim của nó nặng tới mười một ki-lô-gam và tạo ra áp lực tâm thu ba trăm mi-li-mét thủy ngân, gấp đôi người khỏe mạnh nhất! Khi nó hạ đầu rơi tự do ba mét xuống vũng nước, áp suất dồn xuống não sẽ tăng vọt lên năm trăm mi-li-mét thủy ngân, đủ để làm vỡ toang mạch máu ngay tức khắc! Nhưng kỳ diệu thay, dưới đáy hộp sọ của nó có một mạng lưới mạch máu xốp mang tên Rete Mirabile cùng chuỗi van một chiều cơ học. Khi đầu chúi xuống, mạng lưới này lập tức phình to hấp thụ toàn bộ xung lực búa nước, triệt tiêu áp suất thừa! Chưa hết, cẳng chân của nó được bọc lớp da siêu căng như bộ đồ phi hành gia NASA, chống phù nề tuyệt đối! Đúng là một tuyệt tác cơ khí thủy lực đỉnh cao của tạo hóa!"
+  },
+  "seo": {
+    "title": "Bí Ẩn Cổ Dài 2 Mét: Cúi Đầu Uống Nước Sao Không Bị Nổ Não?! | Hươu Cao Cổ | Tập 47",
+    "hook_paragraph": "Hươu Cao Cổ cao hơn 5m với chiếc cổ dài 2m sở hữu trái tim nặng 11kg và huyết áp 300 mmHg gấp đôi con người. Làm thế nào mạng lưới xả áp Rete Mirabile cứu nó thoát khỏi thảm cảnh nổ mạch máu não mỗi khi cúi đầu?",
+    "bullets": [
+      "Trái tim 11kg với áp lực máu 300 mmHg bơm máu leo dốc 2m",
+      "Mạng lưới kỳ diệu Rete Mirabile hấp thụ áp suất cực hạn khi cúi đầu",
+      "Lớp da cẳng chân bó chặt như bộ đồ phi hành gia chống phù nề",
+      "Đòn quăng cổ búa tạ Necking đạt vận tốc 100km/h hạ gục đối thủ"
+    ],
+    "question": "Bạn thấy cơ chế nào của Hươu Cao Cổ đỉnh cao nhất: Động cơ tim 11kg hay mạng lưới xả áp Rete Mirabile?",
+    "next_teaser": "Ở tập tiếp theo, chúng ta sẽ diện kiến tượng đá đầm lầy Cò Mỏ Giày với tiếng gõ mỏ như súng máy liên thanh!",
+    "hashtags": [
+      "#HuouCaoCo",
+      "#TheGioiDongVat",
+      "#VeChuyenHoangDa",
+      "#KhoaHoc",
+      "#DongVatKyThu",
+      "#KySuVuKhi"
+    ],
+    "tags": [
+      "hươu cao cổ",
+      "huou cao co",
+      "giraffe",
+      "tim huou cao co",
+      "rete mirabile",
+      "the gioi dong vat",
+      "ve chuyen hoang da",
+      "dong vat ky thu",
+      "khoa hoc vui",
+      "giai ma dong vat",
+      "ky su vu khi",
+      "ap suat mau"
+    ],
+    "shorts_title": "Cúi đầu 2m uống nước: Sao hươu cao cổ không bị nổ não?! 🦒 #shorts #huoucaco",
+    "shorts_desc": "Hươu cao cổ sở hữu huyết áp 300 mmHg gấp đôi con người nhưng cúi cổ 2m uống nước lại không bị nổ mạch máu não nhờ mạng lưới Rete Mirabile kỳ diệu!",
+    "shorts_tags": [
+      "huou cao co",
+      "shorts",
+      "the gioi dong vat",
+      "ve chuyen hoang da",
+      "khoa hoc"
+    ]
+  }
+}

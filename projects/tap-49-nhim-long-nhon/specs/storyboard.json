@@ -1,0 +1,527 @@
+{
+  "characters": {
+    "HERO": "chú nhím lông nhọn Bắc Mỹ hoạt hình ngộ nghĩnh (lưng mang bộ giáp 30.000 gai nhọn đính ngạnh ngược, biểu cảm tự tin đắc thắng)",
+    "HERO_S": "chú nhím lông nhọn hoạt hình đeo kính bảo hộ kỹ sư cầm mũi lao gai phát sáng",
+    "NO_HERO": "",
+    "ENG": "kỹ sư trưởng xưởng vũ khí mặc áo giáp chống đâm cầm kính hiển vi soi ngạnh gai",
+    "ASSISTANT": "cô trợ lý kỹ thuật đeo kính bảo hộ cầm bảng kẹp ghi chép lực cắm đâm xuyên",
+    "NAIVE": "chú ngơ ngác gãi đầu hoảng hốt khi chạm phải đầu gai nhọn",
+    "KID": "bé con đội mũ bảo hộ tò mò chỉ tay vào chùm gai nhím xòe nan quạt",
+    "LEOPARD": "báo hoa mai há hốc mồm ôm mũi đầy gai nhọn kêu la thảm thiết",
+    "QUILL": "sơ đồ cắt lớp vi phẫu mũi gai 30.000 ngạnh vảy xếp chồng kiểu lưỡi câu ngạnh ngược",
+    "BARB": "kính hiển vi điện tử phóng đại các vảy sừng xếp vát chĩa ngược chiều",
+    "ANTIBIOTIC": "sơ đồ màng bọc axit béo kháng sinh tự nhiên phủ bóng loáng thân gai"
+  },
+  "side_characters": {},
+  "shorts_title_lines": [
+    "30.000 MŨI TÊN",
+    "TỰ RÚT SÂU?!"
+  ],
+  "long": [
+    {
+      "scene": "scene01",
+      "at": 0,
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ENG}: kỹ sư trưởng mở hồ sơ thiết kế vũ khí phòng thủ pháo đài tự hành trên bàn kỹ thuật.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "nhiên! Hãy nhìn vào",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {HERO}: chú nhím lông nhọn bước đi lừng lững trong rừng thông như chiếc xe bọc thép rải gai.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "dữ, cũng chẳng cần",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {HERO} {LEOPARD}: báo hoa mai lao tới định vồ nhưng khựng lại hoảng hốt trước tấm khiên gai xòe rộng.",
+      "stickers": [
+        {
+          "at": "30.000",
+          "label": "KHO VŨ KHÍ GAI",
+          "value": "30.000 GAI",
+          "side": "right",
+          "y": 420,
+          "target": [
+            650,
+            400
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "nhưng trên bàn thiết",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ENG}: kỹ sư chỉ thước đo laser vào chùm gai đuôi rung lắc tạo tiếng xào xạc cảnh báo.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "ung dung và điềm",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ASSISTANT}: cô trợ lý kiểm tra bảng thông số 30.000 mũi tên sống sẵn sàng phóng thích.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "thể bắn lông vèo",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {QUILL}: sơ đồ mặt cắt mũi tên sinh học gắn lỏng lẻo vào nang lông chờ tiếp xúc.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "nào để phóng lông",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {NAIVE}: chú ngơ ngác hoang mang lùi xa khi thấy nhím quay đuôi xù lông phòng ngự.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "chạm khẽ là tự",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {HERO}: chú nhím ngậm cành cây gặm vỏ thông bình thản bất chấp kẻ săn mồi vây quanh.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "hiển vi điện tử",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ENG} {HERO}: kỹ sư chuẩn bị mở kính hiển vi điện tử quét sâu vào bí mật ngạnh ngược.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": 0,
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {QUILL}: kính hiển vi điện tử SEM quét độ phân giải nano vào 4mm đầu nhọn mũi gai.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "Ở khoảng 4mm ngoài",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {BARB}: sơ đồ cấu trúc vảy ngạnh xếp chồng vát ngược 45 độ như hàng ngàn lưỡi câu cá mập.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "điều kỳ diệu làm",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ENG}: kỹ sư thử nghiệm đâm mũi gai vào bia thịt thấy lực xuyên giảm 54% nhờ ngạnh hướng dẫn.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "y như bầy dao",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ASSISTANT}: cô trợ lý đo cảm biến lực nhổ thấy lực cản tăng gấp 3 lần do vảy bung xòe móc chặt.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "minh này, lực cần",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {HERO}: chú nhím rung lắc bộ áo giáp gai phát ra ánh kim loại đen bóng đầy kiêu hãnh.",
+      "stickers": [
+        {
+          "at": "54%",
+          "label": "LỰC ĐÂM XUYÊN",
+          "value": "-54%",
+          "side": "left",
+          "y": 420,
+          "target": [
+            350,
+            420
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "sâu xuyên qua da",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {LEOPARD}: kẻ săn mồi cố dùng móng vuốt cào mũi gai nhưng càng cào gai càng lún sâu vào da.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "bên trong sâu thẳm",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {KID}: bé con đội mũ bảo hộ tròn mắt thán phục trước công nghệ nano tự nhiên.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "ra và móc chặt",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {QUILL}: mô hình so sánh mũi kim tiêm y tế thông thường với mũi gai nhím sinh học.",
+      "stickers": [
+        {
+          "at": "3 lần",
+          "label": "LỰC CẢN NHỔ",
+          "value": "+300%",
+          "side": "right",
+          "y": 420,
+          "target": [
+            700,
+            450
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "dữ dội, biến chiếc",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ENG}: kỹ sư ghi chép sáng chế kim tiêm giảm đau mô phỏng ngạnh gai nhím vào sổ tay.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": 0,
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {HERO}: chú nhím vung chiếc đuôi gai đập mạnh vào thân cây thử độ bền va chạm.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "gốc, nó không hề",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {QUILL}: sơ đồ cơ học co bóp mô cơ khiến mũi gai tự khoan sâu 1mm mỗi giờ vào vết thương.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "không thể tụt lùi,",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ENG}: kỹ sư phân tích chuyển động một chiều của mũi tên sinh học không thể rút ngược.",
+      "stickers": [
+        {
+          "at": "1mm",
+          "label": "TỰ KHOAN SÂU",
+          "value": "1 mm/h",
+          "side": "left",
+          "y": 420,
+          "target": [
+            400,
+            380
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "chính năng lượng cử",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ASSISTANT}: cô trợ lý hoảng hốt trước đồ thị vết rách lan rộng nếu cố kéo giật gai ra.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "Chiếc lông nhọn sẽ",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {LEOPARD}: báo hoa mai nằm bẹp gí ôm mõm sưng phù vì hàng chục mũi gai găm sâu.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "đói thảm khốc chỉ",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {NAIVE}: chú ngơ ngác toát mồ hôi hột rụt tay lại không dám chạm vào đuôi nhím.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "kẻ săn mồi khát",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {QUILL}: mô hình 3D cho thấy mũi gai xuyên qua lớp mỡ tiến dần đến mạch máu lớn.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "nang lông rất lỏng",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {HERO}: chú nhím quay lưng vẫy đuôi chào tạm biệt kẻ bại trận đầy ung dung.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "tách rời khỏi gốc",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ENG} {HERO}: kỹ sư chuyển hồ sơ sang phân tích thành phần hóa học của lớp phủ thân gai.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": 0,
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ANTIBIOTIC}: sơ đồ quang phổ huỳnh quang phát hiện lớp màng axit béo kháng sinh bọc ngoài thân gai.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "vậy, làm thế nào",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ENG}: kỹ sư nhỏ giọt vi khuẩn tụ cầu lên thân gai thấy vi khuẩn bị tiêu diệt hoàn toàn.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "kẻ vụng về, thường",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ASSISTANT}: cô trợ lý ngạc nhiên trước cơ chế tự bảo vệ: nhím ngã từ cây cao gai tự cắm vào mình không bị nhiễm trùng.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "té ngã cực kỳ",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {HERO}: chú nhím trèo tót lên ngọn cây cao 10 mét ăn búp non vô tư không sợ ngã.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "bao giờ bị nhiễm",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {NAIVE}: chú ngơ ngác ôm đầu thở phào khi biết nhím tự trang bị bảo hiểm y tế cho chính mình.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "loại vi khuẩn gram",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ANTIBIOTIC}: công thức hóa học của axit free fatty acid phủ đều bề mặt từng chiếc gai nhọn.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "tế bào của các",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {KID}: bé con giơ ngón tay cái tán thưởng trí thông minh kỳ diệu của mẹ thiên nhiên.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "phục hồi nhanh chóng",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {HERO}: chú nhím chải chuốt bộ lông gai bóng mượt dưới ánh hoàng hôn rừng lá kim.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "toàn tuyệt đối cho",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ENG}: kỹ sư chuẩn bị bóc tách cấu trúc vật liệu xốp hấp thụ xung lực bên trong lõi gai.",
+      "stickers": [
+        {
+          "at": "10m",
+          "label": "ĐỘ CAO TRÈO",
+          "value": "10 MÉT",
+          "side": "right",
+          "y": 420,
+          "target": [
+            680,
+            420
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": 0,
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {QUILL}: sơ đồ cắt ngang lõi gai nhím: vỏ keratin cứng bọc ngoài cấu trúc xốp bọt biển siêu nhẹ.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "khối lượng của chúng",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ENG}: kỹ sư dùng máy ép thủy lực kiểm tra độ chịu uốn cong đàn hồi tuyệt vời của gai.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "thể nào nhấc nổi",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ASSISTANT}: cô trợ lý cân mẫu gai chỉ nặng 0.3g nhưng chịu được tải trọng uốn gấp hàng trăm lần.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "khao khát đạt được",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {HERO}: chú nhím cuộn tròn thành quả cầu gai bất khả xâm phạm trước mọi cú cắn xé.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "nắn tuyệt vời. Nhưng",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {LEOPARD}: báo hoa mai ngậm ngùi bỏ đi với cái mũi nham nhở gai không thể đụng vào pháo đài.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "va đập, vừa biến",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {QUILL}: ứng dụng vật liệu phỏng sinh học vào áo giáp chống đạn và mũ bảo hiểm tương lai.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "mỗi chiếc lông chỉ",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {NAIVE}: chú ngơ ngác vỗ tay thán phục bộ giáp composite đẳng cấp vũ trụ.",
+      "stickers": [
+        {
+          "at": "0.3g",
+          "label": "TRỌNG LƯỢNG GAI",
+          "value": "0.3 GAM",
+          "side": "left",
+          "y": 420,
+          "target": [
+            380,
+            430
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "con sông lớn mà",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {HERO}: chú nhím nháy mắt tự tin giữa vòng hào quang laser bảo vệ.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "tiến nhất mà con",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ENG} {HERO}: kỹ sư đóng bản vẽ thiết kế hoàn thành ca đánh giá pháo đài rải gai.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": 0,
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {HERO}: chú nhím lông nhọn bước ra tiền cảnh uy nghiêm giữa ánh sáng hoàng hôn rừng ôn đới.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "lành vết thương khi",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {QUILL}: tổng kết 4 công nghệ lõi: ngạnh nano một chiều, tự khoan sâu, kháng sinh tự thân và lõi composite.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "bao giờ chủ động",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ENG}: kỹ sư trưởng giơ bản thiết kế hoàn hảo lấy cảm hứng từ bậc thầy cơ khí thiên nhiên.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "mình. Nó không cần",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ASSISTANT}: cô trợ lý chào tạm biệt khán giả cùng chú nhím đáng yêu.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "phạm. Trong cuộc sống",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {KID}: bé con mỉm cười giơ biểu tượng like kêu gọi bảo vệ động vật hoang dã.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "xâm phạm! Hãy trang",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {HERO}: chú nhím quay đầu nháy mắt lắc đuôi xào xạc tạo âm thanh thương hiệu.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "Tự Hành tinh vi",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {NO_HERO}: poster nghệ thuật tổng kết Pháo Đài Tự Hành với dòng chữ khoa học ấn tượng.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "để giải mã một",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ENG}: khung hình chuyển tiếp hé lộ hồ sơ bí ẩn của võ sĩ giác đấu rừng già tập tiếp theo.",
+      "stickers": [],
+      "impacts": []
+    }
+  ],
+  "shorts": [
+    {
+      "at": 0,
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {HERO_S}: chú nhím lông nhọn Bắc Mỹ hoạt hình đội mũ bảo hộ kỹ sư cầm mũi lao gai phát sáng nháy mắt tự tin.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "at": "gục cả một con",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {HERO_S} {LEOPARD}: báo hoa mai lao vào vồ nhưng bị 30.000 mũi gai nhọn xòe nan quạt chặn đứng.",
+      "stickers": [
+        {
+          "at": "30.000",
+          "label": "VŨ KHÍ TỰ VỆ",
+          "value": "30.000 GAI",
+          "side": "right",
+          "y": 540,
+          "target": [
+            350,
+            600
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "at": "hoàn toàn không hề",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {QUILL}: kính hiển vi điện tử SEM phóng đại ngọn gai với hàng nghìn ngạnh vảy xếp ngược vát 45 độ.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "at": "chiếc lông nhím chứa",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ENG}: kỹ sư đo cảm biến lực: cắm vào giảm 54% lực nhưng rút ra cần lực gấp 3 lần.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "at": "nép sát giúp giảm",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {QUILL}: mô hình mô cơ rung giật khiến ngạnh gai tự khoan sâu 1mm mỗi giờ không thể rút.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "at": "Đáng sợ hơn cả,",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {ANTIBIOTIC}: thân gai phủ lớp axit béo kháng sinh tự nhiên giúp nhím ngã trúng gai mình không nhiễm trùng.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "at": "bên trong cơ thể",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {QUILL}: cấu trúc vật liệu composite lõi xốp bọt biển siêu nhẹ chịu lực va đập cực đỉnh.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "at": "còn phủ lớp mỡ",
+      "layout": "Tactical Weapon Arsenal & Microscopic Bio-Armor Diagram style, carbon black blueprint and hazard yellow accents, bold graphic ink contours, technical weapon schematics, microscopic SEM electron microscope zoom overlays, sharp high-contrast studio lighting, clean solid background with tactical engineering callouts: {HERO_S}: chú nhím nháy mắt lắc đuôi xào xạc gửi thông điệp đỉnh cao pháo đài tự hành thiên nhiên.",
+      "stickers": [],
+      "impacts": []
+    }
+  ]
+}

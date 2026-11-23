@@ -1,0 +1,368 @@
+import json
+from pathlib import Path
+
+sb42 = {
+ "_doc": "Storyboard Tập 42 — Cá Thòi Lòi (F1: Bác sĩ thú y). Sinh plans: python src/episode/build_plans.py projects/tap-42-ca-thoi-loi",
+ "characters": {
+  "HERO": "chú cá thòi lòi hoạt hình hài hước ngộ nghĩnh (màu nâu xám lấm lem bùn đất, hai mắt lồi to tướng tròn xoe trên đỉnh sọ có thể xoay đảo độc lập ngơ ngác, đôi vây ngực cơ bắp như hai cánh tay búp bê, bụng có đĩa hút, đuôi cong chữ C)",
+  "HERO_S": "chú cá thòi lòi hoạt hình mắt lồi to tướng, hai vây ngực như hai tay, da lấm bùn",
+  "NO_HERO": "KHÔNG có chú cá thòi lòi trong cảnh này",
+  "OWL_DOC": "bác sĩ cú mèo đeo kính lão, mặc áo blouse trắng cầm ống nghe và bảng chẩn đoán",
+  "RABBIT_NURSE": "cô y tá thỏ trắng tai cụp đeo mũ chữ thập đỏ",
+  "CRAB": "chú còng gió nhỏ giơ hai càng cười nhe răng"
+ },
+ "side_characters": [
+  "OWL_DOC",
+  "RABBIT_NURSE",
+  "CRAB"
+ ],
+ "shorts_side_characters": [
+  "CRAB"
+ ],
+ "shorts_title_lines": [
+  "CÁ NGẠT THỞ DƯỚI NƯỚC?!",
+  "THỤT MẮT ĐỂ NUỐT MỒI"
+ ],
+ "skip_numbers": [],
+ "long": [
+  # ==================== SCENE 01 (8 beats) ====================
+  {
+   "scene": "scene01", "at": 0,
+   "layout": "Góc phòng khám bệnh viện sinh học nhiệt đới: Bàn khám gỗ dán đầy các tiêu bản rễ cây đước và vỏ ốc; {NO_HERO}; BÊN PHẢI {OWL_DOC} đang lắc đầu khó hiểu trước một chiếc chậu bùn lầy đặt trên ghế bệnh nhân.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene01", "at": "Bệnh nhân hôm nay của",
+   "layout": "Bức tranh chẩn đoán tâm lý sinh học: Biểu tượng một chú cá mang vây nhưng gương mặt hoảng sợ khi nhìn thấy đại dương xanh thẳm; mũi tên chỉ hướng cá chạy trốn lên bờ cát; {NO_HERO}.",
+   "stickers": [], "impacts": ["sợ nước"]
+  },
+  {
+   "scene": "scene01", "at": "Bệnh nhân mang mã số",
+   "layout": "Cận cảnh chiếc ghế bệnh nhân: {HERO} ngồi chồm hổm hai tay chống nạnh trên đống bùn ướt, hai mắt lồi to tướng liếc nhìn trần nhà đầy ngơ ngác; BÊN CẠNH là biển tên Bệnh nhân chán biển.",
+   "stickers": [{"at": "42", "side": "R", "y": 380, "value": "SỐ 42", "label": "bệnh nhân chán biển", "target": [0.75, 0.5]}], "impacts": ["Bệnh nhân chán biển"]
+  },
+  {
+   "scene": "scene01", "at": "Trong khi hàng triệu loài",
+   "layout": "Tương phản sinh học kỳ dị: BÊN TRÁI hàng ngàn chú cá biển hoảng loạn quẫy nước tìm về biển cả; BÊN PHẢI {HERO} ung dung nằm ngửa phơi nắng trên bãi bùn lầy, hai tay gác sau gáy huýt sáo.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene01", "at": "Chiều dài cơ thể của",
+   "layout": "Khám nghiệm kích thước: {OWL_DOC} cầm thước dây đo dọc cơ thể {HERO}; thước hiển thị 15-20cm; lớp da nhớt màu nâu xám lấm lem bùn đất.",
+   "stickers": [{"at": "15-20cm", "side": "R", "y": 360, "value": "15-20 CM", "label": "chiều dài cơ thể", "target": [0.75, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene01", "at": "Nhưng nhìn vào hai mắt",
+   "layout": "Phóng to đầu của {HERO}: Hai nhãn cầu mắt lồi to tướng như hai quả bóng bàn nằm trên đỉnh sọ; một mắt xoay sang trái nhìn que kem, một mắt xoay ngược sang phải nhìn con ruồi bay qua.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene01", "at": "Đúng như cô trợ lý",
+   "layout": "Bên ngoài cửa sổ phòng khám: {RABBIT_NURSE} hốt hoảng chỉ tay ra cành cây đước bên ngoài; {HERO} đang dùng hai vây ngực bám chặt cành cây ngồi vắt vẻo như một chú chim non ngắm cảnh.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene01", "at": "Hôm nay, hồ sơ bệnh",
+   "layout": "Toàn cảnh bãi bùn rừng ngập mặn lúc hoàng hôn: {HERO} ngồi thong dong trên rễ cây đước ngoằn ngoèo, miệng huýt sáo ngắm mặt trời lặn; BÊN TRÁI {OWL_DOC} cầm hồ sơ bệnh án đứng ngắm nhìn.",
+   "stickers": [], "impacts": []
+  },
+
+  # ==================== SCENE 02 (12 beats) ====================
+  {
+   "scene": "scene02", "at": 0,
+   "layout": "Thí nghiệm y khoa đối chứng: BÊN TRÁI là chú cá vàng bơi tung tăng trong bể nước trong suốt; BÊN PHẢI là {HERO} bị nhốt trong lồng dưới nước đang ôm cổ ho sặc sụa; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Gã sẽ ngạt thở và",
+   "layout": "Bảng cảnh báo y khoa: Hình ảnh {HERO} bị ngạt thở dưới đáy nước sâu; chiếc đồng hồ cát đếm ngược hiển thị nguy cơ ngạt khí; {OWL_DOC} giơ tay cảnh báo khẩn cấp.",
+   "stickers": [], "impacts": ["ngạt thở"]
+  },
+  {
+   "scene": "scene02", "at": "Nguyên nhân y khoa nằm",
+   "layout": "Phim chụp X-quang mang cá: Mô hình mang cá của {HERO} teo nhỏ xíu dính chặt vào nhau; mũi tên đỏ chỉ vào diện tích tiếp xúc kém; {OWL_DOC} cầm kính lúp chỉ vào phim X-quang.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Để sinh tồn trên cạn,",
+   "layout": "Sơ đồ giải phẫu hô hấp da: Lớp da nhầy của {HERO} phát sáng màu xanh dương rực rỡ; các phân tử oxy ngoài không khí thẩm thấu trực tiếp qua da và niêm mạc vòm họng vào mạch máu.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Toàn bộ bề mặt da",
+   "layout": "Cận cảnh dòng máu giàu dưỡng khí: Các hạt oxy màu xanh ngọc bích từ không khí tràn qua màng da ẩm ướt, biến dòng máu đỏ thẫm thành đỏ tươi tràn đầy sinh lực; {HERO} tươi cười rạng rỡ.",
+   "stickers": [{"at": "50-60%", "side": "L", "y": 360, "value": "50-60%", "label": "oxy hấp thụ qua da", "target": [0.25, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Chú cá con hỏi câu",
+   "layout": "Phòng học giải phẫu sinh vật: {RABBIT_NURSE} và {CRAB} đứng cạnh chiếc bảng phấn vẽ hình mang cá, mắt chớp chớp ngơ ngác khó hiểu.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Hai nắp mang phồng to",
+   "layout": "Cận cảnh hai má phồng to: {HERO} phồng hai má to như hai quả bóng nước, nhốt chặt ngụm nước trong nắp mang đóng kín bưng; các bọt nước lấp lánh giữ ẩm sợi mang.",
+   "stickers": [], "impacts": ["bình giữ nước"]
+  },
+  {
+   "scene": "scene02", "at": "Lượng nước dự trữ này",
+   "layout": "Bình dưỡng khí di động: Hai khoang mang của {HERO} đóng vai trò như hai bình nước dã ngoại; {HERO} đeo kính râm đi dạo trên bờ cát nắng chói mà mang vẫn ướt sũng mát rượi.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Thậm chí trong khoang miệng",
+   "layout": "Cơ chế van cao su chống trào ngược: Cắt lớp miệng cá thòi lòi; nắp van niêm mạc khóa chặt cổ họng; giọt nước trong má không hề rỉ ra dù {HERO} đang lộn nhào biểu diễn.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Một công nghệ khóa kín",
+   "layout": "Vũ điệu nhào lộn trên bùn: {HERO} lộn nhào trên không trung, hai má phồng tròn nước vẫn nguyên vẹn; {CRAB} giơ hai càng vỗ tay tán thưởng cuồng nhiệt.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Đặc biệt hơn nữa, chiếc",
+   "layout": "Góc thư giãn bãi lầy: {HERO} ngồi vắt vẻo trên rễ cây khô, thả lỏng chóp đuôi nhúng ngập trong vũng nước bùn mát rượi; các tia dưỡng khí lấp lánh chạy dọc từ đuôi lên lưng.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene02", "at": "Một sự thích nghi lưỡng",
+   "layout": "Hội đồng bò sát thán phục: Một chú kỳ đà và một chú rùa ngồi dưới tán cây ngả mũ chào {HERO} đang thong thả thở bằng chóp đuôi trên rễ đước.",
+   "stickers": [], "impacts": []
+  },
+
+  # ==================== SCENE 03 (12 beats) ====================
+  {
+   "scene": "scene03", "at": 0,
+   "layout": "Góc nghiên cứu nhãn khoa: Mô hình hộp sọ cá thòi lòi bằng thạch cao; hai nhãn cầu lồi to tướng đặt trên giá đỡ đo đạc; {NO_HERO}; ánh nắng chói chang chiếu rọi gay gắt.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Nhưng Cá Thòi Lòi lại",
+   "layout": "Đôi mắt kính tiềm vọng: {HERO} lặn dưới vũng bùn chỉ thò đúng hai nhãn cầu mắt lồi to tướng lên khỏi mặt bùn như hai kính tiềm vọng tàu ngầm quét bốn phương; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Vì sống trên cạn giữa",
+   "layout": "Thời tiết khắc nghiệt: {HERO} đứng giữa bãi bùn nắng gắt chiếu rọi, chiếc nhiệt kế cắm cạnh chỉ 40°C; hai mắt lồi toát mồ hôi lo sợ bị khô mắt.",
+   "stickers": [{"at": "40°C", "side": "R", "y": 360, "value": "40°C", "label": "nắng gắt bãi lầy", "target": [0.75, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Gã co rút cơ mặt,",
+   "layout": "Khoảnh khắc kỳ thú thụt mắt: {HERO} co cơ kéo tụt cả hai nhãn cầu mắt lặn sâu xuống bên trong đầu, biến mất khỏi đỉnh sọ; dưới đáy hốc mắt có chiếc túi nước bôi trơn nhãn cầu sáng loáng.",
+   "stickers": [], "impacts": ["nhãn cầu"]
+  },
+  {
+   "scene": "scene03", "at": "Mỗi khi gã thụt mắt",
+   "layout": "Cú tra thuốc nhỏ mắt tự nhiên: Hai nhãn cầu mắt ngoi bật trở lại đỉnh đầu sáng long lanh như hai viên ngọc; {HERO} chớp mắt lia lịa khoái chí.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Nhưng phát hiện chấn động",
+   "layout": "Phòng thí nghiệm quốc tế: Nhóm nhà khoa học hoạt hình đang reo hò trước màn hình máy quay siêu chậm ghi lại khoảnh khắc cá thòi lòi đớp mồi trên bùn; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Vì sống trên cạn nên",
+   "layout": "Thách thức nuốt mồi không có nước: So sánh một chú cá biển hút dòng nước nuốt mồi với {HERO} đứng trơ trên cạn lưỡi ngắn cũn không cơ bắp; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Mỗi khi đớp được một",
+   "layout": "Cơ chế pit-tông nuốt mồi: Cắt lớp miệng {HERO}; hai đáy nhãn cầu tụt sâu xuống ép chặt vòm miệng, đẩy chú còng gió trôi tuột xuống thực quản; mặt {HERO} chớp mắt đầy thỏa mãn.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Đáy nhãn cầu đóng vai",
+   "layout": "Mô hình pit-tông cơ khí: Hình vẽ kỹ thuật minh họa hai nhãn cầu đóng vai trò như hai xi-lanh pit-tông máy nén ép thức ăn trôi thẳng vào dạ dày; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Nghĩa là trên đời này,",
+   "layout": "Kỳ quan nuốt mồi bằng mắt: {HERO} xoa bụng no tròn, giơ ngón tay cái cười tự hào; phía sau là tấm biển NUỐT MỒI BẰNG ĐÔI MẮT ĐỘC NHẤT VÔ NHỊ.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Chưa dừng lại ở đó,",
+   "layout": "Hệ thống radar 360 độ: Hình tròn tầm nhìn quét toàn cảnh; một mắt của {HERO} soi xuống bãi bùn thấy chú sâu béo ngậy, mắt kia ngước lên trời thấy bóng chim bói cá lượn lờ.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene03", "at": "Bất kỳ kẻ thù nào",
+   "layout": "Cảnh giới tối cao: {HERO} phát hiện chim bói cá từ xa 3 mét, lập tức cúi rạp người chuẩn bị tẩu thoát; radar trên đầu nhấp nháy đèn xanh an toàn.",
+   "stickers": [{"at": "3 mét", "side": "R", "y": 360, "value": "3 MÉT", "label": "bán kính radar 360°", "target": [0.75, 0.5]}], "impacts": []
+  },
+
+  # ==================== SCENE 04 (9 beats) ====================
+  {
+   "scene": "scene04", "at": 0,
+   "layout": "Bản vẽ giải phẫu vây ngực: Sơ đồ xương vây ngực có khớp khuỷu tay và bó cơ vận động giống hệt cánh tay người; {NO_HERO}; bên cạnh là chiếc thước đo góc xoay.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Cấu trúc xương bên trong",
+   "layout": "So sánh khớp xương: BÊN TRÁI nan vây mỏng manh của cá trích; BÊN PHẢI vây ngực cơ bắp có khớp khuỷu tay của {HERO}; mũi tên chỉ vào bó cơ nâng đỡ trọng lượng cơ thể.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Cặp vây ngực này có",
+   "layout": "Hành trình việt dã trên bùn: {HERO} chống hai vây ngực xuống bùn bước đi mạnh mẽ như chú vượn con; dưới bụng lộ rõ chiếc đĩa hút tròn xoe bám dính trên rễ cây.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Dưới bụng của gã còn",
+   "layout": "Cận cảnh đĩa hút bụng: {HERO} treo ngược người dưới cành cây đước nhờ chiếc đĩa hút bụng dính chặt như giác hút cao su; hai tay vẫy chào {OWL_DOC}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Bé con vừa chứng kiến",
+   "layout": "Cú nhảy lò xo ngoạn mục: {HERO} gập cong đuôi hình chữ C búng mạnh bay vút lên không trung; vệt nước bắn tung tóe phía sau; thước đo khoảng cách ghi 1 mét.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Cú phóng này hất tung",
+   "layout": "Bay trên mặt bùn lầy: {HERO} lượn một đường parabol trên không trung qua đầu {CRAB}; {CRAB} ngước nhìn há hốc mồm kinh ngạc.",
+   "stickers": [{"at": "4 lần", "side": "L", "y": 360, "value": "GẤP 4 LẦN", "label": "khoảng cách nhảy xa", "target": [0.25, 0.5]},
+                {"at": "1 mét", "side": "R", "y": 360, "value": "1 MÉT", "label": "cú búng đuôi lò xo", "target": [0.75, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Vào mùa giao phối, tuyệt",
+   "layout": "Vũ đài tình yêu bãi bùn: Hai chú cá thòi lòi đực bật nhảy cao trên không trung, vây lưng giương cao sặc sỡ như cánh buồm ngũ sắc, miệng há to thị uy; một nàng cá mái ngồi dưới tán cây vỗ vây tán thưởng.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Kẻ nào nhảy cao hơn",
+   "layout": "Bá chủ bãi lầy ngập mặn: Chú cá thòi lòi đực chiến thắng giương vây cờ ngũ sắc đứng trên đỉnh cồn bùn, đeo vòng nguyệt quế; các đối thủ cúi đầu thần phục.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Một con cá dài",
+   "layout": "Huy chương vàng Olympic điền kinh: {HERO} đứng trên bục vinh quang số 1 đeo huy chương vàng môn điền kinh phối hợp leo cây chạy bộ nhảy xa; khán giả vỗ tay cuồng nhiệt.",
+   "stickers": [{"at": "20cm", "side": "L", "y": 360, "value": "20 CM", "label": "chiều dài cơ thể", "target": [0.25, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene04", "at": "Nếu đem so tỷ lệ",
+   "layout": "So sánh tỷ lệ vận động viên: Biểu đồ so sánh tỷ lệ nhảy xa của {HERO} với vận động viên Olympic; mũi tên chỉ số thành tích vượt trội; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+
+  # ==================== SCENE 05 (8 beats) ====================
+  {
+   "scene": "scene05", "at": 0,
+   "layout": "Mặt cắt địa đạo bùn ngập mặn: Sơ đồ hang bùn hình chữ Y sâu 2 mét dưới đáy lầy; các nhánh hang ngoằn ngoèo có tháp bùn tròn bảo vệ miệng hang; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene05", "at": "Gã dùng chính chiếc miệng",
+   "layout": "Công trường xây dựng ngầm: {HERO} miệng ngậm từng búng bùn đất ngoi lên nhổ ra ngoài bờ, đào sâu địa đạo hình chữ Y kiên cố.",
+   "stickers": [{"at": "2 mét", "side": "L", "y": 360, "value": "2 MÉT", "label": "địa đạo ngầm chữ Y", "target": [0.25, 0.5]}], "impacts": []
+  },
+  {
+   "scene": "scene05", "at": "Để miệng hang không bị",
+   "layout": "Pháo đài chắn thủy triều: {HERO} khéo léo đắp ụ bùn tròn xoe xung quanh miệng hang như tháp canh thành quách chắn sóng triều dâng; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene05", "at": "Đáy hang ngập ngụa trong",
+   "layout": "Nguy cơ yếm khí đáy bùn: Đáy hang tối đen ngập nước không có oxy; các bọt khí yếm khí độc hại bao quanh; hình ảnh nguy hiểm cho trứng cá; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene05", "at": "Nhưng chú cá thòi lòi",
+   "layout": "Kỳ tích kỹ thuật ngậm khí: {HERO} ngoi lên mặt cạn há to miệng ngậm một búng không khí căng phồng hai má, chuẩn bị lặn ngược xuống đáy hang sâu.",
+   "stickers": [], "impacts": ["búng không khí"]
+  },
+  {
+   "scene": "scene05", "at": "Gã bơi lên mặt cạn,",
+   "layout": "Chuyến xe buýt con thoi ngậm khí: {HERO} lặn sâu xuống đáy hang 2 mét, nhả búng không khí vào căn phòng phụ trên trần hang tối.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene05", "at": "Gã miệt mài thực hiện",
+   "layout": "Căn phòng túi khí ngầm: Dưới đáy hang bùn, một túi khí trong suốt lơ lửng trên trần hang; hàng ngàn quả trứng cá nhỏ bám trên trần sáng lấp lánh; {HERO} bơi quanh canh gác với ánh mắt trìu mến.",
+   "stickers": [], "impacts": ["túi khí ngầm"]
+  },
+  {
+   "scene": "scene05", "at": "Suốt nhiều tuần lễ ấp",
+   "layout": "Đàn cá con chào đời: Hàng trăm chú cá thòi lòi con mắt tí hon bơi lội quanh túi khí ngầm trong hang; {HERO} ông bố cần mẫn tươi cười vẫy chào đàn con.",
+   "stickers": [], "impacts": []
+  },
+
+  # ==================== SCENE 06 (7 beats) ====================
+  {
+   "scene": "scene06", "at": 0,
+   "layout": "Bức tranh chuyển giao lịch sử: Cây phả hệ tiến hóa sinh học; {HERO} đứng ở mắt xích trung tâm chuyển giao giữa cá dưới biển và động vật bốn chân trên cạn cách đây 300 triệu năm; ánh hào quang chiếu rọi.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene06", "at": "Gã là hình bóng sống",
+   "layout": "Tổ tiên bốn chân chinh phục đất liền: Hình ảnh tái hiện cách đây 300 triệu năm, những sinh vật đầu tiên dũng cảm thò đầu lên khỏi biển cả bước đi trên bùn lầy; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene06", "at": "Đôi khi trong cuộc sống,",
+   "layout": "Hình ảnh ẩn dụ truyền cảm hứng: {HERO} tươi cười tự tin đứng trên mỏm đá ngập mặn, một vây vẫy chào biển cả, một vây chỉ về phía đất liền rộng lớn đầy nắng ấm.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene06", "at": "Chính sự khác biệt nửa",
+   "layout": "Con đường tiên phong mở lối: Dấu chân vây cá của {HERO} in dài trên bãi bùn hướng về ánh bình minh rạng rỡ; biểu tượng của sự kiên định khác biệt.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene06", "at": "Nếu được sinh ra với",
+   "layout": "Tương tác người xem: {OWL_DOC} cùng {RABBIT_NURSE} và {CRAB} đứng bên cạnh {HERO}, cùng chỉ tay vào chiếc bảng bình luận nhấp nháy chữ Chẩn đoán của bạn.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene06", "at": "Còn bây giờ, hãy chuẩn",
+   "layout": "Cận cảnh hình bóng teaser tập 43 (TASTE-68): Trong phòng phẫu thuật tối mờ kỳ bí, một cái bóng đen bí ẩn (solid black silhouette) hình con ong bắp cày với chiếc kim tiêm nhọn hoắt sau lưng gắn dấu hỏi '?', phía trước là bóng một con gián đang ngoan ngoãn cúi đầu bước đi như xác sống.",
+   "stickers": [], "impacts": []
+  },
+  {
+   "scene": "scene06", "at": "Một kẻ sát nhân khoác",
+   "layout": "Poster đóng dấu hồ sơ 43: Chữ TẬP 43 phát sáng xanh ngọc bích trên nền tím than; bóng đen sát thủ ngọc bích cầm kim tiêm laser; {NO_HERO}.",
+   "stickers": [], "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Cận cảnh mở đầu: {HERO_S} ngồi trên tảng bùn ướt, hai mắt lồi to tướng chớp chớp thụt xuống đầu rồi ngoi lên, miệng ngậm cọng cỏ cười toe toét nhìn thẳng vào người xem.",
+   "stickers": []
+  },
+  {
+   "at": "Đây là Cá Thòi Lòi,",
+   "layout": "{HERO_S} hai tay chống bùn đi lại như một chú vượn con, hai má phồng to như hai quả bóng nước tròn phúng phính.",
+   "stickers": [{"at": "50%", "side": "L", "y": 620, "value": "50% OXY", "label": "thở qua da", "target": [0.5, 0.4]}]
+  },
+  {
+   "at": "Để không bị khô mang,",
+   "layout": "Cận cảnh hai má phồng to: Dòng nước mát lấp lánh trong khoang mang giữ ẩm cho các lá mang nhỏ xíu.",
+   "stickers": []
+  },
+  {
+   "at": "Chưa hết, cặp vây ngực",
+   "layout": "{HERO_S} đang dùng hai vây ngực leo thoăn thoắt lên rễ cây đước ngoằn ngoèo, miệng huýt sáo ngắm cảnh bãi lầy.",
+   "stickers": []
+  },
+  {
+   "at": "Nhưng dị nhất là đôi",
+   "layout": "Khoảnh khắc nuốt mồi kinh điển: {HERO_S} đớp chú bọ gậy, hai nhãn cầu mắt kéo tụt sâu xuống đầu làm pit-tông ép mồi trôi tuột xuống cổ họng.",
+   "stickers": [{"at": "pit-tông", "side": "R", "y": 620, "value": "PIT-TÔNG", "label": "thụt mắt nuốt mồi", "target": [0.5, 0.4]}]
+  },
+  {
+   "at": "vừa làm ẩm mắt vừa",
+   "layout": "{HERO_S} chớp mắt long lanh sau cú nuốt mồi, xoa bụng no tròn mãn nguyện.",
+   "stickers": []
+  },
+  {
+   "at": "nuốt mồi trong tích tắc!",
+   "layout": "Hình ảnh kết thúc: {HERO_S} co đuôi búng nhảy vút lên không trung với nụ cười rạng rỡ, giơ hai ngón tay cái chào tạm biệt khán giả.",
+   "stickers": []
+  }
+ ]
+}
+
+with open('projects/tap-42-ca-thoi-loi/specs/storyboard.json', 'w', encoding='utf-8') as f:
+    json.dump(sb42, f, ensure_ascii=False, indent=1)
+
+print("Storyboard Episode 42 generated successfully!")

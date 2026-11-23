@@ -1,0 +1,450 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "VỊ VUA QUYỀN ANH CỦA DÃY NÚI VIRUNGA",
+   "hook": "CỖ MÁY CƠ BẮP GẤP 10 LẦN NGƯỜI",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sàn đấu núi",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cơ bắp cuồn",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sét của gã",
+     "image": "assets/long/L04.png",
+     "stickers": [
+      {
+       "at": "800kg",
+       "side": "R",
+       "y": 320,
+       "value": "800kg",
+       "label": "Sức nâng bắp tay",
+       "target": [
+        0.8,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "và hít thở",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "võ sĩ khổng",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ăn chay thuần",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cơ bắp của",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cùng chúng tôi",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "ĐẤU TRƯỜNG UFC"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "CHIẾC BỤNG BIA CHỨA HÀNG TỶ VI KHUẨN",
+   "hook": "CHUYỂN HÓA CHẤT XƠ THÀNH NĂNG LƯỢNG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "không hề có",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "một khoang lò",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tiêu hóa, trong",
+     "image": "assets/long/L13.png",
+     "stickers": [
+      {
+       "at": "20kg",
+       "side": "L",
+       "y": 360,
+       "value": "20kg",
+       "label": "Lá cây mỗi ngày",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "tiêu hóa được",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "các liên kết",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "trực tiếp tái tạo",
+     "image": "assets/long/L16.png",
+     "stickers": [
+      {
+       "at": "70%",
+       "side": "R",
+       "y": 320,
+       "value": "70% CALO",
+       "label": "Năng lượng từ chất xơ",
+       "target": [
+        0.8,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "sữa tăng cơ",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi ngày nó dành",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "LÒ LÊN MEN BỤNG BỰ"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "SỨC MẠNH BẮP TAY XÉ TOẠC THÂN CÂY",
+   "hook": "LỰC CẮN 1300 PSI NGHIỀN NÁT XƯƠNG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "công phá làm",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "có thể dùng",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "móc vòng cung",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cụ già kể",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lên tới 1300",
+     "image": "assets/long/L24.png",
+     "stickers": [
+      {
+       "at": "1300 PSI",
+       "side": "R",
+       "y": 320,
+       "value": "1300 PSI",
+       "label": "Lực cắn nghiền xương",
+       "target": [
+        0.8,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "mà không hề",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bảo vệ cứng",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cận chiến với gã",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "LỰC ĐẤM TÀN PHÁ"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "NGHI THỨC VỖ NGỰC RỀN VANG",
+   "hook": "TÚI KHÍ KHÍ QUẢN CỘNG HƯỞNG ÂM",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đang đứng thẳng",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "của loài khỉ",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cú đập ngực",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tròn lại như",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đục vang xa",
+     "image": "assets/long/L33.png",
+     "stickers": [
+      {
+       "at": "một cây số",
+       "side": "L",
+       "y": 350,
+       "value": "1 KM",
+       "label": "Âm thanh vỗ ngực",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "hưởng trầm sâu",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ngỗ nghịch khi nghe",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vừa bảo tồn sinh lực",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "TIẾNG ĐẬP NGỰC SẤM RỀN"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "BẢN CHẤT VỊ THA CỦA NHÀ VÔ ĐỊCH",
+   "hook": "SẴN SÀNG HY SINH VÌ ĐÀN CON",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trường Rừng Rậm",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lên đầu lên",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sinh vật sống",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "động gây chiến",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "của nó bị",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "để che chở cho",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "viễn tưởng. Một trái",
+     "image": "assets/long/L44.png",
+     "stickers": [
+      {
+       "at": "200kg",
+       "side": "R",
+       "y": 320,
+       "value": "200kg",
+       "label": "Khối lượng nhà vô địch",
+       "target": [
+        0.8,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "nghiêng mình kính phục",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "TÂM HỒN NGƯỜI KHỔNG LỒ"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "KHÉP LẠI MÙA GIẢI 50 TẬP HUYỀN THOẠI",
+   "hook": "BẢN LĨNH CỦA KẺ MẠNH ĐÍCH THỰC",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lâm, tiếng đập",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đích thực bắt",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cụ để thống",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hành trình 50",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "rậm, chúng ta",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lực sung mãn,",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "phẩm hoang dã",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "KẾT LUẬN"
+  }
+ }
+}

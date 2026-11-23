@@ -1,0 +1,383 @@
+{
+ "episode": "tap-28-kien-no-cam-tu",
+ "title_lines": [
+  "TỰ NỔ TUNG CƠ THỂ",
+  "PHUN KEO ĐỘC BẢO VỆ TỔ?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 43.98,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-28-kien-no-cam-tu_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  8.27,
+  14.27,
+  18.89,
+  23.31,
+  26.65,
+  31.23,
+  35.31,
+  39.39,
+  42.93
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.7,
+     "text": "Những chiến binh"
+    },
+    {
+     "t": 1.4,
+     "text": "kiến nhỏ bé"
+    },
+    {
+     "t": 1.86,
+     "text": "này sẵn sàng"
+    },
+    {
+     "t": 2.48,
+     "text": "tự gồng cơ"
+    },
+    {
+     "t": 3.1,
+     "text": "bụng nổ tung"
+    },
+    {
+     "t": 3.82,
+     "text": "cơ thể mình"
+    },
+    {
+     "t": 4.4,
+     "text": "như bom cảm"
+    },
+    {
+     "t": 4.96,
+     "text": "tử để tiêu"
+    },
+    {
+     "t": 5.58,
+     "text": "diệt kẻ thù!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 6.47,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 10.52,
+     "side": "R",
+     "y": 620,
+     "value": "CAO 50M",
+     "label": "vòm rừng nhiệt đới",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 6.72,
+     "text": "Xin giới thiệu"
+    },
+    {
+     "t": 7.64,
+     "text": "Kiến Nổ Cảm"
+    },
+    {
+     "t": 8.2,
+     "text": "Tử, sinh vật"
+    },
+    {
+     "t": 9.18,
+     "text": "sống trên những"
+    },
+    {
+     "t": 9.78,
+     "text": "ngọn cây cao"
+    },
+    {
+     "t": 10.52,
+     "text": "50m ở rừng"
+    },
+    {
+     "t": 11.36,
+     "text": "mưa Đông Nam Á."
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 12.47,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 12.72,
+     "text": "Cơ thể nó"
+    },
+    {
+     "t": 13.24,
+     "text": "mang một cặp"
+    },
+    {
+     "t": 13.74,
+     "text": "túi dự trữ"
+    },
+    {
+     "t": 14.1,
+     "text": "chất nhầy khổng"
+    },
+    {
+     "t": 15.06,
+     "text": "lồ chạy dọc"
+    },
+    {
+     "t": 15.72,
+     "text": "từ hàm xuống"
+    },
+    {
+     "t": 16.28,
+     "text": "tận khoang bụng."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 17.09,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 17.34,
+     "text": "Khi bị kẻ"
+    },
+    {
+     "t": 17.8,
+     "text": "săn mồi bao"
+    },
+    {
+     "t": 18.46,
+     "text": "vây, nó lao"
+    },
+    {
+     "t": 19.44,
+     "text": "tới cắn chặt"
+    },
+    {
+     "t": 19.96,
+     "text": "đối thủ rồi"
+    },
+    {
+     "t": 20.56,
+     "text": "gồng rách lớp"
+    },
+    {
+     "t": 21.16,
+     "text": "vỏ bụng"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 21.51,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 21.56,
+     "text": "để phóng ra"
+    },
+    {
+     "t": 22.16,
+     "text": "một dòng keo"
+    },
+    {
+     "t": 22.76,
+     "text": "độc màu vàng"
+    },
+    {
+     "t": 23.4,
+     "text": "tươi cực dính!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 24.85,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 25.1,
+     "text": "Dòng keo này"
+    },
+    {
+     "t": 25.48,
+     "text": "khóa cứng hoàn"
+    },
+    {
+     "t": 26.24,
+     "text": "toàn chân tay"
+    },
+    {
+     "t": 26.82,
+     "text": "và làm ngạt"
+    },
+    {
+     "t": 27.7,
+     "text": "thở kẻ địch"
+    },
+    {
+     "t": 28.26,
+     "text": "chỉ trong vài giây!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 29.43,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 29.68,
+     "text": "Trong khi đó,"
+    },
+    {
+     "t": 30.26,
+     "text": "ở cửa tổ,"
+    },
+    {
+     "t": 31.32,
+     "text": "những chú kiến"
+    },
+    {
+     "t": 31.84,
+     "text": "lính có chiếc"
+    },
+    {
+     "t": 32.4,
+     "text": "đầu phẳng lì"
+    },
+    {
+     "t": 32.96,
+     "text": "hình nút chai"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 33.51,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 33.62,
+     "text": "sẽ cắm chặt"
+    },
+    {
+     "t": 34.14,
+     "text": "đầu vào lỗ"
+    },
+    {
+     "t": 34.62,
+     "text": "cây để làm"
+    },
+    {
+     "t": 35.48,
+     "text": "cánh cửa sống"
+    },
+    {
+     "t": 36.18,
+     "text": "chặn đứng mọi"
+    },
+    {
+     "t": 36.84,
+     "text": "kẻ đột nhập!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 37.59,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 37.84,
+     "text": "Một đế chế"
+    },
+    {
+     "t": 38.38,
+     "text": "cảm tử vừa"
+    },
+    {
+     "t": 39.12,
+     "text": "biết nổ tung"
+    },
+    {
+     "t": 39.6,
+     "text": "tự sát,"
+    },
+    {
+     "t": 40.4,
+     "text": "vừa dùng đầu"
+    },
+    {
+     "t": 40.82,
+     "text": "làm cửa"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 41.13,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 41.26,
+     "text": "thành, đúng là"
+    },
+    {
+     "t": 42.0,
+     "text": "đội quân liều"
+    },
+    {
+     "t": 42.52,
+     "text": "chết kỳ quặc"
+    },
+    {
+     "t": 43.16,
+     "text": "nhất hành tinh!"
+    }
+   ]
+  }
+ ]
+}

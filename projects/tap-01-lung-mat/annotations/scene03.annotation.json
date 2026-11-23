@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "canvas": {
+    "width": 1280,
+    "height": 720
+  },
+  "sceneDurationMs": 103655,
+  "elements": [
+    {
+      "id": "s03_header",
+      "region": {
+        "x": 269,
+        "y": 10,
+        "width": 741,
+        "height": 41
+      },
+      "reveal": {
+        "startMs": 0,
+        "durationMs": 2000
+      }
+    },
+    {
+      "id": "s03_left",
+      "region": {
+        "x": 20,
+        "y": 64,
+        "width": 608,
+        "height": 642
+      },
+      "reveal": {
+        "startMs": 2000,
+        "durationMs": 50000
+      }
+    },
+    {
+      "id": "s03_right",
+      "region": {
+        "x": 652,
+        "y": 64,
+        "width": 608,
+        "height": 642
+      },
+      "reveal": {
+        "startMs": 52000,
+        "durationMs": 51655
+      }
+    }
+  ]
+}

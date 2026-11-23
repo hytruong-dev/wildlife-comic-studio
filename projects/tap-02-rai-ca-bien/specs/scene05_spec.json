@@ -1,0 +1,324 @@
+{
+  "scene_id": "scene05",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 4,
+  "world_width": 2042,
+  "world_height": 1040,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 60,
+  "duration_ms": 103303,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-02-rai-ca-bien/assets/scenes_composed/scene05_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      312,
+      9,
+      967,
+      55
+    ],
+    "x": 324,
+    "y": 13,
+    "w": 631,
+    "h": 40,
+    "text": "VỆ BINH RỪNG TẢO BẸ & HẢI TẶC CƯỚP VÁN TRƯỢT 841",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-02-rai-ca-bien/assets/scenes_composed/scene05_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 21648,
+      "has_frame": false,
+      "pill_box": [
+        549,
+        60,
+        759,
+        100
+      ],
+      "art_only_box": [
+        338,
+        96,
+        967,
+        449
+      ],
+      "caption": {
+        "text": "Đại họa đáy biển: Đội quân Nhím Biển Tím tràn tới gặm trụi rừng Tảo Bẹ",
+        "x": 369,
+        "y": 449,
+        "w": 567,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        336,
+        60,
+        969,
+        481
+      ],
+      "img_region": {
+        "x": 338,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 21648,
+      "end_ms": 50658,
+      "has_frame": false,
+      "pill_box": [
+        1268,
+        60,
+        1511,
+        95
+      ],
+      "art_only_box": [
+        1073,
+        96,
+        1702,
+        449
+      ],
+      "caption": {
+        "text": "Vệ binh rừng tảo bẹ: Ăn nhiều nhím biển đến mức răng và xương hóa màu tím!",
+        "x": 1086,
+        "y": 449,
+        "w": 604,
+        "h": 31,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1071,
+        60,
+        1704,
+        482
+      ],
+      "img_region": {
+        "x": 1073,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 50658,
+      "end_ms": 73719,
+      "has_frame": false,
+      "pill_box": [
+        1282,
+        550,
+        1496,
+        590
+      ],
+      "art_only_box": [
+        1073,
+        586,
+        1702,
+        939
+      ],
+      "caption": {
+        "text": "Huyền thoại rái cá 841 ở Santa Cruz: Chặn đầu cướp ván lướt sóng phơi nắng!",
+        "x": 1083,
+        "y": 939,
+        "w": 609,
+        "h": 31,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1071,
+        550,
+        1704,
+        972
+      ],
+      "img_region": {
+        "x": 1073,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_04",
+      "start_ms": 73719,
+      "end_ms": 101803,
+      "has_frame": false,
+      "pill_box": [
+        528,
+        550,
+        781,
+        591
+      ],
+      "art_only_box": [
+        338,
+        586,
+        967,
+        939
+      ],
+      "caption": {
+        "text": "Đỉnh cao trí tuệ: Lặn né mọi tấm lưới và nhảy lên ván của đội cứu hộ trêu ngươi",
+        "x": 346,
+        "y": 939,
+        "w": 613,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        336,
+        550,
+        969,
+        970
+      ],
+      "img_region": {
+        "x": 338,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 336.0,
+    "y_min": 60.0,
+    "x_max": 1704.0,
+    "y_max": 972.0,
+    "bbox_w": 1368.0,
+    "bbox_h": 912.0,
+    "center_x": 1020.0,
+    "center_y": 516.0,
+    "zoom_out_scale": 0.6507,
+    "crop_w": 1967.1,
+    "crop_h": 1002.0
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 652.5,
+      "cy": 270.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.08,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 21028.0,
+      "cx": 652.5,
+      "cy": 270.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.08,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 21648.0,
+      "cx": 1387.5,
+      "cy": 271.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 2.08,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 50038.0,
+      "cx": 1387.5,
+      "cy": 271.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 2.08,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 50658.0,
+      "cx": 1387.5,
+      "cy": 761.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 2.08,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 73099.0,
+      "cx": 1387.5,
+      "cy": 761.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 2.08,
+      "phase": "transition",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 73719.0,
+      "cx": 652.5,
+      "cy": 760.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.09,
+      "phase": "focus_hold",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 101803.0,
+      "cx": 652.5,
+      "cy": 760.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.09,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 102303.0,
+      "cx": 1020.0,
+      "cy": 516.0,
+      "crop_w": 1967.1,
+      "crop_h": 1002.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 103303.0,
+      "cx": 1020.0,
+      "cy": 516.0,
+      "crop_w": 1967.1,
+      "crop_h": 1002.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

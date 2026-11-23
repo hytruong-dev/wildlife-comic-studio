@@ -1,0 +1,349 @@
+{
+  "title": "Tập 40: Kiến Cắt Lá — Đại Công Trình Sư Rừng Rậm",
+  "animal": "Kiến Cắt Lá",
+  "format": "F2",
+  "persona": "ky_su_vu_khi",
+  "nickname": "Đại Công Trình Sư Ngầm",
+  "episode_no": 40,
+  "sources": [
+    "Nature - Agriculture and Fungus Farming in Attine Ants (50 Million Years of Symbiosis)",
+    "Journal of Comparative Physiology - Ventilation Dynamics and Thermal Regulation in Atta Underground Nests",
+    "PNAS - Division of Labor and Caste Specialization in Leafcutter Ants"
+  ],
+  "voice": {
+    "tempo_long": 1.11,
+    "tempo_shorts_min": 1.07,
+    "min_long_s": 510,
+    "max_long_s": 900
+  },
+  "whisper_prompt": "Kiến Cắt Lá, Atta cephalotes, Đại Công Trình Sư Ngầm, nấm cộng sinh, Leucoagaricus, kiến lính, kiến thợ, thông gió ngầm, 8 mét, 50 tấn đất, kháng sinh tự nhiên",
+  "display_fix": {
+    "Tập bốn mươi": "Tập 40",
+    "Tập bốn mươi mốt": "Tập 41",
+    "năm mươi triệu năm": "50 triệu năm",
+    "sáu mươi triệu năm": "60 triệu năm",
+    "hàng triệu năm": "hàng triệu năm",
+    "triệu năm": "triệu năm",
+    "tám mét": "8m",
+    "mười mét": "10m",
+    "ba mươi mét": "30m",
+    "năm mươi mét": "50m",
+    "hai mươi mét": "20m",
+    "năm mươi tấn": "50 tấn",
+    "hai mươi tấn": "20 tấn",
+    "bốn mươi tấn": "40 tấn",
+    "hai mươi lăm độ": "25°C",
+    "chín mươi phần trăm": "90%",
+    "một trăm phần trăm": "100%",
+    "năm mươi lần": "50 lần",
+    "ba trăm lần": "300 lần",
+    "ba lần": "3 lần",
+    "hai lần": "2 lần",
+    "mười lần": "10 lần",
+    "hai mươi tư giờ": "24 giờ",
+    "hai mươi bốn giờ": "24 giờ",
+    "thế kỷ hai mươi mốt": "thế kỷ 21",
+    "Đại Công Trình Sư Ngầm": "Đại Công Trình Sư Ngầm",
+    "Atta": "Atta",
+    "cephalotes": "cephalotes",
+    "Leucoagaricus": "Leucoagaricus",
+    "Pseudonocardia": "Pseudonocardia",
+    "Escovopsis": "Escovopsis",
+    "mười lăm mét": "15m",
+    "mười lăm": "15",
+    "một ngàn": "1.000",
+    "mười ngàn năm": "10.000 năm",
+    "ba mươi giây": "30 giây",
+    "ba mươi": "30",
+    "hai mươi": "20",
+    "năm mươi mét vuông": "50m²",
+    "năm mươi triệu dân": "50 triệu dân",
+    "năm mươi triệu": "50 triệu"
+  },
+  "longform": {
+    "scenes": [
+      {
+        "id": "scene01",
+        "badge": "ĐẠI CÔNG TRƯỜNG NGẦM",
+        "banner_title": "KỲ QUAN ĐỊA DƯỚI RỪNG AMAZON",
+        "chapter_title": "Bản vẽ số một: Khám phá kỳ quan kiến trúc đại công trình ngầm dưới lòng đất",
+        "hook": "Bí mật về nền nông nghiệp lâu đời nhất hành tinh",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Chào mừng toàn thể các kỹ sư công trình ngầm, các kiến trúc sư đô thị và những người đam mê khoa học sinh thái bước vào đại công trường kỳ vĩ nhất hành tinh! [laughter] Hôm nay, phòng thiết kế kỹ thuật sinh học của chúng tôi xin trân trọng giải mã một kỳ quan xây dựng vĩ đại nằm ẩn sâu dưới lòng thảm rừng nhiệt đới Amazon, nơi cư ngụ của một đế chế tí hon với tài năng quy hoạch đô thị vượt xa trí tưởng tượng của con người!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Hãy quan sát mặt cắt bản vẽ kỹ thuật địa chất: Bên dưới một diện tích mặt đất rộng tới năm mươi mét vuông là cả một thành phố ngầm khổng lồ ăn sâu tám mét xuống lòng đất! Để xây dựng nên đô thị này, hàng triệu cư dân tí hon đã đào bới và vận chuyển hơn bốn mươi tấn đất đá lên bề mặt, tương đương với việc con người xây dựng đại kim tự tháp Giza bằng xẻng cầm tay!"
+          },
+          {
+            "speaker": "cameo",
+            "cast": "co_tro_ly",
+            "mood": "hao_hung",
+            "text": "[surprise-oh] Thưa Tổng chỉ huy công trình, cảm biến địa chất xác nhận bên trong thành phố ngầm này có tới hơn một ngàn căn phòng chuyên dụng kết nối với nhau bằng mạng lưới đường hầm thông gió hoàn hảo!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Một thông số kiến trúc gây choáng váng thưa trợ lý giám sát! Những công trình sư tài ba kiến tạo nên kiệt tác này mang tên khoa học Atta cephalotes, hay còn gọi là loài Kiến Cắt Lá, nhưng toàn bộ giới xây dựng thế giới đều nghiêng mình thán phục gọi chúng bằng danh hiệu: Đại Công Trình Sư Ngầm! Trong khi loài người mới chỉ phát minh ra nền nông nghiệp cách đây khoảng mười ngàn năm, thì loài kiến này đã thành lập những trang trại trồng nấm quy mô công nghiệp từ năm mươi triệu năm trước!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Lá cây mà chúng rầm rộ cắt xẻ và gánh vác ngày đêm trên lưng hoàn toàn không phải để ăn, mà là nguồn nguyên liệu phân bón thượng hạng để nuôi dưỡng những vườn nấm khổng lồ dưới lòng đất! Bí mật cơ khí và tổ chức nào đã giúp chúng vận hành cỗ máy nông nghiệp vĩ đại này? Xin mời quý vị cùng tôi mở bản vẽ kỹ thuật tầng một để giải mã lưỡi cưa sinh học đầu tiên!"
+          }
+        ]
+      },
+      {
+        "id": "scene02",
+        "badge": "LƯỠI CƯA SINH HỌC",
+        "banner_title": "CẶP HÀM RĂNG CƯA SIÊU ÂM",
+        "chapter_title": "Bản vẽ số hai: Cặp hàm răng cưa rung tần số cao cắt ngọt từng phiến lá",
+        "hook": "Cơ chế dao cắt rung siêu âm lấy cảm hứng cho ngành cơ khí",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Xin mời các kỹ sư cơ khí hãy zoom cận cảnh vào công cụ lao động tiền tuyến của những người thợ khai thác gỗ: Cặp hàm răng cưa thần kỳ! Hàm của kiến thợ cắt lá được gia cố bằng các nguyên tử kẽm và mangan siêu cứng, biến các răng cưa ở rìa hàm sắc bén và bền bỉ ngang ngửa với lưỡi dao phẫu thuật bằng hợp kim titan!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Nhưng điều làm nên sự kinh ngạc tột độ chính là cơ chế rung tần số cao: Khi cắn vào phiến lá cây dày cộm, phần bụng của chú kiến sẽ rung lắc liên hồi với tần số lên tới một ngàn lần mỗi giây! Dao động rung này truyền thẳng xuống cặp hàm, biến nó thành một chiếc máy cưa rung siêu âm, giúp xẻ ngọt phiến lá dai nhách chỉ trong vòng chưa đầy ba mươi giây mà không tốn chút sức lực nào!"
+          },
+          {
+            "speaker": "cameo",
+            "cast": "co_tro_ly",
+            "mood": "hao_hung",
+            "text": "[surprise-oh] Thưa Chỉ huy, có phải mỗi mảnh lá cây được cắt ra nặng gấp nhiều lần trọng lượng cơ thể của chú kiến thợ không ạ?"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Chính xác tuyệt đối! Một chú kiến thợ chỉ nặng vài mi-li-gam nhưng có thể ngoạm chặt một mảnh lá nặng gấp hai mươi lần trọng lượng cơ thể mình, sau đó vác hiên ngang trên lưng chạy nước rút suốt quãng đường hàng trăm mét trở về tổ! Tương đương với việc một người lực sĩ gánh một chiếc xe hơi trên vai chạy cự ly marathon!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Khi hàng triệu chú kiến cùng rầm rộ khuân vác lá cây trên những con đường cao tốc thông thoáng được dọn sạch chướng ngại vật, chúng tạo nên một cảnh tượng kỳ vĩ tựa như một dòng sông xanh biếc đang cuồn cuộn chảy xuyên qua rừng rậm! Nhưng lá cây đem về tổ sẽ được chế biến ra sao? Mời các bạn cùng tôi bước xuống tầng hầm nông nghiệp!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Tốc độ hành quân của những đoàn kiến cắt lá có thể đạt tới mười lăm mét mỗi phút! Để tối ưu hóa năng suất vận chuyển, các kiến thợ công binh đi trước sẽ dùng hàm dọn sạch mọi chướng ngại vật, tạo nên những xa lộ liên tỉnh bằng phẳng rộng tới ba mươi xăng-ti-mét kéo dài bất tận xuyên qua bụi rậm nhiệt đới!"
+          }
+        ]
+      },
+      {
+        "id": "scene03",
+        "badge": "VƯỜN NẤM NGẦM",
+        "banner_title": "TRANG TRẠI SINH HỌC 50 TRIỆU NĂM",
+        "chapter_title": "Bản vẽ số ba: Trang trại nấm cộng sinh cổ xưa nhất hành tinh",
+        "hook": "Mối quan hệ cộng sinh tương hỗ hoàn hảo giữa kiến và nấm",
+        "mood": "tram_bi_an",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Bước vào các khoang hầm trung tâm sâu dưới lòng đất, chúng ta sẽ được chiêm ngưỡng những vườn nấm màu trắng ngà xốp như bọt biển: Đây chính là nguồn lương thực duy nhất nuôi sống toàn bộ hàng triệu cư dân của Đại Công Trình Sư Ngầm! Loài nấm này mang tên Leucoagaricus gongylophorus, một giống nấm cộng sinh đặc biệt đã gắn liền với số phận loài kiến suốt năm mươi triệu năm qua."
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Quy trình chế biến thức ăn tại đây diễn ra nghiêm ngặt như một nhà máy công nghiệp hiện đại: Những mảnh lá cây mang về sẽ được các kiến thợ nhai nát thành bột mịn, sau đó tẩm ướp các giọt enzyme tiêu hóa từ dịch ruột của kiến rồi đắp thành luống phân bón tơi xốp để cấy sợi nấm lên trên."
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Sợi nấm sẽ tiêu hóa chất xơ cellulose cứng nhắc trong lá cây và sản sinh ra các cấu trúc phình to giàu protein và đường gọi là gongylidia. Những viên nang dinh dưỡng này chính là món ăn thượng hạng bồi bổ cho ấu trùng kiến và kiến chúa!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Loài nấm này phụ thuộc hoàn toàn vào kiến để được chăm sóc và diệt cỏ dại, còn loài kiến phụ thuộc hoàn toàn vào nấm để có thức ăn. Một liên minh sinh học bền chặt trường tồn qua hàng triệu năm thăng trầm của lịch sử Trái Đất!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Nhưng để duy trì một vườn nấm khổng lồ dưới lòng đất sâu tăm tối và ngột ngạt, làm thế nào để hàng ngàn tấn nấm không bị ngạt khí cacbonic hay chết vì nấm mốc dịch bệnh? Xin mời các bạn cùng tôi khám phá hệ thống điều hòa nhiệt độ đỉnh cao!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Ước tính mỗi tổ kiến cắt lá tiêu thụ lượng lá cây tương đương với lượng cỏ mà một con bò trưởng thành ăn trong suốt cả năm! Nhưng chúng không bao giờ tàn sát một cái cây duy nhất đến cạn kiệt, mà luôn luân phiên thu hoạch lá từ hàng chục loài cây khác nhau để bảo tồn sự đa dạng sinh học và tránh tích tụ độc tố thực vật trong trang trại nấm ngầm!"
+          }
+        ]
+      },
+      {
+        "id": "scene04",
+        "badge": "HỆ THỐNG ĐIỀU HÒA",
+        "banner_title": "MÁY ĐIỀU HÒA NHIỆT ĐỘ KHÔNG ĐIỆN",
+        "chapter_title": "Bản vẽ số bốn: Hệ thống thông gió đối lưu giữ nhiệt độ hai mươi lăm độ hoàn hảo",
+        "hook": "Kỹ thuật thông gió thụ động lấy cảm hứng cho các tòa nhà chọc trời",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Đây chính là đỉnh cao cơ điện công trình khiến các kỹ sư nhân loại phải ngả mũ bái phục: Hệ thống điều hòa không khí tự nhiên hoàn toàn không sử dụng điện năng! Vườn nấm ngầm đòi hỏi một môi trường cực kỳ khắt khe: Nhiệt độ phải luôn duy trì ổn định ở mức hai mươi lăm độ C và độ ẩm phải đạt chín mươi phần trăm, bất kể bên ngoài mặt đất đang là nắng hạn bỏng rát hay mưa bão ngập lụt!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Để đạt được sự cân bằng vi khí hậu kỳ diệu này, Đại Công Trình Sư Ngầm đã đào đục hàng ngàn giếng thông gió thẳng đứng nối từ các phòng nuôi nấm lên mặt đất. Các giếng ở trung tâm tổ được thiết kế nhô cao hơn và đón gió nhiều hơn, tạo ra sự chênh lệch áp suất khí quyển mạnh mẽ!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Hiệu ứng ống khói đối lưu nhiệt tự động hút không khí nóng ẩm chứa đầy khí cacbonic độc hại từ đáy tổ đẩy ra ngoài qua các lỗ trung tâm, đồng thời hút luồng không khí tươi mát giàu oxy từ các giếng thông gió ngoại vi chìm sâu xuống đáy tổ, làm mát toàn bộ hệ thống!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Khi nhiệt độ thay đổi, hàng vạn kiến thợ sẽ hối hả chạy đến các cửa giếng để mở rộng hoặc đắp đất bịt bớt miệng giếng lại, điều tiết lưu lượng gió chính xác đến từng mi-li-mét khối! Nhiều tòa nhà chọc trời tiết kiệm năng lượng hiện đại ngày nay, tiêu biểu như trung tâm Eastgate tại Zimbabwe, đã mô phỏng trực tiếp nguyên lý thông gió của tổ kiến cắt lá để giảm chín mươi phần trăm chi phí điện máy lạnh!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Một công nghệ thông gió thụ động siêu việt! Và để bảo vệ kỳ quan đô thị này trước sự xâm lăng của kẻ thù và nấm mốc ký sinh, kiến cắt lá còn sở hữu một lực lượng vũ trang và y tế chuyên môn hóa đến mức phi thường!"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Ngay cả trong những trận mưa lũ nhiệt đới xối xả ngập úng mặt đất, cấu trúc miệng giếng thông gió hình phễu ngược và mạng lưới cống thoát nước ngầm vẫn ngăn không cho một giọt nước nào chảy tràn vào các buồng nấm trung tâm! Một bản lĩnh thiết kế thủy lợi và địa kỹ thuật khiến mọi công trình sư hiện đại phải kinh ngạc thán phục!"
+          }
+        ]
+      },
+      {
+        "id": "scene05",
+        "badge": "LỰC LƯỢNG QUÂN SỰ",
+        "banner_title": "QUÂN ĐOÀN CƠ ĐỘNG VÀ KHÁNG SINH",
+        "chapter_title": "Bản vẽ số năm: Phân chia đẳng cấp xã hội cực đoan và vũ khí kháng sinh sống",
+        "hook": "Đội quân kiến lính bọc thép và phòng thí nghiệm y tế di động",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Hãy quan sát sự phân tầng xã hội tinh vi trong tổ kiến: Chẳng có một xã hội động vật nào trên Trái Đất có sự phân hóa hình thể và chức năng chuyên môn sâu sắc như loài kiến cắt lá! Trong tổ có tới bốn đẳng cấp kiến khác nhau cùng chung sống hòa thuận:"
+          },
+          {
+            "speaker": "host",
+            "mood": "don_dap",
+            "text": "Ở vị trí quân đội thường trực là những chú kiến lính khổng lồ nặng gấp ba trăm lần kiến thợ nhỏ! Chúng sở hữu hộp sọ bọc thép khổng lồ chứa đầy cơ hàm cuồn cuộn, với cặp hàm sắc bén như chiếc kìm bấm có thể cắn thủng lớp da giày của con người và sẵn sàng hiến dâng tính mạng để chặn đứng những con thú ăn kiến đói khát!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Ngược lại, ở vị trí chăm sóc y tế là những chú kiến siêu tí hon chỉ nhỏ bằng đầu tăm. Chúng thường cưỡi ngay trên phiến lá mà các chú kiến thợ đang vác để làm vệ sinh, liên tục xua đuổi những con ruồi ký sinh phorid nguy hiểm muốn đẻ trứng lên đầu đồng đội!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Đặc biệt nhất, trên lớp vỏ mai của kiến thợ có một lớp phấn trắng mờ: Đó chính là quần thể vi khuẩn Pseudonocardia cộng sinh, một nhà máy sản xuất thuốc kháng sinh tự nhiên! Loại kháng sinh này tiêu diệt đặc hiệu các loài nấm mốc ký sinh độc hại mang tên Escovopsis, giữ cho trang trại nấm ngầm luôn vô trùng tuyệt đối suốt năm mươi triệu năm mà không hề bị lờn thuốc!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Một hệ thống y tế và an ninh quốc phòng hoàn hảo đến từng mi-crô-mét, bảo vệ sự phồn vinh của đế chế ngầm qua muôn vàn thử thách khắc nghiệt của mẹ thiên nhiên!"
+          }
+        ]
+      },
+      {
+        "id": "scene06",
+        "badge": "TỔNG KẾT DỰ ÁN",
+        "banner_title": "ĐỈNH CAO XÂY DỰNG TỰ NHIÊN",
+        "chapter_title": "Tổng kết công trình: Tôn vinh kiệt tác kiến trúc và bài học cho nhân loại",
+        "hook": "Bài học về sự đoàn kết tổ chức và phát triển bền vững",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Thưa toàn thể hội đồng thẩm định kiến trúc và quý khán giả theo dõi công trình, sau khi khảo sát chi tiết toàn bộ năm bản vẽ từ đại công trường ngầm tám mét, cặp hàm cưa rung siêu âm, vườn nấm nông nghiệp năm mươi triệu năm, hệ thống thông gió đối lưu hai mươi lăm độ cho đến quân đoàn kiến lính và kháng sinh sống, hội đồng nhất trí tuyệt đối trao Chứng nhận Kỳ Quan Kiến Trúc Tự Nhiên cho Kiến Cắt Lá!"
+          },
+          {
+            "speaker": "host",
+            "mood": "tram_bi_an",
+            "text": "Đại Công Trình Sư Ngầm chính là hình mẫu kiểu mẫu về nền kinh tế tuần hoàn và phát triển bền vững không rác thải. Toàn bộ chất thải từ vườn nấm ngầm đều được đưa vào các khoang rác thải hữu cơ sâu dưới đáy tổ để tái chế và nuôi dưỡng đất rừng nhiệt đới, tạo nên thảm thực vật xanh tươi màu mỡ bậc nhất hành tinh."
+          },
+          {
+            "speaker": "host",
+            "mood": "am_ap",
+            "text": "Bài học từ loài kiến nhỏ bé nhắc nhở nhân loại chúng ta rằng: Khi hàng triệu cá nhân cùng chung sức đồng lòng, hướng về một mục tiêu chung với tinh thần kỷ luật và sự phân công lao động khoa học, những sinh vật nhỏ bé nhất cũng có thể tạo nên những kỳ tích dời non lấp bể vĩ đại!"
+          },
+          {
+            "speaker": "host",
+            "mood": "hao_hung",
+            "text": "Giữa hệ thống điều hòa thông gió đối lưu tự nhiên và kỹ thuật nuôi nấm bằng lưỡi cưa rung siêu âm, kỳ quan nào của Kiến Cắt Lá khiến bạn thán phục và truyền cảm hứng nhiều nhất? Hãy để lại ý kiến đóng góp của bạn ngay trong phần bình luận bên dưới nhé!"
+          },
+          {
+            "speaker": "host",
+            "mood": "am_ap",
+            "text": "Và đừng quên nhấn nút Đăng Ký Kênh cùng chiếc chuông thông báo để cùng đồng hành trong chuỗi tập tiếp theo của thế giới tự nhiên kỳ thú! Xin chào tạm biệt và hẹn gặp lại toàn thể các bạn trên những công trình vĩ đại tiếp theo!"
+          }
+        ]
+      }
+    ]
+  },
+  "shorts": {
+    "text": "[surprise-oh] Bạn có tin loài người không phải là sinh vật đầu tiên phát minh ra nông nghiệp trên Trái Đất không? [laughter] Trước khi con người xuất hiện hàng chục triệu năm, loài Kiến Cắt Lá đã xây dựng những trang trại trồng nấm quy mô công nghiệp sâu tám mét dưới lòng đất! Bí mật kinh hoàng nằm ở chỗ: Chúng cắt lá cây không phải để ăn, mà dùng hàm rung siêu âm như máy cưa xẻ nát lá làm phân bón nuôi nấm! [dissatisfaction-hnn] Tổ của chúng đào bới hơn bốn mươi tấn đất đá, sở hữu hệ thống thông gió đối lưu tự nhiên giữ nhiệt độ luôn ổn định ở hai mươi lăm độ C mà không tốn một giọt điện năng! Thậm chí trên mai kiến còn có vi khuẩn tiết ra thuốc kháng sinh tự nhiên để bảo vệ mùa màng! [laughter] Một siêu đô thị ngầm năm mươi triệu dân vận hành bền vững suốt năm mươi triệu năm qua! Đúng là bậc thầy công trình vĩ đại nhất của tự nhiên!"
+  },
+  "seo": {
+    "title": "Đại Công Trình Ngầm: Kiến Cắt Lá Xây Đô Thị 50 Triệu Dân Với Điều Hòa Tự Nhiên?! | Tập 40",
+    "hook_paragraph": "Kiến Cắt Lá (Atta cephalotes) không ăn lá cây! Chúng cắt hàng tấn lá rừng Amazon mỗi năm để làm nguyên liệu nuôi trồng nấm ngầm trong một thành phố sâu 8 mét dưới lòng đất với 50 triệu cư dân. Hệ thống điều hòa nhiệt độ không dùng điện và phòng thí nghiệm kháng sinh tự nhiên của chúng hoạt động thế nào? Cùng Kỹ sư trưởng khám phá!",
+    "bullets": [
+      "Cặp hàm dao cắt rung siêu âm 1.000 Hz: Nghiền nát phiến lá dai như kéo phẫu thuật laser",
+      "Thành phố ngầm sâu 8 mét: Đào bới 40 tấn đất đá tạo ra hơn 1.000 phòng chức năng kết nối ngầm",
+      "Nền nông nghiệp nấm 50 triệu năm: Trồng nấm Leucoagaricus trước khi loài người xuất hiện 50 triệu năm",
+      "Hệ thống điều hòa đối lưu không dùng điện: Lỗ thông gió trung tâm đẩy khí nóng và hút khí mát",
+      "Đội quân kiến lính bọc thép sinh học: Lớp giáp khoáng chất magnesium canxi cứng cáp chống kẻ thù",
+      "Nhà máy kháng sinh di động: Vi khuẩn trên thân kiến sản sinh hoạt chất tiêu diệt nấm mốc độc hại"
+    ],
+    "question": "Giữa hệ thống điều hòa đối lưu không dùng điện và cặp hàm cắt lá rung tần số 1.000 Hz, kỳ quan kỹ thuật nào của Kiến Cắt Lá làm bạn thán phục nhất?",
+    "next_teaser": "những bí mật hoang dã chưa từng được tiết lộ trong mùa tiếp theo",
+    "hashtag_broad": "#thếgiớiđộngvật",
+    "hashtag_animal": "#kiếncắtlá",
+    "tags": [
+      "kiến cắt lá",
+      "atta cephalotes",
+      "đại công trình ngầm",
+      "kỹ thuật sinh thái",
+      "vẽ chuyện hoang dã",
+      "whiteboard animation"
+    ],
+    "shorts_title": "Bí mật thành phố ngầm 50 triệu dân của Kiến Cắt Lá?!",
+    "shorts_desc": "Kiến Cắt Lá xây dựng đô thị ngầm sâu 8m với hơn 1.000 phòng và hệ thống điều hòa tự nhiên!",
+    "shorts_tags": [
+      "kiến cắt lá",
+      "khoa học",
+      "vẽ chuyện hoang dã",
+      "shorts"
+    ],
+    "en_title": "Leafcutter Ant: The Underground Mega-City Architects! | EP40",
+    "en_hook": "Discover how leafcutter ants build 8-meter deep mega-cities with passive AC and fungus farms!",
+    "en_shorts_title": "The 50-Million Ant Mega-City Deep Underground?!"
+  },
+  "art": {
+    "style_label": "phong cách mặt cắt kiến trúc địa tầng ngầm đại công trình (Subterranean Architectural Cross-Section)",
+    "visual_style": "tỉ lệ {AR}; phong cách mặt cắt kiến trúc địa tầng công trình ngầm đại quy mô (Subterranean Architectural Cross-Section & Industrial CAD Blueprint): bản vẽ mặt cắt các tầng đất sâu 8m với độ chuẩn xác kiến trúc cao, sơ đồ luồng khí thông gió đối lưu khí động học, đường ống luân chuyển hữu cơ sinh thái, nét vẽ kỹ thuật kiến trúc sắc bén, bảng đo đạc tỷ lệ công trình, phối màu xanh lục bảo thực vật, nâu đất phù sa và đường lưới kỹ thuật xanh cyan blueprint; NỀN TRẮNG TINH hoàn toàn, không watermark, không logo; chủ thể nằm gọn trong khung, chừa lề trắng",
+    "decor": "subterranean stratum lines, airflow ventilation arrows, fungal mycelium networks, leaf cutting mandibles, technical CAD grids, depth markers",
+    "shorts_mascot": "A hardworking cartoon leafcutter ant wearing an engineer eye-loupe and yellow hardhat, carrying a large green leaf",
+    "thumb_bg": "dramatic subterranean architectural cross-section of a massive underground ant city with glowing fungal chambers",
+    "thumb_title": [
+      "TRANG TRẠI NGẦM 8M?!",
+      "KIẾN TRÚC SƯ 50 TRIỆU NĂM"
+    ],
+    "thumb_scene": "a determined cartoon leafcutter ant engineer with a yellow hardhat slicing a giant leaf with vibrating saw mandibles",
+    "thumb_gag": "a tiny baby ant in a hammock eating mushroom candy with a happy smile",
+    "shorts_banner_lines": [
+      "ĐẠI CÔNG TRÌNH SƯ:",
+      "KIẾN CẮT LÁ!"
+    ]
+  }
+}

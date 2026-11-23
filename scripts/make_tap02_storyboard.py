@@ -1,0 +1,294 @@
+import json
+
+storyboard = {
+  "characters": {
+    "HERO": "chú Rái Cá Biển hoạt hình 2D màu nâu ấm áp, đầu tròn xoe, ria mép trắng rung rinh, hai bàn chân trước bé xíu, biểu cảm hài hước lém lỉnh",
+    "HERO_S": "chú Rái Cá Biển",
+    "NO_HERO": "khung cảnh đại dương, không có rái cá"
+  },
+  "shorts_title_lines": [
+    "BỘ MẶT THẬT",
+    "RÁI CÁ BIỂN?!"
+  ],
+  "long": [
+    # Scene 1: 6 beats -> L01..L06
+    {
+      "scene": "scene01",
+      "at": 0,
+      "layout": "Cây phả hệ gia tộc họ Chồn Mustelidae: {HERO} đứng cạnh người anh em họ Lửng Mật, một kẻ bơi dưới biển còn một kẻ trên cạn.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "Khi nhắc đến Rái Cá Biển,",
+      "layout": "{HERO} nằm ngửa trên mặt nước, hai tay áp lên má làm duyên, có trái tim tình yêu lãng mạn bay quanh.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "Thế nhưng kính thưa bồi",
+      "layout": "{HERO} lột mặt nạ ngây thơ, để lộ gương mặt giang hồ đeo kính râm đen cực ngầu mang danh Thánh Ăn Vạ Đại Dương.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "Vì ngủ ngửa trên mặt",
+      "layout": "{HERO} tự quấn thân mình vào những sợi dây tảo bẹ kelp khổng lồ như thắt dây an toàn để chống trôi dạt khi ngủ.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "hoặc trôi thẳng vào hàm",
+      "layout": "Dòng hải lưu cuốn {HERO} trôi thẳng về phía miệng há to đầy răng nanh của cá voi sát thủ Orca khổng lồ.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "Và khi cơn đói ập",
+      "layout": "{HERO} biến hình thành hải tặc giang hồ biển sâu, hai tay cầm hai con cua béo ngậy vừa ăn vừa cười đắc thắng.",
+      "stickers": [],
+      "impacts": []
+    },
+    # Scene 2: 8 beats -> L07..L14
+    {
+      "scene": "scene02",
+      "at": 0,
+      "layout": "{HERO} mở to hai mắt tròn xoe ngơ ngác, hai tay xoa má làm duyên thôi miên khiến con người mê mẩn.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "Đầu tiên là chỉ số Ngụy Trang",
+      "layout": "Thẻ chỉ số RPG CUTENESS: Thước đo đạt 100/100 tuyệt đối, vương miện lấp lánh và biểu tượng tim nổ tung.",
+      "stickers": [
+        {"at": "100/100", "side": "R", "y": 360, "value": "100/100", "label": "ngụy trang đáng yêu", "target": [0.65, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "Thứ hai là chỉ số Phòng Thủ",
+      "layout": "Thẻ chỉ số RPG FUR ARMOR: 95/100, minh họa lớp giáp lông dày đặc tạo khiên bảo vệ chống nước lạnh 0°C.",
+      "stickers": [
+        {"at": "95/100", "side": "L", "y": 360, "value": "95/100", "label": "giáp lông cản lạnh", "target": [0.55, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "Khác với cá voi hay",
+      "layout": "So sánh giải phẫu: Cá voi và hải cẩu bọc lớp mỡ dày giữ ấm, trong khi {HERO} cơ thể săn chắc hoàn toàn không có mỡ dưới da.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "Thứ ba là chỉ số Trí Thông Minh",
+      "layout": "Thẻ chỉ số RPG IQ: 92/100, bóng đèn phát sáng trên đầu {HERO} khi chế tạo công cụ búa đá gia truyền.",
+      "stickers": [
+        {"at": "92/100", "side": "R", "y": 360, "value": "92/100", "label": "bậc thầy búa đá", "target": [0.6, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "Đây là loài thú biển",
+      "layout": "{HERO} nằm ngửa trên mặt nước, đặt hòn đá lên bụng làm đe và dùng búa đập vỡ vỏ bào ngư như thợ cơ khí.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "Và cuối cùng là chỉ số Độ Lầy",
+      "layout": "Thẻ chỉ số RPG TRICKERY: Cột đo nhảy vọt lên 999 điểm vượt khung, còi báo động đỏ rú vang.",
+      "stickers": [
+        {"at": "999", "side": "L", "y": 360, "value": "999", "label": "độ lầy lội giang hồ", "target": [0.5, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "Từ việc cướp trắng bữa",
+      "layout": "Bộ ba mánh khóe lầy lội: Cướp cua của đồng loại, bắt cóc con non và cướp ván trượt của con người.",
+      "stickers": [],
+      "impacts": []
+    },
+    # Scene 3: 4 beats -> L15..L18
+    {
+      "scene": "scene03",
+      "at": 0,
+      "layout": "Kính hiển vi phóng to bộ lông của {HERO}: Một triệu sợi lông đan cài như mái ngói khóa chặt bọt khí ấm áp.",
+      "stickers": [
+        {"at": "1 triệu", "side": "R", "y": 360, "value": "1 TRIỆU", "label": "sợi lông cách nhiệt", "target": [0.6, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "Vì thế, rái cá phải",
+      "layout": "{HERO} ngồi chải lông, thổi khí và vắt nước tỉ mỉ như một thợ giặt là chuyên nghiệp suốt 4 tiếng mỗi ngày.",
+      "stickers": [
+        {"at": "4 tiếng", "side": "L", "y": 360, "value": "4 TIẾNG", "label": "chăm sóc áo lông", "target": [0.55, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "Thiết kế thứ hai là",
+      "layout": "Lò phản ứng trao đổi chất rực lửa trong bụng {HERO}, bao quanh là đĩa hải sản tôm hùm, cua, bào ngư khổng lồ bằng 30% cơ thể.",
+      "stickers": [
+        {"at": "30%", "side": "R", "y": 360, "value": "30%", "label": "nạp hải sản mỗi ngày", "target": [0.6, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "Và thiết kế thứ ba",
+      "layout": "{HERO} kéo nếp da dưới nách như túi thần kỳ Doraemon, thò tay rút ra một chiếc búa đá gia truyền sắc lẹm.",
+      "stickers": [
+        {"at": "45 nhát", "side": "L", "y": 360, "value": "45 NHÁT", "label": "đập vỡ vỏ sò trong 15s", "target": [0.55, 0.5]}
+      ],
+      "impacts": []
+    },
+    # Scene 4: 4 beats -> L19..L22
+    {
+      "scene": "scene04",
+      "at": 0,
+      "layout": "{HERO} đực lười biếng nằm ngửa phơi bụng ngáp dài, nghĩ mưu mẹo đi cướp đồ ăn thay vì lặn biển sâu.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "Bạn biết đấy, lông của",
+      "layout": "Chú rái cá con béo tròn nổi bồng bềnh như chiếc phao cứu sinh bằng nút bần trên đám tảo bẹ.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "Chỉ chờ có thế, gã",
+      "layout": "{HERO} đực lén bơi tới, ôm chặt lấy chú rái cá con làm con tin đòi chuộc đồ ăn.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "Thương con đứt ruột,",
+      "layout": "Rái cá mẹ ngậm ngùi nộp con cua to tướng cho kẻ bắt cóc để chuộc con non về trong nước mắt hài hước.",
+      "stickers": [],
+      "impacts": []
+    },
+    # Scene 5: 4 beats -> L23..L26
+    {
+      "scene": "scene05",
+      "at": 0,
+      "layout": "Đội quân Nhím Biển Tím bò tràn lan như zombie dưới đáy biển, gặm cụt các gốc tảo bẹ khổng lồ.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "Khi không có thiên địch",
+      "layout": "{HERO} giải cứu rừng tảo bẹ, nhai nhấu nghiến nhím biển tím khiến hàm răng và bộ xương đổi sang màu tím biếc.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "Không chỉ làm bá chủ",
+      "layout": "Huyền thoại cô rái cá số 841 leo lên ván lướt sóng của vận động viên tại Santa Cruz, nằm phơi nắng cực ngầu.",
+      "stickers": [
+        {"at": "841", "side": "R", "y": 360, "value": "SỐ 841", "label": "hải tặc santa cruz", "target": [0.6, 0.5]}
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "Suốt cả mùa hè, cảnh",
+      "layout": "Cô rái cá 841 tinh nghịch nhảy nhót lặn ngụp trêu ngươi lưới vây bắt của đội cảnh sát biển.",
+      "stickers": [],
+      "impacts": []
+    },
+    # Scene 6: 3 beats -> L27..L29
+    {
+      "scene": "scene06",
+      "at": 0,
+      "layout": "{HERO} đứng trên tảng đá giữa đại dương xanh, cân bằng toàn bộ hệ sinh thái rực rỡ như một vệ binh đại dương.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "Thế nhưng, nếu bạn nghĩ",
+      "layout": "Mở màn teaser Cá Heo: Chú cá heo bơi lượn với nụ cười hoạt hình vĩnh cửu trên môi như thiên thần thân thiện.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "Chúng lập hội bắt nạt",
+      "layout": "Băng đảng cá heo tinh nghịch chuyền tay nhau một con cá nóc phồng to như chơi bóng chuyền dưới đáy biển.",
+      "stickers": [],
+      "impacts": []
+    }
+  ],
+  "shorts": [
+    {
+      "at": 0,
+      "layout": "Gương mặt {HERO} tròn xoe đáng yêu hai tay áp má, xung quanh là trái tim bay lượn.",
+      "stickers": []
+    },
+    {
+      "at": "Thứ nhất, rái cá nắm",
+      "layout": "{HERO} lột mặt nạ ngây thơ đeo kính râm đen mang danh Thánh Ăn Vạ Đại Dương.",
+      "stickers": []
+    },
+    {
+      "at": "mà là dây neo sinh",
+      "layout": "{HERO} tự quấn tảo bẹ kelp thành dây neo an toàn khi ngủ bồng bềnh trên sóng.",
+      "stickers": []
+    },
+    {
+      "at": "vào miệng cá voi sát",
+      "layout": "Hàm răng nanh nhọn hoắt của cá voi sát thủ Orca đang chực chờ nuốt chửng kẻ trôi dạt.",
+      "stickers": []
+    },
+    {
+      "at": "Thứ hai, dưới nách nó",
+      "layout": "{HERO} thò tay vào nếp da dưới nách rút ra chiếc búa đá gia truyền đập vỡ vỏ sò.",
+      "stickers": [
+        {"at": "45 nhát", "side": "R", "y": 620, "value": "45 NHÁT", "label": "đập vỡ sò trong 15s", "target": [0.55, 0.5]}
+      ]
+    },
+    {
+      "at": "Đỉnh cao nhất, vì phải",
+      "layout": "Chiếc dạ dày rực lửa đòi nạp lượng hải sản khổng lồ bằng một phần ba cơ thể mỗi ngày.",
+      "stickers": []
+    },
+    {
+      "at": "những gã rái cá đực",
+      "layout": "{HERO} ôm chặt chú rái cá con làm con tin đòi rái cá mẹ nộp cua tiền chuộc.",
+      "stickers": [
+        {"at": "con tin", "side": "L", "y": 620, "value": "CON TIN", "label": "đòi chuộc bào ngư", "target": [0.5, 0.5]}
+      ]
+    },
+    {
+      "at": "Một kẻ vừa là thánh",
+      "layout": "Cô rái cá 841 kiêu hãnh nằm phơi nắng trên chiếc ván lướt sóng cướp được ở Santa Cruz.",
+      "stickers": [
+        {"at": "cướp ván lướt sóng", "side": "R", "y": 620, "value": "HẢI TẶC", "label": "cướp ván lướt sóng", "target": [0.55, 0.5]}
+      ]
+    }
+  ]
+}
+
+with open("projects/tap-02-rai-ca-bien/specs/storyboard.json", "w", encoding="utf-8") as f:
+    json.dump(storyboard, f, ensure_ascii=False, indent=2)
+print("Wrote projects/tap-02-rai-ca-bien/specs/storyboard.json")

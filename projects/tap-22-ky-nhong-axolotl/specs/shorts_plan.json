@@ -1,0 +1,140 @@
+{
+ "title_lines": [
+  "MẤT NÃO VÀ THỦNG TIM",
+  "VẪN TỰ MỌC LẠI?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "hoặc cắt mất",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": []
+  },
+  {
+   "at": "nhưng với Kỳ Nhông",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "at": "30 ngày",
+     "side": "R",
+     "y": 560,
+     "value": "30 NGÀY",
+     "label": "mọc lại 100%",
+     "target": [
+      0.55,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Đây là loài Khủng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "30cm",
+     "side": "R",
+     "y": 750,
+     "value": "30 CM",
+     "label": "Khủng Long Sáu Sừng",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Nhờ hiện tượng ấu",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "để tái tạo từ",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "Thậm chí khi các",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "at": "1/3 tâm thất",
+     "side": "L",
+     "y": 560,
+     "value": "1/3 TIM",
+     "label": "tự vá tâm thất",
+     "target": [
+      0.48,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "hay ghép một cánh",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "Bộ gen của nó",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "at": "32 tỷ",
+     "side": "R",
+     "y": 650,
+     "value": "32 TỶ",
+     "label": "gấp 10 lần người",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Bí mật duy nhất",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "nó sẽ rụng mất",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [
+    {
+     "at": "6 chiếc sừng",
+     "side": "L",
+     "y": 780,
+     "value": "6 SỪNG",
+     "label": "teo rụng khi lớn",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Một chiến thần tái",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  }
+ ]
+}

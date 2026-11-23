@@ -1,0 +1,698 @@
+# -*- coding: utf-8 -*-
+"""Generate complete specs/storyboard.json for Episode 32: Chuột Chũi Trũi (Naked Mole-Rat)
+Format: F5 (Phòng Thí Nghiệm 5 Cấp Độ Cực Hạn) | Visual Style: Bio-Lab Fallout & Underground Schematic
+Strict Prompt Safety (TASTE-71): Zero copyright, Zero violence/gore, 100% funny cartoon bio-lab schematic.
+"""
+import json
+from pathlib import Path
+
+P = Path("projects/tap-32-chuot-chui-trui")
+(P / "specs").mkdir(parents=True, exist_ok=True)
+
+storyboard = {
+    "_doc": "Storyboard Tập 32 — Chuột Chũi Trũi (Naked Mole-Rat) F5 Phòng Lab 5 Cấp. Chạy: python src/episode/build_plans.py projects/tap-32-chuot-chui-trui",
+    "characters": {
+        "HERO": "chú Chuột Chũi Trũi hoạt hình da hồng phấn nhăn nheo đáng yêu như củ khoai tây, thân hình trụi lông mũm mĩm, hai chiếc răng cửa trắng to nhô ra ngoài môi, đầu đeo chiếc kính bảo hộ phòng thí nghiệm màu xanh neon ngộ nghĩnh (cute neon-green bio-lab safety goggles)",
+        "HERO_S": "chú Chuột Chũi Trũi da hồng nhăn nheo đeo kính bảo hộ phòng lab màu xanh neon",
+        "NO_HERO": "KHÔNG có chú Chuột Chũi Trũi trong cảnh này",
+        "ASSISTANT": "cô trợ lý mèo hoạt hình đeo kính cận tròn, mặc áo blouse trắng phòng thí nghiệm, cầm bảng kẹp hồ sơ sinh học phát sáng",
+        "MOUSE": "chú chuột bạch hoạt hình lông trắng mập mạp đeo nơ xanh, biểu cảm nhát gan hay giật mình thót tim",
+        "QUEEN": "Nữ Hoàng Chuột Chũi hoạt hình to gấp đôi, đội vương miện vàng lấp lánh, mặc áo choàng nhung đỏ oai vệ chống nạnh hét ra lửa",
+        "CANCER_BUG": "nhân vật quái vật tế bào đột biến hoạt hình màu tím tròn xoe ngộ nghĩnh đội mũ sừng nhỏ, mặt mếu máo bất lực"
+    },
+    "side_characters": [
+        "ASSISTANT",
+        "MOUSE",
+        "QUEEN",
+        "CANCER_BUG"
+    ],
+    "shorts_side_characters": [
+        "ASSISTANT",
+        "CANCER_BUG"
+    ],
+    "shorts_title_lines": [
+        "CHUỘT XẤU XÍ NHẤT:",
+        "MIỄN NHIỄM 100% UNG THƯ?!"
+    ],
+    "skip_numbers": [1],
+    "long": [
+        # ==================== SCENE 01: MẪU VẬT #32 | CỦ KHOAI TÂY RĂNG VẨU ====================
+        {
+            "scene": "scene01",
+            "at": 0,
+            "layout": "Bàn điều khiển phòng thí nghiệm sinh học: {ASSISTANT} đang thuyết trình trước màn hình hologram chiếu sơ đồ giải phẫu bí ẩn, xung quanh là các bình thủy tinh sủi bọt xanh ngọc. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Hôm nay, nằm trong",
+            "layout": "Chiếc bệ kính cường lực phát sáng trong phòng lab: {HERO} đang nằm vắt chân chữ ngũ thư giãn, vừa gặm củ rễ cây vừa nháy mắt tinh nghịch dưới ánh đèn quét laser xanh.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Chuột Chũi Trũi Đông Phi",
+            "layout": "Sơ đồ hồ sơ định danh Bio-Lab: Chân dung cận cảnh {HERO} nằm giữa khung lưới tọa độ giải phẫu màu tím, bên cạnh là bản đồ vùng sừng Đông Phi khô cằn.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Nhìn thoáng qua",
+            "layout": "Phép so sánh hài hước trên đĩa cân phòng lab: Một bên là củ khoai tây luộc nhăn nheo và cây xúc xích hồng, bên kia là {HERO} đang tạo dáng y hệt khiến {ASSISTANT} nhìn qua kính lúp bối rối.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Trợ lý phòng lab",
+            "layout": "Màn hình quét thông số sinh trắc học: Thước đo laser đo chiều dài {HERO} từ mũi tới đuôi là 8-10cm và cân điện tử hiện 35g, kèm biểu đồ sức bền vọt lên kịch trần.",
+            "stickers": [
+                {"at": "8-10cm", "value": "8-10cm", "label": "chiều dài cơ thể", "side": "L", "y": 340, "target": [0.45, 0.55]},
+                {"at": "35g", "value": "35g", "label": "cân nặng tí hon", "side": "R", "y": 400, "target": [0.65, 0.65]}
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Đừng để vẻ ngoài",
+            "layout": "{HERO} đứng chống nạnh tự hào khoe cơ bắp tí hon, phía sau là bóng đổ hologram khổng lồ của một chiếc máy khoan hầm ngầm công suất lớn.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Dù cơ thể chỉ",
+            "layout": "So sánh kích thước trực quan: {HERO} nằm gọn lỏn bên cạnh hình vẽ ngón tay cái hoạt hình khổng lồ, đôi mắt ti hí đeo kính bảo hộ xanh neon.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "cơ thể nó lại",
+            "layout": "{HERO} đội thêm chiếc mũ công trường tí hon, hai tay cầm bản thiết kế địa đạo ngầm phức tạp dưới lòng đất Đông Phi.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Hãy nhìn vào hai",
+            "layout": "Bản vẽ giải phẫu Bio-Lab cắt dọc vùng miệng {HERO}: Hai chiếc răng cửa trắng bóng khổng lồ mọc xuyên qua lớp môi nhô hẳn ra phía trước như hai lưỡi xẻng.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Thiết kế kỳ quặc",
+            "layout": "Cận cảnh cơ chế khép môi thông minh: Đôi môi của {HERO} đóng kín mít ngay phía sau răng cửa như cánh cửa chống bụi trong khi răng phía trước đang cạp đất.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Nhờ vậy, khi nó",
+            "layout": "{HERO} đang hăng say dùng hai răng cửa đục xuyên qua bức tường đất cứng như bê tông, đất đá văng tứ tung nhưng bên trong khoang miệng vẫn sạch bong.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Đỉnh cao hơn nữa",
+            "layout": "Sơ đồ cơ học bộ hàm: Khối cơ hàm màu cam phát sáng chiếm tới 25% cơ thể {HERO}, nổi cuồn cuộn trên bản vẽ giải phẫu đầu.",
+            "stickers": [{"at": "25%", "value": "25% CƠ BẮP", "label": "dồn vào bộ hàm", "side": "R", "y": 360, "target": [0.55, 0.48]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "và hai chiếc răng",
+            "layout": "Cảnh siêu hài hước: {HERO} điều khiển hai chiếc răng cửa hàm dưới tách mở linh hoạt kẹp gọn một viên sỏi tròn y hệt như đôi đũa gắp thức ăn.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Chưa dừng lại ở đó",
+            "layout": "Sơ đồ cảm biến xúc giác: Dọc hai bên sườn và đuôi của {HERO} có 40 sợi lông cảm ứng phát ra các vòng sóng radar 360° màu xanh lục bảo trong lòng hang tối.",
+            "stickers": [{"at": "40", "value": "40 SỢI RÂU", "label": "radar cảm biến 360°", "side": "L", "y": 360, "target": [0.5, 0.55]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene01",
+            "at": "Nhờ dàn cảm biến này",
+            "layout": "{HERO} đang cài số lùi chạy ngược chiều siêu tốc trong đường hầm hẹp, cái đuôi vẫy vẫy dò đường điệu nghệ trước sự kinh ngạc của {ASSISTANT}.",
+            "stickers": [],
+            "impacts": []
+        },
+
+        # ==================== SCENE 02: THỬ NGHIỆM CẤP 1 | VÔ CẢM TRƯỚC AXIT & ỚT HIỂM ====================
+        {
+            "scene": "scene02",
+            "at": 0,
+            "layout": "Buồng thử nghiệm cấp 1 trong phòng lab: Bảng đèn hiệu bật sáng dòng chữ kiểm tra hóa học, xung quanh là các bình thủy tinh đựng dung dịch chanh chua và quả ớt hiểm đỏ chót. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Năm 2008",
+            "layout": "Sơ đồ nghiên cứu thần kinh học năm 2008: {ASSISTANT} cầm ống nhỏ giọt thí nghiệm bên cạnh bảng phân tích xung thần kinh cảm giác trên màn hình phòng lab. {NO_HERO}.",
+            "stickers": [{"at": "Năm 2008", "value": "NĂM 2008", "label": "phát hiện chấn động", "side": "L", "y": 350, "target": [0.45, 0.5]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Khi nhỏ dung dịch",
+            "layout": "Cảnh đối chứng hài hước: {MOUSE} chỉ mới ngửi thấy giọt tinh chất ớt hiểm capsaicin đã nhảy dựng lên trời, mặt đỏ bừng lè lưỡi quạt liên tục.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Ủa các bác sĩ",
+            "layout": "{HERO} ngồi ung dung trong khay kính, giọt dung dịch thử nghiệm và quả ớt hiểm đặt ngay bên cạnh mà chú vẫn cười tươi rói cầm củ rễ cây chấm ăn ngon lành.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Chẳng hề nhăn mặt",
+            "layout": "Đồng hồ đo phản ứng đau đớn trong phòng lab chỉ con số 0 tròn trĩnh, trong khi {HERO} nằm phơi bụng ngáp ngủ bình thản trước ống kính quan sát.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Khi mổ xẻ hệ thần kinh",
+            "layout": "Sơ đồ phóng đại sợi thần kinh C-fiber dưới kính hiển vi Bio-Lab: {ASSISTANT} soi kính lúp vào sợi dây thần kinh dưới da của {HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "hoàn toàn thiếu vắng",
+            "layout": "Bản vẽ so sánh phân tử thần kinh: Sợi thần kinh của {HERO} trống trơn, không hề có các hạt truyền tin báo động Substance P màu đỏ. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Độc đáo hơn nữa",
+            "layout": "Bản vẽ phân tử năm 2011 trên tạp chí Science: Cấu trúc cổng kênh ion NaV1.7 trên màng tế bào thần kinh được phóng to như một cánh cổng cơ khí công nghệ cao. {NO_HERO}.",
+            "stickers": [{"at": "năm 2011", "value": "NĂM 2011", "label": "giải mã kênh NaV1.7", "side": "R", "y": 350, "target": [0.55, 0.5]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Ở con người, khi",
+            "layout": "Sơ đồ so sánh bên trái: Khi các hạt axit màu xanh lá chạm vào cổng thần kinh thông thường, cánh cổng mở toang phát ra tia chớp báo động đỏ rực. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Nhưng ở Chuột Chũi Trũi",
+            "layout": "Sơ đồ so sánh bên phải: Ở {HERO}, các hạt axit lại biến thành chiếc ổ khóa vàng sập chặt cánh cổng NaV1.7 lại, chặn đứng mọi tia báo động.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "Tức là axit đối với",
+            "layout": "{HERO} đội mũ tắm hoa sen vui vẻ đứng dưới vòi phun sương axit nhẹ trong phòng thí nghiệm như đang được mát-xa gây tê thư giãn.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene02",
+            "at": "giúp nó sống khỏe re",
+            "layout": "Trong lòng hang sâu đầy những đám mây khí CO2 màu tím nhạt: {HERO} vẫn vui vẻ đào đất và ca hát thoải mái như đang ở trong phòng điều hòa mát rượi.",
+            "stickers": [],
+            "impacts": []
+        },
+
+        # ==================== SCENE 03: THỬ NGHIỆM CẤP 2 | HÓA THỰC VẬT SỐNG 0% OXY ====================
+        {
+            "scene": "scene03",
+            "at": 0,
+            "layout": "Buồng chân không thủy tinh cấp độ 2 trong phòng lab: Đồng hồ áp suất khí quyển và van khóa khí khổng lồ phát sáng màu đỏ cảnh báo. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Hãy tưởng tượng dưới",
+            "layout": "Mặt cắt địa chất dưới độ sâu 2m: 300 con chuột chũi giống {HERO} đang chen chúc chật kín trong một căn phòng đất chật hẹp không một khe thông gió.",
+            "stickers": [
+                {"at": "2m", "value": "SÂU 2M", "label": "hầm kín dưới đất", "side": "L", "y": 340, "target": [0.35, 0.5]},
+                {"at": "300 con", "value": "300 CÁ THỂ", "label": "chen chúc thiếu khí", "side": "R", "y": 420, "target": [0.65, 0.6]}
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Nồng độ oxy ở đó",
+            "layout": "{MOUSE} đội mũ bảo hiểm oxy đứng nhìn vào cửa hang tối om với vẻ mặt xanh mét, đồng hồ đo thời gian chịu đựng chỉ vỏn vẹn 60 giây. {NO_HERO}.",
+            "stickers": [{"at": "60 giây", "value": "60 GIÂY", "label": "giới hạn chuột thường", "side": "R", "y": 360, "target": [0.55, 0.5]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Cảnh báo đỏ",
+            "layout": "Bảng điện tử buồng thử nghiệm nhấp nháy: Chỉ số O2 tụt thẳng về 0%, màn hình nhịp tim của {HERO} hạ từ 200 nhịp/phút xuống 50 nhịp/phút để tiết kiệm năng lượng.",
+            "stickers": [
+                {"at": "0%", "value": "0% OXY", "label": "môi trường chân không", "side": "L", "y": 330, "target": [0.3, 0.45]},
+                {"at": "50 nhịp/phút", "value": "50 NHỊP/P", "label": "nhịp tim tiết kiệm", "side": "R", "y": 410, "target": [0.7, 0.55]}
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "1 phút trôi qua",
+            "layout": "Đồng hồ bấm giờ kỹ thuật số trong phòng lab quay vùn vụt từ 1 phút, 5 phút, 10 phút tới mốc 18 phút đỏ rực, bên trong lồng kính {HERO} nằm im như đang ngủ say.",
+            "stickers": [{"at": "18 phút", "value": "18 PHÚT", "label": "sống sót ở 0% oxy", "side": "R", "y": 360, "target": [0.5, 0.45]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Thế nhưng ngay khoảnh khắc",
+            "layout": "Khi luồng khí oxy màu xanh da trời vừa được bơm vào lồng kính, {HERO} lập tức bật dậy vươn vai tập thể dục khỏe re trước đôi mắt tròn xoe kinh ngạc của {ASSISTANT}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Bí mật nằm ở",
+            "layout": "Trang bìa tạp chí khoa học Science năm 2017 đặt trên bàn thí nghiệm với biểu đồ phân tích quá trình chuyển hóa năng lượng thần kỳ của não bộ {HERO}.",
+            "stickers": [{"at": "năm 2017", "value": "NĂM 2017", "label": "giải mã trên Science", "side": "L", "y": 360, "target": [0.45, 0.5]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Khi thiếu oxy",
+            "layout": "Sơ đồ nhà máy tế bào thông thường: Dây chuyền đốt đường Glucose bị khóa đứng với biển báo 'HẾT OXY - NGỪNG HOẠT ĐỘNG', đèn điện tắt phụt. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Nhưng Chuột Chũi Trũi",
+            "layout": "Sơ đồ nhà máy tế bào của {HERO}: Chú gạt cần công tắc dự phòng màu xanh lá cây, mở cổng bơm phân tử đưa các viên đường trái cây Fructose phát sáng vào lò năng lượng.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "thông qua các bơm",
+            "layout": "Bản vẽ giải phẫu não và tim của {HERO}: Các đường ống dẫn đường Fructose phát sáng màu vàng cam cung cấp năng lượng liên tục giữ cho não và tim sáng rực.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Đây vốn là cơ chế",
+            "layout": "Bản vẽ so sánh Bio-Lab: Một bên là chậu cây xanh và củ khoai tây, bên kia là {HERO} với chiếc mầm lá xanh ngộ nghĩnh mọc trên mũ bảo hộ, cả hai cùng phát sáng năng lượng Fructose.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene03",
+            "at": "Nói cách khác, khi",
+            "layout": "Cảnh bi hài hai trạng thái: Khi hết gió {HERO} hóa trang thành củ khoai tây nằm im thin thít, vừa có làn gió mát thổi qua đã bật dậy nhảy điệu disco sôi động.",
+            "stickers": [],
+            "impacts": []
+        },
+
+        # ==================== SCENE 04: THỬ NGHIỆM CẤP 3 | SIÊU KEO KHÓA CHẶT UNG THƯ ====================
+        {
+            "scene": "scene04",
+            "at": 0,
+            "layout": "Phòng thí nghiệm y sinh học cấp độ 3: Màn hình lớn hiển thị biểu đồ lá chắn bảo vệ tế bào màu xanh lục bảo lấp lánh. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Thông thường, tới hơn",
+            "layout": "Biểu đồ thống kê y khoa trong phòng lab: Cột tỷ lệ mắc khối u ở loài chuột thường cao vọt lên mức 70% khiến {MOUSE} nhìn biểu đồ lo lắng. {NO_HERO}.",
+            "stickers": [{"at": "70%", "value": "70%", "label": "tỷ lệ u ở chuột thường", "side": "L", "y": 360, "target": [0.35, 0.5]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Thế nhưng khi giáo sư",
+            "layout": "Bảng theo dõi hàng ngàn hồ sơ sức khỏe của {HERO} tại Đại học Rochester: Tất cả các ô kiểm tra đều đóng dấu tích xanh hoàn hảo 'KHỎE MẠNH 100%'.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "họ phát hiện một",
+            "layout": "{HERO} đeo huy chương vàng 'ZERO UNG THƯ' đứng hiên ngang trên bục kính hiển vi trước sự thán phục của {ASSISTANT}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Khi kiểm tra dịch",
+            "layout": "Cảnh phòng lab năm 2013 vui nhộn: {ASSISTANT} đang cố bóp ống hút thủy tinh nhưng dung dịch nuôi cấy tế bào của {HERO} đặc quánh và dẻo quẹo như keo dán làm tắc cả ống.",
+            "stickers": [{"at": "năm 2013", "value": "NĂM 2013", "label": "phát hiện siêu keo", "side": "R", "y": 350, "target": [0.55, 0.5]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Thủ phạm chính là",
+            "layout": "Sơ đồ cấu trúc hóa học phát sáng: Các chuỗi phân tử đường Hyaluronic Acid (HMW-HA) xoắn lại như những sợi dây thừng vàng khổng lồ bao quanh tế bào của {HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Ở con người, hợp chất",
+            "layout": "Phép so sánh kích thước phân tử trực quan: Một bên là lọ kem dưỡng ẩm nhỏ xíu với sợi phân tử ngắn ngủn của người, bên kia là chuỗi siêu phân tử HMW-HA của {HERO} dài và nặng gấp 5 lần!",
+            "stickers": [{"at": "5 lần", "value": "GẤP 5 LẦN", "label": "siêu keo HMW-HA", "side": "R", "y": 360, "target": [0.65, 0.5]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Lớp siêu keo",
+            "layout": "Mặt cắt kính hiển vi: Các tế bào khỏe mạnh được bao bọc bởi một hàng rào lưới gel đàn hồi màu xanh ngọc cực kỳ vững chắc như pháo đài.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Nhờ lớp đệm siêu",
+            "layout": "{HERO} đang biểu diễn màn nhào lộn quay đầu 180° ngay bên trong một chiếc ống nhựa hẹp, lớp da rộng thùng thình co giãn dẻo dai như cao su.",
+            "stickers": [{"at": "180°", "value": "QUAY 180°", "label": "nhờ lớp da siêu giãn", "side": "L", "y": 360, "target": [0.5, 0.55]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Quan trọng hơn cả",
+            "layout": "Bản vẽ cơ chế phòng thủ tế bào: Cánh cửa nhân đôi tế bào được gắn tới 2 chiếc ổ khóa kim loại kiên cố khắc nhãn 'p16' và 'p27'. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Ở cơ thể người",
+            "layout": "Sơ đồ đối chiếu: Cánh cửa chỉ có 1 ổ khóa p27 đơn lẻ đang bị {CANCER_BUG} lén dùng xà beng cậy ra để chen lấn nhân bản. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "Còn ở Chuột Chũi Trũi",
+            "layout": "Ngay khi {CANCER_BUG} vừa chạm nhẹ vào hàng rào siêu keo HMW-HA, chiếc khóa thép khổng lồ p16 lập tức sập xuống.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene04",
+            "at": "ra lệnh đóng băng",
+            "layout": "{CANCER_BUG} bị giam chặt cứng trong lồng kính siêu keo HMW-HA đứng hình mếu máo, bên cạnh {HERO} giơ ngón cái chiến thắng.",
+            "stickers": [],
+            "impacts": []
+        },
+
+        # ==================== SCENE 05: THỬ NGHIỆM CẤP 4 | ĐẾ CHẾ NỮ HOÀNG ĐỘC TÀI ====================
+        {
+            "scene": "scene05",
+            "at": 0,
+            "layout": "Sơ đồ mặt cắt địa chất khổng lồ cấp độ 4: Một mê cung thành phố ngầm chằng chịt dưới lòng đất được quan sát qua màn hình radar địa chấn. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Năm 1981",
+            "layout": "Bản vẽ so sánh sinh thái học năm 1981: Một bên là tổ kiến và tổ mối, bên kia là đàn của {HERO} với cấu trúc phân tầng xã hội giống hệt nhau.",
+            "stickers": [{"at": "Năm 1981", "value": "NĂM 1981", "label": "xã hội côn trùng", "side": "L", "y": 350, "target": [0.45, 0.5]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Một vương quốc ngầm",
+            "layout": "Bản đồ toàn cảnh vương quốc ngầm trải dài 3-5km dưới lòng đất chứa 300 cá thể, ở trung tâm là cung điện hoàng gia nơi {QUEEN} ngự trị trên ngai vàng rễ cây.",
+            "stickers": [
+                {"at": "3-5km", "value": "DÀI 3-5KM", "label": "mạng lưới địa đạo", "side": "L", "y": 340, "target": [0.35, 0.5]},
+                {"at": "300 cá thể", "value": "300 CON", "label": "1 Nữ Hoàng duy nhất", "side": "R", "y": 410, "target": [0.65, 0.55]}
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Tất cả nghe lệnh ta",
+            "layout": "{QUEEN} đội vương miện vàng đứng trên bục đất cao cầm loa phóng thanh hét lớn, phía dưới là đội công nhân đội mũ bảo hộ vàng và đội chiến binh cầm khiên rễ cây xếp hàng răm rắp.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Nữ Hoàng cai trị",
+            "layout": "Sơ đồ X-quang giải phẫu {QUEEN}: Các đốt xương sống của Nữ Hoàng tự động giãn dài ra như lò xo để chứa ổ bụng khổng lồ mang tới gần 30 đứa con. {NO_HERO}.",
+            "stickers": [{"at": "gần 30", "value": "~30 CON", "label": "cột sống tự kéo dài", "side": "R", "y": 360, "target": [0.55, 0.5]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Trong khi đó, hàng trăm",
+            "layout": "{QUEEN} đi tuần tra trong đường hầm, dùng cái mũi húc nhẹ thị uy khiến các chú chuột công nhân xung quanh lập tức cúi rạp người chăm chỉ làm việc. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Đội công nhân phải",
+            "layout": "Dây chuyền băng tải đào hầm siêu hài hước: {HERO} ở đầu hàng dùng răng khoét đất, 5 chú chuột phía sau xếp hàng dọc đồng loạt đá đất qua háng nhau bay vèo ra cửa hang.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Và chi tiết lầy lội",
+            "layout": "Căn phòng nhà vệ sinh chung của vương quốc ngầm: Biển hiệu 'PHÒNG NƯỚC HOA GIA TỘC' treo trên vách đất, các chú chuột xếp hàng xịt mùi hương đồng bộ để nhận diện đồng hương.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Nhờ tắm chung mùi",
+            "layout": "Hai chú chuột chiến binh gác cổng đeo kính râm đang dùng máy quét mùi hương kiểm tra {HERO}, đèn xanh bật sáng cho phép qua cổng an toàn.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Thế nhưng vị hoàng đế",
+            "layout": "Sơ đồ nhiệt kế sinh học Bio-Lab: Cơ thể {HERO} không có lớp mỡ nâu giữ nhiệt, vạch nhiệt độ biến đổi y hệt một chú thằn lằn máu lạnh bên cạnh.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Ở trong hang sâu",
+            "layout": "Nhiệt kế trong đường hầm đất sâu chỉ đúng 30°C ấm áp, {HERO} đang ngồi uống trà thư giãn dễ chịu.",
+            "stickers": [{"at": "30°C", "value": "30°C ẤM ÁP", "label": "nhiệt độ trong hang", "side": "L", "y": 350, "target": [0.45, 0.5]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "nhưng nếu bị lôi",
+            "layout": "Cảnh đối lập nhiệt độ hài hước: Dưới mức 15°C {HERO} quấn chăn run cầm cập đóng băng, còn trên mức 35°C thì lè lưỡi quạt phành phạch vì sốc nhiệt.",
+            "stickers": [
+                {"at": "15°C", "value": "< 15°C", "label": "lạnh cóng đơ người", "side": "L", "y": 350, "target": [0.3, 0.55]},
+                {"at": "35°C", "value": "> 35°C", "label": "sốc nhiệt ngay lập tức", "side": "R", "y": 410, "target": [0.7, 0.55]}
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene05",
+            "at": "Để giữ ấm, cả đàn",
+            "layout": "Trong hang đất ấm áp: Hàng chục chú chuột chũi cùng {HERO} ôm chặt lấy nhau chồng chất thành một ngọn núi khoai tây hồng khổng lồ tỏa ra những trái tim ấm áp.",
+            "stickers": [],
+            "impacts": []
+        },
+
+        # ==================== SCENE 06: THỬ NGHIỆM CẤP 5 | PHÁ VỠ ĐỊNH LUẬT LÃO HÓA ====================
+        {
+            "scene": "scene06",
+            "at": 0,
+            "layout": "Phòng thí nghiệm thời gian cấp độ 5: Chiếc đồng hồ cát vàng khổng lồ và biểu đồ trường thọ phát sáng rực rỡ trên màn hình chính. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Một con chuột nhắt",
+            "layout": "Bên trái sơ đồ thời gian: {MOUSE} chống gậy râu bạc trắng sau 2-3 năm tuổi, bên cạnh là cuốn lịch bàn đã hết trang. {NO_HERO}.",
+            "stickers": [{"at": "2-3 năm", "value": "2-3 NĂM", "label": "tuổi thọ chuột thường", "side": "L", "y": 350, "target": [0.4, 0.55]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Thế nhưng Chuột Chũi Trũi",
+            "layout": "Bên phải sơ đồ thời gian: {HERO} đeo dải băng kỷ niệm 37 năm (gấp 12 lần) vẫn đang nhảy hip-hop sung sức trên bàn thí nghiệm!",
+            "stickers": [
+                {"at": "37 năm", "value": "37 NĂM!", "label": "kỷ lục Chuột Chũi", "side": "R", "y": 340, "target": [0.6, 0.5]},
+                {"at": "12 lần", "value": "X12 TUỔI", "label": "tuổi thọ họ gặm nhấm", "side": "L", "y": 410, "target": [0.35, 0.55]}
+            ],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Nếu quy đổi sang",
+            "layout": "{HERO} mặc bộ đồ tiên ông trường thọ cưỡi hạc giấy, tay cầm quả đào tiên bên cạnh tấm biển kỷ lục quy đổi tương đương 800 tuổi ở con người.",
+            "stickers": [{"at": "800 tuổi", "value": "~800 TUỔI", "label": "quy đổi sang người", "side": "R", "y": 360, "target": [0.6, 0.5]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Năm 2018",
+            "layout": "Đồ thị toán học năm 2018 trên màn hình Bio-Lab: Nhà nghiên cứu chỉ vào dữ liệu theo dõi hơn 3.000 cá thể {HERO} suốt ba thập kỷ.",
+            "stickers": [{"at": "3.000", "value": "3.000 CON", "label": "kiểm chứng 30 năm", "side": "L", "y": 360, "target": [0.45, 0.5]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Ở mọi sinh vật khác",
+            "layout": "Biểu đồ so sánh Định luật lão hóa Gompertz: Đường màu đỏ của thú thông thường dốc dựng đứng lên cao, còn đường màu xanh lục của {HERO} chạy ngang phẳng lì!",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Nhưng ở loài chuột này",
+            "layout": "{HERO} ở tuổi 30 tuổi đang nâng tạ đôi trong phòng lab, chỉ số tim mạch, xương khớp và bộ máy dọn rác tế bào đều trẻ khỏe như 2 tuổi.",
+            "stickers": [{"at": "30 tuổi", "value": "30 TUỔI", "label": "trẻ khỏe như 2 tuổi", "side": "R", "y": 360, "target": [0.55, 0.5]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Nó chính là chìa khóa",
+            "layout": "{HERO} đứng trên bục vinh danh khoa học, trao chiếc chìa khóa vàng khắc hình chuỗi DNA trường thọ cho {ASSISTANT} trong tiếng pháo giấy chúc mừng.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Hội đồng khoa học thân mến",
+            "layout": "Hội đồng giám khảo trong phòng thí nghiệm nhìn lên màn hình tổng kết 5 bài kiểm tra sinh tồn của {HERO}.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "id": "L80",
+            "at": "Vô cảm trước axit",
+            "layout": "Bảng tổng kết 3 siêu năng lực đỉnh chóp của {HERO}: (1) Khiên chống axit NaV1.7, (2) Lá cây Fructose sống 18 phút 0% oxy, (3) Lồng sắt siêu keo HMW-HA khóa ung thư.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Hãy ghi ngay đánh giá",
+            "layout": "{HERO} và {ASSISTANT} vẫy tay chào khán giả bên cạnh hòm phiếu bình chọn phát sáng trong phòng lab.",
+            "stickers": [],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Và ngay trong hồ sơ",
+            "layout": "Khung cảnh chuyển sang vùng rừng tuyết Bắc Cực lạnh -20°C: Bão tuyết trắng xóa bao phủ những gốc cây thông đóng băng. {NO_HERO}.",
+            "stickers": [{"at": "-20°C", "value": "-20°C", "label": "băng giá Bắc Cực", "side": "L", "y": 350, "target": [0.45, 0.55]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Tại đó có một",
+            "layout": "Một bóng đen chú ếch nhỏ nằm bất động bên trong khối băng tinh thể trong suốt lấp lánh suốt 8 tháng mùa đông dưới ánh cực quang. {NO_HERO}.",
+            "stickers": [{"at": "8 tháng", "value": "8 THÁNG", "label": "đóng băng thành đá", "side": "R", "y": 360, "target": [0.55, 0.5]}],
+            "impacts": []
+        },
+        {
+            "scene": "scene06",
+            "at": "Tim ngừng đập hoàn toàn",
+            "layout": "Khối băng bọc quanh bóng đen chú ếch bí ẩn nứt ra khi tia nắng mùa xuân chiếu rọi, đôi mắt chú ếch bất ngờ mở bừng sáng lấp lánh kèm dấu chấm hỏi lớn. {NO_HERO}.",
+            "stickers": [],
+            "impacts": []
+        }
+    ],
+    "shorts": [
+        {
+            "at": 0,
+            "draw_s": 1.0,
+            "layout": "Cận cảnh giữa khung dọc: {HERO} ngồi trong lồng kính Bio-Lab phát sáng màu tím-xanh neon, tay cầm bảng hồ sơ 'BẤT TỬ UNG THƯ', gương mặt nhăn nheo cười khẩy cực ngầu.",
+            "stickers": []
+        },
+        {
+            "at": "Tại sao loài chuột",
+            "draw_s": 1.0,
+            "layout": "Phép so sánh vui nhộn: Một bên là củ khoai tây luộc nhăn nheo, bên kia là {HERO} đang tập tạ giữa vòng khiên bảo vệ xanh lục bảo.",
+            "stickers": []
+        },
+        {
+            "id": "S11",
+            "at": "lại miễn nhiễm hoàn toàn",
+            "draw_s": 1.0,
+            "layout": "{HERO} đứng trong buồng thí nghiệm với lá chắn chống khối u sáng chói và đồng hồ 18 phút không oxy.",
+            "stickers": []
+        },
+        {
+            "at": "Đây là Chuột Chũi Trũi",
+            "draw_s": 1.0,
+            "layout": "{HERO} đứng trên bục thí nghiệm giữa lòng đất Đông Phi, khoe hai chiếc răng cửa trắng to mọc xuyên qua môi và chiếc kính bảo hộ xanh neon.",
+            "stickers": []
+        },
+        {
+            "at": "Khi các nhà khoa học",
+            "draw_s": 1.0,
+            "layout": "{ASSISTANT} cầm kính lúp soi vào bảng theo dõi 37 năm của {HERO}, mọi chỉ số sức khỏe đều đóng dấu khiên xanh miễn nhiễm bệnh tật.",
+            "stickers": [{"at": "37 năm", "value": "37 NĂM", "label": "không mắc ung thư", "side": "R", "y": 820, "target": [0.55, 0.5]}]
+        },
+        {
+            "at": "Bí mật nằm ở chỗ",
+            "draw_s": 1.0,
+            "layout": "Sơ đồ phóng đại tế bào của {HERO}: Các chuỗi phân tử siêu keo Hyaluronic Acid màu vàng óng xoắn dày đặc, dài và nặng gấp 5 lần phân tử thông thường.",
+            "stickers": [{"at": "5 lần", "value": "GẤP 5 LẦN", "label": "siêu keo phân tử", "side": "L", "y": 820, "target": [0.45, 0.55]}]
+        },
+        {
+            "at": "Lớp siêu keo này",
+            "draw_s": 1.0,
+            "layout": "Hai chiếc ổ khóa kim loại khổng lồ khắc chữ 'p16' và 'p27' gắn trên hàng rào lưới gel xanh ngọc bao quanh tế bào của {HERO}.",
+            "stickers": []
+        },
+        {
+            "at": "tạo thành chiếc lồng",
+            "draw_s": 1.0,
+            "layout": "Chiếc lồng sắt siêu keo sập xuống khóa chặt {CANCER_BUG} bên trong khiến nó mếu máo đứng hình, bên cạnh {HERO} giơ ngón cái chiến thắng.",
+            "stickers": []
+        },
+        {
+            "at": "Chưa hết, khi bị nhốt",
+            "draw_s": 1.0,
+            "layout": "Buồng chân không thí nghiệm báo 0% oxy: Đồng hồ đếm tới mốc 18 phút, trong khi {HERO} nằm thư giãn bình thản bên trong.",
+            "stickers": [
+                {"at": "0%", "value": "0% OXY", "label": "buồng kín khí", "side": "L", "y": 780, "target": [0.35, 0.5]},
+                {"at": "18 phút", "value": "18 PHÚT", "label": "vẫn sống khỏe", "side": "R", "y": 880, "target": [0.65, 0.55]}
+            ]
+        },
+        {
+            "at": "nó lập tức biến hình",
+            "draw_s": 1.0,
+            "layout": "{HERO} bật công tắc sinh học màu xanh lá, trên đầu mọc lên chiếc mầm cây phát sáng đang hút các phân tử đường trái cây Fructose nuôi não bộ.",
+            "stickers": []
+        },
+        {
+            "at": "Một kiệt tác y sinh",
+            "draw_s": 1.0,
+            "layout": "{HERO} đội vương miện trường thọ 37 năm đứng trên đỉnh cúp vàng y sinh học, giơ hai ngón tay chiến thắng rạng rỡ.",
+            "stickers": []
+        }
+    ]
+}
+
+(P / "specs" / "storyboard.json").write_text(json.dumps(storyboard, ensure_ascii=False, indent=2), encoding="utf-8")
+print(f"Written storyboard.json: {len(storyboard['long'])} long beats, {len(storyboard['shorts'])} shorts beats")

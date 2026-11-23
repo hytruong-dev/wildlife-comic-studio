@@ -1,0 +1,563 @@
+{
+  "_doc": "Kịch bản phân cảnh chi tiết cho Tập 46: Lợn Hươu Babirusa. Phong cách Dark Tribal Woodcut & Bone Anatomy Engraving. 56 beats dài, 8 beats shorts.",
+  "characters": {
+    "HERO": "chú lợn hươu babirusa hoạt hình góc cạnh bí hiểm màu xám tro đá núi lửa, cặp nanh hàm trên mọc ngược đâm xuyên da mõm uốn cong thành vòng cung hướng về phía trán, cặp nanh dưới nhọn hoắt chìa sang hai bên má, đôi chân thon dài gân guốc như chân hươu",
+    "HERO_S": "chú lợn hươu babirusa hoạt hình màu xám tro với cặp răng nanh uốn cong đâm ngược vào trán",
+    "NO_HERO": "KHÔNG có chú lợn hươu babirusa trong cảnh này",
+    "DOC": "bác sĩ pháp y cú mèo đeo kính lúp một mắt và tạp dề da thuộc, cầm kẹp kim loại titan và cưa xương",
+    "NURSE": "cô trợ lý thỏ trắng đeo tạp dề chữ thập đỏ bưng khay dụng cụ phẫu thuật",
+    "SKULL": "hộp sọ lợn hươu cổ xưa với cặp răng nanh uốn cong cắm xuyên qua xương trán vào khoang não",
+    "FEMALE_BABIRUSA": "nàng lợn hươu cái duyên dáng không có nanh trên, ánh mắt ngưỡng mộ nhìn chàng lợn đực"
+  },
+  "side_characters": {},
+  "shorts_side_characters": {},
+  "shorts_title_lines": [
+    "TIẾN HÓA TỰ SÁT",
+    "RĂNG ĐÂM THỦNG HỘP SỌ?!"
+  ],
+  "skip_numbers": [],
+  "long": [
+    {
+      "scene": "scene01",
+      "at": 0,
+      "layout": "Phòng phẫu thuật pháp y sinh vật cổ: {DOC} cầm cưa xương và kẹp titan đang chỉ đạo hiện trường khẩn cấp; trên bàn mổ ánh đèn chiếu sáng hồ sơ vụ án.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "ba chiều đa",
+      "layout": "Cận cảnh cửa vào: Tấm rèm phòng khám bị hai chiếc răng nanh cong vút đâm thủng toạc một đường; {NURSE} ôm khay dụng cụ hoảng hốt lùi lại.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "đới đảo Sulawesi",
+      "layout": "{HERO} lừng lững bước vào: Toàn thân màu xám tro gân guốc, bốn chiếc nanh khổng lồ mọc tua tủa quanh mặt; ánh mắt sắc lạnh bí hiểm.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "mặt nó đã",
+      "layout": "{DOC} cầm tấm bảng bệnh án số bốn mươi sáu; tiêu đề GÃ BỆNH NHÂN TỰ SÁT TIẾN HÓA hiện lên sắc nét theo phong cách tranh khắc gỗ Sulawesi.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "còn gọi là",
+      "layout": "So sánh chức năng răng nanh: BÊN TRÁI là hổ báo dùng nanh cắn xé con mồi; BÊN PHẢI là {HERO} với cặp nanh hàm trên mọc ngược theo quỹ đạo tự hủy kỳ lạ.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "có răng nanh",
+      "layout": "Bàn cân thể trọng pháp y: {HERO} đứng trên cân hiển thị thể trọng một trăm ki-lô-gam; đôi chân thon dài như hươu rừng nổi rõ từng thớ cơ.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "diệt không thể",
+      "layout": "Phóng to đầu của {HERO}: Bốn chiếc nanh mọc quanh miệng, hai chiếc nanh trên đâm xuyên qua sống mũi rồi uốn cong ngược nhắm thẳng vào giữa trán.",
+      "stickers": [
+        {
+          "at": "100 kg",
+          "side": "R",
+          "y": 360,
+          "value": "100 KG",
+          "label": "thể trọng cơ bắp",
+          "target": [
+            0.75,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "phóng to góc",
+      "layout": "{DOC} dùng thước kẹp đo góc uốn cong của răng nanh; biểu cảm kinh ngạc trước cấu trúc cơ thể kỳ lạ nhất từng ghi nhận.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "thịt mũi rồi",
+      "layout": "Bản đồ hòn đảo Sulawesi, Indonesia thời cổ đại hiện lên mờ ảo; {DOC} bắt đầu mở màn chẩn đoán giải phẫu chuyên sâu.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": 0,
+      "layout": "Màn hình cắt lớp vi tính xương sọ: Khung xương hàm của {HERO} hiện rõ chi tiết; {DOC} chỉ tay vào hốc chân răng hàm trên kỳ dị.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "vào chân răng",
+      "layout": "So sánh mầm răng: Ở lợn thường mầm răng hướng xuống dưới; ở {HERO} toàn bộ hốc chân răng bị xoay ngược một trăm tám mươi độ hướng thẳng lên đỉnh đầu.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "chân răng hàm",
+      "layout": "Lợn con mới sinh: Chú lợn con trơn láng đáng yêu bú mẹ; chưa hề có dấu vết của chiếc nanh mọc ngược nào lộ diện.",
+      "stickers": [
+        {
+          "at": "180°",
+          "side": "L",
+          "y": 380,
+          "value": "180°",
+          "label": "xoay chân răng",
+          "target": [
+            0.28,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "bệnh nhân sẽ",
+      "layout": "Tuổi dậy thì đau đớn: Chú lợn trẻ khoảng một hai tuổi với sống mũi sưng vù; đầu nanh nhọn hoắt đội thịt chuẩn bị xé toang da mặt.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "vào độ tuổi",
+      "layout": "Khoảnh khắc đâm thủng da mõm: Mũi nanh trên xé rách lớp thịt mũi, trồi thẳng ra ngoài không khí tạo thành hai lỗ thủng vĩnh viễn trên mặt gã.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "lỗ hổng vĩnh",
+      "layout": "{NURSE} ôm mặt rùng mình trước ca phẫu thuật tự nhiên đẫm máu mà cơ thể {HERO} phải gánh chịu từ khi còn trẻ.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "phẫu đau đớn",
+      "layout": "Giải phẫu cặp nanh dưới: Chiếc nanh hàm dưới dài hai mươi xăng-ti-mét chìa sang hai bên má uốn cong lên trên như hai chiếc lưỡi mác sắc lẻm.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "đâm thẳng qua",
+      "layout": "Mô phỏng chiến đấu: {HERO} dùng cặp nanh dưới sắc bén húc tung kẻ thù trong một trận phục kích bảo vệ lãnh thổ giữa rừng rậm.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "phải gánh chịu!",
+      "layout": "Bức tranh giải phẫu đối chiếu: Nanh dưới là vũ khí cận chiến sinh tử; nanh trên là cỗ máy tự hủy đang từ từ dài ra.",
+      "stickers": [
+        {
+          "at": "20 cm",
+          "side": "R",
+          "y": 360,
+          "value": "20 CM",
+          "label": "nanh dưới cận chiến",
+          "target": [
+            0.75,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "chiếc lưỡi mác",
+      "layout": "{DOC} ghi chép chẩn đoán dị tật giai đoạn một vào hồ sơ bệnh án pháp y.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": 0,
+      "layout": "Mô hình 3D quỹ đạo tăng trưởng: Chiếc nanh trên của {HERO} liên tục dài ra không ngừng trong suốt cuộc đời do không có chân răng đóng kín.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "nhân tự sát",
+      "layout": "Cắt lớp vi thể răng: Cặp nanh trên xốp rỗng không có lớp men răng cứng bao bọc; {DOC} dùng ngón tay gõ nhẹ thấy rung rinh dễ gãy.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "suốt cuộc đời!",
+      "layout": "{HERO} cố ủi mõm vào tảng đá nhưng nanh trên lập tức mẻ một mảnh; gã giật mình vội vàng lùi lại bảo vệ cặp nanh quý giá.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "song đúng không?",
+      "layout": "Thước đo góc uốn cong: Chiếc nanh dài tới ba mươi đến bốn mươi xăng-ti-mét, uốn cong thành một vòng cung hoàn hảo nhắm thẳng về vầng trán.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "nanh này để",
+      "layout": "Khoảng cách tử thần: Thước kẹp đo khoảng cách giữa đầu nhọn chiếc nanh và da trán của {HERO} chỉ còn vỏn vẹn vài mi-li-mét mong manh.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "nanh trên có",
+      "layout": "Đồng hồ đếm ngược tử thần quay tíc tắc: Càng sống thọ, nguy cơ đầu nanh cắm vào trán càng đến gần từng ngày.",
+      "stickers": [
+        {
+          "at": "40 cm",
+          "side": "R",
+          "y": 360,
+          "value": "30-40 CM",
+          "label": "vòng cung tự sát",
+          "target": [
+            0.75,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "thẳng vào vầng",
+      "layout": "Cá thể già mười lăm năm tuổi: Đầu nanh cắm thủng da trán, bắt đầu nghiền nát lớp xương sọ phía trước trong sự đau đớn cùng cực.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "lợn hươu may",
+      "layout": "Tiêu bản hiện vật {SKULL}: Hộp sọ cổ xưa bảo tàng với chiếc nanh cắm ngập vào bên trong khoang não; bằng chứng lịch sử chấn động.",
+      "stickers": [
+        {
+          "at": "15 năm",
+          "side": "L",
+          "y": 380,
+          "value": "15 NĂM",
+          "label": "thời điểm đâm sọ",
+          "target": [
+            0.3,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "vào da trán,",
+      "layout": "{DOC} và {NURSE} nghiêm trang tưởng niệm trước cái chết bi thảm do chính vũ khí trên mặt gây ra.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "nhiên học khi",
+      "layout": "Câu hỏi lớn của tạo hóa: Tại sao chọn lọc tự nhiên lại không đào thải một cơ chế tự sát kỳ quặc nhường này suốt hàng triệu năm?",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "và vô cùng",
+      "layout": "{DOC} lật sang trang hồ sơ tiếp theo để giải mã bí ẩn chọn lọc giới tính.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": 0,
+      "layout": "Bí ẩn chọn lọc tự nhiên: Bảng đối chiếu quy luật sinh tồn của Darwin; câu hỏi tại sao gen tự sát không bị xóa sổ khỏi Trái Đất.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "bệnh nhân tự",
+      "layout": "{NURSE} giơ tay thắc mắc liệu có phải các nàng lợn cái mê mẩn những chàng lợn có cặp nanh cong chạm sát trán.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "những anh chàng",
+      "layout": "Đấu trường sắc đẹp rừng già: {FEMALE_BABIRUSA} với ánh mắt si tình đang ngắm nhìn {HERO} khoe cặp nanh vòng cung lộng lẫy.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "tính! Trong mắt",
+      "layout": "Biểu tượng sống thọ: Chỉ những chàng lợn có gen sinh tồn vượt trội mới sống sót đủ lâu để cặp nanh mọc dài chạm trán.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "vì sao? 1",
+      "layout": "Trái tim tình yêu chiến thắng: {HERO} chiếm trọn tình cảm của bạn tình, thành công truyền lại bộ gen nanh tự sát cho bầy lợn con thế hệ sau.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "Gã sở hữu",
+      "layout": "Nghi thức quyết đấu độc lạ: Hai chàng lợn đực tuyệt đối không húc nanh vào nhau vì sợ gãy món trang sức quý giá.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "cho thế hệ",
+      "layout": "Đấu quyền Anh rừng rậm: Hai chú lợn đứng thẳng dậy bằng hai chân sau, dùng mõm tỳ vào nhau vật lộn đẩy ngã đối thủ như võ sĩ hạng nặng.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "nhất vô nhị:",
+      "layout": "{HERO} giành chiến thắng vẻ vang, đứng ngạo nghễ gầm gừ khẳng định vị thế thủ lĩnh bầy đàn.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "vào đó, chúng",
+      "layout": "{DOC} gật gù thấu hiểu sức mạnh kỳ diệu của chọn lọc giới tính trong tự nhiên.",
+      "stickers": [
+        {
+          "at": "2 chân sau",
+          "side": "R",
+          "y": 360,
+          "value": "2 CHÂN SAU",
+          "label": "đấu vật quyền anh",
+          "target": [
+            0.75,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": 0,
+      "layout": "Nguồn gốc tên gọi Babirusa: Ghép từ babi (lợn) và rusa (hươu); {HERO} sải bước kiêu hãnh với dáng dấp thanh thoát của loài hươu sao.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "chữ babi nghĩa",
+      "layout": "Đôi chân hươu thần tốc: {HERO} phi nước đại băng qua các vùng đầm lầy hiểm trở trên hòn đảo Sulawesi hoang sơ.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "như 1 chú",
+      "layout": "Bậc thầy bơi biển: {HERO} ung dung bơi vượt qua eo biển sóng cuộn nối liền giữa các hòn đảo để tìm kiếm nguồn thức ăn trù phú.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "các eo biển",
+      "layout": "Nội soi ổ bụng: Dạ dày nhiều ngăn phức tạp của {HERO} hiện rõ trên màn hình y tế; cơ chế lên men vi sinh vật giống hệt dạ dày loài bò nhai lại.",
+      "stickers": [
+        {
+          "at": "Sulawesi",
+          "side": "L",
+          "y": 380,
+          "value": "SULAWESI",
+          "label": "địa bàn đặc hữu",
+          "target": [
+            0.28,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "sẽ khiến các",
+      "layout": "Lò phản ứng sinh học: Các chủng vi sinh vật cộng sinh miệt mài phân giải chất xơ thô cứng và trung hòa độc tố từ nấm rừng.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "tương tự như",
+      "layout": "Hành hương giải độc: Đàn lợn hươu tụ tập bên mỏ bùn khoáng tự nhiên và suối nước nóng địa nhiệt bốc khói nghi ngút.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "cho chiếc nanh",
+      "layout": "{HERO} cần mẫn liếm láp bùn khoáng canxi và natri để thanh lọc cơ thể và nuôi dưỡng khung xương.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "tồn từng ngày",
+      "layout": "Cuộc chiến mài răng cứu mạng: {HERO} cọ xát cặp nanh trên vào thân cây gỗ lim cứng cáp để mài mòn mũi nhọn trước khi nó chạm trán.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "tự sát tiến hóa phải",
+      "layout": "Vệt mài sáng bóng trên thân cây lim; {HERO} thở phào nhẹ nhõm khi khoảng cách an toàn với hộp sọ được nới rộng.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "ở đảo Sulawesi!",
+      "layout": "{DOC} ghi nhận liệu trình tự điều trị sinh tồn thông minh bậc nhất của bệnh nhân.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": 0,
+      "layout": "{DOC} gấp lại tập hồ sơ bệnh án số bốn mươi sáu; bức tranh phong cảnh rừng nhiệt đới Sulawesi cổ xưa hiện lên trầm mặc.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "nhiên! Trong cuộc",
+      "layout": "Bài học triết lý sinh tồn: {HERO} đứng giữa ánh hoàng hôn với cặp nanh cong vút; lời cảnh tỉnh về việc kiểm soát vũ khí nội tại trong cuộc sống.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "lại chính là",
+      "layout": "Màn hình tương tác người xem: Hai lựa chọn phẫu thuật hài hước: Nút 1 bẻ cong nanh ra ngoài cứu mạng, Nút 2 để nguyên nanh cong cho gã tán gái.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "thiệp vào quy",
+      "layout": "{NURSE} giơ biển chỉ dẫn mời quý khán giả để lại ý kiến bình luận chẩn đoán bên dưới video.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "để lại bình",
+      "layout": "Bản vẽ kỹ thuật tập bốn mươi bảy hé lộ: Chú hươu cao cổ với chiếc cổ dài hai mét sừng sững giữa thảo nguyên Châu Phi nắng rực.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "sinh vật đồ",
+      "layout": "Sơ đồ giải phẫu trái tim mười một cân và hệ thống van tĩnh mạch chống nổ não khi chú hươu cúi đầu uống nước.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "van thủy lực",
+      "layout": "Màn hình kết thúc: Dòng chữ HẸN GẶP LẠI Ở TẬP 47 HƯƠU CAO CỔ lung linh với lời kêu gọi đăng ký kênh theo dõi.",
+      "stickers": [],
+      "impacts": []
+    }
+  ],
+  "shorts": [
+    {
+      "at": 0,
+      "layout": "Cận cảnh mở đầu: {HERO_S} với cặp răng nanh dài tới bốn mươi xăng-ti-mét uốn cong thành vòng cung sắp cắm vào trán; ánh mắt ngơ ngác tấu hài.",
+      "stickers": []
+    },
+    {
+      "at": "uốn cong cắm",
+      "layout": "Đây là Lợn Hươu Babirusa hòn đảo Sulawesi, Indonesia mang gen tự sát tiến hóa kỳ lạ nhất hành tinh.",
+      "stickers": []
+    },
+    {
+      "at": "hữu của hòn",
+      "layout": "Mầm răng nanh trên xoay ngược một trăm tám mươi độ, đâm xuyên qua da mõm chồi thẳng ra ngoài không khí.",
+      "stickers": [
+        {
+          "at": "180°",
+          "side": "L",
+          "y": 500,
+          "value": "180°",
+          "label": "xoay ngược nanh",
+          "target": [
+            0.3,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "thịt mõm chồi",
+      "layout": "Chiếc nanh mọc dài bốn mươi xăng-ti-mét uốn cong về trán, ở lợn già có thể đâm xuyên xương sọ cắm vào não gây tử vong.",
+      "stickers": [
+        {
+          "at": "40 cm",
+          "side": "R",
+          "y": 520,
+          "value": "40 CM",
+          "label": "vòng cung tự sát",
+          "target": [
+            0.7,
+            0.5
+          ]
+        }
+      ]
+    },
+    {
+      "at": "và ở những",
+      "layout": "Nàng lợn cái si tình đứng ngắm chàng lợn đực; nanh càng cong sát trán càng chứng minh gã sống thọ và quyến rũ.",
+      "stickers": []
+    },
+    {
+      "at": "Kỳ lạ thay,",
+      "layout": "Khi quyết đấu tranh bạn tình, hai chú lợn đứng bằng hai chân sau vật lộn như võ sĩ quyền Anh để tránh làm gãy nanh giòn.",
+      "stickers": []
+    },
+    {
+      "at": "có nanh cong",
+      "layout": "{HERO_S} cần mẫn cọ nanh vào thân cây gỗ lim mài mòn mũi nhọn để tự cứu lấy mạng sống của mình.",
+      "stickers": []
+    },
+    {
+      "at": "răng vào cây",
+      "layout": "Một nghịch lý tiến hóa chết người của tạo hóa; mời đăng ký kênh xem trọn bộ bệnh án số bốn mươi sáu.",
+      "stickers": []
+    }
+  ]
+}

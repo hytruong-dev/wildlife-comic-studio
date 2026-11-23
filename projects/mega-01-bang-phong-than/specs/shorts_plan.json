@@ -1,0 +1,110 @@
+{
+ "title_lines": [
+  "10 QUÁI KIỆT",
+  "AI GIỮ NGÔI VƯƠNG?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Hạng 10: Gấu Koala",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "Hạng 9: Thú Mỏ",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "Hạng 8: Bồ Nông",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "Hạng 7, 6 và",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "Hạng 4: Chồn Gulo",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "at": "15kg",
+     "side": "L",
+     "y": 620,
+     "value": "15 KG",
+     "label": "dám cướp mồi gấu",
+     "target": [
+      0.35,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Top 3 Hạng S",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "Tôm Tít có cú",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "Lửng Mật bị rắn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "Nhưng cả hai vẫn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  },
+  {
+   "at": "Và ngôi vương thuộc",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [
+    {
+     "at": "1mm",
+     "side": "R",
+     "y": 600,
+     "value": "< 1 MM",
+     "label": "nhà vô địch",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Bạn có đồng ý",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": []
+  },
+  {
+   "at": "Xem trọn bộ đại",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S13.png",
+   "stickers": []
+  }
+ ]
+}

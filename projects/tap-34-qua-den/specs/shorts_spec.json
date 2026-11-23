@@ -1,0 +1,447 @@
+{
+ "episode": "tap-34-qua-den",
+ "title_lines": [
+  "TRÍ TUỆ QUÁI VẬT:",
+  "QUẠ ĐEN BÁO THÙ?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 45.18,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-34-qua-den_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  6.23,
+  8.47,
+  15.17,
+  19.39,
+  22.17,
+  24.97,
+  30.61,
+  31.77,
+  34.77,
+  39.11,
+  43.85
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.86,
+     "text": "Đừng bao giờ"
+    },
+    {
+     "t": 1.36,
+     "text": "đắc tội với"
+    },
+    {
+     "t": 1.8,
+     "text": "một con Quạ"
+    },
+    {
+     "t": 2.24,
+     "text": "Đen nếu bạn"
+    },
+    {
+     "t": 3.0,
+     "text": "không muốn bị"
+    },
+    {
+     "t": 3.62,
+     "text": "cả dòng họ nhà"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 4.43,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 5.42,
+     "side": "L",
+     "y": 450,
+     "value": "5 NĂM",
+     "label": "thù dai truyền kiếp",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 4.44,
+     "text": "nó truy sát"
+    },
+    {
+     "t": 5.16,
+     "text": "suốt 5 năm trời!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 6.67,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 12.74,
+     "side": "R",
+     "y": 420,
+     "value": "IQ 7 TUỔI",
+     "label": "ngang trẻ em",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 6.92,
+     "text": "Quạ Đen sở"
+    },
+    {
+     "t": 7.8,
+     "text": "hữu bộ não"
+    },
+    {
+     "t": 8.42,
+     "text": "có mật độ"
+    },
+    {
+     "t": 9.06,
+     "text": "nơ-ron dày đặc"
+    },
+    {
+     "t": 9.8,
+     "text": "ngang loài tinh"
+    },
+    {
+     "t": 10.4,
+     "text": "tinh, đạt trí"
+    },
+    {
+     "t": 11.52,
+     "text": "thông minh tương"
+    },
+    {
+     "t": 12.06,
+     "text": "đương một đứa"
+    },
+    {
+     "t": 12.58,
+     "text": "trẻ 7 tuổi."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 13.37,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 13.62,
+     "text": "Ở Nhật Bản,"
+    },
+    {
+     "t": 14.28,
+     "text": "khi gặp quả"
+    },
+    {
+     "t": 14.62,
+     "text": "óc chó vỏ"
+    },
+    {
+     "t": 15.24,
+     "text": "quá cứng,"
+    },
+    {
+     "t": 15.94,
+     "text": "quạ thản nhiên"
+    },
+    {
+     "t": 16.4,
+     "text": "thả hạt trước"
+    },
+    {
+     "t": 17.0,
+     "text": "bánh xe tải"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 17.59,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 17.84,
+     "side": "L",
+     "y": 420,
+     "value": "ĐÈN XANH",
+     "label": "nhờ xe cán hộ",
+     "target": [
+      0.3,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 17.62,
+     "text": "lúc Đèn xanh"
+    },
+    {
+     "t": 18.32,
+     "text": "để xe nghiền"
+    },
+    {
+     "t": 19.06,
+     "text": "nát hộ,"
+    },
+    {
+     "t": 19.8,
+     "text": "rồi ung dung"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 20.37,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 20.62,
+     "side": "R",
+     "y": 420,
+     "value": "ĐÈN ĐỎ",
+     "label": "an toàn tuyệt đối",
+     "target": [
+      0.7,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 20.36,
+     "text": "đợi Đèn đỏ"
+    },
+    {
+     "t": 20.96,
+     "text": "xe dừng hẳn"
+    },
+    {
+     "t": 21.66,
+     "text": "mới sà xuống"
+    },
+    {
+     "t": 22.24,
+     "text": "vạch đi bộ"
+    },
+    {
+     "t": 22.7,
+     "text": "nhặt ăn ngon"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 23.17,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 23.2,
+     "text": "lành! Trong phòng"
+    },
+    {
+     "t": 24.34,
+     "text": "thí nghiệm,"
+    },
+    {
+     "t": 25.12,
+     "text": "chúng biết thả"
+    },
+    {
+     "t": 25.66,
+     "text": "từng viên sỏi"
+    },
+    {
+     "t": 26.32,
+     "text": "đặc vào ống"
+    },
+    {
+     "t": 26.82,
+     "text": "nghiệm để dâng"
+    },
+    {
+     "t": 27.6,
+     "text": "mực nước lấy"
+    },
+    {
+     "t": 28.18,
+     "text": "thức ăn y"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 28.81,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 28.82,
+     "text": "hệt ngụ ngôn Aesop."
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 29.97,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 30.22,
+     "text": "Đặc biệt,"
+    },
+    {
+     "t": 30.94,
+     "text": "nghiên cứu tại"
+    },
+    {
+     "t": 31.42,
+     "text": "Đại học Washington"
+    },
+    {
+     "t": 32.1,
+     "text": "chứng minh:"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 32.97,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 33.22,
+     "text": "Quạ có thể"
+    },
+    {
+     "t": 33.78,
+     "text": "ghi nhớ chính"
+    },
+    {
+     "t": 34.36,
+     "text": "xác từng đường"
+    },
+    {
+     "t": 35.08,
+     "text": "nét trên khuôn"
+    },
+    {
+     "t": 35.72,
+     "text": "mặt kẻ thù"
+    },
+    {
+     "t": 36.26,
+     "text": "suốt 5 năm,"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 37.31,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 37.4,
+     "text": "rồi tả lại"
+    },
+    {
+     "t": 37.94,
+     "text": "mặt kẻ đó"
+    },
+    {
+     "t": 38.46,
+     "text": "cho cả bầy"
+    },
+    {
+     "t": 38.98,
+     "text": "đàn cùng quạ"
+    },
+    {
+     "t": 39.66,
+     "text": "con mới sinh"
+    },
+    {
+     "t": 40.24,
+     "text": "để cùng nhau"
+    },
+    {
+     "t": 41.04,
+     "text": "kéo đến trả thù!"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 42.05,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 42.3,
+     "text": "Hãy đối xử"
+    },
+    {
+     "t": 43.1,
+     "text": "thật tử tế"
+    },
+    {
+     "t": 43.72,
+     "text": "với những thiên"
+    },
+    {
+     "t": 44.18,
+     "text": "tài lông vũ"
+    },
+    {
+     "t": 44.68,
+     "text": "này nhé!"
+    }
+   ]
+  }
+ ]
+}

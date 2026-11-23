@@ -1,0 +1,860 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "GÃ BÉO 65KG GIA TỘC GẶM NHẤM LÀM CÁ SẤU PHẢI NỂ",
+   "hook": "GÃ BÉO NẶNG 65KG ĐƯỢC MỌI SÁT THỦ NỂ SỢ",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bạn nghĩ ai mới",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy mở tập hồ",
+     "image": "assets/long/L04.png",
+     "stickers": [
+      {
+       "at": "mã số 15",
+       "side": "R",
+       "y": 380,
+       "value": "HỒ SƠ 15",
+       "label": "tài liệu tối mật",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhân vật đứng đầu",
+     "image": "assets/long/L05.png",
+     "stickers": [
+      {
+       "at": "65kg",
+       "side": "L",
+       "y": 380,
+       "value": "65kg",
+       "label": "Bố Già đầm lầy",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "suốt ngày ngâm mình",
+     "image": "assets/long/L83.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gia tộc gặm nhấm",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng Bố Già Đầm",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Với chiều dài cơ",
+     "image": "assets/long/L08.png",
+     "stickers": [
+      {
+       "at": "1,3m",
+       "side": "L",
+       "y": 360,
+       "value": "1,3m",
+       "label": "chiều dài cơ thể",
+       "target": [
+        0.35,
+        0.55
+       ]
+      },
+      {
+       "at": "60cm",
+       "side": "R",
+       "y": 420,
+       "value": "60cm",
+       "label": "chiều cao vai",
+       "target": [
+        0.72,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cá thể lập kỷ",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "91kg",
+       "side": "L",
+       "y": 340,
+       "value": "91kg",
+       "label": "kỷ lục cân nặng",
+       "target": [
+        0.28,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Quy tắc thép đầu",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cho dù trời long",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây không phải là",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỒ SƠ BỐ GIÀ"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "TẠI SAO CÁ SẤU CAIMAN KHÔNG DÁM ĂN THỊT BỐ GIÀ?",
+   "hook": "CÁ SẤU CAIMAN NẰM PHƠI NẮNG KẾ BÊN",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L13.png",
+     "stickers": [
+      {
+       "at": "3-4",
+       "side": "R",
+       "y": 360,
+       "value": "3-4 con",
+       "label": "cá sấu nằm cạnh",
+       "target": [
+        0.75,
+        0.62
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cảnh tượng phi lý",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tại sao một kẻ",
+     "image": "assets/long/L15.png",
+     "stickers": [
+      {
+       "at": "65kg",
+       "side": "L",
+       "y": 380,
+       "value": "65kg",
+       "label": "khối thịt béo múp",
+       "target": [
+        0.28,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hãy nghe chính đại",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tôi mà đụng vào",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vừa to vừa nặng,",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cá sấu Caiman ở",
+     "image": "assets/long/L20.png",
+     "stickers": [
+      {
+       "at": "1,5m",
+       "side": "L",
+       "y": 360,
+       "value": "1,5m-2m",
+       "label": "chiều dài Caiman",
+       "target": [
+        0.32,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nuốt một con Bố",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa kể, gã béo",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa dừng lại ở",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lưng của Capybara phẳng",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chim chóc đầm lầy",
+     "image": "assets/long/L25.png",
+     "stickers": [
+      {
+       "at": "5-6",
+       "side": "R",
+       "y": 380,
+       "value": "5-6 con",
+       "label": "rùa nằm trên mai",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bác bồ nông ơi,",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí cả loài",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một mối quan hệ",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "TRẠM DỊCH VỤ"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "TUYẾN MÙI MORILLO TRÊN MŨI VÀ TIẾNG SỦA BÁO ĐỘNG",
+   "hook": "BÍ MẬT KHỐI U MORILLO TRÊN ĐỈNH MŨI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và vũ khí ngoại",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu quan sát kỹ",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong giới sinh học,",
+     "image": "assets/long/L32.png",
+     "stickers": [
+      {
+       "at": "Morillo",
+       "side": "R",
+       "y": 380,
+       "value": "MORILLO",
+       "label": "tuyến mùi quyền lực",
+       "target": [
+        0.68,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tuyến Morillo liên tục",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi khi đi tuần",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết hợp với hai",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ hệ thống chữ",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lão sống ở Pantanal",
+     "image": "assets/long/L37.png",
+     "stickers": [
+      {
+       "at": "80 năm",
+       "side": "L",
+       "y": 360,
+       "value": "80 NĂM",
+       "label": "tuổi thọ chứng nhân",
+       "target": [
+        0.3,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng đỉnh cao nhất",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đôi tai hình bán",
+     "image": "assets/long/L39.png",
+     "stickers": [
+      {
+       "at": "180°",
+       "side": "L",
+       "y": 360,
+       "value": "180°",
+       "label": "tai xoay độc lập",
+       "target": [
+        0.35,
+        0.42
+       ]
+      },
+      {
+       "at": "100m",
+       "side": "R",
+       "y": 420,
+       "value": "100m",
+       "label": "khoảng cách nghe",
+       "target": [
+        0.72,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi vui vẻ thư",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi gọi đàn con,",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng một khi phát",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cú sủa báo động",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VŨ KHÍ MÙI HƯƠNG"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "TẬP TÍNH ĂN LẠI PHÂN SÁNG SỚM ĐỂ HẤP THỤ PROTEIN",
+   "hook": "GÓC KHUẤT BỮA SÁNG KHOẢNG 06:00 ĐẾN 08:00",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu bạn đang ăn",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bởi vì món ăn",
+     "image": "assets/long/L46.png",
+     "stickers": [
+      {
+       "at": "65kg",
+       "side": "L",
+       "y": 380,
+       "value": "65kg",
+       "label": "thân hình hộ pháp",
+       "target": [
+        0.32,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "chính là sản phẩm",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Dưới góc nhìn của",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khẩu phần ăn của",
+     "image": "assets/long/L50.png",
+     "stickers": [
+      {
+       "at": "75%",
+       "side": "R",
+       "y": 360,
+       "value": "75%",
+       "label": "khẩu phần cỏ thô",
+       "target": [
+        0.68,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cỏ nghèo dinh dưỡng",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để giải quyết bài",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cứ vào khoảng từ",
+     "image": "assets/long/L53.png",
+     "stickers": [
+      {
+       "at": "06:00 sáng",
+       "side": "L",
+       "y": 360,
+       "value": "06h - 08h",
+       "label": "giờ ăn phân mềm",
+       "target": [
+        0.28,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Loại phân này chứa",
+     "image": "assets/long/L54.png",
+     "stickers": [
+      {
+       "at": "gấp đôi",
+       "side": "R",
+       "y": 380,
+       "value": "2X PROTEIN",
+       "label": "dinh dưỡng đậm đặc",
+       "target": [
+        0.72,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thay vì lãng phí",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngay từ khi mới",
+     "image": "assets/long/L56.png",
+     "stickers": [
+      {
+       "at": "2 tuần tuổi",
+       "side": "L",
+       "y": 380,
+       "value": "2 TUẦN",
+       "label": "chuột con học mẹ",
+       "target": [
+        0.32,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Phải đến buổi chiều,",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kỳ dị, khó ngửi,",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BỮA SÁNG KỲ DỊ"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "TÀU NGẦM NÍN THỞ 5 PHÚT VÀ CÚ BỨT TỐC 35 KM/H",
+   "hook": "BỐ TRÍ MẮT MŨI TAI THẲNG HÀNG TRÊN ĐỈNH ĐẦU",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một khi sát thủ",
+     "image": "assets/long/L84.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cả bầy trật tự!",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bạn có nhận thấy",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thiết kế giải phẫu",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi ngâm mình dưới",
+     "image": "assets/long/L64.png",
+     "stickers": [
+      {
+       "at": "65kg",
+       "side": "L",
+       "y": 380,
+       "value": "65kg",
+       "label": "tàu ngầm bọc thịt",
+       "target": [
+        0.35,
+        0.62
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bàn chân của Capybara",
+     "image": "assets/long/L65.png",
+     "stickers": [
+      {
+       "at": "4 ngón",
+       "side": "L",
+       "y": 360,
+       "value": "4 NGÓN",
+       "label": "chân trước có màng",
+       "target": [
+        0.3,
+        0.52
+       ]
+      },
+      {
+       "at": "3 ngón",
+       "side": "R",
+       "y": 420,
+       "value": "3 NGÓN",
+       "label": "chân sau có màng",
+       "target": [
+        0.72,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Dưới nước, gã có",
+     "image": "assets/long/L66.png",
+     "stickers": [
+      {
+       "at": "5 phút",
+       "side": "R",
+       "y": 360,
+       "value": "5 PHÚT",
+       "label": "nín thở lặn sâu",
+       "target": [
+        0.75,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Còn nếu bị dồn",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy chuẩn bị tinh",
+     "image": "assets/long/L68.png",
+     "stickers": [
+      {
+       "at": "35km/h",
+       "side": "R",
+       "y": 360,
+       "value": "35 km/h",
+       "label": "tốc độ bứt phá",
+       "target": [
+        0.72,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tốc độ xé gió",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "TÀU NGẦM 5 PHÚT"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "CÚ LỪA GIÁO HỘI VATICAN VÀ BÀI HỌC SỐNG CHILL",
+   "hook": "CÚ LỪA ĐƯỢC CÔNG NHẬN LÀ CÁ ĐỂ ĂN MÙA CHAY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L70.png",
+     "stickers": [
+      {
+       "at": "thế kỷ 16",
+       "side": "L",
+       "y": 360,
+       "value": "THẾ KỶ 16",
+       "label": "nhầm lẫn lịch sử",
+       "target": [
+        0.28,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thế là họ gửi",
+     "image": "assets/long/L71.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "được xếp Capybara vào",
+     "image": "assets/long/L72.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và thật khó tin,",
+     "image": "assets/long/L73.png",
+     "stickers": [
+      {
+       "at": "65kg",
+       "side": "R",
+       "y": 380,
+       "value": "CÁ 65KG?!",
+       "label": "sắc lệnh kỳ quặc",
+       "target": [
+        0.72,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Một cú lừa tiến",
+     "image": "assets/long/L74.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trải qua hàng triệu",
+     "image": "assets/long/L75.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "kẻ chiến thắng sau",
+     "image": "assets/long/L85.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bạn ấn tượng nhất",
+     "image": "assets/long/L76.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và bây giờ, hãy",
+     "image": "assets/long/L78.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong tập tiếp theo,",
+     "image": "assets/long/L79.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một sinh vật nhỏ",
+     "image": "assets/long/L80.png",
+     "stickers": [
+      {
+       "at": "5cm",
+       "side": "L",
+       "y": 360,
+       "value": "5cm",
+       "label": "kích thước tí hon",
+       "target": [
+        0.3,
+        0.52
+       ]
+      },
+      {
+       "at": "218 dB",
+       "side": "R",
+       "y": 420,
+       "value": "218 dB",
+       "label": "tiếng nổ xé nước",
+       "target": [
+        0.72,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cú búng càng tạo",
+     "image": "assets/long/L81.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đố bạn biết danh",
+     "image": "assets/long/L82.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BÀI HỌC SINH TỒN"
+  }
+ }
+}

@@ -1,0 +1,486 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "00 SÁNG — ĐI TÌM CHÚ VẸT BÉO QUÊN BAY TẠI NEW ZEALAND",
+   "hook": "BÂY GIỜ LÀ SÁU GIỜ SÁNG VÀ CUỘC ĐUA SINH TỒN HAI MƯƠI TƯ GIỜ BẮT ĐẦU",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bảo tồn thiên",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "của chúng tôi",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "trời! Alo trường",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ỏi! Hãy chĩa",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "rung rinh cả",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "quý vị dễ",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "định sống cả",
+     "image": "assets/long/L08.png",
+     "stickers": [
+      {
+       "at": "4 kg",
+       "side": "R",
+       "y": 360,
+       "value": "4 KG",
+       "label": "thể trọng kỷ lục",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "bơ khổng lồ!",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "06:00 SÁNG"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "00 SÁNG — CẤU TẠO XƯƠNG ỨC PHẲNG LÌ VÀ ĐÔI CÁNH PHẾ LIỆU",
+   "hook": "MƯỜI GIỜ SÁNG MỔ XẺ GIẢI PHẪU ĐÔI CÁNH VÔ DỤNG NHẤT HÀNH TINH",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tra cận cảnh",
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "60 cm",
+       "side": "L",
+       "y": 380,
+       "value": "60 CM",
+       "label": "chiều dài cơ thể",
+       "target": [
+        0.28,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "4 kg tròn",
+     "image": "assets/long/L12.png",
+     "stickers": [
+      {
+       "at": "4 kg",
+       "side": "R",
+       "y": 360,
+       "value": "4 KG",
+       "label": "loài vẹt nặng nhất",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "chụp X-quang lồng",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cánh. Nhưng ở",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "gì? Đôi cánh",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "khỏi mặt đất!",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hóa đã biến",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hòn đảo này",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thì thầm vào",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "10:00 SÁNG"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "00 CHIỀU — CƠ CHẾ GIẢ LÀM BỤI CÂY VÀ MÙI HƯƠNG PHẢN CHỦ",
+   "hook": "MƯỜI LĂM GIỜ CHIỀU BÁO ĐỘNG ĐỎ VỀ CƠ CHẾ ĐỨNG HÌNH VÔ TRI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "khoảnh khắc thót",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "kéo đầu thụt",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chính là cơ",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "không, chiến thuật",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "kịch ập đến",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thay, Gã béo",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nào gã đang",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bay lại sở hữu một",
+     "image": "assets/long/L28.png",
+     "stickers": [
+      {
+       "at": "60",
+       "side": "L",
+       "y": 380,
+       "value": "60-90 NĂM",
+       "label": "tuổi thọ kỷ lục",
+       "target": [
+        0.3,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà sinh",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "15:00 CHIỀU"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "00 TỐI — THỢ LEO TRÈO CỪ KHÔI VÀ MÀN RƠI TỰ DO ĐẬP BỤNG",
+   "hook": "MƯỜI CHÍN GIỜ TỐI CHỨNG KIẾN PHA NHẢY DÙ TỰ SÁT TỪ CÂY CAO",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "này, camera hồng",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chiếc mỏ quặp",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chiếc chân thứ",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bộ khối thân",
+     "image": "assets/long/L34.png",
+     "stickers": [
+      {
+       "at": "20 mét",
+       "side": "R",
+       "y": 360,
+       "value": "20 MÉT",
+       "label": "độ cao ngọn cây",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "gã là những",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "quả thật trông",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ngược trở xuống",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cảm lao mình",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vụt xuống dưới!",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "mù mịt! Máy",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "19:00 TỐI"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "00 ĐÊM — CUỘC ĐI BỘ VIỆT DÃ VÀ TIẾNG BOOMING VANG XA 5KM",
+   "hook": "HAI MƯƠI BA GIỜ ĐÊM ĐẠI NHẠC HỘI KHUẾCH ĐẠI ÂM THANH NĂM CÂY SỐ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cú tiếp đất",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "km đường rừng,",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "để hẹn hò",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "1 chiếc hố",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "làm phồng căng",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "được khuếch đại",
+     "image": "assets/long/L47.png",
+     "stickers": [
+      {
+       "at": "5 km",
+       "side": "R",
+       "y": 360,
+       "value": "5 KM",
+       "label": "bán kính âm thanh",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "đêm, liên tục",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "23:00 ĐÊM"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "00 SÁNG HÔM SAU — KHÉP LẠI 24H VÀ BÀI HỌC GIỮ GÌN SỰ NGÂY THƠ",
+   "hook": "ĐỒNG HỒ LẠI ĐIỂM SÁU GIỜ SÁNG VÀ MỌI THỨ LÀM LẠI TỪ ĐẦU",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tồn! Gã béo",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lại để chuẩn",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "trên toàn thế",
+     "image": "assets/long/L52.png",
+     "stickers": [
+      {
+       "at": "250",
+       "side": "R",
+       "y": 360,
+       "value": "250 CÁ THỂ",
+       "label": "quần thể toàn cầu",
+       "target": [
+        0.75,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "quả trứng như",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thuần khiết nhất",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "rimu hay tập",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "với hồ sơ",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "qua cả sống",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "06:00 SÁNG HÔM SAU"
+  }
+ }
+}

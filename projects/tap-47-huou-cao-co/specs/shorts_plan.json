@@ -1,0 +1,74 @@
+{
+  "title_lines": [
+    "CÚI ĐẦU 2M",
+    "NỔ NÃO KHÔNG?!"
+  ],
+  "beats": [
+    {
+      "at_s": 0.0,
+      "draw_s": 1.0,
+      "image": "assets/shorts/S01.png",
+      "stickers": []
+    },
+    {
+      "at": "nổ tung mạch máu",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S01b.png",
+      "stickers": []
+    },
+    {
+      "at": "Hãy nhìn chiếc cổ dài",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S02.png",
+      "stickers": []
+    },
+    {
+      "at": "Để bơm máu đỏ ngược",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S03.png",
+      "stickers": []
+    },
+    {
+      "at": "11kg và tạo",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S03b.png",
+      "stickers": []
+    },
+    {
+      "at": "Khi nó hạ đầu rơi",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S04.png",
+      "stickers": []
+    },
+    {
+      "at": "500 mmHg đủ",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S04b.png",
+      "stickers": []
+    },
+    {
+      "at": "Nhưng kỳ diệu thay dưới",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S05.png",
+      "stickers": []
+    },
+    {
+      "at": "Khi đầu chúi xuống mạng",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S06.png",
+      "stickers": []
+    },
+    {
+      "at": "Chưa hết cẳng chân của",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S07.png",
+      "stickers": []
+    },
+    {
+      "at": "Đúng là một tuyệt tác",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S08.png",
+      "stickers": []
+    }
+  ]
+}

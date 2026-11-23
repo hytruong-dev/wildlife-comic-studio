@@ -1,0 +1,588 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "CHIẾN XA ĐÀO HẦM NẶNG 35KG CỦA NƯỚC ÚC",
+   "hook": "",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hôm nay chúng ta giải",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "một cỗ máy đào hầm",
+     "image": "assets/long/L03.png",
+     "stickers": [
+      {
+       "at": "25-35kg",
+       "side": "R",
+       "y": 350,
+       "value": "25-35 KG",
+       "label": "cân nặng xe tăng",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo chỉ huy, radar",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo rất chuẩn xác!",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng khác với người anh",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hàm răng mọc dài liên",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong phòng thiết kế, chúng",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa dừng lại ở đó,",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đêm nay, tôi mời toàn",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỒ SƠ VŨ KHÍ"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "TẤM KHIÊN MÔNG BỌC THÉP 3CM VÀ TÚI MỞ NGƯỢC",
+   "hook": "TẤM KHIÊN MÔNG CHỊU MỌI CÚ CẮN CỦA DINGO",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "khi chúi đầu vào lòng",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy quan sát mặt cắt",
+     "image": "assets/long/L13.png",
+     "stickers": [
+      {
+       "at": "2-3cm",
+       "side": "R",
+       "y": 350,
+       "value": "DÀY 2-3 CM",
+       "label": "khiên sụn bọc thép",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Phía trên là lớp da",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi bị chó hoang Dingo",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chó hoang lao tới cắn",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết, các kỹ sư",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "khi gã dùng hai bàn",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "20-30m",
+       "side": "L",
+       "y": 350,
+       "value": "SÂU 20-30M",
+       "label": "mạng lưới hang ngầm",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Phía trước đầu xe tăng",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "có thể gặm đứt phăng",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đầu là máy khoan mũi",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẢN VẼ CƠ KHÍ"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "8% RUỘT GIÀ ĐÚC 100 KHỐI LẬP PHƯƠNG MỖI NGÀY",
+   "hook": "SINH VẬT DUY NHẤT ĐÚC ĐƯỢC HÌNH LẬP PHƯƠNG TỰ NHIÊN",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mọi loài vật từ voi,",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng Xe Tăng Đào Hầm",
+     "image": "assets/long/L24.png",
+     "stickers": [
+      {
+       "at": "6 mặt phẳng",
+       "side": "R",
+       "y": 350,
+       "value": "6 MẶT",
+       "label": "khối lập phương",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trời đất ơi chỉ huy",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2019, nhóm nghiên",
+     "image": "assets/long/L26.png",
+     "stickers": [
+      {
+       "at": "2019",
+       "side": "L",
+       "y": 350,
+       "value": "IG NOBEL",
+       "label": "Patricia Yang 2019",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bí mật cơ khí thực",
+     "image": "assets/long/L27.png",
+     "stickers": [
+      {
+       "at": "8%",
+       "side": "R",
+       "y": 350,
+       "value": "8% CUỐI",
+       "label": "ruột già đúc gạch",
+       "target": [
+        0.68,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trong công bố chi tiết",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Suốt hành trình tiêu hóa",
+     "image": "assets/long/L29.png",
+     "stickers": [
+      {
+       "at": "2 tuần",
+       "side": "R",
+       "y": 350,
+       "value": "2 TUẦN",
+       "label": "thời gian tiêu hóa",
+       "target": [
+        0.65,
+        0.5
+       ]
+      },
+      {
+       "at": "4 mặt phẳng",
+       "side": "L",
+       "y": 480,
+       "value": "4 MẶT",
+       "label": "áp lực co bóp thành",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi đêm, một chú",
+     "image": "assets/long/L30.png",
+     "stickers": [
+      {
+       "at": "80-100 viên",
+       "side": "R",
+       "y": 350,
+       "value": "80-100 V",
+       "label": "sản xuất mỗi đêm",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Wombat có thị lực",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu phân hình tròn,",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hiện tượng cơ học này",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một chú gấu túi béo",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "DÂY CHUYỀN ĐÚC"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "CÚ ĐÁ LỪA NGƯỢC VÀ ÉP NÁT SỌ KẺ THÙ VÀO TRẦN HANG",
+   "hook": "GỒNG MÔNG BỌC THÉP NGHIỀN NÁT HỘP SỌ KẺ SĂN MỒI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi bị dồn vào",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chiến thuật bẫy mồi",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đúng khoảnh khắc chiếc",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bùm! Wombat dùng hai",
+     "image": "assets/long/L39.png",
+     "stickers": [
+      {
+       "at": "35kg",
+       "side": "R",
+       "y": 350,
+       "value": "35 KG ÉP",
+       "label": "nghiền nát hộp sọ",
+       "target": [
+        0.62,
+        0.45
+       ]
+      }
+     ],
+     "impacts": [
+      "bùm"
+     ]
+    },
+    {
+     "at": "Bảo tàng Úc ghi",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gâu gâu! Ta tưởng",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu phải đánh nhau",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "khi cần tháo chạy",
+     "image": "assets/long/L43.png",
+     "stickers": [
+      {
+       "at": "40km/h",
+       "side": "L",
+       "y": 350,
+       "value": "40 KM/H",
+       "label": "nước rút trong 90s",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "THỰC CHIẾN"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "BỆNH GHẺ LỞ, CẬN THỊ NẶNG VÀ TAI NẠN GIAO THÔNG",
+   "hook": "TỬ HUYỆT BỆNH GHẺ VÀ SỨ MỆNH ĐƯỢC CHIA SẺ HANG NGẦM",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thứ nhất là thị",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thứ hai là thảm",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "mạng lưới hang ngầm dài",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đồ sộ như một mê",
+     "image": "assets/long/L48.png",
+     "stickers": [
+      {
+       "at": "30m",
+       "side": "R",
+       "y": 350,
+       "value": "DÀI 30 MÉT",
+       "label": "sâu 3m mát rượi",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ độ sâu này,",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "ĐIỂM YẾU KỸ THUẬT"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "CHIẾC XE TĂNG LẦY LỘI VÀ BÓNG ĐEN 22 XÚC TU KỲ SAU",
+   "hook": "BÁO CÁO KỸ THUẬT VÀ BÓNG ĐEN CHIẾC MŨI 22 XÚC TU",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "không cần nanh vuốt",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo nghiệm thu",
+     "image": "assets/long/L52.png",
+     "stickers": [
+      {
+       "at": "điểm 10",
+       "side": "R",
+       "y": 350,
+       "value": "ĐIỂM 10",
+       "label": "nghiệm thu vũ khí",
+       "target": [
+        0.58,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Còn đội kỹ thuật",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hồ sơ vũ khí số",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một sinh vật bé",
+     "image": "assets/long/L55.png",
+     "stickers": [
+      {
+       "at": "50g",
+       "side": "L",
+       "y": 350,
+       "value": "NẶNG 50G",
+       "label": "chuột chũi sao",
+       "target": [
+        0.35,
+        0.45
+       ]
+      },
+      {
+       "at": "22 xúc tu",
+       "side": "R",
+       "y": 480,
+       "value": "22 XÚC TU",
+       "label": "mũi hình bông hoa",
+       "target": [
+        0.68,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tốc độ ăn tối",
+     "image": "assets/long/L56.png",
+     "stickers": [
+      {
+       "at": "0,12 giây",
+       "side": "L",
+       "y": 350,
+       "value": "0,12 GIÂY",
+       "label": "ăn nhanh nhất thế giới",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "BÁO CÁO KỸ THUẬT"
+  }
+ }
+}

@@ -1,0 +1,5 @@
+file 'scene04_part0.wav'
+file 'scene04_part1.wav'
+file 'scene04_part2.wav'
+file 'scene04_part3.wav'
+file 'scene04_part4.wav'

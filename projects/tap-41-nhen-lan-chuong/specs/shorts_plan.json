@@ -1,0 +1,104 @@
+{
+ "title_lines": [
+  "TÀU NGẦM TƠ NHỆN",
+  "SỐNG 24H DƯỚI NƯỚC?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Đây là Nhện Lặn Chuông,",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "at": "10-15mm",
+     "side": "R",
+     "y": 520,
+     "value": "10-15 MM",
+     "label": "kích thước tí hon",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Gã ngoi lên mặt nước,",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "bọt khí bạc quanh bụng",
+     "side": "L",
+     "y": 560,
+     "value": "BỌC BẠC",
+     "label": "quặp bọt khí",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Tại đây, gã dệt một",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "Điều chấn động là màng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "at": "mang nhân tạo",
+     "side": "R",
+     "y": 500,
+     "value": "MANG TƠ",
+     "label": "tự hút oxy từ nước",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ]
+  },
+  {
+   "at": "tự hút oxy hòa tan",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "at": "24 giờ",
+     "side": "L",
+     "y": 620,
+     "value": "24 GIỜ",
+     "label": "thở dưới nước",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Từ ăn ngủ, săn mồi",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "chứng minh giới hạn sinh tồn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  }
+ ]
+}

@@ -1,0 +1,821 @@
+{
+ "episode": "tap-37-lac-da-sa-mac",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 6,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "intro_mode": "full_first",
+ "output": "renders/tap-37-lac-da-sa-mac_long.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 86.157,
+   "chapter_no": 1,
+   "badge": "CA CẤP CỨU",
+   "header_image": "assets/banners/chapter_01.png",
+   "title": "BÀI TOÁN SỐC NHIỆT VÀ MẤT NƯỚC NĂM MƯƠI ĐỘ C",
+   "card_hook": "Bệnh nhân lạc đà bình thản bước qua chảo lửa tử thần",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L01.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 9.26,
+     "image": "assets/long/L02.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 13.22,
+     "image": "assets/long/L03.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 14.16,
+       "side": "R",
+       "y": 360,
+       "value": "50°C",
+       "label": "chảo lửa sa mạc",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 17.6,
+     "image": "assets/long/L04.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 17.9,
+       "side": "L",
+       "y": 400,
+       "value": "2 TUẦN",
+       "label": "nhịn nước liên tục",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 21.5,
+     "image": "assets/long/L05.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 29.52,
+     "image": "assets/long/L06.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b07",
+     "start_s": 35.82,
+     "image": "assets/long/L07.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b08",
+     "start_s": 40.6,
+     "image": "assets/long/L08.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b09",
+     "start_s": 45.72,
+     "image": "assets/long/L09.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 46.02,
+       "side": "R",
+       "y": 380,
+       "value": "48 GIỜ",
+       "label": "giới hạn người tử vong",
+       "target": [
+        0.68,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b10",
+     "start_s": 60.68,
+     "image": "assets/long/L10.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 60.98,
+       "side": "L",
+       "y": 390,
+       "value": "15%",
+       "label": "người ngừng đập",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b11",
+     "start_s": 67.2,
+     "image": "assets/long/L11.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 67.86,
+       "side": "R",
+       "y": 370,
+       "value": "30%",
+       "label": "lạc đà chịu tải",
+       "target": [
+        0.65,
+        0.45
+       ]
+      },
+      {
+       "t": 69.1,
+       "side": "L",
+       "y": 420,
+       "value": "40%",
+       "label": "giới hạn tối đa",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b12",
+     "start_s": 81.67,
+     "image": "assets/long/L12.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 95.901,
+   "chapter_no": 2,
+   "badge": "BỆNH ÁN SỐ 1",
+   "header_image": "assets/banners/chapter_02.png",
+   "title": "CHIẾC BƯỚU MỠ NĂNG LƯỢNG CHỨ KHÔNG PHẢI TÚI NƯỚC",
+   "card_hook": "Giải mã lầm tưởng kinh điển về kho chứa nước trên lưng",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L13.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 10.48,
+     "image": "assets/long/L14.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 23.13,
+     "image": "assets/long/L15.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 28.65,
+     "image": "assets/long/L16.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 29.21,
+       "side": "R",
+       "y": 370,
+       "value": "40 KG",
+       "label": "khối lượng bướu mỡ",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 38.21,
+     "image": "assets/long/L17.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 39.33,
+       "side": "L",
+       "y": 390,
+       "value": "30 NGÀY",
+       "label": "nhịn ăn liên tục",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b06",
+     "start_s": 43.52,
+     "image": "assets/long/L18.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b07",
+     "start_s": 52.23,
+     "image": "assets/long/L19.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b08",
+     "start_s": 63.45,
+     "image": "assets/long/L20.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b09",
+     "start_s": 66.33,
+     "image": "assets/long/L21.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b10",
+     "start_s": 79.99,
+     "image": "assets/long/L22.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b11",
+     "start_s": 85.92,
+     "image": "assets/long/L23.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b12",
+     "start_s": 91.26,
+     "image": "assets/long/L24.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 99.825,
+   "chapter_no": 3,
+   "badge": "BỆNH ÁN SỐ 2",
+   "header_image": "assets/banners/chapter_03.png",
+   "title": "TẾ BÀO HỒNG CẦU HÌNH OVAL CO GIÃN VÔ HẠN",
+   "card_hook": "Tuyệt tác tế bào học chống vỡ tan và chống đông máu",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L25.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 14.12,
+     "image": "assets/long/L26.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 25.71,
+     "image": "assets/long/L27.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 34.31,
+     "image": "assets/long/L28.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b05",
+     "start_s": 41.81,
+     "image": "assets/long/L29.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b06",
+     "start_s": 50.68,
+     "image": "assets/long/L30.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 50.98,
+       "side": "R",
+       "y": 360,
+       "value": "130 LÍT",
+       "label": "uống trong tích tắc",
+       "target": [
+        0.65,
+        0.45
+       ]
+      },
+      {
+       "t": 54.8,
+       "side": "L",
+       "y": 420,
+       "value": "15 PHÚT",
+       "label": "thời gian uống",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b07",
+     "start_s": 58.58,
+     "image": "assets/long/L31.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b08",
+     "start_s": 70.54,
+     "image": "assets/long/L32.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 71.5,
+       "side": "R",
+       "y": 370,
+       "value": "240%",
+       "label": "độ giãn nở hồng cầu",
+       "target": [
+        0.68,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b09",
+     "start_s": 75.1,
+     "image": "assets/long/L33.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b10",
+     "start_s": 82.05,
+     "image": "assets/long/L34.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b11",
+     "start_s": 91.72,
+     "image": "assets/long/L35.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b12",
+     "start_s": 97.72,
+     "image": "assets/long/L36.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 80.066,
+   "chapter_no": 4,
+   "badge": "BỆNH ÁN SỐ 3",
+   "header_image": "assets/banners/chapter_04.png",
+   "title": "QUẢ THẬN SIÊU LỌC CÔ ĐẶC NƯỚC TIỂU THÀNH SI-RÔ",
+   "card_hook": "Hệ thống tái hấp thu nước hiệu suất chín mươi chín phần trăm",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L37.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 14.72,
+     "image": "assets/long/L38.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 21.72,
+     "image": "assets/long/L39.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 27.04,
+     "image": "assets/long/L40.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b05",
+     "start_s": 39.86,
+     "image": "assets/long/L41.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b06",
+     "start_s": 50.76,
+     "image": "assets/long/L42.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b07",
+     "start_s": 61.68,
+     "image": "assets/long/L43.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 63.22,
+       "side": "R",
+       "y": 380,
+       "value": "99%",
+       "label": "tái hấp thu nước",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b08",
+     "start_s": 65.06,
+     "image": "assets/long/L44.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b09",
+     "start_s": 69.48,
+     "image": "assets/long/L45.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b10",
+     "start_s": 75.36,
+     "image": "assets/long/L46.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b11",
+     "start_s": 77.5,
+     "image": "assets/long/L47.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 83.909,
+   "chapter_no": 5,
+   "badge": "BỆNH ÁN SỐ 4",
+   "header_image": "assets/banners/chapter_05.png",
+   "title": "ỐNG THỞ NGƯNG TỤ HƠI NƯỚC VÀ LỖ MŨI VAN MỘT CHIỀU",
+   "card_hook": "Hệ thống làm mát điều hòa và khóa bụi cát sa mạc",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L48.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 8.74,
+     "image": "assets/long/L49.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 22.43,
+     "image": "assets/long/L50.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 29.17,
+     "image": "assets/long/L51.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b05",
+     "start_s": 33.17,
+     "image": "assets/long/L52.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b06",
+     "start_s": 40.41,
+     "image": "assets/long/L53.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b07",
+     "start_s": 47.78,
+     "image": "assets/long/L54.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b08",
+     "start_s": 52.58,
+     "image": "assets/long/L55.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b09",
+     "start_s": 63.01,
+     "image": "assets/long/L56.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 64.49,
+       "side": "L",
+       "y": 380,
+       "value": "34°C",
+       "label": "thân nhiệt ban đêm",
+       "target": [
+        0.35,
+        0.45
+       ]
+      },
+      {
+       "t": 66.17,
+       "side": "R",
+       "y": 380,
+       "value": "41°C",
+       "label": "thân nhiệt trưa hè",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b10",
+     "start_s": 70.59,
+     "image": "assets/long/L57.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b11",
+     "start_s": 75.24,
+     "image": "assets/long/L58.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b12",
+     "start_s": 81.36,
+     "image": "assets/long/L59.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 71.567,
+   "chapter_no": 6,
+   "badge": "XUẤT VIỆN",
+   "header_image": "assets/banners/chapter_06.png",
+   "title": "TINH HOA Y HỌC PHỎNG SINH HỌC GIỮA BIỂN CÁT",
+   "card_hook": "Bài học sinh tồn vĩ đại cho tương lai loài người",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L60.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 11.44,
+     "image": "assets/long/L61.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 20.5,
+     "image": "assets/long/L62.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b04",
+     "start_s": 26.32,
+     "image": "assets/long/L63.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b05",
+     "start_s": 34.97,
+     "image": "assets/long/L64.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b06",
+     "start_s": 44.83,
+     "image": "assets/long/L65.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b07",
+     "start_s": 49.35,
+     "image": "assets/long/L66.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b08",
+     "start_s": 56.85,
+     "image": "assets/long/L67.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b09",
+     "start_s": 59.43,
+     "image": "assets/long/L68.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b10",
+     "start_s": 61.61,
+     "image": "assets/long/L69.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b11",
+     "start_s": 68.63,
+     "image": "assets/long/L70.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

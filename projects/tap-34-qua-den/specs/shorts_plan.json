@@ -1,0 +1,128 @@
+{
+ "title_lines": [
+  "TRÍ TUỆ QUÁI VẬT:",
+  "QUẠ ĐEN BÁO THÙ?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "truy sát suốt",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "at": "5 năm",
+     "side": "L",
+     "y": 450,
+     "value": "5 NĂM",
+     "label": "thù dai truyền kiếp",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Quạ Đen sở hữu bộ não",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "7 tuổi",
+     "side": "R",
+     "y": 420,
+     "value": "IQ 7 TUỔI",
+     "label": "ngang trẻ em",
+     "target": [
+      0.65,
+      0.48
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Ở Nhật Bản",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "Đèn xanh để xe nghiền",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "at": "Đèn xanh",
+     "side": "L",
+     "y": 420,
+     "value": "ĐÈN XANH",
+     "label": "nhờ xe cán hộ",
+     "target": [
+      0.3,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Đèn đỏ xe dừng hẳn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "at": "Đèn đỏ",
+     "side": "R",
+     "y": 420,
+     "value": "ĐÈN ĐỎ",
+     "label": "an toàn tuyệt đối",
+     "target": [
+      0.7,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Trong phòng thí nghiệm",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "ngụ ngôn Aesop",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "Đặc biệt",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "Quạ có thể ghi nhớ",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  },
+  {
+   "at": "tả lại mặt kẻ đó",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  },
+  {
+   "at": "Hãy đối xử thật tử tế",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": []
+  }
+ ]
+}

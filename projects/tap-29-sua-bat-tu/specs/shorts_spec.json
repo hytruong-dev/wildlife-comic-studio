@@ -1,0 +1,353 @@
+{
+ "episode": "tap-29-sua-bat-tu",
+ "title_lines": [
+  "TỰ BIẾN NGƯỢC THÀNH SƠ SINH",
+  "ĐỂ BẤT TỬ MÃI MÃI?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 38.86,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-29-sua-bat-tu_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  8.19,
+  14.07,
+  18.47,
+  21.99,
+  27.07,
+  30.53,
+  33.39,
+  38.09
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.76,
+     "text": "Một sinh vật"
+    },
+    {
+     "t": 1.2,
+     "text": "già yếu cận"
+    },
+    {
+     "t": 1.86,
+     "text": "kề cái chết"
+    },
+    {
+     "t": 2.86,
+     "text": "bỗng nhiên tự"
+    },
+    {
+     "t": 3.36,
+     "text": "biến ngược thành"
+    },
+    {
+     "t": 3.92,
+     "text": "trẻ sơ sinh"
+    },
+    {
+     "t": 4.66,
+     "text": "để sống lại"
+    },
+    {
+     "t": 5.16,
+     "text": "từ đầu một"
+    },
+    {
+     "t": 5.6,
+     "text": "cuộc đời mới!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 6.39,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 10.0,
+     "side": "R",
+     "y": 620,
+     "value": "CHỈ 4,5MM",
+     "label": "kích thước siêu nhỏ",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 6.64,
+     "text": "Xin giới thiệu"
+    },
+    {
+     "t": 7.84,
+     "text": "Sứa Bất Tử,"
+    },
+    {
+     "t": 8.82,
+     "text": "loài sinh vật"
+    },
+    {
+     "t": 9.32,
+     "text": "bé nhỏ chỉ"
+    },
+    {
+     "t": 10.0,
+     "text": "4,5mm sống dưới"
+    },
+    {
+     "t": 11.5,
+     "text": "đáy đại dương."
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 12.27,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 12.52,
+     "text": "Khi bị đói,"
+    },
+    {
+     "t": 13.64,
+     "text": "bị thương nặng"
+    },
+    {
+     "t": 14.18,
+     "text": "hoặc già cỗi,"
+    },
+    {
+     "t": 15.18,
+     "text": "nó không hề"
+    },
+    {
+     "t": 15.64,
+     "text": "chết đi!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 16.67,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 16.92,
+     "text": "Thay vào đó,"
+    },
+    {
+     "t": 17.72,
+     "text": "nó kích hoạt"
+    },
+    {
+     "t": 18.12,
+     "text": "quá trình chuyển"
+    },
+    {
+     "t": 18.9,
+     "text": "biệt hóa tế"
+    },
+    {
+     "t": 19.44,
+     "text": "bào thần kỳ:"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 20.19,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 20.44,
+     "text": "toàn bộ tế"
+    },
+    {
+     "t": 20.9,
+     "text": "bào cơ bắp"
+    },
+    {
+     "t": 21.5,
+     "text": "và biểu bì"
+    },
+    {
+     "t": 21.94,
+     "text": "tự tẩy trắng"
+    },
+    {
+     "t": 22.62,
+     "text": "danh tính,"
+    },
+    {
+     "t": 23.34,
+     "text": "quay trở lại"
+    },
+    {
+     "t": 23.82,
+     "text": "thành tế bào"
+    },
+    {
+     "t": 24.36,
+     "text": "gốc phôi thai!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 25.27,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 25.52,
+     "text": "Khối cơ thể"
+    },
+    {
+     "t": 26.14,
+     "text": "sứa chìm xuống"
+    },
+    {
+     "t": 26.94,
+     "text": "đáy biển hóa"
+    },
+    {
+     "t": 27.58,
+     "text": "thành búp polyp"
+    },
+    {
+     "t": 28.22,
+     "text": "non nớt,"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 28.73,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 30.06,
+     "side": "L",
+     "y": 620,
+     "value": "100 BẢN",
+     "label": "nhân bản vô tính",
+     "target": [
+      0.38,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 28.98,
+     "text": "rồi từ đó"
+    },
+    {
+     "t": 29.5,
+     "text": "nhân bản ra"
+    },
+    {
+     "t": 30.06,
+     "text": "hàng trăm chú"
+    },
+    {
+     "t": 30.64,
+     "text": "sứa con mới tinh!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 31.59,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 31.84,
+     "text": "Miễn là không"
+    },
+    {
+     "t": 32.54,
+     "text": "bị kẻ thù"
+    },
+    {
+     "t": 33.04,
+     "text": "ăn thịt,"
+    },
+    {
+     "t": 33.72,
+     "text": "nó có thể"
+    },
+    {
+     "t": 34.06,
+     "text": "lặp lại chu"
+    },
+    {
+     "t": 34.68,
+     "text": "kỳ đảo ngược"
+    },
+    {
+     "t": 35.32,
+     "text": "thời gian này"
+    },
+    {
+     "t": 35.84,
+     "text": "mãi mãi,"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 36.29,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 36.54,
+     "text": "trở thành sinh"
+    },
+    {
+     "t": 37.12,
+     "text": "vật bất tử"
+    },
+    {
+     "t": 37.62,
+     "text": "duy nhất trên"
+    },
+    {
+     "t": 38.18,
+     "text": "hành tinh!"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,900 @@
+{
+ "_doc": "Storyboard Tập 22: Kỳ Nhông Axolotl (Format F5 - Thử thách 5 cấp độ tái tạo). Mỗi câu/ý thoại = 1 beat = 1 ảnh riêng.",
+ "characters": {
+  "HERO": "chú Kỳ Nhông Axolotl (Ambystoma mexicanum) hoạt hình màu hồng phấn mọng nước, thân bè tròn mềm mại, hai mắt đen tròn xoe long lanh ngây thơ, miệng luôn cười toe toét ngộ nghĩnh, trên đầu xòe ra sáu chiếc sừng mang ngoài lông xù màu đỏ thẫm xòe rộng, đeo một cặp kính bảo hộ phòng thí nghiệm tròn xoe trên trán",
+  "HERO_S": "chú Kỳ Nhông Axolotl hồng phấn, 6 sừng mang đỏ xù, kính bảo hộ tròn trên trán",
+  "NO_HERO": "KHÔNG có chú kỳ nhông đeo kính bảo hộ trên trán trong cảnh này",
+  "PROFESSOR": "ông viện trưởng phòng thí nghiệm hoạt hình tóc xù bạc, mặc áo blouse trắng, vẻ mặt thông thái hài hước",
+  "ASSISTANT": "cô trợ lý phòng thí nghiệm hoạt hình mặc áo blouse xanh nhạt đeo thẻ nhân viên"
+ },
+ "side_characters": [
+  "PROFESSOR",
+  "ASSISTANT"
+ ],
+ "shorts_side_characters": [
+  "PROFESSOR"
+ ],
+ "shorts_title_lines": [
+  "MẤT NÃO VÀ THỦNG TIM",
+  "VẪN TỰ MỌC LẠI?!"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "BÊN TRÁI {PROFESSOR} và {ASSISTANT} đứng trước hệ thống máy tính phát sáng tím huỳnh quang; Ở GIỮA là bể kính số 22 phát sáng lung linh giữa ca trực nửa đêm. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Giữa làn nước trong",
+   "layout": "Bên trong làn nước trong veo của bể kính số 22, một sinh vật kỳ dị đang lơ lửng bồng bềnh tỏa ánh sáng tím mờ ảo. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Toàn thân màu hồng",
+   "layout": "Giữa làn nước trong veo, {HERO} lơ lửng bồng bềnh, toàn thân màu hồng phấn mọng nước mềm mại như kẹo bông gòn đáng yêu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Trên đầu xòe ra",
+   "layout": "Cận cảnh trên đầu {HERO}: sáu chiếc sừng mang ngoài lông xù màu đỏ thẫm rung rinh xòe rộng trong nước như những chiếc quạt lông vũ nhỏ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Và đặc biệt nhất",
+   "layout": "Khuôn mặt {HERO} cận cảnh chính diện: hai chấm mắt đen tròn xoe cùng khóe miệng luôn nở nụ cười toe toét ngây thơ ngộ nghĩnh vô cực.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Viện trưởng ơi, mẫu",
+   "layout": "BÊN TRÁI {ASSISTANT} ôm tập hồ sơ bệnh án nghiêng đầu cưng nựng nhìn vào bể kính; BÊN PHẢI {HERO} trong bể bơi tới áp mặt vào kính cười toe toét.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Trợ lý chớ vội",
+   "layout": "BÊN TRÁI {PROFESSOR} nghiêm nghị lắc ngón tay cảnh báo; BÊN PHẢI trên màn hình máy quét phân tích sinh học hiện sơ đồ tế bào phát sáng rực rỡ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đây là Kỳ Nhông",
+   "layout": "Bản đồ hồ Xochimilco ở Mexico màu xanh ngọc ở BÊN TRÁI; BÊN PHẢI là {HERO} bơi kiêu hãnh đội chiếc vương miện Khủng Long Sáu Sừng nhỏ xíu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Kích thước một cá",
+   "layout": "Ở GIỮA {HERO} đứng thẳng cạnh chiếc thước đo chiều cao phòng thí nghiệm màu vàng có kẻ vạch đo kích thước.",
+   "stickers": [
+    {
+     "at": "20-30cm",
+     "side": "R",
+     "y": 350,
+     "value": "20-30 CM",
+     "label": "kích thước mẫu vật",
+     "target": [
+      0.68,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhưng điều khiến cả",
+   "layout": "Các nhà khoa học thế giới đứng quỳ gối ngả mũ kính phục trước bục vinh danh của {HERO} với dải ruy băng danh hiệu Chiến Thần Tái Sinh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tạo hóa đã ban",
+   "layout": "{HERO} ngậm một chiếc núm vú giả em bé màu xanh hài hước, đứng cạnh chiếc đồng hồ thời gian bị khóa chặt ở số 0.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nghĩa là dù đã",
+   "layout": "Cảnh gia đình hạnh phúc: {HERO} vừa bơi vừa trông đàn kỳ nhông con tung tăng, bảng lịch 15 năm lật trang bên cạnh.",
+   "stickers": [
+    {
+     "at": "15 năm",
+     "side": "L",
+     "y": 350,
+     "value": "15 NĂM",
+     "label": "ấu nhi vĩnh viễn",
+     "target": [
+      0.35,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Sáu chiếc sừng xù",
+   "layout": "Kính hiển vi phóng to cấu trúc một chiếc sừng mang ngoài: mạng lưới mao mạch máu màu đỏ tươi dày đặc chạy sát bề mặt để hút oxy trong nước. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Và chính vì giữ",
+   "layout": "{HERO} bơi giữa làn nước, xung quanh cơ thể tỏa hào quang tế bào phôi thai màu xanh ngọc lấp lánh như phép màu tái sinh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đêm nay, tôi tuyên",
+   "layout": "{PROFESSOR} gạt cần công tắc khởi động hệ thống thí nghiệm lớn; phía trên bảng đèn LED bật sáng dòng chữ THỬ THÁCH 5 CẤP ĐỘ CỰC HẠN.",
+   "stickers": [],
+   "impacts": [
+    "kích hoạt"
+   ]
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Bảng điện tử hiện cấp độ 1: THỬ THÁCH TÁI TẠO TỨ CHI; BÊN PHẢI một con cá săn mồi hung dữ há to miệng lao tới cắn vào cánh tay {HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Ở con người hay",
+   "layout": "So sánh chia đôi: BÊN TRÁI cánh tay người bị thương để lại vết mô sẹo xơ cứng gồ ghề kèm dấu gạch chéo đỏ; BÊN PHẢI là dấu chấm hỏi khoa học. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng tại bàn thí",
+   "layout": "{HERO} nằm thảnh thơi trên bàn thí nghiệm nước, bên cạnh chiếc đồng hồ cát 24 giờ đếm ngược phát sáng hào quang kỳ diệu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chỉ trong vòng chưa",
+   "layout": "Mặt cắt phóng đại vết cắt cánh tay: trong 24 giờ, các tế bào da bò thần tốc phủ kín bề mặt vết thương tạo thành lớp màng biểu mô bảo vệ hoàn hảo. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "24 giờ",
+     "side": "R",
+     "y": 350,
+     "value": "24 GIỜ",
+     "label": "khép kín vết thương",
+     "target": [
+      0.58,
+      0.46
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Không hề có máu",
+   "layout": "Vết thương sạch sẽ không một giọt máu, các vi khuẩn gây nhiễm trùng bên ngoài bị lớp màng biểu mô chặn đứng hoàn toàn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và ngay dưới lớp",
+   "layout": "Ngay dưới lớp da vết thương, một khối tế bào mầm Blastema màu hồng ngọc nhú lên phát sáng rực rỡ như mầm cây sinh học. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đây là lúc khoa",
+   "layout": "Kính hiển vi phóng to vết thương: các tế bào cơ bắp và xương trưởng thành bắt đầu có biểu hiện rung động lạ thường chuẩn bị phân tách. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "tự bẻ ngược bánh",
+   "layout": "Sơ đồ chuyển hóa tế bào: tế bào cơ, xương, mạch máu xoay ngược bánh xe thời gian, rũ bỏ thân phận để trở lại thành tế bào gốc phôi thai tròn xoe. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "phân chia điên cuồng",
+   "layout": "Mô hình máy in 3D sinh học hoạt hình đang quét tia laser xanh in từng lớp xương, cơ bắp và mạch máu cho cánh tay mới của {HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tuần thứ 1, một",
+   "layout": "Timeline tiến trình 4 tuần: tuần 1 nhú chồi thịt nhỏ; tuần 2 chồi kéo dài phân nhánh khuỷu tay; {PROFESSOR} cầm kính lúp ghi chép tiến độ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đến tuần thứ 4,",
+   "layout": "Cận cảnh bàn tay mới nhú của {HERO}: năm ngón tay nhỏ xíu màu hồng phấn bắt đầu tách rời rõ rệt, cử động ngọ nguậy linh hoạt.",
+   "stickers": [
+    {
+     "at": "5 ngón tay",
+     "side": "R",
+     "y": 350,
+     "value": "5 NGÓN TAY",
+     "label": "hoàn chỉnh như mới",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Sau đúng 30-40 ngày,",
+   "layout": "{HERO} giơ cánh tay mới mọc trắng hồng khỏe khoắn vỗ vỗ vào cánh tay kia, kiểm tra khớp xương và cơ bắp cử động trơn tru 100%.",
+   "stickers": [
+    {
+     "at": "30-40 ngày",
+     "side": "L",
+     "y": 350,
+     "value": "30-40 NGÀY",
+     "label": "mọc lại 100%",
+     "target": [
+      0.38,
+      0.48
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Các nhà khoa học",
+   "layout": "Chiếc máy đếm số lần thí nghiệm nhảy số lên hàng trăm lần, mỗi lần cánh tay đều mọc lại hoàn hảo không sẹo. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "hàng trăm lần",
+     "side": "R",
+     "y": 350,
+     "value": "100 LẦN",
+     "label": "không hề tạo sẹo",
+     "target": [
+      0.65,
+      0.42
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "và đặc biệt nhất",
+   "layout": "Biểu tượng tế bào ung thư bị vòng tròn gạch chéo đỏ bảo vệ; BÊN PHẢI {HERO} ngậm kẹo mút cười tít mắt, bảng cấp độ 1 bật sáng đèn xanh PASS.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Bảng điện tử phòng lab chuyển sang chữ CẤP ĐỘ 2: TỔN THƯƠNG HỆ THẦN KINH; {PROFESSOR} giơ ngón tay chỉ lên màn hình. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Tủy sống là đại",
+   "layout": "Mô hình tủy sống phát sáng chạy dọc sống lưng như một đại lộ cao tốc truyền xung điện kết nối não và cơ thể. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khi đại lộ đó",
+   "layout": "Sơ đồ tủy sống người bị đứt: các tế bào hình sao dựng lên bức tường mô sẹo đen dày đặc chặn tín hiệu, biểu tượng xe lăn bị gạch chéo. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Báo cáo viện trưởng,",
+   "layout": "{ASSISTANT} reo lên chỉ tay vào màn hình máy quét huỳnh quang đang nhấp nháy luồng tín hiệu hồi phục màu xanh ngọc từ lưng mẫu vật.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhìn vào màn hình",
+   "layout": "Màn hình kính hiển vi điện tử: đội quân tế bào biểu mô thần kinh Ependymoglial màu tím huỳnh quang phân chia ồ ạt với tốc độ vũ bão. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thay vì tạo sẹo",
+   "layout": "Sơ đồ tủy sống đứt gãy: các tế bào thần kinh vươn dài ra hai đầu tạo thành một chiếc cầu treo sinh học nối liền khoảng trống. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chiếc cầu biểu mô",
+   "layout": "Chiếc cầu biểu mô tiết ra các phân tử phát sáng dẫn đường hóa học, ngăn chặn hoàn toàn mô sẹo xơ cứng hình thành. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Hàng ngàn sợi trục",
+   "layout": "Các sợi trục thần kinh men theo chiếc cầu mọc xuyên qua, các tia lửa xung điện li ti xẹt sáng kết nối hai đầu dây thần kinh. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chỉ sau 3-4 tuần",
+   "layout": "Tờ lịch 3-4 tuần bóc trang rụng xuống, bó tủy sống đã hàn gắn trơn tru liền mạch 100% không một vết sẹo. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "3-4 tuần",
+     "side": "L",
+     "y": 350,
+     "value": "3-4 TUẦN",
+     "label": "hàn gắn tủy sống",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "lại phe phẩy chiếc đuôi",
+   "layout": "{HERO} uốn lượn chiếc đuôi hồng bơi lội thoăn thoắt hình số 8 trong bể nước, phản xạ bơi lội nhanh nhẹn hoàn hảo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Các viện nghiên cứu",
+   "layout": "Tòa nhà viện nghiên cứu thần kinh quốc tế với biểu tượng ADN phát sáng và hy vọng mở ra chìa khóa chữa lành cho bệnh nhân bại liệt; bảng Cấp độ 2 bật đèn xanh PASS. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Đèn còi báo động màu đỏ xoay tít, màn hình phòng lab hiện dòng chữ cảnh báo CẤP ĐỘ 3: THỬ THÁCH NỘI TẠNG SINH TỬ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chúng ta đưa lưỡi",
+   "layout": "Dao vi phẫu chạm vào mô hình đồ họa của Trái Tim và Bộ Não phát sáng lung linh giữa phòng thí nghiệm. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Các nhà khoa học",
+   "layout": "Kéo vi phẫu chuyên dụng cắt rời 1/3 góc tâm thất dưới đáy trái tim ba ngăn nhỏ xíu của chú kỳ nhông trên khay phẫu thuật trong suốt. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1/3 tâm thất",
+     "side": "R",
+     "y": 350,
+     "value": "1/3 TIM",
+     "label": "cắt bỏ tâm thất",
+     "target": [
+      0.58,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ở con người, một",
+   "layout": "So sánh: mô hình trái tim người bị vết sẹo xơ đen xám sau cơn nhồi máu cơ tim, máy đo điện tim kêu tút dài báo động. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nhưng khi nhìn vào",
+   "layout": "Các bác sĩ phẫu thuật dụi mắt kinh ngạc nhìn vào lồng ngực trong suốt của {HERO}: trái tim bị khuyết một góc vẫn tự đập bơm máu nhịp nhàng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ngay tại vùng biên",
+   "layout": "Phóng to vùng biên vết cắt tim: các tế bào cơ tim tháo dỡ sợi tơ co bóp, biến ngược thành tế bào phôi thai phân chia ồ ạt lấp kín lỗ hổng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chúng phân chia ồ",
+   "layout": "Sau 30 ngày, buồng tâm thất mới tinh mọc lại hoàn chỉnh 100%, trái tim đập rộn ràng phát sáng hào quang đỏ hồng không một vết sẹo. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "30 ngày",
+     "side": "R",
+     "y": 350,
+     "value": "30 NGÀY",
+     "label": "tim mọc lại 100%",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chưa dừng lại ở",
+   "layout": "Bìa tạp chí Science 2022 hiển thị sơ đồ giải trình tự không gian đơn bào thùy não trước của chú kỳ nhông. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "Science",
+     "side": "L",
+     "y": 350,
+     "value": "SCIENCE",
+     "label": "nghiên cứu não bộ",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và kết quả khiến",
+   "layout": "Mặt cắt bộ não: các tế bào gốc biểu mô thần kinh thức giấc, xếp từng lớp tế bào nơ-ron mới tái tạo lại thùy não trước bị cắt mất. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Trời đất ơi viện",
+   "layout": "{ASSISTANT} ôm hai má há hốc mồm kinh ngạc; BÊN PHẢI {HERO} trong bể nước nghiêng đầu mỉm cười toe toét ngây thơ vô số tội.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bị cắt mất một",
+   "layout": "{HERO} tạo dáng ngộ nghĩnh, nụ cười bất biến; bên cạnh là hình đồ họa trái tim và bộ não tỏa hào quang chữa lành thần thánh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Khả năng tự sửa",
+   "layout": "Bảng điện tử cấp độ 3 bật đèn xanh PASS kèm biểu tượng trái tim và bộ não vàng rực rỡ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Màn hình chuyển sang CẤP ĐỘ 4: GHÉP TẠNG XUYÊN CÁ THỂ; {PROFESSOR} đứng giải thích bên sơ đồ y học ghép tạng. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Hệ miễn dịch của",
+   "layout": "Mô hình hệ miễn dịch người báo động đỏ hung dữ với đội quân bạch cầu giơ vũ khí cảnh giác. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "chỉ cần phát hiện",
+   "layout": "Đội quân bạch cầu người tổng tấn công tiêu diệt mảnh ghép tạng lạ, bắt bệnh nhân uống thuốc ức chế miễn dịch. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thế nhưng trong cơ",
+   "layout": "Đại thực bào của {HERO} mang hình ảnh sứ giả hòa bình thân thiện, ân cần quét dọn tế bào chết và bắt tay các tế bào ghép lạ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Các nhà khoa học",
+   "layout": "Thí nghiệm ghép chi: một chú kỳ nhông màu xanh đen hoang dã được ghép một cánh tay màu trắng bạch tạng, cánh tay cử động vẫy chào mượt mà.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thay vì đào thải,",
+   "layout": "Mạch máu đỏ nối thông từ thân sang cánh tay trắng ghép, nuôi dưỡng các khớp ngón tay cử động khỏe khoắn như ruột thịt. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thậm chí trong những",
+   "layout": "Minh họa thí nghiệm giải phẫu kinh điển: chú kỳ nhông dung nạp thêm một cánh tay phụ nhỏ trên lưng, các dây thần kinh nối liền hoàn hảo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Bí mật đằng sau",
+   "layout": "Bìa bài báo tạp chí Nature danh tiếng năm 2018 mở ra mô hình chuỗi xoắn kép ADN khổng lồ rực rỡ màu sắc. {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "2018",
+     "side": "L",
+     "y": 350,
+     "value": "2018",
+     "label": "công bố Nature",
+     "target": [
+      0.35,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Các đồng nghiệp hãy",
+   "layout": "Thước cuộn ADN so sánh: sợi ADN người 3 tỷ cặp base ngắn tũn bên cạnh cuộn ADN khổng lồ 32 tỷ cặp base dài gấp 10 lần của {HERO}.",
+   "stickers": [
+    {
+     "at": "32 tỷ",
+     "side": "R",
+     "y": 350,
+     "value": "32 TỶ",
+     "label": "cặp base ADN",
+     "target": [
+      0.68,
+      0.48
+     ]
+    },
+    {
+     "at": "10 lần",
+     "side": "L",
+     "y": 480,
+     "value": "GẤP 10 LẦN",
+     "label": "so với bộ gen người",
+     "target": [
+      0.28,
+      0.55
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Cả một đại dương",
+   "layout": "Kho tàng dữ liệu di truyền cổ xưa hàng trăm triệu năm bừng sáng bên trong nhân tế bào của {HERO}, bảng cấp độ 4 bật đèn xanh PASS.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Đèn tím phòng lab rực rỡ, màn hình trung tâm chớp sáng dòng chữ CẤP ĐỘ TỐI THƯỢNG: TRÙM CUỐI SINH TỒN; {PROFESSOR} khoanh tay trầm ngâm suy nghĩ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chặt chân chân mọc",
+   "layout": "Bốn ô đồ họa tóm tắt: chân mọc lại, tủy nối liền, tim tự vá, tạng dung nạp; ở giữa là dấu chấm hỏi khổng lồ phát sáng vàng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và đây là cú",
+   "layout": "Chiếc đồng hồ thời gian quay vùn vụt và bóng đen của dòng chữ SỰ TRƯỞNG THÀNH xuất hiện như một bức màn bí ẩn. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Trong tự nhiên, tuyến",
+   "layout": "Sơ đồ giải phẫu tuyến giáp của {HERO} thiếu hụt hoóc-môn Thyroxine, biểu tượng chiếc van khóa chặn giữ nguyên hình hài phôi thai.",
+   "stickers": [
+    {
+     "at": "Thyroxine",
+     "side": "L",
+     "y": 350,
+     "value": "THYROXINE",
+     "label": "hoóc-môn tuyến giáp",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nó chọn sống cả",
+   "layout": "{HERO} tung tăng bơi lội dưới làn nước mát với nụ cười trẻ thơ ngây ngô bất tử, xung quanh là cỏ nước và ốc nhỏ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhưng khi các nhà",
+   "layout": "Bàn tay nhà khoa học cầm ống tiêm chứa dung dịch hoóc-môn Thyroxine tiêm vào cơ thể kỳ nhông, chiếc đồng hồ sinh học bị kích hoạt quay tít.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Sáu chiếc sừng mang",
+   "layout": "Sáu chiếc sừng đỏ của chú kỳ nhông từ từ teo nhỏ và rụng dần, phổi bên trong phồng to, hai mắt xuất hiện mi mắt bắt đầu khép mở.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Toàn bộ cơ thể nó",
+   "layout": "Chú kỳ nhông bò lên cạn biến thành một con kỳ nhông hổ trưởng thành màu nâu xám sần sùi, không còn sừng đỏ, dáng đi nặng nề.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và cái giá phải",
+   "layout": "Đồng hồ cát vỡ đôi, chiếc mặt nạ bi hài kịch của sự trưởng thành xuất hiện trong phòng lab. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Khi đã bước lên",
+   "layout": "Cận cảnh bàn chân của kỳ nhông trên cạn bị thương xuất hiện vết sẹo xơ cứng xám ngoét gạch chéo đỏ, không thể tự mọc lại nguyên vẹn.",
+   "stickers": [
+    {
+     "at": "1/2",
+     "side": "R",
+     "y": 350,
+     "value": "GIẢM 1/2",
+     "label": "tuổi thọ khi lên cạn",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hóa ra để giữ",
+   "layout": "So sánh đối chiếu: BÊN TRÁI {HERO} hồng phấn dưới nước cười ngây thơ bất tử; BÊN PHẢI kỳ nhông cạn nâu xám già nua đầy âu lo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Tổng kết ghi chép",
+   "layout": "{PROFESSOR} giơ tấm bảng điểm 10 đỏ chót trao cho {HERO}; cả phòng thí nghiệm vỗ tay chúc mừng Chiến Thần Tái Sinh.",
+   "stickers": [
+    {
+     "at": "điểm 10",
+     "side": "R",
+     "y": 350,
+     "value": "ĐIỂM 10",
+     "label": "sinh tồn tuyệt đối",
+     "target": [
+      0.58,
+      0.45
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Kê đơn xuất viện:",
+   "layout": "{HERO} được thả lại vào bể kính nước mát trong veo, bơi tung tăng vẫy tay chào tạm biệt phòng thí nghiệm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Còn các trợ lý",
+   "layout": "Hai ngã rẽ cuộc đời: BÊN TRÁI biểu tượng người lớn xách cặp đi làm nhiều âu lo; BÊN PHẢI nụ cười trẻ thơ của {HERO} cùng khả năng tự chữa lành, khán giả giơ thẻ bình luận có hình trái tim. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hồ sơ cấp độ tối",
+   "layout": "{PROFESSOR} đóng tập hồ sơ số 22 lại, trên bàn mở ra bản đồ thám hiểm đáy đại dương tối thẫm với ngọn hải đăng quét sáng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một cục thịt dài",
+   "layout": "Một sinh vật bí ẩn được vẽ hoàn toàn bằng BÓNG ĐEN ĐẶC TUYỀN (solid black silhouette) dài ngoằng như khúc xúc xích nằm lững lờ trên đáy cát biển sâu tối tăm, có dấu hỏi chấm vàng phát sáng phía trên; KHÔNG vẽ rõ mắt mũi hay màu da thật. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "và trong tích tắc",
+   "layout": "Cũng chiếc BÓNG ĐEN ĐẶC TUYỀN (solid black silhouette) dài ngoằng đó dưới đáy biển tự hóa lỏng cơ thể thành đống thạch và bắn chùm tơ ruột màu trắng qua phía sau trói chặt một con cua biển săn mồi hung dữ. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đố các bạn biết",
+   "layout": "Chiếc BÓNG ĐEN ĐẶC TUYỀN bí ẩn dưới đáy biển nằm giữa ba dấu hỏi chấm vàng cam lấp lánh mời gọi khán giả bình luận đoán tên loài vật tập sau. {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Khung dọc: con cá săn mồi hung dữ lao tới đớp vào {HERO} trong bể nước, bong bóng X-quang hiện hình 1/3 trái tim bị cắn đứt.",
+   "stickers": []
+  },
+  {
+   "id": "S12",
+   "at": "hoặc cắt mất",
+   "layout": "Khung dọc cận cảnh: mô hình bộ não nhỏ xíu bị cắt khuyết một góc, bên cạnh là biểu tượng dấu chấm hết gạch chéo đỏ; {HERO} vẫn nghiêng đầu chớp mắt ngây thơ.",
+   "stickers": []
+  },
+  {
+   "at": "nhưng với Kỳ Nhông",
+   "layout": "Bác sĩ ôm đầu hốt hoảng gạch chéo đỏ, bên cạnh {HERO} mỉm cười toe toét giơ bàn tay phát sáng hào quang chữa lành.",
+   "stickers": [
+    {
+     "at": "30 ngày",
+     "side": "R",
+     "y": 560,
+     "value": "30 NGÀY",
+     "label": "mọc lại 100%",
+     "target": [
+      0.55,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Đây là loài Khủng",
+   "layout": "{HERO} bơi bảnh bao giữa làn nước hồ Mexico, chiếc thước đo chiều cao màu vàng 30cm dựng thẳng đứng bên cạnh.",
+   "stickers": [
+    {
+     "at": "30cm",
+     "side": "R",
+     "y": 750,
+     "value": "30 CM",
+     "label": "Khủng Long Sáu Sừng",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Nhờ hiện tượng ấu",
+   "layout": "Mô hình tế bào phôi thai phát sáng xanh ngọc, chiếc đồng hồ sinh học bị khóa chặt ở số 0, {HERO} giữ mãi hình hài ấu nhi.",
+   "stickers": []
+  },
+  {
+   "at": "để tái tạo từ",
+   "layout": "Minh họa chân tay, chiếc đuôi, mắt và tủy sống của {HERO} phát sáng hào quang tự mọc lại nguyên vẹn không để lại một vết sẹo nhỏ.",
+   "stickers": []
+  },
+  {
+   "at": "Thậm chí khi các",
+   "layout": "Kéo vi phẫu cắt 1/3 tâm thất tim của {HERO}, buồng tim tự khép miệng phân chia tế bào bơm máu đập rộn ràng.",
+   "stickers": [
+    {
+     "at": "1/3 tâm thất",
+     "side": "L",
+     "y": 560,
+     "value": "1/3 TIM",
+     "label": "tự vá tâm thất",
+     "target": [
+      0.48,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "hay ghép một cánh",
+   "layout": "Cánh tay màu trắng bạch tạng ghép sang chú kỳ nhông màu đen, mạch máu nối liền nuôi dưỡng cử động mượt mà không hề đào thải.",
+   "stickers": []
+  },
+  {
+   "at": "Bộ gen của nó",
+   "layout": "Thước cuộn ADN khổng lồ: bộ gen Axolotl 32 tỷ cặp base dài gấp 10 lần bộ gen con người 3 tỷ cặp base.",
+   "stickers": [
+    {
+     "at": "32 tỷ",
+     "side": "R",
+     "y": 650,
+     "value": "32 TỶ",
+     "label": "gấp 10 lần người",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Bí mật duy nhất",
+   "layout": "Ống tiêm chứa hoóc-môn Thyroxine làm sáu chiếc sừng mang ngoài lông xù của {HERO} teo rụng dần, chiếc đồng hồ quay nhanh.",
+   "stickers": []
+  },
+  {
+   "at": "nó sẽ rụng mất",
+   "layout": "Cận cảnh 6 chiếc sừng mang ngoài của {HERO} teo rụng, chú kỳ nhông hổ nâu xám leo lên cạn, bàn chân bị vết sẹo xơ cứng gạch chéo đỏ, không còn tự mọc lại được nữa.",
+   "stickers": [
+    {
+     "at": "6 chiếc sừng",
+     "side": "L",
+     "y": 780,
+     "value": "6 SỪNG",
+     "label": "teo rụng khi lớn",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Một chiến thần tái",
+   "layout": "Chân dung {HERO} hồng phấn tỏa hào quang rực rỡ dưới nước, 6 sừng xòe rộng, nụ cười bất tử vô ưu vô lo ngây thơ ngộ nghĩnh.",
+   "stickers": []
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+import json
+
+scenes = [
+  {
+    "id": "scene01",
+    "badge": "KHỞI TỐ VỤ ÁN",
+    "banner_title": "PHIÊN TÒA XÉT XỬ THIÊN TÀI",
+    "chapter_title": "Khởi tố bị cáo Quạ Đen: Vụ án dùng xe ô tô làm công cụ bóc hạt dẻ",
+    "hook": "CÔNG TỐ VIÊN CÔNG BỐ HỒ SƠ TỘI PHẠM LÔNG VŨ SỞ HỮU TRÍ NÃO CỦA ĐỨA TRẺ BẢY TUỔI",
+    "mood": "tram_bi_an",
+    "parts": [
+      {
+        "text": "Trật tự! Toàn thể phòng xử án hãy giữ im lặng! Hôm nay, Viện kiểm sát Tự nhiên chính thức mở phiên tòa xét xử một trong những bộ óc mưu mô, quỷ quyệt và sở hữu chỉ số thông minh gây kinh hoàng bậc nhất hành tinh hoang dã. [surprise-oh] Bị cáo đứng trước vành móng ngựa hôm nay không ai khác chính là Quạ Đen, hay còn được giới giang hồ lông vũ gọi bằng mật danh Thiên Tài Cánh Đen! Nhìn vẻ ngoài đen nhánh từ đầu đến chân cùng tiếng kêu quạ quạ chói tai, nhiều người cứ ngỡ đây chỉ là một loài chim chuyên đi nhặt rác hôi thối hoặc mang lại điềm xui xẻo. Nhưng các vị thẩm phán và bồi thẩm đoàn hãy mở tập hồ sơ trinh sát số một ra mà xem! Đây không phải là một con chim bình thường, mà là một bậc thầy thao túng công nghệ và hành vi của xã hội loài người!",
+        "mood": "tram_bi_an"
+      },
+      {
+        "text": "Lời khai của nhân chứng: Bị cáo mang quả óc chó vỏ cứng, đặt ngay trước lốp xe tải rồi đứng đợi đèn đỏ!",
+        "cast": "chu_ngo_ngac"
+      },
+      {
+        "text": "[surprise-oh] Quá chính xác thưa nhân chứng! Các bạn hãy tưởng tượng xem: Một quả óc chó rừng dày cộp và cứng như đá cuội, mỏ chim có mổ gãy đôi cũng không tài nào nứt nổi. Thiên Tài Cánh Đen làm gì? Nó không hề tốn công dùng sức đập đá mù quáng. Nó bay vút lên cột đèn tín hiệu giao thông, kiên nhẫn đợi đèn xanh bật lên cho dòng xe cộ lao vun vút qua, rồi thả chính xác quả hạt xuống đúng làn bánh xe tải để lốp xe nghiền nát lớp vỏ cứng hộ mình! Nhưng điều ranh ma chưa dừng lại ở đó. Nó không hề lao xuống nhặt hạt ngay vì biết xe đang chạy sẽ cán chết mình. Nó bình thản đậu trên cành cây cao, quan sát thật kỹ và chờ đúng lúc đèn đỏ bật sáng, toàn bộ dòng xe dừng lại hẳn, mới ung dung sà xuống vạch sang đường dành cho người đi bộ để thưởng thức bữa tiệc béo ngậy! [laughter] Một chiến thuật hoàn hảo, không tốn lấy một giọt mồ hôi mà lại an toàn tuyệt đối. Thưa quý tòa, đây rõ ràng là hành vi lợi dụng phương tiện giao thông hiện đại của loài người mà không chịu nộp một đồng phí cầu đường nào!",
+        "mood": "hao_hung"
+      },
+      {
+        "text": "Các nhà khoa học thần kinh tại Đại học Cambridge đã từng đo đạc tỷ lệ thể tích não bộ so với trọng lượng cơ thể của loài quạ. Kết quả cho thấy tỷ lệ này tương đương hoàn toàn với loài tinh tinh, và mật độ tế bào nơ-ron thần kinh ở vùng não trước của chúng cô đặc đến mức tương đương trí tuệ của một đứa trẻ bảy tuổi! Đừng bao giờ vội coi thường những sinh vật có cánh này, bởi vì ngay sau đây, công tố viên sẽ phơi bày bốn chuỗi bằng chứng không thể chối cãi về siêu trí tuệ đáng sợ của bị cáo!",
+        "mood": "don_dap"
+      }
+    ]
+  },
+  {
+    "id": "scene02",
+    "badge": "BẰNG CHỨNG #1",
+    "banner_title": "THÍ NGHIỆM CHIẾC BÌNH AESOP",
+    "chapter_title": "Bằng chứng #1: Thí nghiệm Aesop dâng nước và khả năng tính toán thể tích",
+    "hook": "QUẠ ĐEN THỰC HÀNH VẬT LÝ NỔI: THẢ SỎI CHÌM DÂNG MỰC NƯỚC ĐỂ LẤY MỒI TRONG ỐNG NGHIỆM",
+    "mood": "hao_hung",
+    "parts": [
+      {
+        "text": "Thưa hội đồng xét xử, chúng ta đều từng được nghe câu chuyện ngụ ngôn Aesop thời thơ ấu về chú quạ khát nước thông minh biết gắp từng viên sỏi thả vào bình để mực nước dâng lên miệng. Suốt hàng thế kỷ, con người chúng ta chỉ coi đó là một câu chuyện cổ tích mang tính phóng đại nhằm răn dạy trẻ nhỏ. Nhưng vào Năm hai ngàn không trăm mười bốn, một nhóm các nhà sinh vật học hành vi quốc tế đã quyết định đưa Thiên Tài Cánh Đen vào phòng thí nghiệm với một bài kiểm tra vật lý thủy động học cực kỳ hóc búa để xem truyền thuyết cổ tích có thật hay không! [surprise-oh]",
+        "mood": "tram_bi_an"
+      },
+      {
+        "text": "Báo cáo giám định: Chúng tôi thả miếng thịt trong ống nghiệm sâu mười lăm centimet, mỏ quạ không tài nào thò tới đáy!",
+        "cast": "tham_phan"
+      },
+      {
+        "text": "[surprise-oh] Và chuyện gì đã diễn ra thưa quý tòa? Các nhà khoa học bày sẵn bên cạnh hai đống vật thể: một đống sỏi đá đặc nặng trĩu chìm nghỉm trong nước, và một đống xốp nhẹ nổi lơ lửng trên mặt nước. Một đứa trẻ dưới năm tuổi nếu không được người lớn chỉ dẫn từ trước rất có thể sẽ nhặt bừa bãi cả xốp lẫn sỏi ném vào ống nghiệm. Nhưng Thiên Tài Cánh Đen thì không! Nó nghiêng đầu quan sát cấu trúc ống trong đúng mười giây, rồi dùng chiếc mỏ sắc nhọn nhặt từng viên sỏi đặc thả tõm vào ống nghiệm. Nó hoàn toàn phớt lờ những miếng xốp nổi vô dụng vì hiểu rõ rằng xốp nhẹ không thể chiếm chỗ để làm thể tích nước dâng lên! [laughter] Từng viên sỏi nặng rơi xuống đáy, mực nước dâng cao dần từng milimét, và chỉ sau sáu lượt thả sỏi chuẩn xác, miếng thịt thơm lừng đã trôi lên tận miệng ống. Bị cáo thong thả gắp lấy miếng mồi ngon lành trước ánh mắt kinh ngạc tột độ của toàn bộ giáo sư tiến sĩ trong phòng lab!",
+        "mood": "hao_hung"
+      },
+      {
+        "text": "Chưa dừng lại ở đó, các nhà nghiên cứu tiếp tục nâng độ khó lên cấp độ tiến sĩ: Họ chuẩn bị đồng thời hai ống nghiệm, một ống chứa nước trong suốt và một ống chứa đầy cát đặc quánh. Thiên Tài Cánh Đen chỉ thả sỏi vào chiếc ống có nước, tuyệt đối không phí một chút sức lực nào để ném sỏi vào ống cát vì nó hiểu rõ cát không có tính chất chuyển động dâng lên như chất lỏng! Thưa tòa, đây chính là nhận thức trực quan phi thường về thể tích và khối lượng riêng của vật chất. Một giống loài chưa từng học qua một tiết vật lý đại cương nào lại có thể vận dụng nguyên lý Archimedes một cách nhuần nhuyễn như một bản năng tự nhiên!",
+        "mood": "don_dap"
+      }
+    ]
+  },
+  {
+    "id": "scene03",
+    "badge": "BẰNG CHỨNG #2",
+    "banner_title": "THUYẾT TÂM TRÍ VÀ MƯU MẸO",
+    "chapter_title": "Bằng chứng #2: Đọc vị tâm lý đồng loại và màn kịch chôn mồi giả mạo",
+    "hook": "CÚ LỪA KINH ĐIỂN: GIẢ VỜ CHÔN THỨC ĂN DƯỚI ĐẤT RỒI MANG ĐI CHỖ KHÁC PHÒNG BỊ KẺ CƯỚP",
+    "mood": "nghiem_trang_gia",
+    "parts": [
+      {
+        "text": "Nếu việc thả sỏi dâng nước mới chỉ chứng minh bị cáo am hiểu sâu sắc môn vật lý cơ bản, thì chuỗi chứng cứ số hai này sẽ chứng minh Thiên Tài Cánh Đen còn là một bậc thầy lão luyện về tâm lý học hành vi và điều tra tội phạm! Trong giới động vật học hiện đại, có một khái niệm nhận thức cực kỳ cao cấp gọi là Thuyết tâm trí. Đó là khả năng nhận biết rằng kẻ khác cũng có suy nghĩ, góc nhìn riêng và ý đồ cướp đoạt, từ đó dự đoán trước hành vi của đối phương để tung đòn lừa gạt hoặc thiết lập phòng thủ. Trên cõi đời này, ngoài con người và loài tinh tinh, hầu như chưa có loài chim nào chạm tới đẳng cấp tư duy trừu tượng này!",
+        "mood": "tram_bi_an"
+      },
+      {
+        "text": "Lời tố cáo: Bị cáo rất hay diễn trò đào bới giả vờ cất giấu kho báu nhằm lừa gạt sự chú ý của chúng tôi!",
+        "cast": "chu_ngo_ngac"
+      },
+      {
+        "text": "[surprise-oh] Lời tố cáo hoàn toàn chính xác đến từng chi tiết! Khi một con quạ kiếm được một miếng mồi béo bở, nó sẽ lập tức đảo mắt lia lịa quan sát xung quanh xem có kẻ nào đang rình mò ăn trộm hay không. Nếu phát hiện có một con quạ khác đang lén lút dòm ngó từ cành cây đối diện, nó sẽ làm gì? Nó không hề bỏ chạy hoảng loạn. Nó giả vờ ung dung đáp xuống một bụi cỏ rậm rạp, dùng mỏ cặm cụi đào một cái hố thật sâu, làm động tác nhét miếng mồi vào rồi phủ lá cây khô lên ngụy trang thật cẩn thận. Nhưng thực chất, miếng mồi ngon lành vẫn được giấu kín mít sâu dưới cuống họng của nó! [laughter] Đợi đến khi kẻ rình mò hăm hở lao xuống đào bới điên cuồng cái hố rỗng tuếch kia trong sự thất vọng tột cùng, thì Thiên Tài Cánh Đen đã sải cánh bay tít sang một khu rừng hoang vắng khác, nơi không có lấy một ánh mắt dòm ngó, để chôn giấu kho báu thực sự!",
+        "mood": "hao_hung"
+      },
+      {
+        "text": "Điều này chứng minh điều gì thưa quý tòa? Bị cáo hiểu rõ ràng như ban ngày rằng kẻ kia đang có dã tâm cướp mồi của mình, và bị cáo biết cách tạo ra một thông tin giả mạo đánh lừa thị giác để điều khiển hành vi của đối thủ theo ý mình. Chỉ có những bộ não sở hữu chỉ số mưu mô cực kỳ tinh quái mới có thể dàn dựng một kịch bản tình báo hai mang xuất sắc và lạnh lùng đến như vậy!",
+        "mood": "don_dap"
+      }
+    ]
+  },
+  {
+    "id": "scene04",
+    "badge": "BẰNG CHỨNG #3",
+    "banner_title": "CHẾ TẠO CÔNG CỤ ĐA TẦNG",
+    "chapter_title": "Bằng chứng #3: Chế tạo công cụ liên hoàn và uốn cong dây thép làm lưỡi câu",
+    "hook": "QUẠ NEW CALEDONIA UỐN CONG DÂY THÉP THÀNH MÓC CÂU LẤY THỨC ĂN NGOÀI TẦM VỚI",
+    "mood": "hao_hung",
+    "parts": [
+      {
+        "text": "Thưa quý tòa, trong thế giới động vật, nhiều loài như rái cá biển biết dùng đá đập vỡ vỏ ốc, hay chim sẻ biết dùng cọng cỏ khều sâu trong kẽ nứt. Nhưng sử dụng một công cụ có sẵn trong tự nhiên là một chuyện, còn biết tự tay chế tạo và biến đổi hình dạng của một vật thể hoàn toàn mới theo ý đồ riêng lại là một nấc thang tiến hóa trí tuệ vượt bậc! Vào Năm hai ngàn không trăm lẻ hai, một cá thể quạ New Caledonia mang tên Betty tại phòng thí nghiệm Đại học Oxford đã tạo nên một cơn địa chấn chấn động toàn bộ giới khoa học thế giới!",
+        "mood": "tram_bi_an"
+      },
+      {
+        "text": "Báo cáo thực nghiệm: Betty được đưa cho sợi dây kẽm thẳng và chiếc xô thịt nhỏ ở đáy ống hẹp không thể móc được!",
+        "cast": "tham_phan"
+      },
+      {
+        "text": "[surprise-oh] Các bạn có hình dung được chú quạ này đã làm gì không? Betty không hề cắn xé hay vẫy cánh bất lực. Nó bình tĩnh dùng móng chân kẹp chặt một đầu sợi dây kẽm xuống sàn, dùng chiếc mỏ cứng cáp ngậm lấy đầu kia và kéo gập một góc chín mươi độ, tạo thành một chiếc móc câu cong vút hình chữ J vô cùng hoàn hảo! Sau đó, nó ngậm chiếc móc câu tự chế này, thọc thẳng xuống khe hẹp, móc chuẩn xác vào quai xô và nhấc bổng miếng thịt ngon lành lên miệng trước sự sững sờ kinh ngạc của các nhà nghiên cứu! [laughter] Đây là lần đầu tiên trong lịch sử nhân loại, một loài sinh vật không thuộc bộ linh trưởng lại có khả năng tự biến đổi một vật liệu kim loại nhân tạo thành công cụ chuyên dụng chính xác đến từng milimét!",
+        "mood": "hao_hung"
+      },
+      {
+        "text": "Và chưa dừng lại ở đó đâu thưa hội đồng, loài quạ còn giải được câu đố công cụ tám bước liên hoàn trong các bài kiểm tra logic phức tạp: Dùng chiếc que ngắn gắp chiếc que vừa, dùng chiếc que vừa lấy chiếc que dài nhất, và cuối cùng dùng chiếc que dài nhất để chọc thủng ổ khóa lấy miếng thức ăn béo ngậy. Chúng có khả năng lập kế hoạch tương lai tuần tự trong não bộ trước khi thực hiện từng hành động cụ thể ngoài thực tế!",
+        "mood": "don_dap"
+      }
+    ]
+  },
+  {
+    "id": "scene05",
+    "badge": "BẰNG CHỨNG #4",
+    "banner_title": "HỒ SƠ THÙ HẬN TRUYỀN KIẾP",
+    "chapter_title": "Bằng chứng #4: Nhận diện khuôn mặt con người và bản án trả thù kéo dài 5 năm",
+    "hook": "BỘ NHỚ KHỦNG KHIẾP: NHẬN DIỆN MẶT KẺ THÙ VÀ TRUYỀN NỖI HẬN THÙ CHO CẢ ĐÀN QUA NHIỀU NĂM",
+    "mood": "tram_bi_an",
+    "parts": [
+      {
+        "text": "Và đây chính là bản cáo trạng rùng rợn và gây sốc nhất trong toàn bộ phiên tòa hôm nay: Khả năng ghi nhớ khuôn mặt con người và lòng thù hận truyền kiếp của Thiên Tài Cánh Đen! Nếu bạn từng trót dại ném một hòn đá, phá tổ hay xua đuổi một con quạ trên đường phố, lời khuyên chân thành và cấp thiết nhất của công tố viên là hãy lập tức chuyển nhà sang một thành phố khác sinh sống ngay đi! [dissatisfaction-hnn]",
+        "mood": "tram_bi_an"
+      },
+      {
+        "text": "Lời khai của giáo sư: Tôi từng đeo mặt nạ quái vật để gắn thẻ nhận dạng vài con quạ trong trường đại học!",
+        "cast": "ong_gia_ke"
+      },
+      {
+        "text": "[surprise-oh] Và hậu quả sau đó thật là một cơn ác mộng kinh hoàng kéo dài suốt nhiều năm! Dù giáo sư có thay đổi toàn bộ quần áo, thay đổi dáng đi hay thậm chí đi lẫn giữa hàng ngàn sinh viên tấp nập, chỉ cần ông đeo chiếc mặt nạ đó bước ra sân trường, toàn bộ bầy quạ xung quanh lập tức gầm rú tiếng kêu báo động đặc biệt, đồng loạt lao bổ xuống mổ tới tấp vào đầu và phóng uế liên hồi lên người ông! Điều đáng sợ đến lạnh gáy nhất là: suốt năm năm sau đó, ngay cả những con quạ non mới sinh ra, chưa từng bị bắt giữ hay nhìn thấy mặt nạ bao giờ, cũng lập tức tham gia vào cuộc tập kích báo thù điên cuồng này! [laughter] Bằng một hệ thống ngôn ngữ tiếng kêu phức tạp chưa được con người giải mã hoàn toàn, quạ bố mẹ đã miêu tả chi tiết từng đặc điểm khuôn mặt của kẻ thù cho quạ con và cả những bầy quạ láng giềng xung quanh biết để cùng nhau đi trừng phạt kẻ ác!",
+        "mood": "hao_hung"
+      },
+      {
+        "text": "Ngược lại, nếu một người đàn ông đeo mặt nạ Tổng thống Dick Cheney luôn mang đồ ăn ngon đến cho chúng, bầy quạ sẽ tỏ ra vô cùng thân thiện, sà xuống quấn quýt và bay lượn chào đón nồng nhiệt. Loài quạ không chỉ nhớ mặt bạn đến từng chi tiết nhỏ, mà chúng còn nhớ bạn đã từng đối xử tử tế hay độc ác với chúng suốt nửa thập kỷ!",
+        "mood": "don_dap"
+      }
+    ]
+  },
+  {
+    "id": "scene06",
+    "badge": "PHÁN QUYẾT",
+    "banner_title": "TÔN VINH BỘ NÃO BẦU TRỜI",
+    "chapter_title": "Phán quyết của Tòa án Tự nhiên & Câu đố linh thú Tập 35",
+    "hook": "BẢN ÁN TRỌN ĐỜI: TRAO HUY CHƯƠNG TRÍ TUỆ ĐỈNH CAO CHO THIÊN TÀI LÔNG VŨ CỦA BẦU TRỜI",
+    "mood": "am_ap",
+    "parts": [
+      {
+        "text": "Thưa quý tòa, thưa các vị bồi thẩm đoàn và toàn thể các bạn khán giả thân mến! Sau khi xem xét toàn diện chuỗi bằng chứng từ việc mượn lốp xe ô tô bóc hạt dẻ, thả sỏi dâng nước, đóng kịch giấu mồi cho đến tự chế tạo móc câu và nhớ mặt kẻ thù suốt năm năm, Viện kiểm sát nhận thấy: Hành vi của bị cáo không phải là tội ác, mà là đỉnh cao của sự thích nghi và trí tuệ sinh tồn phi thường!",
+        "mood": "tram_bi_an"
+      },
+      {
+        "text": "Tuyên án: Bị cáo Quạ Đen được tuyên trắng án và được trao danh hiệu Kẻ Thông Minh Nhất Bầu Trời Tự Nhiên!",
+        "cast": "tham_phan"
+      },
+      {
+        "text": "[laughter] Một tràng pháo tay nồng nhiệt cho Thiên Tài Cánh Đen! Chúng nhắc nhở loài người chúng ta một bài học sâu sắc rằng: Trí tuệ và khả năng tư duy không phải là đặc quyền duy nhất của bộ linh trưởng, và sự sống hoang dã luôn ẩn chứa những kỳ quan não bộ vượt xa trí tưởng tượng tầm thường của con người. Lần tới nếu bạn vô tình bắt gặp một chú quạ đen bên đường, hãy cúi đầu chào nó thật lịch sự và ném cho nó một vài hạt dẻ thơm ngon nhé, vì rất có thể đôi mắt tinh anh đó đang âm thầm ghi nhớ khuôn mặt của bạn suốt năm năm đấy! [laughter]",
+        "mood": "am_ap"
+      },
+      {
+        "text": "Còn bây giờ, giữa tài mượn lốp xe ô tô bóc vỏ hạt và khả năng nhớ mặt kẻ thù suốt năm năm truyền lại cho đời con, bạn thấy siêu trí tuệ nào của Quạ Đen đáng kinh ngạc và gây sốc hơn? Hãy để lại ý kiến bình luận của bạn ngay bên dưới nhé! Và các bạn hãy chuẩn bị tinh thần cho Tập ba mươi lăm: Chúng ta sẽ tạm rời bầu trời để lặn xuống đáy đại dương sâu thẳm, đối đầu với một gia tộc Mafia khét tiếng nhất biển cả, kẻ có biệt danh Sát Thủ Biển Đen sở hữu tuyệt chiêu tạo sóng hất văng hải cẩu và dám phẫu thuật hạ gục cả Cá Mập Trắng! Hãy đón xem nhé!",
+        "mood": "hao_hung"
+      }
+    ]
+  }
+]
+
+shorts = {
+  "target_s": 54.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Đừng bao giờ đắc tội với một con Quạ Đen nếu bạn không muốn bị cả dòng họ nhà nó truy sát suốt năm năm trời! [dissatisfaction-hnn] Quạ Đen sở hữu bộ não có mật độ nơ-ron dày đặc ngang loài tinh tinh, đạt trí thông minh tương đương một đứa trẻ bảy tuổi. Ở Nhật Bản, khi gặp quả óc chó vỏ quá cứng, quạ thản nhiên thả hạt trước bánh xe tải lúc đèn xanh để xe nghiền nát hộ, rồi ung dung đợi đèn đỏ xe dừng hẳn mới sà xuống vạch đi bộ nhặt ăn ngon lành! Trong phòng thí nghiệm, chúng biết thả từng viên sỏi đặc vào ống nghiệm để dâng mực nước lấy thức ăn y hệt ngụ ngôn Aesop. Đặc biệt, nghiên cứu tại Đại học Washington chứng minh: Quạ có thể ghi nhớ chính xác từng đường nét trên khuôn mặt kẻ thù suốt năm năm, rồi tả lại mặt kẻ đó cho cả bầy đàn cùng quạ con mới sinh để cùng nhau kéo đến trả thù! [laughter] Hãy đối xử thật tử tế với những thiên tài lông vũ này nhé!"
+}
+
+p = "projects/tap-34-qua-den/episode.json"
+with open(p, "r", encoding="utf-8") as f:
+    ep = json.load(f)
+
+ep["longform"] = {"scenes": scenes}
+ep["shorts"] = shorts
+
+ep["display_fix"] = {
+  "Năm hai ngàn không trăm mười bốn": "Năm 2014",
+  "Năm hai ngàn không trăm lẻ hai": "Năm 2002",
+  "Tập ba mươi lăm": "Tập 35",
+  "bảy tuổi": "7 tuổi",
+  "năm năm": "5 năm",
+  "mười giây": "10 giây",
+  "mười lăm centimet": "15cm",
+  "sáu lượt": "6 lượt",
+  "tám bước": "8 bước",
+  "chín mươi độ": "90°",
+  "đèn đỏ": "Đèn đỏ",
+  "đèn xanh": "Đèn xanh",
+  "Archimedes": "Archimedes",
+  "Dick Cheney": "Dick Cheney",
+  "John Marzluff": "John Marzluff",
+  "New Caledonia": "New Caledonia",
+  "Cambridge": "Cambridge",
+  "Oxford": "Oxford",
+  "Shibuya": "Shibuya",
+  "Tokyo": "Tokyo"
+}
+
+ep["nickname"] = "Thiên Tài Cánh Đen"
+ep["voice"]["tempo_long"] = 1.11
+ep["voice"]["tempo_shorts_min"] = 1.12
+ep["voice"]["min_long_s"] = 510
+ep["voice"]["max_long_s"] = 900
+
+total_chars = sum(len(p["text"]) for sc in scenes for p in sc["parts"])
+print("Total long chars:", total_chars)
+print("Total shorts chars:", len(shorts["text"]))
+
+with open(p, "w", encoding="utf-8") as f:
+    json.dump(ep, f, ensure_ascii=False, indent=2)
+print("Updated tap-34 episode.json successfully!")

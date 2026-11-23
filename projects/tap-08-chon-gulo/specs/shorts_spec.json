@@ -1,0 +1,552 @@
+{
+ "episode": "tap-08-chon-gulo",
+ "title_lines": [
+  "CHỒN GULO 15KG CƯỚP MỒI",
+  "GẤU XÁM 300KG?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 49.31,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-08-chon-gulo_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  6.99,
+  11.91,
+  14.59,
+  19.05,
+  22.19,
+  27.49,
+  31.13,
+  37.13,
+  40.97,
+  44.23,
+  46.93,
+  49.47
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "t": 0.92,
+     "side": "L",
+     "y": 960,
+     "value": "15 KG",
+     "label": "Chồn Gulo tí hon",
+     "target": [
+      0.5,
+      0.75
+     ]
+    },
+    {
+     "t": 4.22,
+     "side": "R",
+     "y": 560,
+     "value": "300 KG",
+     "label": "Gấu Xám Grizzly",
+     "target": [
+      0.5,
+      0.3
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 0.0,
+     "text": "Nặng vỏn vẹn"
+    },
+    {
+     "t": 0.92,
+     "text": "15kg, nhưng dám"
+    },
+    {
+     "t": 2.4,
+     "text": "lao vào cướp"
+    },
+    {
+     "t": 2.9,
+     "text": "mồi của một"
+    },
+    {
+     "t": 3.34,
+     "text": "con Gấu Xám"
+    },
+    {
+     "t": 4.02,
+     "text": "nặng 300kg!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 5.19,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 9.36,
+     "side": "L",
+     "y": 640,
+     "value": "WOLVERINE",
+     "label": "tên tiếng Anh",
+     "target": [
+      0.5,
+      0.35
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 5.44,
+     "text": "Kẻ điên rồ"
+    },
+    {
+     "t": 6.3,
+     "text": "bậc nhất xứ"
+    },
+    {
+     "t": 6.86,
+     "text": "tuyết phương Bắc"
+    },
+    {
+     "t": 7.54,
+     "text": "chính là Chồn"
+    },
+    {
+     "t": 8.08,
+     "text": "Gulo, hay còn"
+    },
+    {
+     "t": 8.96,
+     "text": "gọi là Wolverine!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 10.11,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [
+    {
+     "t": 11.86,
+     "side": "R",
+     "y": 1000,
+     "value": "ỦNG TUYẾT",
+     "label": "bàn chân bè rộng",
+     "target": [
+      0.45,
+      0.85
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 10.36,
+     "text": "Với bốn bàn"
+    },
+    {
+     "t": 10.94,
+     "text": "chân bè rộng"
+    },
+    {
+     "t": 11.62,
+     "text": "như đôi ủng"
+    },
+    {
+     "t": 12.1,
+     "text": "trượt tuyết,"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 12.79,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 16.18,
+     "side": "L",
+     "y": 960,
+     "value": "SA LẦY!",
+     "label": "mồi khổng lồ",
+     "target": [
+      0.5,
+      0.75
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 13.04,
+     "text": "gã tí hon"
+    },
+    {
+     "t": 13.5,
+     "text": "này lướt nhẹ"
+    },
+    {
+     "t": 14.14,
+     "text": "trên tuyết mềm,"
+    },
+    {
+     "t": 14.8,
+     "text": "trong khi những"
+    },
+    {
+     "t": 15.48,
+     "text": "con mồi khổng"
+    },
+    {
+     "t": 16.0,
+     "text": "lồ sa lầy"
+    },
+    {
+     "t": 16.54,
+     "text": "bất lực!"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 17.25,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [
+    {
+     "t": 19.26,
+     "side": "R",
+     "y": 700,
+     "value": "-40°C",
+     "label": "lông không đóng băng",
+     "target": [
+      0.25,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 17.5,
+     "text": "Bộ lông kỵ"
+    },
+    {
+     "t": 18.06,
+     "text": "nước không bao"
+    },
+    {
+     "t": 18.58,
+     "text": "giờ đông đá"
+    },
+    {
+     "t": 19.12,
+     "text": "ở -40°C,"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 20.39,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 21.78,
+     "side": "L",
+     "y": 700,
+     "value": "90°",
+     "label": "răng hàm xoay ngang",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 20.64,
+     "text": "còn chiếc răng"
+    },
+    {
+     "t": 21.16,
+     "text": "hàm trên xoay"
+    },
+    {
+     "t": 21.78,
+     "text": "ngang 90°"
+    },
+    {
+     "t": 22.52,
+     "text": "thì hoạt động"
+    },
+    {
+     "t": 23.32,
+     "text": "như kìm cộng"
+    },
+    {
+     "t": 23.9,
+     "text": "lực, bẻ vụn"
+    },
+    {
+     "t": 24.68,
+     "text": "cả xương đông đá!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 25.69,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 27.36,
+     "side": "R",
+     "y": 760,
+     "value": "70 KM",
+     "label": "chạy không nghỉ",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 25.94,
+     "text": "Nó có thể"
+    },
+    {
+     "t": 26.84,
+     "text": "chạy liên tục"
+    },
+    {
+     "t": 27.36,
+     "text": "70km qua vách"
+    },
+    {
+     "t": 28.44,
+     "text": "núi dựng đứng,"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 29.33,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 31.44,
+     "side": "L",
+     "y": 980,
+     "value": "XẠ HÔI",
+     "label": "vũ khí hóa học",
+     "target": [
+      0.5,
+      0.75
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 29.58,
+     "text": "và khi bị"
+    },
+    {
+     "t": 29.92,
+     "text": "bao vây,"
+    },
+    {
+     "t": 30.72,
+     "text": "nó xịt ra"
+    },
+    {
+     "t": 31.22,
+     "text": "luồng xạ hôi"
+    },
+    {
+     "t": 31.9,
+     "text": "kinh hoàng khiến"
+    },
+    {
+     "t": 32.74,
+     "text": "cả bầy sói"
+    },
+    {
+     "t": 33.38,
+     "text": "cũng phải ôm"
+    },
+    {
+     "t": 33.94,
+     "text": "mũi bỏ chạy!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 35.33,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S13.png",
+   "stickers": [
+    {
+     "t": 37.42,
+     "side": "R",
+     "y": 700,
+     "value": "BẤT BẠI",
+     "label": "mà khóc nhè",
+     "target": [
+      0.5,
+      0.4
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 35.58,
+     "text": "Nhưng nghịch lý"
+    },
+    {
+     "t": 36.34,
+     "text": "hài hước là"
+    },
+    {
+     "t": 36.86,
+     "text": "gã chiến binh"
+    },
+    {
+     "t": 37.42,
+     "text": "bất bại này"
+    },
+    {
+     "t": 37.94,
+     "text": "lại cô độc"
+    },
+    {
+     "t": 38.56,
+     "text": "đến phát khóc,"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 39.17,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 40.12,
+     "side": "L",
+     "y": 800,
+     "value": "CÔ ĐỘC",
+     "label": "cả đời một mình",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 39.42,
+     "text": "cả đời lủi"
+    },
+    {
+     "t": 39.92,
+     "text": "thủi một mình"
+    },
+    {
+     "t": 40.44,
+     "text": "vì tính tình"
+    },
+    {
+     "t": 41.28,
+     "text": "quá cộc cằn!"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 42.43,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 42.68,
+     "text": "Muốn biết gã"
+    },
+    {
+     "t": 43.22,
+     "text": "tí hon này"
+    },
+    {
+     "t": 43.7,
+     "text": "đuổi Gấu Xám"
+    },
+    {
+     "t": 44.32,
+     "text": "cướp mồi ra sao?"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 45.33,
+   "draw_s": 0.8,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 46.92,
+     "side": "R",
+     "y": 700,
+     "value": "XEM TẬP 8",
+     "label": "bản dài đầy đủ",
+     "target": [
+      0.5,
+      0.6
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 45.58,
+     "text": "Bấm xem ngay"
+    },
+    {
+     "t": 46.26,
+     "text": "video dài Tập"
+    },
+    {
+     "t": 47.12,
+     "text": "tám bên dưới nhé,"
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "start_s": 48.17,
+   "draw_s": 0.5,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 48.42,
+     "text": "vì gã này..."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,737 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "00 SÁNG: TỐC ĐỘ 0,24 KM/H VÀ KỶ LỤC 30 NGÀY TIÊU HÓA 1 CHIẾC LÁ",
+   "hook": "BẮT ĐẦU NGÀY MỚI CỦA THÁNH SỐNG CHẬM",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kính thưa quý vị",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chiếc đồng hồ báo",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để di chuyển được",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Alo trường quay",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo trường quay",
+     "image": "assets/long/L06.png",
+     "stickers": [
+      {
+       "at": "0,24km/h",
+       "side": "R",
+       "y": 360,
+       "value": "0,24 KM/H",
+       "label": "tốc độ rùa bò",
+       "target": [
+        0.65,
+        0.45
+       ]
+      },
+      {
+       "at": "4m",
+       "side": "L",
+       "y": 480,
+       "value": "4M / PHÚT",
+       "label": "trên ngọn cây",
+       "target": [
+        0.35,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Còn nếu rơi xuống",
+     "image": "assets/long/L07.png",
+     "stickers": [
+      {
+       "at": "2m",
+       "side": "L",
+       "y": 380,
+       "value": "2M / PHÚT",
+       "label": "lết dưới mặt đất",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng điều kinh ngạc",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để tiêu hóa hết",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "30 ngày",
+       "side": "R",
+       "y": 360,
+       "value": "30 NGÀY",
+       "label": "tiêu hóa 1 chiếc lá",
+       "target": [
+        0.68,
+        0.5
+       ]
+      },
+      {
+       "at": "50 ngày",
+       "side": "L",
+       "y": 480,
+       "value": "50 NGÀY",
+       "label": "kéo dài tối đa",
+       "target": [
+        0.35,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chính vì tiêu hóa",
+     "image": "assets/long/L10.png",
+     "stickers": [
+      {
+       "at": "30-34°C",
+       "side": "L",
+       "y": 380,
+       "value": "30-34°C",
+       "label": "thân nhiệt bất ổn",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nếu thức ăn trong",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy cùng chúng tôi",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "06:00 SÁNG"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "00 TRƯA: CHIẾC CỔ XOAY 270 ĐỘ VÀ BÀN TAY KHÓA TỰ ĐỘNG KHI CHẾT",
+   "hook": "CHIẾC CỔ CÚ VỌ VÀ MÓNG VUỐT KHÓA CHẾT",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quý vị hãy nhìn",
+     "image": "assets/long/L14.png",
+     "stickers": [
+      {
+       "at": "270°",
+       "side": "R",
+       "y": 360,
+       "value": "270 ĐỘ",
+       "label": "xoay đầu như cú",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bác phóng viên ơi",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bí mật nằm ở",
+     "image": "assets/long/L16.png",
+     "stickers": [
+      {
+       "at": "8-10",
+       "side": "R",
+       "y": 360,
+       "value": "8-10 ĐỐT",
+       "label": "đốt sống cổ siêu dị",
+       "target": [
+        0.68,
+        0.45
+       ]
+      },
+      {
+       "at": "7 đốt",
+       "side": "L",
+       "y": 480,
+       "value": "7 ĐỐT",
+       "label": "hươu cao cổ",
+       "target": [
+        0.35,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cấu trúc xương cổ",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa dừng lại ở",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "10cm",
+       "side": "L",
+       "y": 380,
+       "value": "10 CM",
+       "label": "móng vuốt móc sắt",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đôi chân này không",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà giải phẫu",
+     "image": "assets/long/L20.png",
+     "stickers": [
+      {
+       "at": "30%",
+       "side": "R",
+       "y": 380,
+       "value": "30%",
+       "label": "tỷ lệ cơ bắp",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Lực khóa này mạnh",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không những thế, Thánh",
+     "image": "assets/long/L22.png",
+     "stickers": [
+      {
+       "at": "15m",
+       "side": "L",
+       "y": 380,
+       "value": "15-30M",
+       "label": "ngã không gãy xương",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": [
+      "đánh bịch"
+     ]
+    },
+    {
+     "at": "Nhưng nhờ các khớp",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "12:00 TRƯA"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "00 HOÀNG HÔN: HỆ SINH THÁI DI ĐỘNG TRÊN LƯNG VÀ BIỆT TÀI BƠI LỘI",
+   "hook": "MẢNH VƯỜN SINH THÁI TỰ NHIÊN TRÊN BỘ LÔNG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi nhìn cận cảnh",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quý vị có thấy",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thảm tảo xanh này",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hàng trăm con bướm",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đổi lại, thảm tảo",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một phi vụ làm",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng cú sốc lớn",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": [
+      "rơi tõm"
+     ]
+    },
+    {
+     "at": "Quý vị tin được",
+     "image": "assets/long/L31.png",
+     "stickers": [
+      {
+       "at": "3-4 lần",
+       "side": "L",
+       "y": 380,
+       "value": "GẤP 3-4X",
+       "label": "tốc độ bơi vượt sông",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nó có thể nhịn",
+     "image": "assets/long/L32.png",
+     "stickers": [
+      {
+       "at": "40 phút",
+       "side": "R",
+       "y": 360,
+       "value": "40 PHÚT",
+       "label": "nhịn thở dưới nước",
+       "target": [
+        0.65,
+        0.45
+       ]
+      },
+      {
+       "at": "1/3",
+       "side": "L",
+       "y": 480,
+       "value": "1/3",
+       "label": "nhịp tim chậm lại",
+       "target": [
+        0.35,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Từ một kẻ tàn",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "18:00 HOÀNG HÔN"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "00 ĐÊM: NGHI LỄ ĐI VỆ SINH TỬ THẦN VÀ CÚ GIẢM 1/3 CÂN NẶNG",
+   "hook": "CHUYẾN ĐI VỆ SINH SINH TỬ KÉO DÀI CẢ TIẾNG ĐỒNG HỒ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và đây chính là",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong khi các loài",
+     "image": "assets/long/L36.png",
+     "stickers": [
+      {
+       "at": "1 tuần",
+       "side": "R",
+       "y": 380,
+       "value": "1 TUẦN/LẦN",
+       "label": "nghi lễ đi vệ sinh",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chuyến đi này tiêu",
+     "image": "assets/long/L37.png",
+     "stickers": [
+      {
+       "at": "10%",
+       "side": "L",
+       "y": 380,
+       "value": "10% PIN",
+       "label": "năng lượng tiêu tốn",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Vì di chuyển quá",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo nghiên cứu",
+     "image": "assets/long/L39.png",
+     "stickers": [
+      {
+       "at": "50%",
+       "side": "L",
+       "y": 380,
+       "value": "50% CHẾT",
+       "label": "khi đi vệ sinh",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bác phóng viên ơi",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi xuống tới gốc",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quý vị hãy chuẩn",
+     "image": "assets/long/L42.png",
+     "stickers": [
+      {
+       "at": "1/3",
+       "side": "R",
+       "y": 360,
+       "value": "1/3",
+       "label": "trọng lượng cơ thể",
+       "target": [
+        0.65,
+        0.45
+       ]
+      },
+      {
+       "at": "30%",
+       "side": "L",
+       "y": 480,
+       "value": "30%",
+       "label": "giảm cân tức thì",
+       "target": [
+        0.35,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và mục đích sinh",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chấp nhận đối mặt",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "22:00 ĐÊM"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "00 ĐÊM: CUỘC CHẠM TRÁN SÁT THỦ ĐẠI BÀNG HARPY VÀ CÚ CÀO TỰ VỆ",
+   "hook": "ĐỐI ĐẦU BẠO CHÚA BẦU TRỜI ĐẠI BÀNG HARPY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trên tầng tán rừng",
+     "image": "assets/long/L46.png",
+     "stickers": [
+      {
+       "at": "2m",
+       "side": "R",
+       "y": 380,
+       "value": "2 MÉT",
+       "label": "sải cánh đại bàng",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng chính tốc độ",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và quý vị đừng",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chậm chạp có tính",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và tình mẫu tử",
+     "image": "assets/long/L50.png",
+     "stickers": [
+      {
+       "at": "6 tháng",
+       "side": "R",
+       "y": 380,
+       "value": "6 THÁNG",
+       "label": "ôm ngực mẹ bám chặt",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Người mẹ lười dù",
+     "image": "assets/long/L51.png",
+     "stickers": [
+      {
+       "at": "10cm",
+       "side": "L",
+       "y": 380,
+       "value": "10 CM",
+       "label": "móng vuốt tự vệ",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "02:00 ĐÊM"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "00 RẠNG SÁNG: TRIẾT LÝ SỐNG CHẬM ĐỈNH CAO VÀ BÓNG ĐEN BÍ ẨN TẬP 14",
+   "hook": "BẬT MÍ BÓNG ĐEN BÍ ẨN CỦA QUÁI KIỆT TẬP 14",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhiều người thường lấy",
+     "image": "assets/long/L53.png",
+     "stickers": [
+      {
+       "at": "30 triệu năm",
+       "side": "L",
+       "y": 380,
+       "value": "30 TR NĂM",
+       "label": "sinh tồn bền bỉ",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đôi khi trong cuộc",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hành trình 24 giờ",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng ngay bây giờ",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Xin gửi tới quý",
+     "image": "assets/long/L57.png",
+     "stickers": [
+      {
+       "at": "10 giây",
+       "side": "R",
+       "y": 380,
+       "value": "10 GIÂY",
+       "label": "đẻ trộm trứng",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thứ hai, bản năng",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và thứ ba, nghịch",
+     "image": "assets/long/L59.png",
+     "stickers": [
+      {
+       "at": "3 lần",
+       "side": "R",
+       "y": 380,
+       "value": "GẤP 3 LẦN",
+       "label": "con nuôi khổng lồ",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "khán giả có đoán",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "04:00 SÁNG"
+  }
+ }
+}

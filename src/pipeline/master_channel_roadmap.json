@@ -1,0 +1,177 @@
+{
+  "channel_name": "Vẽ Chuyện Hoang Dã",
+  "channel_slogan": "Khám phá góc khuất thiên nhiên qua từng nét vẽ",
+  "schedule_rules": {
+    "shift_1_time": "11:30",
+    "shift_1_shorts_time": "12:00",
+    "shift_2_time": "18:00",
+    "shift_2_shorts_time": "19:30"
+  },
+  "technical_standards": {
+    "longform": {
+      "aspect_ratio": "16:9",
+      "resolution": [1920, 1080],
+      "fps": 60,
+      "target_duration_sec": [495, 630],
+      "bgm_volume_db": -20.0,
+      "voice_volume_db": -4.0,
+      "scene_hold_sec": 1.5,
+      "max_caption_chars": 50,
+      "color_palette": {
+        "paper_base": "#F8F6F1",
+        "ink_black": "#1A1A1A",
+        "accent_gold": "#FFB703",
+        "accent_orange": "#FB8500",
+        "accent_forest": "#2F855A"
+      }
+    },
+    "shorts": {
+      "aspect_ratio": "9:16",
+      "resolution": [1080, 1920],
+      "fps": 60,
+      "target_duration_sec": [50, 58],
+      "voice_speed": 1.25,
+      "safe_zone": {
+        "top_px": 250,
+        "bottom_px": 420,
+        "right_px": 180,
+        "left_px": 60
+      },
+      "outro_hold_sec": 1.5,
+      "beats_count": 6
+    }
+  },
+  "episodes": {
+    "1": {
+      "tap": 1,
+      "day": 1,
+      "shift": 1,
+      "subject_vi": "Lửng Mật (Honey Badger)",
+      "subject_en": "Honey Badger",
+      "scientific_name": "Mellivora capensis",
+      "folder": "tap-01-lung-mat",
+      "title_longform": "Tại Sao Cả Sư Tử Cũng Không Dám Đụng Vào Kẻ Chí Phèo Này? | Tập 1",
+      "title_shorts": "Bị Rắn Hổ Mang Cắn Xong Ngủ 1 Giấc Rồi Dậy Ăn Luôn Con Rắn?! #Shorts #LungMat",
+      "status": "published",
+      "youtube_url": "https://youtu.be/WRAp223qZ60"
+    },
+    "2": {
+      "tap": 2,
+      "day": 1,
+      "shift": 2,
+      "subject_vi": "Rái Cá Biển (Sea Otter)",
+      "subject_en": "Sea Otter",
+      "scientific_name": "Enhydra lutris",
+      "folder": "tap-02-rai-ca-bien",
+      "title_longform": "Đừng Để Vẻ Đáng Yêu Này Lừa Bạn: Bộ Mặt Thật Của Rái Cá! | Tập 2",
+      "title_shorts": "Tội Ác Đằng Sau Gương Mặt Đáng Yêu Nhất Đại Dương! #Shorts #RaiCaBien",
+      "status": "published",
+      "youtube_url": "https://youtu.be/DOPcbU7gvjs"
+    },
+    "3": {
+      "tap": 3,
+      "day": 2,
+      "shift": 1,
+      "subject_vi": "Cá Heo (Dolphin)",
+      "subject_en": "Dolphin",
+      "scientific_name": "Delphinidae",
+      "folder": "tap-03-ca-heo",
+      "title_longform": "Sự Thật Đen Tối Về Cá Heo Mà Phim Hoạt Hình Đã Giấu Bạn | Tập 3",
+      "title_shorts": "Cá Heo Đánh Bóng Chuyền Bằng... Cá Nóc?! 🐡🏐 #shorts #caheo #vechuyenhoangda",
+      "status": "published",
+      "youtube_url": "https://youtu.be/ca_heo_placeholder"
+    },
+    "4": {
+      "tap": 4,
+      "day": 2,
+      "shift": 2,
+      "subject_vi": "Thú Mỏ Vịt (Platypus)",
+      "subject_en": "Platypus",
+      "scientific_name": "Ornithorhynchus anatinus",
+      "folder": "tap-04-thu-mo-vit",
+      "title_longform": "Giải Mã Thú Mỏ Vịt: Cú Lừa 200 Năm & 4 Dị Biệt Điên Rồ! | Tập 4",
+      "title_shorts": "Sinh Vật Dị Biệt Nhất Trái Đất: Ăn Đá Bằng Mỏ Vịt! 😱 #shorts #vechuyenhoangda",
+      "status": "published",
+      "youtube_url": "https://youtu.be/ogvEUfQOWGA"
+    },
+    "5": {
+      "tap": 5,
+      "day": 3,
+      "shift": 1,
+      "subject_vi": "Chim Bồ Nông (Pelican)",
+      "subject_en": "Pelican",
+      "scientific_name": "Pelecanus",
+      "folder": "tap-05-chim-bo-nong",
+      "title_longform": "Giải Mã Chim Bồ Nông: Chiếc Mỏ Nuốt Cả Thế Giới & 4 Dị Biệt! | Tập 5",
+      "title_shorts": "Kẻ Đòi Nuốt Cả Thế Giới: Kẹp Thử Capybara & Túi 13L Nước! 😱 #shorts #chimbonong #vechuyenhoangda",
+      "status": "scheduled",
+      "schedule_time": "2026-11-07 11:00",
+      "youtube_url": "https://youtu.be/KXJQReDxDcA",
+      "shorts_url": "https://youtube.com/shorts/nk8HcF8rRp0"
+    },
+    "6": {
+      "tap": 6,
+      "day": 3,
+      "shift": 2,
+      "subject_vi": "Gấu Nước (Tardigrade)",
+      "subject_en": "Tardigrade",
+      "scientific_name": "Tardigrada",
+      "folder": "tap-06-gau-nuoc",
+      "title_longform": "Sinh Vật Bất Tử Duy Nhất Sống Sót Qua 5 Đại Tuyệt Chủng | Tập 6",
+      "title_shorts": "Sống Sót Qua Bom Hạt Nhân Nhưng Lại Thua Một Con Ốc Sên?! 😱 #shorts #gaunuoc #vechuyenhoangda",
+      "status": "ready_to_produce",
+      "hook_longform": "Trạng thái Tun biến cơ thể thành thủy tinh sinh học, chịu nhiệt từ -272°C đến 150°C, sống sót ngoài vũ trụ nhưng chết lãng xẹt vì ốc sên.",
+      "hook_shorts": "Vẽ Gấu Nước mặc áo choàng siêu nhân đứng giữa vũ trụ rồi bị ốc sên bò qua đè bẹp. Đối lập khả năng kháng cực hạn với điểm yếu đời thực."
+    },
+    "7": {
+      "tap": 7,
+      "day": 4,
+      "shift": 1,
+      "subject_vi": "Tôm Tít / Tôm Búa (Mantis Shrimp)",
+      "subject_en": "Mantis Shrimp",
+      "scientific_name": "Stomatopoda",
+      "folder": "tap-07-tom-tit",
+      "title_longform": "Võ Sĩ Quyền Anh Dưới Đáy Biển Có Cú Đấm Nóng Ngang Mặt Trời | Tập 7",
+      "title_shorts": "Cú Đấm Dưới Nước Nhưng Lại Tạo Ra Lửa Nóng Ngang Mặt Trời! 🥊🔥 #shorts #tomtit #vechuyenhoangda",
+      "status": "roadmap",
+      "hook_longform": "Cơ chế lò xo tung cú đấm vận tốc 23 m/s tạo bong bóng siêu nhiệt Cavitation nổ tung và đôi mắt 16 thụ thể màu độc nhất đại dương."
+    },
+    "8": {
+      "tap": 8,
+      "day": 4,
+      "shift": 2,
+      "subject_vi": "Chồn Gulo (Wolverine)",
+      "subject_en": "Wolverine",
+      "scientific_name": "Gulo gulo",
+      "folder": "tap-08-chon-gulo",
+      "title_longform": "Kẻ Điên Phương Bắc Dám Cướp Mồi Của Cả Đàn Sói Và Gấu Xám | Tập 8",
+      "title_shorts": "Nặng Chỉ 15kg Nhưng Dám Đuổi Cả Gấu Xám Khỏi Bữa Ăn! ❄️🐻 #shorts #chongulo #vechuyenhoangda",
+      "status": "roadmap",
+      "hook_longform": "Anh em họ của Lửng Mật ở xứ tuyết, chiếc răng hàm xoay ngang 90 độ nghiền nát xương đóng băng, sẵn sàng khô máu với đàn sói tuyết."
+    },
+    "9": {
+      "tap": 9,
+      "day": 5,
+      "shift": 1,
+      "subject_vi": "Chim Cánh Cụt Adelie",
+      "subject_en": "Adelie Penguin",
+      "scientific_name": "Pygoscelis adeliae",
+      "folder": "tap-09-chim-canh-cut-adelie",
+      "title_longform": "Góc Khuất Đen Tối Của Loài Chim Cánh Cụt Nhỏ Nhắn Nam Cực | Tập 9",
+      "title_shorts": "Đừng Tin Tình Bạn Của Chim Cánh Cụt Khi Đứng Trước Mép Băng! 🐧❄️ #shorts #adelie #vechuyenhoangda",
+      "status": "roadmap"
+    },
+    "10": {
+      "tap": 10,
+      "day": 5,
+      "shift": 2,
+      "subject_vi": "Sóc Đất California",
+      "subject_en": "California Ground Squirrel",
+      "scientific_name": "Otospermophilus beecheyi",
+      "folder": "tap-10-soc-dat-california",
+      "title_longform": "Loài Sóc Nhai Da Rắn Đuông Chuông Để Hóa Trang Thành Sát Thủ | Tập 10",
+      "title_shorts": "Loài Sóc Dùng Nước Bọt Và Da Rắn Để Tạo Áo Tàng Hình! 🐿️🐍 #shorts #socdat #vechuyenhoangda",
+      "status": "roadmap"
+    }
+  }
+}

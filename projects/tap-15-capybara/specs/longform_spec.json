@@ -1,0 +1,1056 @@
+{
+ "episode": "tap-15-capybara",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 6,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "intro_mode": "full_first",
+ "output": "renders/tap-15-capybara_long.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 75.677,
+   "chapter_no": 1,
+   "badge": "HỒ SƠ BỐ GIÀ",
+   "header_image": "assets/banners/chapter_01.png",
+   "title": "GÃ BÉO 65KG GIA TỘC GẶM NHẤM LÀM CÁ SẤU PHẢI NỂ",
+   "card_hook": "GÃ BÉO NẶNG 65KG ĐƯỢC MỌI SÁT THỦ NỂ SỢ",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L01.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 9.58,
+     "image": "assets/long/L02.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 13.76,
+     "image": "assets/long/L04.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 15.22,
+       "side": "R",
+       "y": 380,
+       "value": "HỒ SƠ 15",
+       "label": "tài liệu tối mật",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 17.03,
+     "image": "assets/long/L05.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 23.83,
+       "side": "L",
+       "y": 380,
+       "value": "65kg",
+       "label": "Bố Già đầm lầy",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 25.23,
+     "image": "assets/long/L83.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 33.36,
+     "image": "assets/long/L06.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b07",
+     "start_s": 39.36,
+     "image": "assets/long/L07.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b08",
+     "start_s": 43.16,
+     "image": "assets/long/L08.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 44.7,
+       "side": "L",
+       "y": 360,
+       "value": "1,3m",
+       "label": "chiều dài cơ thể",
+       "target": [
+        0.35,
+        0.55
+       ]
+      },
+      {
+       "t": 46.12,
+       "side": "R",
+       "y": 420,
+       "value": "60cm",
+       "label": "chiều cao vai",
+       "target": [
+        0.72,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b09",
+     "start_s": 50.32,
+     "image": "assets/long/L09.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 53.32,
+       "side": "L",
+       "y": 340,
+       "value": "91kg",
+       "label": "kỷ lục cân nặng",
+       "target": [
+        0.28,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b10",
+     "start_s": 56.38,
+     "image": "assets/long/L10.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b11",
+     "start_s": 62.18,
+     "image": "assets/long/L11.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b12",
+     "start_s": 71.04,
+     "image": "assets/long/L12.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 93.356,
+   "chapter_no": 2,
+   "badge": "TRẠM DỊCH VỤ",
+   "header_image": "assets/banners/chapter_02.png",
+   "title": "TẠI SAO CÁ SẤU CAIMAN KHÔNG DÁM ĂN THỊT BỐ GIÀ?",
+   "card_hook": "CÁ SẤU CAIMAN NẰM PHƠI NẮNG KẾ BÊN",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L13.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 8.74,
+       "side": "R",
+       "y": 360,
+       "value": "3-4 con",
+       "label": "cá sấu nằm cạnh",
+       "target": [
+        0.75,
+        0.62
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 12.74,
+     "image": "assets/long/L14.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 17.11,
+     "image": "assets/long/L15.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 20.93,
+       "side": "L",
+       "y": 380,
+       "value": "65kg",
+       "label": "khối thịt béo múp",
+       "target": [
+        0.28,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 23.27,
+     "image": "assets/long/L16.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 26.85,
+     "image": "assets/long/L17.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b06",
+     "start_s": 29.77,
+     "image": "assets/long/L18.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b07",
+     "start_s": 38.01,
+     "image": "assets/long/L20.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 40.29,
+       "side": "L",
+       "y": 360,
+       "value": "1,5m-2m",
+       "label": "chiều dài Caiman",
+       "target": [
+        0.32,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b08",
+     "start_s": 42.73,
+     "image": "assets/long/L21.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b09",
+     "start_s": 46.89,
+     "image": "assets/long/L22.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b10",
+     "start_s": 53.52,
+     "image": "assets/long/L23.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b11",
+     "start_s": 59.9,
+     "image": "assets/long/L24.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b12",
+     "start_s": 64.34,
+     "image": "assets/long/L25.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 68.12,
+       "side": "R",
+       "y": 380,
+       "value": "5-6 con",
+       "label": "rùa nằm trên mai",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b13",
+     "start_s": 73.51,
+     "image": "assets/long/L26.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b14",
+     "start_s": 78.45,
+     "image": "assets/long/L27.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b15",
+     "start_s": 88.65,
+     "image": "assets/long/L28.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 89.762,
+   "chapter_no": 3,
+   "badge": "VŨ KHÍ MÙI HƯƠNG",
+   "header_image": "assets/banners/chapter_03.png",
+   "title": "TUYẾN MÙI MORILLO TRÊN MŨI VÀ TIẾNG SỦA BÁO ĐỘNG",
+   "card_hook": "BÍ MẬT KHỐI U MORILLO TRÊN ĐỈNH MŨI",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L29.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 4.18,
+     "image": "assets/long/L30.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 8.84,
+     "image": "assets/long/L31.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 14.02,
+     "image": "assets/long/L32.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 16.8,
+       "side": "R",
+       "y": 380,
+       "value": "MORILLO",
+       "label": "tuyến mùi quyền lực",
+       "target": [
+        0.68,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b05",
+     "start_s": 17.66,
+     "image": "assets/long/L33.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b06",
+     "start_s": 22.28,
+     "image": "assets/long/L34.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b07",
+     "start_s": 30.22,
+     "image": "assets/long/L35.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b08",
+     "start_s": 37.17,
+     "image": "assets/long/L36.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b09",
+     "start_s": 50.99,
+     "image": "assets/long/L37.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 52.35,
+       "side": "L",
+       "y": 360,
+       "value": "80 NĂM",
+       "label": "tuổi thọ chứng nhân",
+       "target": [
+        0.3,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b10",
+     "start_s": 56.83,
+     "image": "assets/long/L38.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b11",
+     "start_s": 61.01,
+     "image": "assets/long/L39.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 64.19,
+       "side": "L",
+       "y": 360,
+       "value": "180°",
+       "label": "tai xoay độc lập",
+       "target": [
+        0.35,
+        0.42
+       ]
+      },
+      {
+       "t": 68.37,
+       "side": "R",
+       "y": 420,
+       "value": "100m",
+       "label": "khoảng cách nghe",
+       "target": [
+        0.72,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b12",
+     "start_s": 68.89,
+     "image": "assets/long/L40.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b13",
+     "start_s": 72.29,
+     "image": "assets/long/L41.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b14",
+     "start_s": 75.83,
+     "image": "assets/long/L42.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b15",
+     "start_s": 81.73,
+     "image": "assets/long/L43.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 88.733,
+   "chapter_no": 4,
+   "badge": "BỮA SÁNG KỲ DỊ",
+   "header_image": "assets/banners/chapter_04.png",
+   "title": "TẬP TÍNH ĂN LẠI PHÂN SÁNG SỚM ĐỂ HẤP THỤ PROTEIN",
+   "card_hook": "GÓC KHUẤT BỮA SÁNG KHOẢNG 06:00 ĐẾN 08:00",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L44.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 4.54,
+     "image": "assets/long/L45.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 10.46,
+     "image": "assets/long/L46.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 13.84,
+       "side": "L",
+       "y": 380,
+       "value": "65kg",
+       "label": "thân hình hộ pháp",
+       "target": [
+        0.32,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 14.58,
+     "image": "assets/long/L47.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b05",
+     "start_s": 18.37,
+     "image": "assets/long/L49.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b06",
+     "start_s": 25.17,
+     "image": "assets/long/L50.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 27.31,
+       "side": "R",
+       "y": 360,
+       "value": "75%",
+       "label": "khẩu phần cỏ thô",
+       "target": [
+        0.68,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b07",
+     "start_s": 30.07,
+     "image": "assets/long/L51.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b08",
+     "start_s": 34.91,
+     "image": "assets/long/L52.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b09",
+     "start_s": 42.81,
+     "image": "assets/long/L53.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 43.79,
+       "side": "L",
+       "y": 360,
+       "value": "06h - 08h",
+       "label": "giờ ăn phân mềm",
+       "target": [
+        0.28,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b10",
+     "start_s": 52.31,
+     "image": "assets/long/L54.png",
+     "entrance": "draw_fast",
+     "stickers": [
+      {
+       "t": 54.33,
+       "side": "R",
+       "y": 380,
+       "value": "2X PROTEIN",
+       "label": "dinh dưỡng đậm đặc",
+       "target": [
+        0.72,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b11",
+     "start_s": 57.14,
+     "image": "assets/long/L55.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b12",
+     "start_s": 65.8,
+     "image": "assets/long/L56.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 67.16,
+       "side": "L",
+       "y": 380,
+       "value": "2 TUẦN",
+       "label": "chuột con học mẹ",
+       "target": [
+        0.32,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b13",
+     "start_s": 74.04,
+     "image": "assets/long/L57.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b14",
+     "start_s": 82.78,
+     "image": "assets/long/L58.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 68.669,
+   "chapter_no": 5,
+   "badge": "TÀU NGẦM 5 PHÚT",
+   "header_image": "assets/banners/chapter_05.png",
+   "title": "TÀU NGẦM NÍN THỞ 5 PHÚT VÀ CÚ BỨT TỐC 35 KM/H",
+   "card_hook": "BỐ TRÍ MẮT MŨI TAI THẲNG HÀNG TRÊN ĐỈNH ĐẦU",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L59.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 8.88,
+     "image": "assets/long/L84.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 15.6,
+     "image": "assets/long/L60.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 22.69,
+     "image": "assets/long/L62.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b05",
+     "start_s": 27.89,
+     "image": "assets/long/L63.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b06",
+     "start_s": 30.41,
+     "image": "assets/long/L64.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 32.89,
+       "side": "L",
+       "y": 380,
+       "value": "65kg",
+       "label": "tàu ngầm bọc thịt",
+       "target": [
+        0.35,
+        0.62
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b07",
+     "start_s": 38.97,
+     "image": "assets/long/L65.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 40.81,
+       "side": "L",
+       "y": 360,
+       "value": "4 NGÓN",
+       "label": "chân trước có màng",
+       "target": [
+        0.3,
+        0.52
+       ]
+      },
+      {
+       "t": 41.99,
+       "side": "R",
+       "y": 420,
+       "value": "3 NGÓN",
+       "label": "chân sau có màng",
+       "target": [
+        0.72,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b08",
+     "start_s": 45.27,
+     "image": "assets/long/L66.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 48.21,
+       "side": "R",
+       "y": 360,
+       "value": "5 PHÚT",
+       "label": "nín thở lặn sâu",
+       "target": [
+        0.75,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b09",
+     "start_s": 52.56,
+     "image": "assets/long/L67.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b10",
+     "start_s": 55.06,
+     "image": "assets/long/L68.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 60.5,
+       "side": "R",
+       "y": 360,
+       "value": "35 km/h",
+       "label": "tốc độ bứt phá",
+       "target": [
+        0.72,
+        0.52
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b11",
+     "start_s": 61.78,
+     "image": "assets/long/L69.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 95.677,
+   "chapter_no": 6,
+   "badge": "BÀI HỌC SINH TỒN",
+   "header_image": "assets/banners/chapter_06.png",
+   "title": "CÚ LỪA GIÁO HỘI VATICAN VÀ BÀI HỌC SỐNG CHILL",
+   "card_hook": "CÚ LỪA ĐƯỢC CÔNG NHẬN LÀ CÁ ĐỂ ĂN MÙA CHAY",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L70.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 6.96,
+       "side": "L",
+       "y": 360,
+       "value": "THẾ KỶ 16",
+       "label": "nhầm lẫn lịch sử",
+       "target": [
+        0.28,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 14.56,
+     "image": "assets/long/L71.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 18.14,
+     "image": "assets/long/L72.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b04",
+     "start_s": 23.08,
+     "image": "assets/long/L73.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 28.2,
+       "side": "R",
+       "y": 380,
+       "value": "CÁ 65KG?!",
+       "label": "sắc lệnh kỳ quặc",
+       "target": [
+        0.72,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b05",
+     "start_s": 31.38,
+     "image": "assets/long/L74.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b06",
+     "start_s": 35.02,
+     "image": "assets/long/L75.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b07",
+     "start_s": 42.98,
+     "image": "assets/long/L85.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b08",
+     "start_s": 53.6,
+     "image": "assets/long/L76.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b09",
+     "start_s": 62.64,
+     "image": "assets/long/L78.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b10",
+     "start_s": 65.64,
+     "image": "assets/long/L79.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b11",
+     "start_s": 72.02,
+     "image": "assets/long/L80.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 73.78,
+       "side": "L",
+       "y": 360,
+       "value": "5cm",
+       "label": "kích thước tí hon",
+       "target": [
+        0.3,
+        0.52
+       ]
+      },
+      {
+       "t": 78.32,
+       "side": "R",
+       "y": 420,
+       "value": "218 dB",
+       "label": "tiếng nổ xé nước",
+       "target": [
+        0.72,
+        0.58
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b12",
+     "start_s": 83.4,
+     "image": "assets/long/L81.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b13",
+     "start_s": 89.72,
+     "image": "assets/long/L82.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

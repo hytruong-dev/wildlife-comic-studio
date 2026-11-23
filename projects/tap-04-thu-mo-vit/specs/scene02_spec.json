@@ -1,0 +1,644 @@
+{
+  "scene_id": "scene02",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 9,
+  "world_width": 3004,
+  "world_height": 1530,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 60,
+  "duration_ms": 102507,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-04-thu-mo-vit/assets/scenes_composed/scene02_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      30,
+      8,
+      1250,
+      52
+    ],
+    "x": 42,
+    "y": 12,
+    "w": 1196,
+    "h": 38,
+    "text": "[PHẦN 2: BẢNG CHỈ SỐ SINH TỒN RPG]  QUÁI KIỆT TIẾN HÓA: ĐỘT BIẾN 999/100, RADA ĐIỆN TRƯỜNG & CỰA ĐỘC",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-04-thu-mo-vit/assets/scenes_composed/scene02_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "stat_card_01",
+      "start_ms": 0,
+      "end_ms": 12722,
+      "has_frame": false,
+      "pill_box": [
+        640,
+        60,
+        897,
+        100
+      ],
+      "art_only_box": [
+        452,
+        96,
+        1081,
+        449
+      ],
+      "caption": {
+        "text": "Chỉ số Đột Biến: 999/100! Đẻ trứng vỏ mềm, ấp bụng chim, nuôi con sữa thú",
+        "x": 473,
+        "y": 449,
+        "w": 587,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        450,
+        60,
+        1083,
+        480
+      ],
+      "img_region": {
+        "x": 452,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "action_01",
+      "start_ms": 12722,
+      "end_ms": 28272,
+      "has_frame": false,
+      "pill_box": [
+        1397,
+        60,
+        1610,
+        98
+      ],
+      "art_only_box": [
+        1187,
+        96,
+        1816,
+        449
+      ],
+      "caption": {
+        "text": "Thực chiến dị biệt: Ấp 2 quả trứng vỏ da dẻo trong hang ấm rồi ôm con uống sữa",
+        "x": 1208,
+        "y": 449,
+        "w": 588,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1185,
+        60,
+        1818,
+        480
+      ],
+      "img_region": {
+        "x": 1187,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "stat_card_02",
+      "start_ms": 28272,
+      "end_ms": 38860,
+      "has_frame": false,
+      "pill_box": [
+        2090,
+        60,
+        2387,
+        98
+      ],
+      "art_only_box": [
+        1922,
+        96,
+        2551,
+        449
+      ],
+      "caption": {
+        "text": "Chỉ số Rada Sinh Học: 100/100! 40.000 thụ thể điện trường & 60.000 xúc giác",
+        "x": 1930,
+        "y": 449,
+        "w": 613,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1920,
+        60,
+        2553,
+        481
+      ],
+      "img_region": {
+        "x": 1922,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "action_02",
+      "start_ms": 38860,
+      "end_ms": 51802,
+      "has_frame": false,
+      "pill_box": [
+        2148,
+        550,
+        2329,
+        587
+      ],
+      "art_only_box": [
+        1922,
+        586,
+        2551,
+        939
+      ],
+      "caption": {
+        "text": "Săn mồi mù: Nhắm mắt bịt tai nhưng bắt trọn từng xung điện cơ bắp của con tôm",
+        "x": 1939,
+        "y": 939,
+        "w": 595,
+        "h": 28,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1920,
+        550,
+        2553,
+        969
+      ],
+      "img_region": {
+        "x": 1922,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "stat_card_03",
+      "start_ms": 51802,
+      "end_ms": 61144,
+      "has_frame": false,
+      "pill_box": [
+        1374,
+        550,
+        1633,
+        588
+      ],
+      "art_only_box": [
+        1187,
+        586,
+        1816,
+        939
+      ],
+      "caption": {
+        "text": "Chỉ số Vũ Khí Độc: 95/100! Cựa sừng 15mm nối tuyến độc hạ gục chó săn",
+        "x": 1192,
+        "y": 939,
+        "w": 620,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1185,
+        550,
+        1818,
+        970
+      ],
+      "img_region": {
+        "x": 1187,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "action_03",
+      "start_ms": 61144,
+      "end_ms": 70486,
+      "has_frame": false,
+      "pill_box": [
+        675,
+        550,
+        862,
+        589
+      ],
+      "art_only_box": [
+        452,
+        586,
+        1081,
+        939
+      ],
+      "caption": {
+        "text": "Cận cảnh cựa độc: Chiếc cựa sừng 15mm nối liền tuyến độc cực mạnh ở gót chân",
+        "x": 474,
+        "y": 939,
+        "w": 586,
+        "h": 26,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        450,
+        550,
+        1083,
+        967
+      ],
+      "img_region": {
+        "x": 452,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "action_03_dog",
+      "start_ms": 70486,
+      "end_ms": 78494,
+      "has_frame": false,
+      "pill_box": [
+        622,
+        1040,
+        915,
+        1080
+      ],
+      "art_only_box": [
+        452,
+        1076,
+        1081,
+        1429
+      ],
+      "caption": {
+        "text": "Nọc độc khủng khiếp: Hạ gục chó săn và gây đau đớn dữ dội không thuốc nào dập tắt được!",
+        "x": 472,
+        "y": 1429,
+        "w": 589,
+        "h": 26,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        450,
+        1040,
+        1083,
+        1457
+      ],
+      "img_region": {
+        "x": 452,
+        "y": 1076,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "stat_card_04",
+      "start_ms": 78494,
+      "end_ms": 88625,
+      "has_frame": false,
+      "pill_box": [
+        1384,
+        1040,
+        1623,
+        1078
+      ],
+      "art_only_box": [
+        1187,
+        1076,
+        1816,
+        1429
+      ],
+      "caption": {
+        "text": "Chỉ số Tiết Sữa: 98/100! Không có núm vú, sữa rỉ qua lỗ chân lông da bụng",
+        "x": 1210,
+        "y": 1429,
+        "w": 583,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1185,
+        1040,
+        1818,
+        1461
+      ],
+      "img_region": {
+        "x": 1187,
+        "y": 1076,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "action_04",
+      "start_ms": 88625,
+      "end_ms": 101007,
+      "has_frame": false,
+      "pill_box": [
+        2142,
+        1040,
+        2334,
+        1080
+      ],
+      "art_only_box": [
+        1922,
+        1076,
+        2551,
+        1429
+      ],
+      "caption": {
+        "text": "Con non liếm láp: Các giọt sữa bổ dưỡng đọng trên rãnh lông bụng mẹ như sương mai",
+        "x": 1929,
+        "y": 1429,
+        "w": 615,
+        "h": 27,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1920,
+        1040,
+        2553,
+        1458
+      ],
+      "img_region": {
+        "x": 1922,
+        "y": 1076,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 450.0,
+    "y_min": 60.0,
+    "x_max": 2553.0,
+    "y_max": 1461.0,
+    "bbox_w": 2103.0,
+    "bbox_h": 1401.0,
+    "center_x": 1501.5,
+    "center_y": 760.5,
+    "zoom_out_scale": 0.4373,
+    "crop_w": 2927.1,
+    "crop_h": 1491.0
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 766.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "focus_hold",
+      "target_node_id": "stat_card_01"
+    },
+    {
+      "time_ms": 12102.0,
+      "cx": 766.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "transition",
+      "target_node_id": "stat_card_01"
+    },
+    {
+      "time_ms": 12722.0,
+      "cx": 1501.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "focus_hold",
+      "target_node_id": "action_01"
+    },
+    {
+      "time_ms": 27652.0,
+      "cx": 1501.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "transition",
+      "target_node_id": "action_01"
+    },
+    {
+      "time_ms": 28272.0,
+      "cx": 2236.5,
+      "cy": 270.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "focus_hold",
+      "target_node_id": "stat_card_02"
+    },
+    {
+      "time_ms": 38240.0,
+      "cx": 2236.5,
+      "cy": 270.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "transition",
+      "target_node_id": "stat_card_02"
+    },
+    {
+      "time_ms": 38860.0,
+      "cx": 2236.5,
+      "cy": 759.5,
+      "crop_w": 940.4,
+      "crop_h": 479.0,
+      "zoom_relative": 3.11,
+      "phase": "focus_hold",
+      "target_node_id": "action_02"
+    },
+    {
+      "time_ms": 51182.0,
+      "cx": 2236.5,
+      "cy": 759.5,
+      "crop_w": 940.4,
+      "crop_h": 479.0,
+      "zoom_relative": 3.11,
+      "phase": "transition",
+      "target_node_id": "action_02"
+    },
+    {
+      "time_ms": 51802.0,
+      "cx": 1501.5,
+      "cy": 760.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "focus_hold",
+      "target_node_id": "stat_card_03"
+    },
+    {
+      "time_ms": 60524.0,
+      "cx": 1501.5,
+      "cy": 760.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 3.11,
+      "phase": "transition",
+      "target_node_id": "stat_card_03"
+    },
+    {
+      "time_ms": 61144.0,
+      "cx": 766.5,
+      "cy": 758.5,
+      "crop_w": 936.4,
+      "crop_h": 477.0,
+      "zoom_relative": 3.13,
+      "phase": "focus_hold",
+      "target_node_id": "action_03"
+    },
+    {
+      "time_ms": 69866.0,
+      "cx": 766.5,
+      "cy": 758.5,
+      "crop_w": 936.4,
+      "crop_h": 477.0,
+      "zoom_relative": 3.13,
+      "phase": "transition",
+      "target_node_id": "action_03"
+    },
+    {
+      "time_ms": 70486.0,
+      "cx": 766.5,
+      "cy": 1248.5,
+      "crop_w": 936.4,
+      "crop_h": 477.0,
+      "zoom_relative": 3.13,
+      "phase": "focus_hold",
+      "target_node_id": "action_03_dog"
+    },
+    {
+      "time_ms": 77874.0,
+      "cx": 766.5,
+      "cy": 1248.5,
+      "crop_w": 936.4,
+      "crop_h": 477.0,
+      "zoom_relative": 3.13,
+      "phase": "transition",
+      "target_node_id": "action_03_dog"
+    },
+    {
+      "time_ms": 78494.0,
+      "cx": 1501.5,
+      "cy": 1250.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "focus_hold",
+      "target_node_id": "stat_card_04"
+    },
+    {
+      "time_ms": 88005.0,
+      "cx": 1501.5,
+      "cy": 1250.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 3.1,
+      "phase": "transition",
+      "target_node_id": "stat_card_04"
+    },
+    {
+      "time_ms": 88625.0,
+      "cx": 2236.5,
+      "cy": 1249.0,
+      "crop_w": 938.4,
+      "crop_h": 478.0,
+      "zoom_relative": 3.12,
+      "phase": "focus_hold",
+      "target_node_id": "action_04"
+    },
+    {
+      "time_ms": 101007.0,
+      "cx": 2236.5,
+      "cy": 1249.0,
+      "crop_w": 938.4,
+      "crop_h": 478.0,
+      "zoom_relative": 3.12,
+      "phase": "overview_reveal",
+      "target_node_id": "action_04"
+    },
+    {
+      "time_ms": 101507.0,
+      "cx": 1501.5,
+      "cy": 760.5,
+      "crop_w": 2927.1,
+      "crop_h": 1491.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 102507.0,
+      "cx": 1501.5,
+      "cy": 760.5,
+      "crop_w": 2927.1,
+      "crop_h": 1491.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

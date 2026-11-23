@@ -1,0 +1,2736 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "10 QUÁI KIỆT MỚI BƯỚC VÀO ĐẤU TRƯỜNG VŨ KHÍ",
+   "hook": "ĐẤU TRƯỜNG VŨ KHÍ MÙA 2",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và ở chính",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đêm nay, mười",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không phải để",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi loài mang",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bật toàn bộ",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tôi là người",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ việc Gấu",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Luật chơi Mùa",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi vòng thi,",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo xin",
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nghe rõ chưa",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bây giờ, xin",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số hai!",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số ba!",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số bốn!",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số năm!",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số sáu!",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số bảy!",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số tám!",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ số chín!",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và tuyển thủ",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ơ... tới lượt",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Rồi, đủ mười",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hà Mã bước",
+     "image": "assets/long/L26.png",
+     "stickers": [
+      {
+       "at": "3 tấn",
+       "side": "R",
+       "y": 380,
+       "value": "3 TẤN",
+       "label": "Hà Mã nặng nhất",
+       "target": [
+        0.72,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tiếp theo là",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bố Già Capybara",
+     "image": "assets/long/L28.png",
+     "stickers": [
+      {
+       "at": "65kg",
+       "side": "L",
+       "y": 380,
+       "value": "65KG",
+       "label": "Chuột lớn nhất",
+       "target": [
+        0.38,
+        0.78
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Lươn Điện dài",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhóm hạng lông",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cuối cùng là",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bọ Pháo Thủ chỉ",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sau lễ cân",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn Bọ Pháo",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng đừng bao",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tám vòng thi đấu! 100%",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khoan đã, trước",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo MC:",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyệt vời! Còn",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không chần chừ",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "KHAI MẠC MÙA 2"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "CẤU TẠO KỲ DỊ VÀ NGUỒN NĂNG LƯỢNG BÍ MẬT BÊN TRONG CƠ THỂ",
+   "hook": "BÍ MẬT NĂNG LƯỢNG SINH HỌC",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ban giám khảo",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thí sinh đầu",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2019, nhóm",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Họ gắn một",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ bằng lực",
+     "image": "assets/long/L46.png",
+     "stickers": [
+      {
+       "at": "gấp 10 lần",
+       "side": "R",
+       "y": 380,
+       "value": "GẤP 10 LẦN",
+       "label": "Hiệu suất tạo plasma",
+       "target": [
+        0.66,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng điều thú",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu trả lời",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chiếc càng nhỏ",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một dây chuyền",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và để kiểm",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mặc dù sống",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thay vì tốn",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo ghi",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ thứ",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong khoảnh khắc",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Làm thế nào",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngay sau mỗi",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không cần dây",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và bây giờ",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong suốt nhiều",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2015, nghiên",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả là",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không chỉ giảm",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tính tổng thể,",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để kiểm chứng,",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vòng một kết",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương bạc",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bảng tổng sắp",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vòng hai ngay",
+     "image": "assets/long/L71.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÒNG 1"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "XẠ THỦ TẦM XA VÀ TRÍ TUỆ THỊ GIÁC KHÔNG TƯỞNG",
+   "hook": "BẮN TỈA VÀ NHẬN DIỆN KHUÔN MẶT",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L72.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đấu sĩ mở",
+     "image": "assets/long/L73.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lâu nay giới",
+     "image": "assets/long/L74.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cá hoàn toàn",
+     "image": "assets/long/L75.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2016, tiến",
+     "image": "assets/long/L76.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhóm nghiên cứu",
+     "image": "assets/long/L77.png",
+     "stickers": [
+      {
+       "at": "44 khuôn mặt",
+       "side": "L",
+       "y": 380,
+       "value": "44 MẶT",
+       "label": "Thử nghiệm nhận diện",
+       "target": [
+        0.42,
+        0.3
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả làm",
+     "image": "assets/long/L78.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí khi",
+     "image": "assets/long/L79.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quý vị thử",
+     "image": "assets/long/L80.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa dừng lại",
+     "image": "assets/long/L81.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó kiểm soát",
+     "image": "assets/long/L82.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không chỉ nhớ",
+     "image": "assets/long/L83.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả đáng",
+     "image": "assets/long/L84.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo ghi",
+     "image": "assets/long/L85.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ thứ",
+     "image": "assets/long/L86.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quý vị đã",
+     "image": "assets/long/L87.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Theo nghiên cứu",
+     "image": "assets/long/L88.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Áp suất chỉ",
+     "image": "assets/long/L89.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ tháp pháo",
+     "image": "assets/long/L90.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và tuyển thủ",
+     "image": "assets/long/L91.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khán giả đều đã nghe chuyện",
+     "image": "assets/long/L92.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2000 11,",
+     "image": "assets/long/L93.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ hình dáng",
+     "image": "assets/long/L94.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi chim chủ",
+     "image": "assets/long/L95.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí các",
+     "image": "assets/long/L96.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thêm một màn",
+     "image": "assets/long/L97.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong tự nhiên,",
+     "image": "assets/long/L98.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn Lươn Điện",
+     "image": "assets/long/L99.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả Vòng",
+     "image": "assets/long/L100.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương bạc",
+     "image": "assets/long/L101.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bảng tổng sắp",
+     "image": "assets/long/L102.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vòng ba ngay",
+     "image": "assets/long/L103.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÒNG 2"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "CHỐNG CHỊU THỜI TIẾT KHẮC NGHIỆT — TẮM PHÂN NGỰA, HÚT CÁT ẨM VÀ TREO NỘI TẠNG",
+   "hook": "BÍ KÍP CHỐNG RÉT VÀ NẮNG CHÁY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L104.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở vòng này,",
+     "image": "assets/long/L105.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đấu sĩ bước",
+     "image": "assets/long/L106.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không ngủ đông,",
+     "image": "assets/long/L107.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2000 20,",
+     "image": "assets/long/L108.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi trời trở",
+     "image": "assets/long/L109.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó không ngửi",
+     "image": "assets/long/L110.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tại sao một",
+     "image": "assets/long/L111.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi thấm qua",
+     "image": "assets/long/L112.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ lớp kem",
+     "image": "assets/long/L113.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết, năm",
+     "image": "assets/long/L114.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phần lông đen",
+     "image": "assets/long/L115.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bây giờ chúng",
+     "image": "assets/long/L116.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tiến sĩ Philipp",
+     "image": "assets/long/L117.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong 1 giờ ngâm",
+     "image": "assets/long/L118.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đồng thời, mạng",
+     "image": "assets/long/L119.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và đây là",
+     "image": "assets/long/L120.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa",
+     "image": "assets/long/L121.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ thứ",
+     "image": "assets/long/L122.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở hầu hết",
+     "image": "assets/long/L123.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng năm 2014,",
+     "image": "assets/long/L124.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Những sợi dây",
+     "image": "assets/long/L125.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ hệ thống",
+     "image": "assets/long/L126.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và trong nửa",
+     "image": "assets/long/L127.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Theo nghiên cứu",
+     "image": "assets/long/L128.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ sau vài",
+     "image": "assets/long/L129.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả Vòng",
+     "image": "assets/long/L130.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương bạc",
+     "image": "assets/long/L131.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bảng tổng sắp",
+     "image": "assets/long/L132.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bây giờ, đấu",
+     "image": "assets/long/L133.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÒNG 3"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "PHỎNG VẤN HẬU TRƯỜNG VÀ NHỮNG PHA KHÓ ĐỠ",
+   "hook": "HẬU TRƯỜNG BẤT ỔN MÙA 2",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L134.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vừa mới giành",
+     "image": "assets/long/L135.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trời đất ơi!",
+     "image": "assets/long/L136.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Anh MC vào",
+     "image": "assets/long/L137.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thôi thôi cảm",
+     "image": "assets/long/L138.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Điểm dừng chân",
+     "image": "assets/long/L139.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ủa? Bố Già",
+     "image": "assets/long/L140.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hóa ra vị",
+     "image": "assets/long/L141.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một tư thế",
+     "image": "assets/long/L142.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chào Bố Già!",
+     "image": "assets/long/L143.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khò... khò... Nước",
+     "image": "assets/long/L144.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thần thái của",
+     "image": "assets/long/L145.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chào Chim Tu",
+     "image": "assets/long/L146.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Anh MC không",
+     "image": "assets/long/L147.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chà, đúng là",
+     "image": "assets/long/L148.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ban tổ chức trang",
+     "image": "assets/long/L149.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Con Lười nhướng",
+     "image": "assets/long/L150.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tôi... cảm... thấy...",
+     "image": "assets/long/L151.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết đâu",
+     "image": "assets/long/L152.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chú cá bống làm",
+     "image": "assets/long/L153.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn trong phòng",
+     "image": "assets/long/L154.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn tại góc",
+     "image": "assets/long/L155.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bước sang phòng",
+     "image": "assets/long/L156.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chú cá đang luyện",
+     "image": "assets/long/L157.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sang tới phòng",
+     "image": "assets/long/L158.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn trong bồn",
+     "image": "assets/long/L159.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Này anh MC,",
+     "image": "assets/long/L160.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vâng vâng, ban",
+     "image": "assets/long/L161.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trên đường quay",
+     "image": "assets/long/L162.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn anh chàng",
+     "image": "assets/long/L163.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giờ nghỉ giải",
+     "image": "assets/long/L164.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vòng bốn ngay",
+     "image": "assets/long/L165.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "NGHỈ GIỮA HIỆP"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "DINH DƯỠNG DỊ THƯỜNG VÀ VAI TRÒ BƠM KHOÁNG CHẤT SINH THÁI",
+   "hook": "BƠM SILICON VÀ RĂNG MÀI VĨNH CỬU",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L166.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở vòng thi",
+     "image": "assets/long/L167.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thí sinh đầu",
+     "image": "assets/long/L168.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2019, nhà",
+     "image": "assets/long/L169.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vào ban đêm,",
+     "image": "assets/long/L170.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa",
+     "image": "assets/long/L171.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Số Silicon do",
+     "image": "assets/long/L172.png",
+     "stickers": [
+      {
+       "at": "76%",
+       "side": "R",
+       "y": 380,
+       "value": "76%",
+       "label": "Đóng góp cho dòng sông",
+       "target": [
+        0.68,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tại sao Silicon",
+     "image": "assets/long/L173.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết, dù",
+     "image": "assets/long/L174.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ hệ thống",
+     "image": "assets/long/L175.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và nhân tiện",
+     "image": "assets/long/L176.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Theo nghiên cứu",
+     "image": "assets/long/L177.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tức là suốt",
+     "image": "assets/long/L178.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn chú Con",
+     "image": "assets/long/L179.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giám khảo kinh",
+     "image": "assets/long/L180.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ thứ",
+     "image": "assets/long/L181.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Giống như họ",
+     "image": "assets/long/L182.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu một chú",
+     "image": "assets/long/L183.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để giữ cho",
+     "image": "assets/long/L184.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đồng thời, men",
+     "image": "assets/long/L185.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và tuyển thủ",
+     "image": "assets/long/L186.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nghiên cứu sinh",
+     "image": "assets/long/L187.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi cú phóng",
+     "image": "assets/long/L188.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đặc biệt, chiếc",
+     "image": "assets/long/L189.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa dừng lại",
+     "image": "assets/long/L190.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khác với răng",
+     "image": "assets/long/L191.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn gã khổng",
+     "image": "assets/long/L192.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ban giám khảo công",
+     "image": "assets/long/L193.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương bạc",
+     "image": "assets/long/L194.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bảng tổng sắp",
+     "image": "assets/long/L195.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vòng năm ngay",
+     "image": "assets/long/L196.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÒNG 4"
+  },
+  "scene07": {
+   "chapter_no": 7,
+   "title": "SỨC MẠNH BẦY ĐÀN VÀ NHỮNG XÃ HỘI BÍ MẬT CHƯA TỪNG BIẾT",
+   "hook": "TÔM CHÚA VÀ BẦY LƯƠN SĂN MỒI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L197.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng trong thế",
+     "image": "assets/long/L198.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ứng cử viên",
+     "image": "assets/long/L199.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 1996, nhà",
+     "image": "assets/long/L200.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cho đến trước",
+     "image": "assets/long/L201.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và loài tôm",
+     "image": "assets/long/L202.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong một tổ",
+     "image": "assets/long/L203.png",
+     "stickers": [
+      {
+       "at": "300",
+       "side": "L",
+       "y": 380,
+       "value": "300 LÍNH",
+       "label": "Chung một tổ bọt biển",
+       "target": [
+        0.36,
+        0.46
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Toàn bộ hàng",
+     "image": "assets/long/L204.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi có cua",
+     "image": "assets/long/L205.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một đế chế",
+     "image": "assets/long/L206.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tiếp theo là",
+     "image": "assets/long/L207.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Suốt hơn hai",
+     "image": "assets/long/L208.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cho đến tháng",
+     "image": "assets/long/L209.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Họ phát hiện",
+     "image": "assets/long/L210.png",
+     "stickers": [
+      {
+       "at": "100",
+       "side": "R",
+       "y": 380,
+       "value": "> 100 CON",
+       "label": "Săn mồi theo bầy đàn",
+       "target": [
+        0.66,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi khi bình",
+     "image": "assets/long/L211.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sau đó, từng",
+     "image": "assets/long/L212.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cú phóng điện",
+     "image": "assets/long/L213.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ thứ",
+     "image": "assets/long/L214.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nghiên cứu về",
+     "image": "assets/long/L215.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong một bầy",
+     "image": "assets/long/L216.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí ngay",
+     "image": "assets/long/L217.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không chịu thua",
+     "image": "assets/long/L218.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà điểu",
+     "image": "assets/long/L219.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vì thế, Chim",
+     "image": "assets/long/L220.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ban giám khảo",
+     "image": "assets/long/L221.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương bạc",
+     "image": "assets/long/L222.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bảng tổng sắp",
+     "image": "assets/long/L223.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vòng sáu ngay",
+     "image": "assets/long/L224.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÒNG 5"
+  },
+  "scene08": {
+   "chapter_no": 8,
+   "title": "HÀNH TRÌNH VĨ ĐẠI VÀ SIÊU GIÁC QUAN ĐỊNH VỊ KHÔNG GIAN",
+   "hook": "BAY 16000KM VÀ NGHE BẰNG XƯƠNG HÀM",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L225.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ bầu trời",
+     "image": "assets/long/L226.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ mở",
+     "image": "assets/long/L227.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2014, nhóm",
+     "image": "assets/long/L228.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thông thường, những",
+     "image": "assets/long/L229.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi năm, một",
+     "image": "assets/long/L230.png",
+     "stickers": [
+      {
+       "at": "16.000km",
+       "side": "L",
+       "y": 380,
+       "value": "16.000 KM",
+       "label": "Đường bay mỗi năm",
+       "target": [
+        0.38,
+        0.56
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Điều khó tin",
+     "image": "assets/long/L231.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ Bắc Âu",
+     "image": "assets/long/L232.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Rời khỏi bầu",
+     "image": "assets/long/L233.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Câu hỏi đặt",
+     "image": "assets/long/L234.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nghiên cứu âm",
+     "image": "assets/long/L235.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi âm thanh",
+     "image": "assets/long/L236.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đặc biệt hơn,",
+     "image": "assets/long/L237.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và tuyển thủ",
+     "image": "assets/long/L238.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vì sống cô",
+     "image": "assets/long/L239.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng ở đây",
+     "image": "assets/long/L240.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nghiên cứu của tiến",
+     "image": "assets/long/L241.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở tư thế",
+     "image": "assets/long/L242.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cũng trong bài",
+     "image": "assets/long/L243.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trên những ngọn",
+     "image": "assets/long/L244.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng điều kỳ",
+     "image": "assets/long/L245.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và đừng quên",
+     "image": "assets/long/L246.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ cấu tạo",
+     "image": "assets/long/L247.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn anh chàng",
+     "image": "assets/long/L248.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả Vòng",
+     "image": "assets/long/L249.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương bạc",
+     "image": "assets/long/L250.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bảng điểm sau",
+     "image": "assets/long/L251.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bây giờ, trước",
+     "image": "assets/long/L252.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÒNG 6"
+  },
+  "scene09": {
+   "chapter_no": 9,
+   "title": "CÁC CỤ TỔ KHỔNG LỒ 4 TẤN VÀ NHỮNG HỌ HÀNG DỊ BIỆT",
+   "hook": "LƯỜI KHỔNG LỒ VÀ BỌ KÝ SINH TỔ KIẾN",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L253.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không tính vào",
+     "image": "assets/long/L254.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Danh hiệu phụ",
+     "image": "assets/long/L255.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu ngày nay",
+     "image": "assets/long/L256.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Với chiều cao",
+     "image": "assets/long/L257.png",
+     "stickers": [
+      {
+       "at": "4 tấn",
+       "side": "L",
+       "y": 380,
+       "value": "NẶNG 4 TẤN",
+       "label": "Cụ tổ Con Lười xưa",
+       "target": [
+        0.44,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Những đường hầm cổ",
+     "image": "assets/long/L258.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí từng",
+     "image": "assets/long/L259.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một cúp lưu",
+     "image": "assets/long/L260.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Danh hiệu phụ thứ",
+     "image": "assets/long/L261.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phát hiện hóa",
+     "image": "assets/long/L262.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Danh hiệu phụ thứ ba",
+     "image": "assets/long/L263.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khác với Bọ",
+     "image": "assets/long/L264.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chui vào tận",
+     "image": "assets/long/L265.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và danh hiệu",
+     "image": "assets/long/L266.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Làm sao một",
+     "image": "assets/long/L267.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà di",
+     "image": "assets/long/L268.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ vậy, trong",
+     "image": "assets/long/L269.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và giải thưởng",
+     "image": "assets/long/L270.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trên thực tế,",
+     "image": "assets/long/L271.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tiếp theo là",
+     "image": "assets/long/L272.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong suốt tuần",
+     "image": "assets/long/L273.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuy nhiên trong",
+     "image": "assets/long/L274.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cuối cùng là",
+     "image": "assets/long/L275.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tôm Súng cặm",
+     "image": "assets/long/L276.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Những giải thưởng",
+     "image": "assets/long/L277.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "GIẢI PHỤ"
+  },
+  "scene10": {
+   "chapter_no": 10,
+   "title": "PHÚC KHẢO TIN ĐỒN — ĐẬP TAN NHỮNG LẦM TƯỞNG THẾ KỶ BẰNG THỰC NGHIỆM",
+   "hook": "KHOA HỌC ĐÍNH CHÍNH LẦM TƯỞNG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L278.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở vòng đấu",
+     "image": "assets/long/L279.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lời đồn số",
+     "image": "assets/long/L280.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Liệu sương sớm",
+     "image": "assets/long/L281.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả cân",
+     "image": "assets/long/L282.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí khi",
+     "image": "assets/long/L283.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để giải khát",
+     "image": "assets/long/L284.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lời đồn số hai",
+     "image": "assets/long/L285.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng như chúng",
+     "image": "assets/long/L286.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ 07:30 sáng",
+     "image": "assets/long/L287.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lời đồn số ba",
+     "image": "assets/long/L288.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khoa học xin",
+     "image": "assets/long/L289.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngoài ra, đột",
+     "image": "assets/long/L290.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu không bị",
+     "image": "assets/long/L291.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và lời đồn",
+     "image": "assets/long/L292.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà hóa",
+     "image": "assets/long/L293.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phản ứng chỉ",
+     "image": "assets/long/L294.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lời đồn số năm",
+     "image": "assets/long/L295.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sự thật đính",
+     "image": "assets/long/L296.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và lời đồn số sáu",
+     "image": "assets/long/L297.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thực tế nghiên",
+     "image": "assets/long/L298.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và lời đồn cuối",
+     "image": "assets/long/L299.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sự thật minh",
+     "image": "assets/long/L300.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hơn một nửa",
+     "image": "assets/long/L301.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả Vòng",
+     "image": "assets/long/L302.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương bạc",
+     "image": "assets/long/L408.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bảng điểm sau",
+     "image": "assets/long/L303.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gấu Trúc và",
+     "image": "assets/long/L409.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trước mắt chúng",
+     "image": "assets/long/L304.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÒNG 7"
+  },
+  "scene11": {
+   "chapter_no": 11,
+   "title": "TIA X ĐỒNG BỘ XUYÊN BỤNG BỌ VÀ KHO BÁU THUỐC TRONG LÔNG LƯỜI",
+   "hook": "CÚ LỘI NGƯỢC DÒNG NGOẠN MỤC",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L305.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và đúng như",
+     "image": "assets/long/L306.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đấu sĩ mở",
+     "image": "assets/long/L307.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2015, một",
+     "image": "assets/long/L308.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đoạn phim tia",
+     "image": "assets/long/L309.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngay khi tia",
+     "image": "assets/long/L310.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây chính là",
+     "image": "assets/long/L311.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ thứ",
+     "image": "assets/long/L312.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhiều người nghĩ",
+     "image": "assets/long/L313.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ mẫu lông",
+     "image": "assets/long/L314.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và khi đưa",
+     "image": "assets/long/L315.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "74 chủng nấm",
+     "image": "assets/long/L316.png",
+     "stickers": [
+      {
+       "at": "20,6%",
+       "side": "R",
+       "y": 380,
+       "value": "20,6% MẪU",
+       "label": "Diệt tế bào ung thư",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết, nhiều",
+     "image": "assets/long/L317.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một hiệu thuốc",
+     "image": "assets/long/L318.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyển thủ thứ ba",
+     "image": "assets/long/L319.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngay khi con",
+     "image": "assets/long/L320.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hơn nữa, mắt",
+     "image": "assets/long/L321.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không chỉ dừng",
+     "image": "assets/long/L322.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong cơ bắp",
+     "image": "assets/long/L323.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn Thằn Lằn",
+     "image": "assets/long/L324.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khoảng 3-4 tháng",
+     "image": "assets/long/L325.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn Bố Già",
+     "image": "assets/long/L326.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả Vòng",
+     "image": "assets/long/L327.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương bạc",
+     "image": "assets/long/L328.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy nhìn lên",
+     "image": "assets/long/L329.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Gấu Trúc Lớn",
+     "image": "assets/long/L330.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thời khắc quyết",
+     "image": "assets/long/L331.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BÁN KẾT"
+  },
+  "scene12": {
+   "chapter_no": 12,
+   "title": "MÓN QUÀ CHO NHÂN LOẠI — CÔNG NGHỆ ĐỘT PHÁ TƯƠNG LAI",
+   "hook": "ĐIỂM NHÂN ĐÔI ĐỊNH ĐOẠT VƯƠNG MIỆN",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L332.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương vàng",
+     "image": "assets/long/L333.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chủ đề thi",
+     "image": "assets/long/L334.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ứng cử viên mở",
+     "image": "assets/long/L335.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bằng cách hội",
+     "image": "assets/long/L336.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ứng cử viên thứ",
+     "image": "assets/long/L337.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lấy cảm hứng",
+     "image": "assets/long/L338.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ứng cử viên thứ ba:",
+     "image": "assets/long/L339.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thay vì dùng",
+     "image": "assets/long/L340.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi tiếp xúc",
+     "image": "assets/long/L341.png",
+     "stickers": [
+      {
+       "at": "110V",
+       "side": "L",
+       "y": 380,
+       "value": "PIN 110V",
+       "label": "Hydrogel sinh học",
+       "target": [
+        0.42,
+        0.46
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Ứng cử viên thứ tư",
+     "image": "assets/long/L342.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hơn 20% số",
+     "image": "assets/long/L343.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một loài vật",
+     "image": "assets/long/L344.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và ứng cử",
+     "image": "assets/long/L345.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Công nghệ phun sương",
+     "image": "assets/long/L346.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Công nghệ này",
+     "image": "assets/long/L347.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chỉ từ một",
+     "image": "assets/long/L348.png",
+     "stickers": [
+      {
+       "at": "10m",
+       "side": "R",
+       "y": 380,
+       "value": "BẮN XA 10M",
+       "label": "Cứu hỏa buồng 5cm",
+       "target": [
+        0.7,
+        0.44
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và trước khi",
+     "image": "assets/long/L349.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thứ nhất, năm",
+     "image": "assets/long/L350.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong thử nghiệm",
+     "image": "assets/long/L351.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn sắc tố",
+     "image": "assets/long/L352.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "mở đường chế",
+     "image": "assets/long/L410.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thời khắc công",
+     "image": "assets/long/L353.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương đồng Chung",
+     "image": "assets/long/L354.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Huy chương bạc Chung",
+     "image": "assets/long/L355.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và Huy chương vàng",
+     "image": "assets/long/L356.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ vị trí",
+     "image": "assets/long/L357.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CHUNG KẾT"
+  },
+  "scene13": {
+   "chapter_no": 13,
+   "title": "LỄ TRAO HUY CHƯƠNG VÀ BẢNG TỔNG SẮP ĐIỂM SỐ MÙA 2",
+   "hook": "TÂN VƯƠNG NỬA GAM ĐĂNG QUANG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L358.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trải qua tám",
+     "image": "assets/long/L359.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và Tân Vương",
+     "image": "assets/long/L360.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nặng chưa đầy",
+     "image": "assets/long/L361.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngôi vị Á",
+     "image": "assets/long/L362.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đập tan định",
+     "image": "assets/long/L363.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và cú lội",
+     "image": "assets/long/L364.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ một thí",
+     "image": "assets/long/L365.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Xếp ngay sát",
+     "image": "assets/long/L366.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhóm 5 điểm",
+     "image": "assets/long/L367.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhóm 4 điểm",
+     "image": "assets/long/L368.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và cuối cùng,",
+     "image": "assets/long/L369.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khoan đã! Trước",
+     "image": "assets/long/L370.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ những giây",
+     "image": "assets/long/L371.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Xin chúc mừng",
+     "image": "assets/long/L372.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thưa anh MC",
+     "image": "assets/long/L373.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một phát biểu",
+     "image": "assets/long/L374.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn Hạng Ba",
+     "image": "assets/long/L375.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cảm ơn... tất",
+     "image": "assets/long/L376.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và chúng ta",
+     "image": "assets/long/L377.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tôm Súng và",
+     "image": "assets/long/L378.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hà Mã và",
+     "image": "assets/long/L379.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn bộ ba",
+     "image": "assets/long/L380.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mười đấu sĩ, mười",
+     "image": "assets/long/L381.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "TỔNG SẮP"
+  },
+  "scene14": {
+   "chapter_no": 14,
+   "title": "BÀI HỌC MÙA 2, BẢO TỒN THIÊN NHIÊN VÀ HÉ LỘ DỊ NHÂN MÙA 3",
+   "hook": "THÔNG ĐIỆP BẢO TỒN VÀ MÙA 3",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L382.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chúc mừng bạn",
+     "image": "assets/long/L383.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhìn lại toàn",
+     "image": "assets/long/L384.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi đặc điểm",
+     "image": "assets/long/L385.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và giống như",
+     "image": "assets/long/L386.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng ngay ngoài",
+     "image": "assets/long/L387.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Rừng mưa nhiệt",
+     "image": "assets/long/L388.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khu bảo tồn",
+     "image": "assets/long/L389.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đầm lầy Pantanal",
+     "image": "assets/long/L390.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sự suy giảm",
+     "image": "assets/long/L391.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tại những rạn",
+     "image": "assets/long/L392.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và tại vùng",
+     "image": "assets/long/L393.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng tin vui",
+     "image": "assets/long/L394.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đó là minh",
+     "image": "assets/long/L395.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và bây giờ,",
+     "image": "assets/long/L396.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và trước khi",
+     "image": "assets/long/L397.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong suốt hơn",
+     "image": "assets/long/L398.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy bình luận",
+     "image": "assets/long/L399.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mười tập phim",
+     "image": "assets/long/L400.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu bạn thích",
+     "image": "assets/long/L401.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và xin đừng",
+     "image": "assets/long/L402.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một biệt đội",
+     "image": "assets/long/L403.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một chú kỳ",
+     "image": "assets/long/L404.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí còn",
+     "image": "assets/long/L405.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cộng thêm những",
+     "image": "assets/long/L406.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hẹn gặp lại",
+     "image": "assets/long/L407.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẾ MẠC"
+  }
+ }
+}

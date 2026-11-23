@@ -1,0 +1,134 @@
+{
+ "title_lines": [
+  "UỐNG NƯỚC BẰNG CHÂN?!",
+  "QUÁI KIỆT SA MẠC ÚC"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Một sinh vật không",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "Đó chính là Thằn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "20cm",
+     "side": "L",
+     "y": 620,
+     "value": "DÀI 20CM",
+     "label": "XE TĂNG SA MẠC",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Làn da của nó",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "at": "mao dẫn",
+     "side": "R",
+     "y": 640,
+     "value": "MAO DẪN",
+     "label": "RÃNH HÚT NƯỚC",
+     "target": [
+      0.55,
+      0.48
+     ]
+    }
+   ]
+  },
+  {
+   "at": "tự động hút từng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  },
+  {
+   "at": "Mỗi ngày, nó kiên",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "at": "2.500",
+     "side": "L",
+     "y": 630,
+     "value": "2.500 CON",
+     "label": "ĐẠI TIỆC KIẾN ĐEN",
+     "target": [
+      0.5,
+      0.46
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Khi bị kẻ săn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "at": "đầu giả",
+     "side": "R",
+     "y": 650,
+     "value": "ĐẦU GIẢ",
+     "label": "LỪA KẺ SĂN MỒI",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "lừa kẻ thù cắn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "Chưa hết, nó còn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "at": "gấp đôi",
+     "side": "L",
+     "y": 640,
+     "value": "GẤP ĐÔI",
+     "label": "QUẢ CẦU GAI BỌC THÉP",
+     "target": [
+      0.5,
+      0.48
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vậy là bí mật",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "ngự trị chảo lửa sa mạc",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  }
+ ]
+}

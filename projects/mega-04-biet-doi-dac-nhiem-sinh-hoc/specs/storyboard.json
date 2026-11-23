@@ -1,0 +1,3688 @@
+{
+ "_doc": "SINH BỞI src/mega/build_from_content.py từ content/*.md — sửa content rồi chạy lại, KHÔNG sửa file này.",
+ "characters": {
+  "HERO": "anh Chỉ Huy Mật Vụ điệp viên cú mèo hoạt hình đeo kính râm đen ngầu, mặc áo măng-tô đen cổ đứng có gắn huy hiệu đặc nhiệm bạc, tai đeo tai nghe bộ đàm điệp viên, cầm máy tính bảng hologram phát sáng xanh",
+  "HERO_S": "anh Chỉ Huy Mật Vụ điệp viên cú mèo mặc áo măng-tô đen đeo kính râm cùng 10 đặc vụ động vật hoạt hình mặc giáp điệp viên",
+  "CHIEF": "anh Chỉ Huy Mật Vụ cú mèo hoạt hình áo măng-tô đen đeo kính râm và tai nghe bộ đàm",
+  "BOARD": "bản đồ hologram 3D của Pháo Đài Tự Nhiên nổi lơ lửng trong không khí, hiển thị 7 cửa ải an ninh phát sáng đỏ và thanh tiến độ phá khóa màu xanh ngọc (không có chữ, không có số)",
+  "NO_HERO": "KHÔNG có anh Chỉ Huy trong cảnh này",
+  "FALCON": "chú Chim Cắt Lớn hoạt hình mắt sắc lạnh, lông xám đen bụng vân ngang, mỏ khoằm vàng, đeo kính bảo hộ phi công siêu thanh và ba-lô phản lực mini gập gọn sau lưng",
+  "MOLERAT": "chú Chuột Chũi Trũi hoạt hình da hồng nhăn nheo không lông, hai răng cửa to chìa ra ngoài, đeo kính nhìn đêm hồng ngoại ngộ nghĩnh và đai thắt lưng công cụ điệp viên",
+  "FROGS": "chú Ếch Gỗ Bắc Cực hoạt hình da nâu vàng có vệt đen qua mắt như mặt nạ Zorro, đeo khăn quàng cổ đỏ thắm chống rét, người phủ lớp sương tuyết lấp lánh",
+  "CROW": "chú Quạ Đen hoạt hình lông đen ánh tím bóng bẩy, mắt tròn tinh quái, mỏ kẹp chiếc kẹp gắp kim loại, đeo tạp dề kỹ sư mini chứa đầy cờ-lê và dây thép",
+  "ORCA": "chú Cá Voi Sát Thủ hoạt hình thân đen bóng bụng trắng tinh, vây lưng cao vút cắm ăng-ten định vị sonar nhỏ xíu, miệng cười nhếch mép kiểu trùm mafia biển cả",
+  "WOODPECKER": "chú Chim Gõ Kiến hoạt hình mào lông đỏ rực dựng đứng, mỏ dài sắc nhọn như mũi khoan titan, đội mũ bảo hộ lao động màu vàng có gắn đèn pin thợ mỏ",
+  "CAMEL": "chú Lạc Đà hai bướu hoạt hình lông vàng cát dày mịn, mắt to hàng mi cong dài, cổ quấn khăn rằn sa mạc, lưng thồ hai bình nước dã chiến áp lực cao",
+  "GOAT": "chú Dê Núi Bắc Mỹ hoạt hình lông trắng muốt bờm cổ dày, cặp sừng đen nhọn cong nhẹ, bốn móng guốc bọc đệm cao su leo núi chuyên dụng chống trượt",
+  "SHRIKE": "chú Chim Bách Thanh hoạt hình lông xám trắng có dải lông đen vắt ngang mắt như dải băng cướp biển, mỏ có móc câu sắc nhọn, chân cầm một nhánh gai nhọn công nghệ",
+  "ANT_CORPS": "tiểu đội ba chú Kiến Cắt Lá hoạt hình màu nâu đỏ, đầu to mang hàm răng kim loại sáng loáng, đội mũ cối công binh màu xanh lá, đang vác những mảnh lá xanh như chiếc khiên chắn"
+ },
+ "side_characters": [
+  "CHIEF"
+ ],
+ "shorts_side_characters": [
+  "CHIEF"
+ ],
+ "shorts_title_lines": [
+  "BIỆT ĐỘI ĐẶC NHIỆM",
+  "PHI VỤ THẾ KỶ"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Căn phòng tác chiến ngầm tối tân phong cách Cold War thập niên 1960 với tường bê tông xám, màn hình radar xanh lục quét vòng tròn, {CHIEF} đứng quay lưng lại nhìn tấm bản đồ phát sáng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chào mừng toàn",
+   "layout": "Cận cảnh {CHIEF} từ từ xoay người lại, bàn tay vuốt chỉnh ve áo măng-tô đen, chiếc kính râm phản chiếu các dòng dữ liệu mật mã màu xanh lục lướt qua mặt kính.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Trước mặt chúng",
+   "layout": "{BOARD} bật sáng rực rỡ giữa phòng, mô hình 3D của một pháo đài khổng lồ bằng đá granite đen và băng tuyết bao quanh thung lũng hiểm trở, có bảy vòng rào an ninh nhấp nháy đỏ rực.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nơi đây giấu",
+   "layout": "Cận cảnh mô hình hologram thu nhỏ của cuộn tài liệu phát sáng vàng kim lơ lửng giữa tâm điểm pháo đài, bao quanh là các lớp lưới bảo vệ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhưng để chạm",
+   "layout": "Bảy biểu tượng cửa ải lần lượt chớp sáng trên bản đồ: vòi rồng gió lốc, đường hầm yếm khí, hầm băng vĩnh cửu, mê cung bẫy rập, hào nước áp lực cao, boong-ke bê tông và vách đá dựng đứng; {CHIEF} chỉ đầu ngón tay vào từng vị trí.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Và để giải",
+   "layout": "Mười tập hồ sơ tài liệu mật bìa giấy kraft ngả vàng xếp xòe hình cánh quạt trên mặt bàn kim loại, trên mỗi bìa có dán một bức ảnh chân dung đen trắng và đóng dấu mực đỏ TỐI MẬT; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đặc vụ 01!",
+   "layout": "{FALCON} bước vào phòng họp, mặc áo giáp phi công siêu thanh, đeo kính bảo hộ trên trán, một tay kéo khóa áo khoác da, ánh mắt sắc lẹm như lưỡi dao cạo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hồ sơ tác",
+   "layout": "Bức ảnh tư liệu mật chụp {FALCON} đang lao vun vút trên nền trời xanh, bên cạnh có đồ thị tốc độ nhảy vọt lên đỉnh cao nhất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đặc vụ 02!",
+   "layout": "{MOLERAT} chui tọt từ một nắp cống ngầm dưới sàn nhà lên, hai răng cửa to chìa ra ngoài, đẩy chiếc kính nhìn đêm hồng ngoại to bản lên mũi, ngơ ngác nhìn quanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Sinh vật không",
+   "layout": "Bản chụp X-quang sinh học của chuột chũi trũi với các biểu tượng lá chắn chống axit và biểu tượng tim đập bền bỉ trong môi trường yếm khí; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đặc vụ 03!",
+   "layout": "{FROGS} bước ra từ trong làn sương mù lạnh buốt, quấn chiếc khăn len đỏ chót quanh cổ, trên da đọng những hạt sương băng lấp lánh như kim cương; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Anh chàng có",
+   "layout": "Đồ họa y tế mô phỏng chú ếch gỗ nằm ngủ đông dưới lớp tuyết dày, các phân tử đường glucose bảo vệ tế bào phát sáng màu hổ phách; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đặc vụ 04!",
+   "layout": "{CROW} bay lượn sà xuống đậu trên lưng ghế kim loại, mỏ quắp chiếc kìm cắt dây thép siêu nhỏ, ánh mắt láu cá liếc ngang liếc dọc tìm camera an ninh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tài liệu của",
+   "layout": "Sơ đồ tư duy phức tạp của loài quạ với các khớp nối logic công cụ và hình ảnh chiếc que sắt được uốn cong thành lưỡi câu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đặc vụ 05!",
+   "layout": "Một bể kính dã chiến bọc thép trượt vào góc phòng, {ORCA} nhô đầu lên khỏi mặt nước nở nụ cười nhếch mép ngạo nghễ, chiếc ăng-ten định vị sonar trên vây lưng nhấp nháy đèn xanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Cỗ máy săn",
+   "layout": "Màn hình radar thủy âm hiển thị các luồng sóng âm thanh cực mạnh hình bán nguyệt lan tỏa từ trán cá voi sát thủ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đặc vụ 06!",
+   "layout": "{WOODPECKER} đứng nghiêm chào kiểu quân đội, chiếc mũ bảo hộ màu vàng có gắn đèn pin thợ mỏ hơi lệch sang một bên, chiếc mỏ nhọn hoắt gõ lách cách xuống bàn tạo thành tia lửa nhỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Cơ chế đai",
+   "layout": "Bản vẽ kỹ thuật chiếc xương móng hyoid của chim gõ kiến quấn trọn hộp sọ như chiếc đai an toàn xe đua; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đặc vụ 07!",
+   "layout": "{CAMEL} thong thả bước vào, hai bên hông thồ hai bình nước dã chiến áp lực cao, miệng vừa nhai tóp tép một cành xương rồng gai góc vừa chớp chớp hàng mi cong vút; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hồng cầu hình",
+   "layout": "Kính hiển vi mô phỏng tế bào hồng cầu hình oval màu đỏ tươi bơi lội trơn tru trong mạch máu lạc đà; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đặc vụ 08!",
+   "layout": "{GOAT} đứng kiêu hãnh trên đỉnh chiếc tủ sắt cao chót vót, bốn móng guốc bọc đệm cao su đặc chủng bám dính như giác hút chân không; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bốn chiếc móng",
+   "layout": "Hình vẽ phóng to mặt dưới của chiếc móng dê núi với lớp đệm dẻo bám dính vào vi gờ đá; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đặc vụ 09!",
+   "layout": "{SHRIKE} đậu trên bóng đèn trần phòng họp, mỏ găm một chiếc móc sắt nhọn hoắt, dải lông đen ngang mắt trông như một sát thủ chuyên nghiệp đang quan sát con mồi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mấu răng tomium",
+   "layout": "Bức ảnh tư liệu mật về chiếc mỏ khoằm có mấu răng giả của chim bách thanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Và lực lượng",
+   "layout": "{ANT_CORPS} xếp thành đội hình quân sự ngay ngắn trên mặt bàn, mỗi chú vác một chiếc cờ lê mini và một phiến đá nhỏ như những người lính công binh tinh nhuệ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Lớp kim loại",
+   "layout": "Hình ảnh hiển vi quét điện tử đầu răng kiến phát sáng ánh thép kim loại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đủ 10 đặc",
+   "layout": "Toàn bộ mười đặc vụ đứng quây quần quanh bàn tác chiến, nhìn chằm chằm vào bản đồ hologram phát sáng; {CHIEF} chống hai tay xuống bàn, ánh mắt sắc lạnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Thông báo khẩn",
+   "layout": "Màn hình điều khiển trung tâm chuyển sang màu đỏ rực, các dòng chữ cảnh báo mã hóa chạy liên hồi trên màn hình (không chữ, không số); {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Các đặc vụ",
+   "layout": "{CHIEF} giơ chiếc máy tính bảng mật mã lên ngang ngực, ngón tay bấm nút xác nhận màu đỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mọi chi tiết",
+   "layout": "Cận cảnh một tập tài liệu nghiên cứu khoa học có hình ảnh phóng to của vòi nén khí chim cắt, tế bào máu lạc đà và hàm răng kiến bọc kim loại nặng nằm dưới đèn soi UV; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chúng ta không",
+   "layout": "Mười đặc vụ cùng giơ nắm tay hoặc giơ móng vuốt chạm vào nhau ở giữa bàn họp, ánh sáng xanh từ hologram chiếu rực rỡ lên khuôn mặt đầy quyết tâm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Cửa Ải 1",
+   "layout": "Cánh cửa hầm ngầm từ từ mở toang ra bầu trời đêm đầy mây đen vần vũ, phía xa là ngọn tháp canh sừng sững của pháo đài; {FALCON} sải rộng đôi cánh lao vút lên không trung xé toạc màn đêm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Biệt Đội Đặc Nhiệm Sinh Học chính",
+   "layout": "Hình ảnh bóng lưng mười đặc vụ lao ra khỏi căn cứ ngầm tiến về phía pháo đài sừng sững trong đêm bão tố.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mục tiêu là",
+   "layout": "{BOARD} chớp sáng con số đếm ngược màu xanh lục, toàn bộ hệ thống máy móc ngầm bắt đầu khởi động rền vang.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Pháo Đài Tự Nhiên được",
+   "layout": "Mô hình hologram hiển thị các lớp đá sa thạch và granite cổ xưa bao bọc quanh pháo đài ngầm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mỗi một cửa",
+   "layout": "Bảy biểu tượng cửa ải nhấp nháy phát sáng thành một vòng tròn bảo vệ xung quanh pháo đài; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chỉ có sức",
+   "layout": "{CHIEF} chỉ ngón tay vào tâm điểm bản đồ, ánh mắt kiên định thúc giục mười đặc vụ chuẩn bị sẵn sàng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Các kỹ sư",
+   "layout": "Bản thiết kế địa chất cổ đại với các tầng địa chất phát sáng nhiều màu sắc khác nhau; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mọi thiết bị",
+   "layout": "Các vali dụng cụ điệp viên màu đen mở nắp, bên trong xếp ngay ngắn những chiếc kính nhìn đêm và móc câu chuyên dụng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "Cảnh bầu trời đêm bão tố cuồn cuộn mây xám, những cột tia laser màu đỏ rực đan chéo nhau như một chiếc lồng ánh sáng khổng lồ bao trùm lấy đỉnh tháp pháo đài; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Hàng ngàn cảm",
+   "layout": "Hình vẽ cắt lớp kỹ thuật của một hệ thống phòng không quân sự cổ điển, các luồng sóng xung kích không khí màu vàng cam xoáy tròn dữ dội quanh miệng phễu thu cảm biến; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đặc vụ Chim",
+   "layout": "{FALCON} bay lơ lửng giữa tầng mây mỏng ngược sáng dưới ánh trăng lưỡi liềm, kính phi công hạ xuống che mắt, đôi cánh khép hờ định hình tư thế tác chiến; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đôi mắt của",
+   "layout": "Sơ đồ giải phẫu mắt chim cắt với hai tiêu cự fovea phát sáng hai chùm tia nhìn quét qua không gian ban đêm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bộ đàm trung",
+   "layout": "Cận cảnh {CHIEF} đứng trong phòng điều khiển, một tay giữ tai nghe bộ đàm, mắt nhìn vào màn hình hiển thị tọa độ điểm đỏ nhấp nháy trên đỉnh tháp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhắc nhở nhẹ",
+   "layout": "{CROW} chõ mỏ vào micro phòng truyền tin, vẻ mặt nhăn nhở cà khịa nhưng ánh mắt vẫn chăm chú theo dõi màn hình tín hiệu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chim Cắt Lớn chỉ",
+   "layout": "Cận cảnh gương mặt sắc lạnh của {FALCON}, chiếc mỏ khoằm vàng óng ánh ánh trăng, ánh mắt tập trung cao độ vào mục tiêu bên dưới; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Hãy nhìn sâu",
+   "layout": "Bản vẽ phóng to chi tiết giải phẫu học bên trong khoang mũi của chim cắt, hiện rõ cấu trúc mấu lồi hình nón tubercle bằng xương chia đôi dòng khí lao vào (không chữ, không số); {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khi lao xuống",
+   "layout": "Mô phỏng động lực học chất lưu sinh học: các mũi tên luồng khí đỏ lao thẳng vào mũi chim cắt bị bẻ cong thành các đường lượn sóng màu xanh êm dịu đi sâu vào phổi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Không chỉ có",
+   "layout": "Cận cảnh mép lông cánh của chim cắt tự động điều chỉnh độ cong khi gió rít qua, giữ cho cánh cứng cáp như cánh máy bay chiến đấu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tọa độ đã",
+   "layout": "{FALCON} gập hẳn hai cánh thành hình giọt nước khí động học, đuôi ép chặt, cả thân mình lao dốc thẳng đứng chín mươi độ xuống màn đêm đen kịt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Gia tốc tăng",
+   "layout": "Màn hình radar quân sự trong phòng điều khiển: kim đồng hồ đo vận tốc nhảy số liên tục từ vạch xanh sang vạch đỏ rực, phát ra tiếng tít tít dồn dập; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và đây là",
+   "layout": "Hình ảnh đồ họa ngoạn mục: {FALCON} lao xuống như một quả tên lửa xé toạc màn mây, sóng xung kích hình nón màu trắng ngưng tụ quanh thân chim cắt xé rách không gian; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "389 km/h",
+     "side": "R",
+     "y": 380,
+     "value": "389 KM/H",
+     "label": "Vận tốc kỷ lục",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tiếng rít xé",
+   "layout": "Sóng âm thanh lan tỏa hình gợn sóng làm rung rinh các thanh xà kim loại trên vòm kính pháo đài; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Ở tốc độ",
+   "layout": "Cận cảnh đôi mắt tròn đen láy của {FALCON}, con ngươi co lại cực đại, phản chiếu hình ảnh chiếc công tắc nguồn điện tử bên dưới; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bí quyết là",
+   "layout": "Sơ đồ giải phẫu mắt chim cắt: chiếc màng nháy mỏng trong suốt quét qua nhãn cầu như chiếc gạt nước kính ô tô siêu tốc, giữ ẩm và bảo vệ mắt hoàn hảo; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "120 lần/phút",
+     "side": "L",
+     "y": 420,
+     "value": "120 LẦN/P",
+     "label": "Màng nháy mắt",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chiếc màng này",
+   "layout": "Góc nhìn từ mắt chim cắt qua kính ngắm quang học: mục tiêu chiếc rơ-le điện nhỏ bằng chiếc hộp quẹt trên nóc pháo đài hiện lên rõ mồn một không một vệt mờ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tuyến lệ của",
+   "layout": "Giọt dịch nhầy bảo vệ mắt lấp lánh như một lớp tráng gương nano trên giác mạc của chim; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khoảng cách còn",
+   "layout": "Hai luồng tia laser đỏ rực từ tháp canh phóng vút tới cắt ngang đường bay, không khí xung quanh bốc khói khét lẹt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chim Cắt Lớn khẽ",
+   "layout": "{FALCON} thực hiện cú bẻ lái lượn vòng xoắn ốc điệu nghệ trên không, tia laser sượt qua mép lông cánh làm rụng một sợi lông tơ nhỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đường bay xoắn",
+   "layout": "Mô phỏng đường bay xoắn ốc màu vàng kim lượn lách qua các chùm tia laser đỏ rực đan chéo nhau; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Khoảng cách còn 10",
+   "layout": "Cận cảnh đôi móng vuốt sắc nhọn của {FALCON} đạp trúng chiếc hộp cầu dao trung tâm, các tia lửa điện nổ tung tóe chói lòa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Xoẹt! Tiếng điện",
+   "layout": "Toàn bộ hệ thống đèn laser trên tháp pháo đài chớp nháy rồi phụt tắt, cánh cửa vòm kính khổng lồ kêu kẽo kẹt trượt mở ra một lối vào tối om; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chim Cắt Lớn dang rộng",
+   "layout": "{FALCON} đứng trên lan can đá ngẩng cao đầu chỉnh lại kính phi công, giơ ngón cánh ra hiệu OK về phía ống kính camera nhỏ trên ngực áo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Thanh tiến độ",
+   "layout": "{BOARD} cập nhật tín hiệu: biểu tượng gió lốc Cửa Ải 1 đổi từ màu đỏ rực sang màu xanh ngọc phát sáng êm dịu, thanh tiến độ nhích lên một nấc; {CHIEF} gật đầu hài lòng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng niềm vui",
+   "layout": "Cửa sắt dày cộp dưới chân tháp đóng ầm xuống, đèn cảnh báo màu vàng chớp liên hồi, khói xám bắt đầu tỏa ra từ các kẽ đá; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Lối vào duy",
+   "layout": "Bản đồ hologram hiển thị một mạng lưới đường ống ngoằn ngoèo màu xám chì nằm sâu dưới lòng đá, đầy biểu tượng khí độc và bình axit; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chỉ Huy Mật Vụ bấm",
+   "layout": "Cận cảnh {CHIEF} nhìn vào micro, bên cạnh là chiếc ghế trống của chuột chũi với một lỗ hổng tròn vo vừa bị đào khoét dưới gầm bàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Từ dưới đáy",
+   "layout": "Dưới đường ống tối tăm, {MOLERAT} thò đầu ra khịt khịt mũi, hai chiếc răng cửa sáng loáng dưới ánh đèn pin mini, chuẩn bị bò vào mê cung tăm tối.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đặc vụ Chuột Chũi xoa",
+   "layout": "{MOLERAT} chỉnh lại cặp kính nhìn đêm, cười toe toét khoe hai chiếc răng cửa dài ngoằng chuẩn bị đối đầu với hầm ngầm không dưỡng khí.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Các phi công",
+   "layout": "Màn hình mô phỏng máy bay chiến đấu phản lực bay song song với một chú chim cắt lớn đang lao dốc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Ở góc bổ",
+   "layout": "Đường bay đỏ rực của {FALCON} cắt ngang các tầng mây đen, tạo nên một vệt khói ngưng tụ trắng xóa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đôi mắt chim",
+   "layout": "Màn hình nhận tín hiệu từ camera gắn trên trán chim cắt hiển thị rõ nét từng rãnh ren của bu-lông công tắc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhịp đập của",
+   "layout": "{FALCON} bay vút ngang qua đỉnh tháp pháo đài, để lại một vệt hào quang xám bạc lấp lánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bộ cảm biến",
+   "layout": "Đồ thị phân tích lực cản khí động học hiển thị mức cân bằng tuyệt đối không một điểm dao động bất thường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "Khung cảnh đường hầm ngầm bằng kim loại rỉ sét u ám, các vòi phun sương tự động đang phun ra những làn sương màu vàng chanh đậm đặc mùi axit, trên tường có các cảm biến đo nồng độ dưỡng khí; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Cửa thép phía",
+   "layout": "Đồng hồ đo nồng độ oxy trên tường tụt nhanh về vạch số không đỏ rực, tiếng hút gió rít lên chói tai trong đường ống chật hẹp tối tăm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Không có lấy",
+   "layout": "Một mô hình đồ họa y khoa giải thích sự ngạt thở: các tế bào não thông thường bị thiếu oxy teo lại và phát tín hiệu cảnh báo màu đỏ chớp nháy (không chữ, không số); {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "CO₂ và nồng",
+   "layout": "Khói độc màu xám xịt cuộn tròn quanh các vách ống kim loại, rỉ sét ăn mòn bề mặt tạo thành những vệt rỗ loang lổ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng kẻ đang",
+   "layout": "{MOLERAT} lắc lư cái đầu nhăn nheo, bốn chân ngắn thoăn thoắt bò tới tấp trong đường ống kim loại, cặp kính hồng ngoại to sụ chớp chớp đèn xanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đặc vụ Chuột",
+   "layout": "Cận cảnh gương mặt của {MOLERAT}, hai chiếc răng cửa to tướng gõ lách cách vào thành ống thép, chiếc đuôi ngắn ngoe nguẩy điều hướng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Cơ thể không",
+   "layout": "Kính hiển vi quét màng tế bào da chuột chũi: các chuỗi phân tử cao phân tử HMM-HA đan chéo nhau như một mạng lưới bảo vệ dẻo dai chống lại mọi ma sát; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Năm 2017, một",
+   "layout": "Tranh minh họa sinh học so sánh hai nhánh tiến hóa: một bên là cây xanh quang hợp rực rỡ, một bên là chú chuột chũi trũi đang phát sáng các hạt phân tử đường màu xanh lục bên trong tế bào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đúng vậy, bạn",
+   "layout": "Sơ đồ phân tử: chu trình phân giải đường glucose thông thường bị dấu chéo đỏ chặn đứng khi thiếu oxy, biểu tượng pin năng lượng cạn kiệt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng Chuột Chũi",
+   "layout": "Các phân tử đường fructose hình ngôi sao màu tím lấp lánh tràn vào tế bào tim và não của chuột chũi, tái kích hoạt bộ máy năng lượng hoạt động trơn tru; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đường fructose đi",
+   "layout": "Mô phỏng các hạt năng lượng ATP màu vàng sáng bừng lên bên trong tế bào não chuột chũi, nuôi dưỡng các xung thần kinh hoạt động bình thường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thử nghiệm khoa",
+   "layout": "{MOLERAT} nằm thư thái trong một buồng kính thí nghiệm chân không kín mít, xung quanh là các nhà khoa học trố mắt nhìn đồng hồ bấm giờ chạm mốc 18:00 (không chữ); {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "18 phút",
+     "side": "R",
+     "y": 390,
+     "value": "18 PHÚT",
+     "label": "Sống ở 0% Oxy",
+     "target": [
+      0.5,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khi có dưỡng",
+   "layout": "{MOLERAT} vươn vai ngáp một cái thật dài, phủi hai móng trước vào bụng rồi tiếp tục bò thoăn thoắt trên mặt sàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhịp tim của",
+   "layout": "Biểu đồ nhịp tim co giãn chậm rãi và ổn định, duy trì áp lực máu hoàn hảo đến các cơ quan trọng yếu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng thử thách",
+   "layout": "Các đầu phun trên trần đường ống tự động xoay nòng, phun ra từng luồng sương axit châm chích mù mịt phủ kín toàn bộ lối đi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Làn sương axit",
+   "layout": "Những giọt axit màu xanh vàng rơi xuống sàn kim loại kêu xèo xèo, bốc lên những làn khói cay nồng mù mịt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Sương axit bắn",
+   "layout": "Màn hình theo dõi nhiệt độ cơ thể trong phòng điều khiển chao đảo, {CHIEF} nhíu mày áp sát mặt vào màn hình kính râm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng Chuột Chũi Trũi... chỉ",
+   "layout": "{MOLERAT} đứng giữa làn sương axit mù mịt, lấy một chân sau gãi gãi bụng vẻ mặt tỉnh bơ ngây thơ như đang tắm suối nước nóng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bởi vì tạo",
+   "layout": "Hình vẽ hiển vi phóng to sợi dây thần kinh dưới da của chuột chũi: tín hiệu đau hình tia sét màu đỏ bị chặn đứng hoàn toàn bởi một nút công tắc sinh học tự nhiên màu xanh ngọc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Axit hay ớt",
+   "layout": "{MOLERAT} tiếp tục bò qua vũng axit bốc khói, thản nhiên như một chiến binh mang giáp hộ thân tàng hình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Các nhà thần",
+   "layout": "Sơ đồ kênh ion trên màng tế bào thần kinh: phân tử axit chạm vào thụ thể nhưng không thể kích hoạt xung điện thần kinh truyền về tủy sống; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Lối đi phía",
+   "layout": "Một khối đá xám to đùng rơi chắn ngang đường ống chật chội, khe hở chỉ vừa khít thân hình chuột chũi, không có chỗ để quay đầu xe; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Không cần quay",
+   "layout": "{MOLERAT} chạy giật lùi thoăn thoắt về phía sau, chiếc đuôi ngắn ngỏng lên chạm nhẹ vào hai bên vách ống để dò đường cực kỳ chuẩn xác; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Anh chàng đổi",
+   "layout": "{MOLERAT} chui vào một ngách thông gió thẳng đứng, trèo ngược lên bằng bốn chân có móng vuốt chắc khỏe; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Cặp răng cửa",
+   "layout": "Cận cảnh hai chiếc răng cửa to tướng của {MOLERAT} kẹp chặt lấy chiếc chốt khóa van kim loại, cơ hàm nghiền nghiến với lực cắn khủng khiếp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Rắc! Chiếc chốt",
+   "layout": "Chiếc then cài kim loại gãy vụn rơi lanh canh, chiếc van xoay tròn mở bung ra, luồng không khí sạch bên ngoài ùa vào đường hầm rào rào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đèn báo động",
+   "layout": "Màn hình trung tâm {BOARD} phát ra âm thanh êm dịu, biểu tượng đường ống yếm khí chuyển sang màu xanh ngọc, thanh tiến độ phá khóa nhảy lên nấc thứ hai; {CHIEF} khẽ mỉm cười gật đầu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chuột Chũi Trũi ngoi",
+   "layout": "{MOLERAT} ló đầu lên mặt sàn đá sạch sẽ, giơ hai móng trước làm dấu chiến thắng, cặp kính nhìn đêm hồng ngoại lóe lên ánh sáng xanh tinh nghịch.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhưng ngay khi",
+   "layout": "Hơi sương lạnh buốt màu trắng xóa tràn qua khe cửa hầm, mặt sàn đá đóng một lớp băng trơn nhẵn bóng, các nhũ băng nhọn hoắt rủ xuống từ trần nhà; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Cửa Ải 3:",
+   "layout": "Bản đồ {BOARD} hiển thị căn phòng tiếp theo phủ đầy hoa tuyết màu xanh băng giá, các máy quét thân nhiệt màu đỏ cam đang lia khắp sàn nhà; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Mọi cơ thể",
+   "layout": "Cận cảnh {CHIEF} quay sang nhìn {FROGS} đang bình thản nhấp một ngụm nước đá trong góc phòng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "\"Đặc vụ Ếch",
+   "layout": "{FROGS} thắt lại chiếc khăn quàng cổ màu đỏ, bước ra ánh đèn, đôi mắt tròn to lấp lánh sự tự tin của một chuyên gia sinh tồn vùng cực.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và phía sau",
+   "layout": "Chiếc máy bộ đàm trên bàn tác chiến nhấp nháy đèn vàng báo hiệu cuộc gọi khẩn cấp từ các đặc vụ hậu trường.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Kỳ tích chuyển",
+   "layout": "Tranh vẽ nghiên cứu y khoa hiện đại: hình ảnh trái tim người được bảo vệ bởi cơ chế chuyển hóa đường fructose mô phỏng từ chuột chũi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khi oxy cạn",
+   "layout": "Mô phỏng các tế bào cơ tim chuột chũi co bóp đều đặn dưới ánh sáng huỳnh quang y tế; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Cơ thể không lông của chúng",
+   "layout": "Chuỗi xoắn kép ADN của chuột chũi phát sáng các điểm liên kết tự phục hồi màu xanh ngọc bích; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhờ tốc độ",
+   "layout": "Kính hiển vi hiển thị tế bào cơ chuột chũi không hề tích tụ axit lactic sau mười tám phút vận động trong buồng chân không; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đặc vụ Chuột Chũi Trũi quệt",
+   "layout": "{MOLERAT} giơ hai ngón chân trước lên làm dấu chữ V chiến thắng trước ống kính camera thông hơi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "Căn phòng chỉ huy của {CHIEF}, chiếc máy bộ đàm để bàn bắt đầu phát ra những tiếng rè rè lẹt xẹt, xen lẫn tiếng nhai nhồm nhoàm và tiếng cãi cọ ầm ĩ; {CHIEF} ôm trán thở dài bất lực.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Tiếng nhai chóp",
+   "layout": "Chiếc loa truyền tin phóng đại sóng âm thanh dạng răng cưa, các nhân viên kỹ thuật đeo tai nghe phải nhăn mặt giật tai nghe ra; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "\"Báo cáo Chỉ",
+   "layout": "{MOLERAT} ngồi lọt thỏm giữa một kho lương thực đầy ắp các bao tải ngũ cốc và củ quả của pháo đài, hai tay ôm một củ khoai tây to gấp đôi người mình, mải mê gặm lấy gặm để; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Khoai tây này",
+   "layout": "Cận cảnh {MOLERAT} mồm dính đầy vụn khoai tây, hai mắt hí tít sau cặp kính nhìn đêm, giơ củ khoai tây lên vẫy vẫy trước camera; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Sau phi vụ",
+   "layout": "{MOLERAT} giơ một ngón chân cái lên làm dáng quảng cáo nhà hàng tương lai đầy tự tin; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chỉ Huy Mật",
+   "layout": "Cận cảnh {CHIEF} nghiến răng, chiếc kính râm trượt xuống sống mũi để lộ ánh mắt hình viên đạn, ngón tay gõ nhịp lách cách đe dọa lên micro; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "\"Nếu trong vòng",
+   "layout": "{CHIEF} cầm cây bút lông đỏ vạch một đường thật đậm vào trang hồ sơ có dán ảnh chuột chũi trũi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "\"Và đừng bao",
+   "layout": "{CHIEF} đập cây bút lông xuống bàn làm mực đỏ bắn tung tóe lên mặt bàn kính; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ối sếp ơi!",
+   "layout": "{MOLERAT} giật mình nhảy cẫng lên, vội vã nhét vội một củ khoai tây vào túi thắt lưng rồi cong đuôi lặn mất tăm xuống lỗ đất vừa đào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chưa kịp thở",
+   "layout": "{CROW} xuất hiện trên màn hình camera phụ, đang dùng một chiếc móng chân gảy gảy vào mic bộ đàm, chiếc mỏ kẹp một tập giấy ghi chép chi phí; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "A lô Chỉ",
+   "layout": "Cận cảnh {CROW} nghiêng đầu chớp mắt tinh quái, tay kia xòe ra một tờ hóa đơn thanh toán dài ngoằng vẽ nguệch ngoạc bằng mực tím; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Hợp đồng ban",
+   "layout": "{CROW} chỉ mỏ vào sơ đồ bẫy rập phức tạp trên màn hình, vẻ mặt đầy bất mãn đòi quyền lợi chính đáng của một chuyên gia công nghệ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Tôi yêu cầu",
+   "layout": "{CROW} khoanh hai cánh trước ngực quay lưng lại camera, làm bộ dỗi hờn không thèm hợp tác; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Toàn bộ phòng",
+   "layout": "{CHIEF} thong thả mở tập hồ sơ dày cộp, bên trong có dán ảnh {CROW} đang trộm bóng đèn xe cảnh sát và trêu chọc chó nhà hàng xóm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "\"Đặc vụ Quạ",
+   "layout": "{CHIEF} cầm kính lúp soi vào bức ảnh đen trắng chụp chiếc tổ quạ chứa đầy thìa nĩa bằng bạc lấp lánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "\"Bằng chứng vẫn",
+   "layout": "{CHIEF} khẽ cười nửa miệng, quẹt que diêm dí sát vào góc tập hồ sơ làm mép giấy hơi bén lửa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Ấy ấy Chỉ",
+   "layout": "{CROW} hoảng hốt xua xua đôi cánh, mồm liến thoắng cười trừ, nhanh tay giấu nhẹm tờ hóa đơn vào trong túi áo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đúng lúc đó,",
+   "layout": "{FALCON} đứng trên cột cờ tháp canh đang bận rộn dùng mỏ chải chuốt lại từng sợi lông vũ trên cánh, vẻ mặt cằn nhằn vì phong độ bị ảnh hưởng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "\"Đồng đội gì",
+   "layout": "{FALCON} soi bóng mình vào kính bảo hộ phi công, vuốt lại chùm lông đầu cho thật mượt mà; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Dưới bể nước",
+   "layout": "{ORCA} nhấp nhô vây lưng trên mặt nước, ngoác miệng cười để lộ hàm răng trắng bóng, đập vây đuôi tạo thành những đợt sóng dập dềnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Dê Núi và",
+   "layout": "{GOAT} và {CAMEL} cùng chia sẻ một cành cỏ khô qua màn hình chia đôi, vừa nhai vừa gật gù tâm đắc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chỉ Huy Mật Vụ gõ",
+   "layout": "{CHIEF} chỉnh lại micro cổ áo, ánh mắt trở lại vẻ uy nghiêm sắt đá của một thủ lĩnh mật vụ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Sự hài hước",
+   "layout": "Cánh cửa thép dày ba tấc phủ đầy băng giá mở ra, bên trong là một căn phòng lạnh thấu xương với ánh sáng xanh lam ma quái phản chiếu từ những bức tường băng vĩnh cửu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đây không phải",
+   "layout": "Các cảm biến hồng ngoại trên tường quét những chùm tia sáng vô hình qua lại như những mạng nhện tử thần giăng kín lối đi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đặc vụ Ếch",
+   "layout": "{FROGS} đứng trước ngưỡng cửa hầm băng, hít một hơi thật sâu làn không khí buốt giá, chuẩn bị bước vào cuộc thử nghiệm sinh học kỳ diệu nhất trong lịch sử sinh tồn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Sinh mệnh của",
+   "layout": "Cận cảnh bàn chân có màng của {FROGS} chạm nhẹ vào mặt băng buốt giá, chuẩn bị cho màn trình diễn đóng băng hồi sinh thần kỳ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "\"Báo cáo Chỉ Huy, tôi vừa phát",
+   "layout": "{MOLERAT} thò đầu ra từ bao hạt dẻ, hai má phồng to như hai chiếc bánh bao nhỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Quạ Đen lập",
+   "layout": "{CROW} giơ chiếc kìm mạ vàng lên gõ lách cách đòi chia phần chiến lợi phẩm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Dê Núi Bắc",
+   "layout": "{GOAT} đứng ngẩng cao đầu nhai nhóp nhép một mẩu rêu xanh, vẻ mặt đầy kiêu hãnh của một vận động viên ăn chay trường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chỉ Huy Cú Mèo lắc",
+   "layout": "{CHIEF} nhấp một ngụm trà thảo mộc, khẽ mỉm cười châm biếm nhìn chiếc hóa đơn thanh toán của quạ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Toàn đội cười",
+   "layout": "Tiếng cười rộn rã phát ra từ các góc liên lạc dã chiến, gắn kết tình đồng đội của mười quái kiệt thêm bền chặt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Căn phòng mái vòm bằng đá phủ kín một lớp băng dày trong suốt, các cột băng khổng lồ chống đỡ trần nhà, hơi lạnh mù mịt cuộn trào trên mặt sàn băng nhẵn thín; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "-20°C",
+     "side": "R",
+     "y": 410,
+     "value": "-20°C",
+     "label": "Kho Lạnh Cực Hạn",
+     "target": [
+      0.5,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Mọi thiết bị",
+   "layout": "Một chiếc nhiệt kế điện tử gắn trên tường hiển thị cột thủy ngân tụt sâu xuống vạch âm hai mươi độ C phát ra tiếng bíp cảnh báo khô khốc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Và điều nguy",
+   "layout": "Màn hình radar tầm nhiệt hồng ngoại hiển thị toàn bộ căn phòng có màu xanh dương đậm buốt giá, bất kỳ một đốm sáng đỏ ấm áp nào xuất hiện cũng sẽ bị một vòng tròn ngắm bắn khóa chặt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Hệ thống cảm",
+   "layout": "Một chú bọ nhỏ bay vào cửa hầm lập tức bị một tia laser xanh quét trúng, đóng băng thành một viên đá nhỏ rơi xuống sàn vỡ tan; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đặc vụ Ếch",
+   "layout": "{FROGS} bước đi vững chãi trên mặt băng trơn nhẵn, chiếc khăn len đỏ bay nhẹ, ánh mắt bình thản nhìn về phía bàn điều khiển nhiệt độ nằm ở góc xa của căn hầm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Bộ đàm phòng",
+   "layout": "{CHIEF} theo dõi sát sao qua màn hình hồng ngoại, các thông số nhịp tim của ếch gỗ đang hiển thị trên bảng đo lường y tế dã chiến; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Ếch Gỗ gật",
+   "layout": "{FROGS} ngồi co tròn như một hòn sỏi trên mặt băng tuyết, một lớp màng sương tuyết trắng xóa bắt đầu lan dần từ đầu ngón chân lên khắp cơ thể; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Hãy quan sát",
+   "layout": "Tranh vẽ hiển vi cắt lớp cơ thể chú ếch: gan của ếch gỗ bắt đầu phát sáng rực rỡ và phình to gấp ba lần kích thước bình thường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Ngay khi tinh",
+   "layout": "Dòng máu mang hàng triệu phân tử đường glucose màu vàng óng ả và phân tử urea tỏa đi khắp các mao mạch, tràn vào bên trong từng tế bào của mọi cơ quan nội tạng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nồng độ đường",
+   "layout": "Các tế bào nội tạng được bảo vệ an toàn bởi lớp màng si-rô đường tự nhiên, căng tròn và mềm mại dù nhiệt độ xung quanh đang hạ xuống âm hai mươi độ C; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chất urea đóng",
+   "layout": "Kính hiển vi 3D mô phỏng phân tử urea liên kết với màng tế bào, ngăn ngừa hiện tượng co rút áp suất thẩm thấu gây chết tế bào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Trong khi đó,",
+   "layout": "Đồ họa 3D hiển vi: các tinh thể băng hình lục giác sắc nhọn mọc lên chi chít ở các mô liên kết ngoại bào xung quanh tế bào nhưng không thể xuyên thủng màng tế bào được bảo vệ; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "65%",
+     "side": "L",
+     "y": 380,
+     "value": "65% NƯỚC",
+     "label": "Đóng băng ngoại bào",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Toàn bộ cơ",
+   "layout": "Cận cảnh {FROGS} đã biến thành một bức tượng băng hoàn hảo, cứng ngắc không hề nhúc nhích, ánh sáng phản chiếu lấp lánh trên lưng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Trái tim của",
+   "layout": "Biểu đồ điện tâm đồ hiển thị đường sóng nhịp tim tụt dần và phẳng lì thành một đường thẳng tắp không còn dao động; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Phổi ngừng thở!",
+   "layout": "Màn hình theo dõi sự sống trong phòng chỉ huy báo tín hiệu phẳng lặng, không một dấu hiệu tuần hoàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhưng chính trạng",
+   "layout": "Màn hình quét hồng ngoại của hệ thống an ninh quét qua vị trí của chú ếch: chú ếch hiện lên với màu xanh dương thẫm giống hệt như sàn đá xung quanh, hoàn toàn tàng hình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Hệ thống máy",
+   "layout": "Chùm tia laser cảnh báo quét qua lưng chú ếch băng rồi lướt đi nơi khác mà không hề phát ra tiếng còi báo động nào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Một cơn gió",
+   "layout": "Bức tượng băng của {FROGS} trượt như một hòn bi trên mặt sàn băng trơn láng, dừng lại êm ái ngay dưới chân cột trụ điều khiển trung tâm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đã tiếp cận",
+   "layout": "{FROGS} nằm yên dưới chân bàn điều khiển, một dòng nước ấm nhỏ giọt từ ống tản nhiệt phía trên khẽ rơi trúng đầu chú ếch; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Khi nhiệt độ",
+   "layout": "Lớp băng phủ ngoài da chú ếch tan biến thành những giọt nước long lanh, các khớp chân bắt đầu mềm trở lại và co giãn linh hoạt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Kỳ tích xuất",
+   "layout": "Cận cảnh trái tim nhỏ bé màu đỏ hồng của chú ếch đập nhịp nhàng trở lại, bơm dòng máu ấm áp đi khắp cơ thể; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Dòng máu ấm",
+   "layout": "Các xung điện thần kinh màu xanh lục chạy dọc tủy sống của chú ếch, đôi mắt chớp chớp trở lại ánh nhìn thông minh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Các nhà khoa học ghi",
+   "layout": "{FROGS} chớp mắt một cái, chiếc mồm khẽ đớp lấy không khí, bốn chân bật mạnh một cú nhảy ngoạn mục lên bàn điều khiển; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Bẹp! Bàn chân",
+   "layout": "Bàn chân của {FROGS} ấn mạnh xuống nút bấm khẩn cấp to đùng, còi báo động nhiệt độ vang lên một hồi ngắn báo hiệu chu trình sưởi ấm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Hơi nóng bắt",
+   "layout": "Các bức tường băng tan rã rào rào, hệ thống súng laser tầm nhiệt bị chập điện tóe lửa do ngập nước, căn hầm trở lại nhiệt độ bình thường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Cửa Ải 3",
+   "layout": "{BOARD} cập nhật kết quả: thanh tiến độ phá khóa nhảy lên nấc thứ ba, ánh sáng xanh ngọc bích tỏa sáng rực rỡ khắp phòng chỉ huy; {CHIEF} vỗ tay khen ngợi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Ếch Gỗ Bắc Cực đứng",
+   "layout": "{FROGS} tạo dáng ngầu như một điệp viên sau khi hoàn thành nhiệm vụ bất khả thi, vẫy tay chào các đồng đội qua màn hình liên lạc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhưng tiếng vỗ",
+   "layout": "Căn phòng tiếp theo hiện ra với hàng trăm tấm gương phản chiếu, những chiếc hộp gỗ cơ học gắn ròng rọc phức tạp và những sợi dây bẫy giăng chằng chịt trong không gian; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đây không phải",
+   "layout": "{CHIEF} nhìn sang {CROW} đang đậu trên lưng ghế, tay đã cầm sẵn chiếc kẹp kim loại siêu nhỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đã đến lúc",
+   "layout": "{CROW} bay vút lên trần nhà, lượn một vòng điệu nghệ chuẩn bị cho màn phá khóa kinh điển; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nghiên cứu của",
+   "layout": "Hình ảnh phòng thí nghiệm hiện đại với các ống nghiệm bảo quản mẫu sinh học ở nhiệt độ âm hai mươi độ C; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Khi dịch cơ",
+   "layout": "Kính hiển vi 3D mô phỏng sự co giãn đàn hồi hoàn hảo của màng tế bào ếch dưới áp lực băng giá; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chất urea tái",
+   "layout": "Các phân tử urea đan xen giữa các tinh thể đá, làm tròn các góc cạnh nhọn của đá để không đâm thủng mạch máu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Sau khi rã",
+   "layout": "Đồ họa y tế mô phỏng gan ếch gỗ thu hồi đường glucose và đưa lượng urea trở về bàng quang một cách nhịp nhàng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Khả năng điều",
+   "layout": "Hình ảnh phi hành gia tương lai bước vào buồng ngủ đông mô phỏng theo cơ chế của chú ếch gỗ Bắc Cực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Khung cảnh căn phòng Mê Cung Bẫy Giải Mã rộng lớn với các vách tường gương bóng loáng phản chiếu vô tận, ở giữa là một hệ thống ròng rọc, hộp gỗ khóa số và các ống thủy tinh phức tạp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Ở trung tâm",
+   "layout": "Cận cảnh một cỗ máy cơ học cổ điển tinh xảo bằng đồng và gỗ: có các ngăn kéo bí mật bị khóa xích, các rãnh trượt bi kim loại và một chiếc ống thủy tinh dài chứa chiếc chìa khóa nổi; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "8 bước",
+     "side": "R",
+     "y": 400,
+     "value": "8 BƯỚC",
+     "label": "Câu đố liên hoàn",
+     "target": [
+      0.5,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Các kỹ sư",
+   "layout": "Hình vẽ bản thiết kế kỹ thuật của cỗ máy câu đố với các mũi tên chỉ hướng chuyển động của bánh răng và đòn bẩy cơ học phức tạp (không chữ, không số); {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bất kỳ một",
+   "layout": "Một chiếc bẫy lồng sắt treo lơ lửng trên trần nhà nhấp nháy đèn cảnh báo đỏ rực sẵn sàng sập xuống; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhưng họ đã",
+   "layout": "{CROW} sà xuống đậu trên đỉnh cỗ máy, nghiêng đầu nhìn ngắm toàn bộ hệ thống bánh răng với ánh mắt tinh quái, mỏ kẹp chiếc kìm kim loại nhỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đặc vụ Quạ",
+   "layout": "Đồ họa so sánh bộ não của quạ đen và não khỉ đột: các vùng xử lý logic và công cụ của quạ phát sáng rực rỡ các mạng lưới nơ-ron thần kinh màu vàng ánh kim; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nghiên cứu khoa",
+   "layout": "Tranh minh họa thí nghiệm khoa học nổi tiếng: một chú quạ đen thông minh đang dùng mỏ gắp từng món dụng cụ để mở lần lượt tám ngăn hộp gỗ theo thứ tự chuẩn xác; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chúng hiểu rõ khái",
+   "layout": "Sơ đồ các bước tư duy liên kết hình chuỗi xích màu xanh lục trong tâm trí chú quạ thông minh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bước một: Quạ",
+   "layout": "{CROW} dùng mỏ cắp chiếc que ngắn, khéo léo luồn vào khe nứt trên vách tường đá, kéo ra một chiếc que thép dài hơn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bước hai: chiếc",
+   "layout": "Cận cảnh chiếc mỏ đen bóng của {CROW} bẻ cong đầu sợi dây thép thành hình móc câu chuẩn xác như một người thợ rèn điêu luyện; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bước ba: anh",
+   "layout": "{CROW} ngậm móc câu kéo đứt sợi dây treo, thả rơi chiếc túi chứa các viên sỏi đặc xuống đất một cách nhẹ nhàng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bước bốn: tháo",
+   "layout": "{CROW} đậu trên miệng ống thủy tinh cao và hẹp, bên dưới đáy ống là chiếc chìa khóa đồng thau đang nổi bập bềnh ngoài tầm với của mỏ chim; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đây là bài",
+   "layout": "Trên bàn có hai đĩa đồ vật: một đĩa chứa các mẩu xốp nhựa nhẹ nổi trên mặt nước, một đĩa chứa những viên sỏi đá đặc chìm sâu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nếu thả xốp",
+   "layout": "Mô hình so sánh: thả xốp thì mực nước không đổi, thả sỏi đặc thì mực nước dâng cao theo định luật Ac-si-mét; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Quạ Đen thậm",
+   "layout": "{CROW} dùng mỏ gắp từng viên sỏi đá đặc, thả từng viên từng viên một vào trong ống thủy tinh: tõm... tõm... tõm! {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Khả năng ước",
+   "layout": "Mặt nước dâng lên vừa khít mép bình, chiếc chìa khóa nổi lên trong tầm với hoàn hảo của mỏ quạ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Mực nước dâng",
+   "layout": "Chiếc chìa khóa trồi lên sát miệng bình thủy tinh, {CROW} ngậm lấy chiếc chìa khóa đồng, nháy mắt tinh nghịch về phía camera an ninh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bước năm: cắm",
+   "layout": "{CROW} tra chìa khóa vào ổ, vặn một vòng kêu tách, ngăn kéo tự động trượt ra để lộ một quả tạ sắt tròn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bước sáu và",
+   "layout": "Quả tạ sắt lăn rầm rập trên rãnh trượt kim loại, đè bẹp chiếc bẫy kẹp nguy hiểm và làm bật tung chiếc then cài cửa chính; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và bước tám",
+   "layout": "Hệ thống ròng rọc khổng lồ chuyển động kéo cánh cổng sắt lớn mở toang, ánh sáng từ nửa sau pháo đài rọi vào mê cung; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhưng ngay khi",
+   "layout": "Các camera giám sát tự động gắn trên các vách gương xoay nòng lia về phía chú quạ đen, các tia quét nhận dạng khuôn mặt màu đỏ quét qua quét lại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Loài quạ có",
+   "layout": "{CROW} nhìn thẳng vào ống kính camera với vẻ mặt đầy thách thức, không một chút bối rối sợ hãi; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "5 năm",
+     "side": "L",
+     "y": 430,
+     "value": "5 NĂM",
+     "label": "Trí nhớ nhận diện",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Quạ Đen thò",
+   "layout": "{CROW} dùng mỏ nghiêng tấm gương kính, hắt luồng ánh sáng chói lòa làm mù hoàn toàn cảm biến quang học của camera an ninh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chưa hết, anh",
+   "layout": "Dây cáp điện bên trong camera tóe lửa chập mạch, tia lửa điện bắn ra rực rỡ trong bóng tối; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Xèo xèo! Cảm",
+   "layout": "Màn hình điều khiển camera của pháo đài nhiễu loạn thành các vạch sọc trắng đen vô định, không thể ghi lại bất kỳ hình ảnh nào của biệt đội; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Biểu tượng câu",
+   "layout": "{BOARD} cập nhật tín hiệu: thanh tiến độ phá khóa đã vượt qua mốc một nửa, ánh sáng xanh ngọc bích chiếm lĩnh bản đồ pháo đài; {CHIEF} gật đầu tán thưởng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Quạ Đen bay sà",
+   "layout": "{CROW} đậu trên vai bức tượng đá cẩm thạch, đầu nghiêng ngả điệu đà, vẻ mặt tự mãn của một bậc thầy trí tuệ vừa phá giải cỗ máy thế kỷ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhưng từ sâu",
+   "layout": "Nước ngầm bắt đầu rỉ qua các khe nứt sàn đá, tiếng gầm gào của dòng nước áp lực cao vang lên đe dọa từ sâu trong lòng pháo đài; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hào nước ngầm",
+   "layout": "Cận cảnh {CHIEF} nhìn vào bể nước dã chiến: \"Đặc vụ Cá Voi Sát Thủ, căn hầm ngập nước đã chuẩn bị xong. Cho chúng thấy thế nào là sức mạnh của hải quân bầy đàn!\"",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đại ca biển",
+   "layout": "{ORCA} nhô vây lưng lên khỏi mặt nước, ánh mắt rực lửa chuẩn bị xé toạc cánh cửa van đập nước ngầm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Trí tuệ của",
+   "layout": "Hình ảnh một đàn quạ đen bay lượn trên ngọn cây, cùng phát tín hiệu cảnh báo khi nhìn thấy bóng dáng kẻ thù xuất hiện; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Khi đối đầu",
+   "layout": "{CROW} nghiêng đầu nhìn vào gương, dùng mỏ chạm nhẹ vào mặt kính rồi quay lưng lại tìm công tắc thật sự; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Khả năng tư",
+   "layout": "{CROW} nháy mắt tinh nghịch, ngậm chiếc kìm cắt đứt sợi dây bẫy cuối cùng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Mỗi một bước",
+   "layout": "Bàn cờ vua bằng đá với quân cờ hình chú quạ đen chiếu tướng vua cờ cơ học của pháo đài; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Anh chàng không",
+   "layout": "{CROW} giấu mẩu dây đồng vào dưới cánh, nháy mắt tinh quái trước khi sải cánh bay tiếp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": 0,
+   "layout": "Căn phòng chỉ huy của {CHIEF}, bàn điều khiển bừa bộn những vỏ chai nước tăng lực, lông chim bay lả tả và màn hình liên lạc đang nhấp nháy đèn báo lỗi âm thanh; {CHIEF} đỡ trán bất lực.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Ngay giữa thời",
+   "layout": "Chiếc loa truyền thanh rung bần bật, phát ra những tiếng rôm rốp rào rạo chói tai như tiếng một tảng đá đang bị máy nghiền xi măng nghiền nát; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Rộp! Rộp! Xoàn",
+   "layout": "{FALCON} trượt chân bám chặt móng vào gờ đá, {CROW} chui tọt vào trong một chiếc mũ sắt quân sự trốn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "\"Báo động đỏ!",
+   "layout": "Chim Cắt hét to vào bộ đàm trong tư thế sẵn sàng kích hoạt ba lô phản lực để bay thoát thân; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Chỉ Huy Mật",
+   "layout": "Màn hình chính phóng to cận cảnh khuôn mặt của {CAMEL}: anh chàng đang đứng ung dung tự tại, hai hàm răng to tướng nhai tóp tép một nhánh xương rồng sa mạc đầy gai nhọn hoắt ngay sát mic thu âm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Chiếc micro dã",
+   "layout": "Cận cảnh miệng của {CAMEL} với các mấu sừng hình nón cứng như đá bên trong má, nghiền nát những chiếc gai nhọn sắc bén một cách ngon lành như nhai bim bim; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Bên trong vòm",
+   "layout": "Hình vẽ giải phẫu vòm miệng lạc đà với các gai sừng nhú papillae xếp lớp như những chiếc khiên che chở bảo vệ mô mềm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "\"Đặc vụ Lạc",
+   "layout": "Cận cảnh {CHIEF} đập mạnh tay xuống bàn làm chiếc bút nhảy tưng lên, mắt tóe lửa giận dữ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Dạ... cháu xin",
+   "layout": "{CAMEL} chớp chớp hàng mi dày rợp bóng, nở nụ cười hiền lành ngơ ngác, thè chiếc lưỡi dài liếm mép giấu nhánh xương rồng ra sau lưng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Xương rồng này",
+   "layout": "{CAMEL} thò đầu vào ống kính camera nháy mắt tinh nghịch làm cả phòng chỉ huy phì cười; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Cơn giận của",
+   "layout": "Khung cảnh ban đêm ngoài sân pháo đài, một cây gai bồ kết khổng lồ với những chiếc gai nhọn hoắt cắm tua tủa, {SHRIKE} đang đậu trên cành cao đảo mắt nhìn quanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Bách Thanh có",
+   "layout": "Cành cây gai của bách thanh cắm đầy những chiến lợi phẩm kỳ dị: một mẩu dây đồng, một chiếc cúc áo kim loại, một con thằn lằn khô và... một chiếc thẻ từ màu đỏ phát sáng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Và bi kịch",
+   "layout": "Cận cảnh chiếc thẻ từ dập nổi biểu tượng điệp viên màu bạc bị một chiếc gai nhọn đâm xuyên thủng qua góc thẻ, đung đưa trong gió đêm lạnh lẽo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Báo cáo Chỉ",
+   "layout": "{SHRIKE} tự hào ưỡn ngực báo cáo qua bộ đàm, chiếc mỏ khoằm sắc như dao găm vỗ vỗ vào chiếc thẻ từ đung đưa trên gai; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "3 ngày",
+     "side": "L",
+     "y": 420,
+     "value": "3 NGÀY",
+     "label": "Bản năng cắm gai",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Đây là kỹ",
+   "layout": "{SHRIKE} khoanh hai cánh trước ngực vẻ mặt cực kỳ tự mãn với chiến tích bảo vệ tài sản; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "\"Bách Thanh ơi",
+   "layout": "{CHIEF} ngửa mặt lên trần nhà than trời, hai cánh ôm lấy đầu, chiếc kính râm suýt rơi xuống sàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Chưa hết, thảm",
+   "layout": "Dưới chân bàn, một hàng dài hàng ngàn chú kiến cắt lá đang hối hả diễu hành, vác trên lưng những mảnh vải màu đen tuyền cắt tỉa cực kỳ vuông vắn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Chim Cắt Lớn vừa",
+   "layout": "{FALCON} nhìn xuống ngực áo rách tơi tả, chiếc cà vạt cụt lủn chỉ còn lại đúng cái củ ấu quanh cổ, miệng há hốc không thốt nên lời; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Báo cáo: đơn",
+   "layout": "{ANT_CORPS} giơ cao chiếc kéo hàm răng thép bóng loáng, đồng thanh hô to vẻ mặt hớn hở của những người nông dân được mùa lá tốt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Vườn nấm Leucocoprinus",
+   "layout": "Những chú kiến tí hon reo hò nhảy múa quanh mảnh vải lụa đen vừa cắt được; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Chim Cắt tức",
+   "layout": "{FALCON} xù lông quát tháo, đàn kiến xếp thành hình chiếc khiên lá chắn phòng thủ kiên cố, Quạ Đen đứng bên cạnh ôm bụng cười ngặt nghẽo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "\"Trật tự ngay!",
+   "layout": "{CHIEF} đứng phắt dậy, đập bàn cái rầm, chiếc máy tính bảng hologram phát ra một tiếng bíp đanh thép lập lại kỷ cương quân ngũ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Toàn đội lập",
+   "layout": "Màn hình trung tâm hiện lên hình ảnh một đập nước ngầm khổng lồ bằng bê tông cốt thép, dòng nước cuồn cuộn chảy xiết với áp suất hàng trăm át-mốt-phe sẵn sàng cuốn phăng mọi thứ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Cửa Ải 5: Hào",
+   "layout": "Khung cảnh cửa van xả lũ khổng lồ mở ra, dòng nước đen ngòm xoáy tròn dữ dội dưới đáy vực sâu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Cá Voi Sát",
+   "layout": "{ORCA} lướt đi dũng mãnh trong làn nước ngầm cuồn cuộn, ánh mắt lóe lên sự thống trị tuyệt đối của kẻ săn mồi đỉnh cao đại dương.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Đại ca biển",
+   "layout": "Bọt nước cuộn trào quanh thân cá voi sát thủ khi anh chàng bắt đầu lặn xuống đáy sâu của con hào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "\"Chỉ Huy ơi,",
+   "layout": "{CAMEL} thò đầu vào ống kính camera nhai nhồm nhoàm làm cả phòng điều khiển lại một phen ôm đầu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Chim Bách Thanh thì",
+   "layout": "{SHRIKE} đứng trên cành gai ưỡn ngực thuyết minh về triết lý bảo vệ tài sản của dòng họ mình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Đại Đội Kiến",
+   "layout": "Những chú kiến cắt lá giơ hai càng ăn mừng rộn rã dưới lòng hầm ngầm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Lạc Đà Sa Mạc hứa",
+   "layout": "{CAMEL} thề thốt giơ một chân trước lên, miệng vẫn còn dính một cọng hoa xương rồng màu vàng rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Chỉ Huy Cú",
+   "layout": "{CHIEF} vỗ nhẹ vào vai lạc đà qua màn hình hologram, bầu không khí lại trở nên ấm cúng lạ thường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": 0,
+   "layout": "Dòng nước ngầm đen ngòm cuồn cuộn chảy xiết giữa hai vách đá dựng đứng sâu hun hút, các xoáy nước khổng lồ sủi bọt trắng xóa cuốn trôi những thanh gỗ vụn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Độ sâu hơn",
+   "layout": "Màn hình quan sát dưới nước tối om, chỉ có những đốm bọt khí trắng xóa lướt qua ống kính máy quay; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Nhưng trong bóng",
+   "layout": "{ORCA} bơi lướt đi uyển chuyển dưới làn nước sâu, thân hình thon dài hình thoi hoàn hảo rẽ nước không một tiếng động, vây lưng cao vút rẽ sóng kiêu hãnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Cơ thể thủy",
+   "layout": "Bản vẽ kỹ thuật động lực học chất lưu: các dòng nước màu xanh lam lướt mượt mà quanh thân cá voi mà không tạo ra các xoáy cuộn cản trở; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Cản đường phía",
+   "layout": "Cận cảnh cánh cửa van đập nước bằng thép khổng lồ bị đóng chặt, trên mặt thép có những vết gỉ sét và các khớp nối thủy lực to bằng bắp đùi người lớn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "\"Đặc vụ Cá",
+   "layout": "{CHIEF} theo dõi tín hiệu định vị phát ra từ chiếc ăng-ten gắn trên vây lưng cá voi, trên màn hình radar chỉ là một đốm sáng cô độc giữa lòng hào nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Cá Voi Sát Thủ không",
+   "layout": "Cận cảnh phần trán vồ tròn trịa chứa đầy khối dầu sinh học của {ORCA}, nơi phát ra các xung âm thanh định vị siêu âm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Khối mỡ dưa",
+   "layout": "Hình cắt lớp 3D khối mỡ trán melon của cá voi: các sóng siêu âm màu vàng kim bị khúc xạ và hội tụ thành một luồng tia âm thanh định hướng chính xác cao; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Tách! Tách! Tách!",
+   "layout": "Các vòng sóng âm thanh siêu âm hình bán cầu màu xanh neon phát ra từ trán cá voi, lan tỏa cực nhanh qua làn nước tối đen; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Cường độ âm",
+   "layout": "Đồ họa sóng âm hiển thị cột đo áp lực âm thanh chạm đỉnh 225 dB, sóng xung kích âm thanh làm rung chuyển cả những hạt cát dưới đáy hào nước; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "225 dB",
+     "side": "R",
+     "y": 390,
+     "value": "225 DB",
+     "label": "Xung Sonar đỉnh cao",
+     "target": [
+      0.5,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Các chùm sóng",
+   "layout": "Các tia sóng dội ngược màu vàng kim thu về hàm dưới của {ORCA}, vẽ nên một bản đồ 3D chi tiết đến từng vết nứt vi mô trên cánh cửa thép trong tâm trí chú cá voi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Phát hiện mục",
+   "layout": "Hình vẽ quét 3D của chiếc then cài bằng thép hiển thị một vệt nứt màu đỏ nhấp nháy ngay tại khớp xoay bản lề; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Âm thanh dội",
+   "layout": "Màn hình mô phỏng não bộ cá voi xử lý tín hiệu âm thanh thành hình ảnh 3D chân thực như chụp cắt lớp vi tính; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Cá Voi Sát Thủ lùi",
+   "layout": "{ORCA} bơi lùi lại vùng nước sâu, uốn mình uyển chuyển tích tụ một lượng động năng khổng lồ vào chiếc vây đuôi rộng hai mét; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Các nghiên cứu",
+   "layout": "Tranh minh họa tư liệu sinh học: đàn cá voi sát thủ bơi dàn hàng ngang quất đuôi đồng nhịp, tạo nên một con sóng khổng lồ cuộn trào dâng cao đánh sập mục tiêu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Và hôm nay,",
+   "layout": "Sơ đồ động lực học: sóng nước bị hai vách đá thu hẹp lại, tạo thành một mũi nhọn áp lực nước cực lớn hướng thẳng vào then cài; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Tăng tốc! Cá",
+   "layout": "{ORCA} rẽ nước lao đi như tên bắn, bọt nước sủi tung trắng xóa dọc hai bên thân mình đen bóng, ánh mắt rực lửa quyết chiến; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Cách cánh cửa",
+   "layout": "{ORCA} xoay mình quật mạnh chiếc vây đuôi khổng lồ xuống nước với một lực hàng chục tấn, tạo ra một tiếng nổ ục kinh hoàng chấn động đáy hào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Ầm! Một bức",
+   "layout": "Con sóng thủy lực cực mạnh đập thẳng vào khớp bản lề cánh cửa van thép, tạo nên một vụ nổ bọt khí chói lòa và tiếng kim loại gãy răng rắc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Răng rắc... rầm!",
+   "layout": "Cánh cửa van thép bật tung khỏi bản lề, dòng nước ngầm ầm ầm đổ qua lỗ hổng thoát ra ngoài hạ lưu, mực nước trong hào ngầm bắt đầu rút xuống nhanh chóng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Áp suất nước",
+   "layout": "Dòng nước thoát nhanh tạo ra tiếng gầm vang dội khắp căn hầm ngầm của pháo đài; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Mực nước trong",
+   "layout": "Nước rút hết để lộ đáy hào bằng phẳng, các bậc thang đá dẫn thẳng lên cửa tầng sáu của pháo đài xuất hiện rõ mồn một; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Cá Voi Sát Thủ nhô",
+   "layout": "{ORCA} ngửa cổ phun nước tạo thành một chiếc cầu vồng nhỏ dưới ánh đèn pin, vẫy hai vây ngực chào Chỉ Huy Mật Vụ đầy ngạo nghễ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Biểu tượng sóng",
+   "layout": "{BOARD} cập nhật tín hiệu: năm biểu tượng cửa ải đã chuyển sang màu xanh ngọc, thanh tiến độ phá khóa đã đạt hơn bảy mươi phần trăm; {CHIEF} đứng dậy vỗ tay tán thưởng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Nhưng thử thách",
+   "layout": "Trước mặt biệt đội là một bức tường thành khổng lồ xây bằng các khối đá granite đen dày hai mét, không có kẽ hở, không có cửa sổ, trơn lỳ như một khối đá nguyên khối; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Đạn pháo thông",
+   "layout": "{CHIEF} nhìn sang {WOODPECKER} đang đội mũ bảo hộ vàng và {ANT_CORPS} đang xếp hàng chỉnh tề: \"Đặc vụ Gõ Kiến và Đại Đội Kiến Cắt Lá, mục tiêu công sự kiên cố nhất đã xuất hiện. Chuẩn bị khai hỏa!\"",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Cặp đôi búa",
+   "layout": "{WOODPECKER} và {ANT_CORPS} cùng đứng trước bức tường đá granite đen tuyền, ánh mắt quyết tâm sẵn sàng cho trận đánh lớn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Sóng âm sonar",
+   "layout": "Các luồng sóng âm thanh màu xanh dương lan tỏa làm rung chuyển các khối đá ngầm dưới đáy hào nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Hệ thống não",
+   "layout": "Đồ họa máy tính mô phỏng não bộ cá voi xử lý bản đồ 3D đáy nước ngầm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Cú quất đuôi",
+   "layout": "{ORCA} lượn một vòng điệu nghệ dưới làn nước trong vắt sau khi đập tan cánh cửa đập; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Sức mạnh của bầy",
+   "layout": "Đàn cá voi sát thủ bơi uốn lượn dưới đại dương xanh biếc, cá voi mẹ dẫn đầu truyền dạy kỹ năng bơi lội cho cá voi con; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Cánh cửa van đập",
+   "layout": "Dòng nước ngầm trong vắt phản chiếu ánh trăng rọi qua khe đá, mở ra con đường thẳng tiến lên các tầng cao; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": 0,
+   "layout": "Bức tường thành khổng lồ xây bằng đá granite đen bóng sừng sững chắn ngang lối đi, bề mặt đá nhẵn thín không một kẽ hở, ánh sáng đèn pha phản chiếu lạnh lùng trên mặt đá; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Độ cứng của",
+   "layout": "Một chiếc búa sắt bổ xuống mặt đá granite nảy ngược trở lại tóe lửa, mặt đá chỉ để lại một vệt trắng mờ nhạt không hề suy suyển; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nhưng đêm nay,",
+   "layout": "{WOODPECKER} đứng chỉnh lại chiếc mũ bảo hộ màu vàng có gắn đèn pin thợ mỏ, vươn chiếc cổ thon dài chắc nịch, chiếc mỏ nhọn hoắt bóng loáng như một mũi khoan bằng hợp kim titan; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Cơ bắp cổ",
+   "layout": "Hình cắt lớp giải phẫu cơ cổ của chim gõ kiến với các bó cơ màu đỏ sẫm đan chéo nhau hình mạng lưới trợ lực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Hãy tưởng tượng",
+   "layout": "Sơ đồ giải phẫu sọ chim gõ kiến với các đường sóng xung kích màu đỏ lan tỏa từ đỉnh mỏ qua hộp sọ, các thông số kỹ thuật hiển thị chi tiết (không chữ, không số); {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Khi gõ vào",
+   "layout": "Đồ họa đo lực va chạm: mũi tên lực hướng thẳng vào đầu chim chỉ mức 1200G, gấp một trăm lần lực gia tốc khiến một phi công chiến đấu tinh nhuệ bất tỉnh nhân sự! {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "1200G",
+     "side": "R",
+     "y": 390,
+     "value": "1200G",
+     "label": "Gia tốc va đập",
+     "target": [
+      0.5,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Và anh chàng",
+   "layout": "Đồng hồ đo tần số dao động hiển thị vạch kim rung liên tục ở mức 20 chu kỳ một giây, hình ảnh mỏ chim chuyển động nhanh đến mức nhòe mờ như cánh quạt máy bay; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "20 lần/giây",
+     "side": "L",
+     "y": 410,
+     "value": "20 LẦN/S",
+     "label": "Tần số mổ",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Với lực đập",
+   "layout": "Cận cảnh gương mặt tươi rói của {WOODPECKER}, đôi mắt tròn xoe linh hoạt, không hề có bất kỳ dấu hiệu hoa mắt chóng mặt nào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Màng nháy mắt",
+   "layout": "Chiếc màng nháy dày bảo vệ mắt chim đóng lại như một chiếc kính bảo hộ thể thao trong khoảnh khắc mỏ chạm đá; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Bí mật nằm",
+   "layout": "Bản vẽ kỹ thuật phóng to ba tầng bảo vệ bên trong hộp sọ chim gõ kiến: xương mỏ đàn hồi, xương móng hyoid và lớp xương xốp vi mô; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Thứ nhất, chiếc",
+   "layout": "Cấu trúc chiếc xương móng hyoid màu vàng nhạt quấn trọn quanh hộp sọ như chiếc dây đai an toàn ba điểm của xe đua Công Thức Một, siết chặt và giữ cố định não bộ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Thứ hai, mỏ",
+   "layout": "Hình phóng to hai đầu mỏ lệch nhau một mi-li-mét: sóng xung kích màu đỏ bị bẻ gãy và trượt dọc theo xương ức chim mà không truyền thẳng vào hộp sọ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Và thứ ba,",
+   "layout": "Lát cắt hiển vi lớp xương xốp hộp sọ trông như một miếng bọt biển kim loại siêu bền, hấp thụ năng lượng va đập trong chớp mắt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Tọa độ điểm",
+   "layout": "Đèn pin thợ mỏ trên mũ của {WOODPECKER} chiếu luồng ánh sáng vàng rực vào ba điểm giao nhau giữa các khối đá granite; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Khai hỏa! Chim",
+   "layout": "{WOODPECKER} vào tư thế tác chiến vững như bàn thạch, chiếc đầu bắt đầu lao vào mổ liên hoàn với tốc độ ánh sáng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Cốc cốc cốc",
+   "layout": "Đầu mỏ gõ liên hồi vào vách đá tạo thành những chùm tia lửa vàng cam rực rỡ, bụi đá mịn bay mù mịt quanh thân chim; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Chỉ trong vòng",
+   "layout": "Bề mặt đá granite rạn nứt thành các đường vân nứt gãy lớn, phát ra những tiếng răng rắc báo hiệu kết cấu bắt đầu suy yếu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Đến lượt lực",
+   "layout": "{WOODPECKER} gạt mồ hôi trên trán gật đầu ra hiệu, từ khe đá phía dưới, hàng ngàn chú kiến cắt lá ùa ra thành một dòng thác màu nâu đỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Đừng coi thường",
+   "layout": "Bản chụp kính hiển vi điện tử quét chiếc răng kìm của kiến cắt lá: đầu răng phát sáng ánh kim loại thép siêu cứng nhờ sự phân bố đồng đều của các nguyên tử kẽm và mangan; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Lớp kim loại nặng này",
+   "layout": "Mô phỏng chiếc răng kiến cắt xuyên qua khoáng vật đá cứng dễ như cắt một lát bơ mềm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Hàng ngàn chú",
+   "layout": "Đàn kiến phối hợp nhịp nhàng: những chú kiến to lớn dùng hàm bẩy các mảnh đá vụn, những chú kiến nhỏ hơn khuân vác các mẩu đá chạy ra xa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Khả năng khuân",
+   "layout": "Dòng kiến di chuyển thoăn thoắt mang theo những viên sỏi đá ra khỏi kẽ nứt, làm rỗng hoàn toàn chân móng bức tường thành; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Khoét móng! Đục",
+   "layout": "Chân móng của khối đá granite khổng lồ bị khoét rỗng một khoảng trống lớn, mất đi điểm tựa thăng bằng trọng lực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Toàn bộ khối",
+   "layout": "{WOODPECKER} lấy đà từ trên cao bổ thẳng một cú mổ trời giáng vào đỉnh khối đá đang mất thăng bằng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Rầm! Khối đá",
+   "layout": "Bức tường boong-ke sụp đổ hoàn toàn trong làn khói bụi mù mịt, ánh sáng đỏ rực từ sa mạc bên ngoài ùa vào soi rọi con đường tiến bước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Biểu tượng boong-ke",
+   "layout": "{BOARD} sáng bừng lên với sáu biểu tượng màu xanh ngọc, thanh tiến độ phá khóa đã chạm mốc tám mươi lăm phần trăm; {CHIEF} nở nụ cười tự hào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Chim Gõ Kiến đậu",
+   "layout": "{WOODPECKER} cùng {ANT_CORPS} tạo dáng chụp ảnh lưu niệm trên đống đổ nát của bức tường đá granite, vẻ mặt rạng rỡ của những anh hùng công binh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nhưng cánh cửa",
+   "layout": "Khung cảnh Cửa Ải Bảy hiện ra: một thung lũng lòng chảo sa mạc cát đỏ rực bốc hơi nóng hầm hập năm mươi độ C, ở giữa là ngọn tháp nhẵn thín dựng đứng chín mươi độ cao chót vót không một gờ bám; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Không thể bay",
+   "layout": "{CHIEF} quay sang nhìn {CAMEL} và {GOAT}: \"Đặc vụ Lạc Đà và Đặc vụ Dê Núi, cánh cửa kho báu nằm trên đỉnh ngọn tháp đó. Hãy cho thế giới thấy thế nào là đỉnh cao sinh tồn!\"",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Cặp đôi sa",
+   "layout": "{CAMEL} và {GOAT} cùng bước qua đống đổ nát, tiến vào chảo lửa sa mạc với ánh mắt kiên định không hề sợ hãi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Để bảo vệ",
+   "layout": "Bản vẽ cắt lớp mắt chim gõ kiến với hệ thống mạch máu co giãn thông minh bảo vệ thị lực tuyệt đối; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Trong khi đó,",
+   "layout": "Kính hiển vi lực nguyên tử quét lớp phủ kim loại nặng trên bề mặt răng kiến; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Sự kết hợp",
+   "layout": "{WOODPECKER} và {ANT_CORPS} cùng đứng trên đống đá vụn mỉm cười tự hào.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nhịp gõ búa",
+   "layout": "{WOODPECKER} gõ mỏ nhịp nhàng như một nghệ sĩ đánh trống cự phách, các tia lửa vàng cam nhảy múa theo từng cú mổ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Hàng ngàn chú kiến cắt lá đồng",
+   "layout": "{ANT_CORPS} xếp hàng dài ngay ngắn như những người lính tí hon kỷ luật và kiên cường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": 0,
+   "layout": "Cảnh thung lũng lòng chảo sa mạc cát đỏ rực bốc lên những làn sóng nhiệt méo mó dưới ánh nắng gắt, nhiệt kế chỉ vạch năm mươi độ C đỏ rực; chính giữa là ngọn tháp đá granite dựng đứng chín mươi độ nhẵn bóng như gương; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Nhiệt độ trên",
+   "layout": "Mặt cát sa mạc đỏ rực nứt nẻ, ảo ảnh hơi nóng bốc lên ngùn ngụt làm mờ ảo khung cảnh phía trước; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "50°C",
+     "side": "R",
+     "y": 390,
+     "value": "50°C",
+     "label": "Lò lửa sa mạc",
+     "target": [
+      0.5,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Mọi phương tiện",
+   "layout": "Một chiếc xe bọc thép hoạt hình nằm lún ngập nửa thân trong cát đỏ, nắp ca-pô bốc khói đen nghi ngút; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Gió sa mạc",
+   "layout": "Bão cát mù mịt quét qua thung lũng, cát bụi bay ràn rạt như những hạt đạn thủy tinh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Nhưng kẻ đang",
+   "layout": "{CAMEL} thong thả bước từng bước dài vững chãi trên cát lún đỏ rực, bàn chân xòe rộng có đệm thịt đàn hồi nâng đỡ cơ thể không hề bị lún; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Trên lưng Lạc",
+   "layout": "{GOAT} đứng vững vàng trên lưng lạc đà, bốn móng guốc bám chắc vào khung đai thồ hàng, bộ lông trắng muốt bay nhẹ trong gió sa mạc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Bí mật nào",
+   "layout": "Bản vẽ y khoa hiển vi phóng to giọt máu của lạc đà dưới kính hiển vi: các tế bào hồng cầu có hình bầu dục độc nhất vô nhị đang phát sáng óng ánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Tất cả các",
+   "layout": "Sơ đồ so sánh: hồng cầu hình tròn của người bị biến dạng và vón cục lại khi thiếu nước, trong khi hồng cầu hình oval của lạc đà vẫn trôi chảy mượt mà qua các mao mạch nhỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Nhưng hồng cầu",
+   "layout": "Dòng tế bào máu hình oval màu đỏ tươi lướt đi êm ả qua các mạch máu ngoằn ngoèo, duy trì việc vận chuyển oxy đến từng tế bào mà không hề bị tắc nghẽn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Và khi gặp",
+   "layout": "Hình mô phỏng một tế bào hồng cầu oval phồng to gấp đôi như một quả bóng cao su bền bỉ mà không hề bị thủng rách; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "240%",
+     "side": "L",
+     "y": 380,
+     "value": "240% NỞ",
+     "label": "Hồng cầu Oval",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Chưa hết, thân",
+   "layout": "Biểu đồ nhiệt kế sinh học dao động tự nhiên từ 34°C đến 41°C, giữ cho cơ thể luôn mát mẻ tiết kiệm tối đa nguồn nước quý giá; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Cộng thêm chiếc",
+   "layout": "Cắt lớp khoang mũi xoắn ốc của lạc đà: các luồng hơi nước thở ra bị giữ lại bởi lớp màng nhầy và tái hấp thu ngược trở lại cơ thể; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Bướu mỡ trên",
+   "layout": "Hình mô phỏng các phân tử mỡ trong bướu lạc đà chuyển hóa thành các giọt nước tinh khiết nuôi dưỡng cơ thể; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Lạc Đà sải",
+   "layout": "{CAMEL} dừng lại ngay sát chân tháp đá, quỳ hai chân trước xuống thật êm ái để Dê Núi bước xuống đất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Trước mặt họ",
+   "layout": "Góc nhìn từ chân tháp nhìn thẳng lên đỉnh: vách đá granite dựng đứng chín mươi độ chót vót, nhẵn bóng không một bậc thang, đỉnh tháp là chiếc cầu treo đóng chặt; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "90°",
+     "side": "R",
+     "y": 410,
+     "value": "VÁCH 90°",
+     "label": "Thách thức trọng lực",
+     "target": [
+      0.5,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Bất kỳ một",
+   "layout": "{GOAT} ngẩng cao đầu nhìn lên đỉnh tháp, ánh mắt tự tin của kẻ thống trị những đỉnh núi cheo leo nhất thế giới; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Vũ khí bí",
+   "layout": "Hình vẽ phóng to mặt dưới của chiếc móng guốc dê núi: viền ngoài là lớp sừng cứng như thép, bên trong là lớp đệm cao su mềm màu đen có khả năng đàn hồi và bám dính cực mạnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Viền ngoài của",
+   "layout": "Cận cảnh chiếc móng guốc bám chặt vào một gờ đá siêu nhỏ, lớp đệm cao su ép sát vào bề mặt đá tạo thành lực hút chân không giữ chặt bàn chân; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Cộng thêm tầm",
+   "layout": "Sơ đồ cơ học khớp vai và cơ lưng của dê núi đang gồng lực kéo toàn thân vươn lên trên vách đá thẳng đứng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Trọng tâm cơ",
+   "layout": "Bản vẽ mô phỏng trọng tâm cơ thể dê núi nằm sát sạt mặt đá thẳng đứng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Xuất kích! Dê",
+   "layout": "{GOAT} phi thân lên không trung, hai móng trước găm chặt vào một gờ đá vô hình trên bề mặt vách đá nhẵn thín; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Một bước... hai",
+   "layout": "{GOAT} thoăn thoắt di chuyển lên cao trên vách đá dựng đứng chín mươi độ, các chân chuyển động nhịp nhàng chuẩn xác đến từng milimet; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Gió lốc sa",
+   "layout": "Cơn bão cát sa mạc quét qua vách đá, nhưng {GOAT} vẫn dán chặt thân mình vào mặt đá, kiên định leo từng mét một; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Cách đỉnh tháp",
+   "layout": "Hai móng trước của {GOAT} bám vào mép đá cuối cùng, thân mình đung đưa giữa không trung trên vực sâu hun hút; {CHIEF} siết chặt nắm tay!",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Gồng cơ vai!",
+   "layout": "{GOAT} bật người một cú ngoạn mục vượt qua mép lan can đá, tiếp đất an toàn trên đỉnh tháp trong tiếng reo hò vang dội của toàn đội; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Đến lượt hạ",
+   "layout": "Cặp sừng đen của {GOAT} húc mạnh vào chiếc cần gạt cáp tời, hệ thống bánh răng rên rỉ quay vòng nhả xích; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Rầm! Chiếc cầu",
+   "layout": "Cầu treo bằng thép dày hạ xuống bắc qua miệng vực sa mạc, tạo nên một con đường đại lộ thênh thang cho toàn bộ biệt đội tiến bước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Toàn bộ bảy",
+   "layout": "{BOARD} sáng rực rỡ với đủ bảy biểu tượng màu xanh ngọc bích, tiếng chuông báo hiệu thành công vang lên giòn giã khắp phòng chỉ huy; {CHIEF} mỉm cười giơ ngón tay cái tán thưởng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Cả 10 đặc",
+   "layout": "Đội lính tuần tra người máy mang súng điện tử và đèn pin pha cực sáng xuất hiện từ các góc hành lang tối, bắt đầu khép chặt vòng vây quanh cổng kho báu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Chỉ Huy Mật",
+   "layout": "{CHIEF} nhìn lên màn hình phụ góc trên: {SHRIKE} đang ẩn mình trong bóng tối của cành cây bồ kết, ánh mắt sắc như dao găm đã khóa chặt toàn bộ mục tiêu lính gác.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Tay súng bắn tỉa bí",
+   "layout": "Cận cảnh chiếc mỏ khoằm sắc như lưỡi liềm của chim bách thanh sáng loáng dưới ánh trăng rằm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Lạc Đà Sa Mạc có",
+   "layout": "Biểu đồ so sánh khả năng chịu mất nước phi thường của lạc đà so với các loài động vật khác; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Dê Núi Bắc Mỹ thì",
+   "layout": "Cận cảnh cặp sừng đen nhọn hoắt của {GOAT} với các rãnh tản nhiệt tự nhiên lấp lánh dưới nắng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Bộ đôi sa",
+   "layout": "{CAMEL} và {GOAT} cùng nhìn lên đỉnh tháp cao chót vót với nụ cười chiến thắng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Bức tường đá",
+   "layout": "Dấu móng guốc sắc nét in trên vách đá granite thẳng đứng như những chiếc huân chương danh dự của bậc thầy leo núi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Lạc Đà Sa Mạc đứng",
+   "layout": "{CAMEL} vẫy tai mừng rỡ, hai bướu mỡ rung rinh nhịp nhàng dưới ánh mặt trời rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": 0,
+   "layout": "Hành lang đá mờ ảo ánh đèn đỏ báo động, một tiểu đội năm người máy tuần tra mang súng điện tử và đèn rọi đang bước đều bước lùng sục khắp các ngóc ngách; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Những chiếc loa",
+   "layout": "Bàn tay kim loại của người máy chỉ huy chuẩn bị gạt chiếc cần báo động tổng lực màu đỏ gắn trên cột trụ hành lang; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Toàn bộ 10",
+   "layout": "Cận cảnh các đặc vụ quay lưng lại, chưa hay biết nguy hiểm đang cận kề phía sau lưng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Các tia quét",
+   "layout": "Những chấm đỏ la-de ngắm bắn dịch chuyển từng tấc một trên sàn đá hoa cương; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Nhưng trên cành",
+   "layout": "{SHRIKE} đậu ẩn mình sau tán lá rậm rạp, dải lông đen ngang mắt trông sắc lạnh như một tay súng bắn tỉa huyền thoại, mỏ ngậm một chùm gai nhọn thép công nghệ cao; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Đừng để vẻ",
+   "layout": "Tranh vẽ phong cách đồ họa Cold War: bóng đen của chim bách thanh in lên vách tường với chiếc mỏ khoằm có móc câu sắc nhọn đáng sợ như một chiếc lưỡi liềm nhỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Bách Thanh là",
+   "layout": "Sơ đồ giải phẫu chiếc mỏ của bách thanh: trên mỏ trên có một chiếc mấu xương sắc nhọn gọi là răng giả tomium, hoạt động như một chiếc kìm bấm chuyên bẻ gãy đốt sống con mồi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Cơ cổ cực",
+   "layout": "Hình mô phỏng hướng chuyển động xoắn vặn lực cơ học của đầu chim bách thanh khi tấn công mục tiêu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Và vũ khí",
+   "layout": "Tranh minh họa tư liệu nghiên cứu: một bụi gai sa mạc cắm đầy những con mồi được treo lơ lửng ngay ngắn như một kho hàng dự trữ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Khi bắt được",
+   "layout": "Cận cảnh chú chim bách thanh dùng mỏ xiên chặt một con cào cào độc lên cành gai nhọn của bụi cây một cách điêu luyện; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Con mồi được",
+   "layout": "Sơ đồ phân hủy chất độc: các phân tử độc tố màu xanh lá cây bốc hơi dần theo thời gian ba ngày, để lại phần thịt an toàn cho chim; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Chưa hết, Bách",
+   "layout": "Bản đồ vệ tinh hiển thị bán kính 500 mét quanh tổ chim, hàng chục chấm đỏ đánh dấu các kho gai nhọn sáng lên đồng loạt trong trí nhớ của chú chim; {NO_HERO}.",
+   "stickers": [
+    {
+     "at": "500 mét",
+     "side": "R",
+     "y": 400,
+     "value": "500 MÉT",
+     "label": "Bản đồ chốt gai",
+     "target": [
+      0.5,
+      0.6
+     ]
+    }
+   ],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Anh chàng biết",
+   "layout": "Đồ thị quản lý chuỗi cung ứng thực phẩm tự nhiên trong trí não chim bách thanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Tọa độ đã",
+   "layout": "Cận cảnh ánh mắt sắc lẹm của {SHRIKE} qua kính ngắm quang học, tâm ngắm khóa chặt chiếc công tắc báo động trên tường hành lang; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Bách Thanh tung",
+   "layout": "{SHRIKE} sà xuống cực nhanh theo đường bay sát mặt đất, thân hình lướt đi thoăn thoắt trong bóng tối mờ ảo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Vút! Vút! Vút!",
+   "layout": "Những chiếc gai thép nhọn hoắt cắm chuẩn xác vào tâm điểm thấu kính của các camera giám sát, tia lửa điện chập mạch nổ tanh tách làm tối đen hệ thống quan sát; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Đội tuần tra bị",
+   "layout": "Người máy chỉ huy đưa bàn tay kim loại ra sát chiếc cần gạt màu đỏ chỉ còn cách đúng năm xăng-ti-mét; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Không kịp nữa",
+   "layout": "Cú mổ chuẩn xác của {SHRIKE} đánh gãy khớp nối ngón tay robot, chiếc then cài rơi rụng lanh canh xuống sàn đá; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Anh chàng nhanh",
+   "layout": "Chiếc cọc gai thép găm chặt chiếc cần gạt báo động vào sâu trong vách đá, khóa chết công tắc còi hú ở vị trí tắt vĩnh viễn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Đội tuần tra người máy mất",
+   "layout": "Năm người máy tuần tra va vào nhau kêu loảng xoảng, chập mạch điện tóe lửa nằm bất động trên sàn đá; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Bách Thanh đậu",
+   "layout": "{SHRIKE} đứng hiên ngang trên đống tàn tích của đội tuần tra, mỏ ngậm một chiếc cúc áo kim loại chiến lợi phẩm, giơ một ngón cánh chào báo cáo chiến công hiển hách.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "\"Ngoại vi đã",
+   "layout": "{CHIEF} trong phòng điều khiển thở phào nhẹ nhõm, mỉm cười gật đầu: \"Làm tốt lắm Đặc vụ Bách Thanh. Đường lui đã hoàn toàn an toàn!\"",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Mối đe dọa",
+   "layout": "Khung cảnh cánh cổng vòm khổng lồ bằng vàng ròng và đá quý của Phòng Châu Báu phát sáng lung linh huyền ảo giữa lòng pháo đài u tối; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Tất cả các",
+   "layout": "Cả mười đặc vụ đứng xếp hàng ngay ngắn trước cánh cổng vàng, ánh mắt hồi hộp và tò mò nhìn vào khe cửa đang từ từ hé mở... {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Giờ phút lịch",
+   "layout": "Ánh sáng vàng kim từ khe cửa chiếu rọi lên khuôn mặt đầy háo hức của mười chiến binh dũng cảm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Kỹ thuật săn",
+   "layout": "Bản đồ sinh thái mô phỏng các chốt gai dự trữ thức ăn của chim bách thanh trải dài khắp lãnh thổ săn mồi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Nhờ chiếc mỏ",
+   "layout": "Mô hình cơ học lực cắn tập trung tại đỉnh mấu răng tomium của chim bách thanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Sau khi vô",
+   "layout": "{SHRIKE} đứng bất động trên cành cao, đôi mắt sắc lẹm canh chừng mọi biến động từ xa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Khả năng ẩn",
+   "layout": "Bộ lông xám trắng của {SHRIKE} tiệp màu hoàn hảo với thân cây cổ thụ, chỉ có đôi mắt sáng quắc là chuyển động; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Toàn bộ hành",
+   "layout": "Hành lang đá thông thoáng không còn bóng dáng một người máy tuần tra nào, ánh đèn êm dịu dẫn đường vào phòng trung tâm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": 0,
+   "layout": "Cánh cổng vòm mạ vàng khổng lồ mở toang ra một căn phòng mái vòm tráng lệ, ánh sáng vàng kim và hào quang tím huyền bí tỏa ra từ trung tâm căn phòng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Mười đặc vụ",
+   "layout": "Toàn bộ mười đặc vụ bước vào căn phòng, ánh mắt sáng rực đầy tò mò và thán phục nhìn quanh những bức tường cẩm thạch khắc hoa văn cổ đại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Chính giữa căn",
+   "layout": "Một chiếc bệ đá đen bóng bẩy đặt chiếc két sắt hình lập phương cổ kính, bốn góc két sắt có chạm khắc biểu tượng của bốn nguyên tố: gió, nước, đất và lửa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Bốn bức bích",
+   "layout": "Tranh tường mosaic phát sáng tái hiện cây phả hệ tiến hóa sinh học rực rỡ với hàng ngàn nhánh sinh vật; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Các đặc vụ",
+   "layout": "Cả đội quây quanh chiếc bệ đá, ánh mắt lấp lánh sự phấn khích của những người sắp được nhận phần thưởng xứng đáng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Chuột Chũi Trũi",
+   "layout": "{MOLERAT} chảy nước miếng mơ màng ôm hai tay trước ngực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Quạ Đen thì",
+   "layout": "{CROW} đứng xoa xoa hai cánh mắt sáng lấp lánh tưởng tượng chiếc tổ bằng vàng bạc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Cá Voi Sát",
+   "layout": "{ORCA} nhô đầu lên ngoác miệng cười để lộ hàm răng trắng bóng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Còn Lạc Đà",
+   "layout": "{CAMEL} chớp chớp hàng mi cong vút mỉm cười hiền lành; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Dê Núi mong",
+   "layout": "{GOAT} và {ANT_CORPS} cùng hướng mắt về chiếc két sắt với nụ cười rạng rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Chỉ Huy Mật",
+   "layout": "{CHIEF} bấm nút xác nhận cuối cùng, các chốt khóa nặng nề kêu lách cách trượt mở, nắp chiếc két sắt từ từ mở bung ra với một làn khói trắng mờ ảo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Một luồng ánh",
+   "layout": "Mười đặc vụ cùng trố mắt nhìn vào bên trong lòng chiếc két sắt, miệng há hốc không thốt nên lời; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Bên trong chiếc",
+   "layout": "Lòng chiếc két sắt chỉ có một chiếc bệ nhung đỏ đơn sơ, trên đó đặt một chiếc gương tròn cổ kính bằng đồng và một cuộn da cừu cũ kỹ ngả vàng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Ủa... kho báu",
+   "layout": "{MOLERAT} ngơ ngác thò đầu vào trong lòng két sắt ngó nghiêng, hai chân trước cào cào lớp vải nhung trống không; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Chỉ Huy Mật Vụ không",
+   "layout": "{CHIEF} nâng chiếc gương đồng sáng bóng lên cao, mặt gương phản chiếu rõ mồn một khuôn mặt của mười loài động vật đang đứng quây quần xung quanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "\"Các bạn hãy",
+   "layout": "Cận cảnh mặt gương phản chiếu đôi mắt rực lửa của chim cắt, hàm răng của chuột chũi, khăn len của ếch gỗ, mỏ quạ đen, vây cá voi, mỏ chim gõ kiến, bướu lạc đà, sừng dê núi, móc gai bách thanh và hàm răng thép của kiến; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Chỉ Huy từ",
+   "layout": "{CHIEF} giở cuộn da cừu phát sáng những dòng chữ cổ màu vàng kim rực rỡ, ánh sáng ấm áp lan tỏa khắp gian phòng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "\"Vàng bạc rồi",
+   "layout": "Tranh minh họa lịch sử tiến hóa của Trái Đất: từ những sinh vật đơn bào cổ đại vượt qua kỷ băng hà, núi lửa phun trào để tiến hóa thành muôn loài kỳ diệu ngày nay; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Kho báu vĩ",
+   "layout": "Hình ảnh đồ họa hào quang bao quanh từng đặc vụ: mỗi loài vật tỏa sáng một vầng hào quang rực rỡ tượng trưng cho sức mạnh tiến hóa của mình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Chiếc mũi nén",
+   "layout": "Ba biểu tượng sinh học tuyệt mỹ xuất hiện lơ lửng trên không trung: luồng khí nén chim cắt, phân tử đường fructose của chuột chũi và tinh thể băng ngọc bích của ếch gỗ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Trí tuệ chế",
+   "layout": "Ba kỳ quan kỹ thuật tiếp theo bay lượn trên không: chiếc móc câu của quạ, sóng âm thanh cá voi và chiếc đai an toàn sọ não của chim gõ kiến; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Tế bào máu",
+   "layout": "Bốn mảnh ghép cuối cùng hòa quyện vào nhau tạo thành một quả cầu ánh sáng sinh học khổng lồ rực rỡ giữa phòng châu báu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Mỗi loài trong",
+   "layout": "Toàn bộ mười đặc vụ nhìn nhau, ánh mắt từ thất vọng chuyển sang sự tự hào khôn xiết khi nhận ra giá trị vô giá của chính bản thân mình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Và điều kỳ",
+   "layout": "Mười đặc vụ cùng khoác vai nhau, nắm lấy tay nhau tạo thành một vòng tròn gắn kết bền chặt quanh bệ đá cổ xưa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Đó chính là",
+   "layout": "Quả cầu ánh sáng nở bung ra thành hình ảnh Trái Đất xanh ngắt bao la với muôn loài muôn thú cùng chung sống hòa bình dưới ánh mặt trời rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Biệt Đội Đặc",
+   "layout": "{CHIEF} nâng ly chúc mừng mười người đồng đội anh hùng trong hào quang rực rỡ của căn phòng châu báu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Nhưng khoảnh khắc",
+   "layout": "Trần nhà rung chuyển dữ dội, bụi đá rơi lả tả xuống sàn, một chiếc đèn báo động màu tím than bắt đầu quay tít mù kèm theo tiếng còi hú đinh tai nhức óc! {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Chiếc bệ đá tự",
+   "layout": "Một chiếc đồng hồ đếm ngược kỹ thuật số khổng lồ màu đỏ rực xuất hiện trên vách tường đá, bắt đầu đếm lùi từng giây: 03:00... 02:59... 02:58! {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Cuộc đột nhập",
+   "layout": "{CHIEF} hét lớn vào bộ đàm: \"Toàn đội kích hoạt phương án thoát hiểm khẩn cấp! Chạy ngay!\" Cả mười đặc vụ cùng quay đầu lao vút ra ngoài hành lang trong tiếng nổ rung chuyển đất trời!",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Cả căn cứ",
+   "layout": "Cảnh mười đặc vụ cùng phóng nhanh qua cánh cửa vòm khi các khối đá khổng lồ bắt đầu rơi rụng như mưa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Hàng trăm triệu năm qua,",
+   "layout": "Tranh minh họa Trái Đất qua các kỷ địa chất lịch sử: từ đại cổ sinh cho đến kỷ băng hà và sự trỗi dậy của các loài thú; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Nhưng sự sống",
+   "layout": "Toàn bộ mười đặc vụ đứng quây quần bên nhau, ánh sáng từ cuộn Bản Thiết Kế Tiến Hóa soi rọi khuôn mặt đầy xúc động; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Biệt Đội Đặc Nhiệm Sinh Học đã chứng",
+   "layout": "Mười đặc vụ cùng đặt tay lên cuộn da cừu cổ xưa, tuyên thệ bảo vệ sự sống muôn loài trên hành tinh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Khoảnh khắc chiếc",
+   "layout": "Mười đặc vụ cùng soi bóng vào chiếc gương đồng cổ kính, nụ cười rạng rỡ của những người chiến thắng nở trên môi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Bản Thiết Kế Tiến Hóa Tối",
+   "layout": "Ánh sáng vàng kim từ cuộn da cừu bao trùm lấy toàn bộ căn phòng, sưởi ấm tâm hồn của mỗi người chiến sĩ điệp viên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": 0,
+   "layout": "Trần hang đá nứt toác từng mảng lớn, những khối đá nặng hàng tấn rơi ầm ầm xuống sàn hành lang, khói bụi mịt mù che khuất toàn bộ tầm nhìn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Các hệ thống",
+   "layout": "Những cánh cửa thép ngăn cháy dày cộp lần lượt rơi thẳng đứng từ trên trần xuống sàn đá kêu rầm rầm, từng lối đi dần dần bị bịt kín; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "\"Không được bỏ",
+   "layout": "{CHIEF} vừa chạy vừa ôm chặt chiếc máy tính bảng và cuộn da cừu cổ, liên tục quan sát bản đồ thoát hiểm đang chớp đỏ liên hồi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Cửa sập số",
+   "layout": "Cánh cửa thép nặng nề chỉ còn cách mặt đất đúng bốn mươi xăng-ti-mét, chuẩn bị khóa chết đường thoát của cả đội; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Đến lượt cặp",
+   "layout": "{WOODPECKER} bổ mỏ thần tốc vào khe trượt bản lề, các tia lửa nổ tung tóe chêm cứng một góc cửa làm cánh cửa khựng lại trong tích tắc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Ngay lập tức,",
+   "layout": "Hàng ngàn chú kiến cắt lá cùng gồng mình kéo căng sợi dây thép chịu lực, tạo ra một khoảng trống vừa đủ cho đồng đội chui qua; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Dê Núi Bắc",
+   "layout": "{GOAT} nhanh nhẹn quỳ chân xuống, {MOLERAT} và {FROGS} thoăn thoắt nhảy tót lên lưng chú dê núi bám chặt vào bờm lông dày; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Dê Núi co",
+   "layout": "{GOAT} trượt qua khe cửa hẹp ngoạn mục như một vận động viên trượt băng, cánh cửa sắt đóng sầm sau lưng kêu rầm một tiếng đinh tai! {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Thời gian còn",
+   "layout": "Một bức tường lửa đỏ rực bốc cao ba mét chắn ngang lối đi duy nhất, hơi nóng bốc lên ngùn ngụt sẵn sàng thiêu rụi bất kỳ ai bước tới gần; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "\"Dạt ra hai",
+   "layout": "Một nắp cống kim loại bật tung lên trời, {ORCA} nhô đầu lên từ kênh nước áp lực cao chạy dọc hành lang; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Cá Voi Sát Thủ hít",
+   "layout": "Cột nước trắng xóa bắn vút ra từ lưng {ORCA} dập thẳng vào tâm điểm đám cháy, hơi nước bốc lên xèo xèo làm tắt ngấm ngọn lửa trong vòng ba giây! {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Lạc Đà Sa",
+   "layout": "{CAMEL} chạy chắn ngang phía trên, lớp lông dày và bướu mỡ kiên cố như một tấm khiên chống đạn bảo vệ toàn bộ đội hình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Các tảng đá",
+   "layout": "Đá dăm nảy tưng tưng trên lưng lạc đà rơi xuống sàn mà {CAMEL} vẫn thản nhiên phi nước kiệu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Thời gian còn lại: 50",
+   "layout": "Màn hình radar quét lối thoát bị nhiễu loạn hoàn toàn thành một màu xám xịt, không ai nhìn thấy đường đi trong làn khói đen mù mịt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Quạ Đen bay",
+   "layout": "{CROW} bay lượn trên cao, phát hiện một luồng khí trong lành màu xanh lam đang hút về phía cuối hành lang bên phải; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "\"Rẽ phải! Cổng",
+   "layout": "{CROW} bay dẫn đầu như một ngọn hải đăng trong đêm, toàn bộ biệt đội nối đuôi nhau chạy thục mạng theo hướng chú quạ chỉ dẫn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Thời gian còn lại: 20",
+   "layout": "Cánh cửa thép thoát hiểm dẫn ra bầu trời đêm đang đóng kín mít, trên ổ khóa có một khe quẹt thẻ từ nhấp nháy đèn đỏ chờ mã kích hoạt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "\"Chiếc thẻ từ",
+   "layout": "{CHIEF} sờ vào túi áo khoác trống rỗng, mặt biến sắc khi nhớ lại tai nạn cắm gai ở cây bồ kết ngoài sân! {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Cách đó 50",
+   "layout": "Cận cảnh chiếc thẻ từ đung đưa trên cành gai sắc nhọn ngoài sân, cách quá xa tầm tay của bất kỳ ai dưới mặt đất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Thời gian còn lại: mười",
+   "layout": "Đồng hồ đếm ngược nhấp nháy đỏ rực: 00:07... 00:06... 00:05! {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "\"Để đó cho",
+   "layout": "{FALCON} kích hoạt toàn bộ sức mạnh động cơ cánh, bổ nhào một đường cong hoàn hảo qua ngọn cây bồ kết; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Móng vuốt vàng",
+   "layout": "Chiếc thẻ từ màu đỏ bay vút trong không trung, rơi trúng vào lòng bàn tay của {CHIEF} một cách hoàn hảo đến từng mi-li-mét; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Xoẹt! Chỉ Huy",
+   "layout": "Cánh cửa bật mở, luồng gió đêm mát rượi ùa vào, phía dưới là con dốc thoải dẫn ra thung lũng an toàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Thời gian còn lại: 2",
+   "layout": "Mười đặc vụ và Chỉ Huy cùng phi thân ra ngoài không trung trong một cú nhảy điện ảnh ngoạn mục, dưới ánh trăng vằng vặc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "ẦM! ĐOÀNG! Pháo",
+   "layout": "Quả cầu lửa nổ tung rực rỡ phía sau lưng, khói bụi bốc cao ngùn ngụt soi sáng hình bóng mười đặc vụ đang lăn tròn tiếp đất an toàn trên sườn cỏ xanh mướt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Toàn đội lấm",
+   "layout": "Mười đặc vụ nằm thở hổn hển trên thảm cỏ xanh, nhìn ngọn lửa phía xa rồi nhìn nhau, đồng loạt bật cười sảng khoái và đập tay ăn mừng chiến thắng ngoạn mục! {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Biệt Đội Đặc",
+   "layout": "Hình ảnh toàn đội đứng bên nhau ngắm ánh lửa xa xa, một cái kết mãn nhãn cho chiến dịch thế kỷ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Từng giây phút",
+   "layout": "Cảnh mười đặc vụ phối hợp nhịp nhàng vượt qua từng chướng ngại vật trong lòng pháo đài đang sụp lở; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Không có sự",
+   "layout": "Hình ảnh {CAMEL} chở các bạn nhỏ, {ORCA} dập lửa, {CROW} dẫn đường và {FALCON} bay xé gió chộp thẻ từ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Cú nhảy ngoạn",
+   "layout": "Mười bóng đen đặc vụ in trên nền quả cầu lửa nổ tung rực sáng cả bầu trời đêm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Những bước chân tháo",
+   "layout": "Hình ảnh mười đặc vụ dìu nhau bước đi trên triền đồi hoa dại dưới ánh trăng thanh bình sau trận nổ kinh hoàng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Pháo Đài Tự Nhiên đã",
+   "layout": "Bầu trời đêm lấp lánh ngàn vì sao sáng, soi rọi con đường trở về căn cứ bình yên của biệt đội anh hùng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": 0,
+   "layout": "Cảnh bình minh rạng rỡ sau cơn bão lửa, ánh mặt trời vàng ấm áp chiếu rọi thung lũng hoa dại thanh bình, xa xa là làn khói mờ ảo của pháo đài đã sụp đổ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Căn phòng tác",
+   "layout": "Căn phòng chỉ huy dã chiến bằng lều bạt quân sự ấm cúng, ánh đèn vàng ấm áp, bàn tác chiến đã được dọn sạch sẽ, bày biện các món ăn ngon; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Chỉ Huy Mật",
+   "layout": "Cận cảnh con dấu mực đỏ hình tròn \"HOÀN TẤT XUẤT SẮC\" in đậm nét trên bìa tập hồ sơ kraft vàng ngả bóng có ảnh chụp tập thể mười đặc vụ; {CHIEF} mỉm cười hài lòng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "\"Các đặc vụ",
+   "layout": "{CHIEF} nâng ly nước quả lên cao chúc mừng, mười đặc vụ đứng quây quần xung quanh vỗ tay reo hò rộn rã; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Biệt Đội Đặc",
+   "layout": "Toàn đội cùng nâng ly chúc mừng trong ánh sáng ban mai rực rỡ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Và bây giờ",
+   "layout": "Mười chiếc hộp quà bọc giấy màu sắc rực rỡ xếp hàng dài trên bàn, mỗi hộp có dán một chiếc nhãn tên riêng biệt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Đặc vụ Chuột",
+   "layout": "{MOLERAT} sung sướng ôm chặt bao khoai tây to tướng, hai chân trước vẫy vẫy, đeo chiếc huy chương bạc hình củ khoai tây lấp lánh trước ngực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Đặc vụ Quạ",
+   "layout": "{CROW} ngậm chiếc kìm mạ vàng sáng loáng, đầu nghiêng ngả điệu đà, khoái chí cất tiếng kêu quạ quạ khoe khoang với cả đội; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Đặc vụ Chim",
+   "layout": "{FALCON} đứng trước gương chỉnh lại chiếc cà vạt lụa màu xanh hải quân mới toanh, vuốt lại bộ lông cánh bóng bẩy vẻ mặt vô cùng mãn nguyện; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Đặc vụ Ếch",
+   "layout": "{FROGS} quàng chiếc khăn len đỏ mới tinh mỉm cười tít mắt, hai má phồng tròn rung rinh hạnh phúc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Đặc vụ Cá",
+   "layout": "{ORCA} nhô đầu lên khỏi bể nước ngậm một chú cá hồi tươi, vẫy vẫy chiếc thẻ VIP màu vàng kim trên vây ngực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Đặc vụ Chim Gõ",
+   "layout": "{WOODPECKER} đội chiếc mũ bảo hộ mới toanh bóng loáng, gõ mỏ lách cách vào mặt bàn để kiểm tra độ êm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Lạc Đà Sa",
+   "layout": "{CAMEL} đứng nhai tóp tép đống xương rồng mọng nước ngọt ngào, miệng cười toe toét không chớp mắt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Dê Núi Bắc",
+   "layout": "{GOAT} giơ một móng trước lên khoe lớp đệm cao su mới tinh màu xanh lá cây đầy phong cách; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Chim Bách Thanh",
+   "layout": "{SHRIKE} cắm một chiếc cúc áo lưu niệm lên giàn gai mới, mắt sáng lên đầy tự hào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Và Đại Đội",
+   "layout": "{ANT_CORPS} cùng nhau nâng một cây nấm khổng lồ màu trắng sữa diễu hành vòng quanh bàn tiệc ăn mừng rộn rã; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Mười quái kiệt,",
+   "layout": "Hình ảnh chia tay đầy xúc động: mười đặc vụ lần lượt vẫy tay chào nhau, chim cắt tung cánh lên trời cao, cá voi bơi về biển lớn, dê núi sải bước lên đỉnh núi tuyết; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Nhưng những bài",
+   "layout": "Cuộn da cừu Bản Thiết Kế Tiến Hóa được đặt trang trọng trong lồng kính của thư viện tự nhiên, tỏa ánh sáng vàng kim êm đềm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Căn phòng tác chiến trở",
+   "layout": "{CHIEF} ngồi dựa lưng vào ghế xoay, khẽ tháo chiếc kính râm xuống để lộ đôi mắt tròn to sáng quắc đầy suy tư; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Anh chàng mở",
+   "layout": "Chiếc ngăn kéo gỗ trượt mở, bên trong xếp ngay ngắn các tập hồ sơ mật của các mùa trước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Và rồi, ngón",
+   "layout": "Bàn tay {CHIEF} nhấc một tập hồ sơ mới tinh màu xanh ngọc bích y khoa, trên bìa dán con dấu sáp đỏ hình ống nghe bác sĩ và nhịp tim điện tâm đồ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Một nụ cười",
+   "layout": "Cận cảnh {CHIEF} mở hé phong bì niêm phong, ánh sáng xanh lơ lạnh lẽo từ bên trong hồ sơ hắt lên khuôn mặt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Đêm nay, tại",
+   "layout": "Tranh vẽ phong cách Vintage Hospital thập niên 1950: hành lang bệnh viện dã chiến đêm khuya với các bóng đen bệnh nhân kỳ dị đang nằm trên cáng và xe lăn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Một chú Nhện",
+   "layout": "Ba bức hình phác thảo y khoa đen trắng: chú nhện ôm bọc bong bóng nước, chú cá nhảy nhót trên rễ cây đước và chú ong đang châm ngòi nọc chính xác vào hạch thần kinh gián; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Một chú Cá Mặt",
+   "layout": "Hai bức phác thảo tiếp theo: chú cá mặt trăng tròn vo khổng lồ nằm ngửa phơi nắng và chú vẹt mập ú màu xanh lá đang vụng về leo cây; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Cùng với Lợn",
+   "layout": "Bức ảnh ghép tổng thể mười bệnh nhân kỳ dị của phòng cấp cứu tiến hóa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Hẹn gặp lại",
+   "layout": "Màn hình hiện lên dòng chữ hẹn ước đầy tò mò với hình ảnh chiếc ống nghe y tế và bóng lưng bác sĩ trưởng khoa bước vào phòng mổ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Còn bây giờ,",
+   "layout": "Mười đặc vụ cùng xếp hàng chào khán giả trên màn hình kết thúc, vẫy tay và nháy mắt tinh nghịch; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Đừng quên bấm",
+   "layout": "Logo kênh Vẽ Chuyện Hoang Dã hiện lên rực rỡ cùng các nút bấm đăng ký hoạt hình ngộ nghĩnh, ánh đèn mờ dần khép lại một đêm phi vụ thế kỷ hoàn hảo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Bệnh Viện Đa Khoa Tiến Hóa trong",
+   "layout": "Hình ảnh phác thảo hài hước về phòng khám bệnh viện tiến hóa với bác sĩ trưởng khoa đang khám bệnh cho chú cá mặt trăng ba tấn nằm trên giường cấp cứu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Quý vị sẽ",
+   "layout": "Tranh vẽ mười ca bệnh kỳ lạ xếp hàng trước cửa phòng khám cấp cứu tiến hóa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Hãy tiếp tục",
+   "layout": "Mười đặc vụ của Mega 04 cùng vẫy tay chào tạm biệt khán giả trong tiếng nhạc điệp viên vui nhộn và hào hùng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Mỗi một tập",
+   "layout": "Logo kênh phát sáng lung linh giữa bầu trời đêm đầy sao, các nhân vật hoạt hình ngộ nghĩnh cùng vẫy tay chào khán giả; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Hãy chuẩn bị",
+   "layout": "Chiếc xe cứu thương hoạt hình của Bệnh Viện Tiến Hóa lăn bánh vào màn đêm, nhấp nháy đèn xanh báo hiệu một hành trình mới đầy hấp dẫn.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "{BOARD} sáng rực với bảy cửa ải đỏ rực giữa căn phòng tối, {CHIEF} đứng chỉ tay vào bản đồ cùng bóng đen của mười đặc vụ.",
+   "stickers": []
+  },
+  {
+   "at": "Cửa Ải 1:",
+   "layout": "{FALCON} lao xuống như quả tên lửa xé toạc màn đêm, sóng xung kích trắng xóa quanh thân.",
+   "stickers": [
+    {
+     "at": "389 km/h",
+     "side": "R",
+     "y": 640,
+     "value": "389 KM/H",
+     "label": "Bổ nhào kỷ lục",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Cửa Ải 2:",
+   "layout": "{MOLERAT} bò thoăn thoắt trong đường ống ngập sương axit, cặp kính hồng ngoại chớp sáng.",
+   "stickers": [
+    {
+     "at": "18 phút",
+     "side": "L",
+     "y": 620,
+     "value": "18 PHÚT",
+     "label": "Sống ở 0% Oxy",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Cửa Ải 3:",
+   "layout": "{FROGS} biến thành một bức tượng băng trong suốt trượt êm ái trên sàn băng tuyết.",
+   "stickers": [
+    {
+     "at": "65%",
+     "side": "R",
+     "y": 640,
+     "value": "65% NƯỚC",
+     "label": "Đóng băng cơ thể",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Cửa Ải 4:",
+   "layout": "{CROW} ngậm móc câu thép mở ngăn kéo bí mật, nháy mắt tinh nghịch trước ống kính.",
+   "stickers": []
+  },
+  {
+   "at": "Cửa Ải 5:",
+   "layout": "{ORCA} rẽ nước quất mạnh vây đuôi tạo sóng thần áp lực đập tung cửa van thép.",
+   "stickers": [
+    {
+     "at": "225 dB",
+     "side": "L",
+     "y": 620,
+     "value": "225 DB",
+     "label": "Xung Sonar đỉnh",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Cửa Ải 6:",
+   "layout": "{WOODPECKER} gõ mỏ tóe lửa vào vách đá granite, bên dưới là đàn kiến cắt lá mang hàm thép hỗ trợ.",
+   "stickers": [
+    {
+     "at": "1200G",
+     "side": "R",
+     "y": 640,
+     "value": "1200G",
+     "label": "Lực chịu va đập",
+     "target": [
+      0.5,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Cửa Ải 7:",
+   "layout": "{GOAT} bám móng giác hút leo vách đá chín mươi độ, phía dưới {CAMEL} đứng kiêu hãnh trên cát đỏ.",
+   "stickers": [
+    {
+     "at": "90°",
+     "side": "L",
+     "y": 620,
+     "value": "VÁCH 90°",
+     "label": "Móng giác hút",
+     "target": [
+      0.5,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Và kho báu",
+   "layout": "{CHIEF} mở nắp két sắt tối thượng, một quả cầu ánh sáng sinh học rực rỡ bừng nở soi rọi cả mười đặc vụ.",
+   "stickers": []
+  },
+  {
+   "at": "Bạn ấn tượng",
+   "layout": "Mười đặc vụ cùng tạo dáng cực ngầu dưới ánh trăng, {CHIEF} giơ huy hiệu điệp viên chào khán giả.",
+   "stickers": []
+  },
+  {
+   "at": "vì ở đây",
+   "layout": "{BOARD} sáng rực với bảy biểu tượng màu xanh ngọc bích, mười đặc vụ cùng nhảy lên ăn mừng chiến thắng.",
+   "stickers": []
+  }
+ ]
+}

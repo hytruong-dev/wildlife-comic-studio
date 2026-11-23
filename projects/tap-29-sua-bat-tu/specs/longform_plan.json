@@ -1,0 +1,480 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "BÍ ẨN PHÁ VỠ QUY LUẬT SINH TỬ CỦA VŨ TRỤ",
+   "hook": "",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thưa giáo sư,",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bật toàn bộ kính",
+     "image": "assets/long/L03.png",
+     "stickers": [
+      {
+       "at": "5 cấp độ",
+       "side": "R",
+       "y": 350,
+       "value": "5 CẤP ĐỘ",
+       "label": "thử nghiệm sinh tử",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Xin trân trọng",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Loài sứa này",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Với kích thước trưởng",
+     "image": "assets/long/L06.png",
+     "stickers": [
+      {
+       "at": "4,5mm",
+       "side": "L",
+       "y": 350,
+       "value": "CỠ 4,5MM",
+       "label": "kích thước tí hon",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nếu bạn nghĩ",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy quan sát thật",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bên trong lộ rõ",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "80-90",
+       "side": "R",
+       "y": 350,
+       "value": "80-90 TU",
+       "label": "xúc tu tơ nhện",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "PHÒNG LAB 5 CẤP ĐỘ"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "THỬ THÁCH TỔN THƯƠNG CƠ HỌC VÀ STRESS MÔI TRƯỜNG CỰC HẠN",
+   "hook": "BỊ ĐÓI KHÁT VÀ TỔN THƯƠNG NẶNG TỰ KÍCH HOẠT QUY TRÌNH HỒI SINH",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "1992, tại một",
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "1992",
+       "side": "L",
+       "y": 350,
+       "value": "NĂM 1992",
+       "label": "phát hiện tại Ý",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thay vào đó, dưới",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi đối mặt với",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Toàn bộ chiếc chuông",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhóm nghiên cứu tại",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả kinh ngạc là",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 1: STRESS MÔI TRƯỜNG"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "CƠ CHẾ CHUYỂN BIỆT HÓA TẾ BÀO TRANSDIFFERENTIATION THẦN KỲ",
+   "hook": "TẾ BÀO CƠ BẮP TỰ BIẾN THÀNH TẾ BÀO GỐC NON NỚT",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong cơ thể người",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo kính hiển",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chính xác là như",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một quy trình đảo ngược",
+     "image": "assets/long/L22.png",
+     "stickers": [
+      {
+       "at": "3-4 ngày",
+       "side": "R",
+       "y": 350,
+       "value": "3-4 NGÀY",
+       "label": "đảo ngược hoàn toàn",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hàng triệu tế bào",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở động vật có",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 2: CHUYỂN BIỆT HÓA TẾ BÀO"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "HÓA THÀNH BÚP POLYP NON NỚT VÀ NHÂN BẢN HÀNG TRĂM BẢN SAO",
+   "hook": "TỪ MỘT CON SỨA GIÀ MỌC THÀNH THẢM POLYP SINH RA TRĂM CON SỨA CON",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ chiếc kén non",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi đến thời điểm",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy chú ý kỹ",
+     "image": "assets/long/L28.png",
+     "stickers": [
+      {
+       "at": "hàng trăm",
+       "side": "L",
+       "y": 350,
+       "value": "100 BẢN",
+       "label": "nhân bản di truyền",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Giáo sư Shin Kubota",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ông đã chứng kiến",
+     "image": "assets/long/L30.png",
+     "stickers": [
+      {
+       "at": "12 lần",
+       "side": "R",
+       "y": 350,
+       "value": "12 LẦN",
+       "label": "chu kỳ trẻ hóa",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Về mặt lý thuyết",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi nhánh polyp dưới",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 3: TÁI SINH THÀNH POLYP"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "GIẢI MÃ BÍ MẬT BẢO VỆ TELOMERE VÀ GEN SỬA CHỮA ADN",
+   "hook": "TELOMERE KHÔNG HỀ CO NGẮN VÀ HỆ THỐNG SỬA CHỮA ADN VƯỢT TRỘI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "2022, một công trình",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Kết quả phân tích",
+     "image": "assets/long/L35.png",
+     "stickers": [
+      {
+       "at": "telomere",
+       "side": "L",
+       "y": 350,
+       "value": "TELOMERE",
+       "label": "mũ bảo vệ ADN",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Ở người, mỗi lần",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vũ khí thứ 2",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bất kỳ tổn hại",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học đã",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sự so sánh này",
+     "image": "assets/long/L40.png",
+     "stickers": [
+      {
+       "at": "1.000",
+       "side": "R",
+       "y": 350,
+       "value": "1.000 GEN",
+       "label": "đặc hữu bất tử",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Tuy nhiên, cần phải",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng miễn là không",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CẤP ĐỘ 4 & 5: HỆ GEN THẦN THÁNH"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "TRIẾT LÝ CỦA SỰ BẤT TỬ VÀ BÓNG ĐEN KỸ SƯ ĐẬP NƯỚC",
+   "hook": "BÀI HỌC VỀ SỰ TÁI SINH VÀ BÓNG ĐEN KỸ SƯ HẢI LY TẬP 30",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hội đồng khoa học",
+     "image": "assets/long/L44.png",
+     "stickers": [
+      {
+       "at": "điểm 10",
+       "side": "R",
+       "y": 350,
+       "value": "ĐIỂM 10",
+       "label": "đảo ngược lão hóa",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Còn quý vị khán",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hay vòng đời hữu hạn",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cánh cửa phòng thí",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chúng ta sẽ theo",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một sinh vật có",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đố các bạn biết",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "TỔNG KẾT & DẤU ẤN"
+  }
+ }
+}

@@ -1,0 +1,306 @@
+{
+  "episode_no": 35,
+  "animal": "Cá Voi Sát Thủ",
+  "slug": "tap-35-ca-voi-sat-thu",
+  "format": "F6",
+  "persona": "ong_trum",
+  "nickname": "Bố Già Đại Dương",
+  "sources": [
+    "Visser et al. 2008, Marine Mammal Science — Kỹ thuật bơi đồng bộ tạo sóng hất hải cẩu khỏi tảng băng",
+    "Towner et al. 2022, African Journal of Marine Science — Bộ đôi cá voi Port và Starboard xé gan cá mập trắng Nam Phi",
+    "Ford et al. 1998, Animal Behaviour — Phương ngữ âm thanh gia tộc và truyền thống săn mồi riêng biệt",
+    "Pitman & Durban 2012, Polar Biology — Phân loại các chủng sinh thái cá voi sát thủ vùng Nam Cực",
+    "Marino et al. 2007, The Anatomical Record — Hệ thần kinh paralimbic và chỉ số EQ siêu việt ở não bộ cá voi sát thủ"
+  ],
+  "whisper_prompt": "Cá Voi Sát Thủ, Bố Già Đại Dương, Orca, Orcinus orca, Port và Starboard, Nam Phi, Nam Cực, Matriarchy, Hải cẩu, Cá Mập Trắng, Tahlequah, Gansbaai",
+  "display_fix": {
+    "Năm hai ngàn không trăm hai mươi hai": "Năm 2022",
+    "Năm hai ngàn không trăm mười tám": "Năm 2018",
+    "Năm hai ngàn không trăm mười hai": "Năm 2012",
+    "Tập ba mươi lăm": "Tập 35",
+    "Tập ba mươi sáu": "Tập 36",
+    "tám mươi năm": "80 năm",
+    "chín mươi năm": "90 năm",
+    "mười bảy ngày": "17 ngày",
+    "Mười bảy ngày": "17 ngày",
+    "mười lăm mét": "15m",
+    "chín mét": "9m",
+    "hai mét": "2m",
+    "sáu tấn": "6 tấn",
+    "bốn mươi tấn": "40 tấn",
+    "năm mươi lăm kilômét trên giờ": "55 km/h",
+    "một ngàn dặm": "1.000 dặm",
+    "một ngàn hai trăm": "1.200",
+    "năm kilôgam": "5kg",
+    "sáu mươi phần trăm": "60%",
+    "một trăm phần trăm": "100%",
+    "bốn loài": "4 loài",
+    "bốn thành viên": "4 thành viên",
+    "hai mươi phút": "20 phút",
+    "hai mươi lăm năm": "25 năm",
+    "ba mươi năm": "30 năm",
+    "bốn mươi tuổi": "40 tuổi",
+    "bốn mươi năm": "40 năm",
+    "năm mươi năm": "50 năm",
+    "triệu năm": "triệu năm",
+    "hàng triệu năm": "hàng triệu năm",
+    "Port": "Port",
+    "Starboard": "Starboard",
+    "Tahlequah": "Tahlequah",
+    "Orcinus": "Orcinus",
+    "Delphinidae": "Delphinidae",
+    "Matriarchy": "Matriarchy",
+    "Gangs of New York": "Gangs of New York",
+    "Godfather": "Godfather"
+  },
+  "voice": {
+    "tempo_long": 1.11,
+    "tempo_shorts_min": 1.12,
+    "min_long_s": 510,
+    "max_long_s": 900
+  },
+  "art": {
+    "decor": "golden mafia family crest, crown, red wax seal, rolled antique parchment, nautical tattoo anchors, compass rose, dramatic ocean waves",
+    "shorts_mascot": "A funny mafia boss killer whale wearing a dapper fedora hat and sleek black suit, smirking confidently",
+    "thumb_bg": "deep stormy oceanic trench, dark moody nautical map background with glowing gold navigational lines",
+    "thumb_title": [
+      "BỐ GIÀ",
+      "ĐẠI DƯƠNG"
+    ],
+    "thumb_scene": "a massive killer whale wearing a golden crown and cigar ring floating majestically while a great white shark swims away in panic",
+    "thumb_gag": "a tiny seal peeking nervously from behind an iceberg wearing sunglasses",
+    "shorts_banner_lines": [
+      "ĐẾ CHẾ MAFIA",
+      "CÁ VOI SÁT THỦ!"
+    ],
+    "style_label": "phong cách tranh khắc gỗ hàng hải Baroque & huy hiệu Mafia biển sâu (Oceanic Syndicate Woodcut)",
+    "visual_style": "tỉ lệ {AR}; phong cách tranh khắc gỗ hàng hải Baroque cổ điển kết hợp huy hiệu Mafia biển sâu (Oceanic Syndicate & Nautical Baroque Woodcut): nét cọ mực tàu dày dặn sắc lạnh như tranh khắc kim loại thế kỷ 18, những ngọn sóng đại dương cuộn xoáy hoa văn baroque cổ điển, điểm nhấn huy hiệu mạ vàng vương giả và dấu ấn sáp đỏ quyền lực, tông màu xanh biển thẳm kết hợp đen tuyền uy quyền; NỀN TRẮNG TINH hoàn toàn, không watermark, không logo; chủ thể nằm gọn trong khung, chừa lề trắng"
+  },
+  "seo": {
+    "title": "Bố Già Đại Dương: Chiến Thuật Sóng Thần & Bí Mật Khiến Cá Mập Trắng Tháo Chạy?! | Tập 35",
+    "hook_paragraph": "Cá Voi Sát Thủ (Orcinus orca) không chỉ là loài cá heo lớn nhất thế giới nặng hơn sáu tấn, mà còn là đế chế Mafia tối thượng của đại dương. Chúng sở hữu những gia tộc mẫu hệ cai trị gần một thế kỷ, chiến thuật tạo sóng thần đồng bộ hạ gục hải cẩu trên băng, và ca phẫu thuật xé gan khiến chúa tể Cá Mập Trắng phải hoảng loạn bỏ chạy suốt cả năm trời!",
+    "bullets": [
+      "Đế chế mẫu hệ Matriarchy: Nữ Hoàng Bố Già thọ chín mươi năm nắm giữ toàn bộ bản đồ hải lưu và bí kíp gia tộc",
+      "Chiến thuật sóng thần bầy đàn: Bơi dàn hàng ngang quạt đuôi tạo sóng chém nứt đôi tảng băng Nam Cực",
+      "Ca phẫu thuật lấy gan kinh điển: Cú húc lật ngửa gây tê liệt trương lực khiến Cá Mập Trắng Nam Phi khiếp sợ",
+      "Phương ngữ âm thanh độc nhất: Mỗi gia tộc có tiếng lóng riêng biệt và thực đơn gia truyền không ai giống ai",
+      "Trái tim và thùy paralimbic vĩ đại: Nỗi đau mất con kéo dài mười bảy ngày và một ngàn dặm của người mẹ Tahlequah",
+      "Điều răn cấm tối cao: Bản hiệp ước hòa bình không bao giờ săn giết con người ngoài tự nhiên hoang dã"
+    ],
+    "question": "Giữa chiến thuật tạo sóng thần chém nứt tảng băng và ca phẫu thuật xé gan Cá Mập Trắng, bạn nể phục quyền lực nào nhất của Bố Già Đại Dương?",
+    "next_teaser": "kỹ sư cơ khí của rừng xanh sở hữu hộp sọ chịu lực một ngàn hai trăm G nhờ chiếc lưỡi kỳ dị",
+    "hashtag_broad": "#thếgiớiđộngvật",
+    "hashtag_animal": "#cávoisátthủ",
+    "tags": [
+      "cá voi sát thủ",
+      "orca",
+      "bố già đại dương",
+      "cá mập trắng",
+      "hải cẩu",
+      "khoa học kỳ thú",
+      "vẽ chuyện hoang dã",
+      "whiteboard animation"
+    ],
+    "shorts_title": "Bí Mật Khiến Cá Mập Trắng Tháo Chạy Khỏi Bố Già Đại Dương?!",
+    "shorts_desc": "Cá Voi Sát Thủ không thèm ăn thịt cá mập mà lật ngửa con mồi để kích hoạt trạng thái tê liệt, chỉ xé lấy buồng gan béo ngậy rồi bỏ xác!",
+    "shorts_tags": [
+      "cá voi sát thủ",
+      "orca",
+      "cá mập trắng",
+      "vẽ chuyện hoang dã",
+      "shorts"
+    ],
+    "en_title": "Killer Whale: Oceanic Syndicate & Why Great White Sharks Flee?! | EP35",
+    "en_hook": "Discover the incredible hunting tactics, matriarchal empire, and intelligence of Orcas.",
+    "en_shorts_title": "Why Great White Sharks Flee from Killer Whales?!"
+  },
+  "longform": {
+    "scenes": [
+      {
+        "id": "scene01",
+        "badge": "LỜI MỜI GIA TỘC",
+        "banner_title": "ĐẾ CHẾ MAFIA ĐẠI DƯƠNG",
+        "chapter_title": "Lời mời của Bố Già: Gia tộc mẫu hệ tối thượng và quyền lực đen trắng",
+        "hook": "BỐ GIÀ ĐẠI DƯƠNG XUẤT ĐẦU LỘ DIỆN: ĐẾ CHẾ THỐNG TRỊ BIỂN KHẢI HOÀN TOÀN KHÔNG CÓ KẺ THÙ TỰ NHIÊN",
+        "mood": "tram_bi_an",
+        "parts": [
+          {
+            "text": "Chào mừng các bạn bước vào thế giới ngầm không ánh sáng của đại dương bao la, nơi trật tự không được thiết lập bằng may rủi mà bằng quyền lực gia tộc tuyệt đối. [laughter] Trong thế giới đó, bất kỳ sinh vật nào cũng phải cúi đầu nép mình trước kẻ mang hai màu đen trắng huyền thoại. Người ta thường gọi chúng là Cá Voi Sát Thủ, nhưng trong từ điển sinh học, đây thực chất là loài cá heo lớn nhất hành tinh với chiều dài tới chín mét và nặng hơn sáu tấn. Chúng đứng đầu chuỗi thức ăn đại dương và hoàn toàn không có bất kỳ kẻ thù tự nhiên nào trên cõi đời này!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Dạ thưa Bố Già, cho cháu xin vào gia tộc bảo kê được không ạ?",
+            "cast": "chu_ngo_ngac"
+          },
+          {
+            "text": "[laughter] Chú cá con ngây thơ này muốn xin một chân trong gia tộc ư? Gia tộc của chúng ta đâu phải cái chợ mà ai thích bơi vào thì bơi! Điều thú vị nhất của đế chế này nằm ở chỗ, nó hoàn toàn không do những gã đực to xác cơ bắp thống trị. Quyền lực tối cao thuộc về các Nữ Hoàng Bố Già sống thọ tới tám mươi năm hoặc chín mươi năm. Chế độ mẫu hệ Matriarchy này đã vận hành bền vững suốt hàng triệu năm qua. Những vị Bố Già Đại Dương lão làng này nắm giữ toàn bộ bản đồ hải lưu, kinh nghiệm săn mồi, đường đi nước bước và mật mã bí mật của dòng tộc truyền qua nhiều thế hệ. Đừng dại dột nghĩ rằng bạn có thể làm loạn trong lãnh địa của một gia tộc mà Nữ Hoàng đã trị vì gần một thế kỷ!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Các nhà khoa học thần kinh biển đã chứng minh: Trong mỗi bầy cá voi sát thủ, các Nữ Hoàng Bố Già đóng vai trò là kho tàng tri thức sống còn của cả dòng họ. Khi biển động, băng tan hay nguồn thức ăn khan hiếm, cả bầy hàng chục con lớn nhỏ đều nhất mực bơi theo sự dẫn dắt của bà trùm lão luyện. Khác với hầu hết các loài động vật đực thường rời đàn khi trưởng thành, những gã đực cá voi sát thủ dẫu có to lớn đến chín mét vẫn ngoan ngoãn bơi bên cạnh mẹ suốt cả cuộc đời! Sự kỷ luật thép và lòng trung thành gia tộc tuyệt đối chính là nền tảng biến loài săn mồi này thành những ông trùm bất khả chiến bại của toàn bộ đại dương!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Hơn thế nữa, vây lưng của những gã đực cao tới gần hai mét sừng sững như một chiếc cột buồm đen tuyền xé toạc mặt nước biển. Tốc độ bơi tối đa của chúng có thể đạt tới năm mươi lăm kilômét trên giờ, nhanh như một chiếc ca nô cao tốc quân sự! Kết hợp giữa sức mạnh thể chất áp đảo và bộ óc chiến lược siêu việt của Nữ Hoàng, không có bất kỳ mục tiêu nào trong đại dương có thể thoát khỏi tầm ngắm một khi gia tộc Bố Già đã quyết định ra tay!",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene02",
+        "badge": "CHIẾN THUẬT SÓNG THẦN",
+        "banner_title": "CƠN ÁC MỘNG BĂNG TRÔI",
+        "chapter_title": "Chiến thuật bầy đàn Nam Cực: Đòn sóng thần đồng bộ hạ gục hải cẩu",
+        "hook": "PHI ĐỘI TIÊM KÍCH ĐẠI DƯƠNG: PHỐI HỢP BƠI ĐỒNG BỘ TẠO CỘT SÓNG CHÉM NỨT ĐÔI TẢNG BĂNG TRÔI",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "text": "Hãy quan sát một phi vụ đi săn điển hình tại vùng biển băng giá Nam Cực để thấy được đỉnh cao của sự phối hợp quân sự. Khi một chú hải cẩu đang nằm ung dung sưởi nắng trên tảng băng trôi kiên cố giữa đại dương, nó cứ ngỡ mình đã an toàn tuyệt đối trước mọi kẻ săn mồi. [laughter] Nhưng đàn cá voi sát thủ không bao giờ lao vào húc bừa bãi như những kẻ thiếu học thức. Bố Già Đại Dương luôn hành động với sự chuẩn xác lạnh lùng của những tay sát thủ nhà nghề!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Ủa tôi nằm trên tảng băng to đùng thế này mà sao nước dâng tới cổ rồi?!",
+            "cast": "ga_khong_lo"
+          },
+          {
+            "text": "[surprise-oh] Nước dâng tới cổ là còn may đấy, lát nữa sẽ rơi thẳng vào miệng trùm sò! Các bạn hãy nhìn đội hình tác chiến của chúng: Bốn thành viên bơi dàn hàng ngang hoàn hảo như một phi đội tiêm kích tàng hình, giữ cự ly đều đặn từng centimet dưới mặt nước trong vắt. Khi cách tảng băng khoảng mười lăm mét, Nữ Hoàng phát lệnh lặn xuống cùng lúc và dùng những chiếc đuôi khổng lồ quạt mạnh tạo nên một cơn sóng thần nhân tạo cực lớn! [laughter] Cột sóng quét ngang làm nứt đôi tảng băng trôi kiên cố, hất tung chú hải cẩu rơi tõm xuống nước ngay trước hàm răng đang chờ sẵn!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Nhưng điều đáng kinh ngạc hơn cả là sau khi con mồi rơi xuống biển, không hề có bất kỳ sự tranh giành cắn xé hỗn loạn nào. Nữ Hoàng Bố Già cùng các thành viên phối hợp ghìm giữ con mồi, dạy cho những chú cá voi con cách thức ra đòn, rồi chia sẻ miếng ăn sòng phẳng cho từng thành viên trong gia đình theo đúng tôn ti trật tự gia tộc. Đó là một bài học quân sự kinh điển về sức mạnh đồng đội và kỷ luật thép!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Thậm chí các nhà làm phim tài liệu của đài BBC đã từng ghi lại cảnh tượng khó tin: Nếu con mồi rơi xuống nước nhưng chưa bị thương nặng, các sát thủ trưởng thành sẽ dùng mõm đẩy nhẹ con hải cẩu trở lại tảng băng để đàn con thực hành lại đợt tạo sóng lần thứ hai! Đây không đơn thuần là hành vi săn mồi để sinh tồn, mà là một trường học huấn luyện quân sự thực thụ được truyền lại từ đời này sang đời khác!",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene03",
+        "badge": "HỒ SƠ KHÉP LẠI",
+        "banner_title": "CA PHẪU THUẬT LẤY GAN",
+        "chapter_title": "Nỗi khiếp sợ của Cá Mập Trắng: Ca phẫu thuật chính xác của bộ đôi Port và Starboard",
+        "hook": "CHÚA TỂ CÁ MẬP TRẮNG THÁO CHẠY HÀNG NĂM TRỜI TRƯỚC BỘ ĐÔI SÁT THỦ XÉ GAN TẠI NAM PHI",
+        "mood": "nghiem_trang_gia",
+        "parts": [
+          {
+            "text": "Nếu bạn từng xem các bộ phim kinh dị bom tấn của Hollywood và đinh ninh rằng Cá Mập Trắng là hung thần vô địch thống trị biển cả, thì bạn đã bị truyền thông đánh lừa một cú ngoạn mục rồi! [laughter] Đối với Bố Già Đại Dương, cá mập trắng khét tiếng chỉ là một món ăn vặt bổ dưỡng có lá gan béo ngậy. Năm hai ngàn không trăm hai mươi hai, tại vùng vịnh Gansbaai ở Nam Phi, giới khoa học chấn động khi phát hiện xác hàng loạt cá mập trắng dạt vào bờ với đúng một vết rách tinh vi dưới vây ngực!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Thưa quý tòa, chứng cứ hiện trường cho thấy đây là vụ giải phẫu tinh vi!",
+            "cast": "cong_to_vien"
+          },
+          {
+            "text": "[surprise-oh] Quá chính xác thưa công tố viên! Hiện trường vụ án kỳ lạ tới mức khó tin: Toàn bộ phần thịt thăn thơm ngon của cá mập trắng hoàn toàn nguyên vẹn, chỉ riêng lá gan nặng hàng trăm kilogram giàu lipid đã bị xé sạch không còn một mảnh vụn! Thủ phạm chính là bộ đôi sát thủ lừng danh mang tên Port và Starboard. Chúng nắm rõ điểm yếu sinh học chí mạng của loài cá mập: chỉ cần tung cú húc lật ngửa con cá mập khiến nó rơi vào trạng thái bất động trương lực cơ bắp, cá mập sẽ tê liệt hoàn toàn và ngạt thở trong vài phút. Sau đó, chúng rạch một đường chính xác đến từng milimét dưới vây ngực để rút trọn buồng gan béo bở rồi vứt bỏ toàn bộ phần xác còn lại!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Đòn thanh trừng thị uy này khủng khiếp đến mức toàn bộ quần thể cá mập trắng tại vùng biển Nam Phi khiếp vía bỏ chạy, sơ tán khẩn cấp hàng trăm dặm và không dám bén mảng quay lại vùng biển suốt cả năm trời! Các nhà sinh học biển phải thốt lên rằng: Đây không phải là sự săn mồi ngẫu nhiên, mà là sự thống trị tuyệt đối về mặt tâm lý và kỹ năng tác chiến của Bố Già Đại Dương!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Trước khi bộ đôi Port và Starboard xuất hiện, vịnh Gansbaai từng là thủ phủ ngắm cá mập trắng nổi tiếng thế giới thu hút hàng triệu du khách. Nhưng kể từ khi hai sát thủ vây lưng cong ghé thăm, các thiết bị định vị vệ tinh gắn trên mình cá mập trắng ghi nhận sự hoảng loạn tột độ. Chúng lặn sâu xuống hàng trăm mét và tháo chạy tán loạn khắp đại dương, chứng minh ai mới thực sự là kẻ nắm giữ quyền lực sinh sát tối thượng!",
+            "mood": "tram_bi_an"
+          }
+        ]
+      },
+      {
+        "id": "scene04",
+        "badge": "VĂN HÓA GIA TỘC",
+        "banner_title": "TIẾNG LÓNG VÀ ẨM THỰC",
+        "chapter_title": "Văn hóa biệt lập giữa các dòng tộc: Tiếng lóng âm thanh và thực đơn gia truyền",
+        "hook": "BĂNG ĐẢNG MAFIA ĐẠI DƯƠNG: MỖI GIA TỘC CÓ PHƯƠNG NGỮ RIÊNG VÀ KHÔNG BAO GIỜ ĂN CHUNG THỰC ĐƠN",
+        "mood": "hao_hung",
+        "parts": [
+          {
+            "text": "Điều khiến các nhà sinh vật học hành vi kinh ngạc nhất về cá voi sát thủ chính là tính biệt lập văn hóa sâu sắc giữa các dòng tộc. Chúng phân hóa thành nhiều chủng loại sinh thái khác nhau và tuyệt đối không bao giờ giao lưu, bơi chung hay kết hôn bừa bãi. [laughter] Giống như các gia tộc quyền quý thời xưa, mỗi chi nhánh đều giữ gìn danh dự và bản sắc ẩm thực riêng biệt của dòng họ mình!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Báo cáo Bố Già, chi nhánh miền Bắc chỉ ăn cá hồi, không chịu ăn thịt thú!",
+            "cast": "co_tro_ly"
+          },
+          {
+            "text": "[laughter] Rất đúng chất dòng tộc quý tộc! Chi nhánh cá voi cư trú ven bờ chỉ trung thành với món cá hồi béo ngậy. Chúng nhìn chi nhánh du cư chuyên đi săn hải cẩu và cá voi con bằng nửa con mắt, xem đó là những kẻ ăn thịt man rợ cục súc! Ngược lại, nhóm ngoài khơi xa chỉ đam mê lùng sục các loài cá mập đại dương. Chưa dừng lại ở đó, mỗi gia tộc sở hữu một hệ thống phương ngữ âm thanh độc nhất vô nhị. [surprise-oh] Giống như tiếng lóng của các băng đảng Mafia ở New York, những âm thanh lách cách và tiếng huýt sáo của gia tộc này thì gia tộc hàng xóm hoàn toàn nghe như ngoại ngữ và không thể nào hiểu nổi!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Những chú cá voi con mới sinh phải mất nhiều năm trời theo mẹ học tập từng ngữ điệu âm thanh của dòng tộc, tiếp thu toàn bộ danh mục ẩm thực gia truyền và quy tắc ứng xử trước khi được giao phó trọng trách săn mồi. Đây chính là bằng chứng xác thực về sự tồn tại của văn hóa truyền miệng và truyền thống gia đình trong thế giới động vật hoang dã!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Các nghiên cứu giải mã tần số âm thanh kéo dài hơn ba mươi năm tại bờ biển Bắc Mỹ cho thấy: Ngay cả khi hai gia tộc bơi ngang qua nhau trong cùng một eo biển hẹp, chúng chỉ giữ khoảng cách lịch sự và không bao giờ hòa lẫn tiếng gọi bầy. Mỗi gia tộc tự hào với phương ngữ riêng biệt của mình, tạo nên một bức tranh đa văn hóa vô cùng phong phú và độc bản dưới lòng đại dương sâu thẳm!",
+            "mood": "hao_hung"
+          }
+        ]
+      },
+      {
+        "id": "scene05",
+        "badge": "TRÁI TIM BỐ GIÀ",
+        "banner_title": "NỖI ĐAU MẪU TỬ VĨ ĐẠI",
+        "chapter_title": "Não bộ cảm xúc siêu việt: Tình mẫu tử mười bảy ngày lay động đại dương",
+        "hook": "KHỐI NÃO NẶNG NĂM KILOGRAM SỞ HỮU THÙY PARALIMBIC PHỨC TẠP HƠN CẢ NÃO BỘ CON NGƯỜI",
+        "mood": "am_ap",
+        "parts": [
+          {
+            "text": "Phía sau lớp vỏ bọc lạnh lùng của những tay săn mồi tàn bạo nhất đại dương, não bộ của cá voi sát thủ sở hữu một bí mật làm rúng động giới khoa học thần kinh. Khối não nặng tới năm kilôgam của chúng có hệ thống thùy paralimbic phát triển vượt bậc, thậm chí còn phân nhánh phức tạp hơn cả cấu trúc tương ứng trong não bộ con người chúng ta! Đây chính là trung tâm chi phối các kết nối xã hội sâu sắc, sự thấu cảm, lòng vị tha và cả nỗi đau buồn mất mát khôn nguôi.",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Mười bảy ngày ròng rã đẩy xác con... tình mẹ làm lay động cả đại dương!",
+            "cast": "ong_gia_ke"
+          },
+          {
+            "text": "[sigh] Đúng vậy thưa các bạn. Vào Năm hai ngàn không trăm mười tám, cả thế giới đã rơi nước mắt trước hình ảnh người mẹ cá voi mang tên Tahlequah. Khi đứa con sơ sinh không may qua đời chỉ sau nửa giờ chào đời, thay vì để xác con chìm xuống đáy biển lạnh giá, người mẹ đau thương ấy đã dùng trán nâng xác con, bơi ròng rã suốt mười bảy ngày qua quãng đường hơn một ngàn dặm trên biển Thái Bình Dương! Suốt mười bảy ngày đêm tang tóc đó, các thành viên trong gia tộc đã lặng lẽ bơi bên cạnh hộ tống, thay phiên nhau nhường thức ăn và hỗ trợ người mẹ vượt qua nỗi đau tột cùng.",
+            "mood": "am_ap"
+          },
+          {
+            "text": "Hình ảnh đó đã chứng minh cho toàn thể nhân loại thấy rằng: Bố Già Đại Dương không chỉ có sức mạnh cơ bắp và sự tàn bạo trên bàn tiệc săn mồi, mà sâu thẳm bên trong là một trái tim tràn ngập tình yêu thương mẫu tử và sự gắn kết gia đình thiêng liêng lay động lòng người!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Đặc biệt hơn, cá voi sát thủ là một trong số cực kỳ ít ỏi các loài sinh vật trên Trái Đất cùng với con người trải qua giai đoạn mãn kinh. Sau khi hết khả năng sinh sản ở bốn mươi tuổi, các bà mẹ tiếp tục sống thêm tới bốn mươi năm hay năm mươi năm nữa chỉ để làm nhiệm vụ bà ngoại, chăm sóc các cháu và hướng dẫn con cháu vượt qua những thời khắc bão tố hiểm nghèo!",
+            "mood": "am_ap"
+          }
+        ]
+      },
+      {
+        "id": "scene06",
+        "badge": "ĐIỀU RĂN CẤM TỐI CAO",
+        "banner_title": "BẢN HIỆP ƯỚC BÍ ẨN",
+        "chapter_title": "Nghịch lý vĩ đại: Điều răn cấm tuyệt đối không chạm vào loài người",
+        "hook": "BẢN HIỆP ƯỚC HÒA BÌNH TRIỆU NĂM: TẠI SAO CÁ VOI SÁT THỦ NGOÀI TỰ NHIÊN CHƯA TỪNG TẤN CÔNG CON NGƯỜI?",
+        "mood": "am_ap",
+        "parts": [
+          {
+            "text": "Có một nghịch lý vĩ đại đã làm đau đầu các nhà sinh thái học suốt nhiều thế kỷ qua: Tại sao một loài động vật ăn thịt có thể xé xác cá voi xanh khổng lồ bốn mươi tấn, giết cá mập trắng trong nháy mắt, nhưng trong toàn bộ lịch sử nhân loại chưa từng ghi nhận một vụ tấn công giết người nào ngoài tự nhiên hoang dã? [laughter] Đúng vậy, bạn không hề nghe nhầm đâu!",
+            "mood": "tram_bi_an"
+          },
+          {
+            "text": "Hãy nhớ lấy điều luật số một của gia tộc: Cấm đụng vào loài người!",
+            "cast": "ba_trum"
+          },
+          {
+            "text": "[laughter] Lời dặn dò nghiêm khắc của Bà Trùm lão làng chính là sự thật! Ngoại trừ những thảm kịch đáng tiếc xảy ra tại các bể xiếc giam cầm do cá voi bị trầm cảm và căng thẳng tâm lý tột độ, thì ngoài đại dương tự do, cá voi sát thủ đối xử với con người vô cùng kỳ lạ. Chúng sẵn sàng hợp tác cùng các ngư dân vịnh Eden ở nước Úc để lùa cá voi vào bờ chia phần, hoặc tò mò bơi sát mạn thuyền ngoi lên nhìn ngắm con người bằng ánh mắt ôn hòa và thân thiện!",
+            "mood": "hao_hung"
+          },
+          {
+            "text": "Dường như trong bộ luật bất thành văn của Bố Già Đại Dương, có một điều răn cấm tối cao đã được khắc sâu qua hàng triệu năm tiến hóa: Loài hai chân trên cạn là đối tác hòa bình, tuyệt đối không được coi là thức ăn! Sự tôn trọng kỳ lạ đó chính là nét quý tộc vương giả của những kẻ cai trị biển cả. Còn bây giờ, giữa chiến thuật sóng thần chém nứt tảng băng và ca phẫu thuật xé gan Cá Mập Trắng, bạn nể phục quyền lực nào nhất của Bố Già Đại Dương? Hãy để lại ý kiến bình luận bên dưới nhé! Và đừng quên bấm đăng ký kênh để đón xem Tập ba mươi sáu khám phá cỗ máy giảm chấn sọ não một ngàn hai trăm G của Chim Gõ Kiến nhé!",
+            "mood": "don_dap"
+          },
+          {
+            "text": "Hãy cùng lan tỏa thông điệp bảo vệ các đại dương và tôn trọng những gia tộc cá voi sát thủ kỳ diệu này, để tiếng huýt sáo của Bố Già Đại Dương mãi mãi ngân vang tự do giữa biển khơi bao la!",
+            "mood": "am_ap"
+          }
+        ]
+      }
+    ]
+  },
+  "shorts": {
+    "target_s": 54.0,
+    "mood": "hao_hung",
+    "text": "[surprise-oh] Bạn có biết tại sao chúa tể săn mồi Cá Mập Trắng lại phải hoảng loạn bỏ chạy suốt cả năm trời chỉ vì đánh hơi thấy bóng dáng của Cá Voi Sát Thủ không? [dissatisfaction-hnn] Tại vùng biển Nam Phi, hai sát thủ mang tên Port và Starboard đã thực hiện những phi vụ trừng phạt chấn động giới sinh vật biển. Chúng không thèm ăn thịt cá mập mà dùng chiến thuật húc lật ngửa con mồi để kích hoạt trạng thái tê liệt bất động, sau đó rạch một đường chính xác đến từng milimét chỉ để xé lấy buồng gan giàu chất béo rồi vứt bỏ toàn bộ phần xác còn lại! [laughter] Cuộc phẫu thuật tinh vi đến mức khiến toàn bộ đàn cá mập trắng trong bán kính hàng trăm dặm lập tức sơ tán khẩn cấp không dám quay lại suốt cả năm trời. Đó chính là uy quyền tuyệt đối của Bố Già Đại Dương!"
+  }
+}

@@ -1,0 +1,480 @@
+{
+ "episode": "tap-18-bo-phao-thu",
+ "title_lines": [
+  "BỊ CÓC NUỐT 1 TIẾNG",
+  "VẪN BẮN PHÁO THOÁT THÂN?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 48.0,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-18-bo-phao-thu_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  7.87,
+  14.63,
+  19.29,
+  23.53,
+  28.7,
+  33.17,
+  35.73,
+  40.39,
+  44.29,
+  47.01
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "t": 2.04,
+     "side": "L",
+     "y": 580,
+     "value": "1 TIẾNG",
+     "label": "mắc kẹt trong dạ dày",
+     "target": [
+      0.32,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 0.58,
+     "text": "Bị cóc nuốt"
+    },
+    {
+     "t": 1.04,
+     "text": "chửng vào dạ"
+    },
+    {
+     "t": 1.52,
+     "text": "dày suốt 1"
+    },
+    {
+     "t": 2.22,
+     "text": "tiếng đồng hồ,"
+    },
+    {
+     "t": 3.12,
+     "text": "con bọ nhỏ"
+    },
+    {
+     "t": 3.52,
+     "text": "bé này đã"
+    },
+    {
+     "t": 4.04,
+     "text": "làm gì để"
+    },
+    {
+     "t": 4.64,
+     "text": "thoát thân còn"
+    },
+    {
+     "t": 5.2,
+     "text": "sống nguyên vẹn?"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 6.07,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 8.72,
+     "side": "R",
+     "y": 580,
+     "value": "2cm",
+     "label": "kích thước tí hon",
+     "target": [
+      0.7,
+      0.52
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 6.32,
+     "text": "Đây là Bọ"
+    },
+    {
+     "t": 6.8,
+     "text": "Pháo Thủ,"
+    },
+    {
+     "t": 7.72,
+     "text": "gã tí hon"
+    },
+    {
+     "t": 8.24,
+     "text": "dài chỉ 2cm"
+    },
+    {
+     "t": 9.68,
+     "text": "nhưng sở hữu"
+    },
+    {
+     "t": 10.34,
+     "text": "khẩu đại bác"
+    },
+    {
+     "t": 10.92,
+     "text": "hóa học đáng"
+    },
+    {
+     "t": 11.46,
+     "text": "sợ nhất thế"
+    },
+    {
+     "t": 11.98,
+     "text": "giới côn trùng!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 12.83,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 13.08,
+     "text": "Bên trong bụng"
+    },
+    {
+     "t": 13.64,
+     "text": "gã là 2"
+    },
+    {
+     "t": 14.1,
+     "text": "buồng hóa chất"
+    },
+    {
+     "t": 14.66,
+     "text": "riêng biệt chứa"
+    },
+    {
+     "t": 15.44,
+     "text": "Hydroquinone và Hydrogen peroxide."
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 17.49,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 17.74,
+     "text": "Khi bị đe"
+    },
+    {
+     "t": 18.22,
+     "text": "dọa, con bọ"
+    },
+    {
+     "t": 18.88,
+     "text": "mở van xả"
+    },
+    {
+     "t": 19.58,
+     "text": "hóa chất vào"
+    },
+    {
+     "t": 20.16,
+     "text": "buồng đốt chứa"
+    },
+    {
+     "t": 20.8,
+     "text": "enzyme xúc tác,"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 21.73,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 23.16,
+     "side": "L",
+     "y": 560,
+     "value": "100°C",
+     "label": "nhiệt độ sôi",
+     "target": [
+      0.3,
+      0.48
+     ]
+    },
+    {
+     "t": 25.94,
+     "side": "R",
+     "y": 620,
+     "value": "500 Hz",
+     "label": "nổ liên thanh",
+     "target": [
+      0.72,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 21.98,
+     "text": "đun sôi dung"
+    },
+    {
+     "t": 22.58,
+     "text": "dịch lên đúng"
+    },
+    {
+     "t": 23.16,
+     "text": "100°C và kích"
+    },
+    {
+     "t": 24.5,
+     "text": "hoạt phản ứng"
+    },
+    {
+     "t": 25.22,
+     "text": "nổ liên thanh"
+    },
+    {
+     "t": 25.94,
+     "text": "500 lần/giây!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 26.9,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 30.62,
+     "side": "R",
+     "y": 580,
+     "value": "20 m/s",
+     "label": "vận tốc xé gió",
+     "target": [
+      0.68,
+      0.52
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 27.15,
+     "text": "Tia hơi hóa"
+    },
+    {
+     "t": 27.94,
+     "text": "chất sôi sùng"
+    },
+    {
+     "t": 28.46,
+     "text": "sục và cay"
+    },
+    {
+     "t": 29.28,
+     "text": "xé da bắn"
+    },
+    {
+     "t": 29.94,
+     "text": "ra với vận"
+    },
+    {
+     "t": 30.46,
+     "text": "tốc 20 m/s"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 31.37,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 32.46,
+     "side": "L",
+     "y": 580,
+     "value": "270°",
+     "label": "tháp pháo xoay tự do",
+     "target": [
+      0.32,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 31.62,
+     "text": "từ chiếc tháp"
+    },
+    {
+     "t": 32.08,
+     "text": "pháo xoay 270°"
+    },
+    {
+     "t": 33.52,
+     "text": "ở đuôi!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 33.93,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 34.18,
+     "text": "Kể cả khi"
+    },
+    {
+     "t": 34.74,
+     "text": "bị cóc nuốt"
+    },
+    {
+     "t": 35.24,
+     "text": "vào bụng,"
+    },
+    {
+     "t": 36.02,
+     "text": "Pháo Thủ Hóa"
+    },
+    {
+     "t": 36.5,
+     "text": "Học vẫn bình"
+    },
+    {
+     "t": 37.04,
+     "text": "tĩnh nã đạn"
+    },
+    {
+     "t": 37.56,
+     "text": "liên tiếp trong"
+    },
+    {
+     "t": 38.14,
+     "text": "dạ dày"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 38.59,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "t": 41.86,
+     "side": "R",
+     "y": 600,
+     "value": "40 PHÚT",
+     "label": "thời gian nôn mửa",
+     "target": [
+      0.72,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 38.84,
+     "text": "khiến con cóc"
+    },
+    {
+     "t": 39.28,
+     "text": "đau đớn dữ"
+    },
+    {
+     "t": 39.892,
+     "text": "dội và phải"
+    },
+    {
+     "t": 40.68,
+     "text": "nôn ọe gã"
+    },
+    {
+     "t": 41.32,
+     "text": "ra ngoài sau"
+    },
+    {
+     "t": 41.86,
+     "text": "40 phút!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 42.49,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 42.74,
+     "text": "Nhỏ bé nhưng"
+    },
+    {
+     "t": 43.4,
+     "text": "sở hữu kỹ"
+    },
+    {
+     "t": 43.98,
+     "text": "thuật cơ khí"
+    },
+    {
+     "t": 44.56,
+     "text": "đỉnh cao,"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 45.21,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 45.46,
+     "text": "đó chính là"
+    },
+    {
+     "t": 45.88,
+     "text": "bí thuật sinh"
+    },
+    {
+     "t": 46.4,
+     "text": "tồn bất bại"
+    },
+    {
+     "t": 46.98,
+     "text": "của Bọ Pháo Thủ!"
+    }
+   ]
+  }
+ ]
+}

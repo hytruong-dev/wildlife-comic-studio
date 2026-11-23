@@ -1,0 +1,714 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "VỤ ÁN DÙNG XE Ô TÔ LÀM CÔNG CỤ BÓC HẠT DẺ",
+   "hook": "CÔNG TỐ VIÊN CÔNG BỐ HỒ SƠ TỘI PHẠM LÔNG VŨ SỞ HỮU TRÍ NÃO CỦA ĐỨA TRẺ BẢY TUỔI",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chính thức mở phiên tòa",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhìn vẻ ngoài đen nhánh",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây không phải là",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lời khai của nhân chứng",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đặt ngay trước lốp",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một quả óc chó",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó bay vút lên",
+     "image": "assets/long/L08.png",
+     "stickers": [
+      {
+       "at": "Đèn xanh",
+       "side": "R",
+       "y": 280,
+       "value": "ĐÈN XANH",
+       "label": "thả hạt xuống",
+       "target": [
+        0.65,
+        0.42
+       ]
+      }
+     ],
+     "impacts": [
+      "Đèn xanh"
+     ]
+    },
+    {
+     "at": "lốp xe nghiền nát",
+     "image": "assets/long/L09.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó bình thản đậu",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đèn đỏ bật sáng",
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "Đèn đỏ",
+       "side": "L",
+       "y": 280,
+       "value": "ĐÈN ĐỎ",
+       "label": "xe dừng hẳn",
+       "target": [
+        0.35,
+        0.42
+       ]
+      }
+     ],
+     "impacts": [
+      "Đèn đỏ"
+     ]
+    },
+    {
+     "at": "ung dung sà xuống",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một chiến thuật hoàn hảo",
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà khoa học thần kinh",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "mật độ tế bào nơ-ron",
+     "image": "assets/long/L15.png",
+     "stickers": [
+      {
+       "at": "7 tuổi",
+       "side": "R",
+       "y": 320,
+       "value": "IQ 7 TUỔI",
+       "label": "ngang trẻ em",
+       "target": [
+        0.68,
+        0.5
+       ]
+      }
+     ],
+     "impacts": [
+      "7 tuổi"
+     ]
+    },
+    {
+     "at": "bốn chuỗi bằng chứng",
+     "image": "assets/long/L16.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "KHỞI TỐ VỤ ÁN"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "THÍ NGHIỆM AESOP DÂNG NƯỚC VÀ KHẢ NĂNG TÍNH TOÁN THỂ TÍCH",
+   "hook": "QUẠ ĐEN THỰC HÀNH VẬT LÝ NỔI: THẢ SỎI CHÌM DÂNG MỰC NƯỚC ĐỂ LẤY MỒI TRONG ỐNG NGHIỆM",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Suốt hàng thế kỷ",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2014",
+     "image": "assets/long/L19.png",
+     "stickers": [
+      {
+       "at": "Năm 2014",
+       "side": "L",
+       "y": 300,
+       "value": "NĂM 2014",
+       "label": "thí nghiệm aesop",
+       "target": [
+        0.3,
+        0.45
+       ]
+      }
+     ],
+     "impacts": [
+      "Năm 2014"
+     ]
+    },
+    {
+     "at": "Báo cáo giám định",
+     "image": "assets/long/L20.png",
+     "stickers": [
+      {
+       "at": "15cm",
+       "side": "R",
+       "y": 320,
+       "value": "15CM",
+       "label": "độ sâu ống",
+       "target": [
+        0.65,
+        0.52
+       ]
+      }
+     ],
+     "impacts": [
+      "15cm"
+     ]
+    },
+    {
+     "at": "Các nhà khoa học bày sẵn",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một đứa trẻ dưới",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó nghiêng đầu quan sát",
+     "image": "assets/long/L23.png",
+     "stickers": [
+      {
+       "at": "10 giây",
+       "side": "L",
+       "y": 320,
+       "value": "10 GIÂY",
+       "label": "thời gian tính toán",
+       "target": [
+        0.38,
+        0.5
+       ]
+      }
+     ],
+     "impacts": [
+      "10 giây"
+     ]
+    },
+    {
+     "at": "dùng chiếc mỏ sắc nhọn",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó hoàn toàn phớt lờ",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từng viên sỏi nặng",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "6 lượt thả sỏi",
+     "image": "assets/long/L27.png",
+     "stickers": [
+      {
+       "at": "6 lượt",
+       "side": "R",
+       "y": 320,
+       "value": "6 LƯỢT",
+       "label": "thả sỏi chuẩn xác",
+       "target": [
+        0.72,
+        0.45
+       ]
+      }
+     ],
+     "impacts": [
+      "6 lượt"
+     ]
+    },
+    {
+     "at": "tiếp tục nâng độ khó",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chỉ thả sỏi vào",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đây chính là nhận thức",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Archimedes",
+     "image": "assets/long/L31.png",
+     "stickers": [
+      {
+       "at": "Archimedes",
+       "side": "L",
+       "y": 300,
+       "value": "VẬT LÝ NỔI",
+       "label": "định luật acsimet",
+       "target": [
+        0.4,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #1"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "ĐỌC VỊ TÂM LÝ ĐỒNG LOẠI VÀ MÀN KỊCH CHÔN MỒI GIẢ MẠO",
+   "hook": "CÚ LỪA KINH ĐIỂN: GIẢ VỜ CHÔN THỨC ĂN DƯỚI ĐẤT RỒI MANG ĐI CHỖ KHÁC PHÒNG BỊ KẺ CƯỚP",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thuyết tâm trí",
+     "image": "assets/long/L33.png",
+     "stickers": [
+      {
+       "at": "Thuyết tâm trí",
+       "side": "R",
+       "y": 320,
+       "value": "TÂM LÝ HỌC",
+       "label": "đọc vị đối phương",
+       "target": [
+        0.7,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "từ đó dự đoán trước",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lời tố cáo",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi một con quạ kiếm được",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu phát hiện có một con",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó giả vờ ung dung",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhét miếng mồi vào",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng thực chất",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "kẻ rình mò hăm hở",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sải cánh bay tít",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Điều này chứng minh",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "điều khiển hành vi",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #2"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "CHẾ TẠO CÔNG CỤ LIÊN HOÀN VÀ UỐN CONG DÂY THÉP LÀM LƯỠI CÂU",
+   "hook": "QUẠ NEW CALEDONIA UỐN CONG DÂY THÉP THÀNH MÓC CÂU LẤY THỨC ĂN NGOÀI TẦM VỚI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng sử dụng một công cụ",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2002",
+     "image": "assets/long/L47.png",
+     "stickers": [
+      {
+       "at": "Năm 2002",
+       "side": "L",
+       "y": 300,
+       "value": "NĂM 2002",
+       "label": "đại học oxford",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": [
+      "Năm 2002"
+     ]
+    },
+    {
+     "at": "Báo cáo thực nghiệm",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Betty không hề cắn xé",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "kéo gập một góc",
+     "image": "assets/long/L50.png",
+     "stickers": [
+      {
+       "at": "90°",
+       "side": "R",
+       "y": 320,
+       "value": "GÓC 90°",
+       "label": "uốn cong móc câu",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": [
+      "90°"
+     ]
+    },
+    {
+     "at": "thọc thẳng xuống khe",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đây là lần đầu tiên",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "8 bước liên hoàn",
+     "image": "assets/long/L53.png",
+     "stickers": [
+      {
+       "at": "8 bước",
+       "side": "L",
+       "y": 320,
+       "value": "8 BƯỚC",
+       "label": "logic liên hoàn",
+       "target": [
+        0.35,
+        0.48
+       ]
+      }
+     ],
+     "impacts": [
+      "8 bước"
+     ]
+    },
+    {
+     "at": "Dùng chiếc que ngắn",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chọc thủng ổ khóa",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lập kế hoạch tương lai",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #3"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "NHẬN DIỆN KHUÔN MẶT CON NGƯỜI VÀ BẢN ÁN TRẢ THÙ KÉO DÀI 5 NĂM",
+   "hook": "BỘ NHỚ KHỦNG KHIẾP: NHẬN DIỆN MẶT KẺ THÙ VÀ TRUYỀN NỖI HẬN THÙ CHO CẢ ĐÀN QUA NHIỀU NĂM",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu bạn từng trót dại",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lời khai của giáo sư",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Dù giáo sư có thay đổi",
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chỉ cần ông đeo chiếc",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đồng loạt lao bổ xuống",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "suốt 5 năm",
+     "image": "assets/long/L63.png",
+     "stickers": [
+      {
+       "at": "5 năm",
+       "side": "L",
+       "y": 320,
+       "value": "5 NĂM",
+       "label": "thù dai truyền kiếp",
+       "target": [
+        0.4,
+        0.48
+       ]
+      }
+     ],
+     "impacts": [
+      "5 năm"
+     ]
+    },
+    {
+     "at": "Bằng một hệ thống ngôn ngữ",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngược lại",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Dick Cheney",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Loài quạ không chỉ nhớ",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẰNG CHỨNG #4"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "PHÁN QUYẾT CỦA TÒA ÁN TỰ NHIÊN & CÂU ĐỐ LINH THÚ TẬP 35",
+   "hook": "BẢN ÁN TRỌN ĐỜI: TRAO HUY CHƯƠNG TRÍ TUỆ ĐỈNH CAO CHO THIÊN TÀI LÔNG VŨ CỦA BẦU TRỜI",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hành vi của bị cáo",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tuyên án",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một tràng pháo tay",
+     "image": "assets/long/L71.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trí tuệ và khả năng tư duy",
+     "image": "assets/long/L72.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Lần tới nếu bạn vô tình",
+     "image": "assets/long/L73.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Còn bây giờ",
+     "image": "assets/long/L74.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ý kiến bình luận của bạn",
+     "image": "assets/long/L75.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tập 35",
+     "image": "assets/long/L76.png",
+     "stickers": [
+      {
+       "at": "Tập 35",
+       "side": "R",
+       "y": 300,
+       "value": "TẬP 35",
+       "label": "cá voi sát thủ",
+       "target": [
+        0.7,
+        0.45
+       ]
+      }
+     ],
+     "impacts": [
+      "Tập 35"
+     ]
+    },
+    {
+     "at": "Sát Thủ Biển Đen",
+     "image": "assets/long/L77.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "PHÁN QUYẾT"
+  }
+ }
+}

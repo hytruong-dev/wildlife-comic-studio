@@ -1,0 +1,308 @@
+{
+ "episode_no": 23,
+ "animal": "Hải Sâm",
+ "slug": "tap-23-hai-sam",
+ "format": "F1",
+ "persona": "bac_si",
+ "_angle_from_roadmap": "Khám nghiệm cơ thể hóa lỏng và pha phòng thủ kinh dị: Bắn toàn bộ ruột gan qua đường hậu môn trói chặt kẻ thù.",
+ "_shorts_idea_from_roadmap": "Khi bị dồn vào chân tường, Hải Sâm chọn cách bắn thẳng bộ ruột qua hậu môn!",
+ "nickname": "Quái Kiệt Ruột Mềm",
+ "sources": [
+  "Flammang et al. (2002) & De Moor et al. (2003), Journal of Experimental Biology — Cơ chế mô liên kết biến tính (mutable collagenous tissue) và protein tensilin điều hòa độ cứng",
+  "VandenSpiegel et al. (2000), The Biological Bulletin 198: 34-49 — Quá trình tái sinh ống Cuvierian ở Holothuria forskali hoàn chỉnh trong 5 tuần (35 ngày)",
+  "Parmentier & Vandewalle (2005), Symbiosis — Hành vi cá ngọc Carapidae chui vào hậu môn và cây hô hấp của hải sâm làm nơi trú ẩn",
+  "Garcia-Arraras et al. (1998, 2011), Cellular and Molecular Life Sciences — Cơ chế giải phẫu hiện tượng tự tống nội tạng (evisceration) và tái tạo toàn bộ ruột",
+  "Purcell et al. (2016), Marine Ecology Progress Series — Vai trò sinh thái lọc hàng chục kg trầm tích cát mỗi năm và bài tiết canxi cacbonat bảo vệ rạn san hô"
+ ],
+ "whisper_prompt": "Hải Sâm, Quái Kiệt Ruột Mềm, Holothuroidea, da gai, mô liên kết collagen, tensilin, ống Cuvier, Cuvierian, cá ngọc, Carapus, evisceration, cây hô hấp, canxi cacbonat, 20 lần, 35 ngày, 5 tuần, 1 giây, 50kg, 100%",
+ "display_fix": {
+  "hai mươi ba": "23",
+  "hai mươi bốn": "24",
+  "hai mươi bốn giờ": "24 giờ",
+  "bốn mươi xăng-ti-mét": "40cm",
+  "hai mươi lần": "20 lần",
+  "ba mươi lăm ngày": "35 ngày",
+  "mười lăm con": "15 con",
+  "bốn đến năm tuần": "4-5 tuần",
+  "năm tuần": "5 tuần",
+  "bốn tuần": "4 tuần",
+  "ba đến bốn lần": "3-4 lần",
+  "ba mươi xăng-ti-mét": "30cm",
+  "năm mươi ki-lô-gam": "50kg",
+  "hàng chục ki-lô-gam": "hàng chục kg",
+  "năm trăm gam": "500g",
+  "hàng trăm gam": "hàng trăm g",
+  "một trăm phần trăm": "100%",
+  "bốn hạng mục": "4 hạng mục",
+  "một giây": "1 giây",
+  "hai mươi": "20",
+  "năm ngàn": "5.000",
+  "hàng triệu": "hàng triệu",
+  "hàng trăm": "hàng trăm",
+  "năm cấp độ": "5 cấp độ",
+  "Cô-la-gen": "Collagen",
+  "cô-la-gen": "collagen",
+  "Ten-xi-lin": "Tensilin",
+  "Cu-vi-ê": "Cuvier",
+  "Hô-lô-thu-rin": "Holothurin",
+  "Ca-ra-pút": "Carapus",
+  "Mi-crô-nê-xi-a": "Micronesia"
+ },
+ "voice": {},
+ "art": {
+  "decor": "tiny sea stars, medical cross, pill capsules, bubbles",
+  "shorts_mascot": "A funny chubby cartoon brown sea cucumber wearing a doctor head mirror and lab coat, looking completely shocked as white spaghetti-like tubules shoot from its back",
+  "thumb_bg": "đáy biển sâu xanh thẫm huyền bí với rạn san hô và ánh đèn phòng khám",
+  "thumb_title": [
+   "BẮN CẢ BỘ RUỘT GAN?!",
+   "QUÁI KIỆT HẢI SÂM"
+  ],
+  "thumb_scene": "một chú Hải Sâm hoạt hình màu nâu đốm vàng to rõ, thân mũm mĩm như chiếc xúc xích khổng lồ, đeo kính khám bệnh, đang giơ hai tay nhỏ hoảng hốt khi phía sau bắn tung ra những sợi tơ trắng như mì Ý",
+  "thumb_gag": "một chú cá ngọc nhỏ xíu thò đầu ra từ đuôi hải sâm vẫy tay chào đầy hề hước"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "BỆNH ÁN #23",
+    "banner_title": "CA BỆNH CỤC THỊT KHÔNG NÃO",
+    "chapter_title": "Bệnh án #23: Ca cấp cứu sinh vật không não, không mắt, không tim",
+    "hook": "",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Phòng cấp cứu y khoa dã thiết lập tại trạm nghiên cứu đáy biển sâu. Chuông báo động vang lên hồi còi gấp rút, đèn mổ bật sáng trên khay kim loại khử trùng. Bệnh nhân số hai mươi ba tự trườn vào phòng khám với dáng vẻ chậm rãi kỳ quặc đến mức không tưởng: một cục thịt dài ngoằng màu nâu đốm vàng, mềm oặt như chiếc xúc xích bị bỏ quên dưới đáy cát... Không có hộp sọ. Không có bộ não. Không có lấy một đôi mắt. Và thậm chí không có cả một trái tim để đập bơm máu!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Bác sĩ ơi, em đo nhịp tim mãi mà máy cứ kêu tút tút bằng phẳng, bệnh nhân này thực sự là một sinh vật sống hay là một khúc chả lụa dưới biển vậy ạ?",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-oh] Trợ lý bình tĩnh, bệnh nhân vẫn đang sống nhăn răng... à quên, nó còn chẳng thèm có răng nữa cơ! [laughter] Xin giới thiệu với các đồng nghiệp: đây là Hải Sâm, sinh vật da gai thuộc lớp Động vật chân gai, họ hàng xa với sao biển và cầu gai. Kích thước trung bình dài khoảng hai mươi đến ba mươi xăng-ti-mét. Nhìn bề ngoài thì lù đù ngây ngô như khúc dưa chuột biển vô hại, nhưng trong giới sinh học biển, chúng tôi gọi thẳng tên nó bằng biệt danh: Quái Kiệt Ruột Mềm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Đừng để vẻ ngoài vô tri đó đánh lừa! Dù bị tước đoạt hầu hết các cơ quan nội tạng tiêu chuẩn của động vật có xương sống, Hải Sâm lại sở hữu những siêu năng lực tự vệ quái đản bậc nhất hành tinh: cơ thể tự hóa lỏng thành thạch nhớt trong tích tắc, thở trực tiếp bằng đường... hậu môn, và khi bị dồn vào chân tường, nó sẵn sàng bắn phăng toàn bộ ruột gan của mình ra ngoài để trói gô kẻ thù! Hôm nay, phòng khám của chúng ta sẽ mổ xẻ bốn hạng mục kỳ dị nhất của Quái Kiệt Ruột Mềm này!",
+      "mood": "nghiem_trang_gia"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "CHỤP CẮT LỚP",
+    "banner_title": "MÔ LIÊN KẾT HÓA LỎNG NHƯ THẠCH",
+    "chapter_title": "Chụp cắt lớp: Cơ thể tự chuyển từ cứng như đá sang lỏng như nước",
+    "hook": "TỰ HÓA LỎNG CHUI QUA KHE ĐÁ VÀ CỨNG LẠI TRONG 1 GIÂY",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Hạng mục khám đầu tiên: Chụp cắt lớp mô da và kiểm tra độ đàn hồi! Bình thường khi một con cua biển hay tôm hùm đói bụng mò tới định cắn thử, Quái Kiệt Ruột Mềm sẽ lập tức gồng cơ thể lên: toàn bộ lớp da dày sần sùi của nó đột ngột cứng ngắc lại như một khúc gỗ hóa thạch, khiến chiếc càng cua kẹp vào chỉ nghe tiếng cộp cộp trượt ra ngoài mà không thể xuyên thủng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng điều làm toàn bộ hội đồng y bác sĩ phải trợn tròn mắt là hiện tượng diễn ra ngay sau đó! Nếu kẻ săn mồi cố tìm cách lôi nó ra khỏi hang hốc, cơ thể nó chỉ mất đúng một giây để kích hoạt phản xạ thần kinh đặc biệt: toàn bộ lớp thịt cứng như đá bỗng nhiên mềm nhũn ra, chảy nhão như một khối thạch rau câu ấm nóng! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Nhờ trạng thái nhão nhớt tự hóa lỏng này, Hải Sâm có thể nhẹ nhàng luồn lách thân mình trượt qua những khe nứt đá ngầm hẹp chỉ bằng một nửa đường kính cơ thể nó! Vừa chui tọt vào bên trong khe đá an toàn xong, nó lại phóng điện hóa học và... cứng ngắc trở lại, chèn chặt vào vách đá khiến không có bất kỳ móng vuốt nào lôi nó ra được! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Bí mật đằng sau khả năng biến hình như người lỏng kẻ hủy diệt này là gì? Các nhà cơ sinh học phát hiện da của Hải Sâm được cấu tạo từ một loại vật liệu siêu đẳng mang tên mô liên kết biến tính, chủ yếu là các sợi cô-la-gen đan cài vào nhau. Nhưng thay vì dùng cơ bắp để co bóp, nó điều khiển các phân tử protein chuyên dụng như Ten-xi-lin và nồng độ ion canxi để chủ động khóa cứng hoặc tháo rời các liên kết sợi này trong chớp mắt! [laughter] Muốn cứng là cứng, muốn mềm là mềm, không tốn lấy một giọt calo vận động!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Để chứng minh điều kỳ diệu này, các nhà nghiên cứu từng làm một thí nghiệm trong phòng lab: khi ngâm một mẩu mô da của Hải Sâm vào dung dịch nước biển nhân tạo đã rút sạch ion canxi, toàn bộ cấu trúc da rã rời ra như một bát súp nhầy nhụa! Nhưng chỉ cần nhỏ vài giọt dung dịch canxi vào, các sợi cô-la-gen lập tức liên kết chéo trở lại, biến bát súp lỏng bỏng thành một khối thạch cứng đanh như gạch nung chỉ sau vài chục giây! [surprise-oh] Giới kỹ sư vật liệu sinh học hiện đại đang điên cuồng học hỏi cơ chế này để chế tạo áo giáp chống đạn thông minh: bình thường mặc mềm mại như áo phông, nhưng khi bị đạn bắn vào sẽ lập tức hóa cứng như thép tấm!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "NỘI SOI HẬU MÔN",
+    "banner_title": "THỞ QUA ĐÍT & KHÁCH TRỌ CÁ NGỌC",
+    "chapter_title": "Nội soi hậu môn: Cây hô hấp kỳ lạ và khách trọ cá ngọc chui vào",
+    "hook": "THỞ BẰNG HẬU MÔN VÀ KHÁCH SẠN MIỄN PHÍ CHO CÁ NGỌC",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Chuyển sang hạng mục khám thứ hai: Nội soi hệ hô hấp và kiểm tra khách trọ bất đắc dĩ! Nếu bạn hỏi Hải Sâm dùng mũi hay miệng để hít thở dưỡng khí, thì bác sĩ chúng tôi xin trả lời thẳng thắn: nó dùng đúng chiếc lỗ hậu môn để thở suốt hai mươi bốn giờ mỗi ngày! [laughter]",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Bên trong khoang sau của Quái Kiệt Ruột Mềm gắn liền với một hệ thống ống phân nhánh chằng chịt như hai cành cây san hô gọi là cây hô hấp. Cứ đều đặn ba đến bốn lần mỗi phút, chiếc lỗ hậu môn phía sau sẽ mở to ra, hút đầy nước biển giàu oxy vào trong hai nhánh cây hô hấp để trao đổi khí, rồi lại co bóp tống dòng nước cũ ra ngoài! Đối với Hải Sâm, thở và bài tiết dùng chung một cửa ngõ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Bác sĩ ơi, trong lúc đặt ống nội soi vào hậu môn bệnh nhân, em phát hiện có một cái đuôi cá đang ngọ nguậy thò ra thò vào ạ!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-oh] Đúng rồi đấy trợ lý ơi, đây là vụ việc trớ trêu và hài hước bậc nhất đại dương! [laughter] Lợi dụng chiếc cửa hậu môn mở ra đóng vào đều đặn để thở của Hải Sâm, một loài cá nhỏ nhắn trơn trượt tên là Cá Ngọc Ca-ra-pút đã nảy ra một ý tưởng sinh tồn siêu lười: nó bơi ngược dòng nước, dùng chiếc đầu nhọn hoặc đuôi trườn thẳng vào trong cơ thể Hải Sâm để ở nhờ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chào bác sĩ, em thuê phòng khách sạn ở đây mát mẻ an toàn lắm, kẻ thù bên ngoài không dám vào tìm đâu ạ!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "Chú cá ngọc coi lòng mề Hải Sâm như một căn hộ chung cư cao cấp hoàn toàn miễn phí! Ban ngày trốn kỹ bên trong nội tạng của gia chủ để ngủ, ban đêm mới thò đầu ra ngoài đi săn mồi. Tệ hơn nữa, đôi khi đói bụng quá, chú cá này còn tiện mồm gặm nhấm luôn một phần tuyến sinh dục hoặc mô ruột của Hải Sâm để ăn lót dạ! Nhưng Quái Kiệt Ruột Mềm của chúng ta thì vẫn thản nhiên thở phì phò, vì chút mô bị cắn mất sẽ tự mọc lại nhanh như thổi! Đúng là lòng vị tha đến mức bác sĩ cũng phải chào thua! [laughter]",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Các nhà sinh vật học biển từng ghi nhận một kỷ lục không tưởng khiến ai nấy đều phải ôm bụng cười: bên trong khoang cơ thể của một chú Hải Sâm dài bốn mươi xăng-ti-mét, người ta phát hiện có tới mười lăm con cá ngọc lớn nhỏ đang chen chúc nằm ngủ cùng một lúc! [surprise-wa] Chiếc lỗ hậu môn của Quái Kiệt Ruột Mềm bỗng chốc biến thành trạm xe buýt giờ cao điểm! Chưa hết, đôi khi cả những chú cua hạt đậu bé xíu cũng mò vào chiếm dụng không gian, biến cơ thể nó thành một khu bảo tồn sinh thái ngầm nhộn nhịp nhất rạn san hô!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "GIÁM ĐỊNH VŨ KHÍ",
+    "banner_title": "PHÓNG ỐNG CUVIER & CHẤT ĐỘC MẠNH",
+    "chapter_title": "Giám định vũ khí: Phóng búi ống Cuvier như pháo hoa sợi mì",
+    "hook": "BẮN BÙI TƠ BẠCH DÃN DÀI 20 LẦN DÍNH CHẶT KẺ THÙ",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Hạng mục khám thứ ba: Thử nghiệm vũ khí phòng vệ chủ động! Giả sử một con cá mập nhỏ hoặc một chú cua biển bạo lực vẫn quyết tâm không buông tha, dồn Hải Sâm vào thế ngàn cân treo sợi tóc. Không có chân để chạy trốn, không có hàm răng để cắn trả, chú Quái Kiệt Ruột Mềm sẽ làm gì? [question-oh]",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Nó lập tức quay đuôi lại phía kẻ thù, gồng mạnh cơ thành bụng và... bùm! Một loạt búi sợi màu trắng xóa mang tên ống Cu-vi-ê bắn tung tóe qua đường hậu môn phóng thẳng vào mặt đối thủ như một màn pháo hoa mì Ý kinh dị! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ngay khoảnh khắc chạm vào nước biển và cơ thể kẻ săn mồi, những ống Cu-vi-ê này lập tức dãn dài ra gấp hai mươi lần kích thước ban đầu! Đồng thời, lớp màng ngoài vỡ tung, giải phóng một loại chất keo sinh học siêu dính bám chặt vào vảy cá, mai cua và mắt mũi của kẻ địch! Kẻ tấn công càng giãy giụa hoảng loạn thì những sợi tơ dính càng quấn chặt như mạng nhện khổng lồ, khóa cứng hoàn toàn cử động của nó!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Chưa dừng lại ở đó, trong những sợi tơ phóng ra còn chứa hợp chất độc tố Hô-lô-thu-rin cực mạnh. Độc tố này làm tê liệt hệ thần kinh của các loài cá nhỏ, gây cảm giác bỏng rát cay xè mắt của kẻ săn mồi lớn! Trong lúc đối thủ đang bận quằn quại gỡ mớ mì tơ siêu dính ra khỏi mặt, Hải Sâm của chúng ta đã nhẹ nhàng trườn đi mất tăm mất tích! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Độ dai dính kinh dị của ống Cu-vi-ê đã được người dân bản địa ở các hòn đảo Thái Bình Dương như Mi-crô-nê-xi-a khai thác từ thời xa xưa! Ngư dân đi biển khi chẳng may bị đá san hô cứa rách chân đã dùng chính những búi tơ trắng này để băng bó vết thương như một loại băng gạc cầm máu tự nhiên. Thậm chí trong trường hợp khẩn cấp, họ còn quấn những búi tơ keo này quanh lòng bàn chân để tạo thành một lớp đế giày bảo hộ siêu bền, giúp họ bước đi thoải mái trên những rạn san hô lởm chởm sắc như dao cạo mà không hề bị trầy xước! [laughter]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "TỰ TỐNG NỘI TẠNG",
+    "banner_title": "BẮN SẠCH RUỘT & LỌC CÁT BIỂN SÂU",
+    "chapter_title": "Tự tống nội tạng: Phun sạch ruột gan và cỗ máy lọc sạch đáy biển",
+    "hook": "BẮN TOÀN BỘ RUỘT GAN VÀ TÁI TẠO NGUYÊN VẸN TRONG 35 NGÀY",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Hạng mục khám thứ tư: Pha thoát xác rùng rợn và vai trò sinh thái vĩ đại! Nhưng nếu ngay cả chiêu bắn ống Cu-vi-ê vẫn chưa đủ để dọa kẻ thù, Hải Sâm sẽ tung ra đòn hy sinh cuối cùng mang tên hiện tượng tự tống nội tạng! [surprise-oh]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Nó tự bẻ gãy các dây chằng nội tạng bên trong, tự làm rách thành hậu môn, và... nôn mửa tống thẳng toàn bộ dạ dày, đường ruột và các cơ quan nội tạng còn lại bắn ra ngoài biển! Kẻ săn mồi nhìn thấy đống thức ăn tươi sống béo ngậy trước mắt liền dừng lại chén no nê, hoàn toàn quên mất cái xác Hải Sâm rỗng tuếch vừa lủi trốn vào góc khuất! Đúng là kế kim thiền thoát xác phiên bản rùng mình nhất thế giới tự nhiên! [laughter]",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Mất sạch toàn bộ ruột gan, liệu bệnh nhân này có chết không? Các nghiên cứu sinh học tế bào khẳng định: Hoàn toàn không! Chỉ sau ba mươi lăm ngày, tức là khoảng năm tuần ngắn ngủi, từ các mô mầm còn sót lại, Hải Sâm tự phân chia tế bào và tái tạo lại nguyên vẹn một trăm phần trăm toàn bộ hệ tiêu hóa mới toanh: từ miệng, dạ dày, ruột non cho đến ống hậu môn hoàn chỉnh!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và khi đã mọc lại đường ruột, Quái Kiệt Ruột Mềm lập tức quay trở lại công việc vĩ đại nhất của nó: làm sạch đại dương! Mỗi ngày, một chú Hải Sâm cần mẫn nuốt hàng trăm gam bùn cát dưới đáy biển, tiêu hóa sạch sẽ mọi vụn thức ăn hữu cơ thừa thãi và vi khuẩn thối rữa, rồi thải ra những hạt cát sạch tinh khiết. Mỗi năm, một cá thể có thể lọc sạch tới hơn năm mươi ki-lô-gam cát! [surprise-oh] Thậm chí phân của nó còn giàu canxi cacbonat giúp giảm độ axit của nước biển, bảo vệ các rạn san hô khỏi nguy cơ tẩy trắng!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Trong các thí nghiệm sinh học phân tử, khi kiểm tra các mẫu nước nuôi trồng thủy sản bị ô nhiễm nặng đầy chất thải hữu cơ, người ta chỉ cần thả vào bể vài cá thể Hải Sâm. Sau đúng hai mươi bốn giờ cần mẫn cày xới, toàn bộ cặn bã ô nhiễm dưới đáy bể đã được lọc sạch bóng, nước trong vắt trở lại như nước suối nguồn! Chúng chính là những chiếc máy hút bụi cần cù và vĩ đại nhất bảo vệ sự sống còn của toàn bộ đáy đại dương!",
+      "mood": "am_ap"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "KẾT LUẬN Y KHOA",
+    "banner_title": "ĐƠN THUỐC BẤT LỰC & CA TIẾP THEO",
+    "chapter_title": "Kết luận y khoa: Đơn thuốc bất lực và bóng đen cỗ máy tạo đờm",
+    "hook": "ĐƠN THUỐC CHO BỆNH NHÂN KHÔNG Não VÀ BÓNG ĐEN TẠO ĐỜM",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Tổng kết bệnh án số hai mươi ba. Từ một khối thịt mềm oặt không não, không mắt, không xương sống, Hải Sâm đã biến những điểm yếu tưởng chừng tuyệt vọng thành một bộ giáp sinh tồn đỉnh cao: tự hóa lỏng da như thạch, thở bằng hậu môn, cưu mang cá ngọc, và sẵn sàng hy sinh cả bộ ruột để giữ lấy mạng sống!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Kê đơn xuất viện: Cho bệnh nhân về lại đáy cát biển sâu, tiếp tục cày xới làm sạch đại dương và tuyệt đối nhắc nhở khách trọ cá ngọc... đừng có cắn trộm ruột chủ nhà nữa nhé! Ký tên: bác sĩ đã hoàn toàn bất lực! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Còn các đồng nghiệp thì sao? Nếu được sở hữu một trong hai năng lực của Quái Kiệt Ruột Mềm: tự hóa lỏng cơ thể để lách qua khe hẹp, hay bắn mạng tơ keo siêu dính trói gô kẻ bắt nạt, bạn chọn cái nào? Hãy để lại bình luận bên dưới nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hồ sơ bệnh án phòng khám hôm nay xin tạm gác lại. Nhưng tập sau, chúng ta sẽ quay trở lại phòng thí nghiệm năm cấp độ để đối đầu với một cỗ máy kinh dị đáy biển còn đáng sợ hơn nữa! Một sinh vật cổ đại trơn tuột như lươn, không có hàm, không có xương sống, nhưng khi bị cá mập cắn vào, nó có thể biến hai mươi lít nước biển xung quanh thành một khối keo nhớt đặc quánh chỉ trong đúng một giây làm nghẹt thở kẻ thù, rồi tự thắt nút cơ thể như một ảo thuật gia để tẩu thoát! Đố các bạn biết bóng đen bí ẩn kỳ sau là loài vật nào? Hãy đoán ngay ở phần bình luận nhé!",
+      "mood": "am_ap"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Khi bị kẻ săn mồi dồn vào chân tường, loài vật này không chạy trốn, mà chọn cách... bắn thẳng toàn bộ ruột gan của mình qua đường hậu môn để tẩu thoát! [laughter] Xin giới thiệu Hải Sâm, sinh vật hình chiếc xúc xích dài ba mươi xăng-ti-mét sống dưới đáy biển sâu. Cơ thể nó không hề có não, không có mắt, không có tim, và thở bằng cách bơm nước vào ra chiếc lỗ hậu môn! [surprise-wa] Da của nó làm từ mô liên kết đặc biệt, có thể tự chuyển từ cứng ngắc như đá sang mềm nhão như thạch chỉ trong một giây để chui lọt qua khe đá hẹp! Khi bị tấn công, nó bắn ra những ống tơ trắng dãn dài gấp hai mươi lần dính chặt cứng lấy kẻ thù. Nếu vẫn chưa thoát, nó sẵn sàng nôn sạch toàn bộ đường ruột ra ngoài để kẻ địch mải ăn, rồi lủi trốn và tự mọc lại nguyên vẹn bộ ruột mới chỉ sau năm tuần! Một quái kiệt đáy biển vừa biết hóa lỏng, vừa thở bằng hậu môn, đúng là phép màu sinh học điên rồ nhất đại dương!"
+ },
+ "seo": {
+  "title": "Sinh Vật Không Não Bắn Cả Bộ Ruột Qua Hậu Môn Để Thoát Thân?!",
+  "hook_paragraph": "Hải Sâm (Sea Cucumber) dài 30cm không có não, không mắt, không tim nhưng sở hữu siêu năng lực kỳ dị bậc nhất đáy biển: tự hóa lỏng da như thạch trong 1 giây, thở bằng hậu môn, cưu mang cá ngọc trong mông và bắn sạch ruột gan để trói kẻ thù rồi tự mọc lại sau 5 tuần!",
+  "bullets": [
+   "Chụp cắt lớp: Mô liên kết collagen tự hóa lỏng như thạch để chui qua khe đá và cứng lại trong 1 giây",
+   "Nội soi hậu môn: Thở bằng 2 cây hô hấp qua hậu môn và câu chuyện cá ngọc chui vào ở nhờ",
+   "Giám định vũ khí: Bắn búi ống Cuvier dãn dài gấp 20 lần dính chặt kẻ thù kèm độc tố Holothurin",
+   "Tự tống nội tạng: Phun sạch ruột gan để thoát thân rồi tự tái sinh 100% trong 5 tuần (35 ngày)"
+  ],
+  "question": "Nếu được sở hữu 1 năng lực của Hải Sâm: tự hóa lỏng cơ thể như thạch hay bắn tơ keo siêu dính trói kẻ thù, bạn chọn cái nào? Và đoán xem bóng đen tập sau là loài nào?",
+  "next_teaser": "Bóng đen bí ẩn cổ đại: biến 20 lít nước thành keo nhớt đặc quánh trong 1 giây làm ngạt cá mập và tự thắt nút cơ thể!",
+  "hashtags": [
+   "#độngvật",
+   "#hảisâm",
+   "#VẽChuyệnHoangDã"
+  ],
+  "tags": [
+   "hải sâm",
+   "hai sam",
+   "sea cucumber",
+   "holothuroidea",
+   "hải sâm bắn ruột",
+   "hóa lỏng cơ thể",
+   "cá ngọc hải sâm",
+   "động vật kỳ lạ",
+   "thế giới động vật",
+   "động vật hài hước",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị",
+   "bệnh án tiến hóa",
+   "hải sâm biển",
+   "hải sâm gai",
+   "hải sâm đen"
+  ],
+  "shorts_title": "Sinh Vật Bắn Cả Bộ Ruột Qua Hậu Môn Để Thoát Thân?! 🥒 #độngvật #hảisâm",
+  "shorts_desc": "Hải Sâm dài 30cm không não, không mắt, thở bằng hậu môn, tự hóa lỏng da như thạch trong 1 giây và sẵn sàng bắn sạch ruột gan để trói chặt kẻ thù rồi tự mọc lại sau 5 tuần! Khám phá bí mật Quái Kiệt Ruột Mềm.",
+  "shorts_tags": [
+   "hải sâm",
+   "sea cucumber",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ],
+  "en_title": "The Brainless Creature That Shoots Its Guts Out Its Anus?! | Ep 23",
+  "en_hook": "Meet the Sea Cucumber: no brain, no eyes, no heart, yet it can liquefy its own skin into gel within 1 second, breathes through its anus, hosts fish inside its body, and shoots its entire digestive tract out to entangle predators before fully regenerating in 5 weeks!",
+  "en_chapters": [
+   "ER Case #23: The Brainless Meat Log Emergency",
+   "CT Scan: Catch Collagen Tissue Liquefying at Will",
+   "Anus Endoscopy: Respiratory Trees & Pearlfish Tenants",
+   "Weapon Test: Cuvierian Tubules Expanding 20x Like Glue",
+   "Evisceration & Sand Filter: Gut Regrowth in 35 Days",
+   "Doctor's Verdict & Next Slime Machine Teaser"
+  ],
+  "en_shorts_title": "The Creature That Shoots Its Guts Out Its Anus?! 🥒 #animals #seacucumber"
+ }
+}

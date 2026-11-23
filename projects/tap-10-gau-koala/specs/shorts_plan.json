@@ -1,0 +1,110 @@
+{
+ "title_lines": [
+  "BÀY ĐỒ ĂN RA ĐĨA",
+  "NHƯNG THÀ NHỊN ĐÓI?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Lý do là vì",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "Khi chụp X-quang hộp",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "tới 40% hộp",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "at": "40%",
+     "side": "L",
+     "y": 650,
+     "value": "40% NƯỚC",
+     "label": "hộp sọ đệm lỏng",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "còn bộ não bên",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "Nó ăn thứ lá",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "sở hữu đoạn ruột",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "at": "2m",
+     "side": "R",
+     "y": 580,
+     "value": "RUỘT 2M",
+     "label": "lọc độc Xyanua",
+     "target": [
+      0.65,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "và phải ngủ li",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "at": "22 tiếng",
+     "side": "L",
+     "y": 850,
+     "value": "NGỦ 22H",
+     "label": "tiết kiệm pin",
+     "target": [
+      0.35,
+      0.7
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Chưa hết, đầu ngón",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "Bạn có tin một",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  },
+  {
+   "at": "Xem trọn bộ hồ",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  }
+ ]
+}

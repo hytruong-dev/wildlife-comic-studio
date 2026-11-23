@@ -1,0 +1,342 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "BÍ MẬT ĐẰNG SAU NỤ CƯỜI HOẠT HÌNH VĨNH CỬU CỦA CÁ HEO",
+   "hook": "",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong mọi bộ phim hoạt",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khung xương hàm dưới của",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thực tế, đằng sau gương",
+     "image": "assets/long/L04.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chúng là biệt đội học",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "và hợp sức xua đuổi",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "VÕ ĐÀI BIỂN KHƠI"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "THIÊN TÀI TRÍ TUỆ VÀ ĐỘ HAM CHƠI 999 ĐIỂM",
+   "hook": "",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đầu tiên là chỉ số",
+     "image": "assets/long/L08.png",
+     "stickers": [
+      {
+       "at": "99/100",
+       "side": "R",
+       "y": 360,
+       "value": "99/100",
+       "label": "siêu trí tuệ não lớn",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thứ hai là chỉ số Ra-đa",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "100/100",
+       "side": "L",
+       "y": 360,
+       "value": "100/100",
+       "label": "ra-đa siêu âm đáy biển",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Dù bơi trong làn nước",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thứ ba là chỉ số Tốc Độ",
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "95/100",
+       "side": "L",
+       "y": 360,
+       "value": "95/100",
+       "label": "ngư lôi biển sâu",
+       "target": [
+        0.5,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ làn da trơn láng",
+     "image": "assets/long/L12.png",
+     "stickers": [
+      {
+       "at": "55 km/h",
+       "side": "R",
+       "y": 360,
+       "value": "55 KM/H",
+       "label": "tốc độ ngư lôi",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Và cuối cùng là chỉ",
+     "image": "assets/long/L13.png",
+     "stickers": [
+      {
+       "at": "999",
+       "side": "R",
+       "y": 360,
+       "value": "999",
+       "label": "độ ham chơi tinh quái",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Từ việc tự thổi những",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CHỈ SỐ RPG"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "KHỐI MỠ MELON, NGỦ LUÂN PHIÊN NỬA NÃO VÀ GIAI ĐIỆU TÊN RIÊNG",
+   "hook": "",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L15.png",
+     "stickers": [
+      {
+       "at": "1.000",
+       "side": "R",
+       "y": 360,
+       "value": "1.000",
+       "label": "tiếng click siêu âm/s",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Kỳ diệu hơn nữa là",
+     "image": "assets/long/L16.png",
+     "stickers": [
+      {
+       "at": "suốt 8",
+       "side": "L",
+       "y": 360,
+       "value": "8 TIẾNG",
+       "label": "ngủ luân phiên não",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Không chỉ có não bộ",
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí ở vịnh Shark",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "GIẢI PHẪU KỲ DIỆU"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "TRÒ CHƠI BÓNG CHUYỀN CÁ NÓC VÀ MA TRẬN LƯỚI BÙN",
+   "hook": "",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ngay sau đó, cả nhóm",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đến khi cần kiếm bữa",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhưng bên ngoài bức tường",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CÚ BẺ LÁI HÀI HƯỚC"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "KHẮC TINH CÁ MẬP TRẮNG VÀ HUYỀN THOẠI HOA TIÊU PELORUS JACK",
+   "hook": "",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "rồi thay phiên nhau lao",
+     "image": "assets/long/L24.png",
+     "stickers": [
+      {
+       "at": "55 km/h",
+       "side": "R",
+       "y": 360,
+       "value": "ROSTRUM",
+       "label": "húc vỡ nội tạng cá mập",
+       "target": [
+        0.6,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Đối với con người, cá",
+     "image": "assets/long/L25.png",
+     "stickers": [
+      {
+       "at": "24 năm",
+       "side": "L",
+       "y": 360,
+       "value": "24 NĂM",
+       "label": "hoa tiêu pelorus jack",
+       "target": [
+        0.55,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cho đến tận ngày nay,",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HIỆP SĨ BIỂN CẢ"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "BÀI HỌC ĐẠI DƯƠNG VÀ BẬT MÍ SINH VẬT KỲ QUẶC NHẤT HÀNH TINH",
+   "hook": "",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy cùng nhau giữ gìn",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và nếu bạn nghĩ một",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "KẾT LUẬN"
+  }
+ }
+}

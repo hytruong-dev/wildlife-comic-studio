@@ -1,0 +1,305 @@
+{
+ "episode_no": 21,
+ "animal": "Ếch Lông Wolverine",
+ "slug": "tap-21-ech-long-wolverine",
+ "format": "F1",
+ "persona": "bac_si",
+ "_angle_from_roadmap": "Khám nghiệm cơ chế tự hủy điên rồ: Tự co cơ bẻ gãy xương ngón chân đâm thủng da thịt ra ngoài làm vuốt chiến đấu.",
+ "_shorts_idea_from_roadmap": "Loài ếch tự bẻ gãy xương ngón tay đâm xuyên qua da để làm móng vuốt!",
+ "nickname": "Dị Nhân Đầm Lầy",
+ "sources": [
+  "Blackburn, Hanken & Jenkins (2008), Biology Letters 4(4): 355-357 — Cơ chế xương ngón chân II-V chọc thủng da làm vuốt ở Trichobatrachus robustus và Astylosternus (khảo sát 63 loài ếch châu Phi, 11 loài có vuốt; vỏ xương dày từ 0,02mm lên 0,13mm ở mũi vuốt)",
+  "AmphibiaWeb / Channing & Rödel (2019) — Kích thước trung bình con đực 130mm (10-13cm), con cái 90mm (8-11cm); sinh sản khoảng tháng 4-6; 3 hàng gai sừng trên ngón cái con đực",
+  "Noble (1925) & Barej et al. (2010), Revue Suisse de Zoologie — Sợi nhú da đường kính 0,35-0,45mm chứa mao mạch tăng hấp thụ oxy qua da bổ sung cho phổi nhỏ khi con đực canh trứng dưới nước",
+  "Gerald Durrell (1954), The Bafut Beagles & EDGE of Existence — Vuốt gây vết thương chảy máu sâu; thợ săn Cameroon dùng giáo dài hoặc dao rựa; nhóm top 3,5% lưỡng cư tiến hóa độc đáo nhất",
+  "Gonwouo & Rödel (2008) & Wikipedia — Người Bakossi ở Cameroon từng tin loài ếch này rơi từ trên trời xuống; săn bắt làm thực phẩm và buôn bán sang Mỹ, Nhật Bản"
+ ],
+ "whisper_prompt": "Ếch Lông Wolverine, Dị Nhân Đầm Lầy, Trichobatrachus robustus, Ca-mơ-run, Cameroon, Đa-vít Blách-bơn, David Blackburn, Ha-vớt, Harvard, cô-la-gen, collagen, kê-ra-tin, keratin, Giê-rôn Đu-reo, Gerald Durrell, Ba-cốt-xi, Bakossi, EDGE, 13cm, 9cm, 0,02mm, 0,13mm, 0,35mm, 0,45mm, 63 loài, 11 loài, 3,5%, 1954, 2008",
+ "display_fix": {
+  "hai mươi mốt": "21",
+  "mười ba xăng-ti-mét": "13cm",
+  "mười xăng-ti-mét": "10cm",
+  "chín xăng-ti-mét": "9cm",
+  "mười một xăng-ti-mét": "11cm",
+  "sáu mươi ba loài": "63 loài",
+  "mười một loài": "11 loài",
+  "một trăm phần trăm": "100%",
+  "bốn hạng mục": "4 hạng mục",
+  "tám ngón chân sau": "8 ngón chân sau",
+  "bốn ngón": "4 ngón",
+  "hai chân sau": "2 chân sau",
+  "hai năm": "2 năm",
+  "hai ngàn lẻ tám": "2008",
+  "một ngàn chín trăm năm mươi tư": "1954",
+  "một ngàn chín trăm hai mươi lăm": "1925",
+  "không phẩy không hai mi-li-mét": "0,02mm",
+  "không phẩy mười ba mi-li-mét": "0,13mm",
+  "sáu lần": "6 lần",
+  "không phẩy ba mươi lăm": "0,35",
+  "không phẩy bốn mươi lăm mi-li-mét": "0,45mm",
+  "không phẩy bốn mi-li-mét": "0,4mm",
+  "tháng tư": "tháng 4",
+  "tháng sáu": "tháng 6",
+  "ba hàng gai": "3 hàng gai",
+  "ba lưỡi nhọn": "3 lưỡi nhọn",
+  "ba phẩy năm phần trăm": "3,5%",
+  "một phần ba": "1/3",
+  "sáu chiếc sừng": "6 chiếc sừng",
+  "hàng trăm": "hàng trăm",
+  "Ca-mơ-run": "Cameroon",
+  "Đa-vít Blách-bơn": "David Blackburn",
+  "Ha-vớt": "Harvard",
+  "Cô-la-gen": "Collagen",
+  "cô-la-gen": "collagen",
+  "Kê-ra-tin": "Keratin",
+  "kê-ra-tin": "keratin",
+  "Giê-rôn Đu-reo": "Gerald Durrell",
+  "Ba-cốt-xi": "Bakossi",
+  "Ma-ri-a-na": "Mariana"
+ },
+ "voice": {},
+ "art": {
+  "decor": "tiny fern leaves, medical cross, pill capsules",
+  "shorts_mascot": "A chubby fierce-looking cartoon African hairy frog (brownish-olive toad body with shaggy green-brown hair-like skin fringes along its sides, tiny white doctor head mirror, tiny bone claws peeking out of hind feet) holding an X-ray film",
+  "thumb_bg": "rừng mưa nhiệt đới Trung Phi xanh thẫm trong đêm có ánh đèn phòng khám",
+  "thumb_title": [
+   "TỰ BẺ XƯƠNG LÀM VUỐT?!",
+   "ẾCH WOLVERINE"
+  ],
+  "thumb_scene": "một chú Ếch Lông Wolverine hoạt hình to rõ (thân nâu rêu mũm mĩm, hai bên sườn có tua lông xù xì như râu quai nón, đeo gương khám bệnh trên trán), giơ bàn chân sau với những chiếc vuốt xương trắng nhọn vừa đâm thủng da cực ngầu, bên cạnh là tấm phim X-quang bàn chân",
+  "thumb_gag": "một ống nghe bác sĩ và cuộn băng gạc y tế quấn quanh ngón chân đang chảy giọt mồ hôi"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "BỆNH ÁN #21",
+    "banner_title": "CA CẤP CỨU TỰ HỦY RÙNG RỢN",
+    "chapter_title": "Bệnh án #21: Ca cấp cứu tự bẻ xương đâm thủng da",
+    "hook": "",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Đêm khuya tại phòng cấp cứu dã chiến giữa rừng mưa Trung Phi. Đèn còi hú vang, cả ê-kíp trực bật dậy đón một ca chấn thương kỳ lạ nhất lịch sử ngành y. Bệnh nhân tự bước vào phòng khám với tám vết rách gọn lỏn dưới lòng bàn chân... Không phải do thú dữ cắn. Không phải do dẫm phải gai rừng. Mà là do chính bệnh nhân tự gồng cơ... bẻ gãy mối nối xương ngón chân mình rồi đâm xuyên qua da thịt chui ra ngoài!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Bác sĩ ơi, em băng bó xong rồi nhưng nhìn mặt bệnh nhân vẫn tỉnh bơ như không có chuyện gì luôn ạ!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-oh] Các đồng nghiệp nhìn kỹ hồ sơ đi: bệnh nhân số hai mươi mốt không phải gấu, không phải sói, mà là một con ếch! [laughter] Đây là Ếch Lông Wolverine, tên khoa học cực kỳ hầm hố, sống ẩn dật dọc các dòng suối núi ở Ca-mơ-run và vùng Trung Phi. Con đực trưởng thành dài khoảng mười đến mười ba xăng-ti-mét, to cỡ nắm tay người lớn. Trông ngoài mặt thì lầm lì mũm mĩm như cục đất sét biết thở, nhưng trong phòng khám này, chúng tôi gọi thẳng nó bằng biệt danh: Dị Nhân Đầm Lầy!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Điều khiến tôi bất lực nhất ngay từ vòng tiếp nhận là quy luật ngược đời của loài này. Ở phần lớn thế giới ếch nhái, con cái lúc nào cũng to béo gấp rưỡi con đực để mang trứng. Riêng nhà Dị Nhân Đầm Lầy thì ngược hẳn: con cái chỉ dài chín xăng-ti-mét, còn ông chồng lại phổng phao tới mười ba xăng-ti-mét! [surprise-ah] Chưa hết, mùa thường nó trơn láng như bao con ếch khác, nhưng cứ đến mùa chăm con, hai bên sườn nó tự mọc ra một bộ lông xù xì như râu quai nón! Hôm nay, tôi mời các đồng nghiệp cùng soi đèn công suất lớn để khám nghiệm bốn hạng mục kỳ dị nhất trên cơ thể gã dị nhân tự hủy này!",
+      "mood": "nghiem_trang_gia"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "CHỤP X-QUANG",
+    "banner_title": "CƠ CHẾ XƯƠNG TRẦN CHỌC THỦNG DA",
+    "chapter_title": "Chụp X-quang: Cơ chế xương trần tự đâm thủng da làm vuốt",
+    "hook": "VUỐT XƯƠNG TRẦN ĐÂM THỦNG DA THỊT",
+    "mood": "nghiem_trang_gia",
+    "parts": [
+     {
+      "text": "Hạng mục khám đầu tiên: Chụp X-quang hai bàn chân sau! Nhìn bằng mắt thường, bàn chân của Dị Nhân Đầm Lầy tròn ủm, mềm mại và có màng bơi trông cực kỳ hiền lành vô hại. Nhưng khi đặt chân nó lên máy chụp cắt lớp, cả phòng khám suýt nữa làm rơi cả tách cà phê xuống sàn! [surprise-wa] Ẩn sâu bên dưới lớp da thịt mịn màng kia là cả một kho dao bấm sinh học giấu kín. Ở mèo, chó hay đại bàng, móng vuốt được làm từ chất sừng kê-ra-tin mọc sẵn bên ngoài giống như móng tay của chúng ta. Còn vuốt của Dị Nhân Đầm Lầy thì không hề có lớp sừng bọc ngoài nào cả! Thứ chọc ra ngoài là xương trần một trăm phần trăm!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Cơ chế khai hỏa của nó hoạt động chẳng khác gì phim hành động viễn tưởng! Năm hai ngàn lẻ tám, tiến sĩ Đa-vít Blách-bơn tại Đại học Ha-vớt đã soi kính hiển vi giải phẫu và giải mã bí ẩn này. Lúc bình thường, đầu xương nhọn hoắt hình móc câu nằm ngoan ngoãn dưới da, được neo chặt vào một cục xương nhỏ xíu ở đầu ngón nhờ dải mô liên kết giàu cô-la-gen. Nhờ chốt an toàn đó, nó đi lại chạy nhảy thoải mái mà không tự đâm vào chân mình!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng chỉ cần một kẻ săn mồi vừa thò tay chạm vào lưng! Dị Nhân Đầm Lầy lập tức co cực mạnh bó cơ gập dưới bàn chân! Lực kéo giật đứt phăng mối nối cô-la-gen giữ chốt an toàn! Đầu xương nhọn lập tức xoay gập xuống dưới và chọc thủng lớp đệm da thịt của tám ngón chân sau! [surprise-oh] Các bác sĩ đo được lớp vỏ xương ở gốc chỉ dày không phẩy không hai mi-li-mét, nhưng càng ra tới mũi nhọn càng đặc cứng gấp hơn sáu lần, đạt không phẩy mười ba mi-li-mét, biến mũi xương thành một lưỡi dao găm thực thụ!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Nghe tới đây chắc các đồng nghiệp đều toát mồ hôi hột: thế lúc hết đánh nhau rồi, làm sao nó thu vuốt vào được? [question-ah] Chẳng lẽ đứng đó chịu trận với tám ngón chân lòi xương mãi sao? Câu trả lời còn làm bác sĩ chúng tôi ngơ ngác hơn: trên bàn chân nó hoàn toàn không có bất kỳ bó cơ nào dùng để kéo chiếc vuốt trở lại! Các nhà khoa học nhận định rằng khi cơn nguy hiểm qua đi và cơ chân thả lỏng, chiếc vuốt xương có lẽ tự trượt ngược vào trong một cách thụ động. Còn vết thương rách da kia thì nhờ khả năng hồi phục nhanh của loài lưỡng cư mà tự liền lại như chưa từng có chuyện gì xảy ra! Đúng là siêu anh hùng nhưng... mỗi lần rút vũ khí hơi tốn băng gạc một chút! [laughter]",
+      "mood": "bi_hai"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "NỘI SOI DA",
+    "banner_title": "BỘ LÔNG GIẢ & LÁ PHỔI BÉ XÍU",
+    "chapter_title": "Nội soi da: Bộ lông mạch máu giúp thở và lá phổi teo tóp",
+    "hook": "LÔNG MẠCH MÁU HÚT OXY DƯỚI SUỐI",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Chuyển sang hạng mục khám thứ hai: Soi da liễu và kiểm tra hệ hô hấp! Thú thật với các đồng nghiệp, lúc mới đọc tên bệnh nhân là Ếch Lông, tôi cứ tưởng nó bị rụng tóc rơi vào người hoặc tiến hóa ngược mọc lông giống chuột. Nhưng khi đặt mẫu da dưới kính hiển vi, sự thật lại nằm ở một chân trời hoàn toàn khác!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Trời đất ơi, đi bơi giữa suối lạnh mà anh mặc nguyên cái áo lông rậm rạp thế kia không thấy vướng víu à?",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "[laughter] Chú ếch hàng xóm thắc mắc rất đúng trọng tâm, nhưng thực ra thứ mọc đầy hai bên sườn và đùi của Dị Nhân Đầm Lầy hoàn toàn không phải lông hay tóc gì cả! Đó là hàng trăm sợi nhú da mềm, đường kính mỗi sợi chỉ từ không phẩy ba mươi lăm đến không phẩy bốn mươi lăm mi-li-mét — mỏng tương đương sợi cước mảnh. Bên trong mỗi sợi nhú da ấy chạy chằng chịt những mạch máu mao mạch sát ngay lớp biểu bì ngoài cùng. Và kỳ lạ nhất là chỉ có con đực mới mọc bộ lông kỳ dị này vào đúng mùa sinh sản, khoảng từ tháng tư đến tháng sáu hàng năm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tại sao tạo hóa lại gắn hàng trăm sợi tua rua mạch máu lên hông một ông bố ếch? Câu trả lời được nhà động vật học Nô-bờ tìm ra từ năm một ngàn chín trăm hai mươi lăm khi mổ xẻ nội soi lá phổi của nó. Hóa ra phổi của Dị Nhân Đầm Lầy con đực có cấu tạo vô cùng kỳ quặc và hạn chế so với nhu cầu năng lượng khổng lồ lúc nó vận động cơ bắp! Khi con cái đẻ trứng xong rồi lên bờ rừng lá khô đi chơi, ông bố ếch phải ở lại lặn ngụp dưới lòng suối đá chảy xiết để canh giữ bọc trứng suốt nhiều tuần liền!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Ngồi lì dưới nước mà không được ngoi lên thở liên tục, lại phải gồng mình trông con, lượng oxy qua lá phổi tí hon hoàn toàn không đủ dùng! Thế là cơ thể nó tự kích hoạt bản nâng cấp sinh học: mọc tua tủa hàng trăm sợi nhú da giàu mạch máu ở sườn và đùi để tăng gấp bội diện tích tiếp xúc với nước! [surprise-oh] Những sợi lông giả đó hoạt động chẳng khác nào một dàn mang cá tạm thời, hút oxy trực tiếp từ dòng suối xuyên qua da vào thẳng máu! Chưa hết, lúc ẩn mình dưới đá suối, đám tua rua lất phất theo dòng nước còn trông y hệt đám rêu tảo, giúp ông bố ngụy trang che mắt kẻ săn mồi! Hết mùa giữ trứng, bộ lông tự động teo rụng sạch sẽ, trả lại vẻ bảnh bao gọn gàng! [laughter]",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "GIÁM ĐỊNH TIẾN HÓA",
+    "banner_title": "HỘI TỰ HỦY & VẾT RẠCH TAY",
+    "chapter_title": "Giám định tiến hóa: So sánh hội tự hủy và gai bám suối xiết",
+    "hook": "ĐÂM XƯƠNG SƯỜN & VẾT CÀO CHẢY MÁU",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Hạng mục khám thứ ba: Kiểm tra hồ sơ gia phả dị nhân! Khi tiến sĩ Đa-vít Blách-bơn kiểm tra mẫu vật của sáu mươi ba loài ếch châu Phi trong bảo tàng, ông phát hiện không chỉ mình Dị Nhân Đầm Lầy biết chơi chiêu rút xương làm vuốt! Tổng cộng có tới mười một loài thuộc ba chi họ hàng ở Trung Phi đều sở hữu bộ vũ khí giấu kín đáng sợ này!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Nếu mở rộng hồ sơ sang các loài lưỡng cư khác trên thế giới, hội tự hủy còn có một thành viên cực gắt khác là loài kỳ giông gân sườn Tây Ban Nha: khi bị tấn công, nó đẩy thẳng những đầu xương sườn nhọn hoắt xuyên qua lớp da hai bên hông kèm chất độc! Tuy vậy, cơ chế bẻ đứt mối nối xương ở đầu ngón chân để phóng ra chiếc vuốt cong sắc bén như dao găm của ếch châu Phi vẫn là thiết kế độc nhất vô nhị trong toàn bộ giới động vật có xương sống! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Chưa hết đâu các đồng nghiệp, hãy soi kỹ cả đôi bàn tay trước của ông bố Dị Nhân Đầm Lầy! Nếu chân sau giấu dao găm để chiến đấu, thì trên ngón cái bàn tay trước của con đực lại mọc lên ba hàng gai sừng màu đen cứng như kìm sắt! Bộ gai nhám này không dùng để đánh nhau, mà để khóa chặt vào thân bạn đời hoặc bám vững vào tảng đá trơn trượt giữa dòng suối chảy xiết trong mùa mưa!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng đừng thấy nó nhỏ bé mà chủ quan đưa tay ra nựng! Năm một ngàn chín trăm năm mươi tư, nhà tự nhiên học nổi tiếng người Anh Giê-rôn Đu-reo từng thuật lại cú sốc nhớ đời trong cuốn sách của ông. Khi ông dùng tay không bắt sống một chú Dị Nhân Đầm Lầy hoang dã, nó lập tức đạp mạnh hai chân sau, phóng vuốt xương cào thẳng vào lòng bàn tay ông những vết rách sâu hoắm chảy máu đầm đìa! [sigh] Đúng là nhìn mặt hiền khô tưởng cục đất biết nhảy, ai ngờ chạm vào là mất ngay miếng thịt tay! [laughter]",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Bác sĩ ơi, thế mấy con nòng nọc mới nở ra đã có vuốt xương đâm rách tay chưa ạ?",
+      "cast": "be_con"
+     },
+     {
+      "text": "Câu hỏi rất hay! Nòng nọc bé xíu sống dưới nước thì chưa mọc vuốt đâu cháu ạ, nhưng ở những loài họ hàng gần cùng nhóm, ngay cả những chú ếch con mới bước lên bờ cũng đã trang bị sẵn bộ vuốt xương giấu kín dưới chân để phòng thân rồi! Tuổi nhỏ tài cao, vừa ra đời đã mang theo vũ khí hạng nặng!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "THỰC ĐỊA CAMEROON",
+    "banner_title": "THỢ SĂN DÙNG GIÁO & MÓN ĐẶC SẢN",
+    "chapter_title": "Thực địa Cameroon: Thợ săn phải dùng giáo ba mũi tránh vuốt",
+    "hook": "THỢ SĂN PHẢI CHẾ GIÁO BA LƯỠI ĐỂ BẮT",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Hạng mục khám thứ tư: Khảo sát hiện trường thực địa tại rừng núi Ca-mơ-run! Trong khi giới khoa học phương Tây đến tận năm hai ngàn lẻ tám mới giải mã hoàn toàn cơ chế vuốt xương của Dị Nhân Đầm Lầy, thì người dân bản địa vùng Trung Phi đã... biết thừa độ nguy hiểm của nó từ hàng trăm năm trước rồi!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tại nhiều làng ở Ca-mơ-run, thịt ếch lông nướng là một món ăn truyền thống rất được ưa chuộng. Nhưng có một quy tắc bất thành văn khi đi săn ban đêm: tuyệt đối không bao giờ thò tay không chộp lấy con ếch! Nếu lỡ tay túm nhầm, tám chiếc vuốt xương ở hai chân sau sẽ đạp phăng vào cổ tay gây chảy máu rất đau đớn! Vậy nên các thợ săn phải vác theo dao rựa hoặc chế tạo riêng những cây giáo cán dài để giữ khoảng cách an toàn!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và đây là cú trớ trêu lịch sử khiến cả phòng khám phải bật cười: nhiều cây giáo chuyên dụng dùng để săn loài ếch Wolverine này được rèn với phần đầu có đúng ba lưỡi nhọn chĩa ra phía trước — trông chẳng khác nào bộ vuốt ba ngạnh bằng kim loại của nhân vật Người Sói Wolverine ngoài đời thực! [laughter] Muốn săn Người Sói đầm lầy, thợ săn buộc phải tự chế vũ khí Người Sói để đối đầu!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Thậm chí người dân tộc Ba-cốt-xi ở Ca-mơ-run xưa kia còn lưu truyền một huyền thoại cực kỳ thú vị: họ tin rằng những con ếch mọc lông kỳ quái này không sinh ra từ dưới bùn, mà... rơi thẳng từ trên bầu trời xuống cùng những cơn mưa rào! [surprise-oh] Nhiều cặp vợ chồng hiếm muộn còn tin ăn món ếch này sẽ giúp sinh con thuận lợi. Đến nay, khoa học đã xác nhận nó chẳng hề rơi từ vũ trụ nào cả, mà chỉ là một kỳ quan tiến hóa bản địa chính hiệu — thậm chí còn được xếp vào nhóm ba phẩy năm phần trăm loài lưỡng cư có độ độc đáo di truyền cao nhất hành tinh!",
+      "mood": "nghiem_trang_gia"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "KẾT LUẬN Y KHOA",
+    "banner_title": "ĐƠN THUỐC BẤT LỰC & BÓNG ĐEN",
+    "chapter_title": "Kết luận y khoa: Đơn thuốc bất lực và bóng đen bí ẩn tập sau",
+    "hook": "SẴN SÀNG CHỊU ĐAU ĐỂ BẢO VỆ SỰ SỐNG",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Tổng kết hồ sơ bệnh án số hai mươi mốt. Thực lòng mà nói, tôi vẫn còn rùng mình mỗi khi nhìn lại tấm phim X-quang bàn chân của Dị Nhân Đầm Lầy. Để sinh tồn giữa rừng mưa khắc nghiệt đầy rẫy rắn rết và chim săn mồi, chú ếch nhỏ bé dài chỉ mười ba xăng-ti-mét này chấp nhận tự làm đau chính mình, bẻ mối nối xương đâm rách da thịt chỉ trong tích tắc để đổi lấy cơ hội sống sót!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Và ẩn sau vẻ ngoài lầm lì cùng biệt danh quái vật kinh dị, đó lại là một ông bố mẫu mực đến mức đáng nể: sẵn sàng mọc cả bộ lông mạch máu kỳ dị để ngồi lặng lẽ dưới dòng suối lạnh buốt suốt nhiều tuần liền, bảo vệ từng quả trứng nhỏ bé cho thế hệ tương lai. Kê đơn cuối cùng: cho bệnh nhân xuất viện ngay lập tức, tặng thêm một cuộn băng cá nhân dự phòng và khuyến cáo người xem... đừng bao giờ thử bắt chước! Ký tên: bác sĩ đã hoàn toàn bất lực! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Còn các đồng nghiệp thì sao? Nếu bắt buộc phải chọn một trong hai trang bị của Dị Nhân Đầm Lầy: sở hữu vuốt xương giấu kín nhưng mỗi lần rút hơi rát tay, hay mọc lông kín sườn để lặn thở dưới nước không cần bình oxy, bạn chọn cái nào? Hãy bình luận lựa chọn của bạn bên dưới nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hồ sơ phòng khám hôm nay xin tạm đóng. Nhưng tập sau, chúng ta sẽ chuyển thẳng sang phòng thí nghiệm năm cấp độ để đối mặt với một ca tiến hóa còn điên rồ hơn nữa! Một sinh vật nhỏ xíu sống dưới nước với khuôn mặt lúc nào cũng mỉm cười, trên đầu mọc sáu chiếc sừng lông xù như ăng-ten ngoài hành tinh... Điều khiến các nhà khoa học mất ngủ là dù có bị mất chân, đứt tủy sống, thậm chí mất cả một phần ba trái tim và một phần não bộ, nó vẫn tự mọc lại nguyên vẹn hoàn toàn mà không để lại lấy một vết sẹo nào! Đố các bạn biết bóng đen bí ẩn kỳ sau là loài vật nào? Hãy đoán ngay ở phần bình luận nhé!",
+      "mood": "am_ap"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Bệnh nhân này vào phòng cấp cứu không phải vì bị thú dữ cắn, mà vì nó vừa... tự bẻ gãy xương ngón chân mình đâm thủng qua da! [laughter] Xin giới thiệu Ếch Lông Wolverine, gã dị nhân dài mười ba xăng-ti-mét sống dọc các dòng suối núi ở Trung Phi. Dưới lớp da tám ngón chân sau của nó giấu sẵn những chiếc móc xương nhọn hoắt nối với đầu ngón bằng sợi cô-la-gen. Khi bị kẻ thù tóm lấy, nó gồng cơ chân giật đứt mối nối đó và đẩy thẳng xương trần sắc lẹm chọc rách lớp da thịt lao ra ngoài làm vuốt chiến đấu! Một nhà tự nhiên học từng bắt sống nó và bị cào rách tay chảy máu sâu hoắm! [surprise-wa] Chưa hết, đến mùa sinh sản, con đực còn mọc hàng trăm sợi lông da rậm rạp hai bên sườn dày chỉ không phẩy bốn mi-li-mét! Lý do cực kỳ cảm động: ông bố phải ngồi lì dưới nước canh trứng suốt nhiều tuần nên cần bộ lông mạch máu này để hút thêm oxy qua da thay cho lá phổi bé xíu! Một gã dị nhân vừa biết tự rách da rút vuốt xương, vừa mọc mang lông làm ông bố tận tụy, đúng là siêu anh hùng kỳ quặc nhất thế giới tự nhiên!"
+ },
+ "seo": {
+  "title": "Loài Ếch Tự Bẻ Xương Đâm Thủng Da Làm Vuốt Wolverine?!",
+  "hook_paragraph": "Ếch Lông Wolverine (Trichobatrachus robustus) ở Trung Phi dài chỉ 13cm nhưng sở hữu vũ khí kinh dị bậc nhất tự nhiên: tự gồng cơ giật đứt mối nối collagen để đẩy xương ngón chân đâm thủng da làm vuốt chiến đấu! Chưa hết, con đực mùa sinh sản còn mọc bộ lông mạch máu dày 0,4mm để thở dưới nước khi canh trứng.",
+  "bullets": [
+   "Chụp X-quang: 8 ngón chân sau giấu vuốt xương trần không bọc sừng keratin, mũi xương dày 0,13mm",
+   "Không có cơ kéo thu vuốt: vuốt xương trượt ngược thụ động và da tự liền nhờ khả năng tái tạo lưỡng cư",
+   "Nội soi da: Bộ lông ở sườn thực chất là nhú da 0,35-0,45mm đầy mao mạch giúp thở dưới nước khi giữ trứng",
+   "Thực địa Cameroon: Thợ săn phải chế giáo dài 3 lưỡi để tránh bị vuốt ếch cào rách tay"
+  ],
+  "question": "Nếu phải chọn 1 trong 2 'năng lực' của Ếch Lông Wolverine: rút vuốt xương (hơi đau) hay mọc lông sườn để thở dưới nước, bạn chọn cái nào? Và bạn đoán bóng đen tập sau là loài nào?",
+  "next_teaser": "Bóng đen bí ẩn luôn mỉm cười với 6 chiếc sừng lông xù: mất 1/3 trái tim hay não bộ vẫn mọc lại nguyên vẹn không sẹo!",
+  "hashtags": [
+   "#độngvật",
+   "#ếchlôngwolverine",
+   "#VẽChuyệnHoangDã"
+  ],
+  "tags": [
+   "ếch lông wolverine",
+   "ech long wolverine",
+   "hairy frog",
+   "horror frog",
+   "trichobatrachus robustus",
+   "ếch bẻ xương làm vuốt",
+   "ếch người sói",
+   "động vật kỳ lạ",
+   "thế giới động vật",
+   "động vật hài hước",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị",
+   "bệnh án tiến hóa",
+   "ếch lông",
+   "ếch lông trung phi"
+  ],
+  "shorts_title": "Loài Ếch Tự Bẻ Xương Đâm Thủng Da Làm Vuốt?! 🐸 #độngvật #ếchlôngwolverine",
+  "shorts_desc": "Ếch Lông Wolverine dài 13cm ở Trung Phi có thể tự giật đứt mối nối collagen để đẩy xương ngón chân đâm xuyên qua da làm vuốt chiến đấu! Mùa giữ trứng con đực còn mọc hàng trăm sợi nhú da 0,4mm để hút oxy dưới nước.",
+  "shorts_tags": [
+   "ếch lông wolverine",
+   "hairy frog",
+   "ếch bẻ xương",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ],
+  "en_title": "The Frog That Breaks Its Own Bones Into Wolverine Claws?! | Ep 21",
+  "en_hook": "Meet the Hairy Frog (Trichobatrachus robustus) of Central Africa: only 13cm long, yet it snaps collagen attachments in its hind toes to push bare sharp bones right through its own skin as defensive claws! Meanwhile, breeding males grow blood-vessel skin 'hairs' to breathe underwater while guarding eggs.",
+  "en_chapters": [
+   "ER Case #21: Self-Inflicted Bone Claw Emergency",
+   "X-Ray Scan: Bare Bones Piercing Through Toe Pads",
+   "Skin Biopsy: Vascular 'Hairs' Acting as Underwater Gills",
+   "Evolutionary Lab: Comparing Self-Harming Amphibians",
+   "Cameroon Field Report: Three-Bladed Hunting Spears",
+   "Doctor's Verdict & Next Mystery Silhouette Teaser"
+  ],
+  "en_shorts_title": "The Frog That Breaks Its Own Bones Into Claws?! 🐸 #animals #hairyfrog"
+ }
+}

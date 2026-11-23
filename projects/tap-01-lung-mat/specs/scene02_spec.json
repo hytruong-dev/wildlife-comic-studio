@@ -1,0 +1,572 @@
+{
+  "scene_id": "scene02",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 8,
+  "world_width": 3554,
+  "world_height": 1810,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 150,
+  "duration_ms": 95760,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/assets/scenes_composed/scene02_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      303,
+      8,
+      976,
+      52
+    ],
+    "x": 315,
+    "y": 12,
+    "w": 649,
+    "h": 38,
+    "text": "[PHẦN 2]  BẢNG CHỈ SỐ SINH TỒN RPG PHÁ VỠ MỌI QUY LUẬT",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-01-lung-mat/assets/scenes_composed/scene02_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 17200,
+      "has_frame": false,
+      "pill_box": [
+        819,
+        110,
+        1018,
+        150
+      ],
+      "art_only_box": [
+        595,
+        146,
+        1238,
+        499
+      ],
+      "caption": {
+        "text": "Chỉ số Sức Mạnh STR 85/100: Bó cơ nén đặc kéo nặng gấp 3 lần cơ thể",
+        "x": 604,
+        "y": 499,
+        "w": 625,
+        "h": 31,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        593,
+        106,
+        1240,
+        532
+      ],
+      "img_region": {
+        "x": 595,
+        "y": 146,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 17200,
+      "end_ms": 34160,
+      "has_frame": false,
+      "pill_box": [
+        1666,
+        110,
+        1891,
+        145
+      ],
+      "art_only_box": [
+        1455,
+        146,
+        2098,
+        499
+      ],
+      "caption": {
+        "text": "Thực chiến STR 85: Kéo lê xác linh dương nặng gấp 3 lần qua thảo nguyên",
+        "x": 1454,
+        "y": 499,
+        "w": 645,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1450,
+        106,
+        2103,
+        531
+      ],
+      "img_region": {
+        "x": 1455,
+        "y": 146,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 34160,
+      "end_ms": 44250,
+      "has_frame": false,
+      "pill_box": [
+        2536,
+        110,
+        2740,
+        150
+      ],
+      "art_only_box": [
+        2315,
+        146,
+        2958,
+        499
+      ],
+      "caption": {
+        "text": "Chỉ số Phòng Thủ DEF 99/100: Giáp da cao su di động dày tới 6mm",
+        "x": 2338,
+        "y": 499,
+        "w": 598,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        2313,
+        106,
+        2960,
+        531
+      ],
+      "img_region": {
+        "x": 2315,
+        "y": 146,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_04",
+      "start_ms": 44250,
+      "end_ms": 54350,
+      "has_frame": false,
+      "pill_box": [
+        2525,
+        690,
+        2752,
+        730
+      ],
+      "art_only_box": [
+        2315,
+        726,
+        2958,
+        1079
+      ],
+      "caption": {
+        "text": "Thực chiến DEF 99: Đánh bật răng nanh sư tử, kim bọ cạp & mũi giáo thép",
+        "x": 2309,
+        "y": 1079,
+        "w": 655,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        2305,
+        686,
+        2968,
+        1111
+      ],
+      "img_region": {
+        "x": 2315,
+        "y": 726,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_05",
+      "start_ms": 54350,
+      "end_ms": 66000,
+      "has_frame": false,
+      "pill_box": [
+        1700,
+        690,
+        1857,
+        727
+      ],
+      "art_only_box": [
+        1455,
+        726,
+        2098,
+        1079
+      ],
+      "caption": {
+        "text": "Chỉ số Trí Thông Minh IQ 90: Thiên tài bẻ khóa, chế tạo công cụ sinh tồn",
+        "x": 1459,
+        "y": 1079,
+        "w": 635,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1453,
+        686,
+        2100,
+        1111
+      ],
+      "img_region": {
+        "x": 1455,
+        "y": 726,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_06",
+      "start_ms": 66000,
+      "end_ms": 77660,
+      "has_frame": false,
+      "pill_box": [
+        812,
+        690,
+        1025,
+        727
+      ],
+      "art_only_box": [
+        595,
+        726,
+        1238,
+        1079
+      ],
+      "caption": {
+        "text": "Độ Bền Bỉ & Lì Đòn TENACITY 999: Đạp nát cờ trắng, không bao giờ đầu hàng!",
+        "x": 569,
+        "y": 1079,
+        "w": 696,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        565,
+        686,
+        1269,
+        1114
+      ],
+      "img_region": {
+        "x": 595,
+        "y": 726,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_07",
+      "start_ms": 77660,
+      "end_ms": 86600,
+      "has_frame": false,
+      "pill_box": [
+        1247,
+        1270,
+        1449,
+        1310
+      ],
+      "art_only_box": [
+        1025,
+        1306,
+        1668,
+        1659
+      ],
+      "caption": {
+        "text": "Chỉ số Sợ Hãi FEAR 0/100: Kim đồng hồ gãy đôi ở mốc 0 tròn trĩnh!",
+        "x": 1047,
+        "y": 1659,
+        "w": 599,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1023,
+        1266,
+        1670,
+        1691
+      ],
+      "img_region": {
+        "x": 1025,
+        "y": 1306,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    },
+    {
+      "id": "beat_08",
+      "start_ms": 86600,
+      "end_ms": 95760,
+      "has_frame": false,
+      "pill_box": [
+        2088,
+        1270,
+        2329,
+        1308
+      ],
+      "art_only_box": [
+        1885,
+        1306,
+        2528,
+        1659
+      ],
+      "caption": {
+        "text": "Giải phẫu não bộ: Tạo hóa dùng cờ-lê tháo dỡ hoàn toàn Hạch Hạnh Nhân!",
+        "x": 1880,
+        "y": 1659,
+        "w": 653,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1876,
+        1266,
+        2537,
+        1694
+      ],
+      "img_region": {
+        "x": 1885,
+        "y": 1306,
+        "width": 643,
+        "height": 353
+      },
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 565.0,
+    "y_min": 106.0,
+    "x_max": 2968.0,
+    "y_max": 1694.0,
+    "bbox_w": 2403.0,
+    "bbox_h": 1588.0,
+    "center_x": 1766.5,
+    "center_y": 900.0,
+    "zoom_out_scale": 0.3751,
+    "crop_w": 3412.0,
+    "crop_h": 1738.0
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 916.5,
+      "cy": 445.6,
+      "crop_w": 1749.7,
+      "crop_h": 891.3,
+      "zoom_relative": 1.95,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 16580.0,
+      "cx": 916.5,
+      "cy": 445.6,
+      "crop_w": 1749.7,
+      "crop_h": 891.3,
+      "zoom_relative": 1.95,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 17200.0,
+      "cx": 1776.5,
+      "cy": 434.5,
+      "crop_w": 1706.0,
+      "crop_h": 869.0,
+      "zoom_relative": 2.0,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 33540.0,
+      "cx": 1776.5,
+      "cy": 434.5,
+      "crop_w": 1706.0,
+      "crop_h": 869.0,
+      "zoom_relative": 2.0,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 34160.0,
+      "cx": 2636.5,
+      "cy": 445.6,
+      "crop_w": 1749.7,
+      "crop_h": 891.3,
+      "zoom_relative": 1.95,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 43630.0,
+      "cx": 2636.5,
+      "cy": 445.6,
+      "crop_w": 1749.7,
+      "crop_h": 891.3,
+      "zoom_relative": 1.95,
+      "phase": "transition",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 44250.0,
+      "cx": 2636.5,
+      "cy": 898.5,
+      "crop_w": 1664.4,
+      "crop_h": 847.8,
+      "zoom_relative": 2.05,
+      "phase": "focus_hold",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 53730.0,
+      "cx": 2636.5,
+      "cy": 898.5,
+      "crop_w": 1664.4,
+      "crop_h": 847.8,
+      "zoom_relative": 2.05,
+      "phase": "transition",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 54350.0,
+      "cx": 1776.5,
+      "cy": 898.5,
+      "crop_w": 1749.7,
+      "crop_h": 891.3,
+      "zoom_relative": 1.95,
+      "phase": "focus_hold",
+      "target_node_id": "beat_05"
+    },
+    {
+      "time_ms": 65380.0,
+      "cx": 1776.5,
+      "cy": 898.5,
+      "crop_w": 1749.7,
+      "crop_h": 891.3,
+      "zoom_relative": 1.95,
+      "phase": "transition",
+      "target_node_id": "beat_05"
+    },
+    {
+      "time_ms": 66000.0,
+      "cx": 917.0,
+      "cy": 900.0,
+      "crop_w": 1664.4,
+      "crop_h": 847.8,
+      "zoom_relative": 2.05,
+      "phase": "focus_hold",
+      "target_node_id": "beat_06"
+    },
+    {
+      "time_ms": 77040.0,
+      "cx": 917.0,
+      "cy": 900.0,
+      "crop_w": 1664.4,
+      "crop_h": 847.8,
+      "zoom_relative": 2.05,
+      "phase": "transition",
+      "target_node_id": "beat_06"
+    },
+    {
+      "time_ms": 77660.0,
+      "cx": 1346.5,
+      "cy": 1364.4,
+      "crop_w": 1749.7,
+      "crop_h": 891.3,
+      "zoom_relative": 1.95,
+      "phase": "focus_hold",
+      "target_node_id": "beat_07"
+    },
+    {
+      "time_ms": 85980.0,
+      "cx": 1346.5,
+      "cy": 1364.4,
+      "crop_w": 1749.7,
+      "crop_h": 891.3,
+      "zoom_relative": 1.95,
+      "phase": "transition",
+      "target_node_id": "beat_07"
+    },
+    {
+      "time_ms": 86600.0,
+      "cx": 2206.5,
+      "cy": 1375.5,
+      "crop_w": 1706.0,
+      "crop_h": 869.0,
+      "zoom_relative": 2.0,
+      "phase": "focus_hold",
+      "target_node_id": "beat_08"
+    },
+    {
+      "time_ms": 93560.0,
+      "cx": 2206.5,
+      "cy": 1375.5,
+      "crop_w": 1706.0,
+      "crop_h": 869.0,
+      "zoom_relative": 2.0,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_08"
+    },
+    {
+      "time_ms": 94550.0,
+      "cx": 1766.5,
+      "cy": 900.0,
+      "crop_w": 3412.0,
+      "crop_h": 1738.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 95760.0,
+      "cx": 1766.5,
+      "cy": 900.0,
+      "crop_w": 3412.0,
+      "crop_h": 1738.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

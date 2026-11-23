@@ -1,0 +1,27 @@
+{
+ "_doc": "Nhân vật cố định của Đại Hội Sinh Tồn Mùa 2 (Tập 11 đến Tập 20). Ngoại hình 10 con vật lấy từ storyboard/prompt tập gốc (giữ phụ kiện nhận dạng). HERO = MC (xuất hiện xuyên suốt).",
+ "characters": {
+  "HERO": "anh MC dẫn chương trình hoạt hình vui tính: tóc vuốt dựng, mặc bộ vest đỏ tươi, thắt nơ bướm vàng, cầm chiếc micro vàng, nụ cười rộng",
+  "HERO_S": "anh MC vest đỏ nơ bướm vàng cầm micro vàng và 10 tuyển thủ động vật hoạt hình của Đại Hội Sinh Tồn Mùa 2",
+  "MC": "anh MC hoạt hình vest đỏ nơ bướm vàng cầm micro vàng",
+  "JUDGE": "bà cú mèo giám khảo hoạt hình đeo kính tròn gọng vàng, khoác áo choàng tím, cầm búa gỗ nhỏ",
+  "BOARD": "tấm bảng điểm khổng lồ hình chiếc khiên dựng giữa sân vận động, có 10 cột đèn màu bên cạnh 10 hình đầu con vật nhỏ (không có chữ, không có số)",
+  "NO_HERO": "KHÔNG có anh MC trong cảnh này",
+  "PANDA": "chú Gấu Trúc Lớn hoạt hình béo tròn lông trắng đen, quầng mắt đen tròn ngơ ngác, hai tai đen xù, ôm cành trúc xanh, vẻ mặt vụng về đáng yêu",
+  "HIPPO": "chú Hà Mã hoạt hình khổng lồ béo tròn màu xám hồng tím, mồ hôi đỏ hồng bóng bẩy, miệng rộng ngoác khoe răng nanh to, đeo đai lưng vô địch đỏ",
+  "SLOTH": "chú Con Lười ba ngón hoạt hình mặt cười toe toét ngơ ngác, lông phủ lớp rêu xanh nhạt, mắt có vệt sẫm, đeo chiếc đồng hồ báo thức mini",
+  "CUCKOO": "chú Chim Tu Hú hoạt hình lông đốm hoa râm xám tro, mắt đỏ rực rỡ, đeo nơ tím than, vẻ mặt láu cá tinh quái",
+  "CAPYBARA": "chú Chuột Lang Nước Capybara hoạt hình béo múp 65kg lông nâu vàng óng ả, mắt híp tịt điềm tĩnh trước mọi biến cố, mũi có bướu morillo đen, đội mũ phớt mafia",
+  "PISTOL": "chú Tôm Súng hoạt hình màu xanh biển đỏ cam, có một chiếc càng búng khổng lồ to bằng nửa thân hình, đeo kính ngắm bắn tỉa",
+  "EEL": "chú Lươn Điện hoạt hình màu nâu xám đậm, mắt đeo kính bảo hộ cam, nơ tia sét vàng, thân phát ra các tia sét xanh neon lấp lánh",
+  "BOMBARDIER": "chú Bọ Pháo Thủ hoạt hình màu cam đỏ cánh xanh đen ánh kim, sau đuôi gắn nòng đại bác mini bốc khói nhiệt độ 100°C",
+  "DEVIL": "chú Thằn Lằn Quỷ Gai hoạt hình màu vàng nâu cát sa mạc phủ đầy gai nón nhọn hoắt, đội mũ safari kaki, nơ đỏ thắm",
+  "ARCHER": "chú Cá Cung Thủ hoạt hình thân dẹt màu bạc ánh vàng có 4-5 vạch đen thẳng đứng, đôi mắt to lồi xoay tròn trên đỉnh đầu, miệng nhọn hình phễu ngắm bắn"
+ },
+ "side_characters": [
+  "JUDGE"
+ ],
+ "shorts_side_characters": [
+  "JUDGE"
+ ]
+}

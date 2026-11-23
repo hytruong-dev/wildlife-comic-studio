@@ -1,0 +1,80 @@
+{
+ "title_lines": [
+  "NẶNG 2 TẤN VÔ TRI",
+  "BỊ CẮN VẪN PHƠI NẮNG?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "at": "2 tấn",
+     "side": "L",
+     "y": 500,
+     "value": "2 TẤN",
+     "label": "gã khổng lồ",
+     "target": [
+      0.3,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "nằm ngửa nhìn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "cá có xương!",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": []
+  },
+  {
+   "at": "thể cụt lủn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "là sứa biển",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "cái lạnh 4°C.",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "dòng máu lạnh",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "đẻ tới 300",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "at": "300 triệu",
+     "side": "R",
+     "y": 520,
+     "value": "300 TRIỆU",
+     "label": "kỷ lục sinh sản",
+     "target": [
+      0.7,
+      0.5
+     ]
+    }
+   ]
+  }
+ ]
+}

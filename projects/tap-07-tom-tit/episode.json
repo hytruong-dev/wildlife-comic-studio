@@ -1,0 +1,163 @@
+{
+  "episode_no": 7,
+  "animal": "Tôm Tít",
+  "slug": "tap-07-tom-tit",
+  "whisper_prompt": "Tôm Tít Mantis Shrimp, Mike Tyson đại dương, Cavitation, Bouligand, 10400g, 80 cây số một giờ, 1500 Newton, Sonoluminescence, Mặt Trời, UV, phân cực tròn, ngón tay chẻ đôi",
+  "display_fix": {
+    "hai mươi xăng-ti-mét": "20cm",
+    "bảy sắc cầu vồng": "7 sắc cầu vồng",
+    "vài xăng-ti-mét": "vài cm",
+    "chín ngàn chín trăm chín mươi chín": "9.999",
+    "một ngàn năm trăm": "1.500",
+    "chín trăm chín mươi chín": "999",
+    "ba phần ngàn giây": "0,003s",
+    "mười ngàn bốn trăm g": "10.400g",
+    "hai mươi hai ly": "22 ly",
+    "một phần mười giây": "0,1s",
+    "ba mươi lần": "30 lần",
+    "tám mươi lăm": "85",
+    "mười sáu loại": "16 loại",
+    "mười sáu dải màu": "16 dải màu",
+    "mười sáu": "16",
+    "chín g": "9g",
+    "một ngàn lần": "1.000 lần",
+    "bốn ngàn bảy trăm độ C": "4.700°C",
+    "tháng tư năm 1998": "tháng 4 năm 1998",
+    "mười xăng-ti-mét": "10cm",
+    "sáu mi-li-mét": "6mm",
+    "ba loại": "3 loại",
+    "ba trăm sáu mươi độ": "360°",
+    "ba chiều": "3D",
+    "Mơn-ti-xơ": "Mantis",
+    "S-cu-la-rút": "Scyllarus",
+    "Bu-li-găng": "Bouligand",
+    "Cáp-vi-tây-sơn": "Cavitation",
+    "Xô-nô-lu-mi-nét-xen": "Sonoluminescence",
+    "A-T-K": "ATK",
+    "S-P-D": "SPD",
+    "D-E-F": "DEF",
+    "I-Q": "IQ",
+    "U-V": "UV",
+    "hai mươi năm": "20 năm"
+  },
+  "voice": {
+    "speed": 1.05,
+    "steps": 32,
+    "tempo_long": 1.1,
+    "tempo_shorts_min": 1.1
+  },
+  "longform": {
+    "scenes": [
+      {
+        "id": "scene01",
+        "chapter_title": "Võ sĩ quyền anh lòe loẹt nhất đại dương",
+        "hook": "",
+        "parts": [
+          "[surprise-oh] Nếu bạn nghĩ một sinh vật dài chưa đầy hai mươi xăng-ti-mét, khoác lên mình bộ cánh sặc sỡ đủ bảy sắc cầu vồng thì chỉ biết làm cảnh dưới đáy biển, thì bạn vừa phạm phải sai lầm chết người nhất cuộc đời! Hãy làm quen với Tôm Tít, kẻ được giới sinh vật học và các thợ lặn kính cẩn gọi bằng cái tên: Mike Tyson của đại dương! Nhìn từ xa, chú ta lộng lẫy như một nàng công chúa vũ hội với mai xanh ngọc, râu đỏ cam và đôi mắt lồi đảo liên tục như hai chiếc ra-đa của người ngoài hành tinh. Thế nhưng, ẩn dưới bộ cánh điệu đà đó là thứ vũ khí cơ học đáng sợ bậc nhất thế giới tự nhiên: một cặp càng búa gập trước ngực với tốc độ ra đòn nhanh ngang ngửa một viên đạn súng trường bắn ra khỏi nòng! Cua biển mai dày ư? Một đấm vỡ nát! Vỏ ốc xà cừ cứng như đá ư? Hai đấm thành bột vụn! Thậm chí ngay cả mặt kính bể cá dày vài xăng-ti-mét cũng từng bị gã này đấm nứt toác khiến các viện hải dương học phải toát mồ hôi hột! [laughter] Đúng là đừng bao giờ đánh giá một võ sĩ qua bộ quần áo lòe loẹt của anh ta!",
+          "Các thợ lặn biển từ lâu đã đặt cho Tôm Tít biệt danh rùng rợn là Kẻ Chẻ Ngón Tay. Lý do vô cùng đơn giản: bất kỳ ai tò mò thò tay xuống hốc đá tóm thử gã võ sĩ này sẽ lập tức nhận ngay một cú đấm nhanh đến mức mắt thường không kịp chớp, đủ sức đập vỡ nát móng tay và toạc thịt đến tận xương! Một gã tí hon dưới đáy cát nhưng lại mang tâm hồn của một tay giang hồ cục súc khét tiếng!"
+        ]
+      },
+      {
+        "id": "scene02",
+        "chapter_title": "Bảng chỉ số RPG — Lỗi game của tạo hóa",
+        "hook": "Khi thiên nhiên quên cài giới hạn sát thương",
+        "parts": [
+          "[surprise-wa] Nếu đưa Tôm Tít vào một tựa game nhập vai thế giới mở, chắc chắn nhà phát triển game sẽ bị cộng đồng người chơi tẩy chay kịch liệt vì đã tạo ra một nhân vật gian lận chỉ số đến mức phi lý! Hãy cùng bóc tách bảng chỉ số sinh tồn của gã võ sĩ này: Sức mạnh tấn công A-T-K: chạm nóc chín ngàn chín trăm chín mươi chín điểm! Một cú vung càng của nó tạo ra lực va chạm lên tới một ngàn năm trăm Newton, gấp hàng ngàn lần trọng lượng cơ thể! Tốc độ vung đòn S-P-D: chín trăm chín mươi chín điểm! Nó chỉ mất chưa đầy ba phần ngàn giây để tung ra cú đấm, đạt gia tốc mười ngàn bốn trăm g, nghĩa là còn nhanh hơn cả gia tốc của viên đạn hai mươi hai ly! [question-ah] Bạn chớp mắt mất một phần mười giây đúng không? Trong một cái chớp mắt của bạn, Tôm Tít đã kịp đấm con mồi tới ba mươi lần liên tiếp! Chỉ số phòng thủ D-E-F: tám mươi lăm điểm! Càng của nó được bọc lớp giáp cấu trúc sợi nano chống nứt cực kỳ tinh xảo. Và chỉ số thị giác: phá vỡ mọi thang đo với mười sáu loại tế bào cảm thụ màu sắc, nhìn thấu cả tia cực tím lẫn ánh sáng phân cực!",
+          "Để bạn dễ hình dung sự khủng khiếp của con số mười ngàn bốn trăm g, một phi công lái máy bay tiêm kích chỉ cần chịu gia tốc chín g là máu đã dồn hết xuống chân và ngất lịm ngay trên bầu trời. Vậy mà đôi càng tí hon này lại phóng đi với gia tốc gấp hơn một ngàn lần giới hạn của con người! Nếu cánh tay của bạn cũng có thể vung nhanh như càng tôm tít, bạn hoàn toàn có thể ném một quả bóng chày bay thẳng vào quỹ đạo Trái Đất mà không cần tên lửa đẩy!",
+          "Mà khoan đã, đó mới chỉ là phe đấm thôi! Họ hàng nhà Tôm Tít còn có cả phe đâm, mang đôi càng đầy gai nhọn như chiếc xiên nướng, phóng ra xiên trúng con cá đang bơi ngang chỉ trong tích tắc. [laughter] Một phe đấm bốc, một phe đấu kiếm, đúng là cả một gia tộc võ lâm dưới đáy biển!"
+        ]
+      },
+      {
+        "id": "scene03",
+        "chapter_title": "Cú đấm Cavitation & Giáp nano Bouligand",
+        "hook": "Tạo ra sức nóng ngang bề mặt Mặt Trời",
+        "parts": [
+          "[surprise-oh] Nhưng sự thật điên rồ nhất vẫn chưa dừng lại ở đó! Cú đấm của Tôm Tít uy lực đến mức nó tạo ra một hiện tượng vật lý kỳ dị mang tên Cáp-vi-tây-sơn, tức Bọt Khí Xâm Thực! Do chiếc càng vung đi với tốc độ xé gió dưới nước, áp suất nước phía sau chiếc càng sụt giảm đột ngột xuống mức gần như chân không, làm nước sôi ngay lập tức ở nhiệt độ phòng và sinh ra một bọt khí cực nhỏ! Ngay khoảnh khắc tiếp theo, khi bọt khí này sụp đổ dưới áp suất nước xung quanh, nó tạo ra một vụ nổ sóng xung kích khủng khiếp, sinh ra nhiệt độ cục bộ lên tới bốn ngàn bảy trăm độ C, gần bằng bề mặt của Mặt Trời! [surprise-ah] Vụ nổ này thậm chí còn phát ra một tia sáng le lói mà giới khoa học gọi là hiện tượng phát quang do âm thanh Xô-nô-lu-mi-nét-xen! Nghĩa là mỗi cú ra đòn của Tôm Tít thực chất là một đòn tấn công kép: đòn thứ nhất là cú đập của chiếc càng cứng, và đòn thứ hai là sóng xung kích từ vụ nổ nhiệt độ Mặt Trời! [laughter] Dù nó có đấm trượt mục tiêu thì sóng xung kích của bọt khí sụp đổ vẫn biến con mồi thành đĩa thức ăn nướng chín trong nháy mắt!",
+          "[surprise-wa] Vậy câu hỏi đặt ra là: Tại sao chiếc càng của Tôm Tít không bị vỡ vụn khi phải chịu hàng ngàn cú va chạm kinh hoàng như vậy? Bí mật nằm ở cấu trúc nano Bu-li-găng! Bên trong chiếc càng búa, các sợi khoáng chất nano được xếp chồng chéo lên nhau theo hình xoắn ốc giống như hàng ngàn lớp ván ép siêu cứng. Khi một vết nứt nhỏ hình thành, nó không thể lan thẳng mà bị bẻ cong theo các rãnh xoắn, tự tiêu tán năng lượng va đập! Quân đội Mỹ và các kỹ sư hàng không vũ trụ hiện đang nghiên cứu cấu trúc chiếc càng của Tôm Tít để chế tạo thế hệ áo giáp chống đạn và vỏ máy bay siêu nhẹ tiếp theo cho nhân loại!",
+          "Mà cái hay nhất là gì biết không? Đôi búa ấy chẳng bao giờ phải đem đi sửa! Cứ mỗi lần lột xác, Tôm Tít lại được thay luôn một cặp búa mới tinh, cứ như võ sĩ được tài trợ đôi găng mới sau mỗi mùa giải vậy! [laughter] Nhưng cái giá của món quà đó thì... lát nữa bạn sẽ biết!"
+        ]
+      },
+      {
+        "id": "scene04",
+        "chapter_title": "Gót chân A-sin — Mùa lột xác mềm như thạch",
+        "hook": "Võ sĩ vô địch biến thành miếng thạch bơ",
+        "parts": [
+          "[sigh] Nghe đến đây, bạn hẳn đang nghĩ Tôm Tít chính là vị vua bất khả chiến bại của rạn san hô, không sợ trời không sợ đất đúng không? Nhưng tạo hóa luôn rất thích trêu đùa những kẻ mạnh! Võ sĩ Mike Tyson đại dương này có một điểm yếu chí mạng khiến nó phải ôm hận suốt đời: Mùa lột xác! Giống như loài tôm cua, để lớn lên, Tôm Tít bắt buộc phải rũ bỏ toàn bộ lớp vỏ cứng bên ngoài, bao gồm cả đôi càng búa thần thánh của mình. Và bạn đoán xem điều gì xảy ra? Ngay sau khi lột xác, toàn bộ cơ thể lẫn đôi càng của nó mềm nhũn ra như một miếng thạch dừa hay bánh flan mới ra lò! [laughter] Kẻ từng đấm nứt kính bể cá giờ đây mềm yếu đến mức một con cá nhỏ hay một chú ốc sên bò qua cũng có thể xơi tái nó ngon lành! Trong suốt vài tuần chờ lớp vỏ mới cứng lại, gã giang hồ này phải trốn chui trốn lủi tận đáy hang sâu, nhịn đói và run rẩy sợ hãi!",
+          "Điều hài hước nhất là nghệ thuật dọa ma của nó trong giai đoạn này! Nếu chẳng may có kẻ thù mò vào miệng hang, Tôm Tít sẽ lập tức phùng mang trợn mắt, giương đôi càng mềm oặt ra đe dọa giống như đang nói: Nhìn càng tao đây này, bước vào là nát người đấy nhé! Nhưng thực chất đó hoàn toàn là một đòn nghi binh trắng trợn. Nếu kẻ thù liều lĩnh xông vào, chiếc càng mềm của nó chạm nhẹ vào đá cũng đau thấu trời xanh! Ngoài ra, gã này còn là nỗi ác mộng kinh hoàng của những người chơi cá cảnh biển: lỡ mua nhầm một chú tôm tít về thả vào bể, sáng hôm sau bạn sẽ thấy toàn bộ tôm, cua, ốc đắt tiền đã bị đấm vỡ nát, và bể kính thì nứt một vệt dài sẵn sàng vỡ tung tóe ra sàn nhà!"
+        ]
+      },
+      {
+        "id": "scene05",
+        "chapter_title": "Vụ án thủy cung bể nát & Đôi mắt thần 16 màu",
+        "hook": "Đấm nứt kính thủy cung và nhìn thấy tế bào ung thư",
+        "parts": [
+          "[surprise-oh] Những giai thoại về sức mạnh của Tôm Tít hoàn toàn không phải lời đồn thổi trên bàn nhậu! Vào tháng tư năm 1998, tại một thủy cung nổi tiếng ở hạt Norfolk nước Anh, một chú tôm tít dài vỏn vẹn mười xăng-ti-mét được đặt tên là Tyson đã làm nên một vụ bê bối chấn động! Có vẻ như bực mình vì tấm gương phản chiếu chính mình trên vách bể, chú ta đã tung ra một cú đấm thép thẳng vào tấm kính dày hơn sáu mi-li-mét! Kết quả là mặt kính nứt đôi thành hình mạng nhện, nước biển bắt đầu phun ra xối xả và toàn bộ nhân viên thủy cung phải kích hoạt còi báo động khẩn cấp để sơ tán du khách và cứu vớt các loài sinh vật khác! Từ đó, các viện hải dương học trên khắp thế giới ban hành một luật bất thành văn: Tuyệt đối không bao giờ nuôi Tôm Tít trong bể kính thủy tinh thông thường, mà bắt buộc phải dùng bể nhựa acrylic chống đạn siêu dày!",
+          "[surprise-wa] Bên cạnh cú đấm thần sầu, Tôm Tít còn sở hữu đôi mắt kỳ dị bậc nhất hành tinh! Con người chúng ta chỉ có ba loại tế bào cảm thụ màu sắc là đỏ, lục và lam. Nhưng Tôm Tít sở hữu tới mười sáu loại thụ thể màu sắc khác nhau! Nó không chỉ nhìn thấy dải màu rực rỡ gấp năm lần chúng ta, mà còn nhìn thấu cả tia cực tím U-V và là sinh vật duy nhất trên Trái Đất nhìn được ánh sáng phân cực tròn! Mỗi con mắt của nó có thể chuyển động độc lập ba trăm sáu mươi độ và tự đo khoảng cách không gian ba chiều mà không cần đến mắt còn lại. Các nhà khoa học hiện đang sao chép cấu trúc mắt của Tôm Tít để chế tạo các loại cảm biến y tế siêu nhạy, có khả năng phát hiện sớm các tế bào ung thư trong cơ thể người từ những giai đoạn đầu tiên!",
+          "[surprise-oh] Chưa hết đâu! Tôm Tít còn dùng chính ánh sáng phân cực để nhắn tin bí mật cho nhau, trên cơ thể có những mảng phát tín hiệu mà kẻ thù nhìn vào chẳng thấy gì. Và gã giang hồ cục súc này hóa ra lại là một người chồng chung thủy: có loài sống thành cặp trong cùng một hang tới hai mươi năm! [laughter] Ra ngoài thì đấm nứt kính, về nhà thì ngoan như mèo!"
+        ]
+      },
+      {
+        "id": "scene06",
+        "chapter_title": "Bài học sinh tồn từ Tôm Tít",
+        "hook": "Biết thu mình khi yếu mềm mới là kẻ khôn ngoan",
+        "parts": [
+          "Từ những rạn san hô nhiệt đới nông cạn cho đến những đáy bùn tăm tối ngoài đại dương, Tôm Tít đã dạy cho chúng ta một bài học sinh tồn vô cùng sâu sắc của mẹ thiên nhiên: Sở hữu sức mạnh vô song như cú đấm viên đạn không có nghĩa là bạn luôn luôn bất khả chiến bại. Đỉnh cao thực sự của kẻ sinh tồn không phải là lúc khoe khoang sức mạnh, mà là biết nhẫn nhịn, thu mình trốn kỹ trong hang tối khi cơ thể đang lột xác yếu mềm nhất, kiên nhẫn chờ đợi lớp áo giáp mới cứng cáp hơn rồi mới bước ra làm chủ cuộc chơi! [question-oh] Bạn ấn tượng nhất với điều gì ở gã võ sĩ đại dương này: Cú đấm bọt khí nóng ngang Mặt Trời hay đôi mắt nhìn thấu cả tế bào ung thư? Hãy để lại bình luận cho mình biết nhé!",
+          "Ở tập tiếp theo, chúng ta sẽ rời xa đáy biển sâu để đến với một sinh vật kỳ dị không kém: một loài cá nhưng lại biết trèo cây, biết nhảy nhót trên bùn và có thể thở bằng da suốt nhiều giờ trên cạn! Bạn có đoán được đó là ai không? Đừng quên bấm Đăng ký kênh Vẽ Chuyện Hoang Dã và bật Chuông thông báo để không bỏ lỡ tập tiếp theo nhé!"
+        ]
+      }
+    ]
+  },
+  "shorts": {
+    "target_s": 53.0,
+    "text": "[surprise-oh] Một cú đấm dưới nước mạnh ngang một viên đạn súng trường, sinh ra nhiệt độ bốn ngàn bảy trăm độ C gần bằng bề mặt Mặt Trời! [surprise-wa] Kẻ sở hữu siêu năng lực điên rồ đó chính là Tôm Tít, võ sĩ Mike Tyson khét tiếng của đại dương! Với đôi càng búa tí hon, nó phóng đòn với gia tốc mười ngàn bốn trăm g, đập vỡ nát mai cua, vỏ ốc xà cừ và thậm chí từng đấm nứt toác cả mặt kính bể cá dày cộp của một thủy cung ở nước Anh! Cú vung càng nhanh đến mức làm sôi nước biển, tạo ra vụ nổ bọt khí xâm thực nướng chín con mồi trong nháy mắt! Thế nhưng, cứ mỗi mùa lột xác, gã võ sĩ bất khả chiến bại này lại biến thành một miếng thạch bơ mềm nhũn, phải trốn chui trốn lủi sợ cả một con ốc sên bò ngang qua! [laughter] Bí mật về đôi mắt mười sáu dải màu giúp phát hiện ung thư của gã này đã có ở video dài bên dưới. Bấm xem ngay màn đại chiến siêu hài hước này nhé!"
+  },
+  "seo": {
+    "title": "Cú Đấm Nóng Bằng Mặt Trời... Đấm Nát Bể Kính Thủy Cung! | Tôm Tít | Tập 7",
+    "hook_paragraph": "Tôm Tít (Mantis Shrimp) dài chưa đầy 20cm nhưng sở hữu cú đấm gia tốc 10.400g nhanh ngang đạn súng trường, tạo ra bọt khí Cavitation nóng tới 4.700°C gần bằng bề mặt Mặt Trời! Vậy mà mỗi mùa lột xác, võ sĩ Mike Tyson đại dương lại mềm nhũn như thạch bơ trốn trong hang...",
+    "bullets": [
+      "Cú đấm 1.500 Newton gia tốc 10.400g xé toạc nước biển như đạn 22 ly",
+      "Hiện tượng Cavitation bọt khí xâm thực sinh nhiệt 4.700°C và phát quang",
+      "Càng cấu trúc nano Bouligand chống nứt quân đội Mỹ đang học hỏi",
+      "Vụ án chú tôm Tyson đấm nứt bể kính thủy cung năm 1998 và đôi mắt 16 màu"
+    ],
+    "question": "Nếu được chọn giữa cú đấm nóng bằng Mặt Trời và đôi mắt 16 màu nhìn thấu ung thư, bạn sẽ chọn siêu năng lực nào? Bình luận bên dưới nhé!",
+    "next_teaser": "Cá Thòi Lòi — loài cá biết trèo cây và chạy trên cạn!",
+    "hashtags": [
+      "#TomTit",
+      "#MantisShrimp",
+      "#TheGioiDongVat",
+      "#VeChuyenHoangDa",
+      "#KhoaHoc"
+    ],
+    "tags": [
+      "tôm tít",
+      "tom tit",
+      "mantis shrimp",
+      "tôm bọ ngựa",
+      "peacock mantis shrimp",
+      "cú đấm tôm tít",
+      "cavitation",
+      "bouligand",
+      "mike tyson đại dương",
+      "động vật kỳ lạ",
+      "thế giới động vật",
+      "khám phá động vật",
+      "vẽ chuyện hoang dã",
+      "whiteboard animation",
+      "khoa học thú vị",
+      "vũ khí tự nhiên",
+      "sinh vật biển"
+    ],
+    "shorts_title": "Cú Đấm Nóng Bằng Mặt Trời Đấm Vỡ Cả Bể Kính?! 🥊 #shorts #tomtit",
+    "shorts_desc": "Gia tốc 10.400g nhanh như đạn súng trường, tạo nhiệt 4.700°C nướng chín con mồi… nhưng Tôm Tít lại mềm như thạch khi lột xác! 🥊\n👉 Xem bản đầy đủ: vụ án đấm nứt bể kính thủy cung và mắt 16 màu — video Tập 7 trên kênh Vẽ Chuyện Hoang Dã.",
+    "shorts_tags": [
+      "tôm tít",
+      "mantis shrimp",
+      "cú đấm tôm tít",
+      "shorts",
+      "thế giới động vật",
+      "vẽ chuyện hoang dã",
+      "động vật kỳ lạ"
+    ]
+  }
+}

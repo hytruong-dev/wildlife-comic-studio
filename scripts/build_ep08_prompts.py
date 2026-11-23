@@ -1,0 +1,277 @@
+import json
+from pathlib import Path
+
+# Character standard description
+CHAR_DESC = (
+    "Chú Chồn Gulo (Wolverine - Gulo gulo) hoạt hình 2D comic, thân hình lùn mập chắc nịch "
+    "như gấu bông lai chồn hương, lông nâu sẫm bóng mượt có hai dải sọc màu vàng kem chạy dọc từ hai bên vai qua sườn xuống đuôi, "
+    "bốn chân ngắn nhưng bàn chân bè rất to xòe rộng như ủng trượt tuyết với móng vuốt sắc bén, "
+    "đôi tai tròn nhỏ, đôi mắt tinh quái biểu cảm cộc cằn liều lĩnh hoặc tự tin ngông nghênh."
+)
+
+BASE_PROMPT = (
+    "QUY CHUẨN CHUNG cho mọi cảnh tôi sẽ gửi: tỉ lệ NGANG 16:9; phong cách tranh minh họa hoạt hình comic 2D vẽ tay "
+    "kiểu whiteboard explainer, nét mực đen đậm sắc nét, tô màu phẳng tươi sáng, biểu cảm hoạt hình hài hước cường điệu; "
+    "NỀN TRẮNG TINH hoàn toàn (#FFFFFF), không khung viền, KHÔNG chữ, không số, không logo; "
+    f"chủ thể nằm gọn trong khung, chừa lề trắng. NHÂN VẬT CHÍNH cố định: {CHAR_DESC}"
+)
+
+# Detailed prompts for all 64 longform beats
+long_prompts = [
+    # --- SCENE 01: Gã Chí Phèo xứ tuyết dám cướp mồi của gấu xám (L01 - L13) ---
+    ("L01", "Nếu bạn nghĩ chúa tể vùng băng tuyết phương Bắc là loài gấu trắng khổng lồ hay những đàn sói xám hung hãn...",
+     "BÊN TRÁI: Một con gấu Bắc cực khổng lồ màu trắng và một con sói xám đang gầm rú uy phong giữa cơn bão tuyết. BÊN PHẢI: Một cái bóng đen nhỏ xíu có đôi mắt sáng quắc đang nhìn họ đầy thách thức."),
+    
+    ("L02", "Một sinh vật thân hình cũn cỡn như con gấu bông lai chồn hương, nặng vỏn vẹn mười lăm ki-lô-gam...",
+     "GIỮA: Chồn Gulo đứng trên chiếc cân bập bênh nhỏ, đối diện bên kia là một quả tạ sắt khổng lồ bốc khói hình ngọn núi lửa đang phun trào, biểu thị lá gan siêu to khổng lồ của chú chồn."),
+    
+    ("L03", "Hãy làm quen với Chồn Gu-lô, hay còn gọi là Uân-vơ-rin, nhân vật nguyên mẫu đã truyền cảm hứng cho siêu anh hùng Người Sói...",
+     "BÊN TRÁI: Chồn Gulo đứng giơ bàn chân xòe bộ móng vuốt sắc nhọn sáng loáng; BÊN PHẢI: Một chiến binh siêu anh hùng hoạt hình đeo găng vuốt kim loại sắc bén đang tạo dáng tương tự đối xứng."),
+    
+    ("L04", "Nhìn bề ngoài, chú ta lùn tịt, bốn chân ngắn củn, dáng đi lạch bạch lắc lư trông cực kỳ cù lần...",
+     "GIỮA: Chồn Gulo với thân hình lùn mập, bốn chân ngắn cũn, đang bước đi lắc lư lạch bạch trên nền tuyết trắng, mặt ngơ ngác buồn cười."),
+    
+    ("L05", "Thế nhưng, ẩn sau ngoại hình lù khù đó là bản tính hung dữ, cục súc và liều lĩnh đến mức điên rồ!...",
+     "GIỮA: Chồn Gulo bỗng xù toàn bộ lông lên, hai mắt bốc lửa đỏ rực, nhe răng nanh nhọn hoắt gầm gừ cực kỳ cục súc, tỏa ra luồng khí thế giang hồ đáng sợ."),
+    
+    ("L06", "Kẻ thù thấy nó thì phát hoảng, thợ săn nghe tên nó thì lắc đầu ngán ngẩm...",
+     "BÊN TRÁI: Bác thợ săn ôm súng run rẩy toát mồ hôi; BÊN PHẢI: Một con linh miêu và một con sói đang lấm lét dòm Chồn Gulo rồi lùi lũi quay đầu bỏ chạy."),
+    
+    ("L07", "Các nhà động vật học thường gọi Chồn Gu-lô là người anh em xứ tuyết của Lửng Mật...",
+     "BÊN TRÁI: Lửng Mật đeo kính râm mặc áo cộc tay châu Phi; BÊN PHẢI: Chồn Gulo quàng khăn len mùa đông; cả hai đập tay nhau (high-five) như hai đại ca giang hồ bắt tay kết nghĩa."),
+    
+    ("L08", "Nếu Lửng Mật là Chí Phèo của thảo nguyên châu Phi nóng rẫy, thì Chồn Gu-lô chính là trùm giang hồ bảo kê cả vùng rừng Tai-ga...",
+     "GIỮA: Chồn Gulo mặc áo khoác lông đại ca, đứng chống nạnh giữa rừng thông Taiga phủ đầy tuyết trắng, xung quanh có biển chỉ dẫn lãnh thổ đóng dấu bàn chân gấu."),
+    
+    ("L09", "Lý do đơn giản: chú ta không hề có khái niệm sợ hãi trong từ điển sống!...",
+     "GIỮA: Chồn Gulo tung chân đạp bay cuốn từ điển bách khoa có dòng chữ gạch chéo biểu tượng 'Sợ hãi', mặt vênh lên kiêu hãnh bất cần đời."),
+    
+    ("L10", "Dù đối thủ có là một con gấu xám Gờ-rít-zli nặng ba trăm ki-lô-gam hay cả một đàn sói đói đang vây quanh bữa ăn...",
+     "BÊN TRÁI: Con Gấu Xám Grizzly khổng lồ nặng 300kg đang há hốc mồm kinh ngạc; BÊN PHẢI: Chồn Gulo bé nhỏ nhảy bổ vào ngoạm lấy tảng thịt nai tươi ngon giật đi ngay trước mũi gấu."),
+    
+    ("L11", "Chưa hết đâu, gã này còn là cơn ác mộng truyền kiếp của những người thợ săn và thợ bẫy thú rừng phương Bắc!...",
+     "BÊN PHẢI: Bác thợ săn vác rìu đi phía trước; BÊN TRÁI: Chồn Gulo lén lút bám theo sau từng bước chân trên tuyết, nhe răng cười nham hiểm."),
+    
+    ("L12", "Mỗi khi thợ săn dựng lều và đặt bẫy gỗ kiên cố trong rừng, Chồn Gu-lô sẽ lén đi theo sau, dùng răng cắn nát bẫy...",
+     "GIỮA: Chiếc bẫy gỗ kiên cố bị Chồn Gulo cắn gãy vụn thành từng mảnh dăm bào, chú chồn đang giơ miếng thịt mồi lên nhai ngon lành như thưởng thức bữa tiệc."),
+    
+    ("L13", "Thợ săn mở cửa lều chỉ biết ôm đầu khóc thét vì vừa mất của vừa phải ngửi mùi hôi suốt cả mùa đông!...",
+     "BÊN TRÁI: Bác thợ săn mở cửa lều gỗ, hai tay ôm đầu khóc ròng nhìn kho lương thực trống trơn; BÊN PHẢI: Chồn Gulo để lại một đám khói màu vàng xanh bốc mùi hôi nồng nặc và dấu chân chạy trốn."),
+
+    # --- SCENE 02: Bảng chỉ số RPG — Lỗi game của tạo hóa xứ lạnh (L14 - L26) ---
+    ("L14", "Nếu đưa Chồn Gu-lô vào một tựa game nhập vai sinh tồn, chắc chắn nhân vật này sẽ bị gắn mác là kẻ gian lận chỉ số...",
+     "GIỮA: Bảng chỉ số nhân vật RPG kiểu game với hình vẽ Chồn Gulo ở giữa, các thanh máu HP, tấn công ATK, phòng thủ DEF và thể lực STA đều sáng rực tràn viền màn hình."),
+    
+    ("L15", "Sức mạnh tấn công A-T-K: chín mươi điểm! Đừng để thân hình dài sáu mươi lăm xăng-ti-mét đánh lừa bạn...",
+     "GIỮA: Chồn Gulo dùng hàm răng cắn đôi chiếc xương đùi nai sừng tấm đông cứng, chiếc xương gãy đôi kêu 'rắc' với các tia sét va đập màu vàng."),
+    
+    ("L16", "Chỉ số phòng thủ D-E-F: chín mươi lăm điểm! Da của nó dày như tấm thảm bọc thép...",
+     "GIỮA: Chồn Gulo khoác trên mình lớp giáp thép sáng bóng bảo vệ bộ lông, những mũi tên băng nhọn hoắt bắn vào thân nó đều bị bật văng ra ngoài không để lại vết xước."),
+    
+    ("L17", "Và đáng sợ nhất là chỉ số thể lực bền bỉ: chạm nóc tuyệt đối một ngàn điểm không đáy!...",
+     "GIỮA: Đồng hồ đo thể lực của Chồn Gulo có kim chỉ vượt qua vạch tối đa 1.000, chú chồn đang chạy băng băng trên đỉnh núi tuyết với nụ cười tươi rói không hề mệt mỏi."),
+    
+    ("L18", "Nó có thể chạy liên tục bảy mươi cây số qua các rặng núi dốc đứng ngập tuyết...",
+     "TOÀN CẢNH: Một bản đồ thu nhỏ với vệt đường chạy ngoằn ngoèo dài 70km vượt qua 3 đỉnh núi tuyết nhấp nhô, chú Chồn Gulo đang chạy băng băng ở điểm cuối."),
+    
+    ("L19", "Để bạn dễ hình dung sự vi diệu của bộ khung cơ thể này: Chồn Gu-lô sở hữu bốn bàn chân bè cực rộng...",
+     "CẬN CẢNH: Bàn chân của Chồn Gulo đặt cạnh một chiếc ủng đi tuyết (snowshoe) đan bằng dây da của thổ dân, làm nổi bật cấu trúc ngón xòe rộng và màng da đệm thịt."),
+    
+    ("L20", "Trong khi những con mồi nặng nề như tuần lộc hay nai sừng tấm bị sa lầy tuyết ngập đến tận bụng...",
+     "BÊN TRÁI: Chú tuần lộc to lớn bị thụt lún xuống tuyết sâu ngập bụng, hai mắt lồi ra bất lực thở phì phò; BÊN PHẢI: Chồn Gulo đứng nhẹ tênh trên mặt tuyết mịn màng."),
+    
+    ("L21", "Thế là một cuộc rượt đuổi không cân sức biến thành trò đùa: kẻ khổng lồ thì kiệt sức vì lún tuyết...",
+     "GIỮA: Chồn Gulo đeo giày trượt băng đang lướt đi thoăn thoắt vòng quanh con nai sừng tấm đang mắc kẹt trong đụn tuyết, chú chồn thong thả vừa trượt vừa huýt sáo trêu chọc."),
+    
+    ("L22", "Chưa hết đâu, cơ bắp cổ và hàm của Chồn Gu-lô phát triển khủng khiếp đến mức nó có thể tha một chiếc đầu nai nặng gấp đôi...",
+     "GIỮA: Chồn Gulo ngậm một chiếc đầu nai sừng tấm có cặp sừng khổng lồ nặng trĩu, chú ta hiên ngang tha chiếc đầu bước thoăn thoắt lên vách đá dựng đứng."),
+    
+    ("L23", "Cứ như thể một cậu bé mười tuổi nâng bổng chiếc xe máy phân khối lớn rồi chạy bộ lên đỉnh dốc vậy!...",
+     "HÀI HƯỚC: Một cậu bé hoạt hình 10 tuổi nhỏ nhắn hai tay nâng bổng chiếc xe máy phân khối lớn to đùng, vừa cười toe toét vừa chạy phăng phăng lên con dốc cao."),
+    
+    ("L24", "Thật là một thiết kế vật lý thách thức mọi định luật công thái học của tự nhiên!...",
+     "GIỮA: Nhà bác học hoạt hình đeo kính cầm bảng tính toán vật lý rơi cả kính mắt kinh ngạc nhìn Chồn Gulo đang phô diễn cơ bắp cổ cuồn cuộn."),
+
+    # --- SCENE 03: Chiếc răng hàm xoay 90 độ & Tuyến xạ Skunk Bear (L25 - L38) ---
+    ("L25", "Nhưng vũ khí cơ học quái đản nhất của Chồn Gu-lô nằm ở bên trong khoang miệng của nó!...",
+     "CẬN CẢNH: Miệng Chồn Gulo há to nhe răng cười, một mũi tên phóng to chỉ vào chiếc răng hàm trên đặc biệt bên trong khoang miệng."),
+    
+    ("L26", "Các nhà giải phẫu học từng kinh ngạc khi phát hiện chiếc răng hàm trên đặc biệt của nó được xoay ngang chín mươi độ...",
+     "HỌA ĐỒ Y KHOA: Sơ đồ hàm răng Chồn Gulo với chiếc răng hàm trên xoay ngang 90 độ vào phía trong, có thước đo góc 90 độ màu vàng rực rỡ."),
+    
+    ("L27", "Chiếc răng này hoạt động như một chiếc kìm cộng lực bẻ sắt: nó cho phép Chồn Gu-lô ngoạm chặt và nghiền nát những khúc xương lớn...",
+     "MINH HỌA SO SÁNH: BÊN TRÁI: Một chiếc kìm cộng lực bằng thép đang cắt đôi thanh sắt; BÊN PHẢI: Hàm răng Chồn Gulo ngoạm bẻ đôi khúc xương đông lạnh đóng băng."),
+    
+    ("L28", "Vào mùa đông khắc nghiệt khi thức ăn khan hiếm cùng cực, tất cả các loài dã thú khác đều phải bỏ lại những bộ xương đóng băng...",
+     "BÊN TRÁI: Một con sói xám ôm mõm nhăn nhó vì cắn phải xương đá bị mẻ răng; BÊN PHẢI: Chồn Gulo ung dung bước tới với chiếc nĩa và khăn ăn cài cổ."),
+    
+    ("L29", "Đối với nó, xương đông lạnh chẳng khác nào những que kem đá bùi ngậy giữa mùa đông!...",
+     "HÀI HƯỚC: Chồn Gulo cầm khúc xương đóng băng dài như một que kem ốc quế, đang thè lưỡi liếm và hút tủy béo ngậy một cách ngon lành sảng khoái."),
+    
+    ("L30", "Bên cạnh chiếc răng kìm sắt, gã này còn sở hữu một vũ khí sinh học kinh hoàng khiến người ta đặt cho nó biệt danh Chồn Gấu Hôi...",
+     "GIỮA: Chồn Gulo đứng chống nạnh đeo huy hiệu vương miện có dòng chữ 'Skunk Bear' (Chồn Gấu Hôi), đằng sau là một luồng khói xanh hình đầu lâu bốc mùi."),
+    
+    ("L31", "Ngay dưới đuôi của nó là một tuyến xạ mùi cực nồng, có khả năng phun ra một hợp chất hóa học bốc mùi khủng khiếp!...",
+     "CẬN CẢNH: Phía dưới đuôi Chồn Gulo phun ra một luồng xịt khí màu vàng xanh như bình xịt hơi cay, tạo ra đám mây khói hôi mù mịt."),
+    
+    ("L32", "Mùi hôi này là sự kết hợp kinh dị giữa mùi trứng thối lưu huỳnh, mắm tôm ủ lâu ngày và mùi tất ướt...",
+     "HÀI HƯỚC: Ba biểu tượng độc hại gồm: quả trứng thối nứt đôi bốc khói, hũ mắm tôm mở nắp có ruồi bay, và đôi tất thể thao bốc mùi; hòa trộn vào luồng xạ của Chồn Gulo."),
+    
+    ("L33", "Khi cướp được thức ăn hoặc giấu mồi, chú ta sẽ lập tức tưới đẫm dung dịch hôi hám này lên miếng thịt...",
+     "GIỮA: Chồn Gulo chổng mông tưới dung dịch xạ hôi lên tảng thịt nai đông lạnh, xung quanh cắm biển cấm 'Đã đánh dấu chủ quyền! Đố đứa nào dám ăn!'."),
+    
+    ("L34", "Kết quả là chẳng có con thú săn mồi nào, dù đói đến mấy, dám hạ mình chạm mồm vào đống thức ăn thối hoắc đó nữa!...",
+     "BÊN TRÁI: Một con gấu xám to lớn và hai con sói đói đang lấy chân bịt chặt mũi, mặt xanh lét nôn nao quay đầu bỏ chạy khỏi đống thịt bốc mùi."),
+    
+    ("L35", "Ngoài ra, khứu giác của Chồn Gu-lô nhạy bén đến mức khó tin: nó có thể đánh hơi thấy xác một con nai bị tuyết lở chôn vùi sâu tới sáu mét...",
+     "MẶT CẮT ĐỊA CHẤT: Bên trên là mặt tuyết với Chồn Gulo đang hít hà bằng mũi; bên dưới lớp tuyết sâu 6m là xác một con nai bị vùi lấp, có sóng âm khứu giác nối từ mũi chồn xuống."),
+    
+    ("L36", "Sau đó, nó dùng bốn móng vuốt cào bới như một chiếc máy xúc mini, đào xuyên qua lớp băng tuyết dày...",
+     "GIỮA: Chồn Gulo biến hình thành một chiếc máy xúc mini với gầu múc là móng vuốt, đào tuyết bay tung tóe tạo thành một đường hầm sâu hoắm."),
+    
+    ("L37", "Đặc biệt, bộ lông của Chồn Gu-lô là một kiệt tác cách nhiệt tối thượng của tự nhiên! Cấu trúc sợi lông rỗng và phủ lớp dầu kỵ nước...",
+     "CẬN CẢNH KÍNH HIỂN VI: Sợi lông rỗng của Chồn Gulo với các giọt nước hình cầu lăn tròn tuột khỏi sợi lông mà không hề thấm ướt."),
+    
+    ("L38", "Người thợ săn bản địa Et-xki-mô từ ngàn xưa đã xem lông Chồn Gu-lô là thứ đắt giá nhất để may viền mũ trùm đầu mùa đông...",
+     "GIỮA: Một người Eskimo mặc áo ấm Bắc cực có viền mũ lông Chồn Gulo, thở ra làn khói ở -40°C nhưng viền mũ vẫn khô ráo sạch tuyết, chỉ cần gạt nhẹ tay là tuyết rơi sạch."),
+
+    # --- SCENE 04: Gót chân A-sin — Quái vật dạ dày & Cuộc sống cô độc đến lập dị (L39 - L49) ---
+    ("L39", "Tên khoa học của nó, Gu-lô Gu-lô, trong tiếng La-tinh có nghĩa đen là Kẻ Phàm Ăn!...",
+     "GIỮA: Chồn Gulo ngồi trước bàn ăn ngập tràn các tảng thịt nướng, xúc xích và xương đùi, hai tay cầm dao nĩa, bụng phình to tròn vo miệng vẫn đang nhồm nhoàm nhai."),
+    
+    ("L40", "Tốc độ trao đổi chất của nó nhanh đến mức điên cuồng để duy trì thân nhiệt giữa cái lạnh âm bốn mươi độ C...",
+     "HÀI HƯỚC: Trong bụng Chồn Gulo là một lò luyện than rực lửa bốc khói nghi ngút, các bánh răng động cơ đốt trong quay tít mù để giữ nhiệt độ cho cơ thể."),
+    
+    ("L41", "Để không bị chết đói, nó biến cả khu rừng tuyết thành một chuỗi tủ lạnh siêu thị: bất cứ con mồi nào ăn không hết, nó xé nhỏ ra rồi chôn sâu...",
+     "GIỮA: Khu rừng tuyết có các hốc băng được đánh số như các ngăn của tủ lạnh siêu thị, bên trong chứa các gói thịt nai được bọc tuyết cất giữ ngăn nắp."),
+    
+    ("L42", "Nhưng chính cái nết ăn như hổ đó khiến nó luôn trong trạng thái cáu kỉnh, gắt gỏng như người bị hạ đường huyết suốt hai mươi bốn trên bảy!...",
+     "GIỮA: Chồn Gulo mặt mày cau có nhăn nhó, trán nổi gân chữ thập đỏ, hai tay ôm bụng réo ùng ục, miệng gầm gừ cáu bẳn với một bông hoa tuyết vô tội."),
+    
+    ("L43", "Và điểm yếu bi hài nhất của Chồn Gu-lô chính là bản tính cô độc đến mức cực đoan!...",
+     "BẢN ĐỒ LÃNH THỔ: Một vùng lãnh thổ rộng lớn 1.500km² có rào chắn gai nhọn bao quanh, ở chính giữa là Chồn Gulo ngồi một mình trên tảng đá cắm biển: 'CẤM BƯỚC VÀO!'."),
+    
+    ("L44", "Ngay cả với đồng loại cùng loài, khuôn mặt chú ta lúc nào cũng nhăn nhó, cau có như mất sổ gạo!...",
+     "GIỮA: Hai con Chồn Gulo tình cờ gặp nhau trên đường mòn tuyết, cả hai cùng trừng mắt lườm nguýt, giơ nắm đấm và quay ngoắt lưng lại phùng phỉu bỏ đi."),
+    
+    ("L45", "Chúng chỉ gặp nhau đúng vài ngày ngắn ngủi trong năm để duy trì nòi giống, rồi lập tức quay lưng bỏ chạy...",
+     "HÀI HƯỚC: Chồn đực và chồn cái sau khi gặp nhau chớp nhoáng lập tức cắm đầu chạy thục mạng về hai hướng ngược nhau, để lại vệt bụi tuyết dài sau lưng."),
+    
+    ("L46", "Một chiến binh vô địch thiên hạ, nhưng cả cuộc đời chỉ lủi thủi độc hành giữa rừng tuyết hoang vu không một bóng bạn bè!...",
+     "CẢNH BUỒN HÀI: Chồn Gulo ngồi cô đơn trên mỏm đá tuyết nhìn trăng tròn mùa đông, thở dài tạo thành làn khói trắng, bên cạnh là một người tuyết do nó tự nặn để làm bạn."),
+    
+    ("L47", "Dù cả đời liều mạng đánh nhau với gấu và sói để bảo vệ miếng ăn, nhưng Chồn Gu-lô lại cực kỳ cưng chiều đàn con của mình!...",
+     "ẤM ÁP: Chồn bố Gulo đang dùng lưng cõng hai chú chồn con lông xù đáng yêu đi dạo trên nền tuyết trắng, ánh mắt bố dịu dàng khác hẳn vẻ cục súc thường ngày."),
+    
+    ("L48", "Chồn bố thỉnh thoảng vẫn quay lại thăm đàn con nhỏ, dẫn chúng đi săn và dạy chúng kỹ năng bẻ xương tuyết...",
+     "GIỮA: Chồn bố đang cầm que hướng dẫn ba chú chồn con tập bẻ một mẩu xương nhỏ, các bé chồn chăm chú lắng nghe và bắt chước rất ngộ nghĩnh."),
+    
+    ("L49", "Đúng là giang hồ xứ tuyết cũng có lúc yếu lòng!...",
+     "GIỮA: Chồn bố quay mặt đi lau một giọt nước mắt xúc động nhỏ giọt, trong khi tay vẫn nắm chặt tay chồn con, tạo sự tương phản cực kỳ đáng yêu."),
+
+    # --- SCENE 05: Những trận chiến có thật — Một mình đuổi cả gấu lẫn sói (L50 - L57) ---
+    ("L50", "Tại Vườn quốc gia Yên-lâu-xtôn ở Mỹ, các nhà nghiên cứu từng ghi nhận một thước phim chấn động: một con Chồn Gu-lô nặng chưa đầy mười lăm ki-lô-gam...",
+     "GIỮA: Một ống kính máy quay phim tài liệu thực địa hướng vào bối cảnh rừng thông tuyết Yellowstone, ghi lại cảnh Chồn Gulo đứng đối diện Gấu Xám khổng lồ."),
+    
+    ("L51", "Chú chồn nhỏ không hề lùi bước, xù toàn bộ lông lên, nhe hàm răng kìm sắt gầm gừ những tiếng rít chói tai và lao tới đớp thẳng vào mõm gấu khổng lồ!...",
+     "CẢNH HÀNH ĐỘNG: Chồn Gulo nhảy chồm lên không trung, nhe nanh đớp thẳng vào chóp mũi con Gấu Xám to xác đang hoảng hốt lùi lại ngửa đầu ra sau."),
+    
+    ("L52", "Bị tấn công bất ngờ bởi một kẻ điên không sợ chết kèm theo mùi hôi nồng nặc bốc lên, con gấu xám khổng lồ nặng gấp hai mươi lần chỉ biết gầm gừ khó chịu rồi lùi lũi bỏ đi!...",
+     "BÊN TRÁI: Chồn Gulo 15kg đứng giơ hai tay đắc thắng bên xác nai; BÊN PHẢI: Con gấu xám Grizzly 300kg cụp tai, lầm lũi quay đít bước đi với vẻ mặt ngao ngán."),
+    
+    ("L53", "Chưa dừng lại ở đó, tại vùng lãnh nguyên A-lát-xka, người ta từng chứng kiến cảnh một con Chồn Gu-lô đơn độc đánh bật ba con sói xám to lớn khỏi miếng mồi!...",
+     "GIỮA: Chồn Gulo đứng ở tâm vòng tròn nhe nanh xù lông gầm thét dữ dội; xung quanh là ba con sói xám to lớn đang chùn bước, e dè không dám áp sát."),
+    
+    ("L54", "Sói xám nổi tiếng với chiến thuật bầy đàn thông minh, nhưng đứng trước một gã lùn vừa cắn đau, vừa hôi thối, lại vừa lăn xả như cảm tử quân...",
+     "BÊN TRÁI: Ba con sói xám quay đầu rút lui, một con ngoái đầu lại nhìn với ánh mắt sợ hãi; BÊN PHẢI: Chồn Gulo chống nạnh ngoác miệng cười chế giễu."),
+    
+    ("L55", "Một nghiên cứu nổi tiếng khác theo dõi chú chồn mang mã số M-ba tại bang Mông-ta-na đã khiến giới khoa học ngả mũ...",
+     "GIỮA: Chú chồn Gulo đeo vòng cổ định vị GPS nhỏ có mã số 'M3', đang đứng hiên ngang trên vách đá ngắm nhìn đỉnh núi tuyết cao chọc trời."),
+    
+    ("L56", "Trong vòng chín mươi phút, chú ta đã leo thẳng đứng lên đỉnh núi Mông Cờ-li-vơ-lân cao hơn ba ngàn một trăm mét phủ đầy băng tuyết dựng đứng!...",
+     "TOÀN CẢNH: Ngọn núi Mount Cleveland cao 3.100m dốc đứng phủ đầy băng tuyết; một đường leo dốc đứng có mũi tên đỏ chỉ tốc độ 90 phút lên tận đỉnh chóp."),
+    
+    ("L57", "Các vận động viên leo núi chuyên nghiệp phải mất cả ngày trời với đầy đủ dây bảo hiểm và rìu băng, còn chú ta chỉ coi đó là một buổi đi dạo buổi sáng...",
+     "BÊN TRÁI: Hai vận động viên leo núi người thở dốc bám dây thừng rìu băng; BÊN PHẢI: Chồn Gulo đang ung dung cắn tảng thịt trên đỉnh núi tuyết ngắm bình minh."),
+
+    # --- SCENE 06: Bài học sinh tồn từ Chồn Gulo & Teaser tập sau (L58 - L64) ---
+    ("L58", "Nhìn lại hành trình sinh tồn của Chồn Gu-lô giữa vùng địa đầu băng giá, chúng ta nhận ra một bài học sâu sắc: Kích thước cơ thể hay hoàn cảnh xuất phát điểm chưa bao giờ là yếu tố quyết định...",
+     "Ý NGHĨA: Chồn Gulo nhỏ bé đứng trên mỏm đá tuyết cao, bóng của chú ta in xuống nền tuyết lại là hình bóng một con sư tử dũng mãnh đội vương miện."),
+    
+    ("L59", "Sinh ra với thân hình nhỏ bé giữa một vùng đất ngập tràn những kẻ săn mồi khổng lồ, Chồn Gu-lô không chọn cách ẩn nấp sợ sệt, mà tự tôi luyện cho mình sức chịu đựng phi thường...",
+     "GIỮA: Chồn Gulo đang hăng say tập luyện: một tay chống đẩy trên tuyết lạnh, một tay cầm tạ đá, mặt kiên định không ngại gian khó."),
+    
+    ("L60", "Nó biến cái lạnh chết người thành chiếc tủ lạnh bảo quản thức ăn, và biến sự nhỏ bé thành vũ khí cơ động lướt trên tuyết!...",
+     "GIỮA: Chồn Gulo mỉm cười tự tin đứng giữa tâm bão tuyết, gió lốc băng giá thổi qua nhưng chú ta đứng vững như bàn thạch."),
+    
+    ("L61", "Trong cuộc sống cũng vậy: Khi bạn dám đương đầu với những nghịch cảnh lớn hơn bản thân gấp nhiều lần và kiên trì bước tiếp mỗi ngày, cả thế giới sẽ phải nghiêng mình nhường bước...",
+     "TRUYỀN CẢM HỨNG: Chồn Gulo bước đi hiên ngang trên con đường tuyết trắng hướng về ánh mặt trời rực rỡ, để lại dấu chân vững chãi phía sau."),
+    
+    ("L62", "Nếu được chọn giữa sức mạnh thể lực bền bỉ leo núi không biết mệt của Chồn Gu-lô và cú đấm nóng ngang Mặt Trời của Tôm Tít ở tập trước, bạn sẽ chọn siêu năng lực nào?...",
+     "BÊN TRÁI: Chồn Gulo leo núi tuyết hùng dũng; BÊN PHẢI: Tôm Tít (Tập 7) tung cú đấm quyền anh phát sáng rực rỡ; ở giữa là dấu hỏi chấm vàng to kích thích khán giả bình luận."),
+    
+    ("L63", "Đừng quên bấm Đăng ký kênh và chuông thông báo để không bỏ lỡ Tập chín: Chim Cánh Cụt — Đằng sau dáng đi lạch bạch dễ thương là những màn giao dịch đen tối nhất Nam Cực!...",
+     "TEASER TẬP 9: Một chú Chim Cánh Cụt Nam Cực lạch bạch dễ thương nhưng đeo kính râm đen bí hiểm, tay cầm một viên sỏi lấp lánh như đang làm giao dịch ngầm trên tảng băng trôi."),
+    
+    ("L64", "Hẹn gặp lại các bạn trong cuộc phiêu lưu tiếp theo!...",
+     "KẾT THÚC: Chồn Gulo tươi cười giơ tay vẫy chào khán giả, bên cạnh là biểu tượng nút Đăng Ký (Subscribe) và chiếc Chuông thông báo vẽ tay phong cách comic whiteboard.")
+]
+
+# Detailed prompts for Shorts (S01 - S10, 9:16 vertical)
+shorts_prompts = [
+    ("S01", "Nặng vỏn vẹn mười lăm ki-lô-gam nhưng dám lao vào cướp mồi của một con Gấu Xám nặng ba trăm ki-lô-gam!",
+     "9:16 DỌC. BÊN TRÊN: Con Gấu Xám Grizzly 300kg to lớn hoảng hốt; BÊN DƯỚI: Chồn Gulo 15kg nhỏ bé xông thẳng vào cướp tảng thịt trên tuyết trắng."),
+    
+    ("S02", "Kẻ điên rồ bậc nhất xứ tuyết phương Bắc chính là Chồn Gu-lô, hay còn gọi là Uân-vơ-rin!",
+     "9:16 DỌC. GIỮA: Chồn Gulo đứng dạng chân chống nạnh, xòe móng vuốt sắc nhọn, biểu cảm cực ngầu như siêu anh hùng Người Sói Wolverine."),
+    
+    ("S03", "Với bốn bàn chân bè rộng như đôi ủng trượt tuyết, gã tí hon này lướt nhẹ trên tuyết mềm trong khi những con mồi khổng lồ sa lầy bất lực!",
+     "9:16 DỌC. BÊN DƯỚI: Nai sừng tấm to lớn lún ngập bụng trong tuyết; BÊN TRÊN: Chồn Gulo lướt nhẹ nhàng trên tuyết như trượt patin."),
+    
+    ("S04", "Bộ lông kỵ nước không bao giờ đông đá ở âm bốn mươi độ C, và chiếc răng hàm trên xoay ngang chín mươi độ hoạt động như kìm cộng lực...",
+     "9:16 DỌC. CẬN CẢNH: Hàm răng Chồn Gulo với chiếc răng hàm xoay 90 độ bẻ đôi chiếc xương đóng băng, băng tuyết văng tung tóe."),
+    
+    ("S05", "Nó có thể chạy liên tục bảy mươi cây số qua vách núi dựng đứng...",
+     "9:16 DỌC. TOÀN CẢNH DỌC: Chồn Gulo đang chạy phăng phăng leo thẳng lên vách núi tuyết dựng đứng dốc 90 độ một cách phi thường."),
+    
+    ("S06", "Và khi bị bao vây, nó sẽ phun ra luồng mùi hôi thối kinh hoàng khiến cả bầy sói cũng phải ôm mũi bỏ chạy!",
+     "9:16 DỌC. BÊN TRÊN: Ba con sói lấy chân bịt mũi bỏ chạy tán loạn; BÊN DƯỚI: Chồn Gulo chổng đuôi xịt khói hôi mù mịt."),
+    
+    ("S07", "Nhưng nghịch lý hài hước là gã chiến binh bất bại này lại cô độc đến phát khóc, cả đời chỉ lủi thủi một mình vì tính tình quá cộc cằn!",
+     "9:16 DỌC. GIỮA: Chồn Gulo ngồi co ro một mình trên mỏm đá tuyết nhìn trăng đêm, mặt cau có khó chịu nhưng đầy cô đơn."),
+    
+    ("S08", "Bạn muốn biết chú ta đã đuổi gấu xám cướp mồi như thế nào?",
+     "9:16 DỌC. GIỮA: Mũi tên cong vẽ tay to màu đỏ chỉ thẳng xuống phía dưới màn hình (nơi có nút xem video dài liên quan)."),
+    
+    ("S09", "Bấm xem ngay video dài Tập tám bên dưới kênh nhé!",
+     "9:16 DỌC. GIỮA: Poster hoạt hình thu nhỏ của Tập 8 với hình Chồn Gulo và Gấu Xám, kèm bàn tay chỉ xuống nút link."),
+    
+    ("S10", "Nối vòng lặp: Nặng vỏn vẹn mười lăm ki-lô-gam nhưng dám lao vào cướp mồi của một con Gấu Xám...",
+     "9:16 DỌC. GIỮA: Chồn Gulo há miệng gầm gừ lao vút về phía trước tiếp nối cú đấm cướp mồi (khớp hoàn hảo về giây 0:00).")
+]
+
+# Thumbnail T01 prompt (16:9 ngang, comic High-CTR style of EP06 & EP07)
+thumb_prompt = (
+    "Tạo một ảnh thumbnail YouTube tỉ lệ 16:9 ngang (1920x1080), phong cách comic 2D hoạt hình, nét viền đen đậm, "
+    "màu phẳng rực rỡ, tương phản rất mạnh, giống thumbnail kênh khoa học vui nhộn. "
+    "BỐ CỤC: Bên TRÁI phía trên là tiêu đề chữ IN HOA tiếng Việt rất lớn, 2 dòng, màu vàng gradient viền đen cực dày, có bóng đổ: "
+    "dòng 1 \"NẶNG 15KG\", dòng 2 \"CƯỚP MỒI GẤU XÁM?!\" (viết đúng chính tả và đúng dấu tiếng Việt). "
+    "Góc trên cùng bên trái là huy hiệu comic hình nổ màu đỏ viền vàng ghi chữ \"TẬP 8\". "
+    "Bên PHẢI và GIỮA là nhân vật chính: Chú Chồn Gulo (Wolverine) thân hình lùn mập chắc nịch, lông nâu sẫm sọc vàng kem, "
+    "bàn chân to xòe móng vuốt sắc nhọn, mặt cực kỳ hung hăng, gầm gừ tự tin ngông nghênh, một tay giơ tảng thịt nai tươi, "
+    "đang quát đuổi đối thủ. "
+    "Phía sau bên trái là một con Gấu Xám Grizzly khổng lồ to gấp 20 lần đang hoảng hốt toát mồ hôi, cụp tai lùi bước. "
+    "Nền: Rừng thông tuyết Taiga màu xanh đậm với các tia sáng tỏa ra kiểu sunburst comic phía sau nhân vật. "
+    "Ít chi tiết, nhân vật to rõ, đọc được rõ ở kích thước nhỏ. Không có chữ nào khác ngoài \"TẬP 8\" và tiêu đề."
+)
+
+data = {
+    "base_prompt": BASE_PROMPT,
+    "longform": [{"id": pid, "quote": q, "prompt": pr} for pid, q, pr in long_prompts],
+    "shorts": [{"id": pid, "quote": q, "prompt": pr} for pid, q, pr in shorts_prompts],
+    "thumbnail": {"id": "T01", "prompt": thumb_prompt}
+}
+
+out_p = Path("projects/tap-08-chon-gulo/specs/image_prompts.json")
+out_p.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+print(f"Generated {len(long_prompts)} longform prompts + {len(shorts_prompts)} shorts prompts + 1 thumbnail prompt -> {out_p}")

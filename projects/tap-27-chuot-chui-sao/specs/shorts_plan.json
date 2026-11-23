@@ -1,0 +1,128 @@
+{
+ "title_lines": [
+  "ĂN MỒI TRONG 0,12 GIÂY",
+  "& NGỬI DƯỚI NƯỚC?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "chỉ mất đúng 0,12",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "at": "0,12 giây",
+     "side": "R",
+     "y": 560,
+     "value": "0,12 GIÂY",
+     "label": "ăn mồi siêu tốc",
+     "target": [
+      0.6,
+      0.48
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Xin giới thiệu Chuột",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "20cm",
+     "side": "R",
+     "y": 720,
+     "value": "20 CM",
+     "label": "chiều dài cơ thể",
+     "target": [
+      0.62,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Hai mắt của nó",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": []
+  },
+  {
+   "at": "nhưng trên mũi lại",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "at": "22 xúc tu",
+     "side": "L",
+     "y": 620,
+     "value": "22 XÚC TU",
+     "label": "mũi hoa sao",
+     "target": [
+      0.45,
+      0.52
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Chiếc mũi quái đản",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "at": "25.000",
+     "side": "R",
+     "y": 650,
+     "value": "25.000 THỂ",
+     "label": "12 vị trí mỗi giây",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Thậm chí khi lặn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "rồi hít ngược trở",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "Bộ não của nó",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "at": "8 mili-giây",
+     "side": "L",
+     "y": 680,
+     "value": "8 MS",
+     "label": "phân tích não bộ",
+     "target": [
+      0.4,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Một tia chớp lòng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  }
+ ]
+}

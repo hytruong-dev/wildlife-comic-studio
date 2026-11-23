@@ -1,0 +1,610 @@
+{
+  "_doc": "specs/storyboard.json cho tap-50-khi-dot-lung-bac",
+  "characters": {
+    "HERO": "chú khỉ đột lưng bạc hoạt hình ngộ nghĩnh (thân hình khổng lồ 200kg, cơ bắp cuồn cuộn gân guốc, lưng ánh bạc lấp lánh như thép tôi, chiếc bụng to tròn chứa lò vi sinh)",
+    "HERO_S": "chú khỉ đột lưng bạc hoạt hình ngộ nghĩnh đeo đai vô địch WWE mạ vàng giơ nắm đấm thép",
+    "NO_HERO": "",
+    "COMMENTATOR": "bình luận viên thể thao mặc vest lịch lãm cầm micro hò hét cuồng nhiệt",
+    "OLD_MAN": "cụ già kể chuyện vuốt râu trầm trồ trước lực cắn của khỉ đột",
+    "NAIVE": "chàng trai ngơ ngác ôm xô bột đạm whey protein đứng ngỡ ngàng",
+    "KID": "bé con tò mò ngước nhìn gã khổng lồ hiền lành nằm chơi với con nhỏ",
+    "LEOPARD": "báo hoa mai gầm gừ hoảng hốt lùi bước trước bóng lưng bạc",
+    "BANANA_TREE": "thân cây chuối rừng to bằng bắp đùi bị bẻ gãy gập làm đôi",
+    "REACTOR": "sơ đồ lò phản ứng vi sinh vật manh tràng ruột già tỏa năng lượng đỏ rực trong bụng khỉ đột"
+  },
+  "side_characters": [
+    "COMMENTATOR",
+    "OLD_MAN",
+    "NAIVE",
+    "KID",
+    "LEOPARD",
+    "BANANA_TREE",
+    "REACTOR"
+  ],
+  "shorts_side_characters": [
+    "COMMENTATOR",
+    "REACTOR"
+  ],
+  "shorts_title_lines": [
+    "CHỈ ĂN LÁ CÂY",
+    "CƠ BẮP 800KG?!"
+  ],
+  "skip_numbers": [],
+  "long": [
+    {
+      "scene": "scene01",
+      "id": "L01",
+      "at": 0,
+      "layout": "{COMMENTATOR}: bình luận viên thể thao cuồng nhiệt chĩa micro gào thét trước sàn đấu sương mù Virunga",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L02",
+      "at": "sàn đấu núi",
+      "layout": "{HERO}: võ sĩ khổng lồ 200kg bước ra sàn đấu với chiếc lưng ánh bạc lấp lánh như thép tôi",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L03",
+      "at": "cơ bắp cuồn",
+      "layout": "{HERO}: cánh tay vượn dài 2 mét với những bó cơ bắp cuồn cuộn gân guốc bẻ cong xà beng thép",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L04",
+      "at": "sét của gã",
+      "layout": "{HERO}: khỉ đột dùng một tay nhấc bổng khúc gỗ nặng 800kg thong thả như cầm một cuốn sách",
+      "stickers": [
+        {
+          "at": "800kg",
+          "side": "R",
+          "y": 320,
+          "value": "800kg",
+          "label": "Sức nâng bắp tay",
+          "target": [
+            0.8,
+            0.4
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L05",
+      "at": "và hít thở",
+      "layout": "{NAIVE}: chú ngơ ngác ôm xô đạm whey protein đứng chết trân trước khẩu phần ăn chay của khỉ đột",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L06",
+      "at": "võ sĩ khổng",
+      "layout": "{HERO}: khỉ đột ngồi nhai lá cây rừng chồi tre non xơ xác với nụ cười sảng khoái",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L07",
+      "at": "ăn chay thuần",
+      "layout": "{HERO}: sơ đồ so sánh sức mạnh cơ bắp gấp 4-9 lần người đàn ông lực lưỡng nhất",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L08",
+      "at": "cơ bắp của",
+      "layout": "{HERO}: mật độ xương dày đặc gấp 3 lần và dây gân bọc thép chịu tải động năng cực hạn",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L09",
+      "at": "cùng chúng tôi",
+      "layout": "{COMMENTATOR} {HERO}: bình luận viên chỉ tay vào chiếc bụng to tròn căng phồng như lò phản ứng sinh học",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L10",
+      "at": 0,
+      "layout": "{HERO}: vóc dáng bệ vệ của khỉ đột với chiếc bụng to tròn căng phồng lùm lùm như chiếc trống cái",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L11",
+      "at": "không hề có",
+      "layout": "{REACTOR}: sơ đồ cắt ngang khoang bụng cho thấy lò phản ứng lên men ruột sau tỏa sáng rực lửa",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L12",
+      "at": "một khoang lò",
+      "layout": "{REACTOR}: ruột già khổng lồ chiếm 60% thể tích tiêu hóa với hàng tỷ vi sinh vật kỵ khí tăng ca",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L13",
+      "at": "tiêu hóa, trong",
+      "layout": "{HERO}: đống lá cây 20kg được nhai vụn đưa vào thùng ủ bia sinh học manh tràng",
+      "stickers": [
+        {
+          "at": "20kg",
+          "side": "L",
+          "y": 360,
+          "value": "20kg",
+          "label": "Lá cây mỗi ngày",
+          "target": [
+            0.35,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L14",
+      "at": "tiêu hóa được",
+      "layout": "{REACTOR}: các enzym vi khuẩn cắt đứt liên kết xen-lu-lô-zơ tạo ra axit béo chuỗi ngắn giàu năng lượng",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L15",
+      "at": "các liên kết",
+      "layout": "{REACTOR}: đàn vi khuẩn tự tổng hợp axit amin thiết yếu và vitamin B nuôi dưỡng tế bào cơ bắp nạc",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L16",
+      "at": "trực tiếp tái tạo",
+      "layout": "{HERO}: dòng năng lượng tinh khiết hấp thụ qua niêm mạc ruột cung cấp 70% tổng calo cơ thể",
+      "stickers": [
+        {
+          "at": "70%",
+          "side": "R",
+          "y": 320,
+          "value": "70% CALO",
+          "label": "Năng lượng từ chất xơ",
+          "target": [
+            0.8,
+            0.4
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L17",
+      "at": "sữa tăng cơ",
+      "layout": "{HERO}: khỉ đột ngồi thong dong 4-6 tiếng mỗi ngày nhai lá tre trúc nuôi dưỡng khối cơ bắp thép",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L18",
+      "at": "Mỗi ngày nó dành",
+      "layout": "{HERO}: nhà máy phát điện sinh học độc nhất vô nhị biến lá cây thành sức mạnh vô song",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L19",
+      "at": 0,
+      "layout": "{HERO}: bảng đo lực điện tử vỡ nát trước cú đấm tàn phá làm sập bức tường gạch dày",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L20",
+      "at": "công phá làm",
+      "layout": "{HERO}: sợi cơ co rút nhanh màu trắng bộc phát sức mạnh tột đỉnh trong tích tắc",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L21",
+      "at": "có thể dùng",
+      "layout": "{HERO} {BANANA_TREE}: khỉ đột dùng hai tay không bẻ gãy gập thân cây chuối to bằng bắp đùi người lớn",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L22",
+      "at": "móc vòng cung",
+      "layout": "{HERO}: sải tay dài 2.5 mét tạo ra vùng sát thương cận chiến tuyệt đối quét sạch đối thủ",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L23",
+      "at": "cụ già kể",
+      "layout": "{OLD_MAN}: cụ già kể chuyện vuốt râu nhớ lại cảnh khỉ đột cắn nát quả dừa khô cứng ngắc",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L24",
+      "at": "lên tới 1300",
+      "layout": "{HERO}: gờ xương đỉnh đầu nhô cao như mào gà bằng đá làm điểm tựa cho cơ nhai khổng lồ",
+      "stickers": [
+        {
+          "at": "1300 PSI",
+          "side": "R",
+          "y": 320,
+          "value": "1300 PSI",
+          "label": "Lực cắn nghiền xương",
+          "target": [
+            0.8,
+            0.4
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L25",
+      "at": "mà không hề",
+      "layout": "{HERO}: đồng hồ đo lực cắn chỉ con số 1300 PSI mạnh gấp đôi chúa sơn lâm sư tử",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L26",
+      "at": "bảo vệ cứng",
+      "layout": "{HERO}: khỉ đột nâng bổng tảng đá hoa cương 800kg ném xa hàng mét với trọng tâm vững chãi",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L27",
+      "at": "cận chiến với gã",
+      "layout": "{COMMENTATOR}: bình luận viên ngả mũ thán phục trước cỗ máy nghiền đá bất khả chiến bại",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L28",
+      "at": 0,
+      "layout": "{HERO}: sấm rền vang dội thung lũng khi khỉ đột vươn cao lồng ngực vĩ đại đập liên hồi 20 cú mỗi giây",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L29",
+      "at": "đang đứng thẳng",
+      "layout": "{HERO}: con vật nhổ bật bụi cây ném về phía trước chạy ngang thị uy dũng mãnh",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L30",
+      "at": "của loài khỉ",
+      "layout": "{HERO}: góc quay chậm cho thấy bàn tay khum tròn như chiếc bát úp tạo luồng sóng âm trầm đục",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L31",
+      "at": "cú đập ngực",
+      "layout": "{HERO}: sơ đồ túi khí thanh quản khổng lồ dung tích vài lít đóng vai trò buồng cộng hưởng âm thanh",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L32",
+      "at": "tròn lại như",
+      "layout": "{HERO}: luồng sóng âm trầm sâu xuyên thấu qua tán lá rậm rạp vang xa hơn 1 kilomet",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L33",
+      "at": "đục vang xa",
+      "layout": "{HERO} {LEOPARD}: những con đực trẻ và báo hoa mai nghe tiếng sấm rền từ xa lập tức cúi đầu rút lui",
+      "stickers": [
+        {
+          "at": "một cây số",
+          "side": "L",
+          "y": 350,
+          "value": "1 KM",
+          "label": "Âm thanh vỗ ngực",
+          "target": [
+            0.4,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L34",
+      "at": "hưởng trầm sâu",
+      "layout": "{HERO}: giải pháp ngoại giao bằng âm thanh đỉnh cao bảo tồn sinh lực cho toàn thể bầy đàn",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L35",
+      "at": "ngỗ nghịch khi nghe",
+      "layout": "{COMMENTATOR}: bình luận viên nín thở thán phục bản lĩnh của vị vua đầu đàn rừng rậm",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L36",
+      "at": "vừa bảo tồn sinh lực",
+      "layout": "{HERO}: khỉ đột đứng sừng sững giữa đỉnh đèo Virunga uy nghiêm bất khả xâm phạm",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L37",
+      "at": 0,
+      "layout": "{HERO}: gã khổng lồ nằm phơi nắng trên thảm cỏ xanh nhẹ nhàng chải lông cho khỉ con tinh nghịch",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L38",
+      "at": "Trường Rừng Rậm",
+      "layout": "{KID}: bé con tò mò mỉm cười thích thú thấy gã khổng lồ nằm chơi đùa cùng bầy con nhỏ",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L39",
+      "at": "lên đầu lên",
+      "layout": "{HERO}: khỉ đột chia sẻ chồi măng non ngon lành cho các con mái và con non trong bầy",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L40",
+      "at": "sinh vật sống",
+      "layout": "{HERO}: ánh mắt trầm tư đầy thấu cảm của vị vua đầu đàn xóa tan định kiến quái vật King Kong",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L41",
+      "at": "động gây chiến",
+      "layout": "{HERO}: khi bầy con bị đe dọa khỉ đột hóa thân thành bức tường thành che chở đàn con đến cùng",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L42",
+      "at": "của nó bị",
+      "layout": "{HERO}: nắm đấm thép sẵn sàng nghênh chiến lũ săn trộm để bảo vệ bình yên gia đình",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L43",
+      "at": "để che chở cho",
+      "layout": "{HERO}: trái tim nhân hậu đầy tình phụ tử bên trong khối cơ bắp 200kg làm con người nghiêng mình",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L44",
+      "at": "viễn tưởng. Một trái",
+      "layout": "{HERO}: bản lĩnh của kẻ mạnh đích thực: Sức mạnh càng lớn lòng vị tha càng cao thượng",
+      "stickers": [
+        {
+          "at": "200kg",
+          "side": "R",
+          "y": 320,
+          "value": "200kg",
+          "label": "Khối lượng nhà vô địch",
+          "target": [
+            0.8,
+            0.4
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L45",
+      "at": "nghiêng mình kính phục",
+      "layout": "{COMMENTATOR}: bình luận viên nghẹn ngào xúc động tôn vinh vị vua nhân từ của núi rừng",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L46",
+      "at": 0,
+      "layout": "{HERO}: bức chân dung toàn cảnh khỉ đột lưng bạc với chiếc đai vàng vô địch trên đỉnh núi",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L47",
+      "at": "lâm, tiếng đập",
+      "layout": "{HERO}: sơ đồ tổng kết cơ khí sinh học: cơ bắp 800kg, lò vi sinh 70% calo, lực cắn 1300 PSI",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L48",
+      "at": "đích thực bắt",
+      "layout": "{COMMENTATOR}: bình luận viên tuyên bố khép lại mốc son chói lọi 50 tập phim huyền thoại",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L49",
+      "at": "cụ để thống",
+      "layout": "{HERO}: khỉ đột giơ cao hai nắm đấm thép hướng lên bầu trời rực sáng pháo hoa chiến thắng",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L50",
+      "at": "hành trình 50",
+      "layout": "{COMMENTATOR}: bài học về sức mạnh bắt nguồn từ sự giản dị thuần khiết và trách nhiệm bảo vệ kẻ yếu",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L51",
+      "at": "rậm, chúng ta",
+      "layout": "{COMMENTATOR} {OLD_MAN} {NAIVE} {KID}: toàn bộ đại gia đình nhân vật cùng khỉ đột vẫy tay chào tạm biệt khán giả",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L52",
+      "at": "lực sung mãn,",
+      "layout": "{HERO}: khỉ đột khẽ mỉm cười thân thiện gửi lời cảm ơn tới hàng triệu khán giả đồng hành",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L53",
+      "at": "phẩm hoang dã",
+      "layout": "{HERO_S}: logo vàng rực 50 TẬP PHIM HOÀN TẤT nhá hàng những chuỗi video tổng hợp Mega đặc biệt",
+      "stickers": [],
+      "impacts": []
+    }
+  ],
+  "shorts": [
+    {
+      "id": "S01",
+      "at": 0,
+      "layout": "{HERO}: khỉ đột lưng bạc hoạt hình ngồi thong thả nhai lá cây rừng và chồi tre non",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S01b",
+      "at": "tại sao Khỉ Đột",
+      "layout": "{HERO_S}: cận cảnh khỉ đột lưng bạc gồng bắp tay cuồn cuộn nâng tảng đá 800kg",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S02",
+      "at": "Hãy nhìn Vua Đấu Trường",
+      "layout": "{HERO_S}: toàn cảnh khỉ đột 200kg đứng sừng sững uy nghi trên đỉnh núi Virunga",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S03",
+      "at": "Cơ bắp của nó khỏe",
+      "layout": "{HERO}: so sánh cơ bắp khỉ đột gấp 4-9 lần người đàn ông lực lưỡng",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S03b",
+      "at": "với lực cắn 1300",
+      "layout": "{HERO}: khỉ đột há miệng khoe răng nanh cắn nát quả dừa khô với lực cắn 1300 PSI gấp đôi sư tử",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S04",
+      "at": "Bí mật sức mạnh không",
+      "layout": "{REACTOR}: chiếc bụng to tròn chứa lò phản ứng lên men hàng ngàn tỷ vi khuẩn",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S05",
+      "at": "Bên trong ruột già khổng",
+      "layout": "{REACTOR}: ruột già khổng lồ chứa hàng ngàn tỷ vi khuẩn kỵ khí lên men chất xơ",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S05b",
+      "at": "lá cây mỗi ngày",
+      "layout": "{REACTOR}: chất xơ 20kg lá cây biến thành axit béo cung cấp 70% calo cho cơ bắp",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S06",
+      "at": "Khi thị uy nó đứng",
+      "layout": "{HERO}: khỉ đột đứng thẳng đập khum tay vào ngực tạo sóng âm rền vang 1 kilomet",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S07",
+      "at": "sóng âm sấm",
+      "layout": "{HERO_S}: khỉ đột đeo đai vô địch WWE mạ vàng mỉm cười nâng cúp chiến thắng",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S08",
+      "at": "Một cỗ máy cơ bắp",
+      "layout": "{HERO_S} {COMMENTATOR}: bình luận viên cùng khỉ đột giơ hai tay ăn mừng cột mốc 50 tập phim huyền thoại",
+      "stickers": [],
+      "impacts": []
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+ "title_lines": [
+  "RUỘT ĂN THỊT NHƯNG",
+  "NHAI TRE 14 TIẾNG?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [
+    {
+     "at": "14 tiếng",
+     "side": "R",
+     "y": 600,
+     "value": "14 TIẾNG",
+     "label": "nhai tre mỗi ngày",
+     "target": [
+      0.6,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Đó là Gấu Trúc",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S13.png",
+   "stickers": []
+  },
+  {
+   "at": "2 triệu năm trước",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [
+    {
+     "at": "2 triệu năm",
+     "side": "L",
+     "y": 650,
+     "value": "2 TR NĂM",
+     "label": "đổi sang ăn tre",
+     "target": [
+      0.4,
+      0.45
+     ]
+    },
+    {
+     "at": "99%",
+     "side": "R",
+     "y": 900,
+     "value": "99%",
+     "label": "khẩu phần là tre",
+     "target": [
+      0.6,
+      0.6
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Nhưng ruột ngắn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "at": "17%",
+     "side": "R",
+     "y": 580,
+     "value": "17%",
+     "label": "hấp thụ ít ỏi",
+     "target": [
+      0.65,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "at": "nên mỗi ngày nó",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S14.png",
+   "stickers": [
+    {
+     "at": "38kg",
+     "side": "L",
+     "y": 600,
+     "value": "38 KG",
+     "label": "tre mỗi ngày",
+     "target": [
+      0.45,
+      0.4
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Hậu quả là",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "at": "40 lần",
+     "side": "R",
+     "y": 820,
+     "value": "40 LẦN",
+     "label": "vệ sinh/ngày",
+     "target": [
+      0.65,
+      0.65
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Để bóc vỏ tre",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "at": "thứ 6",
+     "side": "L",
+     "y": 650,
+     "value": "NGÓN THỨ 6",
+     "label": "ngón cái giả",
+     "target": [
+      0.45,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Ăn ít năng lượng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S15.png",
+   "stickers": []
+  },
+  {
+   "at": "ngã xuống thì cuộn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "Vậy là bí mật",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S17.png",
+   "stickers": []
+  },
+  {
+   "at": "mà nó đang sống",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S16.png",
+   "stickers": []
+  }
+ ]
+}

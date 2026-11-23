@@ -1,0 +1,543 @@
+{
+ "episode": "mega-03-dai-hoi-sinh-ton",
+ "title_lines": [
+  "ĐẠI HỘI SINH TỒN #3",
+  "10 DỊ NHÂN ĐẠI CHIẾN!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 52.97,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/mega-03-dai-hoi-sinh-ton_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  4.37,
+  11.37,
+  16.21,
+  20.23,
+  25.01,
+  28.71,
+  33.31,
+  37.29,
+  43.97,
+  47.89,
+  51.19
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.0,
+     "text": "Mười dị nhân"
+    },
+    {
+     "t": 0.84,
+     "text": "mới. Tám vòng"
+    },
+    {
+     "t": 1.7,
+     "text": "đấu sinh tử."
+    },
+    {
+     "t": 2.2,
+     "text": "Một chiếc vương"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 2.57,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 2.607,
+     "text": "miện tối cao!"
+    },
+    {
+     "t": 2.82,
+     "text": "Gấu Wombat 35kg"
+    },
+    {
+     "t": 4.24,
+     "text": "và Hải Ly"
+    },
+    {
+     "t": 5.0,
+     "text": "răng sắt được"
+    },
+    {
+     "t": 5.4,
+     "text": "đặt cược sẽ"
+    },
+    {
+     "t": 5.9,
+     "text": "thắng. Còn Sứa"
+    },
+    {
+     "t": 6.74,
+     "text": "Bất Tử 1"
+    },
+    {
+     "t": 7.251,
+     "text": "miligram... chuyên gia"
+    },
+    {
+     "t": 8.32,
+     "text": "bảo tham gia"
+    },
+    {
+     "t": 8.8,
+     "text": "cho vui!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 9.57,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "t": 12.48,
+     "side": "R",
+     "y": 640,
+     "value": "GẤP 10 LẦN",
+     "label": "Bền hơn tơ nhện",
+     "target": [
+      0.54,
+      0.52
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 9.82,
+     "text": "Vòng một:"
+    },
+    {
+     "t": 10.82,
+     "text": "Cá Mút Đá"
+    },
+    {
+     "t": 11.26,
+     "text": "Hagfish sở hữu"
+    },
+    {
+     "t": 11.96,
+     "text": "sợi tơ nhớt"
+    },
+    {
+     "t": 12.3,
+     "text": "bền gấp 10"
+    },
+    {
+     "t": 12.8,
+     "text": "lần tơ nhện"
+    },
+    {
+     "t": 13.3,
+     "text": "và dai hơn"
+    },
+    {
+     "t": 13.74,
+     "text": "sợi Kevlar!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 14.41,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "t": 16.4,
+     "side": "L",
+     "y": 620,
+     "value": "0,12 GIÂY",
+     "label": "Ăn nhanh nhất quả đất",
+     "target": [
+      0.58,
+      0.28
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 14.66,
+     "text": "Vòng hai:"
+    },
+    {
+     "t": 15.38,
+     "text": "Chuột Chũi Mũi"
+    },
+    {
+     "t": 15.74,
+     "text": "Sao đớp mồi"
+    },
+    {
+     "t": 16.24,
+     "text": "trong 0,12 giây"
+    },
+    {
+     "t": 17.18,
+     "text": "và ngửi mùi"
+    },
+    {
+     "t": 17.7,
+     "text": "dưới nước bằng bong"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 18.43,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 20.98,
+     "side": "R",
+     "y": 600,
+     "value": "32 TỶ BASE",
+     "label": "Gen tái sinh không sẹo",
+     "target": [
+      0.48,
+      0.72
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 18.38,
+     "text": "bóng khí!"
+    },
+    {
+     "t": 18.68,
+     "text": "Vòng ba:"
+    },
+    {
+     "t": 19.1,
+     "text": "Kỳ Nhông Axolotl"
+    },
+    {
+     "t": 20.32,
+     "text": "sở hữu bộ"
+    },
+    {
+     "t": 20.82,
+     "text": "gen 32 tỷ"
+    },
+    {
+     "t": 21.6,
+     "text": "cặp base tái"
+    },
+    {
+     "t": 22.24,
+     "text": "sinh não tim"
+    },
+    {
+     "t": 22.66,
+     "text": "mà không để lại"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 23.21,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 23.16,
+     "text": "sẹo! Vòng bốn:"
+    },
+    {
+     "t": 24.24,
+     "text": "Đập nước Hải"
+    },
+    {
+     "t": 24.58,
+     "text": "Ly tạo vùng"
+    },
+    {
+     "t": 25.04,
+     "text": "ngập nước kỳ"
+    },
+    {
+     "t": 25.48,
+     "text": "diệu ngăn chặn"
+    },
+    {
+     "t": 26.06,
+     "text": "bão lửa và"
+    },
+    {
+     "t": 26.5,
+     "text": "hạn hán cả"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 26.91,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 28.98,
+     "side": "L",
+     "y": 610,
+     "value": "130 TẤN",
+     "label": "Lọc sạch trầm tích",
+     "target": [
+      0.52,
+      0.35
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 26.9,
+     "text": "thung lũng!"
+    },
+    {
+     "t": 27.16,
+     "text": "Vòng năm:"
+    },
+    {
+     "t": 27.54,
+     "text": "Hải Sâm lầy"
+    },
+    {
+     "t": 28.48,
+     "text": "lội tiêu hóa"
+    },
+    {
+     "t": 28.98,
+     "text": "130 tấn trầm"
+    },
+    {
+     "t": 29.88,
+     "text": "tích mỗi năm"
+    },
+    {
+     "t": 30.34,
+     "text": "để bảo vệ"
+    },
+    {
+     "t": 30.8,
+     "text": "rạn san hô!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 31.51,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 31.76,
+     "text": "Vòng sáu:"
+    },
+    {
+     "t": 32.32,
+     "text": "Bạch Tuộc"
+    },
+    {
+     "t": 32.74,
+     "text": "Mimic 9 bộ"
+    },
+    {
+     "t": 33.24,
+     "text": "não biến hình"
+    },
+    {
+     "t": 33.7,
+     "text": "15 loài kịch"
+    },
+    {
+     "t": 34.36,
+     "text": "độc chỉ trong"
+    },
+    {
+     "t": 34.82,
+     "text": "200 mili-giây!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 35.49,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 35.741,
+     "text": "Chung kết:"
+    },
+    {
+     "t": 36.64,
+     "text": "ai mang lại"
+    },
+    {
+     "t": 37.04,
+     "text": "công nghệ vĩ"
+    },
+    {
+     "t": 37.42,
+     "text": "đại nhất cho"
+    },
+    {
+     "t": 37.82,
+     "text": "loài người?"
+    },
+    {
+     "t": 38.14,
+     "text": "Y học tái"
+    },
+    {
+     "t": 39.0,
+     "text": "tạo mô của"
+    },
+    {
+     "t": 39.44,
+     "text": "Axolotl hay gen"
+    },
+    {
+     "t": 40.48,
+     "text": "telomere bất tử"
+    },
+    {
+     "t": 41.24,
+     "text": "của Sứa?"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 42.17,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 42.42,
+     "text": "Và tân vương"
+    },
+    {
+     "t": 42.84,
+     "text": "Mùa ba là..."
+    },
+    {
+     "t": 43.34,
+     "text": "sinh vật tí"
+    },
+    {
+     "t": 44.12,
+     "text": "hon 1 miligram"
+    },
+    {
+     "t": 44.84,
+     "text": "từng bị xem"
+    },
+    {
+     "t": 45.42,
+     "text": "là mồi ngon"
+    },
+    {
+     "t": 45.88,
+     "text": "dưới đáy"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 46.09,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 46.14,
+     "text": "biển! Bạn có"
+    },
+    {
+     "t": 46.82,
+     "text": "đồng ý không?"
+    },
+    {
+     "t": 47.46,
+     "text": "Xem trọn tám"
+    },
+    {
+     "t": 47.9,
+     "text": "vòng đấu kịch"
+    },
+    {
+     "t": 48.28,
+     "text": "tính trong video"
+    },
+    {
+     "t": 48.74,
+     "text": "dài nhé,"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 49.39,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 49.64,
+     "text": "vì ở đây"
+    },
+    {
+     "t": 49.98,
+     "text": "có mười dị"
+    },
+    {
+     "t": 50.46,
+     "text": "nhân mới,"
+    },
+    {
+     "t": 50.62,
+     "text": "tám vòng đấu"
+    },
+    {
+     "t": 51.16,
+     "text": "sinh tử,"
+    },
+    {
+     "t": 51.56,
+     "text": "và một chiếc"
+    },
+    {
+     "t": 52.16,
+     "text": "vương miện tối cao!"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,589 @@
+{
+  "_doc": "specs/storyboard.json cho tap-48-co-mo-giay",
+  "characters": {
+    "HERO": "chú cò mỏ giày hoạt hình ngộ nghĩnh (cao lớn, chiếc mỏ guốc gỗ khổng lồ, lông xám tro đá phiến, đôi mắt vàng đục bất động)",
+    "HERO_S": "chú cò mỏ giày hoạt hình ngộ nghĩnh đeo thẻ phóng viên cầm micro chiến trường",
+    "NO_HERO": "",
+    "REPORTER": "phóng viên chiến trường mặc áo gile chống đạn cầm sổ tay và micro",
+    "ANCHOR": "phát thanh viên tin tức trường quay đeo tai nghe chuyên nghiệp",
+    "NAIVE": "chú ngơ ngác giật mình hoảng hốt bịt tai trước tiếng súng máy",
+    "LUNGFISH": "chú cá phổi châu phi trơn trượt vây như mái chèo đang ngoi lên thở",
+    "CROCODILE": "cá sấu con hoảng sợ rụt đầu xuống bùn lầy",
+    "CHICK_BIG": "chú cò con anh lông xám hung hăng to lớn trong tổ",
+    "CHICK_SMALL": "chú cò con em yếu ớt tội nghiệp kêu chít chít cầu cứu"
+  },
+  "side_characters": [
+    "REPORTER",
+    "ANCHOR",
+    "NAIVE",
+    "LUNGFISH",
+    "CROCODILE",
+    "CHICK_BIG",
+    "CHICK_SMALL"
+  ],
+  "shorts_side_characters": [
+    "REPORTER",
+    "CHICK_BIG",
+    "CHICK_SMALL"
+  ],
+  "shorts_title_lines": [
+    "TƯỢNG ĐÁ ĐẦM LẦY",
+    "SÚNG MÁY GÕ MỎ?!"
+  ],
+  "skip_numbers": [],
+  "long": [
+    {
+      "scene": "scene01",
+      "id": "L01",
+      "at": 0,
+      "layout": "{REPORTER}: phóng viên đang lội bùn giữa đầm lầy Bangweulu mịt mù sương trắng chĩa micro tường thuật",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L02",
+      "at": "mặt tại đầm",
+      "layout": "{HERO}: cò mỏ giày đứng bất động như tảng đá cẩm thạch giữa làn sương khói đầm lầy tiền sử",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L03",
+      "at": "mờ ảo, một",
+      "layout": "{HERO}: cận cảnh đôi mắt vàng đục bất động không một cái chớp mí mắt của cò mỏ giày",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L04",
+      "at": "qua. Dân địa",
+      "layout": "{ANCHOR}: phát thanh viên trường quay khẩn thiết nhắc nhở giữ an toàn trước sát thủ tiền sử",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L05",
+      "at": "Phấn Trắng? Mỗi",
+      "layout": "{HERO}: chú chim sẻ thơ ngây bay tới thản nhiên đậu lên đỉnh đầu cò mỏ giày để rỉa lông",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L06",
+      "at": "nhắc phóng viên",
+      "layout": "{HERO}: mặt nước xung quanh phẳng lặng như tờ gương không một gợn sóng lăn tăn",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L07",
+      "at": "tiếng, thậm chí",
+      "layout": "{HERO} {CROCODILE}: cá sấu non sợ hãi nép mình dưới rễ cây đước nhìn lên bóng đen khổng lồ",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L08",
+      "at": "lông. Nhưng đừng",
+      "layout": "{REPORTER} {HERO}: phóng viên giơ ống nhòm hồng ngoại quan sát cò mỏ giày đứng im như khúc gỗ chết",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "id": "L09",
+      "at": "sét có thể",
+      "layout": "{HERO}: bóng đen cò mỏ giày cao 1.5m in hằn trên nền trời xám tro đầy vẻ ma mị",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L10",
+      "at": 0,
+      "layout": "{HERO}: chiếc mỏ khổng lồ hình guốc gỗ Hà Lan choán hết nửa khung hình với các đường vân đá",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L11",
+      "at": "loài chim! Dài",
+      "layout": "{HERO}: thước đo kỹ thuật đo chiều dài mỏ 24cm và chu vi hơn 50cm",
+      "stickers": [
+        {
+          "at": "24cm",
+          "side": "R",
+          "y": 320,
+          "value": "24cm",
+          "label": "Chiều dài mỏ guốc",
+          "target": [
+            0.8,
+            0.4
+          ]
+        },
+        {
+          "at": "50cm",
+          "side": "L",
+          "y": 360,
+          "value": "50cm",
+          "label": "Chu vi mỏ khổng lồ",
+          "target": [
+            0.35,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L12",
+      "at": "khác xa với",
+      "layout": "{HERO}: mép mỏ sắc lẹm như hai lưỡi dao phay công nghiệp phản chiếu ánh thép lạnh lùng",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L13",
+      "at": "bay trên thế",
+      "layout": "{HERO}: chiếc móc sừng nhọn hoắt quặp ngược xuống ở đầu mỏ như chiếc mỏ neo sắt",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L14",
+      "at": "đứt các sợi",
+      "layout": "{HERO}: sơ đồ cơ bắp cuồn cuộn ở gáy và đốt sống cổ cứng như thép chịu lực",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L15",
+      "at": "mồi, khóa chặt",
+      "layout": "{HERO}: bộ hàm khép chặt nghiền nát mai rùa nước ngọt và giáp sắt của cá cổ đại",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L16",
+      "at": "sắt của các",
+      "layout": "{HERO}: xương sọ dày đặc canxi gấp 3 lần hấp thụ xung chấn va đập cực mạnh",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L17",
+      "at": "một hệ thống",
+      "layout": "{HERO} {LUNGFISH}: cò mỏ giày giơ cao chiếc mỏ xúc bùn đe dọa lũ quái vật trơn trượt",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "id": "L18",
+      "at": "chiếc kẹp tạ",
+      "layout": "{REPORTER}: phóng viên kinh ngạc ghi chép vào sổ tay về cỗ máy chém sinh học hoàn hảo",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L19",
+      "at": 0,
+      "layout": "{REPORTER}: màn đêm buông xuống đầm lầy, cả đoàn phóng viên hoảng hốt nằm rạp xuống bùn",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L20",
+      "at": "tạch tạch tạch! Cả",
+      "layout": "{NAIVE}: chú ngơ ngác giật mình hoảng hốt bịt tai tưởng đấu súng trường tự động AK",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L21",
+      "at": "đêm, nguồn gốc",
+      "layout": "{HERO}: cò mỏ giày ngửa cổ ra sau dập hai hàm mỏ vào nhau với tốc độ siêu thanh",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L22",
+      "at": "hốt vỗ cánh",
+      "layout": "{HERO}: sơ đồ khoang rỗng buồng cộng hưởng âm thanh bên trong mỏ phát ra tiếng nổ 100 dB",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L23",
+      "at": "của chú chim",
+      "layout": "{HERO}: tần số rung động của tiếng gõ mỏ làm rung chuyển mặt lá súng trên đầm nước",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L24",
+      "at": "Do bên trong",
+      "layout": "{HERO}: lũ linh cẩu và báo đốm giật mình kinh hãi tháo chạy khỏi tiếng gõ mỏ đanh thép",
+      "stickers": [
+        {
+          "at": "100 dB",
+          "side": "R",
+          "y": 320,
+          "value": "100 dB",
+          "label": "Tiếng gõ mỏ súng máy",
+          "target": [
+            0.8,
+            0.4
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L25",
+      "at": "tiếng gõ mỏ này mạnh",
+      "layout": "{HERO}: cò mỏ giày sừng sững tuyên bố chủ quyền lãnh thổ giữa làn sương mù đêm",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L26",
+      "at": "cả cây số",
+      "layout": "{REPORTER}: phóng viên thở phào nhẹ nhõm khi nhận ra vũ khí chỉ là chiếc mỏ gõ liên thanh",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "id": "L27",
+      "at": "này đã có",
+      "layout": "{HERO}: cò mỏ giày thu cổ lại trở về trạng thái tượng đá im lìm trong bóng tối",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L28",
+      "at": 0,
+      "layout": "{LUNGFISH}: chú cá phổi châu phi khổng lồ dài cả mét ngoi lên mặt nước đớp không khí",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L29",
+      "at": "để ghi lại.",
+      "layout": "{HERO}: đôi mắt vàng rực của cò mỏ giày khóa chặt mục tiêu với thị giác 3D lập thể",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L30",
+      "at": "Tượng Đá Tiền Sử đã",
+      "layout": "{HERO}: toàn bộ cơ thể 7kg của cò mỏ giày đổ ụp xuống mặt nước như tòa nhà sụp đổ Collapse strike",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L31",
+      "at": "về phía trước",
+      "layout": "{HERO}: nước bắn tung tóe mù mịt như bom mìn phát nổ dưới tốc độ lao mồi 35km/h",
+      "stickers": [
+        {
+          "at": "7kg",
+          "side": "L",
+          "y": 360,
+          "value": "7kg",
+          "label": "Khối lượng cơ thể",
+          "target": [
+            0.35,
+            0.5
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L32",
+      "at": "đổ ụp thẳng",
+      "layout": "{HERO} {LUNGFISH}: cá phổi giãy giụa trong chiếc kẹp mỏ khổng lồ bị nghiền nát hộp sọ",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L33",
+      "at": "và chiếc mỏ",
+      "layout": "{HERO}: cò mỏ giày giũ sạch bùn rác và bèo hoa dâu trên mình con mồi",
+      "stickers": [
+        {
+          "at": "35km/h",
+          "side": "R",
+          "y": 320,
+          "value": "35km/h",
+          "label": "Tốc độ bổ nhào",
+          "target": [
+            0.8,
+            0.4
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L34",
+      "at": "cơ thể đồ",
+      "layout": "{HERO}: cò mỏ giày nuốt trọn cả con cá dài cả mét vào dạ dày chỉ sau 3 cú ực",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L35",
+      "at": "đã nằm gọn",
+      "layout": "{HERO}: con chim hớp một ngụm nước trong súc sạch mỏ với vẻ điềm tĩnh rợn người",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "id": "L36",
+      "at": "Một màn trình",
+      "layout": "{REPORTER}: phóng viên nín thở kinh hoàng trước màn săn mồi tàn khốc vừa ghi hình được",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L37",
+      "at": 0,
+      "layout": "{HERO}: cò mỏ giày ở vườn thú cúi gập đầu đáp lễ chào người chăm sóc như một quý ông Anh quốc",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L38",
+      "at": "Tiền Sử lại",
+      "layout": "{HERO}: khách tham quan thích thú chụp ảnh cùng chú chim lễ phép đáng yêu nhất thế giới",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L39",
+      "at": "một lời chào",
+      "layout": "{ANCHOR}: phát thanh viên hé lộ bí mật đen tối rùng rợn trong tổ đẻ hoang dã",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L40",
+      "at": "trên toàn mạng",
+      "layout": "{CHICK_BIG} {CHICK_SMALL}: trong tổ chim hoang dã con chim anh to lớn hung hăng mổ tới tấp vào đầu đứa em nhỏ",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L41",
+      "at": "ấy là một",
+      "layout": "{CHICK_SMALL}: chim con em yếu ớt rách lông kêu chít chít cầu cứu trong tuyệt vọng",
+      "stickers": [
+        {
+          "at": "Cainism",
+          "side": "R",
+          "y": 340,
+          "value": "CAINISM",
+          "label": "Sát hại con thứ",
+          "target": [
+            0.8,
+            0.45
+          ]
+        }
+      ],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L42",
+      "at": "hai nở ra",
+      "layout": "{HERO} {CHICK_BIG}: chim mẹ đứng nhìn lạnh lùng không hề can thiệp để mặc con lớn bạo hành em",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L43",
+      "at": "đứa em nhỏ",
+      "layout": "{CHICK_BIG}: con chim anh nuốt trọn toàn bộ thức ăn và nước uống độc chiếm sự sống",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L44",
+      "at": "đối không can",
+      "layout": "{CHICK_SMALL}: đứa em bé bỏng kiệt sức chết đói dưới cái nắng thiêu đốt của đầm lầy",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "id": "L45",
+      "at": "và chim bố",
+      "layout": "{HERO}: quy luật sinh tồn khắc nghiệt Cainism chỉ giữ lại một chiến binh mạnh nhất",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L46",
+      "at": 0,
+      "layout": "{HERO}: cò mỏ giày sừng sững như hóa thạch sống thời tiền sử giữa đầm lầy bình minh",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L47",
+      "at": "mà là một",
+      "layout": "{HERO}: bức chân dung nghệ thuật tượng đá bất tử kiên định chờ đợi thời cơ",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L48",
+      "at": "sắc lẹm chém",
+      "layout": "{REPORTER}: phóng viên đứng trên mũi thuyền đầm lầy tổng kết bài học về sự nhẫn nại",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L49",
+      "at": "đó như một",
+      "layout": "{REPORTER}: bài học về sự tĩnh lặng kiên định để tung đòn quyết định thay đổi cục diện",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L50",
+      "at": "chim Mỏ Giày mang",
+      "layout": "{HERO}: màn hình bình chọn: Tiếng gõ mỏ súng máy AK đối đầu sự kiên nhẫn đứng im 5 tiếng",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L51",
+      "at": "là khả năng",
+      "layout": "{REPORTER} {ANCHOR} {NAIVE}: dàn nhân vật vẫy tay chào khán giả và kêu gọi để lại bình luận",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L52",
+      "at": "Sử: Tiếng gõ",
+      "layout": "{HERO}: cò mỏ giày chầm chậm cúi đầu chào tạm biệt khán giả theo nghi thức quý ông",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "id": "L53",
+      "at": "các bạn diện",
+      "layout": "NO_HERO: hình ảnh bí ẩn của Nhím Lông Nhọn với 30.000 mũi tên tự rút sâu nhá hàng tập sau",
+      "stickers": [],
+      "impacts": []
+    }
+  ],
+  "shorts": [
+    {
+      "id": "S01",
+      "at": 0,
+      "layout": "{HERO_S}: cận cảnh cò mỏ giày cúi đầu đáp lễ người chăm sóc như một quý ông Anh quốc",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S02",
+      "at": "Hãy nhìn chú Cò Mỏ",
+      "layout": "{HERO_S}: toàn cảnh cò mỏ giày đứng bất động như tượng đá giữa đầm lầy Bangweulu",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S03",
+      "at": "Chiếc mỏ dài 24cm",
+      "layout": "{HERO_S}: chiếc mỏ guốc gỗ dài 24cm mép sắc lẹm như dao phay đe dọa con mồi",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S04",
+      "at": "Mỗi khi đêm xuống nó",
+      "layout": "{HERO}: cò mỏ giày dập mỏ tạo ra tiếng nổ súng máy 100 dB xé toạc màn đêm",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S05",
+      "at": "Ở vườn thú nếu bạn",
+      "layout": "{HERO_S}: cò mỏ giày cúi đầu gập người chào hỏi du khách cực kỳ lịch thiệp",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S06",
+      "at": "Thế nhưng trong tự nhiên",
+      "layout": "{CHICK_BIG} {CHICK_SMALL}: chim con anh to lớn trong tổ hung hăng mổ vào đầu đứa em ruột",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S07",
+      "at": "đứa em ruột của mình",
+      "layout": "{HERO} {CHICK_SMALL}: chim mẹ đứng nhìn lạnh lùng để mặc đứa em kiệt sức chết đói",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "id": "S08",
+      "at": "Một nghịch lý sinh tồn",
+      "layout": "{HERO_S} {REPORTER}: phóng viên chiến trường cùng cò mỏ giày giơ cánh chào kết màn ấn tượng",
+      "stickers": [],
+      "impacts": []
+    }
+  ]
+}

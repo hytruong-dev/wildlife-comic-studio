@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@latest",
+        "--browser",
+        "chrome",
+        "--user-data-dir",
+        "${env:LOCALAPPDATA}\\ms-playwright-mcp\\mcp-chrome-aad48e1",
+        "--allow-unrestricted-file-access",
+        "--output-dir",
+        "${userHome}\\.playwright-mcp",
+        "--timeout-action",
+        "15000",
+        "--timeout-navigation",
+        "60000"
+      ]
+    }
+  }
+}

@@ -1,0 +1,571 @@
+{
+  "_doc": "Storyboard cho Tập 38: Dê Núi Bắc Mỹ — Vua Trọng Lực 90 Độ. Phong cách: Alpine Mountaineering Sketchbook & Topographic Contour.",
+  "visual_style": "tỉ lệ {AR}; phong cách sổ tay ký họa dã ngoại thám hiểm đỉnh núi cao Bắc Mỹ (Alpine Mountaineering Field Sketchbook & Topographic Art): nét vẽ bút chì than charcoal mộc mạc phong trần kết hợp các đường đồng mức địa hình cao trình topographic uốn lượn sắc sảo, vách đá vôi dựng đứng gồ ghề, cấu trúc móng guốc giác hút phỏng sinh học độc đáo, phối màu xám đá hoa cương, xanh thông alpine và viền vàng kim trắc địa; NỀN TRẮNG TINH hoàn toàn, không watermark, không logo; chủ thể nằm gọn trong khung, chừa lề trắng",
+  "style_label": "phong cách sổ tay ký họa dã ngoại thám hiểm đỉnh núi cao (Alpine Mountaineering Field Sketchbook)",
+  "characters": {
+    "HERO": "chú dê núi Bắc Mỹ (Oreamnos americanus) màu trắng muốt ngộ nghĩnh, đeo kính bảo hộ tuyết màu cam viền titan, quàng khăn len đỏ năng động, móng guốc chẻ đôi màu xám kim loại, thần thái tự tin thách thức trọng lực",
+    "HERO_S": "chú dê núi Bắc Mỹ đeo kính bảo hộ tuyết màu cam và khăn len đỏ",
+    "NO_HERO": "KHÔNG có chú dê núi Bắc Mỹ đeo kính bảo hộ tuyết trong cảnh này"
+  },
+  "side_characters": {},
+  "shorts_side_characters": {},
+  "shorts_title_lines": [
+    "VUA TRỌNG LỰC 90 ĐỘ",
+    "BÍ KÍP VÁCH ĐÁ TỬ THẦN?!"
+  ],
+  "skip_numbers": [],
+  "long": [
+    {
+      "scene": "scene01",
+      "at": 0,
+      "layout": "Toàn cảnh vách đá tuyết Rocky: {HERO} đứng trên đỉnh núi tuyết, giơ tay chào khán giả với kính bảo hộ tuyết màu cam viền titan.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "phòng thí nghiệm cơ sinh học dã ngoại",
+      "layout": "Mô hình bàn vẽ sổ tay ký họa với sơ đồ cơ sinh học và quả táo rơi của Isaac Newton bị {HERO} gạt phắt sang một bên.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "bức tường đá hoa cương",
+      "layout": "Toàn cảnh vách đá hoa cương granite thẳng đứng chín mươi độ cao bốn ngàn mét giữa mây trời lộng gió. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "vực sâu thăm thẳm",
+      "layout": "Góc nhìn từ trên xuống vực sâu hun hút thăm thẳm với những tầng mây trôi bồng bềnh dưới chân. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "mỏm đá nhọn hoắt kia",
+      "layout": "Khung cảnh zoom cận cảnh: {HERO} đứng thăng bằng điềm nhiên trên một gờ đá hẹp chỉ bằng hai xăng-ti-mét.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "trạm đo laser địa hình",
+      "layout": "Chú sóc tuyết cầm máy đo khoảng cách laser chiếu tia đỏ quét góc dốc tám mươi chín độ của vách đá. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "kết quả đo đạc chính xác",
+      "layout": "Tấm huy hiệu vinh danh danh pháp khoa học Oreamnos americanus cùng dòng chữ phong tặng danh hiệu Vua Trọng Lực. {HERO_S}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "Trong khi các kiện tướng thể thao đỉnh cao",
+      "layout": "Hình ảnh so sánh: Vận động viên leo núi đeo lỉnh kỉnh dây dù móc sắt thở dốc đối lập với {HERO} đi dạo thanh thản.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "biến bức tường tử thần",
+      "layout": "Bản vẽ động tác {HERO} phi nước kiệu nhẹ nhàng băng qua khe nứt hiểm trở trên sườn dốc tuyết.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "phóng mình qua các hố sụt",
+      "layout": "Sơ đồ tiến hóa hàng triệu năm với bộ khung xương vững chãi tôi luyện qua băng giá kỷ băng hà. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene01",
+      "at": "Bí mật vật lý và sinh học",
+      "layout": "Bàn tay bác sĩ lật mở cuốn hồ sơ bệnh án ký họa mở màn cho chương giải phẫu đầu tiên. {HERO_S}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": 0,
+      "layout": "Kính lúp phóng to bộ móng guốc chẻ đôi kỳ lạ của {HERO} đang tiếp xúc với mặt đá nứt nẻ.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "móng ngựa là một khối sừng liền mạch",
+      "layout": "Hình ảnh so sánh móng ngựa tròn trơn trượt ngã nhào đối lập với móng dê núi chẻ đôi kẹp chặt như kìm bấm. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "lớp vỏ sừng chất đạm keratin",
+      "layout": "Cấu trúc vỏ sừng keratin cứng như thép tôi của móng guốc với lát cắt hiển vi phân tử đạm siêu bền. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "xòe rộng ra theo hình chữ V",
+      "layout": "Sơ đồ lực học hai nửa móng xòe rộng thành hình chữ V ôm trọn mỏm đá nhọn rồi siết chặt lại. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "cử động độc lập lệch pha nhau",
+      "layout": "Mô phỏng 3D hai nửa móng dịch chuyển so le: Một bên nhô cao, một bên thụt thấp bám theo gờ đá không đều. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "phân bổ tải trọng đồng đều",
+      "layout": "Các mũi tên véc-tơ tải trọng chia đều một trăm phần trăm sang hai bên, bảo vệ móng không bị nứt vỡ. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "phía sau cổ chân",
+      "layout": "Ống kính phóng to hai chiếc móng phụ móng huyền nằm phía sau cổ chân dê núi như móc câu sắt. {HERO_S}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "mẩu xương nhỏ bé này nhé",
+      "layout": "Cảnh chú dê núi trượt dốc trên đá lở và hai chiếc móng huyền lập tức cắm phập xuống đất làm phanh khẩn cấp. {HERO_S}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "dập tắt quán tính trượt dốc",
+      "layout": "Biểu đồ cân nặng một trăm bốn mươi kilôgam của {HERO} dồn toàn bộ trọng lượng lên điểm tì nhỏ xíu.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "áp lực khổng lồ đó vẫn được truyền dẫn",
+      "layout": "Bản vẽ kỹ thuật mặt cắt ngang mô tả đường truyền lực xuyên qua các khớp ngón chân vững chãi. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "móng guốc vẫn có thể bị trượt",
+      "layout": "Mô phỏng hiện tượng móng sừng bị trượt trên đá ướt nếu thiếu đi độ bám dính của lớp vật liệu bên trong. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene02",
+      "at": "vũ khí bí mật ngay trong lòng bàn chân",
+      "layout": "Cánh cửa bí mật trong lòng bàn chân mở ra hé lộ lớp đệm thịt thần kỳ bước sang chương kế tiếp. {HERO_S}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": 0,
+      "layout": "Hình ảnh đối lập viền sừng cứng cáp bao bọc lấy khối đệm thịt màu hồng xốp mềm mại bên trong. {HERO_S}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "Lớp đệm thịt ma sát",
+      "layout": "Kính hiển vi soi rãnh vi mô trên bề mặt đệm chân với hàng ngàn giác hút chân không li ti. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "giác hút chân không tí hon",
+      "layout": "Hiệu ứng hoạt họa khối đệm mềm biến dạng đàn hồi lún sâu vào kẽ nứt li ti của phiến đá hoa cương. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "phòng thí nghiệm vật lý",
+      "layout": "Đồng hồ đo lực kế so sánh hệ số ma sát: Đế giày leo núi chỉ đạt một vạch trong khi đệm móng dê vọt lên ba vạch kịch kim. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "chịu nhiệt độ âm cực thấp",
+      "layout": "Nhiệt kế thủy ngân tụt sâu xuống âm ba mươi độ giữa khung cảnh tuyết trắng rơi lất phất trên sườn núi. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "lốp xe cao su thông thường sẽ bị hóa cứng",
+      "layout": "Lốp xe đua cao su bị đông cứng nứt toác dưới băng giá đối lập với đệm móng dê núi vẫn êm ái đàn hồi. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "giữ nguyên độ dẻo dai ấm áp",
+      "layout": "{HERO} bước đi tự tin trên mặt băng tuyết trơn trượt mà không hề có dấu hiệu loạng choạng.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "hợp kim cơ sinh học vô tiền khoáng hậu",
+      "layout": "Sơ đồ hợp kim sinh học: Vỏ sừng cắm nứt cộng đệm mút hút dính tạo thành giác hút cơ học bất khả chiến bại. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "phủ một lớp rêu ướt trơn tuột",
+      "layout": "Bàn chân dê dẫm lên tảng đá phủ rêu xanh ướt át nhưng dính chặt như có nam châm hút chặt. {HERO_S}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "bước chân của nó vẫn bám chặt",
+      "layout": "{HERO} đứng nghiêng người nhìn vào la bàn thăng bằng cơ thể đang nhấp nháy đèn xanh.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "sở hữu bộ móng thần thánh",
+      "layout": "Bản vẽ khung gầm giải phẫu học cơ thể dê núi với điểm trọng tâm màu đỏ rực rỡ chuẩn bị được phân tích. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene03",
+      "at": "thiếu đi một trung tâm điều khiển cân bằng",
+      "layout": "Bác sĩ lật giở trang tài liệu thứ ba mô tả toàn bộ hệ thống khung gầm của bệnh nhân. {HERO_S}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": 0,
+      "layout": "Hình ảnh chú hươu cao cổ chân dài lêu nghêu cố leo vách đá và bị mất thăng bằng ngửa ra sau ngã nhào. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "cánh tay đòn mô-men lật đổ",
+      "layout": "Sơ đồ vật lý mô tả cánh tay đòn mô-men lật đổ khiến cơ thể cao kều dễ dàng bị lộn nhào xuống dốc. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "Đôi chân trước của chúng ngắn hơn",
+      "layout": "Bản vẽ giải phẫu dê núi với hai chân trước ngắn ngủn và lồng ngực vạm vỡ dẹp ngang áp sát vách đá. {HERO_S}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "toàn bộ khối lượng nội tạng nặng nề",
+      "layout": "Khối lượng nội tạng được bố trí khoa học sát phần ngực dưới giúp trọng tâm rơi thẳng vào đế chân. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "dán chặt véc-tơ trọng lực",
+      "layout": "Véc-tơ trọng lực màu đỏ từ tâm cơ thể {HERO} cắm thẳng vào tâm phiến đá thay vì hướng ra ngoài vực.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "nghiêng nhẹ về phía vách đá",
+      "layout": "{HERO} nghiêng nhẹ góc thân mình ép sát vách đá, tạo tư thế thăng bằng vững như một tảng đá nguyên khối.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "khớp xương bả vai của dê núi",
+      "layout": "Mô hình khớp bả vai xoay linh hoạt ba trăm sáu mươi độ với hệ thống dây chằng co giãn phi thường. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "dang rộng sang hai bên như hai cánh tay người",
+      "layout": "{HERO} dang rộng hai chân trước bám lấy hai mỏm đá hai bên như vận động viên đang đu xà đơn.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "nặng hơn một tạ trèo lên gờ đá",
+      "layout": "Khối cơ bắp vai cuồn cuộn gồng lên nhấc bổng toàn bộ thân hình nặng nề lên gờ đá cao một cách ngoạn mục. {HERO_S}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "cỗ máy việt dã bánh xích nào của con người",
+      "layout": "Hình ảnh chiếc xe địa hình bánh xích leo dốc bị lật nghiêng đối lập với {HERO} bước thoăn thoắt.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene04",
+      "at": "Kỹ thuật parkour búng tường",
+      "layout": "{HERO} nhún người nén đôi chân sau như một bệ phóng tên lửa chuẩn bị khai hỏa màn parkour đỉnh cao.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": 0,
+      "layout": "{HERO} đứng trước ngõ cụt: Vách đá phẳng lì phía trước, vực sâu bên dưới, ánh mắt lóe lên sự tự tin.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "báo sư tử đang rình rập săn mồi",
+      "layout": "Bóng đen của con báo sư tử rình mò từ trên đỉnh dốc nghĩ rằng con mồi đã cùng đường. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "đôi chân sau hoạt động như cặp lò xo",
+      "layout": "{HERO} co gập đôi chân sau nén tối đa lò xo cơ bắp, chuẩn bị bung mình vào không trung.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "bay ngang qua hẻm vực sâu thăm thẳm",
+      "layout": "Cú nhảy phi thân ngang qua khoảng không vực sâu bốn mét giữa hai bức tường đá song song. {HERO_S}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "dùng cả bốn móng guốc đạp mạnh",
+      "layout": "Bốn móng guốc chạm vào mặt đá đối diện, tạo phản lực cực đại để búng ngược trở lại bức tường cũ. {HERO_S}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "ở một độ cao vượt trội hơn",
+      "layout": "Quỹ đạo đường bay hình chữ Z đưa chú dê vọt lên vị trí cao hơn năm mét chỉ sau một cú búng tường. {HERO_S}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "xoay người 180° giữa khoảng không",
+      "layout": "Chú thỏ tuyết trợ lý tròn mắt kinh ngạc cầm đồng hồ bấm giây ghi nhận kỷ lục tốc độ phản xạ. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "vỏn vẹn chưa đầy nửa giây",
+      "layout": "Đồng hồ chỉ mốc không phẩy bốn giây với hình bóng {HERO} xoay người uyển chuyển giữa trời tuyết.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "truyền thẳng về tiểu não khổng lồ",
+      "layout": "Sơ đồ đường truyền thần kinh từ mắt đến tiểu não xử lý thuật toán quỹ đạo bay trong chớp mắt. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "thăng tiến hàng chục mét vách đá",
+      "layout": "Hình ảnh liên hoàn ba cú nhảy búng tường hình chữ chi đưa {HERO} bay vút lên đỉnh núi lộng gió.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "há hốc mồm bất lực",
+      "layout": "Báo sư tử đứng trơ trọi bên bờ vực, mắt trợn tròn nhìn chú dê đã an tọa trên đỉnh mỏm đá cao vẫy đuôi. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene05",
+      "at": "sân chơi tự do và bình yên tuyệt đối",
+      "layout": "{HERO} đứng sừng sững trên đỉnh cao tuyết trắng, ánh hoàng hôn chiếu rọi hào quang kiêu hãnh.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": 0,
+      "layout": "Hội đồng giám khảo gồm các con vật trao cúp vàng và huy chương vàng danh dự cho {HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "toàn bộ bốn tuyệt kỹ cơ học",
+      "layout": "Tóm tắt bốn biểu tượng trên bảng xếp hạng: Móng kẹp, đệm ma sát, trọng tâm thấp, cú búng tường. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "Huy chương Vàng Cơ Học Vách Đá",
+      "layout": "Bản thiết kế robot thám hiểm đa địa hình của NASA với chân mô phỏng móng dê leo vách đá Sao Hỏa. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "hẻm vực dốc đứng trên Sao Hỏa",
+      "layout": "Robot vũ trụ bám chặt vào miệng núi lửa trên Mặt Trăng nhờ cơ cấu móng kẹp phỏng sinh học. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "thế hệ giày leo núi siêu ma sát",
+      "layout": "Phòng thiết kế giày leo núi với mẫu đế cao su mô phỏng vi rãnh đệm chân dê núi Bắc Mỹ. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "thử thách dựng đứng tưởng chừng như không thể vượt qua",
+      "layout": "Hình ảnh ẩn dụ: Con người kiên cường vượt qua các rào cản vách đá thử thách trong công việc và cuộc sống. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "điểm tựa vững chắc dù là nhỏ bé nhất",
+      "layout": "Ngọn hải đăng niềm tin soi sáng con đường vươn tới đỉnh cao vinh quang và tự do. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "móng chẻ kìm bấm thủy lực và lớp đệm ma sát",
+      "layout": "Khung hình so sánh hai phát minh sinh học kèm dấu chấm hỏi lớn mời gọi khán giả bình luận. {HERO_S}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "để lại cảm nghĩ và bình luận tâm đắc",
+      "layout": "Biểu tượng hộp bình luận tương tác vui nhộn xuất hiện cùng {HERO} nháy mắt tinh nghịch.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "nhấn nút Đăng Ký Kênh",
+      "layout": "Ngón tay hoạt hình bấm nút Subscribe đỏ rực và rung chiếc chuông vàng thông báo. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "Tập 39",
+      "layout": "Hình ảnh teaser nhá hàng bóng đen bí ẩn và cành gai treo mồi của Chim Bách Thanh tập sau. {NO_HERO}.",
+      "stickers": [],
+      "impacts": []
+    },
+    {
+      "scene": "scene06",
+      "at": "Chim Bách Thanh",
+      "layout": "{HERO} vẫy tay chào tạm biệt khán giả giữa khung cảnh núi tuyết Rocky lấp lánh nắng mai.",
+      "stickers": [],
+      "impacts": []
+    }
+  ],
+  "shorts": [
+    {
+      "at": 0,
+      "layout": "Chú dê núi khổng lồ nặng hơn một tạ đứng trên bàn cân điện tử hiển thị con số 140 kg.",
+      "stickers": []
+    },
+    {
+      "at": "đứng vững trên vách đá",
+      "layout": "Góc máy quay thẳng đứng cho thấy chú dê dạo bước trên bức tường đá hoa cương dốc 90°.",
+      "stickers": []
+    },
+    {
+      "at": "Đó chính là Dê Núi Bắc Mỹ",
+      "layout": "Hào quang vàng rực bao quanh chú dê núi trắng muốt cùng danh hiệu Vua Trọng Lực 90°.",
+      "stickers": []
+    },
+    {
+      "at": "bộ móng guốc chẻ đôi",
+      "layout": "Kính lúp phóng to bộ móng hai nửa xòe rộng kẹp chặt gờ đá như kìm bấm thủy lực.",
+      "stickers": []
+    },
+    {
+      "at": "kết hợp cùng lớp đệm thịt cao su",
+      "layout": "Lớp đệm cao su vi mô sần sùi lún sâu vào kẽ nứt mặt đá tạo lực hút ma sát siêu dính.",
+      "stickers": []
+    },
+    {
+      "at": "gấp 3 lần đế giày leo núi",
+      "layout": "Biểu đồ so sánh độ bám dính vượt trội gấp ba lần so với đế giày thể thao leo núi đắt tiền.",
+      "stickers": []
+    },
+    {
+      "at": "Khi gặp ngõ cụt giữa vực sâu",
+      "layout": "Chú dê đứng trước ngõ cụt hiểm trở giữa vực sâu thăm thẳm ngàn mét không lối thoát.",
+      "stickers": []
+    },
+    {
+      "at": "nhảy xa 4m",
+      "layout": "Cú phóng thân ngoạn mục bay ngang qua khoảng không vực sâu sang bức tường đối diện.",
+      "stickers": []
+    },
+    {
+      "at": "búng tường xoay người 180°",
+      "layout": "Bốn móng đạp mạnh vào vách đá búng ngược trở lại xoay một trăm tám mươi độ giữa tầng không.",
+      "stickers": []
+    },
+    {
+      "at": "trong nửa giây",
+      "layout": "Đồng hồ bấm giây chỉ mốc không phẩy năm giây ghi nhận kỷ lục nhào lộn đỉnh cao thế giới.",
+      "stickers": []
+    },
+    {
+      "at": "leo thẳng lên các bức tường đập thủy điện",
+      "layout": "Chú dê núi tiếp đất an toàn trên đỉnh mỏm đá cao, tạo dáng nhà vô địch parkour.",
+      "stickers": []
+    },
+    {
+      "at": "Quả là bậc thầy khinh công",
+      "layout": "Khung hình kết thúc mời gọi khán giả bấm tim, like và theo dõi trọn bộ tập dài trên kênh.",
+      "stickers": []
+    }
+  ]
+}

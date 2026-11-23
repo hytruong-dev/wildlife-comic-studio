@@ -1,0 +1,324 @@
+{
+  "scene_id": "scene05",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 4,
+  "world_width": 2042,
+  "world_height": 1040,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 60,
+  "duration_ms": 97755,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-06-gau-nuoc/assets/scenes_composed/scene05_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      255,
+      9,
+      1024,
+      55
+    ],
+    "x": 267,
+    "y": 13,
+    "w": 745,
+    "h": 40,
+    "text": "CHƯƠNG 5  •  05. CÁI CHẾT LÃNG XẸT & CẤU TẠO CƠ THỂ DỊ BIỆT",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-06-gau-nuoc/assets/scenes_composed/scene05_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 24063,
+      "has_frame": false,
+      "pill_box": [
+        520,
+        60,
+        789,
+        95
+      ],
+      "art_only_box": [
+        338,
+        96,
+        967,
+        449
+      ],
+      "caption": {
+        "text": "Năm 2019: Mang theo hàng ngàn gấu nước dehydrated hướng về Mặt Trăng",
+        "x": 356,
+        "y": 449,
+        "w": 593,
+        "h": 29,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        336,
+        60,
+        969,
+        480
+      ],
+      "img_region": {
+        "x": 338,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 24063,
+      "end_ms": 48126,
+      "has_frame": false,
+      "pill_box": [
+        1273,
+        60,
+        1506,
+        98
+      ],
+      "art_only_box": [
+        1073,
+        96,
+        1702,
+        449
+      ],
+      "caption": {
+        "text": "Tàu đổ bộ nổ tung thành trăm mảnh vỡ, khoang kén gấu nước bung ra",
+        "x": 1079,
+        "y": 449,
+        "w": 617,
+        "h": 31,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1071,
+        60,
+        1704,
+        482
+      ],
+      "img_region": {
+        "x": 1073,
+        "y": 96,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 48126,
+      "end_ms": 72189,
+      "has_frame": false,
+      "pill_box": [
+        1218,
+        550,
+        1560,
+        590
+      ],
+      "art_only_box": [
+        1073,
+        586,
+        1702,
+        939
+      ],
+      "caption": {
+        "text": "Hàng ngàn hạt kén Tun nằm bình thản giữa các miệng hố bụi xám",
+        "x": 1099,
+        "y": 939,
+        "w": 577,
+        "h": 33,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1071,
+        550,
+        1704,
+        974
+      ],
+      "img_region": {
+        "x": 1073,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_04",
+      "start_ms": 72189,
+      "end_ms": 96255,
+      "has_frame": false,
+      "pill_box": [
+        486,
+        550,
+        823,
+        587
+      ],
+      "art_only_box": [
+        338,
+        586,
+        967,
+        939
+      ],
+      "caption": {
+        "text": "Chỉ cần một phi hành gia tưới một giọt nước, sự sống sẽ cựa quậy",
+        "x": 366,
+        "y": 939,
+        "w": 573,
+        "h": 30,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        336,
+        550,
+        969,
+        971
+      ],
+      "img_region": {
+        "x": 338,
+        "y": 586,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 336.0,
+    "y_min": 60.0,
+    "x_max": 1704.0,
+    "y_max": 974.0,
+    "bbox_w": 1368.0,
+    "bbox_h": 914.0,
+    "center_x": 1020.0,
+    "center_y": 517.0,
+    "zoom_out_scale": 0.6494,
+    "crop_w": 1971.0,
+    "crop_h": 1004.0
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 652.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.09,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 23443.0,
+      "cx": 652.5,
+      "cy": 270.0,
+      "crop_w": 942.3,
+      "crop_h": 480.0,
+      "zoom_relative": 2.09,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 24063.0,
+      "cx": 1387.5,
+      "cy": 271.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 2.08,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 47506.0,
+      "cx": 1387.5,
+      "cy": 271.0,
+      "crop_w": 946.3,
+      "crop_h": 482.0,
+      "zoom_relative": 2.08,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 48126.0,
+      "cx": 1387.5,
+      "cy": 762.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 2.07,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 71569.0,
+      "cx": 1387.5,
+      "cy": 762.0,
+      "crop_w": 950.2,
+      "crop_h": 484.0,
+      "zoom_relative": 2.07,
+      "phase": "transition",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 72189.0,
+      "cx": 652.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.09,
+      "phase": "focus_hold",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 96255.0,
+      "cx": 652.5,
+      "cy": 760.5,
+      "crop_w": 944.3,
+      "crop_h": 481.0,
+      "zoom_relative": 2.09,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 96755.0,
+      "cx": 1020.0,
+      "cy": 517.0,
+      "crop_w": 1971.0,
+      "crop_h": 1004.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 97755.0,
+      "cx": 1020.0,
+      "cy": 517.0,
+      "crop_w": 1971.0,
+      "crop_h": 1004.0,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

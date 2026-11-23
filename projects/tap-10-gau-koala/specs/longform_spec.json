@@ -1,0 +1,948 @@
+{
+ "episode": "tap-10-gau-koala",
+ "words": "audio/long_words_fixed.json",
+ "n_chapters": 6,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "intro": "assets/branding/intro_ve_chuyen_hoang_da.mp4",
+ "outro": "assets/branding/outro_ve_chuyen_hoang_da.mp4",
+ "intro_mode": "full_first",
+ "output": "renders/tap-10-gau-koala_long.mp4",
+ "scenes": [
+  {
+   "id": "scene01",
+   "voice": "audio/scene01.wav",
+   "duration_s": 86.321,
+   "chapter_no": 1,
+   "badge": "BỆNH ÁN #01",
+   "header_image": "assets/banners/chapter_01.png",
+   "title": "THÍ NGHIỆM CHIẾC ĐĨA & CÚ LỪA HỌ NHÀ GẤU",
+   "card_hook": "BÀY SẴN ĐỒ ĂN NHƯNG THÀ NHỊN ĐÓI",
+   "chapter_card": false,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene01_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L01.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b02",
+     "start_s": 2.3,
+     "image": "assets/long/L02.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b03",
+     "start_s": 9.46,
+     "image": "assets/long/L04.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b04",
+     "start_s": 13.28,
+     "image": "assets/long/L06.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b05",
+     "start_s": 21.8,
+     "image": "assets/long/L07.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b06",
+     "start_s": 26.54,
+     "image": "assets/long/L08.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b07",
+     "start_s": 32.3,
+     "image": "assets/long/L09.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b08",
+     "start_s": 36.54,
+     "image": "assets/long/L10.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b09",
+     "start_s": 41.38,
+     "image": "assets/long/L11.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b10",
+     "start_s": 51.48,
+     "image": "assets/long/L12.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b11",
+     "start_s": 59.46,
+     "image": "assets/long/L13.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 63.88,
+       "side": "L",
+       "y": 380,
+       "value": "200 NĂM",
+       "label": "cú lừa mạo danh gấu",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b12",
+     "start_s": 72.38,
+     "image": "assets/long/L14.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene01_b13",
+     "start_s": 79.62,
+     "image": "assets/long/L15.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 83.24,
+       "side": "R",
+       "y": 400,
+       "value": "4 HẠNG MỤC",
+       "label": "khám nghiệm tiến hóa",
+       "target": [
+        0.72,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene02",
+   "voice": "audio/scene02.wav",
+   "duration_s": 91.674,
+   "chapter_no": 2,
+   "badge": "CHỤP X-QUANG",
+   "header_image": "assets/banners/chapter_02.png",
+   "title": "HỘP SỌ 40% NƯỚC VÀ BỘ NÃO PHẲNG LÌ NHƯ ỨC GÀ",
+   "card_hook": "HỘP SỌ CHỨA 40% NƯỚC LỎNG",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene02_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L16.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b02",
+     "start_s": 2.24,
+     "image": "assets/long/L17.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b03",
+     "start_s": 8.66,
+     "image": "assets/long/L18.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b04",
+     "start_s": 15.02,
+     "image": "assets/long/L19.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 17.3,
+       "side": "L",
+       "y": 350,
+       "value": "17 GAM",
+       "label": "khối lượng não",
+       "target": [
+        0.3,
+        0.55
+       ]
+      },
+      {
+       "t": 18.5,
+       "side": "R",
+       "y": 480,
+       "value": "0,2%",
+       "label": "tỷ lệ não trên cơ thể",
+       "target": [
+        0.7,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b05",
+     "start_s": 24.82,
+     "image": "assets/long/L20.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 25.48,
+       "side": "L",
+       "y": 360,
+       "value": "40%",
+       "label": "hộp sọ là dịch lỏng",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b06",
+     "start_s": 32.4,
+     "image": "assets/long/L21.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b07",
+     "start_s": 38.56,
+     "image": "assets/long/L22.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b08",
+     "start_s": 53.24,
+     "image": "assets/long/L23.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b09",
+     "start_s": 63.1,
+     "image": "assets/long/L24.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b10",
+     "start_s": 67.62,
+     "image": "assets/long/L25.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 72.32,
+       "side": "L",
+       "y": 380,
+       "value": "20%",
+       "label": "tiết kiệm pin cơ thể",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b11",
+     "start_s": 74.42,
+     "image": "assets/long/L26.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 76.16,
+       "side": "R",
+       "y": 380,
+       "value": "ĐỆM NƯỚC",
+       "label": "chống chấn thương sọ",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene02_b12",
+     "start_s": 79.98,
+     "image": "assets/long/L27.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": [
+      83.36
+     ]
+    }
+   ]
+  },
+  {
+   "id": "scene03",
+   "voice": "audio/scene03.wav",
+   "duration_s": 119.852,
+   "chapter_no": 3,
+   "badge": "NỘI SOI DẠ DÀY",
+   "header_image": "assets/banners/chapter_03.png",
+   "title": "RUỘT THỪA 2 MÉT VÀ MÓN CHÁO PHÂN KỲ DỊ",
+   "card_hook": "LÁ ĐỘC XYANUA & CHÁO PHÂN ĐẶC BIỆT",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene03_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L28.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b02",
+     "start_s": 11.06,
+     "image": "assets/long/L29.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b03",
+     "start_s": 15.68,
+     "image": "assets/long/L30.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b04",
+     "start_s": 24.8,
+     "image": "assets/long/L31.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 32.86,
+       "side": "R",
+       "y": 360,
+       "value": "2 MÉT",
+       "label": "chiều dài ruột thừa",
+       "target": [
+        0.72,
+        0.5
+       ]
+      },
+      {
+       "t": 33.68,
+       "side": "L",
+       "y": 480,
+       "value": "3 LẦN",
+       "label": "dài gấp 3 cơ thể",
+       "target": [
+        0.3,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b05",
+     "start_s": 35.8,
+     "image": "assets/long/L32.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 41.04,
+       "side": "L",
+       "y": 380,
+       "value": "4 NGÀY",
+       "label": "thời gian tiêu hóa",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b06",
+     "start_s": 44.06,
+     "image": "assets/long/L33.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b07",
+     "start_s": 50.92,
+     "image": "assets/long/L69.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 52.72,
+       "side": "R",
+       "y": 360,
+       "value": "22 TIẾNG",
+       "label": "ngủ li bì mỗi ngày",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b08",
+     "start_s": 61.06,
+     "image": "assets/long/L34.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 66.98,
+       "side": "R",
+       "y": 400,
+       "value": "90% NƯỚC",
+       "label": "hấp thụ từ lá cây",
+       "target": [
+        0.68,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b09",
+     "start_s": 68.9,
+     "image": "assets/long/L35.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 71.66,
+       "side": "L",
+       "y": 360,
+       "value": "40°C",
+       "label": "nắng nóng kỷ lục",
+       "target": [
+        0.3,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b10",
+     "start_s": 78.52,
+     "image": "assets/long/L36.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b11",
+     "start_s": 85.5,
+     "image": "assets/long/L37.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b12",
+     "start_s": 89.5,
+     "image": "assets/long/L38.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b13",
+     "start_s": 93.78,
+     "image": "assets/long/L39.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 94.7,
+       "side": "L",
+       "y": 360,
+       "value": "6 THÁNG",
+       "label": "bắt đầu ăn dặm",
+       "target": [
+        0.3,
+        0.45
+       ]
+      },
+      {
+       "t": 103.4,
+       "side": "R",
+       "y": 480,
+       "value": "1 THÁNG",
+       "label": "ăn cháo phân mẹ",
+       "target": [
+        0.7,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene03_b14",
+     "start_s": 104.88,
+     "image": "assets/long/L40.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene04",
+   "voice": "audio/scene04.wav",
+   "duration_s": 75.122,
+   "chapter_no": 4,
+   "badge": "GIÁM ĐỊNH TỨ CHI",
+   "header_image": "assets/banners/chapter_04.png",
+   "title": "BÀN TAY 2 NGÓN CÁI VÀ MÔNG ĐỆM SỤN CHỐNG Ê",
+   "card_hook": "BÀN TAY KÌM SẮT 2 NGÓN CÁI ĐỐI DIỆN",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene04_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L41.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b02",
+     "start_s": 12.06,
+     "image": "assets/long/L42.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 19.62,
+       "side": "L",
+       "y": 350,
+       "value": "2 NGÓN CÁI",
+       "label": "đối diện 3 ngón",
+       "target": [
+        0.35,
+        0.5
+       ]
+      },
+      {
+       "t": 21.16,
+       "side": "R",
+       "y": 480,
+       "value": "3 NGÓN",
+       "label": "gọng kìm kẹp cây",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b03",
+     "start_s": 22.82,
+     "image": "assets/long/L43.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b04",
+     "start_s": 31.0,
+     "image": "assets/long/L44.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b05",
+     "start_s": 38.26,
+     "image": "assets/long/L45.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b06",
+     "start_s": 51.76,
+     "image": "assets/long/L46.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 55.94,
+       "side": "L",
+       "y": 380,
+       "value": "22 TIẾNG",
+       "label": "ngồi không biết mỏi",
+       "target": [
+        0.45,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b07",
+     "start_s": 59.98,
+     "image": "assets/long/L47.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene04_b08",
+     "start_s": 67.32,
+     "image": "assets/long/L48.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene05",
+   "voice": "audio/scene05.wav",
+   "duration_s": 84.159,
+   "chapter_no": 5,
+   "badge": "GIÁM ĐỊNH PHÁP Y",
+   "header_image": "assets/banners/chapter_05.png",
+   "title": "DẤU VÂN TAY GIỐNG NGƯỜI VÀ TIẾNG GẦM QUÁI VẬT",
+   "card_hook": "DẤU VÂN TAY GIỐNG CON NGƯỜI 100%",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene05_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L49.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b02",
+     "start_s": 8.22,
+     "image": "assets/long/L50.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b03",
+     "start_s": 14.24,
+     "image": "assets/long/L51.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 15.7,
+       "side": "L",
+       "y": 380,
+       "value": "70 TR NĂM",
+       "label": "tiến hóa độc lập",
+       "target": [
+        0.5,
+        0.4
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b04",
+     "start_s": 22.68,
+     "image": "assets/long/L70.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b05",
+     "start_s": 36.74,
+     "image": "assets/long/L52.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b06",
+     "start_s": 45.24,
+     "image": "assets/long/L53.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b07",
+     "start_s": 51.9,
+     "image": "assets/long/L54.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b08",
+     "start_s": 58.66,
+     "image": "assets/long/L55.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": [
+      61.3
+     ]
+    },
+    {
+     "id": "scene05_b09",
+     "start_s": 67.06,
+     "image": "assets/long/L56.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 74.14,
+       "side": "R",
+       "y": 360,
+       "value": "27 HZ",
+       "label": "tần số siêu trầm",
+       "target": [
+        0.72,
+        0.45
+       ]
+      },
+      {
+       "t": 75.64,
+       "side": "L",
+       "y": 480,
+       "value": "GẤP 20 LẦN",
+       "label": "uy lực âm thanh",
+       "target": [
+        0.3,
+        0.6
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene05_b10",
+     "start_s": 77.42,
+     "image": "assets/long/L71.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  },
+  {
+   "id": "scene06",
+   "voice": "audio/scene06.wav",
+   "duration_s": 78.853,
+   "chapter_no": 6,
+   "badge": "KẾT LUẬN Y KHOA",
+   "header_image": "assets/banners/chapter_06.png",
+   "title": "BÁC SĨ BẤT LỰC VÀ BÀI HỌC SINH TỒN",
+   "card_hook": "BÁC SĨ KÊ ĐƠN BẤT LỰC TRƯỚC TẠO HÓA",
+   "chapter_card": true,
+   "card_s": 1.8,
+   "beats": [
+    {
+     "id": "scene06_b01",
+     "start_s": 0.0,
+     "image": "assets/long/L57.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b02",
+     "start_s": 10.02,
+     "image": "assets/long/L58.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 13.74,
+       "side": "L",
+       "y": 380,
+       "value": "15 NĂM",
+       "label": "răng mòn phẳng lì",
+       "target": [
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b03",
+     "start_s": 18.82,
+     "image": "assets/long/L59.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b04",
+     "start_s": 25.66,
+     "image": "assets/long/L60.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b05",
+     "start_s": 36.8,
+     "image": "assets/long/L61.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b06",
+     "start_s": 43.46,
+     "image": "assets/long/L62.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b07",
+     "start_s": 50.82,
+     "image": "assets/long/L63.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 51.6,
+       "side": "L",
+       "y": 360,
+       "value": "14 TIẾNG",
+       "label": "nhai tre mỗi ngày",
+       "target": [
+        0.35,
+        0.45
+       ]
+      },
+      {
+       "t": 53.18,
+       "side": "R",
+       "y": 480,
+       "value": "40 LẦN",
+       "label": "đi vệ sinh/ngày",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": [
+      54.74
+     ]
+    },
+    {
+     "id": "scene06_b08",
+     "start_s": 56.74,
+     "image": "assets/long/L64.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b09",
+     "start_s": 59.64,
+     "image": "assets/long/L65.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b10",
+     "start_s": 63.6,
+     "image": "assets/long/L66.png",
+     "entrance": "draw",
+     "stickers": [
+      {
+       "t": 65.86,
+       "side": "R",
+       "y": 380,
+       "value": "22 TIẾNG",
+       "label": "đơn thuốc ngủ ngon",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b11",
+     "start_s": 69.32,
+     "image": "assets/long/L67.png",
+     "entrance": "draw_fast",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "id": "scene06_b12",
+     "start_s": 72.24,
+     "image": "assets/long/L68.png",
+     "entrance": "draw",
+     "stickers": [],
+     "impacts": []
+    }
+   ]
+  }
+ ]
+}

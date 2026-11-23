@@ -1,0 +1,98 @@
+{
+ "title_lines": [
+  "ĐẠI HỘI SINH TỒN #2",
+  "AI LÊN NGÔI VƯƠNG?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "Tôm Súng và",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "Vòng một: Tôm",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "gấp 10 lần",
+     "side": "R",
+     "y": 640,
+     "value": "GẤP 10 LẦN",
+     "label": "Tạo plasma dưới nước",
+     "target": [
+      0.54,
+      0.52
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vòng hai: Cá",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "at": "44",
+     "side": "L",
+     "y": 620,
+     "value": "44 MẶT",
+     "label": "Nhận diện chính xác",
+     "target": [
+      0.58,
+      0.28
+     ]
+    }
+   ]
+  },
+  {
+   "at": "Vòng ba: Gấu",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "Vòng bốn: Hà",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "Vòng năm: Lươn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "Chung kết: ai",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  },
+  {
+   "at": "Và tân vương",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": []
+  },
+  {
+   "at": "Bạn có đồng",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": []
+  },
+  {
+   "at": "vì ở đây",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": []
+  }
+ ]
+}

@@ -1,0 +1,388 @@
+{
+  "scene_id": "scene05",
+  "layout_mode": "dynamic_multi_node_snake_flow",
+  "node_count": 5,
+  "world_width": 2290,
+  "world_height": 1168,
+  "viewport_width": 1280,
+  "viewport_height": 720,
+  "fixed_header_height": 68,
+  "isolate_active_node_during_focus": true,
+  "min_node_gap_px": 60,
+  "duration_ms": 82581,
+  "canvas_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-04-thu-mo-vit/assets/scenes_composed/scene05_canvas.png",
+  "header": {
+    "has_box": false,
+    "box": [
+      28,
+      8,
+      1251,
+      54
+    ],
+    "x": 40,
+    "y": 12,
+    "w": 1199,
+    "h": 40,
+    "text": "[PHẦN 5: HÓA THẠCH SỐNG 160 TRIỆU NĂM]  BƠI CÙNG KHỦNG LONG T-REX & BÍ ẨN 10 NHIỄM SẮC THỂ GIỚI TÍNH",
+    "fixed_viewport_header": true,
+    "header_height": 68,
+    "header_img": "C:/QuangHy/youtube_ai_edit-02/projects/tap-04-thu-mo-vit/assets/scenes_composed/scene05_canvas_header.png"
+  },
+  "panels": [
+    {
+      "id": "beat_01",
+      "start_ms": 0,
+      "end_ms": 21012,
+      "has_frame": false,
+      "pill_box": [
+        295,
+        124,
+        527,
+        159
+      ],
+      "art_only_box": [
+        95,
+        160,
+        724,
+        513
+      ],
+      "caption": {
+        "text": "Chiến binh 160 triệu năm: Thú mỏ vịt bơi lội dưới suối từ thời khủng long bạo chúa T-Rex!",
+        "x": 125,
+        "y": 513,
+        "w": 570,
+        "h": 24,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        93,
+        124,
+        726,
+        539
+      ],
+      "img_region": {
+        "x": 95,
+        "y": 160,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_02",
+      "start_ms": 21012,
+      "end_ms": 37929,
+      "has_frame": false,
+      "pill_box": [
+        1018,
+        124,
+        1274,
+        164
+      ],
+      "art_only_box": [
+        830,
+        160,
+        1459,
+        513
+      ],
+      "caption": {
+        "text": "Sống sót qua tuyệt chủng: Hệ thống hang ngầm 30m dọc bờ suối giúp vượt qua thảm họa thiên thạch",
+        "x": 848,
+        "y": 513,
+        "w": 594,
+        "h": 24,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        828,
+        124,
+        1461,
+        539
+      ],
+      "img_region": {
+        "x": 830,
+        "y": 160,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_03",
+      "start_ms": 37929,
+      "end_ms": 48859,
+      "has_frame": false,
+      "pill_box": [
+        1758,
+        124,
+        2005,
+        162
+      ],
+      "art_only_box": [
+        1565,
+        160,
+        2194,
+        513
+      ],
+      "caption": {
+        "text": "Bí ẩn di truyền học: Mang chuỗi 10 NST giới tính (5X và 5Y) tạo thành vòng hoa kỳ lạ!",
+        "x": 1581,
+        "y": 513,
+        "w": 597,
+        "h": 28,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1563,
+        124,
+        2196,
+        543
+      ],
+      "img_region": {
+        "x": 1565,
+        "y": 160,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_04",
+      "start_ms": 48859,
+      "end_ms": 59788,
+      "has_frame": false,
+      "pill_box": [
+        1394,
+        614,
+        1633,
+        652
+      ],
+      "art_only_box": [
+        1197,
+        650,
+        1826,
+        1003
+      ],
+      "caption": {
+        "text": "Đối chiếu bộ gen: Người chỉ có 2 NST (XY), thú mỏ vịt mang trọn vẹn gen chim, bò sát và thú!",
+        "x": 1215,
+        "y": 1003,
+        "w": 594,
+        "h": 24,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        1195,
+        614,
+        1828,
+        1029
+      ],
+      "img_region": {
+        "x": 1197,
+        "y": 650,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    },
+    {
+      "id": "beat_05",
+      "start_ms": 59788,
+      "end_ms": 81081,
+      "has_frame": false,
+      "pill_box": [
+        671,
+        614,
+        886,
+        651
+      ],
+      "art_only_box": [
+        462,
+        650,
+        1091,
+        1003
+      ],
+      "caption": {
+        "text": "Màng bơi thông minh: Khi bơi xòe rộng như mái chèo, lên bờ tự gập vào để lộ vuốt cào đất!",
+        "x": 489,
+        "y": 1003,
+        "w": 575,
+        "h": 25,
+        "color": [
+          30,
+          34,
+          42
+        ]
+      },
+      "box": [
+        460,
+        614,
+        1093,
+        1030
+      ],
+      "img_region": {
+        "x": 462,
+        "y": 650,
+        "width": 629,
+        "height": 353
+      },
+      "broll_video": null,
+      "text_lines": []
+    }
+  ],
+  "auto_fit_bbox": {
+    "x_min": 93.0,
+    "y_min": 124.0,
+    "x_max": 2196.0,
+    "y_max": 1030.0,
+    "bbox_w": 2103.0,
+    "bbox_h": 906.0,
+    "center_x": 1144.5,
+    "center_y": 577.0,
+    "zoom_out_scale": 0.5837,
+    "crop_w": 2193.0,
+    "crop_h": 1117.1
+  },
+  "camera_keyframes": [
+    {
+      "time_ms": 0.0,
+      "cx": 409.5,
+      "cy": 331.5,
+      "crop_w": 932.5,
+      "crop_h": 475.0,
+      "zoom_relative": 2.35,
+      "phase": "focus_hold",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 20392.0,
+      "cx": 409.5,
+      "cy": 331.5,
+      "crop_w": 932.5,
+      "crop_h": 475.0,
+      "zoom_relative": 2.35,
+      "phase": "transition",
+      "target_node_id": "beat_01"
+    },
+    {
+      "time_ms": 21012.0,
+      "cx": 1144.5,
+      "cy": 331.5,
+      "crop_w": 932.5,
+      "crop_h": 475.0,
+      "zoom_relative": 2.35,
+      "phase": "focus_hold",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 37309.0,
+      "cx": 1144.5,
+      "cy": 331.5,
+      "crop_w": 932.5,
+      "crop_h": 475.0,
+      "zoom_relative": 2.35,
+      "phase": "transition",
+      "target_node_id": "beat_02"
+    },
+    {
+      "time_ms": 37929.0,
+      "cx": 1879.5,
+      "cy": 333.5,
+      "crop_w": 940.4,
+      "crop_h": 479.0,
+      "zoom_relative": 2.33,
+      "phase": "focus_hold",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 48239.0,
+      "cx": 1879.5,
+      "cy": 333.5,
+      "crop_w": 940.4,
+      "crop_h": 479.0,
+      "zoom_relative": 2.33,
+      "phase": "transition",
+      "target_node_id": "beat_03"
+    },
+    {
+      "time_ms": 48859.0,
+      "cx": 1511.5,
+      "cy": 821.5,
+      "crop_w": 932.5,
+      "crop_h": 475.0,
+      "zoom_relative": 2.35,
+      "phase": "focus_hold",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 59168.0,
+      "cx": 1511.5,
+      "cy": 821.5,
+      "crop_w": 932.5,
+      "crop_h": 475.0,
+      "zoom_relative": 2.35,
+      "phase": "transition",
+      "target_node_id": "beat_04"
+    },
+    {
+      "time_ms": 59788.0,
+      "cx": 776.5,
+      "cy": 822.0,
+      "crop_w": 934.5,
+      "crop_h": 476.0,
+      "zoom_relative": 2.35,
+      "phase": "focus_hold",
+      "target_node_id": "beat_05"
+    },
+    {
+      "time_ms": 81081.0,
+      "cx": 776.5,
+      "cy": 822.0,
+      "crop_w": 934.5,
+      "crop_h": 476.0,
+      "zoom_relative": 2.35,
+      "phase": "overview_reveal",
+      "target_node_id": "beat_05"
+    },
+    {
+      "time_ms": 81581.0,
+      "cx": 1144.5,
+      "cy": 577.0,
+      "crop_w": 2193.0,
+      "crop_h": 1117.1,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    },
+    {
+      "time_ms": 82581.0,
+      "cx": 1144.5,
+      "cy": 577.0,
+      "crop_w": 2193.0,
+      "crop_h": 1117.1,
+      "zoom_relative": 1.0,
+      "phase": "overview_reveal",
+      "target_node_id": "all_nodes_bbox"
+    }
+  ]
+}

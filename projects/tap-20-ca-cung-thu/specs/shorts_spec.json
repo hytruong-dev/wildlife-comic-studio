@@ -1,0 +1,508 @@
+{
+ "episode": "tap-20-ca-cung-thu",
+ "title_lines": [
+  "BẮN TỈA 3 MÉT:",
+  "GIẢI ĐỊNH LUẬT VẬT LÝ!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 50.81,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-20-ca-cung-thu_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  4.15,
+  9.55,
+  13.75,
+  18.35,
+  20.57,
+  22.89,
+  28.35,
+  31.51,
+  37.93,
+  41.31,
+  44.69,
+  47.17
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.56,
+     "text": "Cảnh báo xạ"
+    },
+    {
+     "t": 1.1,
+     "text": "thủ bắn tỉa!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 2.35,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 7.04,
+     "side": "R",
+     "y": 620,
+     "value": "2 MÉT",
+     "label": "tầm bắn trên cạn",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 2.6,
+     "text": "Bạn có tin"
+    },
+    {
+     "t": 3.06,
+     "text": "một con cá"
+    },
+    {
+     "t": 3.56,
+     "text": "dưới nước lại"
+    },
+    {
+     "t": 4.14,
+     "text": "có thể ngắm"
+    },
+    {
+     "t": 4.56,
+     "text": "bắn bách phát"
+    },
+    {
+     "t": 5.04,
+     "text": "bách trúng các"
+    },
+    {
+     "t": 5.62,
+     "text": "mục tiêu đậu"
+    },
+    {
+     "t": 6.16,
+     "text": "trên cành cây"
+    },
+    {
+     "t": 6.64,
+     "text": "cao tới 2m?"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 7.75,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 8.0,
+     "text": "Đây là Cá"
+    },
+    {
+     "t": 8.56,
+     "text": "Cung Thủ,"
+    },
+    {
+     "t": 9.38,
+     "text": "tay súng bắn"
+    },
+    {
+     "t": 9.88,
+     "text": "tỉa cừ khôi"
+    },
+    {
+     "t": 10.66,
+     "text": "của các rạn"
+    },
+    {
+     "t": 11.18,
+     "text": "rừng ngập mặn!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 11.95,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 12.2,
+     "text": "Thứ nhất,"
+    },
+    {
+     "t": 12.98,
+     "text": "vòm họng của"
+    },
+    {
+     "t": 13.48,
+     "text": "nó có rãnh"
+    },
+    {
+     "t": 14.04,
+     "text": "chữ V ép"
+    },
+    {
+     "t": 14.68,
+     "text": "chặt với lưỡi,"
+    },
+    {
+     "t": 15.54,
+     "text": "tạo thành chiếc"
+    },
+    {
+     "t": 16.0,
+     "text": "nòng súng tí"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 16.55,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 18.16,
+     "side": "R",
+     "y": 620,
+     "value": "3 MÉT",
+     "label": "tầm bắn kỷ lục",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 16.64,
+     "text": "hon nén tia"
+    },
+    {
+     "t": 17.14,
+     "text": "nước bắn xa"
+    },
+    {
+     "t": 17.72,
+     "text": "kỷ lục tới 3m!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 18.77,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 19.02,
+     "text": "Thứ hai,"
+    },
+    {
+     "t": 19.82,
+     "text": "phần đuôi tia"
+    },
+    {
+     "t": 20.22,
+     "text": "nước bay nhanh"
+    },
+    {
+     "t": 20.8,
+     "text": "hơn phần"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 21.09,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 24.8,
+     "side": "L",
+     "y": 620,
+     "value": "x10 LỰC",
+     "label": "động năng nén tụ",
+     "target": [
+      0.25,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 21.12,
+     "text": "đầu, đập dồn"
+    },
+    {
+     "t": 22.22,
+     "text": "lại thành một"
+    },
+    {
+     "t": 22.64,
+     "text": "giọt đạn nước"
+    },
+    {
+     "t": 23.24,
+     "text": "khổng lồ làm"
+    },
+    {
+     "t": 24.0,
+     "text": "tăng lực va"
+    },
+    {
+     "t": 24.62,
+     "text": "đập gấp 10"
+    },
+    {
+     "t": 25.24,
+     "text": "lần để hạ"
+    },
+    {
+     "t": 25.8,
+     "text": "gục con mồi!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 26.55,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 26.8,
+     "text": "Thứ ba,"
+    },
+    {
+     "t": 27.62,
+     "text": "mặt nước luôn"
+    },
+    {
+     "t": 28.0,
+     "text": "bẻ cong ánh"
+    },
+    {
+     "t": 28.6,
+     "text": "sáng theo định"
+    },
+    {
+     "t": 29.16,
+     "text": "luật khúc xạ,"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 29.71,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "t": 32.96,
+     "side": "L",
+     "y": 620,
+     "value": "50 ms",
+     "label": "giải khúc xạ Snell",
+     "target": [
+      0.25,
+      0.55
+     ]
+    },
+    {
+     "t": 35.24,
+     "side": "R",
+     "y": 720,
+     "value": "95% HIT",
+     "label": "độ chính xác",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 29.96,
+     "text": "nhưng bộ não"
+    },
+    {
+     "t": 30.5,
+     "text": "của loài cá"
+    },
+    {
+     "t": 30.94,
+     "text": "này giải bài"
+    },
+    {
+     "t": 31.74,
+     "text": "toán quang học"
+    },
+    {
+     "t": 32.48,
+     "text": "chỉ trong 50"
+    },
+    {
+     "t": 33.132,
+     "text": "mili-giây để bắn"
+    },
+    {
+     "t": 34.6,
+     "text": "chính xác tới 95%!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 36.13,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 36.38,
+     "text": "Chưa hết,"
+    },
+    {
+     "t": 37.78,
+     "text": "nó còn tính"
+    },
+    {
+     "t": 38.18,
+     "text": "toán trước điểm"
+    },
+    {
+     "t": 39.12,
+     "text": "rơi đạn"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 39.51,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [
+    {
+     "t": 42.16,
+     "side": "R",
+     "y": 620,
+     "value": "0,1 GIÂY",
+     "label": "bơi nước rút",
+     "target": [
+      0.75,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 39.48,
+     "text": "đạo để bơi"
+    },
+    {
+     "t": 40.22,
+     "text": "nước rút cướp"
+    },
+    {
+     "t": 40.92,
+     "text": "mồi trước đối"
+    },
+    {
+     "t": 41.58,
+     "text": "thủ chỉ trong"
+    },
+    {
+     "t": 42.16,
+     "text": "0,1 giây!"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 42.89,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 43.14,
+     "text": "Độ chính xác"
+    },
+    {
+     "t": 44.0,
+     "text": "và khả năng"
+    },
+    {
+     "t": 44.5,
+     "text": "thích nghi phi thường,"
+    }
+   ]
+  },
+  {
+   "id": "s13",
+   "start_s": 45.37,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S13.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 45.62,
+     "text": "đó chính là"
+    },
+    {
+     "t": 46.14,
+     "text": "vũ khí tối"
+    },
+    {
+     "t": 46.76,
+     "text": "thượng giúp Thiện"
+    },
+    {
+     "t": 47.76,
+     "text": "Xạ Đầm Lầy"
+    },
+    {
+     "t": 48.42,
+     "text": "thống trị cả"
+    },
+    {
+     "t": 49.1,
+     "text": "hai thế giới"
+    },
+    {
+     "t": 49.66,
+     "text": "dưới nước và"
+    },
+    {
+     "t": 50.2,
+     "text": "trên cạn!"
+    }
+   ]
+  }
+ ]
+}

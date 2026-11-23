@@ -1,0 +1,80 @@
+{
+ "title_lines": [
+  "TIẾN HÓA TỰ SÁT",
+  "RĂNG ĐÂM THỦNG HỘP SỌ?!"
+ ],
+ "beats": [
+  {
+   "at_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": []
+  },
+  {
+   "at": "uốn cong cắm",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": []
+  },
+  {
+   "at": "hữu của hòn",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [
+    {
+     "at": "180°",
+     "side": "L",
+     "y": 500,
+     "value": "180°",
+     "label": "xoay ngược nanh",
+     "target": [
+      0.3,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "đâm xuyên qua thịt",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [
+    {
+     "at": "40 cm",
+     "side": "R",
+     "y": 520,
+     "value": "40 CM",
+     "label": "vòng cung tự sát",
+     "target": [
+      0.7,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "at": "và ở những",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": []
+  },
+  {
+   "at": "Kỳ lạ thay,",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": []
+  },
+  {
+   "at": "có nanh cong",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": []
+  },
+  {
+   "at": "răng vào cây",
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": []
+  }
+ ]
+}

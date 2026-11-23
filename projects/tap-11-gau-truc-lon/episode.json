@@ -1,0 +1,147 @@
+{
+ "episode_no": 11,
+ "animal": "Gấu Trúc Lớn",
+ "slug": "tap-11-gau-truc-lon",
+ "format": "F4",
+ "persona": "phong_vien_24h",
+ "nickname": "Chiến thần ăn chay",
+ "sources": [
+  "Smithsonian National Zoo (Hệ tiêu hóa thú ăn thịt, ăn 10-16 tiếng/ngày, nạp 12-38kg tre, ruột ngắn thải 40 lần/ngày)",
+  "WildlifeDB & Better Planet (Tỷ lệ hấp thụ chỉ 17% chất xơ khô, 83% thải ra ngoài nguyên sợi, thải 20-25kg phân/ngày)",
+  "Endo et al. 1999, Nature (Giải phẫu ngón tay cái giả: xương vừng quay radial sesamoid bone phình to bọc đệm thịt)",
+  "Zhao et al. 2010, Molecular Biology and Evolution (Đột biến gen thụ thể vị giác Tas1r1 làm mất cảm nhận vị umami)",
+  "Earth Day & IELC Fact Sheet (Cửa sổ rụng trứng chỉ 24-72 giờ một lần duy nhất trong năm, chậm làm tổ delayed implantation)",
+  "Zhu et al. 2001 (Con non sinh ra nặng 90-130g, trung bình 100g, bằng 1/900 trọng lượng mẹ, nhỏ nhất trong thú có vú không túi)"
+ ],
+ "whisper_prompt": "Gấu Trúc Lớn, Chiến thần ăn chay, Giant Panda, 06:00, 10:00, 14:00, 18:00, 22:00, 04:00, Tứ Xuyên, tre trúc, ngón tay cái giả, xương vừng, radial sesamoid, Xyanua, 17%, 40 lần, 24-72 giờ, 100g, 1/900, Hà Mã, Tas1r1",
+ "display_fix": {
+  "không sáu giờ": "06:00",
+  "mười giờ": "10:00",
+  "mười bốn giờ": "14:00",
+  "mười tám giờ": "18:00",
+  "hai mươi hai giờ": "22:00",
+  "không bốn giờ": "04:00",
+  "hai mươi tư tiếng": "24 tiếng",
+  "hai mươi tư trên bảy": "24/7",
+  "mười bốn tiếng": "14 tiếng",
+  "mười sáu tiếng": "16 tiếng",
+  "mười tiếng": "10 tiếng",
+  "hai tiếng": "2 tiếng",
+  "bốn tiếng": "4 tiếng",
+  "bốn mươi lần": "40 lần",
+  "bốn mươi cân": "40kg",
+  "bốn mươi lăm cân": "45kg",
+  "mười hai cân": "12kg",
+  "ba mươi tám cân": "38kg",
+  "hai mươi lăm cân": "25kg",
+  "hai mươi cân": "20kg",
+  "mười cân": "10kg",
+  "mười bảy phần trăm": "17%",
+  "tám mươi ba phần trăm": "83%",
+  "chín mươi chín phần trăm": "99%",
+  "sáu ngón tay": "6 ngón tay",
+  "thứ sáu": "thứ 6",
+  "hai mươi tư đến bảy mươi hai tiếng": "24-72 giờ",
+  "hai mươi tư": "24",
+  "bốn mươi tám tiếng": "48 tiếng",
+  "bảy mươi hai tiếng": "72 tiếng",
+  "ba trăm sáu mươi lăm ngày": "365 ngày",
+  "một năm": "1 năm",
+  "một trăm gam": "100g",
+  "một trăm ba mươi gam": "130g",
+  "chín mươi gam": "90g",
+  "một phần chín trăm": "1/900",
+  "hai triệu năm": "2 triệu năm",
+  "Hai triệu năm": "2 triệu năm",
+  "Sáu giờ sáng": "6 giờ sáng",
+  "mười chín triệu năm": "19 triệu năm",
+  "hai ngàn": "2.000",
+  "ba trăm ngàn": "300.000",
+  "một ngàn tám trăm": "1.800",
+  "mười lăm xăng-ti-mét": "15cm",
+  "hai trăm cân": "200kg",
+  "hàng triệu năm": "hàng triệu năm",
+  "triệu năm": "triệu năm",
+  "Tứ Xuyên": "Tứ Xuyên",
+  "Xy-a-nua": "Xyanua",
+  "Xương vừng": "Xương vừng",
+  "xương vừng": "xương vừng",
+  "Pan-đa": "Panda",
+  "Tát-một-rờ-một": "Tas1r1"
+ },
+ "voice": {},
+ "art": {
+  "decor": "bamboo leaves, clock dials, alarm clocks",
+  "shorts_mascot": "A chubby clumsy cartoon Giant Panda holding a big green bamboo stalk and wearing a wristwatch with a ticking alarm clock",
+  "thumb_bg": "rừng tre Tứ Xuyên xanh thẫm huyền bí trong sương mù ban mai",
+  "thumb_title": ["NHAI TRE 14 TIẾNG?!", "NHẬT KÝ 24H SINH TỒN"],
+  "thumb_scene": "một chú Gấu Trúc to béo ngồi bệt ôm bó tre to tướng nhai rôm rốp, mắt thâm quầng hề hước, cạnh đó là chiếc đồng hồ báo thức khổng lồ rung chuông",
+  "thumb_gag": "chú gấu trúc con nhỏ xíu như thỏi son màu hồng nằm lọt thỏm trong lòng bàn tay mẹ"
+ },
+ "longform": {
+  "scenes": [
+   {"id": "scene01", "badge": "06:00 SÁNG", "banner_title": "BẮT ĐẦU CA NHAI TRE 14 TIẾNG", "chapter_title": "06:00 Sáng: Bắt đầu ca nhai tre cật lực của kẻ phản bội tổ tiên",
+    "hook": "BẮT ĐẦU CA NHAI TRE CỦA KẺ PHẢN BỘI TỔ TIÊN", "mood": "hao_hung", "parts": [
+     {"text": "Bây giờ là không sáu giờ sáng! Kính thưa quý vị khán giả, chúng tôi đang có mặt trực tiếp tại khu rừng tre mù sương tỉnh Tứ Xuyên để tường thuật lại một ngày làm việc cật lực của sinh vật lười biếng bậc nhất hành tinh: Gấu Trúc Lớn! Chiếc đồng hồ sinh học vừa điểm hồi chuông báo thức, và nhân vật chính của chúng ta — Chiến thần ăn chay — đã lập tức ngồi bật dậy vào vị trí làm việc quen thuộc. Không tập thể dục, không đánh răng, công việc đầu tiên và duy nhất trong ngày của gã béo này là... bốc một thanh tre cho thẳng vào mồm nhai rôm rốp! [laughter]", "mood": "hao_hung"},
+     {"text": "Alo trường quay nghe rõ không? Phóng viên cho hỏi gã này định nhai tre đến bao giờ thế?", "cast": "phat_thanh_vien"},
+     {"text": "[surprise-oh] Báo cáo trường quay, gã này sẽ ngồi nhai liên tục từ mười đến mười bốn tiếng mỗi ngày, không ngừng nghỉ! Điều nghịch lý đến phát điên là: xét về mặt sinh học và phả hệ tiến hóa mười chín triệu năm, Gấu Trúc thuộc bộ thú ăn thịt chính hiệu, cùng một tổ tiên với gấu xám, sư tử và chó sói! Hộp sọ của nó có cơ hàm cực khỏe, răng nanh sắc nhọn và đường ruột ngắn cũn cỡn chuyên dùng để tiêu hóa thịt tươi béo ngậy. Nhưng không hiểu vì một pha bẻ lái lịch sử nào của tạo hóa, khoảng hai triệu năm trước, tổ tiên của nó bỗng nhiên... mất đi cảm nhận vị umami của thịt, chán ăn thịt chuyển hẳn sang ăn chay chín mươi chín phần trăm bằng lá tre và thân tre! [laughter]", "mood": "don_dap"},
+     {"text": "Các nhà khoa học phát hiện đột biến trên gen Tát-một-rờ-một đã biến chiếc lưỡi sành ăn thịt của tổ tiên nó thành kẻ mù vị giác với món bít-tết! Đối với Chiến thần ăn chay, một tảng thịt bò thơm phức béo ngậy bây giờ cũng nhạt toẹt và vô vị y hệt một miếng bìa các-tông ngâm nước! Thà rằng ngồi gặm cành tre tươi đẫm sương sớm còn cảm thấy thanh tao và hợp khẩu vị hơn gấp vạn lần! Hãy cùng chúng tôi đếm ngược từng mốc giờ để xem cỗ máy ăn chay này vận hành kỳ dị ra sao!", "mood": "hao_hung"}
+    ]},
+   {"id": "scene02", "badge": "10:00 TRƯA", "banner_title": "NGÓN TAY CÁI THỨ 6 BÓC TRE", "chapter_title": "10:00 Trưa: Giải mã ngón tay cái thứ sáu và hàm nghiền xương",
+    "hook": "XƯƠNG CỔ TAY BIẾN DỊ THÀNH NGÓN TAY CÁI BÓC VỎ TRE", "mood": "don_dap", "parts": [
+     {"text": "Đồng hồ điểm mười giờ trưa! Cập nhật mới nhất từ hiện trường: sau bốn tiếng nhai tre không ngừng nghỉ, Chiến thần ăn chay đã xử lý gọn gàng hơn mười cân cành tre cứng như gỗ lim! Quý vị có bao giờ thắc mắc tại sao một con gấu to béo vụng về lại có thể cầm nắm từng nhánh tre thanh thoát, bóc lớp vỏ cứng một cách điệu nghệ chẳng khác nào một đầu bếp chuyên nghiệp bóc vỏ mía không? [question-ah] Camera góc siêu cận của chúng tôi vừa ghi lại một bí mật giải phẫu kinh ngạc: bàn tay trước của Gấu Trúc không phải có năm ngón như các loài gấu khác, mà sở hữu tới sáu ngón tay! [surprise-wa]", "mood": "don_dap"},
+     {"text": "Này phóng viên ơi, làm gì có loài thú nào mọc sáu ngón tay thật, chắc chắn là đạo cụ gắn thêm rồi!", "cast": "ong_gia_ke"},
+     {"text": "Bác nhân chứng nói gần đúng rồi đấy! Trên thực tế, ngón tay cái phụ này không phải là một ngón tay thật, mà là xương vừng cổ tay phình to dị thường, bọc một lớp đệm thịt dày cộp bên ngoài. Tiến hóa đã biến chiếc xương cổ tay này thành một ngón tay cái giả hoạt động linh hoạt đối diện với năm ngón còn lại, giúp nó kẹp chặt từng thân tre tròn lẳn và tước bỏ lớp vỏ đắng ngắt một cách chuẩn xác từng mi-li-mét! [surprise-oh]", "mood": "hao_hung"},
+     {"text": "Chưa dừng lại ở bàn tay khéo léo, hãy nhìn vào khuôn mặt tròn xoe phúng phính đáng yêu như chiếc bánh bao của nó! Quý vị đừng để vẻ dễ thương đánh lừa: hai bên má phúng phính thực chất là hai khối cơ cắn khổng lồ neo thẳng lên gờ đỉnh sọ! Lực cắn của Chiến thần ăn chay mạnh tới mức chỉ đứng sau loài linh cẩu đốm nghiền xương, đủ sức bẻ vụn thân tre già dày cộp như nhai bim bim! Toàn bộ niêm mạc vòm họng và thực quản của nó còn được lót một lớp màng nhầy siêu dày để các dằm tre sắc nhọn không thể đâm thủng nội tạng khi nuốt! Vũ khí của mãnh thú săn mồi thượng thừa, nhưng dùng vào việc nhai cỏ cây! [laughter]", "mood": "don_dap"}
+    ]},
+   {"id": "scene03", "badge": "14:00 CHIỀU", "banner_title": "KỶ LỤC 40 LẦN ĐI VỆ SINH/NGÀY", "chapter_title": "14:00 Chiều: Cỗ máy tiêu hóa chỉ hấp thụ 17% và thải 25kg phân",
+    "hook": "TIÊU HÓA SIÊU KÉM CHỈ HẤP THỤ 17% DINH DƯỠNG", "mood": "nghiem_trang_gia", "parts": [
+     {"text": "Bây giờ là mười bốn giờ chiều! Chúng tôi vừa phải lùi xa hiện trường mười bước vì một kỷ lục sinh học vô tiền khoáng hậu sắp diễn ra. Quý vị hãy giữ chặt mũ: mỗi ngày, một chú Gấu Trúc trưởng thành phải nạp từ mười hai cân đến ba mươi tám cân tre tươi. Nhưng vì mang ruột thú ăn thịt ngắn ngủn, không có bốn ngăn dạ dày như trâu bò, cũng chẳng có vi khuẩn lên men phân giải chất xơ như loài ngựa, hệ tiêu hóa của nó chỉ hấp thụ vỏn vẹn đúng mười bảy phần trăm chất dinh dưỡng! Tới tám mươi ba phần trăm lượng tre nuốt vào bụng sẽ trôi tuột ra ngoài nguyên vẹn hình sợi chỉ sau hai tiếng đồng hồ! [laughter]", "mood": "nghiem_trang_gia"},
+     {"text": "Và hệ quả tất yếu là gì? Xin thông báo một con số kỷ lục: Chiến thần ăn chay phải đi vệ sinh tới bốn mươi lần mỗi ngày! [surprise-ah] Đúng vậy, quý vị không hề nghe nhầm đâu, bốn mươi lần một ngày, thải ra từ hai mươi cân đến hai mươi lăm cân phân tre tươi! Vừa ngồi nhai cành tre đằng trước, đằng sau đã xả ra đống bã tre thơm mùi cỏ non. Các nhà sinh vật học khi vào rừng chỉ cần đếm số lượng bãi thải là biết ngay gã béo này đã ngồi ở gốc cây đó bao nhiêu phút. Đây chính xác là một cỗ máy nghiền tre di động: năng suất nghiền cực cao, tiêu hóa cực kém, và xả thải liên tục hai mươi tư trên bảy! [laughter]", "mood": "don_dap"},
+     {"text": "Điều bi hài nhất là phân của nó sạch đến mức người ta không thể nhịn cười! Vì chín mươi chín phần trăm thức ăn là tre trúc và thời gian lưu trong ruột quá ngắn, phân gấu trúc hầu như không có mùi hôi thối mà thơm dịu mùi lá tre lên men thoang thoảng như trà xanh! Tại Tứ Xuyên, người ta đã tận dụng loại phân giàu chất xơ này để tẩy sạch làm giấy thủ công mỹ nghệ cao cấp, thậm chí dùng bã phân ủ trà xanh bán với giá hàng ngàn đô-la một cân! Ai mà ngờ chất thải của kẻ ăn chay lười biếng lại biến thành mỏ vàng sinh thái độc lạ bậc nhất thế giới! [surprise-wa]", "mood": "hao_hung"}
+    ]},
+   {"id": "scene04", "badge": "18:00 HOÀNG HÔN", "banner_title": "NGHỆ SĨ XIẾC NGÃ CÂY VÀ LĂN LỘN", "chapter_title": "18:00 Hoàng hôn: Những pha ngã cây kinh điển và ngủ bất chấp tư thế",
+    "hook": "NGỦ BẤT CHẤP TƯ THẾ VÀ LĂN LỘN TỰ NHIÊN", "mood": "tram_bi_an", "parts": [
+     {"text": "Ánh hoàng hôn buông xuống rừng tre, đồng hồ điểm mười tám giờ tối! Sau một ca làm việc cật lực ăn uống và xả thải, Chiến thần ăn chay quyết định leo lên ngọn cây cao để nghỉ ngơi thư giãn. Và đây chính là khoảnh khắc chương trình biểu diễn xiếc hài hước nhất tự nhiên bắt đầu! [laughter] Quý vị hãy nhìn lên chạc cây: thân hình tròn xoe nặng hơn một tạ của nó đang vắt vẻo trên một cành cây nhỏ chỉ to bằng cổ tay. Nó ngủ trong những tư thế không tưởng: đầu chúc xuống đất, bốn chân buông thõng đung đưa, hoặc nằm ngửa bụng phơi nắng như một bao tải gạo bị bỏ quên trên ngọn cây!", "mood": "tram_bi_an"},
+     {"text": "Ối ối bác phóng viên ơi, cành cây gãy rồi kìa, đỡ cháu với!", "cast": "chu_ngo_ngac"},
+     {"text": "Rắc! Bịch! Một pha tiếp đất đỉnh cao không thể đỡ nổi! [laughter] Cành cây gãy đôi và Chiến thần ăn chay rơi tự do từ độ cao vài mét đập mông xuống đất. Nhưng quý vị đừng lo lắng! Nhờ có lớp mỡ dày, bộ lông rậm rạp và khung xương sườn tròn đàn hồi cực tốt, nó lập tức cuộn tròn lăn lông lốc vài vòng như quả bóng bowling rồi ngồi dậy gãi tai tỉnh queo! Các nhà khoa học phát hiện hành vi lăn lộn này không chỉ giúp chúng giảm chấn động khi ngã cây, mà còn là một bài tập xả stress tuyệt vời để làm sạch lớp lông dính bùn đất! [surprise-oh]", "mood": "hao_hung"},
+     {"text": "Ngay cả bộ lông hai màu đen trắng của nó cũng là một tuyệt tác ngụy trang! Mảng lông trắng giúp nó ẩn mình hoàn hảo giữa các vách đá đóng tuyết mùa đông, còn các khoanh lông đen quanh mắt, tai và bốn chân giúp nó hòa tan vào bóng râm rậm rạp của rừng trúc mùa hè! Đốm đen quanh mắt to như cặp kính râm còn giúp làm giảm độ chói lóa của ánh nắng mặt trời phản chiếu từ tuyết trắng! Chiếc đuôi ngắn ngủn mười lăm xăng-ti-mét ép sát mông hoạt động như một chiếc chổi quét bụi, giữ cho bàn tọa của gã béo luôn khô ráo ấm áp khi ngồi bệt xuống đất lạnh! Ngã cây như cơm bữa, lăn lộn như nghệ sĩ xiếc, nhưng tạo hóa đã bọc giáp từ đầu đến đuôi! [laughter]", "mood": "don_dap"}
+    ]},
+   {"id": "scene05", "badge": "22:00 ĐÊM", "banner_title": "CỬA SỔ THỜI GIAN 48 GIỜ SINH TỒN", "chapter_title": "22:00 Đêm: Cửa sổ thụ thai 48 giờ và cục bông 100g bé như thỏi son",
+    "hook": "CỬA SỔ THỤ THAI DUY NHẤT 24-72 GIỜ MỖI NĂM", "mood": "nghiem_trang_gia", "parts": [
+     {"text": "Màn đêm bao trùm rừng thẳm, đồng hồ điểm hai mươi hai giờ đêm! Không khí tĩnh mịch bỗng bị khuấy động bởi những âm thanh bí ẩn. Chúng tôi xin chuyển sang bản tin thời sự đặc biệt về sự tồn vong của loài: cuộc đua sinh sản nghẹt thở nhất hành tinh! Quý vị có biết tại sao Gấu Trúc lại từng đứng trước bờ vực tuyệt chủng không? [question-oh] Không chỉ vì phá hủy rừng tre, mà chính tạo hóa đã cài đặt cho chúng một chiếc đồng hồ sinh học cực kỳ khắt khe: mỗi năm, con cái chỉ có đúng một chu kỳ rụng trứng duy nhất, và cánh cửa màu mỡ để giao phối chỉ mở ra vỏn vẹn từ hai mươi tư đến bảy mươi hai tiếng đồng hồ! [surprise-wa]", "mood": "nghiem_trang_gia"},
+     {"text": "Đúng thế thưa quý vị! Đúng bốn mươi tám tiếng ngắn ngủi trong suốt ba trăm sáu mươi lăm ngày! Nếu trong hai ngày đó mà hai bên không tìm thấy nhau, hoặc chàng gấu mải ngồi nhai tre quên mất việc lớn, thì coi như mất trắng một năm! [laughter] Thậm chí các chuyên gia bảo tồn tại các trung tâm nhân giống từng phải mở cả video hướng dẫn giao phối cho chúng xem để học hỏi. Và điều kỳ diệu nhất diễn ra sau đó: khi một chú Gấu Trúc con chào đời, nó chỉ nặng đúng một trăm gam — tức là nhẹ bằng một phần chín trăm trọng lượng của gấu mẹ! Nhỏ thó bằng một thỏi son, đỏ hỏn, mù lòa và không có lấy một cọng lông! Sinh ra một cục bông tí hon mỏng manh giữa tự nhiên khắc nghiệt là một bài toán sinh tồn gian nan tột cùng!", "mood": "don_dap"},
+     {"text": "Chưa kể, các cô gấu trúc còn nổi tiếng với màn kịch mang thai giả tinh quái khiến cả đội ngũ bác sĩ thú y phải toát mồ hôi hột! Khi nhận thấy những con gấu mang thai được chuyển vào phòng máy lạnh, được phục vụ táo ngon và bánh bao hảo hạng, một số cô nàng tinh ranh đã cố tình bắt chước triệu chứng ốm nghén: đi lại chậm chạp, ăn ít, ngủ nhiều để được hưởng chế độ chăm sóc năm sao suốt mấy tháng trời! Cho đến khi siêu âm không thấy em bé đâu, các bác sĩ mới té ngửa nhận ra mình vừa bị một diễn viên kịch gấu lừa ngoạn mục! [laughter]", "mood": "hao_hung"}
+    ]},
+   {"id": "scene06", "badge": "04:00 SÁNG", "banner_title": "KẾT THÚC 24H VÀ LÀM LẠI TỪ ĐẦU", "chapter_title": "04:00 Rạng sáng: Kết thúc 24h sinh tồn và bài học từ chú gấu béo",
+    "hook": "BÀI HỌC SINH TỒN VÀ BẮC CẦU SANG TẬP 12 HÀ MÃ", "mood": "am_ap", "parts": [
+     {"text": "Bây giờ là không bốn giờ rạng sáng! Tiếng sương đêm nhỏ giọt trên những tán lá tre xào xạc, khép lại hành trình hai mươi tư giờ theo chân sinh vật đáng yêu nhất hành tinh. Nhiều người từng chế giễu Gấu Trúc là loài vật quyết tâm tự hủy, nhưng thực tế chứng minh điều ngược lại: Chiến thần ăn chay đã kiên cường vượt qua hơn hai triệu năm biến đổi khí hậu khắc nghiệt, sống sót qua cả kỷ băng hà khi các loài mãnh thú to lớn khác đều đã tuyệt chủng! [surprise-oh] Bằng cách hạ thấp nhu cầu năng lượng xuống mức tối thiểu, không tranh giành con mồi với ai, và biến sự vụng về thành nét đáng yêu khiến cả nhân loại phải chung tay bảo vệ, Gấu Trúc đã chọn cho mình một triết lý sinh tồn vô cùng độc đáo: chậm rãi, bình thản và hòa hợp tuyệt đối với thiên nhiên.", "mood": "am_ap"},
+     {"text": "Đồng hồ lại sắp điểm không sáu giờ sáng, và một chu kỳ nhai tre mới lại chuẩn bị bắt đầu! Ở tập tiếp theo, chúng ta sẽ tạm biệt rừng tre Trung Quốc để bay thẳng sang những dòng sông châu Phi rực lửa, nơi một cỗ xe tăng bọc thịt đang chờ đợi: Hà Mã! Tuyệt đối không biết bơi nhưng chạy bộ dưới đáy sông với lực cắn một ngàn tám trăm PSI nghiền nát cá sấu! Hẹn gặp lại quý vị trong bản tin sinh tồn rực lửa tiếp theo!", "mood": "hao_hung"},
+     {"text": "Báo cáo trường quay, phóng viên xin phép ngắt sóng để đi ngủ một giấc như Gấu Trúc đây ạ!", "cast": "phat_thanh_vien"},
+     {"text": "Kính chúc quý vị một ngày tràn đầy năng lượng tích cực! Còn bạn, bạn ấn tượng nhất với mốc thời gian nào trong hai mươi tư giờ của Chiến thần ăn chay? Hãy để lại bình luận bên dưới nhé!", "mood": "hao_hung"}
+    ]}
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Sáu giờ sáng ở rừng tre Tứ Xuyên, một con gấu mang bộ ruột của thú ăn thịt lại bắt đầu ca nhai tre kéo dài mười bốn tiếng! Đó là Gấu Trúc Lớn, họ hàng của gấu xám, nặng cả tạ, chỉ sống ở vùng núi Trung Quốc. Hai triệu năm trước, tổ tiên nó mất vị giác với thịt nên chuyển hẳn sang ăn tre chín mươi chín phần trăm! [laughter] Nhưng ruột ngắn của thú ăn thịt chỉ hấp thụ được mười bảy phần trăm dinh dưỡng, nên mỗi ngày nó phải nạp tới ba mươi tám cân tre. [surprise-wa] Hậu quả là đi vệ sinh kỷ lục bốn mươi lần một ngày! Để bóc vỏ tre, xương cổ tay của nó phình to thành ngón tay cái thứ sáu, kẹp tre chắc như gọng kìm. Ăn ít năng lượng thì phải tiết kiệm: nó lười di chuyển, ngủ ngay trên cây, ngã xuống thì cuộn tròn lăn lông lốc rồi ăn tiếp. Vậy là bí mật đã rõ: không phải gấu trúc lười, mà nó đang sống đúng chế độ tiết kiệm pin của một kẻ ăn chay mang ruột ăn thịt!"
+ },
+ "seo": {
+  "title": "Ruột Ăn Thịt Nhưng Ngồi Nhai Tre 14 Tiếng/Ngày?! | Gấu Trúc Lớn | Tập 11",
+  "hook_paragraph": "Gấu Trúc Lớn sở hữu bộ ruột của thú ăn thịt nhưng lại nhai tre 14 tiếng/ngày, chỉ hấp thụ 17% dinh dưỡng, đi vệ sinh 40 lần/ngày, bàn tay 6 ngón bóc vỏ tre và cửa sổ giao phối chỉ vỏn vẹn 24-72 giờ/năm! Khám phá nhật ký sinh tồn 24 giờ của Chiến thần ăn chay xứ Tứ Xuyên.",
+  "bullets": [
+   "06:00 Sáng: Mang ruột thú ăn thịt nhưng phản bội tổ tiên nhai tre 14 tiếng",
+   "10:00 Trưa: Ngón tay cái giả thứ 6 biến dị từ xương cổ tay để bóc vỏ tre",
+   "14:00 Chiều: Kỷ lục đi vệ sinh 40 lần/ngày, thải 25kg bã tre",
+   "22:00 Đêm: Cửa sổ thụ thai duy nhất 24-72 giờ/năm và con non 100g như thỏi son"
+  ],
+  "question": "Nếu được hoán đổi cuộc sống với Gấu Trúc 1 ngày: nhai tre 14 tiếng hay ngủ lăn lộn trên cây, bạn chọn cái nào? Bình luận bên dưới nhé!",
+  "next_teaser": "Hà Mã — cỗ xe tăng không biết bơi nhưng chạy bộ dưới đáy sông với lực cắn 1.800 PSI",
+  "hashtags": ["#GauTrucLon", "#GiantPanda", "#TheGioiDongVat", "#VeChuyenHoangDa", "#KhoaHoc"],
+  "tags": ["gấu trúc lớn", "gau truc lon", "giant panda", "gấu trúc tứ xuyên", "gấu trúc ăn tre", "tiến hóa gấu trúc", "ngón tay giả gấu trúc", "thế giới động vật", "động vật hài hước", "vẽ chuyện hoang dã", "whiteboard animation", "khoa học thú vị", "nhật ký 24 giờ"],
+  "shorts_title": "Ruột Ăn Thịt Nhưng Nhai Tre 14 Tiếng/Ngày?! 🐼 #shorts #gautruc",
+  "shorts_desc": "Gấu Trúc Lớn mang ruột thú ăn thịt nhưng ăn tre 99%: chỉ hấp thụ 17% dinh dưỡng nên phải nhai tre 14 tiếng/ngày, ăn 38kg tre và đi vệ sinh 40 lần/ngày. Ngón tay cái thứ 6 giúp nó bóc vỏ tre, còn lối sống chậm rãi chính là chế độ tiết kiệm năng lượng! 🐼🎋",
+  "shorts_tags": ["gấu trúc", "giant panda", "shorts", "thế giới động vật", "vẽ chuyện hoang dã", "động vật hài hước"]
+ }
+}

@@ -1,0 +1,383 @@
+{
+ "episode_no": 18,
+ "animal": "Bọ Pháo Thủ",
+ "slug": "tap-18-bo-phao-thu",
+ "format": "F2",
+ "persona": "ky_su_vu_khi",
+ "nickname": "Pháo Thủ Hóa Học",
+ "sources": [
+  "Eisner, T. et al. (1999). Spray mechanism of the bombardier beetle. Science, 284(5411), 126-128 (Cơ chế phun xung 500-1.000 Hz và nhiệt độ 100°C)",
+  "Arndt, E. et al. (2015). High-speed synchrotron X-ray imaging of bombardier beetle spray. Science, 348(6234), 563-567 (Bản vẽ 2 buồng chứa và van cơ học)",
+  "Sugiura, S. & Sato, T. (2018). Successful escape of bombardier beetles from toads. Biology Letters, 14(2), 20170647 (Sống sót thoát khỏi dạ dày cóc sau 15-107 phút)",
+  "Dean, J. et al. (1990). Defensive spray of the bombardier beetle. J. Exp. Biol., 150(1), 127-142 (Độ lệch góc xoay tháp pháo đuôi 270 độ)",
+  "Aneshansley, D. J. et al. (1969). Biochemistry of the explosive discharge of the bombardier beetle. Science, 165(3888), 61-63 (Phản ứng Hydroquinone và Hydrogen peroxide)"
+ ],
+ "whisper_prompt": "Bọ Pháo Thủ, Pháo Thủ Hóa Học, Carabidae, Brachinini, 100°C, 500 lần/giây, 1.000 lần/giây, 2cm, 1,5cm, 2,5cm, 20 m/s, 270°, 107 phút, 40 phút, Hydroquinone, Hydrogen peroxide, Catalase, Peroxidase, p-benzoquinone, Kobe, Shinji Sugiura, V-1, pulsejet, tháp pháo, dạ dày cóc, Thằn Lằn Quỷ Gai",
+ "display_fix": {
+  "một trăm độ C": "100°C",
+  "Một trăm độ C": "100°C",
+  "hai trăm mười hai độ Ép": "212°F",
+  "năm trăm lần một giây": "500 lần/giây",
+  "Năm trăm lần một giây": "500 lần/giây",
+  "một ngàn lần một giây": "1.000 lần/giây",
+  "Một ngàn lần một giây": "1.000 lần/giây",
+  "năm trăm héc": "500 Hz",
+  "một ngàn héc": "1.000 Hz",
+  "hai xăng-ti-mét": "2cm",
+  "Hai xăng-ti-mét": "2cm",
+  "một phẩy năm xăng-ti-mét": "1,5cm",
+  "Một phẩy năm xăng-ti-mét": "1,5cm",
+  "hai phẩy năm xăng-ti-mét": "2,5cm",
+  "mười mi-li-mét": "10mm",
+  "hai mươi lăm mi-li-mét": "25mm",
+  "hai đến ba mi-li-giây": "2-3 mili-giây",
+  "hai mươi mét một giây": "20 m/s",
+  "Hai mươi mét một giây": "20 m/s",
+  "mười mét một giây": "10 m/s",
+  "hai trăm bảy mươi độ": "270°",
+  "Hai trăm bảy mươi độ": "270°",
+  "ba trăm sáu mươi độ": "360°",
+  "Ba trăm sáu mươi độ": "360°",
+  "mười phần trăm": "10%",
+  "Mười phần trăm": "10%",
+  "hai mươi lăm phần trăm": "25%",
+  "Hai mươi lăm phần trăm": "25%",
+  "sáu mươi đến tám mươi phần trăm": "60-80%",
+  "Sáu mươi đến tám mươi phần trăm": "60-80%",
+  "mười bốn trên mười sáu": "14/16",
+  "một trăm phần trăm": "100%",
+  "Một trăm phần trăm": "100%",
+  "mười tám": "18",
+  "Mười tám": "18",
+  "mười chín": "19",
+  "hai mươi": "20",
+  "ba mươi": "30",
+  "bốn mươi": "40",
+  "năm mươi": "50",
+  "sáu mươi": "60",
+  "bảy mươi": "70",
+  "tám mươi": "80",
+  "chín mươi": "90",
+  "một trăm": "100",
+  "hai trăm": "200",
+  "một ngàn": "1.000",
+  "mười lăm phút": "15 phút",
+  "Mười lăm phút": "15 phút",
+  "bốn mươi phút": "40 phút",
+  "Bốn mươi phút": "40 phút",
+  "một trăm lẻ bảy phút": "107 phút",
+  "một tiếng": "1 tiếng",
+  "Một tiếng": "1 tiếng",
+  "hai tiếng": "2 tiếng",
+  "hai mươi bốn tiếng": "24 tiếng",
+  "Hai mươi bốn tiếng": "24 tiếng",
+  "ba mươi sáu tiếng": "36 tiếng",
+  "Ba mươi sáu tiếng": "36 tiếng",
+  "hai ngàn không trăm mười tám": "2018",
+  "Năm hai ngàn không trăm mười tám": "Năm 2018",
+  "thế kỷ hai mươi": "thế kỷ 20",
+  "Thế chiến hai": "Thế chiến II",
+  "Thế Chiến hai": "Thế chiến II",
+  "Vê-một": "V-1",
+  "Hy-đrô-qui-nôn": "Hydroquinone",
+  "Hy-đrô pe-rô-xít": "Hydrogen peroxide",
+  "Ca-ta-la-se": "Catalase",
+  "Pơ-rốc-xi-đa-se": "Peroxidase",
+  "Ben-zô-qui-nôn": "Benzoquinone",
+  "Cô-bê": "Kobe",
+  "Su-ghi-u-ra": "Sugiura",
+  "Phao-xơ-giét": "Pulsejet",
+  "Mô-lốc": "Moloch",
+  "Tập mười tám": "Tập 18",
+  "Tập mười chín": "Tập 19",
+  "Tập mười bảy": "Tập 17",
+  "Tập mười sáu": "Tập 16",
+  "Tập mười lăm": "Tập 15",
+  "một mét": "1m",
+  "Một mét": "1m",
+  "một phần mười": "1/10",
+  "Một phần mười": "1/10",
+  "hàng ngàn độ": "hàng ngàn độ",
+  "hàng triệu năm": "hàng triệu năm",
+  "triệu năm": "triệu năm",
+  "hai mươi đến ba mươi": "20-30",
+  "mười lăm đến một trăm lẻ bảy": "15-107",
+  "năm trăm đến một ngàn": "500-1.000",
+  "hai buồng": "2 buồng",
+  "Hai buồng": "2 buồng",
+  "M-I-T": "MIT",
+  "ki-lô-jun": "kJ"
+ },
+ "voice": {},
+ "art": {
+  "decor": "tiny blueprint gears, chemical test tubes, and yellow warning hazard stripes",
+  "shorts_mascot": "A small cute cartoon bombardier beetle wearing a yellow engineer safety hard hat with safety goggles, proudly aiming its mechanical rear cannon barrel that shoots glowing steam sparks",
+  "thumb_bg": "dark military testing chamber with blueprint grid lines and glowing orange chemical steam explosion",
+  "thumb_title": [
+   "ĐẠI BÁC 100 ĐỘ C?!",
+   "NỔ 500 PHÁT/GIÂY!"
+  ],
+  "thumb_scene": "giant dramatic cartoon bombardier beetle wearing safety goggles bending its tail turret 270 degrees, firing a boiling chemical steam blast right into a startled frog's wide-open mouth",
+  "thumb_gag": "a tiny green toad dizzily spitting out smoke rings with dizzy spiral eyes"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "HỒ SƠ VŨ KHÍ",
+    "banner_title": "KHẨU PHÁO HÓA HỌC SÔI 100 ĐỘ C",
+    "chapter_title": "Hồ sơ vũ khí: Pháo Thủ Hóa Học 2cm bắn tia hơi sôi 100°C",
+    "hook": "SINH VẬT 2CM SỞ HỮU VŨ KHÍ HÓA HỌC SÔI SÙNG SỤC",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Báo cáo thử nghiệm vũ khí tối mật cấp độ đỏ. Mở khóa toàn bộ dữ liệu lưu trữ của kho vũ khí sinh học! Toàn đội kỹ thuật hãy trang bị đầy đủ kính chắn nhiệt và mặt nạ phòng độc, bởi vì cỗ máy phòng vệ mà chúng ta tháo dỡ hôm nay sở hữu công nghệ cơ khí vượt xa trí tưởng tượng của con người. [surprise-oh] Quên đi những nọc độc rắn hổ hay gai nhọn bọ cạp, hãy nhìn vào một sinh vật nhỏ bé đang lững thững bò trên thảm lá rừng mục!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Đối tượng mang mã định danh số mười tám của chúng ta có ngoại hình đánh lừa thị giác tuyệt đối: Chiều dài cơ thể chỉ vỏn vẹn từ một phẩy năm xăng-ti-mét đến hai phẩy năm xăng-ti-mét, nặng chưa đầy một gam, đầu và chân màu cam đất, đôi cánh cứng màu xanh đen ánh kim. Nhìn bề ngoài, gã chẳng khác nào một chú bọ cánh cứng tầm thường mà bạn có thể vô tình giẫm phải trên lối đi.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Nhưng trong danh mục vũ khí sinh học, giới khoa học quân sự đặt cho gã một biệt danh đầy nể sợ: Pháo Thủ Hóa Học, hay còn gọi là Bọ Pháo Thủ! [surprise-wa] Mỗi khi bị kẻ thù đe dọa, đuôi của con bọ này sẽ lập tức phát nổ liên thanh với tiếng nổ tanh tách đanh thép, bắn ra một luồng hơi hóa chất độc hại sôi sùng sục ở đúng một trăm độ C!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Hãy tưởng tượng bạn đang bị một tia nước sôi một trăm độ C, đậm đặc hóa chất ăn mòn da bắn thẳng vào mắt với vận tốc lên tới hai mươi mét một giây! [surprise-oh] Bất kỳ loài chim săn mồi, thằn lằn hay nhện khổng lồ nào lỡ dại chạm vào Pháo Thủ Hóa Học đều phải giật bắn người, bỏng rát mắt và tháo chạy trong hoảng loạn.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Vậy điều kỳ diệu nào giúp một cơ thể sống mỏng manh dài chỉ hai xăng-ti-mét có thể đun sôi nước đến một trăm độ C chỉ trong vài phần nghìn giây mà không hề bị nổ tung chính bản thân mình? Hãy cùng mở bản vẽ kỹ thuật bên trong cơ thể gã!",
+      "mood": "tram_bi_an"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "BẢN VẼ CƠ KHÍ",
+    "banner_title": "HỆ THỐNG HAI BUỒNG PHẢN ỨNG",
+    "chapter_title": "Bản vẽ cơ khí: Hệ thống hai buồng trộn hóa chất nổ nhị phân",
+    "hook": "BÍ MẬT 2 BUỒNG CHỨA VÀ LỚP LÓT CHỊU NHIỆT",
+    "mood": "nghiem_trang_gia",
+    "parts": [
+     {
+      "text": "Dưới kính hiển vi điện tử quét X-quang tốc độ cao của Viện Công nghệ M-I-T, cấu trúc bên trong phần bụng của Pháo Thủ Hóa Học hiện ra hệt như một nhà máy sản xuất vũ khí hóa học thu nhỏ! [surprise-oh] Điểm cốt lõi giúp con bọ không bị tự hủy nằm ở nguyên lý vũ khí nhị phân: Tách biệt hoàn toàn hai chất phản ứng cho đến giây phút khai hỏa.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Ở phần trên của khoang bụng là buồng chứa dự trữ lớn. Buồng này chứa hỗn hợp hai chất lỏng: mười phần trăm Hy-đrô-qui-nôn và hai mươi lăm phần trăm Hy-đrô pe-rô-xít, hay chính là nước oxy già đậm đặc. Khi hai chất này nằm chung trong buồng chứa, chúng hoàn toàn trơ lỳ và hòa bình với nhau, không hề xảy ra bất kỳ phản ứng cháy nổ nào.",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Cảnh báo nhiệt độ buồng đốt đạt ngưỡng tới hạn một trăm độ C! Áp suất oxy tăng vọt, đề nghị khóa van an toàn ngay lập tức!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[laughter] Đúng như trợ lý kỹ thuật vừa báo cáo! Nối giữa buồng chứa dự trữ và buồng đốt bên ngoài là một chiếc van cơ học một chiều cực kỳ tinh xảo. Khi con bọ siết chặt cơ bụng, van mở ra, đẩy một lượng nhỏ hỗn hợp lỏng tràn vào buồng phản ứng thứ hai.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tại buồng đốt thứ hai này, thành vách được gia cố bằng một lớp màng chất sừng cu-tin dày đặc, chịu nhiệt và chống ăn mòn siêu cấp. Nơi đây đã được nạp sẵn hai enzyme xúc tác sinh học cực mạnh: Ca-ta-la-se và Pơ-rốc-xi-đa-se! [surprise-wa] Ngay khoảnh khắc giọt dung dịch chạm vào enzyme, phản ứng dây chuyền bùng nổ trong chớp mắt!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Enzyme Ca-ta-la-se lập tức bẻ gãy Hy-đrô pe-rô-xít thành nước và khí oxy, giải phóng một lượng nhiệt khổng lồ đun sôi dung dịch lên đúng một trăm độ C! Đồng thời, enzyme Pơ-rốc-xi-đa-se oxy hóa Hy-đrô-qui-nôn thành chất Ben-zô-qui-nôn, một chất hóa học cực độc, cay xé da thịt và có mùi khét lẹt!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Toàn bộ chuỗi phản ứng sinh hóa dữ dội này diễn ra trong khoang thể tích tí hon chưa đầy một phần mười mi-li-mét khối! Nhờ lớp vỏ chitin cách nhiệt nhiều lớp bọc ngoài buồng đốt, các cơ quan nội tạng nhạy cảm khác như tim và ruột của Pháo Thủ Hóa Học hoàn toàn không bị ảnh hưởng bởi lò lửa một trăm độ C đang sôi sùng sục ngay sát bên cạnh.",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "ĐỘNG CƠ XUNG",
+    "banner_title": "ĐỘNG CƠ PHẢN LỰC XUNG 500 HZ",
+    "chapter_title": "Cơ chế nạp đạn: Động cơ phản lực xung 500 Hz và tháp pháo xoay 270 độ",
+    "hook": "TỐC ĐỘ NỔ LIÊN THANH 500 ĐẾN 1000 LẦN MỖI GIÂY",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Nếu Pháo Thủ Hóa Học chỉ đơn thuần phun ra một dòng nước sôi liên tục, áp suất khổng lồ sẽ xé toạc bụng gã hoặc đẩy ngược cơ thể gã văng xa cả mét. [surprise-oh] Nhưng tạo hóa đã ban cho gã một phát minh cơ khí tương tự như động cơ tên lửa phản lực xung Vê-một của Đức trong Thế chiến hai!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Mỗi phát bắn của con bọ thực chất là một chuỗi nổ liên thanh vi mô diễn ra với tần số điên rồ: Từ năm trăm lần một giây đến một ngàn lần một giây! [surprise-wa] Máy quay tốc độ cao ghi lại quy trình hoàn hảo: Khi phản ứng bùng nổ, khí oxy và hơi nước nóng giãn nở cực độ sẽ tự động ép chặt chiếc van cơ học đóng lại, ngăn không cho áp suất dội ngược vào buồng chứa.",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Sau đó, hơi sôi một trăm độ C phụt mạnh qua nòng đuôi ra ngoài. Ngay khi luồng hơi thoát đi, áp suất trong buồng đốt tụt xuống, van tự động mở ra hút mẻ hóa chất tiếp theo vào, và chu kỳ nổ lặp lại đúng năm trăm héc! Đó là lý do bạn nghe thấy tiếng súng nổ lách tách liên hồi như một khẩu súng máy liên thanh!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Tôi vừa vồ thử từ phía sau một cái mà nó xoay nòng phụt thẳng vào mắt, cay xè rát bỏng húp híp suốt cả tuần lễ!",
+      "cast": "ga_khong_lo"
+     },
+     {
+      "text": "[laughter] Đừng bao giờ nghĩ đến chuyện đánh lén từ sau lưng! Đuôi của Pháo Thủ Hóa Học được thiết kế như một tháp pháo xe tăng bọc thép có khớp cầu xoay linh hoạt tới hai trăm bảy mươi độ, thậm chí gần ba trăm sáu mươi độ! Kẻ thù tấn công từ đằng trước, đằng sau, bên trái hay trên lưng, con bọ chỉ cần bẻ cong nòng đuôi qua nách hoặc qua vai là bắn trúng đích chính xác tuyệt đối mà không cần quay cả thân mình!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Thậm chí các thử nghiệm với camera chụp ảnh chuyển động siêu chậm còn chứng minh: Mỗi xung nổ vi mô chỉ kéo dài từ hai đến ba mi-li-giây! Tốc độ phản xạ ngắm bắn và khai hỏa của gã pháo thủ tí hon này nhanh hơn cái chớp mắt của con người tới hàng chục lần!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "THỰC CHIẾN KOBE",
+    "banner_title": "THOÁT KHỎI DẠ DÀY CÓC 1 TIẾNG",
+    "chapter_title": "Thực chiến điên rồ: Bị cóc nuốt suốt 1 tiếng và màn nôn ọe tẩu thoát",
+    "hook": "THỬ THÁCH SỐNG SÓT BÊN TRONG DẠ DÀY CÓC KOBE",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Bây giờ, hãy mở hồ sơ thực chiến ngoạn mục nhất trong lịch sử sinh học, một thí nghiệm chấn động thế giới do hai nhà khoa học Shinji Sugiura và Takuya Sato thuộc Đại học Kobe Nhật Bản công bố vào năm hai ngàn không trăm mười tám. [surprise-oh] Họ muốn kiểm tra: Điều gì sẽ xảy ra nếu một con cóc khổng lồ nuốt chửng Bọ Pháo Thủ vào bụng?",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Loài cóc Nhật Bản nổi tiếng là kẻ phàm ăn bậc nhất, lưỡi dính phóng ra trong chớp mắt và nuốt chửng con mồi còn sống nguyên vào dạ dày ngập tràn axit tiêu hóa. Pháo Thủ Hóa Học bị chiếc lưỡi cóc cuốn chặt và trôi thẳng xuống đáy bao tử tối tăm!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Trời ơi cứu tôi với! Trong bụng tôi như có quả lựu đạn đang sôi ùng ục, nóng rát ruột gan không chịu nổi nữa rồi!",
+      "cast": "chu_ngo_ngac"
+     },
+     {
+      "text": "[laughter] Đúng như tiếng rên rỉ đau đớn của chú cóc! Bị nhốt trong dạ dày thiếu oxy và ngập axit, con bọ không hề chịu đầu hàng số phận. Nó bình tĩnh kích hoạt hệ thống pháo đuôi, liên tục nã đạn hóa chất sôi một trăm độ C và xả khí Ben-zô-qui-nôn cay nồng thẳng vào niêm mạc dạ dày con cóc!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Cuộc chiến nội tạng kéo dài từ mười lăm phút đến một trăm lẻ bảy phút, trung bình hơn bốn mươi phút đồng hồ! Cuối cùng, con cóc không thể chịu đựng nổi những đợt nổ bỏng rát liên tiếp trong bụng. Nó há to mồm, co thắt dạ dày dữ dội và... ọe một bãi nôn lớn ra mặt đất!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "[surprise-wa] Và từ trong đống dịch vị nhầy nhụa đó, Pháo Thủ Hóa Học lồm cồm bò ra ngoài, phủi sạch chân, giũ cánh và ung dung bước đi như chưa từng có chuyện gì xảy ra! Thống kê chấn động từ phòng thí nghiệm Kobe cho thấy: Có tới mười bốn trên mười sáu con bọ cỡ lớn đã thoát hiểm thành công, đạt tỷ lệ sống sót từ sáu mươi đến tám mươi phần trăm! Những con bọ này sau đó vẫn sống khỏe mạnh suốt nhiều tháng và tiếp tục sinh sản bình thường!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "ĐIỂM YẾU KỸ THUẬT",
+    "banner_title": "HẾT ĐẠN VÀ NGUY CƠ TỰ NỔ",
+    "chapter_title": "Điểm yếu kỹ thuật: Giới hạn kho đạn 20-30 phát và nguy cơ tự nổ tung",
+    "hook": "TỬ HUYỆT KHI CẠN KIỆT HÓA CHẤT TRONG KHO",
+    "mood": "bi_hai",
+    "parts": [
+     {
+      "text": "[sigh] Dù sở hữu hỏa lực tối tân như một khẩu pháo phản lực, nhưng trên đời này không có cỗ máy chiến tranh nào là hoàn hảo tuyệt đối. Mọi kỹ sư quân sự đều biết rằng: Sức mạnh càng hủy diệt thì cái giá phải trả càng đắt đỏ. Và điểm yếu chí mạng đầu tiên của Pháo Thủ Hóa Học chính là giới hạn của kho dự trữ đạn dược!",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Dung tích buồng chứa của con bọ dài hai xăng-ti-mét chỉ đủ hóa chất cho khoảng hai mươi đến ba mươi phát nổ liên thanh. Nếu gặp phải một đối thủ quá lì lợm hoặc bị bầy kiến lửa hàng ngàn con bao vây liên tục ép gã phải xả đạn không ngừng, con bọ sẽ rơi vào trạng thái cạn sạch kho đạn!",
+      "mood": "nghiem_trang_gia"
+     },
+     {
+      "text": "Thông báo từ trung tâm hậu cần: Kho đạn dự trữ đã cạn kiệt một trăm phần trăm! Cần tối thiểu hai mươi bốn tiếng để tổng hợp lại hóa chất!",
+      "cast": "phat_thanh_vien"
+     },
+     {
+      "text": "[laughter] Chuẩn xác như bản tin hậu cần! Sau khi bắn hết cơ số đạn, Pháo Thủ Hóa Học mất từ hai mươi bốn tiếng đến ba mươi sáu tiếng ăn uống cật lực để cơ thể tái tổng hợp lại đủ lượng Hy-đrô-qui-nôn và Hy-đrô pe-rô-xít. Trong suốt khoảng thời gian nạp đạn này, gã hoàn toàn trở thành một con bọ cánh cứng yếu ớt không tấc sắt trong tay!",
+      "mood": "bi_hai"
+     },
+     {
+      "text": "Chưa hết, gã béo tí hon này còn mang trên mình số phận của một thùng thuốc nổ di động! Nếu bị một kẻ thù to xác giẫm mạnh làm vỡ vách ngăn giữa hai buồng hóa chất khi van an toàn chưa kịp mở, phản ứng tỏa nhiệt sẽ xảy ra ngay bên trong cơ thể và nổ tung con bọ thành từng mảnh vụn! Sống bên cạnh cái chết mỗi ngày, đó là sự đánh đổi khắc nghiệt của tự nhiên.",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Bởi vậy, bài học sinh tồn đầu tiên của loài bọ này không phải là bắn bừa bãi, mà là ngắm thật kỹ, bắn thật chuẩn và chỉ khai hỏa khi thật sự bị dồn vào bước đường cùng!",
+      "mood": "nghiem_trang_gia"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "BÀI HỌC SINH TỒN",
+    "banner_title": "TUYỆT TÁC TIẾN HÓA VÀ TẬP SAU",
+    "chapter_title": "Tuyệt tác tiến hóa: Ứng dụng công nghệ và bóng đen tập sau",
+    "hook": "CÔNG NGHỆ BƠM PHUN PHẢN LỰC CHO TÀU VŨ TRỤ",
+    "mood": "am_ap",
+    "parts": [
+     {
+      "text": "Nhìn vào Pháo Thủ Hóa Học, các kỹ sư cơ khí hàng đầu thế giới đã học được những bài học vô giá. Cấu tạo van một chiều và cơ chế phun xung nhiệt độ cao của loài bọ này hiện đang được các nhà khoa học mô phỏng để chế tạo các loại bình xịt thuốc y tế hạt siêu mịn, hệ thống dập lửa cứu hỏa siêu tốc, và thậm chí là động cơ tái khởi động cho các tàu vũ trụ thế hệ mới!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Tự nhiên chính là người thầy vĩ đại nhất. Một sinh vật nhỏ bé bằng hạt lạc, không cần móng vuốt hay kích thước khổng lồ, chỉ cần kết hợp hài hòa giữa cấu trúc cơ khí tinh vi và hóa học chuẩn xác, đã có thể hiên ngang tồn tại suốt hàng triệu năm giữa muôn vàn kẻ săn mồi đẫm máu.",
+      "mood": "am_ap"
+     },
+     {
+      "text": "[surprise-oh] Bạn ấn tượng nhất với điều gì ở Pháo Thủ Hóa Học: Khả năng đun sôi hóa chất lên một trăm độ C trong tích tắc, hay màn thoát thân không tưởng sau một tiếng nằm trong dạ dày cóc? Hãy để lại bình luận chia sẻ cùng chúng tôi nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và bây giờ, hãy hướng ngòi bút về phân cảnh kết thúc bí ẩn! Trong tập tiếp theo, chúng ta sẽ rời khỏi thảm rừng ẩm ướt để tiến vào vùng sa mạc khô hạn bậc nhất hành tinh. [surprise-wa] Nơi đây có một bóng đen bí ẩn toàn thân phủ đầy gai nhọn sắc bén như bãi chông di động! Sinh vật kỳ dị này có siêu năng lực uống nước bằng chính da bàn chân qua hệ thống ống mao dẫn, có một chiếc đầu giả sau gáy để đánh lừa kẻ thù, và đặc biệt là vũ khí phòng vệ tối thượng: Bắn ra một tia máu đỏ lòm thẳng từ hốc mắt xa tới một mét để làm mù kẻ săn mồi! Đố bạn biết danh tính của quái kiệt sa mạc gai góc này là ai? Hãy để lại phán đoán của bạn bên dưới phần bình luận nhé!",
+      "mood": "tram_bi_an"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 53.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Bị cóc nuốt chửng vào dạ dày suốt một tiếng đồng hồ, con bọ nhỏ bé này đã làm gì để thoát thân còn sống nguyên vẹn? Đây là Bọ Pháo Thủ, gã tí hon dài chỉ hai xăng-ti-mét nhưng sở hữu khẩu đại bác hóa học đáng sợ nhất thế giới côn trùng! Bên trong bụng gã là hai buồng hóa chất riêng biệt chứa Hy-đrô-qui-nôn và Hy-đrô pe-rô-xít. Khi bị đe dọa, con bọ mở van xả hóa chất vào buồng đốt chứa enzyme xúc tác, đun sôi dung dịch lên đúng một trăm độ C và kích hoạt phản ứng nổ liên thanh năm trăm lần một giây! Tia hơi hóa chất sôi sùng sục và cay xé da bắn ra với vận tốc hai mươi mét một giây từ chiếc tháp pháo xoay hai trăm bảy mươi độ ở đuôi! Kể cả khi bị cóc nuốt vào bụng, Pháo Thủ Hóa Học vẫn bình tĩnh nã đạn liên tiếp trong dạ dày khiến con cóc đau đớn dữ dội và phải nôn ọe gã ra ngoài sau bốn mươi phút! Nhỏ bé nhưng sở hữu kỹ thuật cơ khí đỉnh cao, đó chính là bí thuật sinh tồn bất bại của Bọ Pháo Thủ!"
+ },
+ "seo": {
+  "title": "Bị Cóc Nuốt 1 Tiếng Vẫn Thoát Thân Nhờ Khẩu Pháo 100°C Nổ 500 Lần/Giây?! | Bọ Pháo Thủ | Tập 18",
+  "hook_paragraph": "Bọ Pháo Thủ (Bombardier Beetle) dài chỉ 2cm nhưng sở hữu hệ thống hai buồng hóa chất bắn ra tia hơi sôi 100°C với tần số nổ 500 lần/giây, tháp pháo xoay 270 độ và sống sót ngoạn mục sau 1 tiếng bị cóc nuốt vào dạ dày! Giải mã vũ khí hóa học tối mật của tự nhiên.",
+  "bullets": [
+   "Hồ sơ vũ khí: Pháo Thủ Hóa Học 2cm bắn tia hóa chất sôi 100°C",
+   "Bản vẽ cơ khí: Hệ thống 2 buồng phản ứng Hydroquinone và Hydrogen peroxide",
+   "Động cơ xung 500 Hz: Tốc độ nổ liên thanh vi mô như tên lửa V-1",
+   "Thực chiến Kobe 2018: Nã đạn trong dạ dày cóc suốt 1 tiếng và tẩu thoát",
+   "Gót chân Asin: Giới hạn kho đạn 20-30 phát và nguy cơ tự nổ",
+   "Bật mí bóng đen bí ẩn tập tiếp theo: Quái kiệt sa mạc bắn tia máu từ mắt"
+  ],
+  "question": "Bạn ấn tượng nhất với cơ chế đun sôi 100°C trong tích tắc hay màn thoát khỏi dạ dày cóc sau 1 tiếng của Bọ Pháo Thủ? Đoán xem bóng đen tập sau là loài nào nhé!",
+  "next_teaser": "quái kiệt sa mạc phủ đầy gai nhọn uống nước bằng chân và bắn tia máu từ mắt",
+  "hashtags": [
+   "#BoPhaoThu",
+   "#BombardierBeetle",
+   "#TheGioiDongVat",
+   "#VeChuyenHoangDa",
+   "#WhiteboardAnimation"
+  ],
+  "tags": [
+   "bọ pháo thủ",
+   "bo phao thu",
+   "bombardier beetle",
+   "vũ khí bọ pháo thủ",
+   "bọ pháo thủ thoát khỏi dạ dày cóc",
+   "bọ phun nước sôi",
+   "pháo thủ hóa học",
+   "động vật hài hước",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation việt nam",
+   "khoa học động vật"
+  ],
+  "shorts_title": "Bị Cóc Nuốt 1 Tiếng Vẫn Thoát Thân Nhờ Khẩu Pháo Sôi 100°C?! 💥 #shorts #bophaothu",
+  "shorts_desc": "Bọ Pháo Thủ dài 2cm nổ liên thanh 500 lần/giây xịt hơi sôi 100°C, bị cóc nuốt vào dạ dày suốt 1 tiếng vẫn nã đạn khiến cóc nôn ra bò đi bình an vô sự! Khám phá vũ khí côn trùng đỉnh cao.",
+  "shorts_tags": [
+   "bọ pháo thủ",
+   "bombardier beetle",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ],
+  "en_title": "Swallowed By A Toad For 1 Hour But Escapes With A 100°C Cannon?! | Bombardier Beetle | Ep 18",
+  "en_hook": "The Bombardier Beetle is barely 2cm long but packs a dual-chamber chemical pulsejet that shoots 100°C boiling toxic steam at 500 pulses per second! Discover the real science behind the insect that got swallowed by a toad and blasted its way out from inside the stomach!",
+  "en_chapters": [
+   "Secret weapon file: 2cm beetle with a 100°C chemical blast",
+   "Mechanical blueprint: binary reaction chambers & catalyst enzymes",
+   "Pulsejet engine: 500 Hz micro-explosions & 270° turret tail",
+   "The Kobe experiment: escaping a toad's stomach after 1 hour",
+   "Technical Achilles' heel: ammo limits & self-destruction risks",
+   "Evolutionary marvel: biomimicry tech & next episode teaser"
+  ],
+  "en_shorts_title": "Swallowed For 1 Hour But Blasts Out With A 100°C Cannon?! 💥 #shorts #bombardierbeetle"
+ }
+}

@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Whiteboard Animation Engine Stage</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      user-select: none;
+    }
+
+    body, html {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background-color: #F5EBD7;
+      font-family: system-ui, -apple-system, sans-serif;
+    }
+
+    #stage-container {
+      position: absolute;
+      width: 1920px;
+      height: 1080px;
+      left: 0;
+      top: 0;
+      background-color: #F5EBD7;
+      overflow: hidden;
+      transform-origin: 0 0;
+    }
+
+    #paper-background {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      left: 0;
+      top: 0;
+      background-image: url('../../assets/paper/warm-cream-texture.png');
+      background-size: cover;
+      opacity: 0.85;
+      pointer-events: none;
+      z-index: 1;
+    }
+
+    #svg-canvas {
+      position: absolute;
+      width: 1920px;
+      height: 1080px;
+      left: 0;
+      top: 0;
+      z-index: 2;
+    }
+
+    #hand-rig-layer {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 1920px;
+      height: 1080px;
+      pointer-events: none;
+      z-index: 10;
+    }
+
+    #hand-shadow-wrapper {
+      display: none !important;
+      position: absolute;
+      pointer-events: none;
+      transition: opacity 0.05s ease;
+    }
+
+    #hand-shadow-img {
+      position: absolute;
+      pointer-events: none;
+    }
+
+    #hand-sprite-wrapper {
+      position: absolute;
+      pointer-events: none;
+    }
+
+    #hand-sprite-img {
+      position: absolute;
+      pointer-events: none;
+    }
+
+    #subtitles-layer {
+      position: absolute;
+      bottom: 45px;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      z-index: 20;
+      pointer-events: none;
+    }
+
+    #subtitles-box {
+      background: rgba(38, 37, 35, 0.82);
+      color: #FFFDF8;
+      padding: 12px 28px;
+      border-radius: 28px;
+      font-size: 30px;
+      font-weight: 600;
+      max-width: 80%;
+      text-align: center;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+      backdrop-filter: blur(8px);
+      letter-spacing: 0.5px;
+      transition: opacity 0.15s ease;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div id="stage-container">
+    <div id="paper-background"></div>
+
+    <svg id="svg-canvas" viewBox="0 0 1920 1080">
+      <defs>
+        <!-- Filter for slight ink bleed / organic roughness -->
+        <filter id="ink-bleed" x="-10%" y="-10%" width="120%" height="120%">
+          <feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="2" result="noise" />
+          <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.5" xChannelSelector="R" yChannelSelector="G" />
+        </filter>
+      </defs>
+      <g id="camera-layer">
+        <g id="images-group"></g>
+        <g id="strokes-group" filter="url(#ink-bleed)"></g>
+        <g id="text-group"></g>
+      </g>
+    </svg>
+
+    <div id="hand-rig-layer">
+      <div id="hand-shadow-wrapper">
+        <img id="hand-shadow-img" src="../../assets/hands/hand-shadow.png" alt="Hand Shadow">
+      </div>
+      <div id="hand-sprite-wrapper">
+        <img id="hand-sprite-img" src="../../assets/hands/hand-marker-right.png" alt="Drawing Hand">
+      </div>
+    </div>
+
+    <div id="subtitles-layer">
+      <div id="subtitles-box"></div>
+    </div>
+  </div>
+
+  <script type="module">
+    // Anchor metadata from assets/hands/hand_metadata.json
+    const HAND_METADATA = {
+      width: 556,
+      height: 520,
+      anchor: { x: 22, y: 47 },
+      shadowAnchor: { x: 22, y: 47 },
+      defaultScale: 0.8
+    };
+
+    let stageData = null;
+    const pathElements = new Map();
+    const imageElements = new Map();
+    const clipRectElements = new Map();
+    const cameraLayer = document.getElementById('camera-layer');
+    const imagesGroup = document.getElementById('images-group');
+    const strokesGroup = document.getElementById('strokes-group');
+    const textGroup = document.getElementById('text-group');
+    const handRigLayer = document.getElementById('hand-rig-layer');
+    const handSpriteWrapper = document.getElementById('hand-sprite-wrapper');
+    const handSpriteImg = document.getElementById('hand-sprite-img');
+    const handShadowWrapper = document.getElementById('hand-shadow-wrapper');
+    const handShadowImg = document.getElementById('hand-shadow-img');
+    const subtitlesBox = document.getElementById('subtitles-box');
+
+    // Setup hand image size
+    const handW = HAND_METADATA.width * HAND_METADATA.defaultScale;
+    const handH = HAND_METADATA.height * HAND_METADATA.defaultScale;
+    const anchorX = HAND_METADATA.anchor.x * HAND_METADATA.defaultScale;
+    const anchorY = HAND_METADATA.anchor.y * HAND_METADATA.defaultScale;
+
+    handSpriteImg.style.width = `${handW}px`;
+    handSpriteImg.style.height = `${handH}px`;
+    handShadowImg.style.width = `${handW}px`;
+    handShadowImg.style.height = `${handH}px`;
+
+    function easeInOutSine(u) {
+      const clamped = Math.max(0, Math.min(1, u));
+      return -(Math.cos(Math.PI * clamped) - 1) / 2;
+    }
+
+    function easeInOutCubic(u) {
+      const c = Math.max(0, Math.min(1, u));
+      return c < 0.5 ? 4 * c * c * c : 1 - Math.pow(-2 * c + 2, 3) / 2;
+    }
+
+    function springEase(u) {
+      const c = Math.max(0, Math.min(1, u));
+      const omega = 5.5;
+      const zeta = 0.85;
+      const decay = Math.exp(-zeta * omega * c);
+      const osc = Math.cos(omega * Math.sqrt(1 - zeta * zeta) * c);
+      return 1 - decay * osc;
+    }
+
+    /**
+     * Initializes the stage with compiled strokes and camera tracks
+     */
+    window.initStage = function(data) {
+      stageData = data;
+      strokesGroup.innerHTML = '';
+      if (textGroup) textGroup.innerHTML = '';
+      if (imagesGroup) imagesGroup.innerHTML = '';
+      pathElements.clear();
+      imageElements.clear();
+      clipRectElements.clear();
+
+      const svgDefs = document.querySelector('svg defs');
+      if (svgDefs) {
+        const oldClips = svgDefs.querySelectorAll('.dynamic-clip');
+        oldClips.forEach(c => c.remove());
+      }
+
+      // Initialize Photo Reveal images
+      if (imagesGroup && stageData.allImages) {
+        for (const img of stageData.allImages) {
+          const clipId = 'clip_' + img.id;
+          if (svgDefs) {
+            const clipPath = document.createElementNS('http://www.w3.org/2000/svg', 'clipPath');
+            clipPath.setAttribute('id', clipId);
+            clipPath.setAttribute('class', 'dynamic-clip');
+
+            const clipRect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+            clipRect.setAttribute('x', `${img.x}`);
+            clipRect.setAttribute('y', `${img.y}`);
+            clipRect.setAttribute('width', `${img.width}`);
+            clipRect.setAttribute('height', '0');
+            clipPath.appendChild(clipRect);
+            svgDefs.appendChild(clipPath);
+            clipRectElements.set(img.id, clipRect);
+          }
+
+          const g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+          g.setAttribute('id', 'img_container_' + img.id);
+          if (svgDefs) {
+            g.setAttribute('clip-path', `url(#${clipId})`);
+          }
+          g.style.opacity = '0';
+          g.style.visibility = 'hidden';
+
+          const imgEl = document.createElementNS('http://www.w3.org/2000/svg', 'image');
+          imgEl.setAttribute('id', img.id);
+          imgEl.setAttribute('href', img.href);
+          imgEl.setAttribute('x', img.x);
+          imgEl.setAttribute('y', img.y);
+          imgEl.setAttribute('width', img.width);
+          imgEl.setAttribute('height', img.height);
+          g.appendChild(imgEl);
+
+          imagesGroup.appendChild(g);
+          imageElements.set(img.id, g);
+        }
+      }
+
+      for (const stroke of stageData.allStrokes) {
+        const pathEl = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+        pathEl.setAttribute('id', stroke.id);
+        pathEl.setAttribute('d', stroke.d);
+        pathEl.setAttribute('stroke', stroke.strokeColor);
+        pathEl.setAttribute('stroke-width', stroke.strokeWidth);
+        pathEl.setAttribute('fill', 'none');
+        pathEl.setAttribute('fill-rule', 'evenodd');
+        pathEl.setAttribute('stroke-linecap', 'round');
+        pathEl.setAttribute('stroke-linejoin', 'round');
+
+        // Initial state: hidden via dashoffset
+        const len = pathEl.getTotalLength ? pathEl.getTotalLength() : stroke.length;
+        stroke.computedLength = len;
+        pathEl.style.strokeDasharray = `${len}`;
+        pathEl.style.strokeDashoffset = `${len}`;
+        pathEl.style.visibility = 'hidden';
+
+        if (stroke.id.startsWith('text_') && textGroup) {
+          pathEl.style.opacity = '0';
+          textGroup.appendChild(pathEl);
+        } else {
+          strokesGroup.appendChild(pathEl);
+        }
+        pathElements.set(stroke.id, pathEl);
+      }
+
+      console.log(`[STAGE] Initialized with ${stageData.allStrokes.length} strokes.`);
+      return true;
+    };
+
+    /**
+     * Interpolates camera state at timeMs
+     */
+    function getCameraState(timeMs) {
+      const keyframes = stageData?.cameraKeyframes || [];
+      if (keyframes.length === 0) return { x: 960, y: 540, scale: 1.0, isMoving: false };
+      if (keyframes.length === 1 || timeMs <= keyframes[0].timeMs) {
+        return { x: keyframes[0].x, y: keyframes[0].y, scale: keyframes[0].scale, isMoving: false };
+      }
+      if (timeMs >= keyframes[keyframes.length - 1].timeMs) {
+        const last = keyframes[keyframes.length - 1];
+        return { x: last.x, y: last.y, scale: last.scale, isMoving: false };
+      }
+
+      for (let i = 0; i < keyframes.length - 1; i++) {
+        const k1 = keyframes[i];
+        const k2 = keyframes[i + 1];
+        if (timeMs >= k1.timeMs && timeMs <= k2.timeMs) {
+          const dt = Math.max(1, k2.timeMs - k1.timeMs);
+          const u = (timeMs - k1.timeMs) / dt;
+          let factor = (k2.easing === 'spring') ? springEase(u) : easeInOutCubic(u);
+          const x = k1.x + (k2.x - k1.x) * factor;
+          const y = k1.y + (k2.y - k1.y) * factor;
+          const scale = k1.scale + (k2.scale - k1.scale) * factor;
+          const speed = (Math.hypot(k2.x - k1.x, k2.y - k1.y) / dt) * 1000;
+          return { x, y, scale, isMoving: speed > 15 };
+        }
+      }
+      return { x: 960, y: 540, scale: 1.0, isMoving: false };
+    }
+
+    /**
+     * Calculates Hand Rig position, rotation, and lift arc
+     */
+    function getHandPose(timeMs) {
+      const strokes = stageData?.allStrokes || [];
+      if (strokes.length === 0) return { visible: false };
+
+      for (let i = 0; i < strokes.length; i++) {
+        const s = strokes[i];
+        if (timeMs >= s.startMs && timeMs <= s.endMs) {
+          const pathEl = pathElements.get(s.id);
+          const duration = Math.max(1, s.endMs - s.startMs);
+          const u = (timeMs - s.startMs) / duration;
+          const progress = easeInOutSine(u);
+          const currentLen = progress * s.computedLength;
+
+          let pt = { x: s.startPoint.x, y: s.startPoint.y };
+          let angleRad = 0;
+
+          if (pathEl && pathEl.getPointAtLength) {
+            const p = pathEl.getPointAtLength(currentLen);
+            pt = { x: p.x, y: p.y };
+            const delta = Math.min(4, Math.max(1, s.computedLength * 0.05));
+            const pBefore = pathEl.getPointAtLength(Math.max(0, currentLen - delta));
+            const pAfter = pathEl.getPointAtLength(Math.min(s.computedLength, currentLen + delta));
+            angleRad = Math.atan2(pAfter.y - pBefore.y, pAfter.x - pBefore.x);
+          }
+
+          const rawWristAngle = Math.sin(angleRad) * 8 + Math.cos(angleRad * 2) * 3;
+          const wristAngleDeg = Math.max(-12, Math.min(12, rawWristAngle));
+
+          return {
+            visible: true,
+            x: pt.x,
+            y: pt.y,
+            angleDeg: wristAngleDeg,
+            liftProgress: 0,
+            scale: 1.0,
+            shadowOffset: { x: 8, y: 12 },
+            isDrawing: true,
+            tipVelocity: (s.computedLength / duration) * 1000
+          };
+        }
+
+        // Lift transition between stroke i and stroke i + 1
+        if (i < strokes.length - 1) {
+          const nextStroke = strokes[i + 1];
+          if (timeMs > s.endMs && timeMs < nextStroke.startMs) {
+            const gapMs = nextStroke.startMs - s.endMs;
+            if (gapMs > 800) {
+              const pauseTime = timeMs - s.endMs;
+              if (pauseTime < 300) {
+                const uRetract = easeInOutSine(pauseTime / 300);
+                return {
+                  visible: true,
+                  x: s.endPoint.x + uRetract * 100,
+                  y: s.endPoint.y + uRetract * 350,
+                  angleDeg: 12 * uRetract,
+                  liftProgress: 1,
+                  scale: 1.0,
+                  shadowOffset: { x: 8 + 25 * uRetract, y: 12 + 35 * uRetract },
+                  isDrawing: false,
+                  tipVelocity: 120
+                };
+              }
+              const approachTime = nextStroke.startMs - timeMs;
+              if (approachTime < 250) {
+                const uApproach = easeInOutSine(approachTime / 250);
+                return {
+                  visible: true,
+                  x: nextStroke.startPoint.x + uApproach * 80,
+                  y: nextStroke.startPoint.y + uApproach * 250,
+                  angleDeg: 8 * uApproach,
+                  liftProgress: uApproach,
+                  scale: 1.0,
+                  shadowOffset: { x: 8 + 18 * uApproach, y: 12 + 25 * uApproach },
+                  isDrawing: false,
+                  tipVelocity: 100
+                };
+              }
+              return { visible: false };
+            }
+
+            const uLift = easeInOutSine((timeMs - s.endMs) / gapMs);
+            const liftArc = Math.sin(Math.PI * uLift);
+            const pEnd = s.endPoint;
+            const pStart = nextStroke.startPoint;
+            const ctrlX = (pEnd.x + pStart.x) / 2;
+            const ctrlY = Math.min(pEnd.y, pStart.y) - 40 * liftArc;
+
+            const x = (1 - uLift) * (1 - uLift) * pEnd.x + 2 * (1 - uLift) * uLift * ctrlX + uLift * uLift * pStart.x;
+            const y = (1 - uLift) * (1 - uLift) * pEnd.y + 2 * (1 - uLift) * uLift * ctrlY + uLift * uLift * pStart.y;
+
+            return {
+              visible: true,
+              x: x + 10 * liftArc,
+              y: y - 16 * liftArc,
+              angleDeg: -6 * liftArc,
+              liftProgress: liftArc,
+              scale: 1.0 + 0.035 * liftArc,
+              shadowOffset: { x: 8 + 18 * liftArc, y: 12 + 24 * liftArc },
+              isDrawing: false,
+              tipVelocity: 60
+            };
+          }
+        }
+      }
+
+      return { visible: false };
+    }
+
+    /**
+     * Deterministic rendering at exact millisecond timeMs
+     */
+    window.renderFrameAt = function(timeMs) {
+      if (!stageData) return { ready: false };
+
+      // 1. Update Camera
+      const cam = getCameraState(timeMs);
+      const cx = cam.x;
+      const cy = cam.y;
+      const s = cam.scale;
+      // Camera transform centering on (960, 540)
+      cameraLayer.setAttribute('transform', `translate(960, 540) scale(${s}) translate(${-cx}, ${-cy})`);
+
+      // 1.5 Update Images (Photo-Reveal)
+      if (stageData.allImages) {
+        for (const img of stageData.allImages) {
+          const g = imageElements.get(img.id);
+          const clipRect = clipRectElements.get(img.id);
+          if (!g) continue;
+          if (timeMs < img.startMs) {
+            g.style.visibility = 'hidden';
+            g.style.opacity = '0';
+            if (clipRect) clipRect.setAttribute('height', '0');
+          } else if (timeMs >= img.endMs) {
+            g.style.visibility = 'visible';
+            g.style.opacity = '1';
+            if (clipRect) clipRect.setAttribute('height', `${img.height + 20}`);
+          } else {
+            g.style.visibility = 'visible';
+            const u = (timeMs - img.startMs) / Math.max(1, img.endMs - img.startMs);
+            const progress = easeInOutSine(u);
+            g.style.opacity = `${Math.min(1.0, 0.3 + progress * 0.8)}`;
+            if (clipRect) {
+              const currentH = Math.min(img.height + 20, Math.max(20, (progress * 1.05) * img.height + 40));
+              clipRect.setAttribute('height', `${currentH}`);
+            }
+          }
+        }
+      }
+
+      // 2. Update Strokes
+      for (const stroke of stageData.allStrokes) {
+        const pathEl = pathElements.get(stroke.id);
+        if (!pathEl) continue;
+
+        if (timeMs < stroke.startMs) {
+          pathEl.style.visibility = 'hidden';
+          pathEl.style.strokeDashoffset = `${stroke.computedLength}`;
+          if (stroke.id.startsWith('text_')) {
+            pathEl.setAttribute('fill', 'none');
+            pathEl.style.opacity = '0';
+          }
+        } else if (timeMs >= stroke.endMs) {
+          pathEl.style.visibility = 'visible';
+          pathEl.style.strokeDashoffset = '0';
+          if (stroke.id.startsWith('text_')) {
+            pathEl.setAttribute('fill', stroke.strokeColor);
+            pathEl.setAttribute('fill-opacity', '1');
+            pathEl.style.opacity = '1';
+          }
+        } else {
+          pathEl.style.visibility = 'visible';
+          const u = (timeMs - stroke.startMs) / Math.max(1, stroke.endMs - stroke.startMs);
+          const progress = easeInOutSine(u);
+          pathEl.style.strokeDashoffset = `${stroke.computedLength * (1 - progress)}`;
+          if (stroke.id.startsWith('text_')) {
+            pathEl.style.opacity = '1';
+            pathEl.setAttribute('fill', stroke.strokeColor);
+            pathEl.setAttribute('fill-opacity', `${Math.min(1.0, progress * 1.5)}`);
+          }
+        }
+      }
+
+      // 3. Update Hand Rig
+      const hand = getHandPose(timeMs);
+      if (!hand.visible || cam.isMoving) {
+        handSpriteWrapper.style.display = 'none';
+        handShadowWrapper.style.display = 'none';
+      } else {
+        handSpriteWrapper.style.display = 'block';
+        handShadowWrapper.style.display = 'none';
+
+        // Apply camera transformation to hand tip position (canvas coordinates -> screen coordinates)
+        const screenX = 960 + (hand.x - cx) * s;
+        const screenY = 540 + (hand.y - cy) * s;
+        const netScale = hand.scale * (s < 0.9 ? s : 1.0);
+
+        // Position hand sprite wrapper
+        handSpriteWrapper.style.left = `${screenX - anchorX}px`;
+        handSpriteWrapper.style.top = `${screenY - anchorY}px`;
+        handSpriteWrapper.style.transformOrigin = `${anchorX}px ${anchorY}px`;
+        handSpriteWrapper.style.transform = `rotate(${hand.angleDeg}deg) scale(${netScale})`;
+
+        // Position hand shadow
+        const shadowX = screenX + hand.shadowOffset.x * s;
+        const shadowY = screenY + hand.shadowOffset.y * s;
+        handShadowWrapper.style.left = `${shadowX - anchorX}px`;
+        handShadowWrapper.style.top = `${shadowY - anchorY}px`;
+        handShadowWrapper.style.transformOrigin = `${anchorX}px ${anchorY}px`;
+        handShadowWrapper.style.transform = `rotate(${hand.angleDeg}deg) scale(${netScale * 1.02})`;
+        handShadowWrapper.style.opacity = `${0.45 * (1.0 - hand.liftProgress * 0.25)}`;
+      }
+
+      // 4. Update Subtitles
+      const subs = stageData.subtitles || [];
+      let activeSub = null;
+      for (const sub of subs) {
+        if (timeMs >= sub.startMs && timeMs <= sub.endMs) {
+          activeSub = sub;
+          break;
+        }
+      }
+
+      if (activeSub) {
+        subtitlesBox.innerText = activeSub.text;
+        subtitlesBox.style.display = 'block';
+      } else {
+        subtitlesBox.style.display = 'none';
+      }
+
+      return {
+        timeMs,
+        handX: hand.x || 0,
+        handY: hand.y || 0,
+        z: hand.liftProgress ?? 1.0,
+        v: hand.tipVelocity || 0,
+        isDrawing: !!hand.isDrawing,
+        cameraMoving: cam.isMoving
+      };
+    };
+  </script>
+</body>
+</html>

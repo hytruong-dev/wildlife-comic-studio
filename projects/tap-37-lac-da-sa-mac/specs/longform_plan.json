@@ -1,0 +1,645 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "BÀI TOÁN SỐC NHIỆT VÀ MẤT NƯỚC NĂM MƯƠI ĐỘ C",
+   "hook": "Bệnh nhân lạc đà bình thản bước qua chảo lửa tử thần",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tiếp nhận một bệnh nhân vô cùng kỳ lạ",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chảo lửa 50°C",
+     "image": "assets/long/L03.png",
+     "stickers": [
+      {
+       "at": "50°C",
+       "side": "R",
+       "y": 360,
+       "value": "50°C",
+       "label": "chảo lửa sa mạc",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "2 tuần ròng rã",
+     "image": "assets/long/L04.png",
+     "stickers": [
+      {
+       "at": "2 tuần",
+       "side": "L",
+       "y": 400,
+       "value": "2 TUẦN",
+       "label": "nhịn nước liên tục",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "huyết áp ổn định tuyệt đối",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "mang tên khoa học Camelus dromedarius",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Cỗ Máy Lọc Nước Sa Mạc",
+     "image": "assets/long/L07.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "rơi vào trạng thái sốc nhiệt",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "48 giờ đồng hồ",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "48 giờ",
+       "side": "R",
+       "y": 380,
+       "value": "48 GIỜ",
+       "label": "giới hạn người tử vong",
+       "target": [
+        0.68,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "15% lượng nước trong cơ thể",
+     "image": "assets/long/L10.png",
+     "stickers": [
+      {
+       "at": "15%",
+       "side": "L",
+       "y": 390,
+       "value": "15%",
+       "label": "người ngừng đập",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "mất tới 30%",
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "30%",
+       "side": "R",
+       "y": 370,
+       "value": "30%",
+       "label": "lạc đà chịu tải",
+       "target": [
+        0.65,
+        0.45
+       ]
+      },
+      {
+       "at": "40%",
+       "side": "L",
+       "y": 420,
+       "value": "40%",
+       "label": "giới hạn tối đa",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "mở tập hồ sơ bệnh án số một",
+     "image": "assets/long/L12.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "CA CẤP CỨU"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "CHIẾC BƯỚU MỠ NĂNG LƯỢNG CHỨ KHÔNG PHẢI TÚI NƯỚC",
+   "hook": "Giải mã lầm tưởng kinh điển về kho chứa nước trên lưng",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L13.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bồn chứa nước di động khổng lồ",
+     "image": "assets/long/L14.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chụp cộng hưởng từ và sinh thiết",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nặng tới 40 kg",
+     "image": "assets/long/L16.png",
+     "stickers": [
+      {
+       "at": "40 kg",
+       "side": "R",
+       "y": 370,
+       "value": "40 KG",
+       "label": "khối lượng bướu mỡ",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "sinh tồn suốt cả tháng trời",
+     "image": "assets/long/L17.png",
+     "stickers": [
+      {
+       "at": "cả tháng trời",
+       "side": "L",
+       "y": 390,
+       "value": "30 NGÀY",
+       "label": "nhịn ăn liên tục",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "tại sao mỡ lại tập trung hết lên lưng",
+     "image": "assets/long/L18.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "phân bố đều dưới da",
+     "image": "assets/long/L19.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nấu chín từ bên trong",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "gom toàn bộ lượng mỡ cách nhiệt",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhiệt lượng tỏa thẳng ra môi trường",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "oxy hóa chất béo diễn ra",
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tự cấp ẩm cho từng tế bào",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BỆNH ÁN SỐ 1"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "TẾ BÀO HỒNG CẦU HÌNH OVAL CO GIÃN VÔ HẠN",
+   "hook": "Tuyệt tác tế bào học chống vỡ tan và chống đông máu",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hình đĩa lõm hai mặt tròn trịa",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hồng cầu của lạc đà lại có hình oval",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đặc quánh lại như si-rô",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "uống một lượng nước khổng lồ",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "130 lít nước",
+     "image": "assets/long/L30.png",
+     "stickers": [
+      {
+       "at": "130 lít nước",
+       "side": "R",
+       "y": 360,
+       "value": "130 LÍT",
+       "label": "uống trong tích tắc",
+       "target": [
+        0.65,
+        0.45
+       ]
+      },
+      {
+       "at": "15 phút",
+       "side": "L",
+       "y": 420,
+       "value": "15 PHÚT",
+       "label": "thời gian uống",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "ngộ độc nước sẽ xảy ra tức khắc",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "phồng to gấp 240%",
+     "image": "assets/long/L32.png",
+     "stickers": [
+      {
+       "at": "240%",
+       "side": "R",
+       "y": 370,
+       "value": "240%",
+       "label": "độ giãn nở hồng cầu",
+       "target": [
+        0.68,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "những quả bóng bay co giãn vô hạn",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thể tích máu của nó có thể tăng vọt gấp đôi",
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "lớp cơ trơn đàn hồi siêu đẳng",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hồ chứa di động đàn hồi vô song",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BỆNH ÁN SỐ 2"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "QUẢ THẬN SIÊU LỌC CÔ ĐẶC NƯỚC TIỂU THÀNH SI-RÔ",
+   "hook": "Hệ thống tái hấp thu nước hiệu suất chín mươi chín phần trăm",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "quai Henle dài gấp nhiều lần",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vắt kiệt từng phân tử nước",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "sánh đặc như si-rô đặc quẹt",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chất thải rắn của bệnh nhân khô khốc",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "khô cong như những viên sỏi gỗ",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hiệu suất tái sử dụng lên tới 99%",
+     "image": "assets/long/L43.png",
+     "stickers": [
+      {
+       "at": "99%",
+       "side": "R",
+       "y": 380,
+       "value": "99%",
+       "label": "tái hấp thu nước",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "nhà máy xử lý nước tuần hoàn",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cấu trúc ba ngăn chuyên biệt",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cây xương rồng sa mạc",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "niêm mạc không hề bị xước xát",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BỆNH ÁN SỐ 3"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "ỐNG THỞ NGƯNG TỤ HƠI NƯỚC VÀ LỖ MŨI VAN MỘT CHIỀU",
+   "hook": "Hệ thống làm mát điều hòa và khóa bụi cát sa mạc",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Mỗi hơi thở ra của con người",
+     "image": "assets/long/L49.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vách xoắn ốc cuộn nhiều tầng",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ngưng tụ hơi nước lại lập tức",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tái hấp thu vào máu",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bụi cát có tràn vào phổi",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cơ vòng van một chiều",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hàng mi dày hai tầng",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "dao động linh hoạt từ 34°C",
+     "image": "assets/long/L56.png",
+     "stickers": [
+      {
+       "at": "34°C",
+       "side": "L",
+       "y": 380,
+       "value": "34°C",
+       "label": "thân nhiệt ban đêm",
+       "target": [
+        0.35,
+        0.45
+       ]
+      },
+      {
+       "at": "41°C",
+       "side": "R",
+       "y": 380,
+       "value": "41°C",
+       "label": "thân nhiệt trưa hè",
+       "target": [
+        0.65,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "hoàn toàn không cần đổ mồ hôi",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hệ thống điều hòa sinh học",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "hòa làm một với nhịp điệu nhiệt độ",
+     "image": "assets/long/L59.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BỆNH ÁN SỐ 4"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "TINH HOA Y HỌC PHỎNG SINH HỌC GIỮA BIỂN CÁT",
+   "hook": "Bài học sinh tồn vĩ đại cho tương lai loài người",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L60.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "ký giấy xuất viện cho bệnh nhân",
+     "image": "assets/long/L61.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "đỉnh cao của công nghệ phỏng sinh học",
+     "image": "assets/long/L62.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "nhà khoa học NASA",
+     "image": "assets/long/L63.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bậc thầy sinh tồn vĩ đại của tự nhiên",
+     "image": "assets/long/L64.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "thong dong sải bước trên những đồi cát",
+     "image": "assets/long/L65.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "cỗ máy sinh học tinh vi bậc nhất",
+     "image": "assets/long/L66.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "giải pháp y sinh nào làm bạn kinh ngạc nhất",
+     "image": "assets/long/L67.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bình luận bên dưới nhé",
+     "image": "assets/long/L68.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "bấm đăng ký kênh để đón xem Tập 38",
+     "image": "assets/long/L69.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chuyến hành trình khám phá những kỳ quan sinh học",
+     "image": "assets/long/L70.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "XUẤT VIỆN"
+  }
+ }
+}

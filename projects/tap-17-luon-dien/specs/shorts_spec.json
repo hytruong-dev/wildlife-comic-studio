@@ -1,0 +1,487 @@
+{
+ "episode": "tap-17-luon-dien",
+ "title_lines": [
+  "860 VÔN GIẬT CÁ SẤU?!",
+  "VÌ SAO KHÔNG TỰ GIẬT?"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 49.3,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-17-luon-dien_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  4.77,
+  9.39,
+  12.23,
+  16.33,
+  20.47,
+  23.81,
+  29.69,
+  34.11,
+  39.59,
+  43.37,
+  46.91
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.74,
+     "text": "Trợ lý,"
+    },
+    {
+     "t": 1.4,
+     "text": "tăng điện áp"
+    },
+    {
+     "t": 1.96,
+     "text": "lên mức tối đa!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 2.97,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [
+    {
+     "t": 4.9,
+     "side": "L",
+     "y": 620,
+     "value": "860V",
+     "label": "GIẬT NGẤT CÁ SẤU",
+     "target": [
+      0.5,
+      0.45
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 3.22,
+     "text": "Một sinh vật"
+    },
+    {
+     "t": 3.8,
+     "text": "có thể phóng"
+    },
+    {
+     "t": 4.36,
+     "text": "ra dòng điện"
+    },
+    {
+     "t": 4.9,
+     "text": "860V giật ngất"
+    },
+    {
+     "t": 6.4,
+     "text": "ngây cả cá"
+    },
+    {
+     "t": 7.04,
+     "text": "sấu 2m,"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 7.59,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 7.84,
+     "text": "nhưng tại sao"
+    },
+    {
+     "t": 8.44,
+     "text": "chính nó lại"
+    },
+    {
+     "t": 9.0,
+     "text": "không bị giật"
+    },
+    {
+     "t": 9.52,
+     "text": "chết lăn quay?"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 10.43,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 10.68,
+     "text": "Đó chính là"
+    },
+    {
+     "t": 11.26,
+     "text": "Lươn Điện,"
+    },
+    {
+     "t": 12.14,
+     "text": "nhà máy điện"
+    },
+    {
+     "t": 12.68,
+     "text": "sống khét tiếng"
+    },
+    {
+     "t": 13.36,
+     "text": "của rừng rậm"
+    },
+    {
+     "t": 13.9,
+     "text": "Nam Mỹ."
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 14.53,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [
+    {
+     "t": 14.9,
+     "side": "L",
+     "y": 640,
+     "value": "80% PIN",
+     "label": "6.000 TẾ BÀO ĐIỆN",
+     "target": [
+      0.5,
+      0.48
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 14.78,
+     "text": "Hơn 80%"
+    },
+    {
+     "t": 15.54,
+     "text": "cơ thể của"
+    },
+    {
+     "t": 16.08,
+     "text": "nó là 6.000"
+    },
+    {
+     "t": 17.0,
+     "text": "tế bào pin"
+    },
+    {
+     "t": 17.44,
+     "text": "sinh học nối"
+    },
+    {
+     "t": 18.06,
+     "text": "tiếp nhau,"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 18.67,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [
+    {
+     "t": 19.78,
+     "side": "R",
+     "y": 740,
+     "value": "GẤP 4 LẦN",
+     "label": "Ổ CẮM 220V",
+     "target": [
+      0.55,
+      0.55
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 18.92,
+     "text": "tích tụ điện"
+    },
+    {
+     "t": 19.42,
+     "text": "thế mạnh gấp"
+    },
+    {
+     "t": 20.0,
+     "text": "4 lần ổ"
+    },
+    {
+     "t": 20.64,
+     "text": "cắm điện gia đình!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 22.01,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [
+    {
+     "t": 23.68,
+     "side": "L",
+     "y": 630,
+     "value": "HACK NÃO",
+     "label": "ÉP CO GIẬT TỪ XA",
+     "target": [
+      0.5,
+      0.46
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 22.26,
+     "text": "Khi săn mồi,"
+    },
+    {
+     "t": 23.3,
+     "text": "nó phóng xung"
+    },
+    {
+     "t": 23.8,
+     "text": "điện kép"
+    },
+    {
+     "t": 24.46,
+     "text": "hack thẳng vào"
+    },
+    {
+     "t": 24.98,
+     "text": "hệ thần kinh"
+    },
+    {
+     "t": 25.62,
+     "text": "ép cơ bắp"
+    },
+    {
+     "t": 26.1,
+     "text": "con mồi co"
+    },
+    {
+     "t": 26.56,
+     "text": "giật làm lộ"
+    },
+    {
+     "t": 27.38,
+     "text": "vị trí,"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 27.89,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [
+    {
+     "t": 28.68,
+     "side": "R",
+     "y": 650,
+     "value": "DÍ CẰM",
+     "label": "TRUYỀN TRỰC TIẾP",
+     "target": [
+      0.55,
+      0.5
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 28.14,
+     "text": "rồi tung cú"
+    },
+    {
+     "t": 28.68,
+     "text": "nhảy dí cằm"
+    },
+    {
+     "t": 29.44,
+     "text": "trực tiếp truyền"
+    },
+    {
+     "t": 29.96,
+     "text": "trọn nguồn điện"
+    },
+    {
+     "t": 30.58,
+     "text": "cực mạnh vào"
+    },
+    {
+     "t": 31.26,
+     "text": "tim kẻ thù!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 32.31,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [
+    {
+     "t": 34.64,
+     "side": "L",
+     "y": 640,
+     "value": "CÁCH ĐIỆN",
+     "label": "BẢO VỆ NỘI TẠNG",
+     "target": [
+      0.5,
+      0.48
+     ]
+    }
+   ],
+   "captions": [
+    {
+     "t": 32.56,
+     "text": "Nhưng sở dĩ"
+    },
+    {
+     "t": 33.06,
+     "text": "nó không bị"
+    },
+    {
+     "t": 33.44,
+     "text": "giật chết là"
+    },
+    {
+     "t": 34.1,
+     "text": "nhờ lớp mỡ"
+    },
+    {
+     "t": 34.64,
+     "text": "cách điện dày"
+    },
+    {
+     "t": 35.2,
+     "text": "cộp, toàn bộ"
+    },
+    {
+     "t": 36.22,
+     "text": "nội tạng dồn"
+    },
+    {
+     "t": 37.04,
+     "text": "hết lên đầu,"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 37.79,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 38.04,
+     "text": "và dòng điện"
+    },
+    {
+     "t": 38.5,
+     "text": "luôn chọn thoát"
+    },
+    {
+     "t": 39.22,
+     "text": "ra môi trường"
+    },
+    {
+     "t": 39.72,
+     "text": "nước có điện"
+    },
+    {
+     "t": 40.22,
+     "text": "trở thấp hơn!"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 41.57,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 41.82,
+     "text": "Vậy là bí"
+    },
+    {
+     "t": 42.48,
+     "text": "mật đã sáng"
+    },
+    {
+     "t": 42.96,
+     "text": "tỏ: một tuyệt"
+    },
+    {
+     "t": 43.9,
+     "text": "tác thiết kế"
+    },
+    {
+     "t": 44.48,
+     "text": "của tự nhiên,"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 45.11,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 45.36,
+     "text": "biến thịt da"
+    },
+    {
+     "t": 45.82,
+     "text": "thành vũ khí"
+    },
+    {
+     "t": 46.42,
+     "text": "sốc điện tối"
+    },
+    {
+     "t": 46.98,
+     "text": "thượng mà không"
+    },
+    {
+     "t": 47.9,
+     "text": "hề tự thiêu"
+    },
+    {
+     "t": 48.48,
+     "text": "rụi chính mình!"
+    }
+   ]
+  }
+ ]
+}

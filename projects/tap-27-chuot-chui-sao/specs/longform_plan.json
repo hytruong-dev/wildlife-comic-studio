@@ -1,0 +1,658 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "00 SÁNG: MỞ MÀN CUỘC ĐUA SINH TỒN VÀ CHIẾC MŨI QUÁI VẬT NGOÀI HÀNH TINH",
+   "hook": "",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "tiếng đồng hồ tích tắc",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Một cỗ máy khoan đất",
+     "image": "assets/long/L03.png",
+     "stickers": [
+      {
+       "at": "50g",
+       "side": "L",
+       "y": 350,
+       "value": "NẶNG 50G",
+       "label": "cỗ máy khoan đất",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "dài chưa đầy",
+     "image": "assets/long/L04.png",
+     "stickers": [
+      {
+       "at": "15-20cm",
+       "side": "R",
+       "y": 350,
+       "value": "15-20 CM",
+       "label": "kích thước cơ thể",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo phóng viên",
+     "image": "assets/long/L05.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quý vị khán giả",
+     "image": "assets/long/L06.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hai mắt của nó",
+     "image": "assets/long/L07.png",
+     "stickers": [
+      {
+       "at": "22 xúc tu",
+       "side": "R",
+       "y": 350,
+       "value": "22 XÚC TU",
+       "label": "mũi hình hoa sao",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Trong bản tin trực",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Điều gì đã khiến",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "Guinness",
+       "side": "L",
+       "y": 350,
+       "value": "GUINNESS",
+       "label": "kỷ lục thế giới",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Hãy cùng trường quay",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "06:00 SÁNG"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "00 TRƯA: KỶ LỤC GUINNESS 120 MILI-GIÂY VÀ 25.000 THỤ THỂ EIMER",
+   "hook": "ĂN MỒI NHANH HƠN CHỚP MẮT: 120 MILI-GIÂY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L11.png",
+     "stickers": [
+      {
+       "at": "1.000",
+       "side": "R",
+       "y": 350,
+       "value": "1.000 FPS",
+       "label": "máy quay siêu tốc",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Giáo sư Kenneth Catania",
+     "image": "assets/long/L12.png",
+     "stickers": [
+      {
+       "at": "Vanderbilt",
+       "side": "L",
+       "y": 350,
+       "value": "VANDERBILT",
+       "label": "Đại học danh tiếng",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "thời gian trung bình",
+     "image": "assets/long/L13.png",
+     "stickers": [
+      {
+       "at": "120 mili-giây",
+       "side": "R",
+       "y": 350,
+       "value": "120 MS",
+       "label": "thời gian ăn mồi",
+       "target": [
+        0.65,
+        0.45
+       ]
+      },
+      {
+       "at": "0,12 giây",
+       "side": "L",
+       "y": 480,
+       "value": "0,12 GIÂY",
+       "label": "kỷ lục Guinness",
+       "target": [
+        0.32,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Quý vị có biết",
+     "image": "assets/long/L14.png",
+     "stickers": [
+      {
+       "at": "300-400 mili-giây",
+       "side": "L",
+       "y": 350,
+       "value": "300-400 MS",
+       "label": "một cái chớp mắt",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí bộ não",
+     "image": "assets/long/L15.png",
+     "stickers": [
+      {
+       "at": "8 mili-giây",
+       "side": "R",
+       "y": 350,
+       "value": "8 MS",
+       "label": "phân tích não bộ",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bí mật đằng sau",
+     "image": "assets/long/L16.png",
+     "stickers": [
+      {
+       "at": "25.000",
+       "side": "R",
+       "y": 350,
+       "value": "25.000 THỂ",
+       "label": "thụ thể Eimer",
+       "target": [
+        0.68,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "được nuôi dưỡng bởi",
+     "image": "assets/long/L17.png",
+     "stickers": [
+      {
+       "at": "100.000",
+       "side": "L",
+       "y": 350,
+       "value": "100.000",
+       "label": "gấp 6 lần tay người",
+       "target": [
+        0.3,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi đi săn trong",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "12 vị trí",
+       "side": "R",
+       "y": 350,
+       "value": "12 ĐIỂM/S",
+       "label": "tần số chạm mũi",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Mười cặp xúc tu",
+     "image": "assets/long/L19.png",
+     "stickers": [
+      {
+       "at": "số 11",
+       "side": "L",
+       "y": 350,
+       "value": "CẶP SỐ 11",
+       "label": "kiểm tra vi mô",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chẳng một hạt cát,",
+     "image": "assets/long/L20.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không những thế, bộ",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "kết hợp với tuyến",
+     "image": "assets/long/L22.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "12:00 TRƯA"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "00 HOÀNG HÔN: LẶN SUỐI DƯỚI BĂNG VÀ TUYỆT KỸ NGỬI MÙI BẰNG BONG BÓNG",
+   "hook": "ĐỘNG VẬT CÓ VÚ DUY NHẤT NGỬI MÙI DƯỚI NƯỚC",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L23.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tia Chớp Lòng Đất của chúng ta",
+     "image": "assets/long/L24.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hai bàn chân trước",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng điều làm chấn",
+     "image": "assets/long/L26.png",
+     "stickers": [
+      {
+       "at": "2006",
+       "side": "L",
+       "y": 350,
+       "value": "NATURE '06",
+       "label": "phát hiện chấn động",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo hiện trường:",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Quý vị đang chứng",
+     "image": "assets/long/L28.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó thổi những bong bóng",
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tần số thổi và",
+     "image": "assets/long/L30.png",
+     "stickers": [
+      {
+       "at": "5-10 lần",
+       "side": "R",
+       "y": 350,
+       "value": "5-10 LẦN/S",
+       "label": "thổi hít bong bóng",
+       "target": [
+        0.65,
+        0.48
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ chiếc máy thở",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thậm chí vào mùa",
+     "image": "assets/long/L32.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nhà vật lý",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "18:00 HOÀNG HÔN"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "00 NỬA ĐÊM: CẶP XÚC TU SỐ 11 VÀ BẢN ĐỒ XÚC GIÁC CHIẾM TRỌN VỎ NÃO",
+   "hook": "BẢN ĐỒ NÃO BỘ KHỔNG LỒ DÀNH RIÊNG CHO MŨI SAO",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L34.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "chồn ec-min, rắn nước",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bên trong lòng đất,",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đặc biệt nhất là",
+     "image": "assets/long/L37.png",
+     "stickers": [
+      {
+       "at": "thứ 11",
+       "side": "R",
+       "y": 350,
+       "value": "XÚC TU 11",
+       "label": "hoàng điểm xúc giác",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi 20 xúc tu bên ngoài",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Các nghiên cứu giải",
+     "image": "assets/long/L39.png",
+     "stickers": [
+      {
+       "at": "50%",
+       "side": "L",
+       "y": 350,
+       "value": "50% VỎ NÃO",
+       "label": "dành riêng cho mũi",
+       "target": [
+        0.35,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nếu vẽ lại cơ thể",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thế nên dù không",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó nhìn thấy thế giới",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "00:00 NỬA ĐÊM"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "00 RẠNG SÁNG: CƠN ĐÓI LIÊN TỤC VÀ CHIẾC ĐUÔI PHÌNH TO TRỮ MỠ MÙA ĐÔNG",
+   "hook": "ĂN LƯỢNG THỨC ĂN BẰNG CẢ TRỌNG LƯỢNG CƠ THỂ MỖI NGÀY",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Với một cơ thể",
+     "image": "assets/long/L44.png",
+     "stickers": [
+      {
+       "at": "100%",
+       "side": "R",
+       "y": 350,
+       "value": "50-100%",
+       "label": "lượng ăn mỗi ngày",
+       "target": [
+        0.65,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nếu ngừng ăn là",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Thế nhưng khi mùa",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "vào mùa thu trù phú,",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ chiếc đuôi tích",
+     "image": "assets/long/L48.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đặc biệt là vào",
+     "image": "assets/long/L49.png",
+     "stickers": [
+      {
+       "at": "0°C",
+       "side": "L",
+       "y": 350,
+       "value": "NƯỚC 0°C",
+       "label": "lạnh dưới băng tuyết",
+       "target": [
+        0.35,
+        0.45
+       ]
+      },
+      {
+       "at": "37°C",
+       "side": "R",
+       "y": 350,
+       "value": "THÂN 37°C",
+       "label": "duy trì ổn định",
+       "target": [
+        0.68,
+        0.45
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Toàn bộ mỡ dự trữ",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "04:00 RẠNG SÁNG"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "CHIẾC ĐỒNG HỒ KHÉP VÒNG VÀ BÓNG ĐEN KIẾN NỔ CẢM TỬ",
+   "hook": "VÒNG XOAY 24H KHÉP LẠI VÀ BÓNG ĐEN QUÂN ĐOÀN CẢM TỬ",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sương sớm lại giăng",
+     "image": "assets/long/L52.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Từ một sinh vật",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Phóng sự 24 giờ",
+     "image": "assets/long/L54.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu được sở hữu một",
+     "image": "assets/long/L55.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và bây giờ, bản",
+     "image": "assets/long/L56.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Những chiến binh bé",
+     "image": "assets/long/L57.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đố các bạn biết",
+     "image": "assets/long/L58.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "KẾT THÚC 24H"
+  }
+ }
+}

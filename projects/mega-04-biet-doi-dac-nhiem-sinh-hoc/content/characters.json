@@ -1,0 +1,26 @@
+{
+ "_doc": "Nhân vật cố định của Biệt Đội Đặc Nhiệm Sinh Học (Mega 04). Phong cách Retro Spy-Fi Graphic Novel thập niên 1960. HERO = Chỉ Huy Mật Vụ (cú mèo măng-tô đen kính râm).",
+ "characters": {
+  "HERO": "anh Chỉ Huy Mật Vụ điệp viên cú mèo hoạt hình đeo kính râm đen ngầu, mặc áo măng-tô đen cổ đứng có gắn huy hiệu đặc nhiệm bạc, tai đeo tai nghe bộ đàm điệp viên, cầm máy tính bảng hologram phát sáng xanh",
+  "HERO_S": "anh Chỉ Huy Mật Vụ điệp viên cú mèo mặc áo măng-tô đen đeo kính râm cùng 10 đặc vụ động vật hoạt hình mặc giáp điệp viên",
+  "CHIEF": "anh Chỉ Huy Mật Vụ cú mèo hoạt hình áo măng-tô đen đeo kính râm và tai nghe bộ đàm",
+  "BOARD": "bản đồ hologram 3D của Pháo Đài Tự Nhiên nổi lơ lửng trong không khí, hiển thị 7 cửa ải an ninh phát sáng đỏ và thanh tiến độ phá khóa màu xanh ngọc (không có chữ, không có số)",
+  "NO_HERO": "KHÔNG có anh Chỉ Huy trong cảnh này",
+  "FALCON": "chú Chim Cắt Lớn hoạt hình mắt sắc lạnh, lông xám đen bụng vân ngang, mỏ khoằm vàng, đeo kính bảo hộ phi công siêu thanh và ba-lô phản lực mini gập gọn sau lưng",
+  "MOLERAT": "chú Chuột Chũi Trũi hoạt hình da hồng nhăn nheo không lông, hai răng cửa to chìa ra ngoài, đeo kính nhìn đêm hồng ngoại ngộ nghĩnh và đai thắt lưng công cụ điệp viên",
+  "FROGS": "chú Ếch Gỗ Bắc Cực hoạt hình da nâu vàng có vệt đen qua mắt như mặt nạ Zorro, đeo khăn quàng cổ đỏ thắm chống rét, người phủ lớp sương tuyết lấp lánh",
+  "CROW": "chú Quạ Đen hoạt hình lông đen ánh tím bóng bẩy, mắt tròn tinh quái, mỏ kẹp chiếc kẹp gắp kim loại, đeo tạp dề kỹ sư mini chứa đầy cờ-lê và dây thép",
+  "ORCA": "chú Cá Voi Sát Thủ hoạt hình thân đen bóng bụng trắng tinh, vây lưng cao vút cắm ăng-ten định vị sonar nhỏ xíu, miệng cười nhếch mép kiểu trùm mafia biển cả",
+  "WOODPECKER": "chú Chim Gõ Kiến hoạt hình mào lông đỏ rực dựng đứng, mỏ dài sắc nhọn như mũi khoan titan, đội mũ bảo hộ lao động màu vàng có gắn đèn pin thợ mỏ",
+  "CAMEL": "chú Lạc Đà hai bướu hoạt hình lông vàng cát dày mịn, mắt to hàng mi cong dài, cổ quấn khăn rằn sa mạc, lưng thồ hai bình nước dã chiến áp lực cao",
+  "GOAT": "chú Dê Núi Bắc Mỹ hoạt hình lông trắng muốt bờm cổ dày, cặp sừng đen nhọn cong nhẹ, bốn móng guốc bọc đệm cao su leo núi chuyên dụng chống trượt",
+  "SHRIKE": "chú Chim Bách Thanh hoạt hình lông xám trắng có dải lông đen vắt ngang mắt như dải băng cướp biển, mỏ có móc câu sắc nhọn, chân cầm một nhánh gai nhọn công nghệ",
+  "ANT_CORPS": "tiểu đội ba chú Kiến Cắt Lá hoạt hình màu nâu đỏ, đầu to mang hàm răng kim loại sáng loáng, đội mũ cối công binh màu xanh lá, đang vác những mảnh lá xanh như chiếc khiên chắn"
+ },
+ "side_characters": [
+  "CHIEF"
+ ],
+ "shorts_side_characters": [
+  "CHIEF"
+ ]
+}

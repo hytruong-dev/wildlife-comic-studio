@@ -1,0 +1,338 @@
+{
+ "episode_no": 30,
+ "animal": "Hải Ly",
+ "slug": "tap-30-hai-ly",
+ "format": "F4",
+ "persona": "phong_vien_24h",
+ "_angle_from_roadmap": "24h của Kỹ sư cuồng đập nước: Răng cửa bằng sắt màu cam, thí nghiệm đắp bùn kín chiếc loa phát tiếng nước chảy.",
+ "_shorts_idea_from_roadmap": "Điều gì xảy ra khi đặt chiếc loa phát tiếng nước chảy trước mặt Hải Ly?",
+ "nickname": "Kỹ Sư Đập Nước",
+ "sources": [
+  "Gordon et al. (2015), Science 347(6223): 746-750 — Cấu trúc nano men răng hải ly giàu vô định hình sắt giúp chống mài mòn và kháng axit",
+  "Wilson (1971), Animal Behaviour 19(4): 744-752 — Thí nghiệm phát loa tiếng nước chảy kích hoạt phản xạ đắp đập bùn bản năng ở Castor canadensis",
+  "Rosell et al. (2005), Mammal Review 35(3-4): 248-276 — Vai trò loài kỹ sư hệ sinh thái (ecosystem engineer) của hải ly trong việc tạo vùng đất ngập nước",
+  "Naiman et al. (1988), BioScience 38(11): 753-762 — Tác động thay đổi cảnh quan và lưu lượng thủy văn của đập hải ly tại Bắc Mỹ",
+  "Müller-Schwarze (2011), The Beaver: Natural History of a Wetlands Engineer — Phân tích chi tiết kiến trúc lâu đài lodge hai tầng và lối vào ngầm"
+ ],
+ "whisper_prompt": "Hải Ly, Kỹ Sư Đập Nước, Castor canadensis, Castor fiber, răng cửa oxit sắt, đập hải ly, lodge, lâu đài ngầm, tiếng nước chảy, loa phát nhạc, 24h, 850m, 389 km/h, Chim Cắt Lớn, 100%, Bắc Mỹ, 2015, 30kg, 15cm, 30 phút",
+ "display_fix": {
+  "ba mươi": "30",
+  "ba mươi mốt": "31",
+  "hai mươi tư giờ": "24h",
+  "hai mươi tư": "24",
+  "sáu giờ": "6h",
+  "chín giờ": "9h",
+  "mười bốn giờ": "14h",
+  "Mười bốn giờ": "14h",
+  "mười bốn": "14",
+  "Mười bốn": "14",
+  "mười lăm centimet": "15cm",
+  "mười lăm": "15",
+  "mười tám giờ": "18h",
+  "hai mươi ba giờ": "23h",
+  "ba mươi cân": "30kg",
+  "tám trăm năm mươi mét": "850m",
+  "tám trăm": "800",
+  "hàng trăm": "hàng trăm",
+  "hàng ngàn": "hàng ngàn",
+  "hàng triệu": "hàng triệu",
+  "hàng chục": "hàng chục",
+  "một giây": "1 giây",
+  "ba mươi giây": "30 giây",
+  "ba mươi phút": "30 phút",
+  "bốn mươi centimet": "40cm",
+  "ba mươi centimet": "30cm",
+  "một mét": "1m",
+  "một trăm phần trăm": "100%",
+  "điểm mười": "điểm 10",
+  "Bắc Mỹ": "Bắc Mỹ",
+  "Canada": "Canada",
+  "Năm hai ngàn không trăm mười lăm": "2015",
+  "năm hai ngàn không trăm mười lăm": "2015",
+  "ba trăm tám mươi chín kilômét trên giờ": "389 km/h",
+  "bốn trăm kilômét trên giờ": "400 km/h",
+  "Chim Cắt Lớn": "Chim Cắt Lớn"
+ },
+ "voice": {},
+ "art": {
+  "decor": "stopwatch clock hands, wooden dam logs, splashing blue water streams, orange beaver teeth sparkle",
+  "shorts_mascot": "A hyperactive cartoon beaver holding a mud trowel and tree trunk wearing a yellow engineer safety hardhat, staring at a playing speaker with shock",
+  "thumb_bg": "khu rừng ôn đới Bắc Mỹ với dòng suối xiết bị chặn đứng bởi con đập gỗ khổng lồ rực sáng",
+  "thumb_title": [
+   "RĂNG CỬA BẰNG SẮT?!",
+   "HẢI LY CUỒNG ĐẬP NƯỚC"
+  ],
+  "thumb_scene": "một chú Hải Ly hoạt hình mập mạp đeo mũ bảo hộ kỹ sư màu vàng, giơ bộ răng cửa màu cam bóng loáng chém ngọt khúc gỗ to, chiếc đuôi dẹp như mái chèo đập bùn",
+  "thumb_gag": "chú hải ly hoảng loạn trát đống bùn đất khổng lồ bịt kín chiếc loa phát thanh đang phát tiếng nước róc rách"
+ },
+ "longform": {
+  "scenes": [
+   {
+    "id": "scene01",
+    "badge": "06:00 SÁNG: XUẤT PHÁT",
+    "banner_title": "CA TRỰC 24H CÙNG KỸ SƯ RỪNG",
+    "chapter_title": "06:00 Sáng: Bắt đầu ca trực 24h thực địa theo chân kiến trúc sư đại tài",
+    "hook": "",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Alo alo, xin chào toàn thể quý vị khán giả của chương trình thực địa hai mươi tư giờ! Tôi đang có mặt tại một cánh rừng rậm rạp thuộc vùng hoang dã Bắc Mỹ, nơi sương sớm còn đang giăng kín mặt hồ phẳng lặng. Hôm nay, chiếc camera giấu kín của chúng ta sẽ bám sát từng bước chân của một kỹ sư xây dựng thiên tài nhưng cũng cực kỳ lầy lội!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Báo cáo phóng viên, mục tiêu số ba mươi đã xuất hiện từ bờ suối, đang lạch bạch vác theo một khúc gỗ nặng gấp đôi trọng lượng cơ thể!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[surprise-oh] Hướng máy quay sang góc chín giờ ngay lập tức! [laughter] Xin giới thiệu với toàn thể anh em: đây là Hải Ly, thuộc chi Castor, loài gặm nhấm lớn thứ hai trên Trái Đất và là nhân vật duy nhất trong giới động vật có chứng chỉ hành nghề: Kỹ Sư Đập Nước!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Nhìn dáng đi trên cạn của gã thì vụng về buồn cười vô cùng: thân hình mập mạp béo ú nặng tới ba mươi cân, bốn chân ngắn củn và chiếc đuôi dẹt phẳng lì hình mái chèo kéo lê lết trên mặt đất. Nhưng chỉ cần chạm vào làn nước mát, gã lập tức biến thành một thợ lặn cừ khôi với đôi chân màng bơi thoăn thoắt và bộ lông chống thấm nước hoàn hảo!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và điều điên rồ nhất sắp diễn ra trong hai mươi tư giờ tới: Chúng ta sẽ chứng kiến cách một chú chuột khổng lồ dùng chính hàm răng của mình để đốn ngã cả một cánh rừng, tự tay xây nên những công trình vĩ đại có thể nhìn thấy rõ mồn một từ vệ tinh không gian ngoài Trái Đất! Bắt đầu đồng hồ đếm ngược!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Trước khi gã bước vào ca làm việc chính thức, hãy chú ý chiếc đuôi vảy da dẹt hình mái chèo độc đáo: Đây không chỉ là bánh lái khi bơi lội dưới dòng nước xiết, mà còn là chiếc còi báo động khẩn cấp. Mỗi khi phát hiện nguy hiểm, gã đập mạnh chiếc đuôi xuống mặt nước tạo tiếng nổ chan chát vang xa hàng trăm mét để báo động cho cả gia đình lặn trốn!",
+      "mood": "am_ap"
+     }
+    ]
+   },
+   {
+    "id": "scene02",
+    "badge": "09:00 SÁNG: CỖ MÁY ĐỐN GỖ",
+    "banner_title": "VŨ KHÍ RĂNG CỬA KIM LOẠI SẮT",
+    "chapter_title": "09:00 Sáng: Cận cảnh cỗ máy đốn cây bằng bộ răng cửa bọc sắt màu cam",
+    "hook": "BỘ RĂNG MÀU CAM CHỨA ĐẦY OXIT SẮT CHÉM NGỌT CÂY GỖ CỔ THỤ",
+    "mood": "don_dap",
+    "parts": [
+     {
+      "text": "Đồng hồ điểm chín giờ sáng! Chúng ta đang áp sát hiện trường khai thác gỗ của Kỹ Sư Đập Nước. Hãy nhìn thẳng vào cận cảnh khuôn mặt của gã: Hai chiếc răng cửa hàm trên dài ngoằng nhô ra ngoài không phải màu trắng ngà như bình thường, mà lại có màu cam đậm rực rỡ như vừa mới nhúng vào gỉ sắt!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Năm hai ngàn không trăm mười lăm, một nghiên cứu đột phá trên tạp chí Science đã hé lộ bí mật chấn động: Lớp men phía trước răng của hải ly không phải chỉ có canxi, mà chứa đầy các tinh thể oxit sắt vô định hình siêu cứng! Lớp kim loại tự nhiên này giúp răng của nó cứng hơn bất kỳ loài gặm nhấm nào trên hành tinh và kháng axit mài mòn tuyệt đối! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Chưa dừng lại ở đó, mặt trước của răng cứng như thép trong khi mặt sau lại mềm hơn. Khi hải ly gặm gỗ, lớp mặt sau mòn nhanh hơn mặt trước, khiến đầu răng luôn tự động mài sắc bén như một chiếc lưỡi đục kim cương! Càng gặm nhiều, răng lại càng sắc ngọt!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Hãy bấm giờ đếm ngược xem: Một thân cây bạch dương đường kính mười lăm centimet cứng cáp... gã chỉ cần đúng ba mươi phút gặm vòng quanh gốc cây là cả thân cây gỗ cổ thụ to lớn đổ rầm xuống mặt đất! Tiếng gặm cộp cộp vang vọng khắp góc rừng như một xưởng cưa máy chạy bằng cơm!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Và điều kỳ diệu về giải phẫu miệng: Phía sau hai chiếc răng cửa là một màng da đặc biệt có thể khép kín miệng lại, cho phép gã vừa gặm gỗ vừa ngụp lặn dưới nước mà không sợ dăm gỗ hay nước tràn vào cổ họng! Người bản địa Bắc Mỹ thời xưa thậm chí từng lấy hàm răng hải ly gắn vào cán gỗ để làm dao đục khắc gỗ siêu bền!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chưa hết, gã kỹ sư này còn sở hữu một túi tuyến xạ hương đặc biệt dưới đuôi tiết ra chất ca-xtô-ri-um thơm nồng mùi vani ngọt ngào! Gã thường đắp những gò bùn nhỏ dọc bờ suối rồi phun xạ hương lên đó để đóng dấu chủ quyền lãnh thổ, một mùi hương quyến rũ đến mức ngành công nghiệp nước hoa cổ điển từng săn lùng ráo riết!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và răng của hải ly mọc liên tục suốt cả cuộc đời! Nếu không chịu khó gặm gỗ mỗi ngày, chiếc răng thép này sẽ dài ra chọc thủng hộp sọ. Gặm cây không chỉ là đam mê xây dựng, mà là mệnh lệnh sinh tồn bắt buộc của giống loài!",
+      "mood": "nghiem_trang_gia"
+     }
+    ]
+   },
+   {
+    "id": "scene03",
+    "badge": "14:00 CHIỀU: CƠN PHÁT ĐIÊN",
+    "banner_title": "ÁM ẢNH CƯỠNG CHẾ TIẾNG NƯỚC CHẢY",
+    "chapter_title": "14:00 Chiều: Thí nghiệm kinh điển với chiếc loa phát tiếng nước chảy",
+    "hook": "PHÁT ĐIÊN VÌ TIẾNG NƯỚC CHẢY ĐẮP BÙN BỊT KÍN CẢ LOA PHÁT NHẠC",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Mười bốn giờ chiều: Đến lúc đội phóng sự chúng tôi thực hiện bài kiểm tra tâm lý lầy lội nhất! Các nhà sinh học từng thắc mắc: Động lực nào thôi thúc Kỹ Sư Đập Nước làm việc quần quật suốt ngày đêm không ngừng nghỉ? Có phải nó nhìn thấy dòng nước chảy xiết nên muốn ngăn lại? Câu trả lời là: Không hề!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Thứ khiến hải ly phát điên không phải là thị giác, mà chính là âm thanh của tiếng nước chảy róc rách! Trong một thí nghiệm kinh điển của nhà khoa học Wilson, người ta đặt một chiếc loa phát thanh trên nền đất khô ráo giữa rừng và bật tiếng nước róc rách thật to.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Báo cáo hiện trường: Hải Ly vừa nghe thấy tiếng loa đã lập tức vứt bỏ mọi việc, đôi mắt đỏ ngầu hoảng hốt lao ngay ra suối khuân bùn đất chạy lên cạn!",
+      "cast": "co_tro_ly"
+     },
+     {
+      "text": "[laughter] Quý vị hãy nhìn xem: Gã hì hục tha cành cây, vốc từng nắm bùn đất trát kín mít xung quanh chiếc loa phát thanh cho đến khi âm thanh róc rách bị dập tắt hoàn toàn thì mới thở phào nhẹ nhõm! Dù dưới chân là đất khô ráo không có lấy một giọt nước, gã vẫn đắp thành một ngọn đồi bùn khổng lồ!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Thậm chí khi các nhà nghiên cứu treo chiếc loa lơ lửng trên cành cây cách mặt đất cả mét, chú hải ly vẫn kiên nhẫn khuân đất đắp cao dần quanh thân cây thành một chiếc cầu thang bùn kiên cố để trèo lên bịt chặt chiếc loa phát thanh! Sự kiên trì và độ lầy lội đỉnh cao của gã kiến trúc sư này khiến toàn bộ các nhà khoa học phải phì cười thán phục!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Đây chính là chứng ám ảnh cưỡng chế bẩm sinh kỳ quặc nhất tự nhiên: Đối với Kỹ Sư Đập Nước, tiếng nước chảy rò rỉ là một tội ác không thể tha thứ! Ở đâu có tiếng nước róc rách, ở đó phải được trát bùn bọc kín ngay lập tức!",
+      "mood": "don_dap"
+     }
+    ]
+   },
+   {
+    "id": "scene04",
+    "badge": "18:00 TỐI: ĐẠI CÔNG TRƯỜNG",
+    "banner_title": "KỲ QUAN ĐẬP NƯỚC BẮC MỸ",
+    "chapter_title": "18:00 Tối: Công trường xây đập vĩ đại chặn đứng dòng sông",
+    "hook": "ĐAN CÀNH CÂY VÀ TRÁT BÙN TẠO CON ĐẬP DÀI 850M NHÌN THẤY TỪ VŨ TRỤ",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Hoàng hôn buông xuống lúc mười tám giờ: Đại công trường xây dựng chính thức bước vào giờ cao điểm! Cả gia đình hải ly gồm bố mẹ và các con bắt đầu phối hợp nhịp nhàng như một đội ngũ công nhân lành nghề.",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Chúng kéo những thân cây lớn cắm sâu xuống đáy bùn tạo khung dầm chữ V ngược chịu lực, sau đó đan xen những cành cây nhỏ hơn vào giữa như đan phên liếp. Cuối cùng, chiếc đuôi dẹp như mái chèo được sử dụng như một chiếc bay thợ nề: múc bùn non, đá cuội và lá cây đầm chặt vào từng kẽ hở!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Để vận chuyển những khúc gỗ nặng hàng trăm cân từ sâu trong rừng ra bờ suối mà không tốn sức, chúng còn tự đào những con kênh dẫn nước dài hàng trăm mét len lỏi qua các bụi cây! Gỗ đốn hạ xong chỉ việc thả trôi nổi trên kênh đào về thẳng công trường xây dựng! Một tư duy logistics vượt trước thời đại!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Công trình này kiên cố đến mức áp lực nước cuồn cuộn không tài nào cuốn trôi nổi! Nước sông bị chặn lại dâng cao dần, biến cả một thung lũng khô cằn thành một hồ nước rộng mênh mông, tạo nên một vùng đất ngập nước trù phú cho hàng ngàn loài cá, chim và ếch nhái kéo về sinh sống!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Tại Vườn quốc gia Wood Buffalo ở Canada, các nhà khoa học đã phát hiện một con đập do các thế hệ Kỹ Sư Đập Nước kiên trì xây dựng suốt hàng chục năm: Con đập dài tới tám trăm năm mươi mét — gấp đôi chiều dài của đập thủy điện Hoover do con người xây — và là công trình động vật duy nhất nhìn thấy rõ mồn một từ ảnh chụp vệ tinh không gian! [surprise-wa]",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Ngày nay, các nhà bảo tồn thiên nhiên trên khắp thế giới đang tích cực tái thả hải ly về các vùng hoang dã. Những con đập của chúng giúp nâng cao mạch nước ngầm, ngăn chặn thảm họa cháy rừng, thanh lọc các chất ô nhiễm độc hại và hồi sinh những dòng sông chết mà không tốn lấy một đồng ngân sách xây dựng!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Một sinh vật không có bằng kỹ sư, không có máy móc hiện đại, nhưng lại có thể tự tay vẽ lại bản đồ thủy văn của cả một lục địa! Thật là một kỳ quan kiến trúc không thể tin nổi!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene05",
+    "badge": "23:00 ĐÊM: PHÁO ĐÀI NGẦM",
+    "banner_title": "LÂU ĐÀI BẤT KHẢ XÂM PHẠM",
+    "chapter_title": "23:00 Đêm: Pháo đài lâu đài lodge giữa hồ với cửa vào ngập dưới nước",
+    "hook": "LÂU ĐÀI HAI TẦNG GIỮA HỒ NƯỚC CỬA VÀO NGẬP SÂU TRÁNH THÚ DỮ",
+    "mood": "tram_bi_an",
+    "parts": [
+     {
+      "text": "Đồng hồ điểm hai mươi ba giờ đêm! Nhiệt độ ngoài trời giảm xuống buốt giá, tiếng chó sói hú vang vọng từ bìa rừng săn tìm con mồi. Nhưng gia đình hải ly thì đã rút lui an toàn vào bên trong lâu đài kiên cố mang tên lodge nằm sừng sững giữa lòng hồ nước!",
+      "mood": "tram_bi_an"
+     },
+     {
+      "text": "Hãy quan sát mặt cắt kiến trúc tinh xảo của chiếc lâu đài này: Nó được đắp bằng hàng ngàn khúc gỗ và bùn đất dày tới một mét, mùa đông bùn đông cứng lại như bê tông cốt thép, móng vuốt của gấu hay sói cào rách móng cũng không tài nào phá vỡ nổi!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Và điều thiên tài nhất nằm ở hệ thống cửa ra vào: Tuyệt đối không có bất kỳ cánh cửa nào mở trên cạn! Lối vào duy nhất là hai đường hầm ngầm nằm sâu dưới mặt nước! Kẻ săn mồi trên cạn muốn đột nhập thì phải biết lặn sâu nín thở, điều mà chó sói và linh miêu không bao giờ làm được!",
+      "mood": "don_dap"
+     },
+     {
+      "text": "Bên trong lâu đài được chia làm hai tầng khô ráo: Tầng dưới là phòng thay đồ để rũ sạch nước trên lông, còn tầng trên là phòng ngủ ấm cúng lót bằng vỏ cây khô êm ái, nơi cả gia đình quây quần sưởi ấm cho nhau. Đỉnh chóp lâu đài còn chừa lại một khe thông gió thông minh để đón không khí trong lành!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Vào mùa đông băng giá khi mặt hồ đóng băng dày cả mét, gia đình hải ly vẫn sống ung dung sung túc nhờ một kho lương thực bí mật: Trước mùa đông, chúng cắm hàng ngàn cành cây bạch dương tươi ngon găm sâu xuống đáy bùn dưới lòng hồ. Dưới lớp băng dày, chúng chỉ việc bơi ra tủ lạnh đáy nước lấy cành cây về thưởng thức mà không cần ló đầu lên mặt băng!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Một công trình phòng thủ toàn diện chuẩn năm sao: vừa có hồ nước bảo vệ, vừa có cửa hầm bí mật, vừa có hệ thống sưởi ấm và thông gió tự nhiên! Đúng là đỉnh cao trí tuệ loài gặm nhấm!",
+      "mood": "hao_hung"
+     }
+    ]
+   },
+   {
+    "id": "scene06",
+    "badge": "06:00 SÁNG: KẾT THÚC 24H",
+    "banner_title": "TỔNG KẾT 24H & BÓNG ĐEN TẬP 31",
+    "chapter_title": "06:00 Sáng hôm sau: Kết thúc ca trực và hé lộ bóng đen tên lửa 389 km/h",
+    "hook": "TỔNG KẾT 24H VÀ BÓNG ĐEN TÊN LỬA SỐNG CHIM CẮT TẬP 31",
+    "mood": "hao_hung",
+    "parts": [
+     {
+      "text": "Đồng hồ điểm sáu giờ sáng hôm sau: Ca trực thực địa hai mươi tư giờ chính thức khép lại! Ánh bình minh rực rỡ chiếu rọi xuống mặt hồ nước phẳng lặng do chính bàn tay Kỹ Sư Đập Nước tạo nên. Một đêm lao động cật lực, một hồ nước mới ra đời và sự sống lại sinh sôi nảy nở khắp cánh rừng già!",
+      "mood": "am_ap"
+     },
+     {
+      "text": "Báo cáo thực địa hai mươi tư giờ: Đạt điểm mười xuất sắc cho danh hiệu Kiến trúc sư vĩ đại nhất giới động vật! Ký tên: Phóng viên thực địa chương trình hai mươi tư giờ! [laughter]",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Còn anh em thì sao? Nếu được sở hữu bộ răng cửa bọc sắt không bao giờ mòn của hải ly, hay năng lực xây nên cả một kỳ quan thiên nhiên thay đổi cảnh quan Trái Đất, anh em sẽ chọn siêu năng lực nào? Hãy để lại bình luận chia sẻ cùng chúng tôi nhé!",
+      "mood": "hao_hung"
+     },
+     {
+      "text": "Ca trực thực địa tập ba mươi xin được đóng máy tại đây. Nhưng tập sau, chúng ta sẽ chuyển thẳng tới một xưởng vũ khí khí động học đỉnh cao trên bầu trời để giải mã một sát thủ tốc độ kinh hoàng nhất lịch sử hành tinh! Một cỗ tên lửa sống có thể bổ nhào từ tầng mây với vận tốc kinh hoàng lên tới ba trăm tám mươi chín kilômét trên giờ mà không hề bị nổ tung lồng ngực nhờ hai chiếc nón giảm áp thần kỳ trong lỗ mũi! Đố các bạn biết bóng đen bí ẩn kỳ sau là loài vật nào? Hãy đoán ngay ở phần bình luận nhé!",
+      "mood": "don_dap"
+     }
+    ]
+   }
+  ]
+ },
+ "shorts": {
+  "target_s": 51.0,
+  "mood": "hao_hung",
+  "text": "[surprise-oh] Điều gì sẽ xảy ra nếu bạn đặt một chiếc loa phát tiếng nước chảy trước mặt Hải Ly? [laughter] Ngay lập tức, gã kỹ sư đập nước này sẽ phát điên cuồng loạn, vác bùn đất chạy hộc tốc lên cạn để trát kín mít chiếc loa cho đến khi tiếng nước róc rách tắt ngấm! [surprise-wa] Hải Ly mắc chứng ám ảnh cưỡng chế bẩm sinh với âm thanh nước rò rỉ. Thậm chí khi các nhà khoa học treo chiếc loa lơ lửng trên cành cây, gã còn kiên nhẫn đắp cả chiếc cầu thang bùn để trèo lên bịt chặt cho bằng được, vì với gã tiếng nước rò rỉ là một tội ác không thể tha thứ! Để phục vụ đam mê đắp đập, nó trang bị bộ răng cửa màu cam chứa đầy oxit sắt cứng như kim loại thép, có khả năng tự mài sắc để đốn hạ thân cây to chỉ trong ba mươi phút! Những con đập do nó xây dựng có thể dài tới tám trăm năm mươi mét, chặn đứng dòng sông và nhìn thấy rõ mồn một từ vệ tinh không gian! Đúng là kỹ sư xây dựng cuồng nhiệt và lầy lội nhất thế giới động vật!"
+ },
+ "seo": {
+  "title": "Đặt Loa Phát Tiếng Nước Chảy Trước Mặt Hải Ly Và Cái Kết?!",
+  "hook_paragraph": "Hải Ly (Castor canadensis) - Kỹ Sư Đập Nước thiên tài với bộ răng cửa bọc oxit sắt cực cứng, bị ám ảnh cưỡng chế tiếng nước róc rách đến mức đắp bùn đất kín cả chiếc loa phát nhạc và xây nên con đập dài 850m nhìn thấy từ vũ trụ!",
+  "bullets": [
+   "Vũ khí răng cửa sắt: Lớp oxit sắt màu cam siêu cứng và cấu tạo tự mài sắc bén",
+   "Ám ảnh tiếng nước chảy: Thí nghiệm đắp bùn kín mít chiếc loa phát thanh róc rách",
+   "Kỳ quan đập nước: Đan cành cây và trát bùn đất chịu áp lực dòng sông cuồn cuộn",
+   "Lâu đài lodge pháo đài: Hai tầng khô ráo với cửa hầm bí mật ngập sâu dưới nước"
+  ],
+  "question": "Nếu được sở hữu 1 năng lực của Hải Ly: bộ răng bọc sắt không bao giờ mòn hay tài năng kiến trúc xây đập thay đổi cả dòng sông, bạn chọn cái nào? Và đoán xem bóng đen tập sau là loài nào?",
+  "next_teaser": "Bóng đen sát thủ tốc độ: cỗ tên lửa sống bổ nhào 389 km/h có nón giảm áp trong mũi chống vỡ phổi!",
+  "hashtags": [
+   "#độngvật",
+   "#hảily",
+   "#VẽChuyệnHoangDã"
+  ],
+  "tags": [
+   "hải ly",
+   "hai ly",
+   "castor",
+   "beaver",
+   "kỹ sư đập nước",
+   "đập hải ly",
+   "động vật kỳ lạ",
+   "thế giới động vật",
+   "động vật hài hước",
+   "vẽ chuyện hoang dã",
+   "whiteboard animation",
+   "khoa học thú vị",
+   "hải ly xây đập",
+   "hải ly béo",
+   "hải ly gặm cây",
+   "đập hải ly lớn nhất thế giới",
+   "đập nước hải ly",
+   "siêu đập hải ly"
+  ],
+  "shorts_title": "Đặt Loa Tiếng Nước Chảy Trước Mặt Hải Ly Và Cái Kết?! 🦫 #độngvật #hảily",
+  "shorts_desc": "Hải Ly nghe tiếng loa nước chảy liền phát điên trát bùn kín mít loa! Khám phá Kỹ Sư Đập Nước với bộ răng bằng oxit sắt và con đập 850m nhìn từ vũ trụ.",
+  "shorts_tags": [
+   "hải ly",
+   "beaver",
+   "shorts",
+   "thế giới động vật",
+   "vẽ chuyện hoang dã"
+  ],
+  "en_title": "Playing Running Water Sounds to a Beaver and What Happens?! | Ep 30",
+  "en_hook": "Meet the Beaver (Castor canadensis), the ultimate wetlands engineer: armed with iron-reinforced orange teeth that never dull, driven by an obsessive instinct to plaster mud over playing speakers, and capable of building 850m dams visible from space!",
+  "en_chapters": [
+   "06:00 AM: 24h Shift Starts With The Forest Engineer",
+   "09:00 AM: The Iron-Reinforced Orange Teeth Tree Feller",
+   "02:00 PM: The Obsessive Running Water Speaker Experiment",
+   "06:00 PM: The Megastructure Dam Landscape Reshaper",
+   "11:00 PM: The Impenetrable Underwater Castle Lodge",
+   "06:00 AM Next Day: 24h Wrap & 389 km/h Falcon Teaser"
+  ],
+  "en_shorts_title": "Playing Water Sounds to a Beaver and The Result?! 🦫 #animals #beaver"
+ }
+}

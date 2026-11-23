@@ -1,0 +1,371 @@
+{
+ "episode": "tap-40-kien-cat-la",
+ "title_lines": [
+  "ĐẠI CÔNG TRÌNH SƯ",
+  "KỲ QUAN NÔNG NGHIỆP 50 TRIỆU NĂM?!"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 45.33,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/tap-40-kien-cat-la_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  8.29,
+  13.07,
+  15.65,
+  17.71,
+  20.57,
+  24.09,
+  27.27,
+  28.91,
+  33.87,
+  37.69,
+  44.23
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.76,
+     "text": "Bạn có tin"
+    },
+    {
+     "t": 1.26,
+     "text": "loài người không"
+    },
+    {
+     "t": 2.14,
+     "text": "phải là sinh"
+    },
+    {
+     "t": 2.76,
+     "text": "vật đầu tiên"
+    },
+    {
+     "t": 3.44,
+     "text": "phát minh ra"
+    },
+    {
+     "t": 4.2,
+     "text": "nông nghiệp trên"
+    },
+    {
+     "t": 4.84,
+     "text": "Trái Đất không?"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 6.49,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 6.74,
+     "text": "Trước khi con"
+    },
+    {
+     "t": 7.3,
+     "text": "người xuất hiện"
+    },
+    {
+     "t": 7.84,
+     "text": "hàng chục triệu"
+    },
+    {
+     "t": 8.58,
+     "text": "năm, loài Kiến"
+    },
+    {
+     "t": 9.76,
+     "text": "Cắt Lá đã"
+    },
+    {
+     "t": 10.24,
+     "text": "xây dựng những"
+    },
+    {
+     "t": 10.7,
+     "text": "trang trại trồng"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 11.27,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 11.28,
+     "text": "nấm quy mô"
+    },
+    {
+     "t": 11.94,
+     "text": "công nghiệp sâu"
+    },
+    {
+     "t": 12.54,
+     "text": "8m dưới lòng đất!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 13.85,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 14.1,
+     "text": "Bí mật kinh"
+    },
+    {
+     "t": 14.72,
+     "text": "hoàng nằm ở chỗ:"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 15.91,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 16.16,
+     "text": "Chúng cắt lá"
+    },
+    {
+     "t": 16.64,
+     "text": "cây không phải"
+    },
+    {
+     "t": 17.14,
+     "text": "để ăn,"
+    },
+    {
+     "t": 17.52,
+     "text": "mà dùng hàm"
+    },
+    {
+     "t": 18.34,
+     "text": "rung siêu"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 18.77,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 18.8,
+     "text": "âm như máy"
+    },
+    {
+     "t": 19.38,
+     "text": "cưa xẻ nát"
+    },
+    {
+     "t": 19.94,
+     "text": "lá làm phân"
+    },
+    {
+     "t": 20.78,
+     "text": "bón nuôi nấm!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 22.29,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 22.54,
+     "text": "Tổ của chúng"
+    },
+    {
+     "t": 23.22,
+     "text": "đào bới hơn"
+    },
+    {
+     "t": 23.9,
+     "text": "40 tấn đất"
+    },
+    {
+     "t": 24.68,
+     "text": "đá, sở"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 25.47,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 25.44,
+     "text": "hữu hệ thống"
+    },
+    {
+     "t": 26.06,
+     "text": "thông gió đối"
+    },
+    {
+     "t": 26.7,
+     "text": "lưu tự nhiên"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 27.11,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 27.36,
+     "text": "giữ nhiệt độ"
+    },
+    {
+     "t": 28.3,
+     "text": "luôn ổn định"
+    },
+    {
+     "t": 29.02,
+     "text": "ở 25°C C"
+    },
+    {
+     "t": 29.98,
+     "text": "mà không tốn"
+    },
+    {
+     "t": 30.96,
+     "text": "một giọt điện năng!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 32.07,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 32.32,
+     "text": "Thậm chí trên"
+    },
+    {
+     "t": 33.06,
+     "text": "mai kiến còn"
+    },
+    {
+     "t": 33.78,
+     "text": "có vi khuẩn"
+    },
+    {
+     "t": 34.46,
+     "text": "tiết ra thuốc"
+    },
+    {
+     "t": 35.22,
+     "text": "kháng sinh tự"
+    }
+   ]
+  },
+  {
+   "id": "s11",
+   "start_s": 35.89,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 35.84,
+     "text": "nhiên để bảo"
+    },
+    {
+     "t": 36.4,
+     "text": "vệ mùa màng!"
+    },
+    {
+     "t": 38.02,
+     "text": "Một siêu đô"
+    },
+    {
+     "t": 38.8,
+     "text": "thị ngầm 50"
+    },
+    {
+     "t": 39.72,
+     "text": "triệu dân vận"
+    },
+    {
+     "t": 40.34,
+     "text": "hành bền vững"
+    },
+    {
+     "t": 41.02,
+     "text": "suốt 50 triệu"
+    },
+    {
+     "t": 41.82,
+     "text": "năm qua!"
+    }
+   ]
+  },
+  {
+   "id": "s12",
+   "start_s": 42.43,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S12.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 42.68,
+     "text": "Đúng là bậc"
+    },
+    {
+     "t": 43.26,
+     "text": "thầy công trình"
+    },
+    {
+     "t": 43.92,
+     "text": "vĩ đại nhất"
+    },
+    {
+     "t": 44.44,
+     "text": "của tự nhiên!"
+    }
+   ]
+  }
+ ]
+}

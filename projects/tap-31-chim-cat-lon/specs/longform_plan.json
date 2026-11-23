@@ -1,0 +1,659 @@
+{
+ "_doc": "Sinh bởi src/episode/build_plans.py từ specs/storyboard.json — sửa storyboard rồi chạy lại.",
+ "targets": {},
+ "scenes": {
+  "scene01": {
+   "chapter_no": 1,
+   "title": "TIÊM KÍCH LÔNG VŨ ĐẠT KỶ LỤC 389 KM/H BỔ NHÀO XÉ TOẠC BẦU TRỜI",
+   "hook": "HỒ SƠ MẬT CẤP ĐỘ ĐỎ: KỶ LỤC TỐC ĐỘ NHANH NHẤT HÀNH TINH",
+   "card": false,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L01.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chào mừng toàn thể",
+     "image": "assets/long/L02.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chim Cắt Lớn",
+     "image": "assets/long/L03.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu bạn nghĩ",
+     "image": "assets/long/L04.png",
+     "stickers": [
+      {
+       "at": "100 km/h",
+       "side": "R",
+       "y": 360,
+       "value": "100 km/h",
+       "label": "báo săn chạy bộ",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo radar phòng không",
+     "image": "assets/long/L05.png",
+     "stickers": [
+      {
+       "at": "5.000m",
+       "side": "L",
+       "y": 360,
+       "value": "5.000m",
+       "label": "độ cao bổ nhào",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "389 km/h! Đúng vậy các",
+     "image": "assets/long/L06.png",
+     "stickers": [
+      {
+       "at": "389 km/h",
+       "side": "R",
+       "y": 360,
+       "value": "389 km/h",
+       "label": "kỷ lục bổ nhào",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Năm 2005",
+     "image": "assets/long/L07.png",
+     "stickers": [
+      {
+       "at": "Năm 2005",
+       "side": "L",
+       "y": 360,
+       "value": "Năm 2005",
+       "label": "thử nghiệm lịch sử",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi Ken nhảy dù tự do",
+     "image": "assets/long/L39.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Tốc độ này nhanh hơn",
+     "image": "assets/long/L08.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng khoan đã các kỹ sư",
+     "image": "assets/long/L09.png",
+     "stickers": [
+      {
+       "at": "gần 400 km/h",
+       "side": "R",
+       "y": 360,
+       "value": "400 km/h",
+       "label": "áp lực gió cực đại",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Vậy bản thiết kế giải phẫu",
+     "image": "assets/long/L10.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỒ SƠ MẬT"
+  },
+  "scene02": {
+   "chapter_no": 2,
+   "title": "NÓN GIẢM ÁP NẸP MŨI CHỐNG NỔ PHỔI VÀ KÍNH BẢO HỘ SINH HỌC",
+   "hook": "BẢN VẼ KỸ THUẬT: CƠ CHẾ NÉN KHÍ VÀ MÀNG BẢO VỆ MẮT SIÊU THANH",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L11.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Bình thường lỗ mũi",
+     "image": "assets/long/L12.png",
+     "stickers": [
+      {
+       "at": "tubercle",
+       "side": "L",
+       "y": 360,
+       "value": "TUBERCLE",
+       "label": "nón xương giảm áp",
+       "target": [
+        0.35,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi chim cắt bổ nhào",
+     "image": "assets/long/L13.png",
+     "stickers": [
+      {
+       "at": "0,5 giây",
+       "side": "R",
+       "y": 360,
+       "value": "0,5 GIÂY",
+       "label": "thời gian vỡ phổi",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng chiếc nón tubercle đóng",
+     "image": "assets/long/L40.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chi tiết này thông minh",
+     "image": "assets/long/L14.png",
+     "stickers": [
+      {
+       "at": "SR-71",
+       "side": "L",
+       "y": 360,
+       "value": "SR-71",
+       "label": "học tập nón cản sốc",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Bản vẽ kỹ thuật tầng hai",
+     "image": "assets/long/L15.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi chim gập cánh tạo hình",
+     "image": "assets/long/L41.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Không chỉ có vậy ở chóp",
+     "image": "assets/long/L42.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "các sợi lông này lập tức",
+     "image": "assets/long/L53.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Chưa hết đâu đội kỹ thuật",
+     "image": "assets/long/L16.png",
+     "stickers": [
+      {
+       "at": "mí mắt thứ ba",
+       "side": "L",
+       "y": 360,
+       "value": "MÍ MẮT 3",
+       "label": "kính bảo hộ sinh học",
+       "target": [
+        0.3,
+        0.5
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Mí mắt này quét ngang nhấp",
+     "image": "assets/long/L43.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "BẢN VẼ CƠ KHÍ"
+  },
+  "scene03": {
+   "chapter_no": 3,
+   "title": "HỐC MẮT ĐÔI FOVEA VÀ QUỸ ĐẠO BAY XOẮN ỐC LOGARIT",
+   "hook": "HỆ THỐNG NGẮM BẮN: QUỸ ĐẠO XOẮN ỐC LOGARIT KHÓA MỤC TIÊU CÁCH 3KM",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L17.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Trong khi mắt người chỉ",
+     "image": "assets/long/L18.png",
+     "stickers": [
+      {
+       "at": "gấp 8 lần",
+       "side": "L",
+       "y": 360,
+       "value": "x8 LẦN",
+       "label": "độ nét mắt phi công",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Cảm biến quang học báo cáo",
+     "image": "assets/long/L19.png",
+     "stickers": [
+      {
+       "at": "3km",
+       "side": "R",
+       "y": 360,
+       "value": "3 KM",
+       "label": "cự ly khóa mục tiêu",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Giáo sư Vance Tucker",
+     "image": "assets/long/L20.png",
+     "stickers": [
+      {
+       "at": "40 độ",
+       "side": "L",
+       "y": 360,
+       "value": "40 ĐỘ",
+       "label": "góc lệch hốc mắt sâu",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nếu chim bay thẳng tắp",
+     "image": "assets/long/L44.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Để giải bài toán hóc búa",
+     "image": "assets/long/L21.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nó giữ đầu thẳng tắp",
+     "image": "assets/long/L45.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đặc biệt hơn nữa",
+     "image": "assets/long/L22.png",
+     "stickers": [
+      {
+       "at": "130 khung hình/giây",
+       "side": "R",
+       "y": 360,
+       "value": "130 FPS",
+       "label": "tốc độ xử lý mắt",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhờ khả năng siêu xử lý",
+     "image": "assets/long/L46.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "HỆ THỐNG RADAR"
+  },
+  "scene04": {
+   "chapter_no": 4,
+   "title": "CÚ KÉO LÊN 25G VÀ NẮM ĐẤM MÓNG VUỐT HẠ GỤC CON MỒI",
+   "hook": "THỰC CHIẾN TÀN KHỐC: CHỊU ĐỰNG GIA TỐC 25G VÀ CÚ VA CHẠM KINH HOÀNG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L23.png",
+     "stickers": [
+      {
+       "at": "300m",
+       "side": "L",
+       "y": 360,
+       "value": "300 MÉT",
+       "label": "cự ly gập cánh",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Lúc này tim của nó",
+     "image": "assets/long/L24.png",
+     "stickers": [
+      {
+       "at": "600-900 nhịp/phút",
+       "side": "R",
+       "y": 360,
+       "value": "900 BPM",
+       "label": "nhịp tim cực đại",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng điều đáng kinh ngạc nhất",
+     "image": "assets/long/L25.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Ở vận tốc 300 km/h",
+     "image": "assets/long/L47.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Rầm Nắm đấm móng vuốt",
+     "image": "assets/long/L26.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hãy tưởng tượng một quả tạ",
+     "image": "assets/long/L48.png",
+     "stickers": [
+      {
+       "at": "1kg",
+       "side": "R",
+       "y": 360,
+       "value": "1kg",
+       "label": "quả tạ kim loại",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Ngay sau cú va chạm",
+     "image": "assets/long/L27.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và hãy nhìn vào thông số",
+     "image": "assets/long/L28.png",
+     "stickers": [
+      {
+       "at": "25G",
+       "side": "R",
+       "y": 360,
+       "value": "25G",
+       "label": "gia tốc kéo lên",
+       "target": [
+        0.75,
+        0.55
+       ]
+      },
+      {
+       "at": "9G",
+       "side": "L",
+       "y": 360,
+       "value": "9G",
+       "label": "phi công ngất xỉu",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Ấy thế mà Tiêm Kích",
+     "image": "assets/long/L49.png",
+     "stickers": [
+      {
+       "at": "gấp 10 lần",
+       "side": "L",
+       "y": 360,
+       "value": "10 LẦN",
+       "label": "độ cứng xương đòn",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "ĐÒN THỰC CHIẾN"
+  },
+  "scene05": {
+   "chapter_no": 5,
+   "title": "DÁNG ĐI VỤNG VỀ DƯỚI MẶT ĐẤT VÀ CUỘC KHỦNG HOẢNG DDT",
+   "hook": "ĐIỂM YẾU BẤT NGỜ: TIÊM KÍCH VỤNG VỀ TRÊN MẶT ĐẤT VÀ HIỂM HỌA TUYỆT CHỦNG",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L29.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Vì toàn bộ thiết kế",
+     "image": "assets/long/L30.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Khi hạ cánh xuống bãi cỏ",
+     "image": "assets/long/L50.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nếu con mồi chạy ngoằn ngoèo",
+     "image": "assets/long/L54.png",
+     "stickers": [
+      {
+       "at": "25%",
+       "side": "R",
+       "y": 360,
+       "value": "25%",
+       "label": "tỷ lệ tóm mồi mặt đất",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Chưa dừng lại ở đó",
+     "image": "assets/long/L31.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Nhưng bi kịch đen tối",
+     "image": "assets/long/L32.png",
+     "stickers": [
+      {
+       "at": "DDT",
+       "side": "R",
+       "y": 360,
+       "value": "DDT",
+       "label": "hóa chất mỏng vỏ",
+       "target": [
+        0.75,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "Khi chim cắt ăn các loài",
+     "image": "assets/long/L51.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Hậu quả là mỗi khi",
+     "image": "assets/long/L33.png",
+     "stickers": [],
+     "impacts": []
+    }
+   ],
+   "badge": "TỬ HUYỆT VŨ KHÍ"
+  },
+  "scene06": {
+   "chapter_no": 6,
+   "title": "BÀI HỌC PHỤC HỒI VÀ CÂU ĐỐ BÓNG ĐEN QUÁI KIỆT TẬP 32",
+   "hook": "TỔNG KẾT HỒ SƠ: SỰ HỒI SINH NGOẠN MỤC VÀ DỰ BÁO TẬP KẾ TIẾP",
+   "card": true,
+   "beats": [
+    {
+     "at": 0,
+     "image": "assets/long/L34.png",
+     "stickers": [
+      {
+       "at": "năm 1972",
+       "side": "L",
+       "y": 360,
+       "value": "NĂM 1972",
+       "label": "lệnh cấm toàn cầu",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    },
+    {
+     "at": "và giờ đây Tiêm Kích",
+     "image": "assets/long/L35.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Báo cáo nghiệm thu kỹ thuật",
+     "image": "assets/long/L36.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Đội kỹ thuật thân mến",
+     "image": "assets/long/L37.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Và ngay trong hồ sơ",
+     "image": "assets/long/L38.png",
+     "stickers": [],
+     "impacts": []
+    },
+    {
+     "at": "Sinh vật này hoàn toàn trụi",
+     "image": "assets/long/L52.png",
+     "stickers": [
+      {
+       "at": "30 năm",
+       "side": "L",
+       "y": 360,
+       "value": "30 năm",
+       "label": "tuổi thọ bất tử",
+       "target": [
+        0.3,
+        0.55
+       ]
+      }
+     ],
+     "impacts": []
+    }
+   ],
+   "badge": "NGHIỆM THU HỒ SƠ"
+  }
+ }
+}

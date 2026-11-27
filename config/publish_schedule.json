@@ -1,6 +1,6 @@
 {
  "_doc": "SINH TỰ ĐỘNG bởi src/episode/publish_schedule.py — đừng sửa tay. Lịch TASTE-68: dài 17:00 ngày D, Shorts 11:30 ngày D+1, mega thứ Bảy 17:00. Giờ = Asia/Ho_Chi_Minh (UTC+7). Khi chủ kênh nói 'đăng' mà không kèm giờ -> dùng đúng mục này.",
- "generated": "2026-11-23 11:52",
+ "generated": "2026-11-27 11:26",
  "items": [
   {
    "key": "ep1",
@@ -356,7 +356,7 @@
    "shorts": "2026-11-24 11:30",
    "long_id": "gbNn4hDOF0Q",
    "shorts_id": "qjswbb8qM-4",
-   "related": null,
+   "related": "Cỗ Xe Tăng Nước Úc Có Mông Bọc Thép & Đi Vệ Sinh Ra Hình Lập Phương?! | Tập 26 (saved)",
    "status": "scheduled"
   },
   {
@@ -369,7 +369,7 @@
    "shorts": "2026-11-25 11:30",
    "long_id": "LpexBbrZD_c",
    "shorts_id": "XSq8D-nMxVw",
-   "related": null,
+   "related": "Cỗ Máy Mù Lòa Ăn Mồi Trong 0,12 Giây & Ngửi Mùi Dưới Nước?! | Tập 27 (saved)",
    "status": "scheduled"
   },
   {
@@ -382,7 +382,7 @@
    "shorts": "2026-11-26 11:30",
    "long_id": "HTha5orQDbQ",
    "shorts_id": "GLOJxqJPluQ",
-   "related": null,
+   "related": "Loài Kiến Tự Kích Nổ Tung Cơ Thể Phun Keo Độc Bảo Vệ Tổ?! | Tập 28 (saved)",
    "status": "scheduled"
   },
   {
@@ -395,7 +395,7 @@
    "shorts": "2026-11-27 11:30",
    "long_id": "V0EIQ_vxhjY",
    "shorts_id": "V7uumnm_sag",
-   "related": null,
+   "related": "Sinh Vật Già Yếu Tự Biến Ngược Thành Sơ Sinh Để Bất Tử?! | Tập 29 (saved)",
    "status": "scheduled"
   },
   {
@@ -560,9 +560,12 @@
    "no": 4,
    "title": "Mega 04 — tổng hợp Tập 31-40",
    "project": "projects/mega-04-biet-doi-dac-nhiem-sinh-hoc",
-   "status": "planned",
    "long": "2026-12-09 17:00",
-   "shorts": "2026-12-10 11:30"
+   "shorts": "2026-12-10 11:30",
+   "long_id": "Y7UyI0UcqXQ",
+   "shorts_id": "-XYmjOl4c0U",
+   "related": null,
+   "status": "scheduled"
   },
   {
    "key": "ep41",
@@ -570,9 +573,12 @@
    "no": 41,
    "title": "Tập 41 — Nhện Lặn Chuông",
    "project": "projects/tap-41-nhen-lan-chuong",
-   "status": "planned",
    "long": "2026-12-10 17:00",
-   "shorts": "2026-12-11 11:30"
+   "shorts": "2026-12-11 11:30",
+   "long_id": "7YuPpfgKaQc",
+   "shorts_id": "H2ydyRjgMUM",
+   "related": null,
+   "status": "scheduled"
   },
   {
    "key": "ep42",
@@ -580,9 +586,12 @@
    "no": 42,
    "title": "Tập 42 — Cá Thoi Loi",
    "project": "projects/tap-42-ca-thoi-loi",
-   "status": "planned",
    "long": "2026-12-11 17:00",
-   "shorts": "2026-12-12 11:30"
+   "shorts": "2026-12-12 11:30",
+   "long_id": "6l-Yn_ubQEc",
+   "shorts_id": "PY5_qr8udyA",
+   "related": null,
+   "status": "scheduled"
   },
   {
    "key": "ep43",
@@ -590,9 +599,12 @@
    "no": 43,
    "title": "Tập 43 — Ong Bắp Cày Ngọc",
    "project": "projects/tap-43-ong-bap-cay-ngoc",
-   "status": "planned",
    "long": "2026-12-12 17:00",
-   "shorts": "2026-12-13 11:30"
+   "shorts": "2026-12-13 11:30",
+   "long_id": "iQdBUQw6jBw",
+   "shorts_id": "g2QB3WDj0aE",
+   "related": null,
+   "status": "scheduled"
   },
   {
    "key": "ep44",
@@ -600,9 +612,12 @@
    "no": 44,
    "title": "Tập 44 — Cá Mặt Trăng",
    "project": "projects/tap-44-ca-mat-trang",
-   "status": "planned",
    "long": "2026-12-13 17:00",
-   "shorts": "2026-12-14 11:30"
+   "shorts": "2026-12-14 11:30",
+   "long_id": "YHR78d1KozQ",
+   "shorts_id": "jRsPxR_KV3Q",
+   "related": null,
+   "status": "scheduled"
   },
   {
    "key": "ep45",
@@ -610,9 +625,12 @@
    "no": 45,
    "title": "Tập 45 — Vẹt Kakapo",
    "project": "projects/tap-45-vet-kakapo",
-   "status": "planned",
    "long": "2026-12-14 17:00",
-   "shorts": "2026-12-15 11:30"
+   "shorts": "2026-12-15 11:30",
+   "long_id": "H41-C8-_j18",
+   "shorts_id": "rCXwkVLvhgI",
+   "related": null,
+   "status": "scheduled"
   },
   {
    "key": "ep46",
@@ -620,9 +638,12 @@
    "no": 46,
    "title": "Tập 46 — Lợn Rừng Babirusa",
    "project": "projects/tap-46-lon-huou-babirusa",
-   "status": "planned",
    "long": "2026-12-15 17:00",
-   "shorts": "2026-12-16 11:30"
+   "shorts": "2026-12-16 11:30",
+   "long_id": "2jJ-Ad-ITaM",
+   "shorts_id": "HNAf7HtKvWU",
+   "related": null,
+   "status": "scheduled"
   },
   {
    "key": "ep47",
@@ -630,9 +651,12 @@
    "no": 47,
    "title": "Tập 47 — Hươu Cao Cổ",
    "project": "projects/tap-47-huou-cao-co",
-   "status": "planned",
    "long": "2026-12-16 17:00",
-   "shorts": "2026-12-17 11:30"
+   "shorts": "2026-12-17 11:30",
+   "long_id": "HEl9a_p1Vlw",
+   "shorts_id": "NG7lCYiDCoI",
+   "related": null,
+   "status": "scheduled"
   },
   {
    "key": "ep48",
@@ -640,9 +664,12 @@
    "no": 48,
    "title": "Tập 48 — Cò Mỏ Giày",
    "project": "projects/tap-48-co-mo-giay",
-   "status": "planned",
    "long": "2026-12-17 17:00",
-   "shorts": "2026-12-18 11:30"
+   "shorts": "2026-12-18 11:30",
+   "long_id": "jvhfYM7i-j8",
+   "shorts_id": "XSuc-ITLj4w",
+   "related": null,
+   "status": "scheduled"
   },
   {
    "key": "ep49",
@@ -650,9 +677,12 @@
    "no": 49,
    "title": "Tập 49 — Nhím Lông Nhọn",
    "project": "projects/tap-49-nhim-long-nhon",
-   "status": "planned",
    "long": "2026-12-18 17:00",
-   "shorts": "2026-12-19 11:30"
+   "shorts": "2026-12-19 11:30",
+   "long_id": "Ow1dTSPbqno",
+   "shorts_id": "opI7UpOxhh0",
+   "related": null,
+   "status": "scheduled"
   },
   {
    "key": "ep50",
@@ -660,19 +690,25 @@
    "no": 50,
    "title": "Tập 50 — Khỉ Đột Lưng Bạc",
    "project": "projects/tap-50-khi-dot-lung-bac",
-   "status": "planned",
    "long": "2026-12-19 17:00",
-   "shorts": "2026-12-20 11:30"
+   "shorts": "2026-12-20 11:30",
+   "long_id": "kpdBFXUIN_A",
+   "shorts_id": "rtZrcutWNqA",
+   "related": null,
+   "status": "scheduled"
   },
   {
    "key": "mega-05",
    "kind": "mega",
    "no": 5,
    "title": "Mega 05 — tổng hợp Tập 41-50",
-   "project": null,
-   "status": "planned",
+   "project": "projects/mega-05-phong-cap-cuu-tao-hoa",
    "long": "2026-12-20 17:00",
-   "shorts": "2026-12-21 11:30"
+   "shorts": "2026-12-21 11:30",
+   "long_id": "AYeI9zY37dg",
+   "shorts_id": "feEJtLSLDVk",
+   "related": null,
+   "status": "scheduled"
   },
   {
    "key": "ep51",

@@ -403,6 +403,40 @@
     "báo động đỏ"
    ],
    "closer": "Điệp vụ hoàn tất. Toàn đội rút lui... trước khi bị phát hiện."
+  },
+  "bac_si_truong_khoa": {
+   "format": "F_SPECIAL",
+   "label": "Bác sĩ trưởng khoa cấp cứu / Phim y khoa châm biếm",
+   "default_mood": "nghiem_trang_gia",
+   "mood_mix": {
+    "nghiem_trang_gia": 0.4,
+    "hao_hung": 0.3,
+    "bi_hai": 0.2,
+    "am_ap": 0.1
+   },
+   "cast_hint": [
+    "co_tro_ly",
+    "chu_ngo_ngac",
+    "phat_thanh_vien"
+   ],
+   "address": "xưng 'tôi', người xem là 'các đồng nghiệp' / 'y bác sĩ nội trú', con vật là 'bệnh nhân'",
+   "openers": [
+    "Ca trực đêm bắt đầu. Chuẩn bị máy sốc tim!",
+    "Bệnh án số một, đưa tôi xem ngay."
+   ],
+   "lexicon": [
+    "chẩn đoán",
+    "chỉ số sinh tồn",
+    "hội chẩn",
+    "huyết áp",
+    "điện tâm đồ",
+    "chụp X-quang",
+    "cấp cứu",
+    "ca này lạ",
+    "bệnh nhân trốn viện",
+    "tiên lượng"
+   ],
+   "closer": "Giao ban ca trực kết thúc. Toàn viện... thở phào nhẹ nhõm."
   }
  },
  "rotation_rules": {

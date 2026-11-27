@@ -1,0 +1,28 @@
+{
+ "_doc": "Nhân vật cố định của Phòng Cấp Cứu Tạo Hóa (Mega 05). Phong cách Vintage Anatomical Atlas & 1950s Retro Hospital Illustration. HERO = Bác Sĩ Trưởng Khoa (bác sĩ trung niên blouse trắng quàng ống nghe y tế).",
+ "characters": {
+  "HERO": "ông Bác Sĩ Trưởng Khoa hoạt hình trung niên râu quai nón tỉa gọn, mặc áo blouse trắng có ống nghe y tế quàng qua cổ, kẹp bảng bệnh án bìa da, nét mặt sắc sảo mỉa mai nhưng ánh mắt tinh anh",
+  "HERO_S": "ông Bác Sĩ Trưởng Khoa áo blouse trắng cùng 10 bệnh nhân động vật hoạt hình kỳ lạ trong phòng cấp cứu bệnh viện",
+  "DOCTOR": "ông Bác Sĩ Trưởng Khoa hoạt hình áo blouse trắng quàng ống nghe y tế và kẹp bảng bệnh án",
+  "NURSE": "cô y tá thỏ hoạt hình mặc đồng phục y tá màu xanh phẫu thuật, đội mũ y tá chữ thập đỏ nhỏ nhắn, tay cầm khay thuốc và nhiệt kế, vẻ mặt hốt hoảng cuống cuồng",
+  "BOARD": "bảng kẹp bệnh án y khoa khổng lồ (clipboard) kẹp trên giá đỡ kim loại, hiển thị 10 hồ sơ bệnh án hoạt hình với nhãn đơn thuốc phát sáng và sóng nhịp tim ECG màu đỏ nhấp nháy (không có chữ, không có số)",
+  "NO_HERO": "KHÔNG có ông Bác Sĩ trong cảnh này",
+  "GORILLA": "chú Khỉ Đột Lưng Bạc hoạt hình cơ bắp cuồn cuộn vạm vỡ, mảng lông bạc sáng chói dọc sống lưng, bụng to tròn căng phồng vì chứa đầy lá cây lên men, ngồi xếp bằng trên giường bệnh ôm bụng thở dài",
+  "SPIDER": "chú Nhện Lặn Chuông (diving bell spider) hoạt hình màu nâu đen nhiều lông mịn, tám chân ôm một chiếc bóng khí lấp lánh như viên ngọc trong suốt dưới bụng, đang ngâm mình trong bể nước dã chiến",
+  "MUDSKIPPER": "chú Cá Thòi Lòi hoạt hình màu nâu xám lấm chấm xanh ngọc, hai mắt to tròn lồi hẳn trên đỉnh đầu chớp chớp ngộ nghĩnh, hai vây ngực bè to như đôi tay đang chống nạng gỗ mini đòi nhảy khỏi cáng cứu thương",
+  "WASP": "cô Ong Bắp Cày Ngọc (emerald cockroach wasp) hoạt hình thân thon dài phát sáng xanh ngọc bích kim loại lộng lẫy, chân dài thanh mảnh, tay cầm chiếc dao mổ phẫu thuật thần kinh siêu nhỏ giơ lên đầy tự tin",
+  "MOLA": "chú Cá Mặt Trăng (ocean sunfish) hoạt hình khổng lồ hình đĩa tròn dẹt màu xám bạc, không có cuống đuôi, hai vây lưng và vây hậu môn dựng đứng dài ngoằng, nằm ngửa trên chiếc cáng cứu thương quá khổ mắt to tròn ngơ ngác",
+  "KAKAPO": "chú Vẹt Kakapo hoạt hình béo múp míp lông xanh rêu pha đốm nâu đen, mặt tròn lông tơ như chim cú mèo, mắt ngơ ngác dễ thương, hai cánh ngắn cũn cố vỗ lạch bạch trèo lên nóc tủ thuốc",
+  "BABIRUSA": "chú Lợn Hươu Babirusa hoạt hình da xám nhăn nheo ít lông, mõm dài, bốn chiếc răng nanh cong vút dị thường trong đó hai nanh trên mọc xuyên qua sống mũi uốn ngược về phía trán, vẻ mặt lo lắng sờ trán",
+  "GIRAFFE": "chú Hươu Cao Cổ hoạt hình cao lêu nghêu có đốm hoa văn nâu vàng, chiếc cổ dài thẳng tắp quấn dải băng đo huyết áp y tế to bản màu đỏ, mắt to hiền từ chớp chớp",
+  "SHOEBILL": "chú Cò Mỏ Giày hoạt hình lông xám tro, dáng đứng sừng sững bất động như tượng đá, chiếc mỏ khổng lồ màu vàng xám phình to hình chiếc guốc gỗ, ánh mắt lạnh như tiền đứng canh cửa phòng cấp cứu",
+  "PORCUPINE": "chú Nhím Lông Nhọn Bắc Mỹ hoạt hình béo tròn xù xì, toàn thân phủ kín ba mươi ngàn chiếc gai nhọn trắng đen, đang ôm chặt một thân cây gỗ gặm vỏ thuốc, người tỏa mùi tinh dầu thơm nhẹ"
+ },
+ "side_characters": [
+  "NURSE",
+  "DOCTOR"
+ ],
+ "shorts_side_characters": [
+  "NURSE"
+ ]
+}

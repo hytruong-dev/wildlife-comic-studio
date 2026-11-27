@@ -1,0 +1,13 @@
+## PHÒNG CẤP CỨU TẠO HÓA | 10 BỆNH NHÂN DỊ THƯỜNG
+@ don_dap
+Mười hai giờ đêm tại Phòng Cấp Cứu Tạo Hóa! Còi báo động đỏ réo vang khi mười ca bệnh kỳ dị nhất hành tinh cùng lúc tràn vào sảnh! :: Còi báo động đỏ chớp nháy liên hồi, {DOCTOR} quàng vội ống nghe lao ra sảnh cấp cứu đón mười cáng bệnh nhân xếp hàng chen chúc.
+Anh Khỉ Đột Lưng Bạc đấm bẹp đầu xe hơi nhưng đang khóc ròng vì bụng đầy hơi men! :: {GORILLA} ôm cái bụng tròn ủng như quả bóng bay rên rỉ, bên cạnh là tấm phim X-quang chụp ổ bụng chứa toàn bọt khí lên men; {NO_HERO}.
+Chú Cá Thòi Lòi nhảy chồm chồm kiên quyết không thở dưới nước, dùng vây leo tót lên rèm cửa! :: {MUDSKIPPER} dùng hai vây ngực chống nạng nhảy lóc chóc quanh chân bác sĩ rồi leo tót lên mép rèm cửa trố mắt nhìn; {NO_HERO}.
+Cô Ong Bắp Cày Ngọc đòi chích nọc thôi miên não gián thành zombie ngoan ngoãn! :: {WASP} cầm dao vi phẫu thuật bay lượn tự tin, phía dưới là chú gián ngoan ngoãn cúi đầu bước theo sau; {NO_HERO}.
+Khối thịt hai tấn Cá Mặt Trăng nằm bẹp dí ngơ ngác, chỉ đang tắm nắng sau chuyến lặn sâu tám trăm mét! :: {MOLA} khổng lồ nằm ngửa trên cáng cứu thương mắt to tròn ngơ ngác, monitor ECG bên cạnh nhảy số nhịp tim chậm rì; {NO_HERO}.
+Vẹt Kakapo béo tròn bốn cân biểu diễn nhảy dù úp bụng xuống đống gối bông của y tá! :: {KAKAPO} xòe hai cánh ngắn cũn rơi tự do úp nguyên cái bụng mỡ tròn vo xuống đống gối y tế trắng tinh; {NO_HERO}.
+Lợn Babirusa với bốn nanh cong vút xuyên sống mũi uốn ngược sát sạt hộp sọ! :: {BABIRUSA} giơ móng vuốt ve hai chiếc nanh hàm trên mọc ngược uốn cong chạm sát xương trán chụp trên phim CT; {NO_HERO}.
+Hươu Cao Cổ huyết áp vọt lên gần ba trăm, tim mười một cân bơm máu ngược trọng lực lên chiếc cổ hai mét! :: {GIRAFFE} quấn dải băng đo huyết áp đỏ quanh cổ dài, đồng hồ áp suất nhảy mốc ba trăm mi-li-mét thủy ngân rung bần bật; {NO_HERO}.
+Nhím Lông Nhọn rụng ba mươi ngàn chiếc gai có ngạnh, nhưng tẩm sẵn lớp mỡ kháng sinh tự chữa lành thần tốc! :: {PORCUPINE} xù ba mươi ngàn chiếc gai nhọn trắng đen, một sợi gai phóng to dưới kính hiển vi lộ rõ lớp màng mỡ kháng khuẩn; {NO_HERO}.
+Và Cò Mỏ Giày đứng như tượng đá rồi bất thần gõ mỏ súng máy một trăm mười lăm đê-xi-ben vang dội! :: {SHOEBILL} ngửa cổ đập hai hàm mỏ guốc khổng lồ vào nhau phát ra tia lửa và âm thanh súng máy làm y tá giật bắn người; {NO_HERO}.
+Bấm ngay vào video dài để cùng Bác Sĩ Trưởng Khoa khám phá ca trực đêm kinh hoàng này nhé! :: {DOCTOR} giơ bảng kẹp bệnh án da đen chỉ tay vào liên kết video dài với nụ cười sắc sảo đầy lôi cuốn.

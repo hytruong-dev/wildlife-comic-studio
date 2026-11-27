@@ -1,7 +1,7 @@
 # LỊCH ĐĂNG VIDEO — Vẽ Chuyện Hoang Dã
 
 > **SINH TỰ ĐỘNG** từ `python src/episode/publish_schedule.py` (dữ liệu: `config/publish_schedule.json`). Đừng sửa tay — sửa script rồi chạy lại.
-> Cập nhật: 23/11/2026 11:52. Giờ Việt Nam (UTC+7).
+> Cập nhật: 27/11/2026 11:26. Giờ Việt Nam (UTC+7).
 
 ## Quy tắc (TASTE-68, chốt 12/11/2026)
 
@@ -50,10 +50,10 @@
 | ep23 | Tập 23 — Hải Sâm [▶](https://youtu.be/Vvz75e4gSjI) | Thứ Sáu 20/11/2026 17:00 | Thứ Bảy 21/11/2026 11:30 | ✅ đã lên | `projects/tap-23-hai-sam` |
 | ep24 | Tập 24 — Cá Mút Đá Hagfish [▶](https://youtu.be/K610mvcP2q0) | Thứ Bảy 21/11/2026 17:00 | Chủ Nhật 22/11/2026 11:30 | ✅ đã lên | `projects/tap-24-ca-mut-da-hagfish` |
 | ep25 | Tập 25 — Bạch Tuộc Mimic [▶](https://youtu.be/m4T5sDoTQEY) | Chủ Nhật 22/11/2026 17:00 | Thứ Hai 23/11/2026 11:30 | ✅ đã lên | `projects/tap-25-bach-tuoc-mimic` |
-| ep26 | Tập 26 — Gấu Túi Wombat [▶](https://youtu.be/gbNn4hDOF0Q) | Thứ Hai 23/11/2026 17:00 | Thứ Ba 24/11/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-26-gau-tui-wombat` |
-| ep27 | Tập 27 — Chuột Chũi Sao [▶](https://youtu.be/LpexBbrZD_c) | Thứ Ba 24/11/2026 17:00 | Thứ Tư 25/11/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-27-chuot-chui-sao` |
-| ep28 | Tập 28 — Kiến Nổ Cảm Tử [▶](https://youtu.be/HTha5orQDbQ) | Thứ Tư 25/11/2026 17:00 | Thứ Năm 26/11/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-28-kien-no-cam-tu` |
-| ep29 | Tập 29 — Sứa Bất Tử [▶](https://youtu.be/V0EIQ_vxhjY) | Thứ Năm 26/11/2026 17:00 | Thứ Sáu 27/11/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-29-sua-bat-tu` |
+| ep26 | Tập 26 — Gấu Túi Wombat [▶](https://youtu.be/gbNn4hDOF0Q) | Thứ Hai 23/11/2026 17:00 | Thứ Ba 24/11/2026 11:30 | ✅ đã lên | `projects/tap-26-gau-tui-wombat` |
+| ep27 | Tập 27 — Chuột Chũi Sao [▶](https://youtu.be/LpexBbrZD_c) | Thứ Ba 24/11/2026 17:00 | Thứ Tư 25/11/2026 11:30 | ✅ đã lên | `projects/tap-27-chuot-chui-sao` |
+| ep28 | Tập 28 — Kiến Nổ Cảm Tử [▶](https://youtu.be/HTha5orQDbQ) | Thứ Tư 25/11/2026 17:00 | Thứ Năm 26/11/2026 11:30 | ✅ đã lên | `projects/tap-28-kien-no-cam-tu` |
+| ep29 | Tập 29 — Sứa Bất Tử [▶](https://youtu.be/V0EIQ_vxhjY) | Thứ Năm 26/11/2026 17:00 | Thứ Sáu 27/11/2026 11:30 | ✅ đã lên | `projects/tap-29-sua-bat-tu` |
 | ep30 | Tập 30 — Hải Ly [▶](https://youtu.be/mk4y7BDSvKE) | Thứ Sáu 27/11/2026 17:00 | Thứ Bảy 28/11/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-30-hai-ly` |
 | mega-03 | **Mega 03 — tổng hợp Tập 21-30** [▶](https://youtu.be/Uv9bObwYZ_0) | Thứ Bảy 28/11/2026 17:00 | Chủ Nhật 29/11/2026 11:30 | ⏰ đã hẹn giờ | `projects/mega-03-dai-hoi-sinh-ton` |
 | ep31 | Tập 31 — Chim Cắt Lớn [▶](https://youtu.be/7mo4j23bGE0) | Chủ Nhật 29/11/2026 17:00 | Thứ Hai 30/11/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-31-chim-cat-lon` |
@@ -66,18 +66,18 @@
 | ep38 | Tập 38 — Dê Núi Bắc Mỹ [▶](https://youtu.be/X8iDYVBtjyQ) | Chủ Nhật 06/12/2026 17:00 | Thứ Hai 07/12/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-38-de-nui-bac-my` |
 | ep39 | Tập 39 — Chim Bách Thanh [▶](https://youtu.be/sDsCqOAroeQ) | Thứ Hai 07/12/2026 17:00 | Thứ Ba 08/12/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-39-chim-bach-thanh` |
 | ep40 | Tập 40 — Kiến Cắt Lá [▶](https://youtu.be/A_ha-Iiyv_Q) | Thứ Ba 08/12/2026 17:00 | Thứ Tư 09/12/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-40-kien-cat-la` |
-| mega-04 | **Mega 04 — tổng hợp Tập 31-40** | Thứ Tư 09/12/2026 17:00 | Thứ Năm 10/12/2026 11:30 | 📝 kế hoạch | `projects/mega-04-biet-doi-dac-nhiem-sinh-hoc` |
-| ep41 | Tập 41 — Nhện Lặn Chuông | Thứ Năm 10/12/2026 17:00 | Thứ Sáu 11/12/2026 11:30 | 📝 kế hoạch | `projects/tap-41-nhen-lan-chuong` |
-| ep42 | Tập 42 — Cá Thoi Loi | Thứ Sáu 11/12/2026 17:00 | Thứ Bảy 12/12/2026 11:30 | 📝 kế hoạch | `projects/tap-42-ca-thoi-loi` |
-| ep43 | Tập 43 — Ong Bắp Cày Ngọc | Thứ Bảy 12/12/2026 17:00 | Chủ Nhật 13/12/2026 11:30 | 📝 kế hoạch | `projects/tap-43-ong-bap-cay-ngoc` |
-| ep44 | Tập 44 — Cá Mặt Trăng | Chủ Nhật 13/12/2026 17:00 | Thứ Hai 14/12/2026 11:30 | 📝 kế hoạch | `projects/tap-44-ca-mat-trang` |
-| ep45 | Tập 45 — Vẹt Kakapo | Thứ Hai 14/12/2026 17:00 | Thứ Ba 15/12/2026 11:30 | 📝 kế hoạch | `projects/tap-45-vet-kakapo` |
-| ep46 | Tập 46 — Lợn Rừng Babirusa | Thứ Ba 15/12/2026 17:00 | Thứ Tư 16/12/2026 11:30 | 📝 kế hoạch | `projects/tap-46-lon-huou-babirusa` |
-| ep47 | Tập 47 — Hươu Cao Cổ | Thứ Tư 16/12/2026 17:00 | Thứ Năm 17/12/2026 11:30 | 📝 kế hoạch | `projects/tap-47-huou-cao-co` |
-| ep48 | Tập 48 — Cò Mỏ Giày | Thứ Năm 17/12/2026 17:00 | Thứ Sáu 18/12/2026 11:30 | 📝 kế hoạch | `projects/tap-48-co-mo-giay` |
-| ep49 | Tập 49 — Nhím Lông Nhọn | Thứ Sáu 18/12/2026 17:00 | Thứ Bảy 19/12/2026 11:30 | 📝 kế hoạch | `projects/tap-49-nhim-long-nhon` |
-| ep50 | Tập 50 — Khỉ Đột Lưng Bạc | Thứ Bảy 19/12/2026 17:00 | Chủ Nhật 20/12/2026 11:30 | 📝 kế hoạch | `projects/tap-50-khi-dot-lung-bac` |
-| mega-05 | **Mega 05 — tổng hợp Tập 41-50** | Chủ Nhật 20/12/2026 17:00 | Thứ Hai 21/12/2026 11:30 | 📝 kế hoạch | _chưa làm_ |
+| mega-04 | **Mega 04 — tổng hợp Tập 31-40** [▶](https://youtu.be/Y7UyI0UcqXQ) | Thứ Tư 09/12/2026 17:00 | Thứ Năm 10/12/2026 11:30 | ⏰ đã hẹn giờ | `projects/mega-04-biet-doi-dac-nhiem-sinh-hoc` |
+| ep41 | Tập 41 — Nhện Lặn Chuông [▶](https://youtu.be/7YuPpfgKaQc) | Thứ Năm 10/12/2026 17:00 | Thứ Sáu 11/12/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-41-nhen-lan-chuong` |
+| ep42 | Tập 42 — Cá Thoi Loi [▶](https://youtu.be/6l-Yn_ubQEc) | Thứ Sáu 11/12/2026 17:00 | Thứ Bảy 12/12/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-42-ca-thoi-loi` |
+| ep43 | Tập 43 — Ong Bắp Cày Ngọc [▶](https://youtu.be/iQdBUQw6jBw) | Thứ Bảy 12/12/2026 17:00 | Chủ Nhật 13/12/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-43-ong-bap-cay-ngoc` |
+| ep44 | Tập 44 — Cá Mặt Trăng [▶](https://youtu.be/YHR78d1KozQ) | Chủ Nhật 13/12/2026 17:00 | Thứ Hai 14/12/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-44-ca-mat-trang` |
+| ep45 | Tập 45 — Vẹt Kakapo [▶](https://youtu.be/H41-C8-_j18) | Thứ Hai 14/12/2026 17:00 | Thứ Ba 15/12/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-45-vet-kakapo` |
+| ep46 | Tập 46 — Lợn Rừng Babirusa [▶](https://youtu.be/2jJ-Ad-ITaM) | Thứ Ba 15/12/2026 17:00 | Thứ Tư 16/12/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-46-lon-huou-babirusa` |
+| ep47 | Tập 47 — Hươu Cao Cổ [▶](https://youtu.be/HEl9a_p1Vlw) | Thứ Tư 16/12/2026 17:00 | Thứ Năm 17/12/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-47-huou-cao-co` |
+| ep48 | Tập 48 — Cò Mỏ Giày [▶](https://youtu.be/jvhfYM7i-j8) | Thứ Năm 17/12/2026 17:00 | Thứ Sáu 18/12/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-48-co-mo-giay` |
+| ep49 | Tập 49 — Nhím Lông Nhọn [▶](https://youtu.be/Ow1dTSPbqno) | Thứ Sáu 18/12/2026 17:00 | Thứ Bảy 19/12/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-49-nhim-long-nhon` |
+| ep50 | Tập 50 — Khỉ Đột Lưng Bạc [▶](https://youtu.be/kpdBFXUIN_A) | Thứ Bảy 19/12/2026 17:00 | Chủ Nhật 20/12/2026 11:30 | ⏰ đã hẹn giờ | `projects/tap-50-khi-dot-lung-bac` |
+| mega-05 | **Mega 05 — tổng hợp Tập 41-50** [▶](https://youtu.be/AYeI9zY37dg) | Chủ Nhật 20/12/2026 17:00 | Thứ Hai 21/12/2026 11:30 | ⏰ đã hẹn giờ | `projects/mega-05-phong-cap-cuu-tao-hoa` |
 | ep51 | Tập 51 — Rắn Hổ Mang Chúa | Thứ Hai 21/12/2026 17:00 | Thứ Ba 22/12/2026 11:30 | 📝 kế hoạch | _chưa làm_ |
 | ep52 | Tập 52 — Cá Sấu Nước Mặn | Thứ Ba 22/12/2026 17:00 | Thứ Tư 23/12/2026 11:30 | 📝 kế hoạch | _chưa làm_ |
 | ep53 | Tập 53 — Cá Voi Xanh | Thứ Tư 23/12/2026 17:00 | Thứ Năm 24/12/2026 11:30 | 📝 kế hoạch | _chưa làm_ |

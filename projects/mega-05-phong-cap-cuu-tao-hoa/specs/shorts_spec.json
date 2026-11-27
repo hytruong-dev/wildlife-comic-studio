@@ -1,0 +1,424 @@
+{
+ "episode": "mega-05-phong-cap-cuu-tao-hoa",
+ "title_lines": [
+  "PHÒNG CẤP CỨU TẠO HÓA",
+  "10 BỆNH NHÂN DỊ THƯỜNG"
+ ],
+ "voice": "audio/shorts.wav",
+ "words": "audio/shorts_words.json",
+ "title_image": "assets/banners/shorts_title.png",
+ "voice_end_s": 51.87,
+ "outro_buffer_s": 1.5,
+ "bgm": "assets/bgm/calm-acoustic.wav",
+ "output": "renders/mega-05-phong-cap-cuu-tao-hoa_shorts.mp4",
+ "image_box": [
+  560,
+  835
+ ],
+ "preview_times": [
+  1.8,
+  8.37,
+  12.39,
+  17.35,
+  20.73,
+  25.85,
+  30.27,
+  34.13,
+  38.72,
+  44.32,
+  49.24
+ ],
+ "beats": [
+  {
+   "id": "s01",
+   "start_s": 0.0,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S01.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 0.48,
+     "text": "Mười 2 giờ"
+    },
+    {
+     "t": 0.88,
+     "text": "đêm tại Phòng"
+    },
+    {
+     "t": 1.44,
+     "text": "Cấp Cứu Tạo"
+    },
+    {
+     "t": 2.08,
+     "text": "Hóa! Còi báo"
+    },
+    {
+     "t": 3.06,
+     "text": "động đỏ réo"
+    },
+    {
+     "t": 3.62,
+     "text": "vang khi 10"
+    },
+    {
+     "t": 4.2,
+     "text": "ca bệnh kỳ"
+    },
+    {
+     "t": 4.72,
+     "text": "dị nhất hành"
+    },
+    {
+     "t": 5.2,
+     "text": "tinh cùng lúc"
+    },
+    {
+     "t": 5.8,
+     "text": "tràn vào sảnh!"
+    }
+   ],
+   "start_progress": 0.35
+  },
+  {
+   "id": "s02",
+   "start_s": 6.57,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S02.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 6.82,
+     "text": "Anh Khỉ Đột"
+    },
+    {
+     "t": 7.3,
+     "text": "Lưng Bạc đấm"
+    },
+    {
+     "t": 7.88,
+     "text": "bẹp đầu xe"
+    },
+    {
+     "t": 8.46,
+     "text": "hơi nhưng đang"
+    },
+    {
+     "t": 9.02,
+     "text": "khóc ròng vì"
+    },
+    {
+     "t": 9.66,
+     "text": "bụng đầy hơi men!"
+    }
+   ]
+  },
+  {
+   "id": "s03",
+   "start_s": 10.59,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S03.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 10.84,
+     "text": "Chú Cá Thòi"
+    },
+    {
+     "t": 11.32,
+     "text": "Lòi nhảy chồm"
+    },
+    {
+     "t": 11.95,
+     "text": "chồm kiên quyết"
+    },
+    {
+     "t": 12.62,
+     "text": "không thở dưới"
+    },
+    {
+     "t": 13.2,
+     "text": "nước, dùng vây"
+    },
+    {
+     "t": 14.16,
+     "text": "leo tót lên"
+    },
+    {
+     "t": 14.68,
+     "text": "rèm cửa!"
+    }
+   ]
+  },
+  {
+   "id": "s04",
+   "start_s": 15.55,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S04.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 15.8,
+     "text": "Cô Ong Bắp"
+    },
+    {
+     "t": 16.28,
+     "text": "Cày Ngọc đòi"
+    },
+    {
+     "t": 16.84,
+     "text": "chích nọc thôi"
+    },
+    {
+     "t": 17.38,
+     "text": "miên não gián"
+    },
+    {
+     "t": 18.08,
+     "text": "thành zombie ngoan ngoãn!"
+    }
+   ]
+  },
+  {
+   "id": "s05",
+   "start_s": 18.93,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S05.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 19.18,
+     "text": "Khối thịt 2"
+    },
+    {
+     "t": 20.06,
+     "text": "tấn Cá Mặt"
+    },
+    {
+     "t": 20.66,
+     "text": "Trăng nằm bẹp"
+    },
+    {
+     "t": 21.38,
+     "text": "dí ngơ ngác,"
+    },
+    {
+     "t": 22.18,
+     "text": "chỉ đang tắm"
+    },
+    {
+     "t": 22.64,
+     "text": "nắng sau chuyến"
+    },
+    {
+     "t": 23.08,
+     "text": "lặn sâu 800 m!"
+    }
+   ]
+  },
+  {
+   "id": "s06",
+   "start_s": 24.05,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S06.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 24.3,
+     "text": "Vẹt Kakapo béo"
+    },
+    {
+     "t": 25.16,
+     "text": "tròn 4 kg"
+    },
+    {
+     "t": 25.76,
+     "text": "biểu diễn nhảy"
+    },
+    {
+     "t": 26.44,
+     "text": "dù úp bụng"
+    },
+    {
+     "t": 27.08,
+     "text": "xuống đống gối"
+    },
+    {
+     "t": 27.52,
+     "text": "bông của y tá!"
+    }
+   ]
+  },
+  {
+   "id": "s07",
+   "start_s": 28.47,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S07.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 28.72,
+     "text": "Lợn Babirusa với"
+    },
+    {
+     "t": 29.76,
+     "text": "4 nanh cong"
+    },
+    {
+     "t": 30.22,
+     "text": "vút xuyên sống"
+    },
+    {
+     "t": 30.82,
+     "text": "mũi uốn ngược"
+    },
+    {
+     "t": 31.38,
+     "text": "sát sạt hộp sọ!"
+    }
+   ]
+  },
+  {
+   "id": "s08",
+   "start_s": 32.33,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S08.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 32.58,
+     "text": "Hươu Cao Cổ"
+    },
+    {
+     "t": 33.06,
+     "text": "huyết áp vọt"
+    },
+    {
+     "t": 33.66,
+     "text": "lên gần 300,"
+    },
+    {
+     "t": 34.32,
+     "text": "tim 11 kg"
+    },
+    {
+     "t": 35.08,
+     "text": "bơm máu ngược"
+    },
+    {
+     "t": 35.62,
+     "text": "trọng lực lên"
+    },
+    {
+     "t": 36.24,
+     "text": "chiếc cổ 2 m!"
+    }
+   ]
+  },
+  {
+   "id": "s09",
+   "start_s": 36.92,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S09.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 37.4,
+     "text": "Nhím Lông Nhọn"
+    },
+    {
+     "t": 37.98,
+     "text": "rụng 30.000 chiếc"
+    },
+    {
+     "t": 38.88,
+     "text": "gai có ngạnh,"
+    },
+    {
+     "t": 39.36,
+     "text": "nhưng tẩm sẵn"
+    },
+    {
+     "t": 40.28,
+     "text": "lớp mỡ kháng"
+    },
+    {
+     "t": 40.88,
+     "text": "sinh tự chữa"
+    },
+    {
+     "t": 41.56,
+     "text": "lành thần tốc!"
+    }
+   ]
+  },
+  {
+   "id": "s10",
+   "start_s": 42.52,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S10.png",
+   "stickers": [],
+   "captions": []
+  },
+  {
+   "id": "s11",
+   "start_s": 47.44,
+   "draw_s": 1.0,
+   "image": "assets/shorts/S11.png",
+   "stickers": [],
+   "captions": [
+    {
+     "t": 49.18,
+     "text": "Và Cò Mỏ"
+    },
+    {
+     "t": 49.184,
+     "text": "Giày đứng như"
+    },
+    {
+     "t": 49.192,
+     "text": "tượng đá rồi"
+    },
+    {
+     "t": 49.199,
+     "text": "bất thần gõ"
+    },
+    {
+     "t": 49.206,
+     "text": "mỏ súng máy"
+    },
+    {
+     "t": 49.212,
+     "text": "115 dB vang"
+    },
+    {
+     "t": 49.219,
+     "text": "dội! Bấm ngay"
+    },
+    {
+     "t": 49.226,
+     "text": "vào video dài"
+    },
+    {
+     "t": 49.234,
+     "text": "để cùng Bác"
+    },
+    {
+     "t": 49.24,
+     "text": "Sĩ Trưởng Khoa"
+    },
+    {
+     "t": 49.98,
+     "text": "khám phá ca"
+    },
+    {
+     "t": 50.54,
+     "text": "trực đêm kinh"
+    },
+    {
+     "t": 51.16,
+     "text": "hoàng này nhé!"
+    }
+   ]
+  }
+ ]
+}

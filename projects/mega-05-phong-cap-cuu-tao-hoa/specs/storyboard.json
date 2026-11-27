@@ -1,0 +1,3886 @@
+{
+ "_doc": "SINH BỞI src/mega/build_from_content.py từ content/*.md — sửa content rồi chạy lại, KHÔNG sửa file này.",
+ "characters": {
+  "HERO": "ông Bác Sĩ Trưởng Khoa hoạt hình trung niên râu quai nón tỉa gọn, mặc áo blouse trắng có ống nghe y tế quàng qua cổ, kẹp bảng bệnh án bìa da, nét mặt sắc sảo mỉa mai nhưng ánh mắt tinh anh",
+  "HERO_S": "ông Bác Sĩ Trưởng Khoa áo blouse trắng cùng 10 bệnh nhân động vật hoạt hình kỳ lạ trong phòng cấp cứu bệnh viện",
+  "DOCTOR": "ông Bác Sĩ Trưởng Khoa hoạt hình áo blouse trắng quàng ống nghe y tế và kẹp bảng bệnh án",
+  "NURSE": "cô y tá thỏ hoạt hình mặc đồng phục y tá màu xanh phẫu thuật, đội mũ y tá chữ thập đỏ nhỏ nhắn, tay cầm khay thuốc và nhiệt kế, vẻ mặt hốt hoảng cuống cuồng",
+  "BOARD": "bảng kẹp bệnh án y khoa khổng lồ (clipboard) kẹp trên giá đỡ kim loại, hiển thị 10 hồ sơ bệnh án hoạt hình với nhãn đơn thuốc phát sáng và sóng nhịp tim ECG màu đỏ nhấp nháy (không có chữ, không có số)",
+  "NO_HERO": "KHÔNG có ông Bác Sĩ trong cảnh này",
+  "GORILLA": "chú Khỉ Đột Lưng Bạc hoạt hình cơ bắp cuồn cuộn vạm vỡ, mảng lông bạc sáng chói dọc sống lưng, bụng to tròn căng phồng vì chứa đầy lá cây lên men, ngồi xếp bằng trên giường bệnh ôm bụng thở dài",
+  "SPIDER": "chú Nhện Lặn Chuông (diving bell spider) hoạt hình màu nâu đen nhiều lông mịn, tám chân ôm một chiếc bóng khí lấp lánh như viên ngọc trong suốt dưới bụng, đang ngâm mình trong bể nước dã chiến",
+  "MUDSKIPPER": "chú Cá Thòi Lòi hoạt hình màu nâu xám lấm chấm xanh ngọc, hai mắt to tròn lồi hẳn trên đỉnh đầu chớp chớp ngộ nghĩnh, hai vây ngực bè to như đôi tay đang chống nạng gỗ mini đòi nhảy khỏi cáng cứu thương",
+  "WASP": "cô Ong Bắp Cày Ngọc (emerald cockroach wasp) hoạt hình thân thon dài phát sáng xanh ngọc bích kim loại lộng lẫy, chân dài thanh mảnh, tay cầm chiếc dao mổ phẫu thuật thần kinh siêu nhỏ giơ lên đầy tự tin",
+  "MOLA": "chú Cá Mặt Trăng (ocean sunfish) hoạt hình khổng lồ hình đĩa tròn dẹt màu xám bạc, không có cuống đuôi, hai vây lưng và vây hậu môn dựng đứng dài ngoằng, nằm ngửa trên chiếc cáng cứu thương quá khổ mắt to tròn ngơ ngác",
+  "KAKAPO": "chú Vẹt Kakapo hoạt hình béo múp míp lông xanh rêu pha đốm nâu đen, mặt tròn lông tơ như chim cú mèo, mắt ngơ ngác dễ thương, hai cánh ngắn cũn cố vỗ lạch bạch trèo lên nóc tủ thuốc",
+  "BABIRUSA": "chú Lợn Hươu Babirusa hoạt hình da xám nhăn nheo ít lông, mõm dài, bốn chiếc răng nanh cong vút dị thường trong đó hai nanh trên mọc xuyên qua sống mũi uốn ngược về phía trán, vẻ mặt lo lắng sờ trán",
+  "GIRAFFE": "chú Hươu Cao Cổ hoạt hình cao lêu nghêu có đốm hoa văn nâu vàng, chiếc cổ dài thẳng tắp quấn dải băng đo huyết áp y tế to bản màu đỏ, mắt to hiền từ chớp chớp",
+  "SHOEBILL": "chú Cò Mỏ Giày hoạt hình lông xám tro, dáng đứng sừng sững bất động như tượng đá, chiếc mỏ khổng lồ màu vàng xám phình to hình chiếc guốc gỗ, ánh mắt lạnh như tiền đứng canh cửa phòng cấp cứu",
+  "PORCUPINE": "chú Nhím Lông Nhọn Bắc Mỹ hoạt hình béo tròn xù xì, toàn thân phủ kín ba mươi ngàn chiếc gai nhọn trắng đen, đang ôm chặt một thân cây gỗ gặm vỏ thuốc, người tỏa mùi tinh dầu thơm nhẹ"
+ },
+ "side_characters": [
+  "NURSE",
+  "DOCTOR"
+ ],
+ "shorts_side_characters": [
+  "NURSE"
+ ],
+ "shorts_title_lines": [
+  "PHÒNG CẤP CỨU TẠO HÓA",
+  "10 BỆNH NHÂN DỊ THƯỜNG"
+ ],
+ "skip_numbers": [],
+ "long": [
+  {
+   "scene": "scene01",
+   "at": 0,
+   "layout": "Bầu trời đêm đen kịt vần vũ mây bão, tia sét ngoằn ngoèo xé toạc màn đêm chiếu rọi tòa nhà bệnh viện cổ kính phong cách retro thập niên 1950; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Những vệt sét",
+   "layout": "Tấm biển đồng thau cổ điển khắc chìm dòng chữ PHÒNG CẤP CỨU TẠO HÓA phát sáng dưới ánh chớp bão đêm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Tôi là Bác",
+   "layout": "{DOCTOR} đứng bên cửa sổ phòng làm việc, tay cầm tách cà phê đen nóng bốc khói nghi ngút, ánh mắt trầm tư nhìn ra màn mưa bão trắng xóa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Nhưng linh cảm",
+   "layout": "{DOCTOR} nhấp một ngụm cà phê đắng, quay lại nhìn chiếc đồng hồ quả lắc bằng đồng đang gõ nhịp tích tắc trên tường.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chiếc bàn làm",
+   "layout": "Bàn làm việc ngổn ngang hồ sơ bệnh án cổ điển, kính lúp y khoa, ống nghe bằng đồng và ngọn đèn bàn chụp xanh phong cách retro; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Một ca trực",
+   "layout": "{DOCTOR} với tay rót thêm một tách cà phê đen sánh mịn từ chiếc bình thủy tinh cổ điển bốc khói nghi ngút.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bác sĩ trưởng khoa ơi!",
+   "layout": "{NURSE} hớt hải đẩy tung cánh cửa gỗ đôi chạy vào phòng, hai tai thỏ dài rung lên bần bật, tay ôm xấp hồ sơ dày cộp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Hệ thống đường",
+   "layout": "{NURSE} chỉ tay về phía bảng tổng đài điện thoại cổ điển sau lưng đang nhấp nháy đèn đỏ liên hồi kèm chuông reo dồn dập; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mười bệnh nhân",
+   "layout": "{NURSE} run rẩy giơ xấp giấy bệnh án có dán mười bức ảnh sinh vật kỳ dị ra trước mặt bác sĩ trưởng khoa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bình tĩnh nào",
+   "layout": "{DOCTOR} đặt tách cà phê xuống đĩa sứ, kéo chiếc kính lão đồi mồi xuống sống mũi rồi đón lấy tập hồ sơ từ tay y tá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Để tôi đọc",
+   "layout": "{DOCTOR} lật giở từng trang hồ sơ bệnh án kẹp trên chiếc {BOARD}, ánh mắt sáng lên vẻ thích thú và tò mò cao độ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Ca số một:",
+   "layout": "{GORILLA} nằm co ro trên giường bệnh dã chiến, hai tay ôm chiếc bụng tròn ủng căng phồng vẻ mặt mếu máo tội nghiệp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Ca số 2:",
+   "layout": "{SPIDER} tám chân thoăn thoắt bò trốn khỏi chiếc mặt nạ dưỡng khí mini, nhảy ùm vào bình nước thủy tinh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Ca số 3:",
+   "layout": "{MUDSKIPPER} dùng hai vây ngực cơ bắp chống thẳng đứng trên mặt bàn khám, đôi mắt lồi đảo tròn tinh nghịch; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Ca số 4:",
+   "layout": "{WASP} màu xanh ngọc bích óng ánh đang dùng râu kéo lê một chú gián to lớn ngoan ngoãn bước từng bước vô hồn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Ca số 5:",
+   "layout": "{MOLA} tròn xoe như chiếc bánh kếp khổng lồ nằm bẹp trên sàn sảnh đón tiếp, đôi mắt tròn xoe ngơ ngác chớp chớp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Ca số 6:",
+   "layout": "{KAKAPO} lông xanh rêu béo múp míp đang ngồi xoa chiếc mông tròn xoe giữa đống lông vũ rụng tơi bời; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Ca số 7:",
+   "layout": "{BABIRUSA} với cặp nanh trên mọc ngược xuyên qua sống mũi uốn cong sát trán, vẻ mặt đầy bối rối lo âu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Ca số 8:",
+   "layout": "{GIRAFFE} gục chiếc cổ dài hai mét lên thành quầy tiếp nhận bệnh nhân, mắt hoa lên nhìn những vòng tròn xoay tít; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Ca số 9:",
+   "layout": "{PORCUPINE} xù lông gai lởm chởm, một bên chân ngắn cũn cắm đầy những mảnh gai gãy nhăn nhó gãi đầu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Và ca số",
+   "layout": "{SHOEBILL} đứng sừng sững như tượng đá xám giữa sảnh bệnh viện, chiếc mỏ guốc khổng lồ chúc xuống góc bốn mươi lăm độ đầy ma mị; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Trời đất ơi!",
+   "layout": "{DOCTOR} bật cười thành tiếng, lắc đầu thán phục trước danh sách bệnh nhân vô tiền khoáng hậu đang hiện diện trước mắt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bác sĩ trưởng khoa đã",
+   "layout": "{NURSE} đưa tay lên trán thở dài thườn thượt, gương mặt thỏ trắng lộ rõ vẻ mệt mỏi nhưng cũng đầy hồi hộp chờ đợi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Chưa từng có",
+   "layout": "{DOCTOR} mỉm cười đôn hậu, bước tới tủ thuốc lấy ra chiếc áo choàng phẫu thuật màu xanh ngọc bích quen thuộc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mỗi sinh vật",
+   "layout": "{DOCTOR} khoác chiếc áo blouse trắng tinh tươm, đeo găng tay cao su vô trùng và chỉnh lại chiếc ống nghe trên cổ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Rầm! Rầm! Rầm!",
+   "layout": "Cánh cửa kính lớn rung bần bật dưới áp lực xô đẩy từ bên ngoài, bóng đen đồ sộ của các loài vật in dài trên nền sàn gạch hoa cương; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đoàn xe cứu",
+   "layout": "Dãy xe cứu thương cổ điển bật đèn chớp xoay tròn màu đỏ rực, tiếng còi hụ khẩn cấp inh ỏi ngoài sân bệnh viện; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Các nhân viên",
+   "layout": "Hàng chục nhân viên y tế hối hả chạy dọc hành lang đẩy các cáng cứu hộ chuyên dụng có gắn bình dưỡng khí và máy đo nhịp tim; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mùi cồn sát",
+   "layout": "Khung cảnh nhộn nhịp khẩn trương của sảnh cấp cứu với làn khói thuốc sát trùng mờ ảo và ánh đèn neon rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Mọi người chú",
+   "layout": "{DOCTOR} bước ra sảnh lớn, cất giọng vang ấm dõng dạc trấn an toàn bộ đám đông đang nhốn nháo ngoài sảnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Anh khỉ đột",
+   "layout": "{GORILLA} ngượng ngùng né người khỏi tủ thuốc, chú {PORCUPINE} chớp mắt ngơ ngác lùi lại phía sau hàng ghế chờ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Toàn thể đội",
+   "layout": "Các bác sĩ trẻ trong trang phục y tế hối hả mở các tủ đồ nghề kim loại sáng loáng, chuẩn bị sẵn sàng cho ca trực đêm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Đêm nay chúng",
+   "layout": "{DOCTOR} nhìn quanh toàn thể đội ngũ y tế với ánh mắt kiên định và đầy nhiệt huyết của người thầy thuốc dày dạn kinh nghiệm.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Bởi vì nguyên",
+   "layout": "{DOCTOR} chỉ tay lên dòng khẩu hiệu bằng chữ mạ vàng gắn trang trọng trên vòm cửa sảnh đón tiếp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Không có sinh",
+   "layout": "Cận cảnh gương mặt thông thái và nghiêm nghị của {DOCTOR} toát lên niềm tin mãnh liệt vào sự hoàn mỹ của tự nhiên.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Những gì mắt",
+   "layout": "Bức tranh toàn cảnh hội tụ mười sinh vật kỳ dị dưới ánh sáng rực rỡ của đèn phòng mổ, mỗi loài mang một cấu trúc cơ thể phi thường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Và nhiệm vụ",
+   "layout": "{DOCTOR} mỉm cười đầy xúc động, nhẹ nhàng mở chiếc cặp da đựng dụng cụ y tế chuyên dụng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Thông báo khẩn",
+   "layout": "Chiếc loa phát thanh bằng kim loại gắn trên góc tường rung lên phát ra giọng thông báo khẩn thiết của nhân viên tổng đài trực ban; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene01",
+   "at": "Được rồi! Đội",
+   "layout": "{DOCTOR} cùng {NURSE} sải những bước chân dứt khoát hướng thẳng về phía cánh cửa phòng khám chuyên khoa đang mở rộng đón chờ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": 0,
+   "layout": "{GORILLA} ngồi trên giường bệnh khám inox, cơ bắp cánh tay to như cột nhà nổi gân cuồn cuộn, nhưng hai tay lại ôm cái bụng phình to vẻ mặt mếu máo; {DOCTOR} đứng bên cạnh cầm ống nghe.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tôi nhìn vào",
+   "layout": "{DOCTOR} cầm bảng theo dõi chỉ số sinh tồn, ngước nhìn khối cơ bắp vai đồ sộ của chú khỉ đột đang ngồi co ro trên giường.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Theo các nghiên",
+   "layout": "Bức tranh giải phẫu cơ xương tay của khỉ đột với các bó cơ delta và cơ nhị đầu đồ sộ chịu lực va đập cực đại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Lực va chạm",
+   "layout": "Hình ảnh mô phỏng cú đấm uy lực của khỉ đột làm nứt toác tấm bia thử nghiệm lực cơ học trong phòng thí nghiệm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Xương khớp tay",
+   "layout": "Bản chụp X-quang xương cẳng tay của khỉ đột sáng trắng cho thấy cấu trúc vỏ xương đặc quánh và các khớp nối vững chãi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Thế nhưng hiện",
+   "layout": "{GORILLA} nằm nghiêng trên giường bệnh, ôm hai đầu gối vào ngực, miệng thở hắt ra từng hơi vẻ bất lực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Gương mặt nhăn",
+   "layout": "Cận cảnh gương mặt nhiều nếp nhăn của chú khỉ đột đang chớp mắt cầu cứu bác sĩ trưởng khoa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Y tá, đặt",
+   "layout": "{DOCTOR} ấn đầu ống nghe kim loại lạnh ngắt vào bụng khỉ đột, mắt chăm chú lắng nghe từng tiếng động bên trong.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tôi áp đầu",
+   "layout": "Cận cảnh đầu ống nghe y tế bằng kim loại sáng loáng áp sát vào lớp da lông đen nhánh của khỉ đột; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Âm thanh truyền",
+   "layout": "Hình ảnh đồ họa mô phỏng bên trong ổ bụng khỉ đột với chiếc manh tràng khổng lồ đang sủi bọt khí gas liên hồi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Cảm giác như",
+   "layout": "Đồ họa sóng âm thanh hiển thị các dao động áp suất khí gas tăng vọt liên hồi trong khoang bụng bệnh nhân; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tôi lập tức",
+   "layout": "{DOCTOR} bấm nút điều khiển máy chụp X-quang kỹ thuật số công suất lớn quét qua toàn bộ thân hình đồ sộ của khỉ đột.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Và kết quả",
+   "layout": "{DOCTOR} kẹp tấm phim X-quang to bản lên hộp đèn sáng trắng trên tường, chỉ tay vào vùng khoang bụng khổng lồ chứa đầy bóng khí.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bác sĩ ơi,",
+   "layout": "{NURSE} đứng bên cạnh nhìn tấm phim X-quang, hai tay ôm má hốt hoảng kêu lên.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhìn tấm phim",
+   "layout": "{NURSE} run run chỉ ngón tay vào những khoảng sáng rực của các túi khí gas phân bố khắp ổ bụng khỉ đột; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Em có nên",
+   "layout": "{NURSE} cầm chiếc kim tiêm dài vẻ lo lắng ngước nhìn bác sĩ trưởng khoa xin ý kiến; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tuyệt đối không",
+   "layout": "{DOCTOR} mỉm cười lắc đầu, quay lại vỗ nhẹ vào vai bệnh nhân khỉ đột đang lo lắng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đây chính là",
+   "layout": "{DOCTOR} tháo kính mắt, dùng khăn lau nhẹ rồi hướng dẫn các bác sĩ nội trú quan sát cấu trúc đường ruột trên phim chụp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Anh chàng này",
+   "layout": "Sơ đồ sinh học minh họa đường tiêu hóa của khỉ đột, nổi bật là phần manh tràng phình đại gấp nhiều lần so với con người; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Hãy nhìn vào",
+   "layout": "Bức tranh miêu tả rừng mưa rậm rạp nhiệt đới châu Phi, nơi bầy khỉ đột đang thong thả hái lượm thức ăn giữa thảm thực vật hoang sơ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Hàng ngày, một",
+   "layout": "{GORILLA} ngồi giữa một đống lá cây rừng to như ngọn đồi nhỏ, nhồm nhoàm nhai từng bó lá xơ ráp đầy ngon lành; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Đặc biệt là",
+   "layout": "Cận cảnh hàm răng khỉ đột nhai nát những nhánh cây tầm ma đầy lông ngứa mà niêm mạc miệng không hề bị sưng tấy tổn thương; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Bởi vì tuyến",
+   "layout": "Sơ đồ tuyến nước bọt khỉ đột giải phóng dòng enzym trung hòa màu xanh bảo vệ lớp niêm mạc thực quản; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Hệ tiêu hóa",
+   "layout": "Kính hiển vi quang học phóng đại cấu trúc sợi cellulose cứng như sợi thép đan xen chằng chịt trong phiến lá cây; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nếu chúng ta",
+   "layout": "Hình ảnh so sánh dạ dày đơn giản của người với đường ruột đồ sộ dài ngoằng của khỉ đột; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng tạo hóa",
+   "layout": "Cận cảnh các cụm vi khuẩn đường ruột có ích màu xanh ngọc bích đang bám quanh các sợi lá và phân hủy cellulose; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Các vi khuẩn",
+   "layout": "Minh họa các enzym vi sinh vật cắt đứt các chuỗi phân tử đường phức tạp trong thành tế bào thực vật; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Thời gian lưu",
+   "layout": "{BOARD} hiển thị con số 40 giờ lưu chuyển thức ăn cùng sơ đồ đường ruột dài gấp sáu lần chiều dài cơ thể; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Quá trình lên",
+   "layout": "Đồ họa hóa học hiển thị các phân tử axit béo chuỗi ngắn acetate và propionate phát sáng vàng kim hấp thu qua thành ruột; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nghiên cứu dinh",
+   "layout": "{DOCTOR} giơ bản báo cáo khoa học của tiến sĩ Popovich lên trước ánh đèn, chỉ vào bảng số liệu phân tích calo đường ruột.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Tới 70% tổng",
+   "layout": "{BOARD} bật sáng dòng chữ số 70% calo phát sáng rực rỡ bên cạnh biểu tượng chiếc lá cây biến thành năng lượng cơ bắp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Các axit béo chuỗi ngắn sau",
+   "layout": "Dòng năng lượng màu vàng ánh kim từ thành ruột lan tỏa khắp các bó cơ bắp cuồn cuộn trên lưng và cánh tay khỉ đột; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chúng hoạt động",
+   "layout": "Sơ đồ so sánh cơ chế lên men dạ cỏ của bò với cơ chế lên men ruột sau của khỉ đột; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nói cách khác,",
+   "layout": "{GORILLA} đứng dậy ưỡn ngực đấm thùm thụp vào ngực khoe cơ bắp rắn chắc, bụng phình to đầy tự hào; {DOCTOR} mỉm cười gật đầu tán thưởng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Nhưng hôm nay,",
+   "layout": "{DOCTOR} cười xòa, giải thích cặn kẽ cho chú khỉ đột đang lắng nghe từng lời của bác sĩ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Được rồi anh",
+   "layout": "{DOCTOR} xé một tờ đơn thuốc nhỏ đưa cho {GORILLA}, anh chàng khỉ đột mừng rỡ nhận lấy rồi cúi đầu cảm ơn rối rít.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Chỉ cần ợ",
+   "layout": "Chú {GORILLA} uống cạn cốc nước ấm y tá đưa, phát ra một tiếng ợ hơi trầm đục làm rung rinh cả rèm cửa phòng khám trong tiếng cười vui vẻ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene02",
+   "at": "Ca cấp cứu",
+   "layout": "{DOCTOR} đóng sập tập bệnh án số một lại, bước nhanh sang phòng khám chuyên khoa bên cạnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": 0,
+   "layout": "{DOCTOR} đẩy cửa bước vào phòng khám hô hấp có các bồn nước và ống dẫn oxy, {NURSE} đang đứng bối rối bên cạnh một chiếc chậu thủy tinh trong suốt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và bệnh nhân",
+   "layout": "Khung cảnh căn phòng khám chuyên khoa với các bình dưỡng khí cao áp xếp hàng, nhưng giữa bàn khám lại là một chậu nước đầy rong rêu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chú Nhện Lặn",
+   "layout": "Cận cảnh {SPIDER} màu nâu đen tám chân thoăn thoắt bò qua mép chiếc mặt nạ dưỡng khí mini, lao thẳng vào làn nước trong veo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Mỗi lần cô",
+   "layout": "{SPIDER} bơi thoăn thoắt xuống đáy chậu, chui tọt vào giữa đám rong đuôi chó xanh biếc, giương tám chiếc mắt nhỏ xíu nhìn lên vẻ đề phòng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chiếc đuôi nhỏ",
+   "layout": "Cận cảnh bọt khí tròn xoe ôm lấy phần bụng của chú nhện lặn chuông dưới đáy chậu nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bác sĩ ơi",
+   "layout": "{NURSE} giơ sợi dây thở oxy bị cắn cụt lủn lên, vẻ mặt vừa thương cảm vừa bất lực tột cùng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Em vớt nó",
+   "layout": "{NURSE} chỉ tay vào chậu nước, nơi chú nhện đang bơi lội tung tăng như cá cảnh giữa đàn rong xanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Có khi nào",
+   "layout": "{NURSE} ngước nhìn bác sĩ với đôi mắt thỏ tròn xoe ngây thơ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bình tĩnh nào",
+   "layout": "{DOCTOR} bật cười bước tới bên bình nước, cúi sát mặt quan sát từng cử động tinh vi của chú nhện dưới làn nước trong vắt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đây là loài",
+   "layout": "{SPIDER} bơi lội uyển chuyển giữa các nhánh rong xanh biếc, thân mình phủ một lớp ánh bạc lấp lánh như được dát kim loại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nó sinh ra",
+   "layout": "Hình ảnh một chú nhện lặn chuông đang bắt một ấu trùng muỗi nước dưới đáy hồ trong suốt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thế nhưng về",
+   "layout": "Sơ đồ giải phẫu hiển vi của nhện hiển thị hệ thống phổi sách và các lỗ thở nhỏ li ti xếp dọc hai bên bụng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nghĩa là nó",
+   "layout": "Hình vẽ so sánh lá mang của cá với hệ thống phổi sách nhiều nếp gấp của nhện lặn chuông; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Vậy làm thế",
+   "layout": "{DOCTOR} khoanh tay trước ngực, đặt câu hỏi đầy gợi mở nhìn về phía các bác sĩ nội trú đang vây quanh bàn khám.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Câu trả lời",
+   "layout": "Kính hiển vi điện tử quét phóng đại hàng triệu sợi lông tơ nano có cấu trúc rãnh khía đặc biệt đẩy lùi các phân tử nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Toàn bộ vùng",
+   "layout": "Các sợi lông nano xếp nghiêng góc chính xác, tạo ra một sức căng bề mặt cực lớn ngăn không cho các phân tử nước chạm vào lớp da bụng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Mỗi khi cần",
+   "layout": "{SPIDER} ngoi phần chóp bụng lên mặt nước trong chớp mắt rồi lặn nhanh xuống, kéo theo một khối bong bóng khí tròn xoe; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Lớp lông kỵ",
+   "layout": "Cơ thể chú nhện phát sáng lung linh dưới nước nhờ lớp bọt khí bạc bao phủ toàn thân như một bộ đồ lặn vũ trụ mini; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Hai chiếc chân",
+   "layout": "Chú {SPIDER} dùng hai chân sau vuốt ve các sợi lông trên bụng một cách tỉ mỉ để duy trì sức căng bề mặt tối ưu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Không chỉ dừng",
+   "layout": "Chú {SPIDER} bắt đầu kéo những sợi tơ trong suốt đan dệt giữa hai nhánh rong rêu thủy sinh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Kỳ quan thực",
+   "layout": "Dưới đáy nước, chiếc chuông lặn bằng tơ nhện hình chiếc chuông úp ngược phát sáng trắng bạc, chứa đầy không khí trong suốt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nó nhả ra",
+   "layout": "Chú {SPIDER} thoăn thoắt dùng các chân sau dệt từng đường tơ trắng muốt đan xen chằng chit thành một mạng lưới vô cùng bền chắc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Sau đó, nhện",
+   "layout": "Từng bọt khí được nhả ra tích tụ dần bên dưới mái vòm, đẩy toàn bộ nước ra ngoài và biến chiếc vòm tơ thành một căn phòng chứa đầy không khí khô ráo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Mái vòm tơ căng",
+   "layout": "{SPIDER} ngồi vắt vẻo bên trong chiếc chuông lặn khô ráo, tám chân buông thõng thư giãn giữa làn nước sâu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Và đây là",
+   "layout": "{DOCTOR} giơ ngón tay chỉ lên màn hình hiển thị đồ thị nồng độ oxy hòa tan trong nước.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chiếc chuông lặn bằng",
+   "layout": "Hình ảnh đồ họa mô phỏng các phân tử oxy hòa tan trong nước xung quanh tự động khuếch tán thẩm thấu qua màng tơ mỏng đi vào trong chuông; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Khi nhện tiêu",
+   "layout": "Mũi tên đồ họa màu xanh lục mô phỏng dòng oxy tự động chảy ngược từ nước vào chuông qua chênh lệch áp suất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chênh lệch áp",
+   "layout": "Dòng dưỡng khí oxy liên tục được bổ sung tự động từ môi trường nước vào trong không gian sống của chú nhện; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đồng thời, khí",
+   "layout": "Các bọt khí CO2 màu xám li ti thẩm thấu xuyên qua lớp màng tơ trôi dạt ra ngoài dòng nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Nhờ cơ chế",
+   "layout": "{BOARD} hiển thị con số 24 giờ cùng biểu tượng đồng hồ cát phát sáng xanh bên cạnh chiếc chuông lặn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Con nhện có",
+   "layout": "Cảnh gia đình nhện lặn chuông sum vầy ấm cúng bên trong mái vòm khí sáng rực dưới đáy hồ trong vắt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thậm chí chú",
+   "layout": "Hai chú nhện lặn chuông bơi lội quấn quýt bên nhau trong chiếc chuông lặn rộng rãi dưới làn nước trong xanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Vào mùa đông",
+   "layout": "Cảnh mặt hồ phủ băng tuyết trắng xóa, phía sâu dưới đáy bùn chú {SPIDER} cuộn tròn ngủ say sưa bên trong chiếc chuông tơ ấm áp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Lớp màng tơ",
+   "layout": "Lớp băng tuyết bao phủ bên trên nhưng chiếc chuông lặn dưới đáy bùn vẫn nguyên vẹn ấm áp như một chiếc kén sinh học kỳ diệu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Thử hỏi có",
+   "layout": "{DOCTOR} nháy mắt cười hóm hỉnh nhìn toàn thể hội đồng y khoa đang gật gù thán phục.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Chẩn đoán Khoa",
+   "layout": "{DOCTOR} cất chiếc ống nghe vào túi áo, mỉm cười nhìn chú {SPIDER} đang tung tăng bơi lượn trong bể nước mới.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Đơn thuốc cho",
+   "layout": "{DOCTOR} ký xoẹt một chữ ký sắc sảo vào bệnh án số hai, đưa cho y tá đi chuẩn bị chỗ nghỉ ngơi cho chú nhện.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene03",
+   "at": "Bệnh nhân số 2 đã",
+   "layout": "{DOCTOR} sải bước ra khỏi phòng khám hô hấp, hướng thẳng về phía phòng chỉnh hình đang có tiếng đập huỳnh huỵch ngoài cửa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": 0,
+   "layout": "{DOCTOR} mở cửa bước vào, một bóng đen nhỏ xíu nhảy vèo qua đầu bác sĩ rồi đáp bẹp xuống chiếc bàn khám kim loại sáng bóng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và cảnh tượng",
+   "layout": "Căn phòng khám chỉnh hình với các nẹp xương và mô hình xương khớp, nhưng giữa phòng là một chú cá đang nhảy nhót tưng bừng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Một chú Cá",
+   "layout": "Cận cảnh {MUDSKIPPER} da xám đốm hoa văn bùn lầy, hai vây ngực to bè như đôi tay lực lưỡng đang chống đỡ toàn bộ nửa thân trước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đôi mắt to",
+   "layout": "Đôi mắt lồi ngộ nghĩnh của cá thòi lòi xoay độc lập hai hướng, con ngươi đen láy chớp chớp đầy cảnh giác; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Cứ mỗi lần",
+   "layout": "Chú cá búng mạnh chiếc đuôi cơ bắp, bay bổng lên cao vượt qua đầu y tá rồi đáp xuống khay nhôm y tế kêu leng keng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bác sĩ ơi",
+   "layout": "{NURSE} hai tay cầm chiếc vợt lưới y tế mini rượt đuổi chú cá quanh bàn khám, thở hổn hển mặt đỏ bừng bừng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nó là loài",
+   "layout": "{NURSE} chỉ tay lên gờ cửa sổ gỗ, nơi chú cá vừa nhảy tót lên bám chặt vào mép gỗ bằng giác hút ở bụng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Có khi nào",
+   "layout": "{NURSE} tròn xoe mắt thỏ ngơ ngác nhìn chú cá đang trố mắt nhìn lại mình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Hãy cất chiếc",
+   "layout": "{DOCTOR} bật cười giơ tay ra hiệu cho y tá dừng lại, bước tới quan sát gần chú cá đang hiên ngang chống vây trên bàn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Cá Thòi Lòi là",
+   "layout": "{MUDSKIPPER} đứng hiên ngang trên bờ bùn đất ven rừng ngập mặn Cà Mau, xung quanh là những rễ cây đước ngoằn ngoèo nhô lên khỏi mặt nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nó có thể",
+   "layout": "Chú cá thòi lòi dùng hai vây ngực bám vào rễ cây đước cao nửa mét trên mặt nước, ngẩng cao đầu đón gió biển; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Hãy nhìn vào",
+   "layout": "{DOCTOR} bật đèn soi phim X-quang, chỉ vào các khớp xương vây ngực có cấu trúc xương cánh tay và xương quay nguyên thủy.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Các xương vây",
+   "layout": "Sơ đồ giải phẫu ba chiều hiển thị bó cơ bắp dày đặc liên kết giữa xương bả vai nguyên thủy và các tia vây biến tính của cá thòi lòi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Hai vây bụng",
+   "layout": "Cận cảnh mặt bụng của cá thòi lòi với giác hút tròn xoe giúp nó bám chặt như keo dính vào các thân cây trơn trượt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Vào mùa giao",
+   "layout": "Chú cá thòi lòi đực xòe chiếc vây lưng màu xanh lam viền đỏ rực rỡ, uốn lượn nhảy múa giữa thảm bùn rừng đước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nhưng bí ẩn",
+   "layout": "{DOCTOR} đưa ngón tay trỏ nhẹ nhàng nâng phần nắp mang phồng to của chú cá lên để kiểm tra.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bởi vì mang",
+   "layout": "Hình ảnh so sánh lá mang cá bình thường bị bết dính trên cạn với khoang mang phồng tròn căng mọng của cá thòi lòi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Thế nhưng cá",
+   "layout": "Sơ đồ giải phẫu khoang mang của cá thòi lòi hiển thị van cơ vòng đóng chặt giữ lại một lượng nước biển giàu oxy bên trong; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Trước khi rời",
+   "layout": "Chú {MUDSKIPPER} ngụp đầu xuống nước hút căng khoang miệng rồi bò lên bãi bùn với hai bên má phồng to như hai quả bóng bàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Bằng cách đó,",
+   "layout": "Hình ảnh minh họa các tia nước giàu oxy luân chuyển liên tục bên trong khoang mang kín mít nuôi dưỡng các tế bào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chưa hết đâu",
+   "layout": "{DOCTOR} dùng kính lúp soi lớp da nhầy bóng loáng phủ đầy các mao mạch máu li ti của chú cá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Hơn 50% lượng",
+   "layout": "Sơ đồ mạng lưới mao mạch máu dày đặc nằm ngay dưới lớp biểu bì da cá thòi lòi đang hấp thu các phân tử oxy tự do từ không khí; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đó là lý",
+   "layout": "Chú cá thòi lòi thích thú nằm lăn qua lăn lại trên lớp bùn mịn màng như đang tắm bùn khoáng spa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Và các bạn",
+   "layout": "{DOCTOR} chỉ đầu bút vào đôi mắt lồi to tướng đang chớp chớp liên hồi của chú cá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đó là 2",
+   "layout": "Hình ảnh chú cá ẩn mình dưới nước chỉ để lộ hai con mắt nhô lên khỏi mặt bùn quan sát xung quanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Mỗi khi mắt",
+   "layout": "Đồ họa chuyển động chậm mô phỏng mắt cá thụt xuống hốc nước dưới đáy mắt để chớp mắt rồi bật ngược trở lại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Thật là một",
+   "layout": "{DOCTOR} thích thú dùng đèn soi phản xạ giác mạc của chú cá đang thụt mắt xuống hốc nước rồi đẩy lên đầy ngộ nghĩnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Cá thòi lòi còn có một",
+   "layout": "Chú cá thòi lòi dùng vây ngực khỏe khoắn bám chặt vào thân cây đước, leo thoăn thoắt lên cao như một chú thằn lằn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Vào mùa sinh",
+   "layout": "Bản vẽ mặt cắt địa chất đáy rừng ngập mặn hiển thị chiếc hang bùn hình chữ U sâu một mét rưỡi dưới đáy bãi lầy; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đáy hang là",
+   "layout": "Sơ đồ buồng ấp trứng ngầm dưới đáy hang sâu tăm tối; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Để bảo vệ",
+   "layout": "Chú cá thòi lòi bố cần mẫn ngậm không khí lặn xuống nhả bóng khí vào buồng ấp trứng cho đến khi buồng chứa đầy dưỡng khí; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Nó thực hiện",
+   "layout": "Hình ảnh cảm động về chú cá bố túc trực bên bầy trứng non phát sáng lấp lánh dưới đáy hang ngầm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Thật là một người",
+   "layout": "{DOCTOR} vỗ nhẹ lên lưng chú cá, ánh mắt ánh lên niềm khâm phục chân thành.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chúng còn đắp",
+   "layout": "Chú cá thòi lòi cần mẫn ngoạm từng viên bùn đắp thành bờ lũy kiên cố quanh tổ ấm của mình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Khi có kẻ",
+   "layout": "Hai chú cá thòi lòi đối đầu nảy lửa trên bờ bùn, giương vây búng đuôi tranh giành từng tấc đất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Các nhà cổ",
+   "layout": "Mô hình hóa thạch loài cá cổ đại Tiktaalik đặt cạnh chú cá thòi lòi hiện đại cho thấy sự tương đồng kỳ diệu về cấu trúc xương chi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Chẩn đoán Khoa",
+   "layout": "{DOCTOR} đóng dấu ĐẠT CHUẨN XUẤT SẮC lên bệnh án số ba, đưa cho chú cá một miếng tôm nhỏ tươi ngon.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Đơn thuốc cho",
+   "layout": "{DOCTOR} đặt chú cá vào khay bùn chuyên dụng, chú {MUDSKIPPER} híp mắt nhai miếng tôm rồi búng đuôi một cái như lời cảm ơn sâu sắc.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene04",
+   "at": "Vừa dứt lời",
+   "layout": "{DOCTOR} và y tá giật bắn người, lập tức lao nhanh ra sảnh chính xem chuyện gì đang xảy ra.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": 0,
+   "layout": "Bụi vôi trắng từ trần nhà rơi lả tả xuống sàn hành lang, các bóng đèn neon trên trần chao đảo dữ dội, tiếng kim loại gãy vụn rền vang từ sảnh lớn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Các giá thuốc",
+   "layout": "Cận cảnh đường nứt trên sàn gạch men hoa cương sảnh bệnh viện dưới sức nặng ngàn cân đè nén; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Tiếng còi báo",
+   "layout": "Đèn báo động màu đỏ rực trên tường nhấp nháy liên hồi, các nhân viên bảo vệ và y tá chạy tán loạn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Trời đất quỷ",
+   "layout": "{DOCTOR} hớt hải chạy vội ra sảnh lớn, tay vịn vào lan can cầu thang nhìn xuống sảnh đón tiếp đầy khói bụi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Cả bệnh viện",
+   "layout": "Khung cảnh hỗn loạn nơi sảnh đón tiếp với các y bác sĩ ôm chặt cột nhà để giữ thăng bằng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Hàng loạt hồ",
+   "layout": "Các xấp giấy bệnh án bay lượn trong không trung như đàn bướm trắng giữa sảnh bệnh viện ngổn ngang; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Tiếng la hét",
+   "layout": "Đội ngũ bảo vệ và hộ lý cầm đèn pin chạy đôn chạy đáo giữa màn bụi vôi trắng xóa bao phủ sảnh lớn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Bác sĩ trưởng",
+   "layout": "Chú bảo vệ gấu đen lực lưỡng mặc áo đồng phục bảo vệ đang ôm chiếc kích thủy lực bị bẹp rúm, mặt mày tái mét hoảng hốt kêu cứu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chúng em vừa",
+   "layout": "Chiếc bàn nâng thủy lực bằng thép dày mười phân bị cong vênh gãy đôi, dầu thủy lực màu đỏ chảy lênh láng trên sàn nhà; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Bệnh nhân này",
+   "layout": "Chú bảo vệ giơ hai tay miêu tả kích thước khổng lồ của sinh vật lạ đang nằm chắn ngang sảnh đón tiếp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chúng em đã",
+   "layout": "Sáu nhân viên bảo vệ to béo đang hò dô đẩy khối thịt khổng lồ nhưng bệnh nhân vẫn nằm ì ra như một tảng đá hoa cương; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Tôi vội vàng",
+   "layout": "{DOCTOR} sải bước dài tới trước đống đổ nát của chiếc bàn nâng thủy lực, ngước nhìn khối sinh vật khổng lồ đang nằm bẹp trên sàn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nằm sừng sững",
+   "layout": "Toàn cảnh {MOLA} khổng lồ da màu xám bạc loang lổ, thân hình tròn dẹt như chiếc đĩa bay khổng lồ nằm choán hết hai phần ba diện tích sảnh đón tiếp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đó là Cá",
+   "layout": "{BOARD} bật sáng con số 2.000 kg nhấp nháy đỏ rực bên cạnh hình vẽ mô phỏng kích thước của cá mặt trăng so với một chiếc xe hơi bốn chỗ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Toàn bộ cơ",
+   "layout": "Chiếc vây lưng và vây hậu môn dài hơn một mét của cá mặt trăng dựng đứng như hai cánh buồm lớn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Không hề có",
+   "layout": "Cận cảnh phần đuôi cụt ngủn kỳ dị của cá mặt trăng có gờ lượn sóng tròn viền quanh thân sau; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Bộ xương sống",
+   "layout": "Bản chụp X-quang toàn thân cá mặt trăng cho thấy cột sống ngắn ngủn bất thường chỉ có mười sáu đốt sống thô ráp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Hai chiếc vây",
+   "layout": "Đồ họa cơ sinh học mô phỏng chuyển động đập vây của cá mặt trăng tương tự chuyển động bay lượn của loài chim cánh cụt dưới nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Và điều làm",
+   "layout": "Cận cảnh chiếc miệng nhỏ xíu tròn xoe như chiếc ống hút của cá mặt trăng, hai hàm răng hợp nhất thành một mỏ cứng như mỏ vẹt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đôi mắt to",
+   "layout": "Đôi mắt tròn xoe vô hồn của cá mặt trăng chớp chớp ngây thơ giữa gương mặt phẳng lì xám xịt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Bác sĩ ơi, có",
+   "layout": "{NURSE} run rẩy cầm chiếc đèn pin y tế soi vào trong khoang miệng cá mặt trăng, vẻ mặt đầy bối rối lo âu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Không hề có tai",
+   "layout": "{DOCTOR} mỉm cười giải thích, đưa tay sờ vào lớp da dày cộp xù xì như giấy ráp của bệnh nhân khổng lồ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Răng của nó",
+   "layout": "Hình ảnh mô phỏng bộ hàm hợp nhất hình chiếc mỏ chim của cá mặt trăng đang hút trọn một đàn sứa phát sáng dưới làn nước biển xanh thẳm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thức ăn ưa",
+   "layout": "Đồ họa chuỗi thức ăn hiển thị hàng trăm con sứa trong suốt bị hút gọn vào khoang miệng cá mặt trăng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Lớp sụn xơ",
+   "layout": "Bản vẽ mô phỏng các sợi collagen đan chéo dày đặc trong lớp da tạo nên một tấm áo giáp sinh học đàn hồi tuyệt hảo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhưng điều làm",
+   "layout": "{DOCTOR} áp ống nghe vào lớp da dày cộp của con cá, lắng nghe nhịp tim đập chậm rãi của khối cơ thể hai tấn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Dưới đáy đại",
+   "layout": "Bức tranh miêu tả cá mặt trăng đang bơi lội thanh thoát giữa đại dương bao la, ánh nắng mặt trời chiếu xuyên qua làn nước trong vắt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhưng khi bị",
+   "layout": "Đồ họa y học hiển thị áp lực cơ học đè nặng lên các cơ quan nội tạng bên trong khi cá mặt trăng nằm trên mặt phẳng cứng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Hơn nữa, trên",
+   "layout": "Kính lúp y khoa soi bề mặt da cá mặt trăng với hàng chục loài ký sinh trùng giáp xác và giun dẹp bám chặt vào lớp biểu bì; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Bác sĩ trưởng khoa ơi, da",
+   "layout": "{NURSE} cầm chiếc kim tiêm chuyên dụng ấn thử vào da cá nhưng mũi kim bị uốn cong queo không thể xuyên qua lớp sụn xơ dày cộp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chúng ta phải",
+   "layout": "{NURSE} lo lắng nhìn khối thịt hai tấn đang thở phì phò trên sàn sảnh đón tiếp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Nhìn vẻ mặt",
+   "layout": "{DOCTOR} lắc đầu thở dài, cúi xuống nhìn đôi mắt tròn xoe phẳng lặng không chút sát khí của chú cá mặt trăng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Trong lịch sử",
+   "layout": "Bức tranh khắc gỗ thời Phục hưng vẽ cảnh con tàu buồm cổ đối mặt với chiếc vây lưng nhô cao của cá mặt trăng giữa sóng gió biển khơi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Thế nhưng thực",
+   "layout": "Chú hải cẩu nghịch ngợm bơi quanh chú cá mặt trăng đang trôi lơ lửng, chú cá chẳng hề có phản ứng né tránh nào; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đã có những",
+   "layout": "Cảnh người dân trên bãi biển tụ tập vây quanh khối thịt tròn dẹt khổng lồ với vẻ kinh ngạc tò mò; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Đội cứu hộ",
+   "layout": "{DOCTOR} cầm bộ đàm ra lệnh dõng dạc, ánh mắt quyết đoán và bình tĩnh điều phối toàn bộ hiện trường cấp cứu.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Chúng ta không",
+   "layout": "{DOCTOR} chỉ huy đội bảo vệ căng các tấm đệm hơi cao su quanh thân cá mặt trăng để giảm áp lực tì đè cơ học.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Mở van nước",
+   "layout": "Chiếc bể bơi y tế khổng lồ lát gạch xanh ngọc bích bắt đầu được bơm đầy nước muối biển nhân tạo có hệ thống sục khí oxy cực mạnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Dùng dây đai",
+   "layout": "Chiếc cần cẩu y tế màu vàng từ từ hạ móc cáp thép xuống, các điều dưỡng viên cẩn thận luồn những dải đai bạt mềm mại quanh thân cá mặt trăng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Một, 2, 3,",
+   "layout": "Khối cơ thể khổng lồ của {MOLA} lơ lửng trên không trung giữa sảnh bệnh viện, đôi mắt tròn xoe ngơ ngác nhìn đám đông bên dưới chớp chớp như đang đi du lịch; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene05",
+   "at": "Sàn sảnh đón",
+   "layout": "{DOCTOR} lau mồ hôi trên trán, rảo bước chạy vội về phía phòng phẫu thuật thần kinh nơi có ánh đèn huỳnh quang màu xanh ngọc bích đang chiếu sáng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": 0,
+   "layout": "Căn phòng mổ vô trùng sáng choang ánh đèn phẫu thuật, các khay dao mổ siêu vi sáng loáng xếp hàng ngay ngắn trên bàn inox; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Trên bàn mổ",
+   "layout": "{DOCTOR} đeo kính hiển vi phẫu thuật phóng đại, cúi nhìn chăm chú vào bàn mổ; {NURSE} đứng nép một góc run rẩy ôm chặt tập hồ sơ bệnh án.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Một chú gián",
+   "layout": "Một chú gián Mỹ màu nâu cánh gián to lớn đứng bất động trên tấm khăn mổ vô trùng, hai sợi râu dài buông thõng rũ rượi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hai chiếc râu",
+   "layout": "Cận cảnh đôi mắt kép màu đen đục vô hồn của chú gián, hoàn toàn không có bất kỳ phản xạ giật mình nào khi có bóng người lướt qua; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và đứng kiêu",
+   "layout": "{WASP} toàn thân phát sáng màu xanh ngọc bích ánh kim lộng lẫy như một viên đá quý, sải chân dài thanh mảnh kiêu hãnh đứng trên lưng chú gián; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Cô ong đang",
+   "layout": "Cận cảnh vòi miệng của ong bắp cày ngọc đang hút giọt dịch bạch huyết màu trắng trong suốt rỉ ra từ gốc râu chú gián; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bác sĩ trưởng",
+   "layout": "{NURSE} hai tay ôm mặt run lẩy bẩy, chỉ ngón tay vào chú gián to lớn đang đứng ngoan ngoãn như một chú cún con.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Con gián to",
+   "layout": "{NURSE} ngạc nhiên tột cùng nhìn chú gián to lớn hoàn toàn đủ sức đè bẹp chú ong nhỏ bé nhưng lại đứng im chịu trận; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Có phải con",
+   "layout": "{NURSE} ngước nhìn bác sĩ với ánh mắt đầy khiếp hãi và tò mò cao độ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Không hề có",
+   "layout": "{DOCTOR} mỉm cười chỉnh lại độ nét của chiếc kính hiển vi phẫu thuật, say mê quan sát từng chi tiết giải phẫu tinh vi của cô ong ngọc bích.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đây chính là",
+   "layout": "{WASP} vươn đôi cánh mỏng trong suốt màu khói, ánh xanh lục bảo lấp lánh phản chiếu rực rỡ dưới ánh đèn mổ phẫu thuật; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Loài ong bắp",
+   "layout": "Sơ đồ giải phẫu hệ thần kinh của gián với các hạch thần kinh ngực và hạch thần kinh dưới thực quản phát sáng dưới tia tử ngoại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hãy nhìn vào",
+   "layout": "{DOCTOR} giơ bản đồ giải phẫu thần kinh côn trùng lên trước ánh đèn, chỉ vào từng vị trí đâm kim chính xác đến từng mi-crô-mét.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Mũi tiêm thứ",
+   "layout": "Hình ảnh mô phỏng ong bắp cày dùng hàm kẹp chặt gián, uốn cong bụng cắm chiếc ngòi nhọn hoắt vào phần ngực dưới của con mồi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Mũi tiêm đầu",
+   "layout": "Đồ họa hóa học hiển thị các phân tử nọc độc khóa chặt các thụ thể thần kinh vận động ở hai chân trước của con gián; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Trong đúng 2",
+   "layout": "Con gián giãy giụa bất lực khi hai chân trước rũ liệt hoàn toàn, tạo điều kiện thuận lợi tuyệt đối cho mũi tiêm quyết định thứ hai; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Và đây mới",
+   "layout": "Đồ họa cắt lớp hiển thị chiếc ngòi ong uốn lượn luồn lách qua các mô mềm ở cổ gián, đâm chính xác tuyệt đối vào hạch não điều khiển hành vi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chiếc ngòi của",
+   "layout": "Đầu ngòi ong phóng đại hiển thị các sợi cảm biến nano đang dò tìm tín hiệu hóa học của mô não gián với độ sai lệch bằng không; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nọc độc của",
+   "layout": "Các phân tử độc tố màu đỏ thẫm len lỏi phong tỏa hoàn toàn các thụ thể dopamine trong trung khu điều khiển vận động chủ động của não gián; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chất octopamine là",
+   "layout": "Đồ họa thần kinh hiển thị đường dẫn truyền tín hiệu phản xạ trốn chạy của gián bị cắt đứt hoàn toàn như sợi dây điện bị ngắt cầu dao; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Khi bị nọc",
+   "layout": "Cận cảnh chú gián đứng im như pho tượng, dù có tiếng động lớn hay bị chạm vào người cũng không hề buồn nhúc nhích; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chú gián vẫn",
+   "layout": "Đồ họa sinh lý học hiển thị các chức năng sống cơ bản của gián duy trì bình thường nhưng mất hoàn toàn khả năng tự chủ vận động; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Sau đó, cô",
+   "layout": "Cô ong dùng đôi hàm sắc như kéo cắt đứt ngọt ngào hai sợi râu của chú gián trước sự sững sờ của các bác sĩ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Rồi cô ong",
+   "layout": "Bức tranh miêu tả cô {WASP} nhỏ bé ngậm râu dắt chú gián khổng lồ ngoan ngoãn bước từng bước theo sau đi vào chiếc hang tối; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Tại chiếc tổ",
+   "layout": "Ấu trùng ong bắp cày màu trắng ngà phát triển bên cạnh chú gián sống trong chiếc tổ ngầm kiên cố; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Sau khi đẻ",
+   "layout": "Chú {WASP} cần mẫn gắp từng hạt cát hạt sỏi nhỏ lấp kín lối vào căn hầm ngầm bí mật; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Con gián sống",
+   "layout": "Ấu trùng ong bọc kén tơ mỏng, chuẩn bị cho quá trình biến thái hoàn toàn dưới lòng đất ẩm ướt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Cơ quan thị",
+   "layout": "Kính hiển vi điện tử quét hiển thị các thụ thể hóa học hình nón li ti trên các đốt bàn chân của ong bắp cày ngọc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Bằng cách cọ",
+   "layout": "Đồ họa hóa sinh hiển thị các tín hiệu điện sinh học từ thụ thể chân ong truyền về hạch thần kinh trung ương xử lý dữ liệu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nếu liều lượng",
+   "layout": "Hình ảnh mô phỏng chú gián giật mình đá mạnh chân sau nếu không bị phong tỏa thần kinh hoàn toàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Nhưng nếu liều",
+   "layout": "Đồ họa sinh học đối chiếu mức liều lượng nọc độc chuẩn xác đến từng nano gam giúp con mồi sống thực vật hoàn hảo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Độ chuẩn xác",
+   "layout": "{DOCTOR} nghiêng đầu thán phục nhìn chiếc ngòi ong thép thu gọn tinh xảo bên dưới lớp giáp ngọc bích.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Đó là sự",
+   "layout": "{DOCTOR} thở dài thán phục, gật đầu công nhận sự hoàn mỹ của cơ chế ký sinh thần kinh độc nhất vô nhị này.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Cô ong của",
+   "layout": "{DOCTOR} mỉm cười nhìn cô ong ngọc bích đang nghiêng đầu làm duyên trên lưng chú gián.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Toàn bộ hệ",
+   "layout": "{DOCTOR} dùng kính hiển vi soi kỹ phần bụng dưới của {WASP}, nơi chiếc ngòi thép thu gọn an toàn bên trong bao trùm kitin sáng bóng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Các nhà dược",
+   "layout": "Mô hình phân tử hóa học của các hợp chất giảm đau thế hệ mới lấy cảm hứng từ nọc ong ngọc bích phát sáng trên màn hình máy tính; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Thôi được rồi",
+   "layout": "{DOCTOR} bật cười lắc đầu, dùng một chiếc hộp mica trong suốt chuyên dụng nhẹ nhàng chụp lấy cả cô ong lẫn chú gián.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Chúng tôi sẽ",
+   "layout": "{NURSE} cẩn thận dán nhãn chuyển viện lên chiếc hộp mica, thở phào nhẹ nhõm khi tiễn được ca bệnh thần kinh rùng rợn này ra khỏi phòng mổ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene06",
+   "at": "Hồ sơ Khoa",
+   "layout": "{DOCTOR} cởi áo choàng phẫu thuật, chạy vội về phía khu hồi sức cấp cứu đại dương.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": 0,
+   "layout": "Sóng nước màu xanh ngọc bích bắn tung tóe lên thành bể kính dày mười phân, bọt khí sủi tăm trắng xóa bao bọc quanh thân hình tròn dẹt khổng lồ của {MOLA}; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Lực đẩy Ác-si-mét",
+   "layout": "Khối cơ thể hai tấn trôi lơ lửng nhẹ nhàng giữa làn nước trong suốt, các áp lực cơ học đè nặng lên tim phổi được giải phóng hoàn toàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Các đường ống",
+   "layout": "Hệ thống ống dẫn oxy sục bọt trắng xóa quanh hai nắp mang nhỏ xíu của cá mặt trăng, chú cá bắt đầu thở phập phồng nhịp nhàng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Tôi cùng kíp",
+   "layout": "{DOCTOR} đứng trên cầu kính quan sát, tay cầm bảng ghi chép chỉ số sinh tồn; {NURSE} cầm chiếc máy đo nồng độ muối và nhiệt độ nước theo dõi sát sao.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Nhịp tim của",
+   "layout": "Màn hình điện tâm đồ nhấp nháy những đường sóng P-Q-R-S màu xanh lá cây hiển thị nhịp tim ba mươi lần một phút nhịp nhàng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Bác sĩ trưởng",
+   "layout": "{NURSE} giơ tập phim chụp cộng hưởng từ MRI kích thước khổng lồ lên trước màn hình rọi sáng, vẻ mặt đầy bàng hoàng không tin vào mắt mình.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Em tìm mỏi",
+   "layout": "{NURSE} chỉ tay vào khoảng trống rỗng nơi đáng lẽ phải có bóng khí bơi lội của các loài cá thông thường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Và đây nữa",
+   "layout": "{NURSE} mở to mắt chỉ vào chấm nhỏ xíu phát sáng màu cam nằm cô độc giữa khoang sọ khổng lồ của cá mặt trăng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Máy quét của",
+   "layout": "{DOCTOR} bật cười giơ tấm phim chụp lên trước ánh sáng đèn soi, chỉ vào cấu trúc sọ não kỳ lạ của chú cá.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Chào mừng toàn",
+   "layout": "{DOCTOR} chỉ đầu bút vào điểm sáng li ti của bộ não trên phim chụp MRI.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Một con cá",
+   "layout": "{BOARD} bật sáng con số 4 gam bên cạnh con số 2.000 kg với dấu chấm than đỏ chót biểu thị tỷ lệ một phần năm trăm ngàn không tưởng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Nghĩa là bộ",
+   "layout": "Hình ảnh so sánh hạt đậu phộng nhỏ xíu đặt cạnh khối thịt hai tấn đồ sộ của cá mặt trăng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Thế nhưng với",
+   "layout": "Bản đồ vệ tinh hiển thị lộ trình di cư xuyên đại dương hàng chục ngàn cây số của các chú cá mặt trăng gắn máy định vị vệ tinh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Và tại sao",
+   "layout": "{DOCTOR} đặt câu hỏi đầy hào hứng nhìn về phía các bác sĩ nội trú đang chăm chú lắng nghe từng lời phân tích.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Bởi vì môi",
+   "layout": "Bức tranh miêu tả vùng biển sâu thăm thẳm lạnh ngắt tăm tối nơi ánh sáng mặt trời không thể chiếu tới, chú {MOLA} đang bơi lội kiếm ăn giữa đàn sứa phát sáng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Ở độ sâu 800",
+   "layout": "Hình ảnh mô phỏng quả bóng hơi bằng cao su bị áp lực nước sâu bóp nát vụn thành mảnh vụn nhỏ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Nếu có bóng",
+   "layout": "Sơ đồ y học hiển thị hiện tượng thuyên tắc khí nguy hiểm nếu động vật có bóng hơi nổi lên quá nhanh từ đáy sâu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Vì vậy, tiến",
+   "layout": "Bản vẽ cắt ngang lớp da cá mặt trăng hiển thị lớp mô liên kết gelatin xốp màu trắng ngà nhẹ hơn nước biển; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Lớp mô gelatin",
+   "layout": "Chú cá mặt trăng trôi lơ lửng tự nhiên trong nước mà không cần tốn một chút năng lượng nào để duy trì độ sâu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Sau mỗi chuyến",
+   "layout": "Đồ thị đo thân nhiệt của cá mặt trăng lao dốc xuống vùng màu xanh băng giá bốn độ C sau chuyến lặn sâu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Đó là lý",
+   "layout": "Chú {MOLA} nằm ngang trên mặt biển phẳng lặng như gương, ánh nắng vàng rực rỡ sưởi ấm toàn bộ thân hình tròn dẹt lấp lánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Hành vi tắm",
+   "layout": "Dòng nhiệt lượng màu đỏ ấm áp từ ánh nắng mặt trời thẩm thấu qua lớp da làm ấm các mạch máu nuôi tim và não bộ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Đồng thời, khi",
+   "layout": "Đàn mòng biển trắng muốt đậu lên thân cá mặt trăng đang nằm nổi trên mặt nước rỉa sạch các con rận biển bám trên da; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Nhịp tim của cá",
+   "layout": "Sơ đồ theo dõi nhịp tim lặn sâu của cá mặt trăng với nhịp đập chậm rãi tiết kiệm năng lượng tuyệt hảo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Cơ quan thị",
+   "layout": "Cận cảnh đôi mắt to tròn của cá mặt trăng phản chiếu ánh sáng lân tinh của đàn sứa dưới đáy đại dương; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Đặc biệt hơn",
+   "layout": "Sơ đồ nhiệt động lực học hiển thị các thớ cơ vây lưng màu đỏ thẫm phát ra luồng nhiệt lượng màu cam sưởi ấm các mô lân cận; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Mặc dù là",
+   "layout": "Bản vẽ cắt lớp hộp sọ cá mặt trăng hiển thị lớp đệm lipid dày bao quanh hốc mắt và não bộ bảo vệ khỏi cái lạnh âm độ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Nhờ lớp mỡ",
+   "layout": "Chú cá mặt trăng lướt đi trong bóng tối đại dương lạnh ngắt, đôi mắt vẫn mở to định vị chính xác từng bóng sứa phát quang; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Khi bơi lên",
+   "layout": "Đồ họa tuần hoàn máu hiển thị các dòng máu đỏ ấm áp từ biểu bì chảy ngược vào tim và gan giúp kích hoạt lại quá trình trao đổi chất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Đó là một",
+   "layout": "{DOCTOR} bật cười giơ ngón tay cái tán thưởng cơ chế điều nhiệt độc đáo của người bạn khổng lồ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Chưa hết đâu",
+   "layout": "{DOCTOR} giơ ngón tay cái lên tỏ vẻ thán phục đỉnh cao trước con số thống kê sinh học phi thường.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Mỗi lần sinh",
+   "layout": "{BOARD} rực sáng con số 300.000.000 quả trứng với biểu tượng hàng ngàn tia sáng lấp lánh phát tán khắp đại dương; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Khi mới nở,",
+   "layout": "Kính hiển vi hiển thị chú cá mặt trăng sơ sinh dài hai mi-li-mét có các gai nhọn bao quanh trông như một ngôi sao biển mini; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Từ một chấm",
+   "layout": "Sơ đồ tiến hóa kích thước từ ấu trùng hai mi-li-mét phóng đại vọt lên con cá khổng lồ dài ba mét nặng hai tấn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Sự gia tăng",
+   "layout": "Biểu đồ tăng trưởng dốc đứng hình tên lửa chứng minh sức sống mãnh liệt của loài cá mặt trăng qua hàng triệu năm sóng gió; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Chẩn đoán Khoa",
+   "layout": "{DOCTOR} mỉm cười gật đầu hài lòng, đưa tay vỗ nhẹ vào chiếc vây lưng nhô lên khỏi mặt nước của chú {MOLA}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Đơn thuốc cho",
+   "layout": "{DOCTOR} ký tên vào bệnh án số bốn, chú cá mặt trăng quẫy nhẹ hai chiếc vây làm bọt nước tung tóe như một lời cảm ơn ngây ngô.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene07",
+   "at": "Hai giờ 40",
+   "layout": "{DOCTOR} cùng y tá rảo bước rời khỏi khu hồi sức đại dương, hướng về phía phòng khám nha khoa chuyên dụng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": 0,
+   "layout": "{DOCTOR} đứng bên cạnh chiếc ghế nha khoa chuyên dụng có đèn rọi sáng rực rỡ, {BABIRUSA} đang ngượng ngùng bước vào phòng khám.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Đó là Lợn",
+   "layout": "Cận cảnh gương mặt da xám nhăn nheo của {BABIRUSA}, nổi bật là bốn chiếc răng nanh khổng lồ cong vút dị thường nhô ra ngoài; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Chú lợn rụt",
+   "layout": "{BABIRUSA} ngồi ngay ngắn trên ghế nha khoa, bốn chiếc nanh nhô cao chĩa thẳng vào bóng đèn soi sáng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Hãy nhìn vào",
+   "layout": "{DOCTOR} dùng kẹp nha khoa nhẹ nhàng nâng môi trên của bệnh nhân để kiểm tra chân răng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Hai chiếc răng",
+   "layout": "Bản chụp X-quang xương hàm dưới của lợn babirusa với hai chiếc răng nanh cắm sâu vào xương hàm vững chắc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Hai chiếc nanh",
+   "layout": "Cận cảnh cạnh sắc của chiếc nanh hàm dưới mài mòn tự nhiên tạo thành mép cắt sắc bén; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Không chỉ dùng",
+   "layout": "Chú lợn dùng nanh dưới ngoạm đứt một sợi dây leo vắt ngang lối đi trong rừng già; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Nhưng điều làm",
+   "layout": "{DOCTOR} chỉ đầu kẹp y tế vào phần sống mũi của chú lợn, nơi hai chiếc nanh trên đâm xuyên qua lớp da mặt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Thay vì mọc",
+   "layout": "Sơ đồ giải phẫu ba chiều hiển thị mầm răng nanh hàm trên xoay ngược một trăm tám mươi độ trong xương hàm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Khi bắt đầu",
+   "layout": "Hình ảnh mô phỏng quá trình hai chiếc nanh nhọn hoắt xuyên thủng lớp da thịt sống mũi mọc trồi lên không trung; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Chiếc nanh cong",
+   "layout": "{BOARD} hiển thị con số 40 cm cùng hình vẽ chiếc nanh cong vút phát sáng vàng kim; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Không hề có",
+   "layout": "Kính hiển vi soi cấu trúc vi mô của ngà răng lợn babirusa với các ống ngà xếp khít nhau bền vững; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Tốc độ mọc",
+   "layout": "Mô hình mặt cắt ngà răng hiển thị các vòng sinh trưởng hàng năm xếp lớp như vân gỗ thân cây; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Khác với loài",
+   "layout": "Sơ đồ so sánh nguồn gốc răng cửa của ngà voi với mầm răng nanh xoay ngược của lợn babirusa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Và đây là",
+   "layout": "Hình ảnh so sánh hộp sọ của lợn babirusa đực với bốn chiếc nanh khổng lồ bên cạnh hộp sọ lợn cái trơn nhẵn không có nanh trên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Những con lợn",
+   "layout": "Chú lợn cái babirusa gặm lá cây trong rừng với khuôn mặt hiền lành trơn tru không có nanh cong; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Điều này chứng",
+   "layout": "Sơ đồ nội tiết hiển thị nồng độ hormone testosterone kích hoạt sự phát triển của mầm ngà xoay ngược ở tuổi dậy thì; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Đồng thời, cấu",
+   "layout": "Bản vẽ giải phẫu hệ tiêu hóa của lợn babirusa với dạ dày nhiều túi chứa hàng tỷ vi khuẩn lên men cellulose; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Nhờ hệ vi",
+   "layout": "Chú lợn thản nhiên gặm những nhánh rễ cây có nhựa đắng trong rừng mà không hề bị rối loạn tiêu hóa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Để bảo vệ",
+   "layout": "Chú lợn babirusa ngâm mình trong hố bùn khoáng ấm áp, lớp bùn bao bọc quanh chân nanh tạo thành lớp màng bảo vệ vô trùng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Bác sĩ trưởng",
+   "layout": "{NURSE} cầm tấm phim chụp cắt lớp vi tính CT hộp sọ giơ lên trước hộp đèn sáng, vẻ mặt đầy lo âu sợ hãi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Đầu nhọn của",
+   "layout": "{NURSE} dùng ngón tay chỉ vào khoảng cách hẹp nghèo nàn giữa chóp nanh nhọn hoắt và bề mặt xương trán của chú lợn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Em có nên",
+   "layout": "{NURSE} cầm chiếc cưa mini khử trùng bằng cồn giơ lên ngơ ngác hỏi ý kiến bác sĩ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Mối lo ngại",
+   "layout": "{DOCTOR} kẹp tấm phim chụp cắt lớp sọ não lên bảng đèn, dùng bút dạ đỏ khoanh tròn khoảng cách giữa đầu nanh và xương trán.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Ở những con lợn",
+   "layout": "Bản vẽ giải phẫu hộp sọ lợn babirusa cổ đại cho thấy đầu răng nanh cong chạm vào bề mặt xương trán; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Nếu độ cong",
+   "layout": "Hình ảnh quét ba chiều hộp sọ hiển thị áp lực tiếp xúc giữa chóp răng nanh và bản xương ngoài của hộp sọ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Đó là lý",
+   "layout": "Hình vẽ minh họa biếm họa chú lợn tự đâm nanh vào trán bị gạch dấu hỏi chấm to tướng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Tuy nhiên những",
+   "layout": "{DOCTOR} chỉ vào cấu trúc xương trán dày dặn có gờ nổi ngăn cản lực đâm của chiếc nanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Trong môi trường",
+   "layout": "Chú lợn babirusa cọ mạnh chiếc nanh trên vào thân cây cổ thụ để làm cùn chóp nanh sắc nhọn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Nghiên cứu của giáo",
+   "layout": "Kính hiển vi hiển thị mô liên kết biểu bì bám chặt vào chân răng ngăn ngừa hoàn toàn vi khuẩn xâm nhập; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Vậy tại sao",
+   "layout": "{DOCTOR} khoanh tay trước ngực, đặt câu hỏi tu từ nhìn thẳng về phía các bác sĩ nội trú đang lắng nghe say mê.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Câu trả lời",
+   "layout": "Cảnh hai chú lợn babirusa đực đứng thẳng bằng hai chân sau giữa rừng nhiệt đới, dùng mõm và nanh gạt nhau trong cuộc chiến giành bạn tình; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Các nghiên cứu",
+   "layout": "Chú lợn dùng mõm dẻo ủi nhẹ lớp lá mục tìm củ rễ cây chứ tuyệt đối không dùng nanh cày xới; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Khi 2 con",
+   "layout": "Hai chú lợn đứng bằng hai chân sau giằng co quyết liệt giữa bụi cây rậm rạp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Cặp nanh cong",
+   "layout": "Đồ họa chuyển động chậm mô phỏng chiếc nanh trên gạt phăng cú đâm từ nanh dưới của đối thủ bảo vệ vùng mắt nhạy cảm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Đồng thời, con",
+   "layout": "Chú {BABIRUSA} đực kiêu hãnh ngẩng cao đầu khoe cặp nanh uốn lượn dưới ánh hoàng hôn rừng nhiệt đới; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Nó giống như",
+   "layout": "Hình ảnh so sánh nanh lợn babirusa với chiếc đuôi rực rỡ sắc màu của chim công đực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Càng sở hữu",
+   "layout": "Chú lợn cái ngước nhìn cặp nanh cong tuyệt đẹp của con đực với vẻ say đắm giữa thảm rừng nhiệt đới; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "May mắn thay",
+   "layout": "{DOCTOR} mỉm cười dùng thước đo y tế kiểm tra khoảng cách, vỗ nhẹ vào bờ vai dày dặn của chú {BABIRUSA}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Chẩn đoán của",
+   "layout": "{DOCTOR} đóng dấu ĐẠT CHUẨN lên bệnh án số năm, đưa cho chú lợn một túi quả ngọt tráng miệng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Tôi chỉ cần",
+   "layout": "{DOCTOR} dùng tăm bông thấm thuốc sát trùng màu vàng lau nhẹ chân răng cho chú lợn, chú lợn híp mắt kêu ụt ịt tỏ vẻ hài lòng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Anh bạn lợn",
+   "layout": "Chú {BABIRUSA} gật gù hiểu ý, hai tai vẫy vẫy vui mừng chuẩn bị rời ghế nha khoa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene08",
+   "at": "Hồ sơ Khoa",
+   "layout": "{DOCTOR} cất chiếc panh nha khoa, chạy vội ra hành lang xem chuyện gì đang xảy ra tiếp theo.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": 0,
+   "layout": "{DOCTOR} đang ngồi ghi chép bệnh án tại quầy trực thì giật mình đánh rơi chiếc bút bi, tiếng kêu la hoảng hốt vọng lại từ sảnh chờ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Tôi giật bắn",
+   "layout": "{DOCTOR} mở tung cửa phòng nha khoa, sải bước dài hướng về phía sảnh phòng chờ đang ồn ào như ong vỡ tổ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Ái da da!",
+   "layout": "{NURSE} một tay ôm một bên chân đang co lên nhảy lò cò, dưới đế dép cao su cắm chi chít năm sáu chiếc gai nhọn trắng đen; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Cô y tá",
+   "layout": "Cận cảnh chiếc dép y tế màu xanh bằng cao su xốp bị đâm thủng bởi những chiếc gai nhọn có hai màu đen trắng đan xen; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Thủ phạm của",
+   "layout": "{PORCUPINE} béo ú tròn xoe như quả bóng gai, vẻ mặt ngây thơ vô tội đang gặm dở một khúc gỗ mục của chiếc ghế băng bệnh viện; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Chú nhím vừa",
+   "layout": "Những chiếc gai nhọn cắm thẳng đứng trên sàn nhà như những chiếc đinh ba mini, phản chiếu ánh sáng đèn tuýp lấp lánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Các bệnh nhân",
+   "layout": "Chú khỉ đột ngồi co ro trên lưng ghế sắt, hai mắt tròn xoe nhìn bãi gai nhọn dưới sàn vẻ đầy kiêng dè; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Đứng yên! Tất",
+   "layout": "{DOCTOR} cầm chiếc đèn pin y tế bật sáng quét dọc sàn nhà, ánh sáng rọi lên hàng chục chiếc gai nhọn cắm lởm chởm trên sàn gạch men như một bãi mìn chông; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Tôi lập tức",
+   "layout": "Luồng ánh sáng trắng của đèn pin quét qua mặt sàn gạch, làm lộ rõ hàng trăm chiếc gai nhọn cắm chi chít khắp lối đi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Mọi người nghe",
+   "layout": "{DOCTOR} nghiêm giọng cảnh báo, dùng một chiếc kẹp y tế chuyên dụng gắp nhẹ một chiếc gai nhọn lên đưa vào dưới ánh đèn soi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nhiều người xem",
+   "layout": "Hình ảnh biếm họa chú nhím bắn gai vèo vèo bị gạch một dấu chéo đỏ to tướng biểu thị tin đồn sai lệch; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Điều đó hoàn",
+   "layout": "Chú nhím cuộn tròn thành quả cầu gai xù xì, các cơ dưới da chỉ có tác dụng dựng đứng các sợi gai lên dựng ngược; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nhưng cơ chế",
+   "layout": "Cận cảnh gốc nang lông của nhím gắn hờ hững vào lớp da, chỉ cần một va chạm nhẹ là gốc gai lập tức tách rời khỏi cơ thể con nhím; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Trước khi rụng",
+   "layout": "Chú nhím nghiến răng ken két, hai má phập phồng đe dọa trước khi vung chiếc đuôi ngắn cắm đầy gai; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Cú quất đuôi",
+   "layout": "Đồ họa chuyển động chậm mô phỏng chiếc đuôi nhím quất ngang với gia tốc cực lớn cắm gai vào mục tiêu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Gốc nang lông",
+   "layout": "Hình vẽ giải phẫu gốc nang lông hình củ hành siêu nhỏ gắn hờ hững vào biểu bì da của chú nhím lông nhọn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Toàn bộ cơ",
+   "layout": "{BOARD} bật sáng con số 30.000 chiếc gai rực rỡ bên cạnh hình ảnh đồ họa chiếc lông nhím; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Mỗi chiếc gai",
+   "layout": "Bản vẽ cắt ngang sợi lông nhím hiển thị cấu trúc tổ ong xốp bên trong giúp tăng độ cứng và giảm trọng lượng tối đa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nhờ cấu trúc rỗng",
+   "layout": "Chú nhím bơi lội ung dung trên mặt nước sông, toàn bộ cơ thể nổi bồng bềnh nhờ lớp gai rỗng xốp nâng đỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Khi gặp lũ",
+   "layout": "Hình ảnh chú nhím thản nhiên bơi qua dòng suối cuồn cuộn giữa rừng già Bắc Mỹ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Và đây là",
+   "layout": "Kính hiển vi điện tử phóng đại chóp nhọn của chiếc gai nhím lên hàng nghìn lần, làm lộ ra một cấu trúc cơ học đáng sợ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Ở phần đầu",
+   "layout": "Hàng trăm chiếc vảy ngạnh ngược sắc lẹm nhô ra hướng về phía sau như những chiếc lưỡi câu mini đan kết dày đặc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Những chiếc vi",
+   "layout": "Kính hiển vi điện tử quét màu hiển thị các lưỡi ngạnh ngược bằng chất sừng keratin cứng cáp như mũi kim thép; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nghiên cứu của",
+   "layout": "{DOCTOR} giơ bản đồ thị lực kéo và lực đâm của lông nhím lên trước mặt toàn thể y bác sĩ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Khi đâm vào",
+   "layout": "Mũi tên đồ họa màu xanh mô phỏng chiếc gai xuyên ngọt ngào qua lớp da với lực cản cực thấp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nhờ đó, chiếc",
+   "layout": "Hình ảnh chiếc gai nhọn đâm xuyên qua lớp lông dày của một chú sói rừng đang cố tấn công con nhím; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nhưng một khi",
+   "layout": "Khi có lực kéo ngược ra ngoài, hàng trăm chiếc vảy ngạnh lập tức móc chặt vào các sợi cơ thịt xung quanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Lực cần thiết",
+   "layout": "Đồ thị lực kéo nhảy vọt lên đỉnh đỏ rực, mô phỏng cảm giác đau đớn khi cố tình giật chiếc gai ra bằng tay không; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Chất keratin ở",
+   "layout": "Kính hiển vi điện tử quét hiển thị các phiến ngạnh ngậm nước nở to khóa chặt lấy các thớ cơ thịt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Thậm chí, nếu",
+   "layout": "Sơ đồ y học minh họa chiếc gai nhím tự trườn sâu vào mô mỡ theo nhịp co bóp của cơ bắp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Đã từng có",
+   "layout": "Bản vẽ hộp sọ của loài dã thú săn mồi với những chiếc gai nhím đâm sâu vào các hốc mô mềm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Nên cô y",
+   "layout": "{DOCTOR} quỳ một chân xuống, thao tác khéo léo dùng kìm kẹp từng chiếc gai cắm trên đế dép và gấu quần của y tá gắp ra an toàn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Thao tác xoay",
+   "layout": "Mô hình 3D minh họa động tác xoay kẹp y tế làm gập các vảy ngạnh ngược giúp rút gai ra êm ái; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Tách! Chiếc gai",
+   "layout": "{NURSE} xoa xoa gấu quần thở phào, các bệnh nhân xung quanh vỗ tay hoan hô tài nghệ của Bác Sĩ Trưởng Khoa.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Được rồi anh",
+   "layout": "{DOCTOR} dùng một chiếc chổi y tế gom các sợi gai rụng trên sàn, vỗ nhẹ vào chiếc mõm tròn của chú {PORCUPINE} đang chớp mắt ngây thơ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Tôi yêu cầu",
+   "layout": "Chú {PORCUPINE} ngoan ngoãn đi theo vạch sơn vàng trên sàn nhà, hai mắt chớp chớp vẻ hối lỗi ngộ nghĩnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Bốn chiếc bàn",
+   "layout": "Chú nhím bước từng bước chậm rãi trên thảm trải cách ly, các y bác sĩ khẽ mỉm cười trước dáng đi vụng về đáng yêu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene09",
+   "at": "Ca trực đêm",
+   "layout": "{DOCTOR} cất chiếc kìm vào túi áo, hướng thẳng bước chân về phía phòng khám tuần hoàn áp lực cao ở cuối hành lang.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": 0,
+   "layout": "{DOCTOR} cùng {NURSE} bước nhanh vào phòng khám có trang bị hệ thống máy đo huyết áp áp lực cao, kim đồng hồ đo áp lực nhảy vọt lên vạch đỏ chót; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Bệnh nhân số",
+   "layout": "Toàn cảnh {GIRAFFE} cao năm mét với bộ lông hoa văn màu hạt dẻ tuyệt đẹp, chiếc cổ dài cong cong gục đầu tựa vào khung cửa sổ kính phòng khám; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Chỉ số huyết",
+   "layout": "{BOARD} bật sáng chỉ số huyết áp 280/180 mmHg nhấp nháy đỏ rực kèm theo tiếng còi cảnh báo cấp cứu khẩn cấp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Mức huyết áp",
+   "layout": "Màn hình điện tâm đồ hiển thị các đường sóng áp lực cao vút như những đỉnh núi nhọn hoắt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Ở một người",
+   "layout": "Sơ đồ y học hiển thị nguy cơ vỡ phình mạch máu não ở người khi huyết áp vượt ngưỡng hai trăm mi-li-mét thủy ngân; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Thế nhưng quý",
+   "layout": "{DOCTOR} ngước nhìn lên đỉnh đầu chú hươu cao cổ cách mặt đất hơn ba mét, đưa ống nghe chuyên dụng lên kiểm tra nhịp đập động mạch cảnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Nhịp tim của",
+   "layout": "Cận cảnh chiếc cổ thon dài của hươu cao cổ với các mạch máu lớn phập phồng nhịp nhàng dưới lớp da lông ngắn mịn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Bác sĩ ơi,",
+   "layout": "{NURSE} cầm chiếc ống tiêm thuốc hạ áp khẩn cấp run run ngước nhìn bác sĩ trưởng khoa xin chỉ thị; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Em có nên",
+   "layout": "{NURSE} băn khoăn giơ lọ thuốc hạ áp ra trước mặt bác sĩ với vẻ mặt đầy lo lắng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Bác sĩ trưởng",
+   "layout": "{NURSE} ôm chiếc máy đo huyết áp, ánh mắt tròn xoe nhìn chiếc cổ dài miên man của chú hươu cao cổ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Nhìn chiếc cổ",
+   "layout": "{NURSE} giơ hai tay miêu tả độ cao chót vót của đầu hươu cao cổ so với mặt đất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Và còn một",
+   "layout": "{NURSE} chỉ vào sơ đồ giải phẫu thần kinh cổ hươu cao cổ với đường chạy ngoằn ngoèo bất thường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Tuyệt đối cấm",
+   "layout": "{DOCTOR} nghiêm giọng ra lệnh, nhẹ nhàng gạt ống tiêm thuốc hạ áp sang một bên.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Đây là mức",
+   "layout": "{DOCTOR} dùng phấn vẽ lên bảng sơ đồ cột áp thủy tĩnh của cột máu cao hai mét từ tim lên não hươu cao cổ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Hãy làm một",
+   "layout": "Sơ đồ vật lý cơ học hiển thị cột chất lỏng cao hai mét cần một áp suất bơm tối thiểu một trăm mi-li-mét thủy ngân chỉ để thắng trọng lực Trái Đất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Trái tim của",
+   "layout": "Hình ảnh giải phẫu vị trí trái tim khổng lồ trong lồng ngực hươu cao cổ nối với bộ não trên cao bằng động mạch cảnh dài hai mét; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Để bơm được",
+   "layout": "Đồ họa dòng máu đỏ tươi được bơm vọt lên cao qua động mạch cảnh như một chiếc máy bơm nước tăng áp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Nếu huyết áp",
+   "layout": "Đồ họa minh họa não bộ hươu cao cổ bị thiếu máu trắng bệch nếu áp lực bơm tim không đủ mạnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Để thực hiện",
+   "layout": "{BOARD} hiển thị con số 11 kg cùng hình ảnh quả tim khổng lồ đập thình thịch với sức mạnh phi thường; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Thành tâm thất",
+   "layout": "Bản chụp cắt lớp tim hươu cao cổ cho thấy lớp cơ tim tâm thất trái dày cộp đặc quánh chịu được áp lực cực đại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Thế nhưng câu",
+   "layout": "Hình ảnh mô phỏng hươu cao cổ dạng hai chân trước cúi đầu xuống mặt nước suối uống nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Bởi vì khi",
+   "layout": "Mũi tên đỏ đồ họa hiển thị áp lực thủy tĩnh tăng vọt dồn về phía hộp sọ khi đầu hạ thấp xuống mặt đất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Và khi đứng",
+   "layout": "Đồ thị áp suất nhấp nháy chuyển màu xanh dương biểu thị nguy cơ tụt huyết áp tư thế khi đầu ngẩng cao; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Câu trả lời",
+   "layout": "Sơ đồ giải phẫu đáy sọ hươu cao cổ hiển thị một búi mạch máu dày đặc đan xen chằng chịt như mạng nhện phát sáng vàng rực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Ngay trước khi",
+   "layout": "Búi mạch máu Rete mirabile hoạt động như một hồ chứa đệm hấp thu và phân tán toàn bộ xung lực áp suất dư thừa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Mạng lưới này",
+   "layout": "Đồ họa mô phỏng dòng máu áp lực cao bị phân tán chậm rãi qua mạng lưới vi mạch, áp suất tại mô não được duy trì ổn định tuyệt đối; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Đồng thời, trong",
+   "layout": "Cận cảnh các van tĩnh mạch một chiều hình bán nguyệt đóng chặt lại ngăn chặn dòng máu trào ngược; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Và ở phần",
+   "layout": "Đồ họa so sánh lớp da chân căng cứng của hươu cao cổ với bộ đồ bay kháng áp G-suit của phi công tiêm kích; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Nhờ lớp da",
+   "layout": "Chú hươu cao cổ sải những bước chân thanh thoát và vững chãi trên mặt đất mà không hề bị sưng phù mắt cá chân; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Cơ quan Hàng",
+   "layout": "Bản thiết kế bộ đồ phi hành gia của NASA đặt cạnh sơ đồ cấu trúc da chân hươu cao cổ phát sáng công nghệ cao; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Và về câu",
+   "layout": "{DOCTOR} mỉm cười giải thích, vẽ sơ đồ tiến hóa cung động mạch mang cá biến đổi thành quai động mạch chủ ở động vật có vú.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Khi cổ của",
+   "layout": "Sơ đồ chuyển động đồ họa hiển thị dây thần kinh chạy từ não xuống tận tim rồi vòng ngược lên thanh quản ở cổ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Hơn nữa, vì",
+   "layout": "Chú hươu cao cổ đứng tựa đầu vào thân cây chợp mắt năm phút giữa bóng đêm thảo nguyên tĩnh mịch; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Những giấc ngủ",
+   "layout": "Biểu đồ theo dõi sóng não giấc ngủ của hươu cao cổ với các chu kỳ ngủ nông ngắn ngủi luân phiên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Chẩn đoán Khoa",
+   "layout": "{DOCTOR} mỉm cười gật đầu tán thưởng, xoa nhẹ chiếc cằm dài của quý cô hươu cao cổ đang chớp đôi mắt to tròn có hàng mi rợp bóng.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Đơn thuốc cho",
+   "layout": "{DOCTOR} treo bó lá keo xanh mướt lên móc cao, chú {GIRAFFE} thích thú vươn chiếc lưỡi dài màu xanh đen dài bốn mươi phân cuốn lấy nhai ngon lành.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Chiếc lưỡi dài",
+   "layout": "Cận cảnh chiếc lưỡi dài dẻo dai của hươu cao cổ cuốn chặt cành lá keo mà không hề bị gai nhọn đâm thủng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene10",
+   "at": "Bốn giờ sáng!",
+   "layout": "{DOCTOR} cất chiếc ống nghe cao áp, cùng y tá rảo bước sang phòng khám da liễu bên cạnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": 0,
+   "layout": "{PORCUPINE} lặc lè bước vào phòng khám da liễu có kệ tủ chứa đầy các lọ cồn sát trùng và ống nghiệm hóa học, {DOCTOR} đang cầm một chiếc kính lúp soi nổi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Tôi nhìn chú",
+   "layout": "{PORCUPINE} ngồi bệt xuống đất, ngửa mặt lên nhìn trần nhà rồi gãi đầu bằng chiếc chân sau ngắn cũn cỡn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Các đồng nghiệp",
+   "layout": "{DOCTOR} mỉm cười đặt câu hỏi, đưa tay chỉ vào bộ lông gai dựng đứng lởm chởm trên lưng bệnh nhân.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Trong khi cả",
+   "layout": "Cảnh một chú nhím đang bám vào cành cây thông cao mười mét gặm vỏ cây, bỗng nhiên cành cây gãy đánh rắc một cái; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Nhím lông nhọn Bắc Mỹ là một",
+   "layout": "Chú nhím dùng các móng vuốt cong khỏe khoắn bám vào thân cây thông phủ đầy tuyết trắng giữa mùa đông; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Thế nhưng thân",
+   "layout": "Cận cảnh bốn chiếc chân ngắn và chiếc bụng tròn xoe của chú nhím lắc lư chênh vênh trên cành cây khẳng khiu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Khi mải mê",
+   "layout": "Chú nhím rơi từ trên cành cây cao xuống đất rậm rạp bụi cây gai, lăn lông lốc mấy vòng dưới thảm cỏ rừng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Cú va chạm",
+   "layout": "Hình ảnh những đoạn gai nhọn bị gãy đôi cắm lộn xộn quanh vùng hông của con nhím sau cú ngã đau đớn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Và khi rơi",
+   "layout": "Hình ảnh mô phỏng một vài chiếc gai nhọn cắm xuyên qua lớp da dày ở đùi và bụng của chính chú nhím sau cú ngã đau điếng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Hàng chục chiếc",
+   "layout": "Các mảnh gai nhọn cắm sâu vào lớp da thịt của chú nhím sau cú va đập mạnh với mặt đất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Các bạn hãy",
+   "layout": "Kính hiển vi quang học phóng đại vi ngạnh ngược của gai nhím đang găm chặt vào mô cơ liên kết; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Nếu là một",
+   "layout": "Hình ảnh vết thương nhiễm trùng mưng mủ trên mõm một chú chó sói sau khi bị nhím quẫy đuôi trúng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Vậy tại sao",
+   "layout": "{DOCTOR} dùng kẹp y tế gắp một sợi lông gai nhím đưa vào ống nghiệm chứa dung dịch hóa chất trong suốt để làm phản ứng phân tích.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Thậm chí các",
+   "layout": "Vết đâm trên đùi chú nhím khô miệng nhanh chóng, các tế bào biểu bì mới mọc lên bao bọc an toàn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Công trình nghiên",
+   "layout": "Bảng phân tích sắc ký chất béo hiển thị các đỉnh phổ phân tử của các axit béo tự do mạch tự nhiên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Toàn bộ bề",
+   "layout": "Kính hiển vi quang học soi lớp màng mỡ mỏng màu vàng óng ánh bao bọc quanh thân sợi gai nhím; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Các axit béo này",
+   "layout": "Mô hình phân tử hóa học của các chuỗi axit béo tự do phát sáng lấp lánh bao bọc quanh cấu trúc chitin của sợi lông; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Chúng có khả",
+   "layout": "Đồ họa vi sinh vật hiển thị các tế bào vi khuẩn tụ cầu vàng bị lớp axit béo trên gai nhím phá hủy màng tế bào vỡ vụn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Đây thực chất",
+   "layout": "Hình ảnh minh họa sợi gai nhím được nhúng vào một lớp sáp kháng khuẩn tự nhiên trước khi mọc ra ngoài lớp da; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Mỗi khi con",
+   "layout": "Vết đâm trên da nhím không hề bị sưng tấy mưng mủ, các tế bào biểu bì mau chóng phục hồi và lành lặn thần tốc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Nó hoạt động",
+   "layout": "{PORCUPINE} thản nhiên rũ lông một cái đánh xào xạc, không hề tỏ ra đau đớn hay khó chịu trước vết gai cũ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Lớp sáp mỡ",
+   "layout": "Sơ đồ giải phẫu tuyến bã nhờn nang lông nhím tiết dịch mỡ kháng sinh bao bọc thân sợi gai; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Chưa hết đâu",
+   "layout": "Luồng phân tử mùi hương màu tím nhạt tỏa ra từ các sợi gai dựng đứng cảnh báo các loài thú ăn thịt xung quanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Đó là lời",
+   "layout": "{DOCTOR} nháy mắt mỉm cười nhìn chú {PORCUPINE} đang tò mò ngửi chiếc ống nghe trên bàn khám.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Tôi đã lấy",
+   "layout": "{DOCTOR} giơ chiếc đĩa petri thí nghiệm trong suốt lên dưới ánh đèn soi kiểm tra độ tinh sạch của mẫu cấy.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Và kết quả",
+   "layout": "Đĩa thạch trong veo không hề có một vết vẩn đục hay khuẩn lạc nào phát triển chứng minh hoạt tính kháng sinh tuyệt hảo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Vòng vô khuẩn",
+   "layout": "Thước đo y tế đo đường kính vòng vô khuẩn trong suốt quanh sợi gai nhím vượt trội so với đĩa giấy thấm penicillin; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Các nhà nghiên",
+   "layout": "Đĩa thạch thí nghiệm vi nấm bị màng axit béo tự nhiên từ gai nhím tiêu diệt hoàn toàn không thể phát triển; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Và kết quả thật",
+   "layout": "Biểu đồ tỷ lệ ức chế vi nấm chạm mốc chín mươi chín phần trăm phát sáng màu xanh lá cây hy vọng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Điều này lý",
+   "layout": "Chú nhím lông nhọn thong dong đi qua thảm rêu ẩm ướt đầy nấm mốc trong rừng già mà không hề bị tổn thương da; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Nó sở hữu",
+   "layout": "Hình ảnh mô phỏng cấu trúc vi sinh vật có lợi trên bề mặt da nhím bảo vệ nang lông khỏi mọi tác nhân gây hại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Lớp sáp kháng",
+   "layout": "Giọt nước mưa trượt tròn lăn khỏi bề mặt sợi gai nhím mà không làm phai mờ lớp màng kháng sinh bao phủ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Thật là một",
+   "layout": "{DOCTOR} gật gù khen ngợi, cất chiếc đĩa thạch vào tủ ủ ấm vi sinh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Chẩn đoán Khoa",
+   "layout": "{DOCTOR} gật đầu hài lòng, xoa nhẹ cái mũi ươn ướt của chú nhím và ký tên vào hồ sơ bệnh án số tám.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Cho phép xuất",
+   "layout": "{DOCTOR} trao chiếc túi đựng vài củ cà rốt tươi ngon cho chú nhím làm quà xuất viện, chú nhím ôm chặt củ cà rốt mừng rỡ lon ton bước ra ngoài.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Anh bạn nhím",
+   "layout": "Chú {PORCUPINE} ôm chặt củ cà rốt gật gù đắc ý, lon ton đi theo lối hành lang riêng biệt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene11",
+   "at": "Giờ thì chuyển",
+   "layout": "{DOCTOR} cởi chiếc áo găng tay da liễu, bước thẳng về phía cửa phòng khám tâm thần nơi chú cò mỏ giày đang đợi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": 0,
+   "layout": "Căn phòng khám có ánh sáng mờ ảo, {SHOEBILL} đứng sừng sững giữa phòng như một bức tượng điêu khắc bằng đá hoa cương xám, {DOCTOR} ngồi đối diện trên chiếc ghế xoay.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Bên ngoài cửa",
+   "layout": "Chiếc đồng hồ treo tường tròn xoe bằng đồng thau nhảy từng giây một, bóng kim đồng hồ in dài trên bức tường xám; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Bệnh nhân số",
+   "layout": "Toàn cảnh chú {SHOEBILL} cao một mét hai, sải cánh dài hơn hai mét rưỡi, bộ lông màu xám tro cổ kính như một con khủng long bay bước ra từ kỷ Phấn Trắng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Từ lúc nhập",
+   "layout": "Cận cảnh đôi chân dài khẳng khiu với những chiếc ngón chân xòe rộng bám chặt xuống sàn gạch men không hề lay chuyển một mi-li-mét; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Hai mắt màu",
+   "layout": "Cận cảnh đôi mắt lạnh lùng không chút cảm xúc của cò mỏ giày, chiếc mỏ guốc khổng lồ dài hai mươi tư xăng-ti-mét chúc xuống đầy uy nghi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Chiếc mỏ guốc",
+   "layout": "Gương mặt vuông vức bằng chất sừng cứng ngắc của chú cò mỏ giày, đầu có một túm lông tơ dựng ngược ngộ nghĩnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Bác sĩ trưởng",
+   "layout": "{NURSE} rón rén bước vào phòng, tay ôm tập hồ sơ nép sát vào lưng bác sĩ thì thầm lo sợ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Có phải con",
+   "layout": "{NURSE} ngước nhìn đôi mắt màu vàng nhạt bất động của con chim, hai tay xoa xoa bắp tay vì ớn lạnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Nó cứ nhìn",
+   "layout": "{NURSE} run rẩy giơ chiếc đèn soi phản xạ đồng tử ra trước mắt con chim nhưng đồng tử của nó không hề co giãn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Và chân cẳng",
+   "layout": "{NURSE} chỉ ngón tay run rẩy vào đôi chân dài dính đầy vệt trắng kỳ lạ của chú chim; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Không hề có",
+   "layout": "{DOCTOR} đứng dậy bước chậm rãi quanh chú chim, quan sát kỹ từng đường nét giải phẫu trên chiếc đầu to lớn khác thường.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Đây chính là",
+   "layout": "Sơ đồ thần kinh trung ương của cò mỏ giày hiển thị các vùng kiểm soát phản xạ ức chế vận động hoạt động ở mức tối ưu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Vệt trắng trên",
+   "layout": "Đồ họa sinh lý học hiển thị nước bay hơi từ bề mặt chân chim giúp hạ nhiệt độ dòng máu tuần hoàn khi trời nóng bức; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Nước bay hơi",
+   "layout": "Chú cò mỏ giày đứng giữa đầm lầy nắng gắt, làn gió thổi qua làm mát đôi chân dài khẳng khiu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Và khi tôi",
+   "layout": "Đột nhiên {SHOEBILL} ngửa cổ lên trời rồi đập liên hồi hai hàm mỏ vào nhau với tốc độ chóng mặt, tạo nên một chuỗi âm thanh đanh thép rền vang khắp phòng khám!",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Tiếng va đập",
+   "layout": "Sóng âm thanh cực mạnh phát ra từ chiếc mỏ làm rung chuyển cửa kính phòng khám, các y tá giật bắn người bịt chặt hai tai; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Chuỗi âm thanh",
+   "layout": "Các dụng cụ y tế trên khay inox nảy nhẹ lên theo từng nhịp gõ mỏ vang dội của chú chim; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Đó chính là",
+   "layout": "{DOCTOR} bình tĩnh giơ chiếc máy đo độ ồn decibel lên đo cường độ âm thanh của tràng gõ mỏ vừa dứt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Nghiên cứu của",
+   "layout": "Máy đo âm thanh kỹ thuật số hiển thị các đỉnh sóng âm thanh hình gai nhọn chạm ngưỡng cảnh báo độ ồn cực đại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Cường độ âm",
+   "layout": "{BOARD} bật sáng con số 115 dB cùng biểu tượng khẩu súng máy phát ra sóng âm thanh nhấp nháy đỏ rực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Tiếng gõ mỏ",
+   "layout": "Cảnh đầm lầy châu Phi mênh mông lúc rạng đông, tiếng gõ mỏ vang rền làm bầy linh dương và chim nước bay toán loạn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Chiếc mỏ khổng",
+   "layout": "Hình ảnh phóng to chóp mỏ của cò mỏ giày với chiếc móc cong nhọn hoắt có thể chém đứt đôi một con cá phổi dài một mét; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Khi kẹp chặt",
+   "layout": "Bản vẽ cơ hàm của cò mỏ giày với các bó cơ nhai khổng lồ gắn vào gờ xương hộp sọ tạo lực kẹp nghiền nát con mồi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Đôi mắt của",
+   "layout": "Cận cảnh đôi mắt chim với màng chớp trong suốt đóng mở thần tốc bảo vệ mắt khỏi bùn đất và răng cá sắc nhọn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Bàn chân khổng",
+   "layout": "Cận cảnh bàn chân bốn ngón xòe rộng của cò mỏ giày đạp vững chãi trên lớp thảm thực vật nổi giữa đầm lầy; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Nhưng phía sau",
+   "layout": "{DOCTOR} trầm giọng, ánh mắt thoáng buồn khi lật giở trang tài liệu sinh thái học của loài chim này.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Nghiên cứu thực",
+   "layout": "Hình ảnh tư liệu trắng đen về chiếc tổ chim khổng lồ nằm cô độc giữa đầm lầy Bangweulu hoang vắng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Cò mỏ giày mẹ",
+   "layout": "Chiếc tổ chim khổng lồ bằng cỏ khô nổi giữa đầm lầy, bên trong có hai chú chim non lông tơ màu xám vừa nở; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Thế nhưng nguồn",
+   "layout": "Chim bố mẹ bay về tổ ngậm một con cá nhỏ, hai chú chim non há mỏ tranh giành thức ăn quyết liệt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Con non đầu",
+   "layout": "Con non đầu lòng to lớn hơn liên tục mổ và xua đuổi đứa em nhỏ yếu ớt ra khỏi tổ cho tới khi con thứ chết đói trong sự bất lực của chim mẹ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Đó là sự",
+   "layout": "Cảnh chim non đầu lòng giương đôi cánh xám đứng kiêu hãnh trên tổ dưới ánh hoàng hôn đầm lầy; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Mặc dù sở",
+   "layout": "Chú cò mỏ giày dang rộng đôi cánh dài hai mét rưỡi bay là là trên mặt nước đầm lầy phủ đầy hoa súng tím; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Do trọng lượng",
+   "layout": "Con chim sải chân chạy đà trên thảm cỏ nước, đập cánh mạnh mẽ tạo nên những luồng gió rẽ sóng nước xung quanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Nó chỉ bay",
+   "layout": "Cảnh cò mỏ giày bay là là trên những ngọn cây cói lau sậy, đôi cánh đập chậm rãi nhưng đầy uy lực; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Mỗi khi thời",
+   "layout": "Chú cò mỏ giày dùng chiếc mỏ guốc múc nước suối tưới nhẹ nhàng lên chiếc tổ có hai quả trứng trắng ngà giữa đầm lầy; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Bệnh nhân Cò",
+   "layout": "{DOCTOR} khẽ cúi đầu chào theo nghi thức cúi chào bill-bobbing của loài chim này, chú {SHOEBILL} cũng từ từ gật đầu đáp lễ một cách lịch thiệp lạ kỳ.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Chẩn đoán của",
+   "layout": "{DOCTOR} ký tên đóng dấu xuất viện vào hồ sơ bệnh án số chín, khẽ mỉm cười nhìn chú chim cúi đầu chào từ biệt.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Toàn bộ 10",
+   "layout": "Mười tập hồ sơ bệnh án dày cộp được xếp ngay ngắn trong chiếc cặp da màu nâu của Bác Sĩ Trưởng Khoa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Chúng ta đã",
+   "layout": "{DOCTOR} siết chặt khóa chiếc cặp da y tế, ánh mắt rạng ngời niềm hãnh diện của người thầy thuốc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene12",
+   "at": "Đồng hồ điểm",
+   "layout": "{DOCTOR} tháo ống nghe, cùng y tá sải bước về phía hội trường trung tâm của bệnh viện.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": 0,
+   "layout": "Toàn cảnh phòng họp giao ban lớn của bệnh viện với bàn hội nghị bằng gỗ gụ hình bầu dục dài mười mét, các giáo sư và bác sĩ nội trú ngồi kín các dãy ghế; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Toàn thể hội",
+   "layout": "{DOCTOR} đứng ở đầu bàn hội nghị trong chiếc áo blouse trắng tinh tươm, hai tay chống lên mặt bàn gỗ, ánh mắt rạng ngời niềm tự hào nghề nghiệp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Tôi trịnh trọng",
+   "layout": "Mười tập hồ sơ bệnh án bìa cứng dập nổi dấu mộc đỏ ĐÃ XỬ LÝ XUẤT SẮC xếp thẳng hàng trên bàn hội nghị; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Thưa toàn thể",
+   "layout": "{DOCTOR} cất giọng vang ấm đĩnh đạc, nhìn quanh phòng họp nơi các bác sĩ trẻ đang lắng nghe như nuốt từng lời.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Mười bệnh nhân,",
+   "layout": "Màn hình chiếu máy chiếu rọi sáng hình ảnh mười loài vật kỳ dị với các đường nét giải phẫu vàng rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Hãy cùng tôi",
+   "layout": "{DOCTOR} bật máy chiếu slide cổ điển, từng hình ảnh minh họa ngộ nghĩnh hiện lên trên tấm phông trắng lớn.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Anh chàng Khỉ",
+   "layout": "Slide chiếu hình ảnh biếm họa chú khỉ đột cơ bắp lực lưỡng đang ôm cái bụng phình to đầy tự hào bên cạnh biểu đồ calo; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Chú Nhện Lặn",
+   "layout": "Slide chiếu chú nhện lặn chuông bơi lội ung dung bên trong quả cầu khí bạc dưới đáy hồ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Chú Cá Thòi",
+   "layout": "Slide chiếu chú cá thòi lòi giương đôi mắt kính tiềm vọng đứng chống vây hiên ngang trên rễ đước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Cô Ong Bắp",
+   "layout": "Slide chiếu cô ong ngọc bích lấp lánh dắt chú gián đi dạo như dắt cún con; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Chú Cá Mặt",
+   "layout": "Slide chiếu cá mặt trăng tròn dẹt đang nằm phơi nắng trên mặt biển sưởi ấm thân nhiệt; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Chàng Vẹt Kakapo",
+   "layout": "Slide chiếu chú vẹt kakapo lông xanh rêu đang lon ton đi bộ trên thảm rêu New Zealand; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Chú Lợn Hươu",
+   "layout": "Slide chiếu chú lợn babirusa đứng thẳng trên hai chân sau khoe cặp nanh uốn lượn trước ánh bình minh rừng nhiệt đới; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Quý cô Hươu",
+   "layout": "Slide chiếu hệ thống bơm tăng áp thủy lực và mạng lưới mạch Rete mirabile dưới đáy sọ hươu cao cổ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Chú Nhím Lông",
+   "layout": "Slide chiếu sợi lông nhím bọc màng mỡ kháng sinh óng ánh vàng tiêu diệt vi khuẩn; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Và chú Cò",
+   "layout": "Slide chiếu chú cò mỏ giày uy nghi với chiếc mỏ guốc khổng lồ ngửa cổ lên trời gõ mỏ súng máy; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Mỗi một nét",
+   "layout": "{DOCTOR} đập tay nhẹ lên bàn, ánh mắt bừng sáng trước vẻ đẹp trí tuệ vô tận của tự nhiên.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Từ vật liệu",
+   "layout": "Sơ đồ công nghệ phỏng sinh học hiển thị các phát minh y sinh học hiện đại được lấy cảm hứng từ cấu trúc cơ thể của mười sinh vật này; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Các kỹ sư",
+   "layout": "Hình ảnh minh họa bộ đồ phi hành gia thế hệ mới lấy cảm hứng từ cấu trúc da và mạch máu hươu cao cổ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Và các nhà",
+   "layout": "Mô hình 3D vật liệu sợi nano nhân tạo mô phỏng cấu trúc chuông lặn của nhện nước phát sáng lấp lánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Các chuyên gia",
+   "layout": "Hình ảnh lọ thuốc xịt y tế nano kháng khuẩn lấy cảm hứng từ gai nhím bắc mỹ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Còn các kỹ",
+   "layout": "Sơ đồ kẹp phẫu thuật nội soi vi phẫu mô phỏng chuyển động khớp mỏ của loài cò mỏ giày; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Ngành điện toán",
+   "layout": "Đồ họa chip bán dẫn sinh học lấy cảm hứng từ mạng lưới nơ-ron tiết kiệm điện của cá mặt trăng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Và các nhà sinh",
+   "layout": "Chai tinh dầu sinh học tỏa mùi xạ hương hoa cỏ tự nhiên của vẹt kakapo đặt trong phòng thí nghiệm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Hàng triệu 5",
+   "layout": "Bức tranh toàn cảnh cây tiến hóa với các nhánh loài tỏa ra như những vệt pháo hoa rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Không có một",
+   "layout": "Biểu đồ đối chiếu các công trình kiến trúc và cơ khí hiện đại với hình thái sinh học tự nhiên; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Biết đâu trong",
+   "layout": "{DOCTOR} mỉm cười giơ cao tấm huy chương vàng Nobel mô phỏng lấp lánh dưới ánh đèn hội nghị.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Một loại thuốc",
+   "layout": "Mô hình phân tử thuốc chống đột quỵ thế hệ mới lấy cảm hứng từ hệ tuần hoàn hươu cao cổ phát sáng trên màn hình máy chiếu; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Một loại màng",
+   "layout": "Bản vẽ thiết kế màng lọc khí nano đa tầng mô phỏng sợi tơ kỵ nước của nhện lặn chuông; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Hay một loại",
+   "layout": "Hình ảnh phân tử kháng sinh sinh học gắn vào màng tế bào vi khuẩn kháng thuốc tiêu diệt tận gốc mầm bệnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Bài học y",
+   "layout": "{DOCTOR} bước lại gần cửa sổ lớn hội trường, nơi ánh nắng bình minh đầu tiên đang rọi những vệt sáng vàng óng ả qua khung kính.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Trong y học",
+   "layout": "Toàn cảnh hội trường giao ban im phăng phắc, các bác sĩ trẻ xúc động lắng nghe từng lời tâm huyết của người thầy thuốc tiền bối.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Khi một cánh",
+   "layout": "Bức tranh nghệ thuật cách điệu biểu tượng cây sự sống vươn cành lá tỏa bóng che chở cho muôn loài sinh vật kỳ thú; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Chúng ta không",
+   "layout": "{DOCTOR} đặt tay lên ngực áo, ánh mắt tràn đầy tình yêu thương và sự kính trọng đối với muôn loài muôn thú.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Tôi xin tuyên",
+   "layout": "Toàn thể hội trường đứng bật dậy vỗ tay vang dội, tiếng reo hò chúc mừng rộn rã khắp các dãy bàn hội nghị; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene13",
+   "at": "Chuẩn bị ký",
+   "layout": "{DOCTOR} mỉm cười rạng rỡ, cùng toàn thể kíp trực bước ra sảnh lớn để đón ánh nắng sớm mai.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": 0,
+   "layout": "Khung cảnh sân bệnh viện buổi sáng sớm trong lành, chim hót líu lo trên cành cây, những vạt nắng vàng tươi chiếu rọi lên các bậc thềm đá hoa cương; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Không khí buổi",
+   "layout": "{DOCTOR} tháo chiếc khẩu trang y tế, hít một hơi thật sâu làn gió mát lành thổi vào qua khung cửa sổ lớn sảnh đón tiếp.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Cửa sảnh lớn",
+   "layout": "{DOCTOR} trong chiếc áo blouse trắng tinh tươm cùng {NURSE} đứng ở bậc thềm sảnh lớn, trên tay cầm mười tấm giấy chứng nhận xuất viện danh dự.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Mười bệnh nhân",
+   "layout": "Toàn cảnh {HERO_S} đứng tề tựu đông đủ bên nhau trên sân cỏ xanh mướt của bệnh viện, ánh ban mai chiếu rực rỡ lên từng gương mặt ngộ nghĩnh.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Chú Khỉ Đột",
+   "layout": "{GORILLA} đứng thẳng người, một tay xách giỏ táo, tay kia vẫy chào vui vẻ với nụ cười thân thiện; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Chú Cá Thòi",
+   "layout": "{MUDSKIPPER} nhảy một cú ngoạn mục lên mép bồn xe nước cứu hộ, vẫy vây ngực chào tạm biệt mọi người; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Cô Ong Bắp",
+   "layout": "{WASP} chao lượn trên nền trời xanh biếc, để lại một vệt sáng lung linh trong không trung; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Chú Cá Mặt",
+   "layout": "{MOLA} nằm trên võng bạt cứu hộ của cần cẩu, đôi mắt to tròn chớp chớp ngơ ngác chào khán giả trước khi xe khởi hành; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Chú Vẹt Kakapo",
+   "layout": "{KAKAPO} đeo chiếc ba-lô mini màu đỏ, đi lạch bạch từng bước vững chãi trên thảm cỏ, thỉnh thoảng quay đầu lại vẫy cánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Chú Lợn Hươu",
+   "layout": "{BABIRUSA} ngẩng cao đầu sải bước dũng mãnh, ánh sáng phản chiếu lấp lánh trên cặp nanh cong hoàn mỹ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Quý cô Hươu",
+   "layout": "{GIRAFFE} bước đi uyển chuyển trong nắng mai, bóng dáng cao lều nghều in dài trên con đường rợp bóng cây; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Chú Cò Mỏ",
+   "layout": "{SHOEBILL} dang rộng đôi cánh khổng lồ màu xám tro, bay lượn uy nghi trên nền trời bình minh rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Và chú Nhím",
+   "layout": "{PORCUPINE} và {SPIDER} trong bể thủy tinh mini được các tình nguyện viên cẩn thận đưa lên xe chuyên dụng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Tôi hít một",
+   "layout": "{DOCTOR} đứng trên bậc thềm nhìn theo đoàn xe khuất dần sau rặng cây xanh, một nụ cười ấm áp nở trên môi.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Ca trực đêm",
+   "layout": "{NURSE} đứng bên cạnh mỉm cười, trao cho bác sĩ một tách cà phê mới thơm lừng nóng hổi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Nhưng bài học",
+   "layout": "Cận cảnh gương mặt đôn hậu và ánh mắt tràn đầy cảm xúc của {DOCTOR} nhìn thẳng vào ống kính máy quay.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Trong thế giới",
+   "layout": "Bức tranh toàn cảnh thiên nhiên bao la với rừng rậm, đại dương, thảo nguyên và bầu trời xanh ngắt nơi muôn loài cùng chung sống hòa hợp; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Hàng triệu 5",
+   "layout": "Hình ảnh biểu tượng Trái Đất xanh tươi quay chầm chậm giữa không gian bao la lấp lánh muôn ngàn vì sao; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Mỗi sinh vật",
+   "layout": "Nốt nhạc ánh sáng phát ra từ hình vẽ các loài vật kết nối thành một bản tổng phổ âm nhạc lấp lánh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Tôi cùng cô",
+   "layout": "{NURSE} cẩn thận xếp các túi thuốc bổ thảo dược đóng gói đẹp mắt trao vào tay các tình nguyện viên bảo tồn thiên nhiên hoang dã; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Chúng tôi dặn",
+   "layout": "{DOCTOR} mỉm cười dặn dò từng bệnh nhân, các con vật đồng loạt gật đầu kêu líu lo ụt ịt như những lời chào cảm ơn chân thành.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Cả 10 bệnh",
+   "layout": "Tiếng hót của vẹt kakapo, tiếng gõ mỏ của cò mỏ giày và tiếng gầm trầm ấm của khỉ đột vang lên rộn rã giữa bình minh rực rỡ; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Một ca trực",
+   "layout": "Toàn cảnh đội ngũ y bác sĩ đứng vẫy tay chào tạm biệt đoàn xe cứu hộ đang lăn bánh qua cổng bệnh viện rợp bóng cây xanh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Tu... tu... tuuuu!",
+   "layout": "Xa xa nơi đường ray xe lửa cổ uốn lượn quanh chân núi, một vệt khói trắng bốc lên cuồn cuộn giữa màn sương sớm bảng lảng; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Tiếng còi tàu hú",
+   "layout": "Cận cảnh đầu máy xe lửa hơi nước khổng lồ màu đen tuyền phong cách Art Deco thập niên 1930 với đèn pha vàng rực chiếu sáng đường ray; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Một vụ án",
+   "layout": "Tấm vé tàu hỏa cổ điển đục lỗ mang dòng chữ HỒ SƠ MẬT MEGA 06: CHUYẾN TÀU TỐC HÀNH XUYÊN ĐÊM hiện lên trên màn hình trước khi khép lại; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Những manh mối",
+   "layout": "Hình ảnh bóng đen của mười sinh vật bí ẩn trên chuyến tàu đêm đang lướt qua khung cửa sổ toa tàu hơi nước; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Ai trong số",
+   "layout": "Hình ảnh chiếc kính lúp thám tử soi vào dấu chân khổng lồ bí ẩn trên sàn toa tàu phủ đầy sương lạnh; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Một hành trình",
+   "layout": "Bức tranh poster giới thiệu MEGA 06 với hình ảnh đầu tàu hỏa hơi nước xuyên qua màn sương đêm ma mị; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Chiếc vali da",
+   "layout": "Cận cảnh chiếc vali da có gắn nhãn niêm phong hồ sơ mật đặt trên bàn gỗ toa tàu hỏa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Ngoài kia, những",
+   "layout": "Những bông tuyết trắng muốt rơi nhẹ nhàng phủ kín mui tàu hỏa hơi nước đang đỗ tại sân ga cổ kính giữa thung lũng tuyết; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Tiếng chuông đồng",
+   "layout": "Bàn tay đeo găng da màu đen mở nắp chiếc đồng hồ quả quýt mạ vàng chạm khắc tinh xảo, kim đồng hồ chỉ đúng nửa đêm; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Một bức mật",
+   "layout": "Bức thư niêm phong sáp đỏ có in hình đầu lâu và dấu chân thú bí ẩn nằm trên bàn gỗ gụ toa tàu hạng nhất; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Liệu vị thám",
+   "layout": "Chiếc bóng cao lớn của vị thám tử mặc áo măng tô dài và đội mũ phớt đứng sừng sững bên cửa sổ toa tàu nhìn vào màn sương tuyết; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Một bầu không",
+   "layout": "Ánh đèn vàng mờ ảo hắt ra từ các ô cửa kính toa tàu hơi nước đang lăn bánh xuyên qua hẻm núi tuyết phủ trắng xóa; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Cảm ơn toàn",
+   "layout": "{DOCTOR} mỉm cười giơ tay vẫy chào tạm biệt khán giả trong khi nền nhạc tươi vui vang lên khép lại tập phim.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Đừng quên bấm",
+   "layout": "Dòng chữ VẼ CHUYỆN HOANG DÃ cùng biểu tượng nút đăng ký phát sáng rực rỡ trên màn hình kết thúc; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  },
+  {
+   "scene": "scene14",
+   "at": "Hãy để lại",
+   "layout": "{DOCTOR} cùng {NURSE} vẫy tay chào với nụ cười rạng rỡ, màn hình mờ dần trong tiếng nhạc vui tươi; {NO_HERO}.",
+   "stickers": [],
+   "impacts": []
+  }
+ ],
+ "shorts": [
+  {
+   "at": 0,
+   "layout": "Còi báo động đỏ chớp nháy liên hồi, {DOCTOR} quàng vội ống nghe lao ra sảnh cấp cứu đón mười cáng bệnh nhân xếp hàng chen chúc.",
+   "stickers": []
+  },
+  {
+   "at": "Anh Khỉ Đột",
+   "layout": "{GORILLA} ôm cái bụng tròn ủng như quả bóng bay rên rỉ, bên cạnh là tấm phim X-quang chụp ổ bụng chứa toàn bọt khí lên men; {NO_HERO}.",
+   "stickers": []
+  },
+  {
+   "at": "Chú Cá Thòi",
+   "layout": "{MUDSKIPPER} dùng hai vây ngực chống nạng nhảy lóc chóc quanh chân bác sĩ rồi leo tót lên mép rèm cửa trố mắt nhìn; {NO_HERO}.",
+   "stickers": []
+  },
+  {
+   "at": "Cô Ong Bắp",
+   "layout": "{WASP} cầm dao vi phẫu thuật bay lượn tự tin, phía dưới là chú gián ngoan ngoãn cúi đầu bước theo sau; {NO_HERO}.",
+   "stickers": []
+  },
+  {
+   "at": "Khối thịt 2",
+   "layout": "{MOLA} khổng lồ nằm ngửa trên cáng cứu thương mắt to tròn ngơ ngác, monitor ECG bên cạnh nhảy số nhịp tim chậm rì; {NO_HERO}.",
+   "stickers": []
+  },
+  {
+   "at": "Vẹt Kakapo béo",
+   "layout": "{KAKAPO} xòe hai cánh ngắn cũn rơi tự do úp nguyên cái bụng mỡ tròn vo xuống đống gối y tế trắng tinh; {NO_HERO}.",
+   "stickers": []
+  },
+  {
+   "at": "Lợn Babirusa với",
+   "layout": "{BABIRUSA} giơ móng vuốt ve hai chiếc nanh hàm trên mọc ngược uốn cong chạm sát xương trán chụp trên phim CT; {NO_HERO}.",
+   "stickers": []
+  },
+  {
+   "at": "Hươu Cao Cổ",
+   "layout": "{GIRAFFE} quấn dải băng đo huyết áp đỏ quanh cổ dài, đồng hồ áp suất nhảy mốc ba trăm mi-li-mét thủy ngân rung bần bật; {NO_HERO}.",
+   "stickers": []
+  },
+  {
+   "at": "Nhím Lông Nhọn",
+   "layout": "{PORCUPINE} xù ba mươi ngàn chiếc gai nhọn trắng đen, một sợi gai phóng to dưới kính hiển vi lộ rõ lớp màng mỡ kháng khuẩn; {NO_HERO}.",
+   "stickers": []
+  },
+  {
+   "at": "Và Cò Mỏ",
+   "layout": "{SHOEBILL} ngửa cổ đập hai hàm mỏ guốc khổng lồ vào nhau phát ra tia lửa và âm thanh súng máy làm y tá giật bắn người; {NO_HERO}.",
+   "stickers": []
+  },
+  {
+   "at": "Bấm ngay vào",
+   "layout": "{DOCTOR} giơ bảng kẹp bệnh án da đen chỉ tay vào liên kết video dài với nụ cười sắc sảo đầy lôi cuốn.",
+   "stickers": []
+  }
+ ]
+}

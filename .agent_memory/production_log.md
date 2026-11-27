@@ -838,3 +838,14 @@
 
 
 
+
+### Video: projects/mega-05-phong-cap-cuu-tao-hoa - "[TẬP ĐẶC BIỆT] Phòng Cấp Cứu Tạo Hóa: Bác Sĩ Khám 10 Sinh Vật Kỳ Lạ Nhất Trái Đất" (2026-11-25 13:05)
+- **Thời lượng:** 3619.6s (60:19) | **Độ phân giải:** 1920x1080 @ 30fps | **Shorts:** 53.4s
+- **Số cảnh / Minh họa:** 14 Chương | 542 Long + 11 Shorts + 14 Banners + 14 Cards (Gemini phong cách Vintage Anatomical Atlas & 1950s Retro Hospital Illustration) | 90 part giọng VoiceStudio (OmniVoice `bac_si_truong_khoa`)
+- **Persona / Thể loại / Art style:** Persona `bac_si_truong_khoa` (Bác sĩ trưởng khoa mỉa mai, yêu nghề), Format F_SPECIAL (Medical Drama Comedy — Phim Y Khoa Hài Châm Biếm theo TASTE-76), Art style: Vintage Anatomical Atlas & 1950s Retro Hospital Illustration (Giải phẫu học cổ điển & Bệnh viện cổ điển 1950s)
+- **QA:** PASS (Long 60:19, -15.2 LUFS, TP -2.0 dBTP, 0s frozen 0%, 0 silences vi phạm; Shorts 53.4s, -15.3 LUFS, TP -2.4 dBTP)
+- **Bài học rút ra:**
+  1. Sản xuất thành công trọn vẹn siêu phẩm tổng hợp Mega 05 theo chuẩn Kiểu A (100% nội dung mới hoàn toàn, TASTE-61 & TASTE-67) quy mô kỷ lục: 14 chương kịch bản dài 73.549 ký tự, 542 minh họa Gemini độc bản, thời lượng 60 phút 19 giây đạt mốc $\ge 60:00$.
+  2. Xử lý chia part VoiceStudio cho kịch bản dài: Với các scene dài có nhiều thẻ `@cast`, bắt buộc phải kẹp thẻ `@ mood` hợp lệ (`hao_hung`, `don_dap`, `tram_bi_an`, `nghiem_trang_gia`, `bi_hai`, `am_ap`) để chia nhỏ part $\le 1200$ ký tự sạch, tránh tình trạng dồn part vượt quá giới hạn tổng hợp giọng.
+  3. Quản lý đồng bộ Whisper và audio part: Khi sửa hoặc chèn part vào kịch bản DSL, cần xóa sạch các file part wav cũ của scene đó trước khi chạy lại TTS để tránh lệch thứ tự ghép file wav; đồng thời xóa file align JSON trung gian để Whisper nhận diện lại đồng bộ.
+  4. Chuẩn hóa thời lượng Shorts: Sử dụng mốc thời gian tuyệt đối `at_s` cho 11 beats trong `shorts_plan.json` khi tên loài có phát âm đặc thù (như Cò Mỏ Giày) để đảm bảo 100% beats $\le 7.0\text{s}$ (chuẩn TASTE-56) với tổng thời lượng 53.4s (chuẩn 45-55s).

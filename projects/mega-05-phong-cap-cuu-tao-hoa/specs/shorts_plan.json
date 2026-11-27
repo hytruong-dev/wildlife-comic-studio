@@ -1,0 +1,84 @@
+{
+  "title_lines": [
+    "PHÒNG CẤP CỨU TẠO HÓA",
+    "10 BỆNH NHÂN DỊ THƯỜNG"
+  ],
+  "beats": [
+    {
+      "at_s": 0.0,
+      "draw_s": 1.0,
+      "image": "assets/shorts/S01.png",
+      "stickers": []
+    },
+    {
+      "at": "Anh Khỉ Đột",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S02.png",
+      "stickers": [],
+      "at_s": 6.57
+    },
+    {
+      "at": "Chú Cá Thòi",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S03.png",
+      "stickers": [],
+      "at_s": 10.59
+    },
+    {
+      "at": "Cô Ong Bắp",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S04.png",
+      "stickers": [],
+      "at_s": 15.55
+    },
+    {
+      "at": "Khối thịt 2",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S05.png",
+      "stickers": [],
+      "at_s": 18.93
+    },
+    {
+      "at": "Vẹt Kakapo béo",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S06.png",
+      "stickers": [],
+      "at_s": 24.05
+    },
+    {
+      "at": "Lợn Babirusa với",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S07.png",
+      "stickers": [],
+      "at_s": 28.47
+    },
+    {
+      "at": "Hươu Cao Cổ",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S08.png",
+      "stickers": [],
+      "at_s": 32.33
+    },
+    {
+      "at": "Nhím Lông Nhọn",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S09.png",
+      "stickers": [],
+      "at_s": 36.92
+    },
+    {
+      "at": "Và Cò Mỏ",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S10.png",
+      "stickers": [],
+      "at_s": 42.52
+    },
+    {
+      "at": "Bấm ngay vào",
+      "draw_s": 1.0,
+      "image": "assets/shorts/S11.png",
+      "stickers": [],
+      "at_s": 47.44
+    }
+  ]
+}
